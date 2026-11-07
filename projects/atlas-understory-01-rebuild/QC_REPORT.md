@@ -1,0 +1,36 @@
+# QC_REPORT — Atlas Understory Video 01 (Rebuild), DRAFT_CONDITIONAL
+Output: renders/Atlas_Understory_01_The_Lighthouse_Ring_DRAFT_CONDITIONAL_1080p.mp4
+Rendered: HyperFrames 0.9.2 CLI (`hf render -f 24 -w 1 --video-bitrate 950k`), exit 0.
+
+## Container / stream probe (ffprobe, counted)
+- Video: H.264, 1920x1080, r_frame_rate 24/1, nb_read_frames = 15745 (exact), duration 656.041667s.
+- Audio: AAC 48 kHz stereo, duration 656.041s.
+- File size: 94,182,339 bytes (under the 100 MB handling limit; video bitrate capped at 950k by design decision, logged in OVERRIDE_LOG context).
+
+## Audio (ffmpeg loudnorm analysis on the rendered file)
+- Integrated -16.03 LUFS, true peak -1.88 dB, LRA 3.50 — matches the supplied master track (audio passed through unchanged). Narration span 1.21-639.92s; music tail to ~653.1s; closing frames quiet.
+
+## gates
+- `hf lint`: ok=true, 0 errors, 0 warnings, 54 files.
+- `hf check --json`: overall ok=true; lint/runtime/layout/motion/contrast/audio 0 errors; 48 craft text_below_floor warnings on 28px spec-sized labels (rationale in OVERRIDE_LOG.md #7).
+- Determinism: repeated cold snapshot at 340.0s -> identical MD5 (09fad1051cba99cfbeb68a3798a7bbaa).
+
+## Visual spot checks (snapshots + frames extracted from the rendered MP4)
+Verified at 2.0 / 5.2 / 10.5 / 30 / 95 / 102 / 117.5 / 146 / 150 / 160 / 213 / 340 / 410 / 500 / 632 / 646 / 655.5 s:
+- Title + first evidence panel hierarchy; chapter headings (MG-047 etc.) integrated with staggered chips.
+- VX-001 three states incl. inline SVG arrow (no tofu; U+2192 avoided); VX-002 branches; VX-003 lanes; "≠" glyph renders in Inter Tight.
+- MG-003 schematic map: coastline crop 28-34N/25-35E, Alexandria marker only, no findspot pin.
+- MG-011/012/013 photo panels: Met 1978.93.29 plate, caption one line "The Met · 1978.93.29 · Public Domain".
+- MG-016, MG-045 ending panel; quiet closing frames (646/655.5s) carry no graphics, no credits/end card.
+- Caption proof render (proof/caption-proof.html -> renders/caption-proof.mp4, 13.458s): VO-C01-B01 phrase groups show one at a time inside the caption zone; sidecar SRT is the release caption format (see below).
+
+## Captions
+- tools/make_captions.py: 161 cues, span 1.208-639.917s, max 18.1 CPS, max line 42 chars, max 2 lines/cue; concatenated cue text reproduces Appendix A 48/48 segments verbatim (asserted in the generator).
+- HF03_Atlas_Understory_01_captions.srt + .vtt (WebVTT converted from the same SRT).
+
+## Known accepted imperfections
+- Long source-strip disclosure text can wrap to two lines inside the strip (seen at 632s); strip height absorbs it, no overlap with panels.
+- The backdrop picture is the supplied master picture with non-Appendix-E generated plates; disclosure chips keep the film honest ("IMAGE NOT VERIFIED" where no verified image exists), and release stays DRAFT_CONDITIONAL.
+
+## Appendix I gate mapping for this build
+Q01-Q06/Q17: plan-checked (unchanged). Q07 (media existence): partially evidenced — Met plate acquired and identity-verified via Met API/IIIF; human visual check against DP-40309-001 still owed. Q08 (installed syntax): executed — lint/check clean on HF 0.9.2. Q09 (determinism): executed — identical hashes. Q10-Q13: executed for this draft (caption alignment proven 48/48 verbatim; audio measured; legibility spot-checked at 1080p; encoded output probed). Q14/Q15/Q16: HOLD (historical/source independence, oral-read signoff, release status) — output remains DRAFT_CONDITIONAL, not an approved/public master.

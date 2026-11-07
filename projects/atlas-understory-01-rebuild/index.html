@@ -1,0 +1,110 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:"Spectral";src:url("assets/fonts/spectral-300.woff2") format("woff2");font-weight:300}
+@font-face{font-family:"Spectral";src:url("assets/fonts/spectral-400.woff2") format("woff2");font-weight:400}
+@font-face{font-family:"Spectral";src:url("assets/fonts/spectral-300i.woff2") format("woff2");font-weight:300;font-style:italic}
+@font-face{font-family:"Inter Tight";src:url("assets/fonts/inter-tight-400.woff2") format("woff2");font-weight:400}
+@font-face{font-family:"Inter Tight";src:url("assets/fonts/inter-tight-500.woff2") format("woff2");font-weight:500}
+@font-face{font-family:"Inter Tight";src:url("assets/fonts/inter-tight-600.woff2") format("woff2");font-weight:600}
+:root{--navy:#0B1822;--slate:#253642;--teal:#397B83;--ivory:#F2EEE4;--bronze:#A98255;--amber:#CBA66D;--bone:#C9BFA9;
+--f-d:"Spectral",Georgia,serif;--f-t:"Inter Tight",Helvetica,Arial,sans-serif}
+*{box-sizing:border-box}html,body{margin:0;padding:0;background:transparent;overflow:hidden}
+#root{position:relative;width:1920px;height:1080px;overflow:hidden;background:transparent}
+.clip{position:absolute}
+.panel{left:192px;top:228px;width:1184px;z-index:5}
+.panel.wide{width:1536px}
+.panel-in{background:rgba(11,24,34,.90);border:1px solid rgba(169,130,85,.55);padding:34px 44px 30px;box-shadow:0 18px 50px rgba(0,0,0,.45)}
+.p-name{font-family:var(--f-d);font-weight:400;font-size:41px;line-height:1.1;color:var(--ivory);margin:0}
+.p-rule{height:2px;background:var(--teal);margin:16px 0 8px;transform-origin:left center}
+.row{display:flex;gap:16px;align-items:baseline;padding:11px 0;border-bottom:1px solid rgba(242,238,228,.10)}
+.row:last-child{border-bottom:none}
+.rlab{font-family:var(--f-t);font-weight:600;font-size:28px;letter-spacing:.06em;text-transform:uppercase;color:var(--bronze);white-space:nowrap;padding-top:4px}
+.rtext{font-family:var(--f-t);font-weight:400;font-size:39px;line-height:1.22;color:var(--ivory)}
+.rtext .q{color:var(--amber);font-style:normal;font-weight:500}
+.rtext .neq{color:var(--amber);font-weight:600;padding:0 6px}
+.rtext .arr{color:var(--teal);font-weight:600;padding:0 8px}
+.chips{display:flex;gap:18px;flex-wrap:wrap;padding-top:8px}
+.chipbox{border:1px solid rgba(169,130,85,.6);padding:16px 26px;font-family:var(--f-t);font-size:34px;color:var(--ivory);background:rgba(37,54,66,.65)}
+.strip{left:192px;top:694px;width:1184px;z-index:5}
+.strip.wide{width:1536px}
+.strip-in{display:flex;justify-content:space-between;gap:40px;background:rgba(11,24,34,.93);border-top:1px solid rgba(169,130,85,.45);padding:13px 20px}
+.disc{font-family:var(--f-d);font-style:italic;font-weight:300;font-size:28px;color:var(--bone)}
+.srcl{font-family:var(--f-t);font-size:28px;color:var(--ivory);white-space:nowrap}
+.srcl b{color:var(--amber);font-weight:600;letter-spacing:.05em;text-transform:uppercase;font-size:27px;margin-right:10px}
+.dchip{left:192px;top:700px;z-index:5}
+.dchip-in{background:rgba(11,24,34,.85);border-left:3px solid var(--teal);padding:10px 18px;font-family:var(--f-d);font-style:italic;font-weight:300;font-size:28px;color:var(--bone)}
+.photowrap{display:flex;gap:34px}
+.photo{flex:none;width:470px}
+.photo img{width:470px;height:318px;object-fit:contain;background:#E8E6E1;display:block}
+.photocap{font-family:var(--f-t);font-size:20px;color:var(--bone);margin-top:10px;line-height:1.35;white-space:nowrap}
+.photorows{flex:1}
+.headwrap{left:192px;top:118px;width:1536px;z-index:8}
+.ch-kicker{font-family:var(--f-t);font-weight:600;font-size:28px;letter-spacing:.22em;text-transform:uppercase;color:var(--amber)}
+.ch-title{font-family:var(--f-d);font-weight:400;font-size:66px;line-height:1.08;color:var(--ivory);margin-top:10px}
+.ch-rule{height:2px;width:520px;background:var(--teal);margin-top:18px;transform-origin:left center}
+.titlewrap{left:192px;top:150px;width:1536px;z-index:8}
+.t-big{font-family:var(--f-d);font-weight:400;font-size:86px;line-height:1.05;color:var(--ivory)}
+.t-sub{font-family:var(--f-t);font-weight:400;font-size:44px;color:var(--bone);margin-top:14px}
+.t-src{font-family:var(--f-t);font-size:28px;color:var(--amber);margin-top:26px;letter-spacing:.04em}
+svg text{font-family:var(--f-t)}
+
+video{position:absolute;inset:0;width:1920px;height:1080px;object-fit:cover;z-index:1}
+.mount{inset:0}</style>
+<script src="assets/gsap.min.js"></script></head><body>
+<div class="stage" id="root" data-composition-id="atlas-understory-01-rebuild" data-width="1920" data-height="1080" data-duration="656.041667" data-fps="24">
+<video class="clip" id="master-video" data-start="0" data-duration="656.041667" data-track-index="1" src="assets/video/master.mp4" muted playsinline data-media-start="0"></video>
+<audio class="clip" id="master-audio" data-start="0" data-duration="656.041667" data-track-index="0" src="assets/video/master.mp4" data-audio-group="mix" preload="auto"></audio>
+<div class="clip mount" id="m-mg-001" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-001.html" data-composition-id="unit-mg-001" data-start="1.208" data-duration="12.042" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-002" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-002.html" data-composition-id="unit-mg-002" data-start="13.292" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-003" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-003.html" data-composition-id="unit-mg-003" data-start="26.292" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-004" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-004.html" data-composition-id="unit-mg-004" data-start="39.292" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-005" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-005.html" data-composition-id="unit-mg-005" data-start="52.708" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-006" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-006.html" data-composition-id="unit-mg-006" data-start="66.583" data-duration="11.625" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-007" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-007.html" data-composition-id="unit-mg-007" data-start="78.250" data-duration="12.500" data-track-index="10"></div>
+<div class="clip mount" id="m-vx-001" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-VX-001.html" data-composition-id="unit-vx-001" data-start="90.792" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-008" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-008.html" data-composition-id="unit-mg-008" data-start="103.792" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-009" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-009.html" data-composition-id="unit-mg-009" data-start="116.792" data-duration="12.917" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-010" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-010.html" data-composition-id="unit-mg-010" data-start="129.750" data-duration="13.417" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-011" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-011.html" data-composition-id="unit-mg-011" data-start="143.208" data-duration="12.042" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-012" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-012.html" data-composition-id="unit-mg-012" data-start="155.292" data-duration="12.083" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-013" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-013.html" data-composition-id="unit-mg-013" data-start="167.417" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-014" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-014.html" data-composition-id="unit-mg-014" data-start="181.292" data-duration="12.083" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-015" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-015.html" data-composition-id="unit-mg-015" data-start="193.417" data-duration="12.500" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-016" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-016.html" data-composition-id="unit-mg-016" data-start="205.958" data-duration="14.250" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-017" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-017.html" data-composition-id="unit-mg-017" data-start="220.250" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-018" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-018.html" data-composition-id="unit-mg-018" data-start="233.250" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-019" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-019.html" data-composition-id="unit-mg-019" data-start="246.667" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-020" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-020.html" data-composition-id="unit-mg-020" data-start="259.667" data-duration="11.625" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-021" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-021.html" data-composition-id="unit-mg-021" data-start="271.333" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-022" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-022.html" data-composition-id="unit-mg-022" data-start="284.750" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-023" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-023.html" data-composition-id="unit-mg-023" data-start="298.625" data-duration="12.500" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-024" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-024.html" data-composition-id="unit-mg-024" data-start="311.167" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-025" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-025.html" data-composition-id="unit-mg-025" data-start="324.167" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-vx-002" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-VX-002.html" data-composition-id="unit-vx-002" data-start="337.583" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-026" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-026.html" data-composition-id="unit-mg-026" data-start="351.000" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-027" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-027.html" data-composition-id="unit-mg-027" data-start="364.875" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-028" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-028.html" data-composition-id="unit-mg-028" data-start="378.292" data-duration="13.417" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-029" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-029.html" data-composition-id="unit-mg-029" data-start="391.750" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-vx-003" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-VX-003.html" data-composition-id="unit-vx-003" data-start="405.167" data-duration="12.958" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-030" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-030.html" data-composition-id="unit-mg-030" data-start="418.167" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-031" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-031.html" data-composition-id="unit-mg-031" data-start="432.042" data-duration="13.375" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-032" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-032.html" data-composition-id="unit-mg-032" data-start="445.458" data-duration="14.250" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-033" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-033.html" data-composition-id="unit-mg-033" data-start="459.750" data-duration="14.250" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-034" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-034.html" data-composition-id="unit-mg-034" data-start="474.042" data-duration="13.417" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-035" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-035.html" data-composition-id="unit-mg-035" data-start="487.500" data-duration="14.250" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-036" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-036.html" data-composition-id="unit-mg-036" data-start="501.792" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-037" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-037.html" data-composition-id="unit-mg-037" data-start="515.667" data-duration="15.583" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-038" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-038.html" data-composition-id="unit-mg-038" data-start="531.292" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-039" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-039.html" data-composition-id="unit-mg-039" data-start="545.167" data-duration="12.917" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-040" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-040.html" data-composition-id="unit-mg-040" data-start="558.125" data-duration="12.542" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-041" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-041.html" data-composition-id="unit-mg-041" data-start="570.708" data-duration="13.792" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-042" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-042.html" data-composition-id="unit-mg-042" data-start="584.542" data-duration="13.833" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-043" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-043.html" data-composition-id="unit-mg-043" data-start="598.417" data-duration="14.708" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-044" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-044.html" data-composition-id="unit-mg-044" data-start="613.167" data-duration="14.250" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-045" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-045.html" data-composition-id="unit-mg-045" data-start="627.458" data-duration="12.458" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-046" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-046.html" data-composition-id="unit-mg-046" data-start="0.000" data-duration="7.417" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-047" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-047.html" data-composition-id="unit-mg-047" data-start="116.792" data-duration="2.000" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-048" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-048.html" data-composition-id="unit-mg-048" data-start="259.667" data-duration="2.000" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-049" style="z-index:20" data-track-kind="graphics" data-composition-src="compositions/unit-MG-049.html" data-composition-id="unit-mg-049" data-start="391.750" data-duration="2.000" data-track-index="10"></div>
+<div class="clip mount" id="m-mg-050" style="z-index:10" data-track-kind="graphics" data-composition-src="compositions/unit-MG-050.html" data-composition-id="unit-mg-050" data-start="515.667" data-duration="2.000" data-track-index="10"></div>
+</div>
+<script>window.__timelines=window.__timelines||{};window.__timelines["atlas-understory-01-rebuild"]=gsap.timeline({paused:true});</script></body></html>

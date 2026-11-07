@@ -1,0 +1,482 @@
+[
+ {
+  "vo": "VO-C01-B01",
+  "draft_start_f": 0,
+  "draft_end_f": 298,
+  "draft_speech_end_f": 268,
+  "actual_start_f": 29,
+  "actual_end_f": 327,
+  "start_delta_f": 29,
+  "end_delta_f": 59
+ },
+ {
+  "vo": "VO-C01-B02",
+  "draft_start_f": 298,
+  "draft_end_f": 618,
+  "draft_speech_end_f": 586,
+  "actual_start_f": 319,
+  "actual_end_f": 639,
+  "start_delta_f": 21,
+  "end_delta_f": 53
+ },
+ {
+  "vo": "VO-C01-B03",
+  "draft_start_f": 618,
+  "draft_end_f": 938,
+  "draft_speech_end_f": 906,
+  "actual_start_f": 631,
+  "actual_end_f": 951,
+  "start_delta_f": 13,
+  "end_delta_f": 45
+ },
+ {
+  "vo": "VO-C01-B04",
+  "draft_start_f": 938,
+  "draft_end_f": 1269,
+  "draft_speech_end_f": 1236,
+  "actual_start_f": 943,
+  "actual_end_f": 1277,
+  "start_delta_f": 5,
+  "end_delta_f": 41
+ },
+ {
+  "vo": "VO-C01-B05",
+  "draft_start_f": 1269,
+  "draft_end_f": 1611,
+  "draft_speech_end_f": 1577,
+  "actual_start_f": 1265,
+  "actual_end_f": 1606,
+  "start_delta_f": -4,
+  "end_delta_f": 29
+ },
+ {
+  "vo": "VO-C01-B06",
+  "draft_start_f": 1611,
+  "draft_end_f": 1898,
+  "draft_speech_end_f": 1869,
+  "actual_start_f": 1598,
+  "actual_end_f": 1886,
+  "start_delta_f": -13,
+  "end_delta_f": 17
+ },
+ {
+  "vo": "VO-C01-B07",
+  "draft_start_f": 1898,
+  "draft_end_f": 2207,
+  "draft_speech_end_f": 2176,
+  "actual_start_f": 1878,
+  "actual_end_f": 2187,
+  "start_delta_f": -20,
+  "end_delta_f": 11
+ },
+ {
+  "vo": "VO-C01-B08",
+  "draft_start_f": 2207,
+  "draft_end_f": 2527,
+  "draft_speech_end_f": 2495,
+  "actual_start_f": 2179,
+  "actual_end_f": 2499,
+  "start_delta_f": -28,
+  "end_delta_f": 4
+ },
+ {
+  "vo": "VO-C01-B09",
+  "draft_start_f": 2527,
+  "draft_end_f": 2847,
+  "draft_speech_end_f": 2815,
+  "actual_start_f": 2491,
+  "actual_end_f": 2811,
+  "start_delta_f": -36,
+  "end_delta_f": -4
+ },
+ {
+  "vo": "VO-C02-B01",
+  "draft_start_f": 2847,
+  "draft_end_f": 3167,
+  "draft_speech_end_f": 3135,
+  "actual_start_f": 2803,
+  "actual_end_f": 3122,
+  "start_delta_f": -44,
+  "end_delta_f": -13
+ },
+ {
+  "vo": "VO-C02-B02",
+  "draft_start_f": 3167,
+  "draft_end_f": 3498,
+  "draft_speech_end_f": 3465,
+  "actual_start_f": 3114,
+  "actual_end_f": 3449,
+  "start_delta_f": -53,
+  "end_delta_f": -16
+ },
+ {
+  "vo": "VO-C02-B03",
+  "draft_start_f": 3498,
+  "draft_end_f": 3796,
+  "draft_speech_end_f": 3766,
+  "actual_start_f": 3437,
+  "actual_end_f": 3735,
+  "start_delta_f": -61,
+  "end_delta_f": -31
+ },
+ {
+  "vo": "VO-C02-B04",
+  "draft_start_f": 3796,
+  "draft_end_f": 4094,
+  "draft_speech_end_f": 4064,
+  "actual_start_f": 3727,
+  "actual_end_f": 4026,
+  "start_delta_f": -69,
+  "end_delta_f": -38
+ },
+ {
+  "vo": "VO-C02-B05",
+  "draft_start_f": 4094,
+  "draft_end_f": 4436,
+  "draft_speech_end_f": 4402,
+  "actual_start_f": 4018,
+  "actual_end_f": 4359,
+  "start_delta_f": -76,
+  "end_delta_f": -43
+ },
+ {
+  "vo": "VO-C02-B06",
+  "draft_start_f": 4436,
+  "draft_end_f": 4734,
+  "draft_speech_end_f": 4704,
+  "actual_start_f": 4351,
+  "actual_end_f": 4649,
+  "start_delta_f": -85,
+  "end_delta_f": -55
+ },
+ {
+  "vo": "VO-C02-B07",
+  "draft_start_f": 4734,
+  "draft_end_f": 5043,
+  "draft_speech_end_f": 5012,
+  "actual_start_f": 4642,
+  "actual_end_f": 4951,
+  "start_delta_f": -92,
+  "end_delta_f": -61
+ },
+ {
+  "vo": "VO-C02-B08",
+  "draft_start_f": 5043,
+  "draft_end_f": 5396,
+  "draft_speech_end_f": 5361,
+  "actual_start_f": 4943,
+  "actual_end_f": 5294,
+  "start_delta_f": -100,
+  "end_delta_f": -67
+ },
+ {
+  "vo": "VO-C02-B09",
+  "draft_start_f": 5396,
+  "draft_end_f": 5716,
+  "draft_speech_end_f": 5684,
+  "actual_start_f": 5286,
+  "actual_end_f": 5606,
+  "start_delta_f": -110,
+  "end_delta_f": -78
+ },
+ {
+  "vo": "VO-C02-B10",
+  "draft_start_f": 5716,
+  "draft_end_f": 6047,
+  "draft_speech_end_f": 6014,
+  "actual_start_f": 5598,
+  "actual_end_f": 5932,
+  "start_delta_f": -118,
+  "end_delta_f": -82
+ },
+ {
+  "vo": "VO-C02-B11",
+  "draft_start_f": 6047,
+  "draft_end_f": 6367,
+  "draft_speech_end_f": 6335,
+  "actual_start_f": 5920,
+  "actual_end_f": 6240,
+  "start_delta_f": -127,
+  "end_delta_f": -95
+ },
+ {
+  "vo": "VO-C03-B01",
+  "draft_start_f": 6367,
+  "draft_end_f": 6654,
+  "draft_speech_end_f": 6625,
+  "actual_start_f": 6232,
+  "actual_end_f": 6524,
+  "start_delta_f": -135,
+  "end_delta_f": -101
+ },
+ {
+  "vo": "VO-C03-B02",
+  "draft_start_f": 6654,
+  "draft_end_f": 6985,
+  "draft_speech_end_f": 6952,
+  "actual_start_f": 6512,
+  "actual_end_f": 6842,
+  "start_delta_f": -142,
+  "end_delta_f": -110
+ },
+ {
+  "vo": "VO-C03-B03",
+  "draft_start_f": 6985,
+  "draft_end_f": 7327,
+  "draft_speech_end_f": 7293,
+  "actual_start_f": 6834,
+  "actual_end_f": 7175,
+  "start_delta_f": -151,
+  "end_delta_f": -118
+ },
+ {
+  "vo": "VO-C03-B04",
+  "draft_start_f": 7327,
+  "draft_end_f": 7636,
+  "draft_speech_end_f": 7605,
+  "actual_start_f": 7167,
+  "actual_end_f": 7476,
+  "start_delta_f": -160,
+  "end_delta_f": -129
+ },
+ {
+  "vo": "VO-C03-B05",
+  "draft_start_f": 7636,
+  "draft_end_f": 7956,
+  "draft_speech_end_f": 7924,
+  "actual_start_f": 7468,
+  "actual_end_f": 7788,
+  "start_delta_f": -168,
+  "end_delta_f": -136
+ },
+ {
+  "vo": "VO-C03-B06",
+  "draft_start_f": 7956,
+  "draft_end_f": 8298,
+  "draft_speech_end_f": 8264,
+  "actual_start_f": 7780,
+  "actual_end_f": 8114,
+  "start_delta_f": -176,
+  "end_delta_f": -150
+ },
+ {
+  "vo": "VO-C03-B07",
+  "draft_start_f": 8298,
+  "draft_end_f": 8629,
+  "draft_speech_end_f": 8596,
+  "actual_start_f": 8102,
+  "actual_end_f": 8436,
+  "start_delta_f": -196,
+  "end_delta_f": -160
+ },
+ {
+  "vo": "VO-C03-B08",
+  "draft_start_f": 8629,
+  "draft_end_f": 8971,
+  "draft_speech_end_f": 8937,
+  "actual_start_f": 8424,
+  "actual_end_f": 8765,
+  "start_delta_f": -205,
+  "end_delta_f": -172
+ },
+ {
+  "vo": "VO-C03-B09",
+  "draft_start_f": 8971,
+  "draft_end_f": 9302,
+  "draft_speech_end_f": 9269,
+  "actual_start_f": 8757,
+  "actual_end_f": 9087,
+  "start_delta_f": -214,
+  "end_delta_f": -182
+ },
+ {
+  "vo": "VO-C03-B10",
+  "draft_start_f": 9302,
+  "draft_end_f": 9633,
+  "draft_speech_end_f": 9600,
+  "actual_start_f": 9079,
+  "actual_end_f": 9410,
+  "start_delta_f": -223,
+  "end_delta_f": -190
+ },
+ {
+  "vo": "VO-C04-B01",
+  "draft_start_f": 9633,
+  "draft_end_f": 9964,
+  "draft_speech_end_f": 9931,
+  "actual_start_f": 9402,
+  "actual_end_f": 9736,
+  "start_delta_f": -231,
+  "end_delta_f": -195
+ },
+ {
+  "vo": "VO-C04-B02",
+  "draft_start_f": 9964,
+  "draft_end_f": 10284,
+  "draft_speech_end_f": 10252,
+  "actual_start_f": 9724,
+  "actual_end_f": 10044,
+  "start_delta_f": -240,
+  "end_delta_f": -208
+ },
+ {
+  "vo": "VO-C04-B03",
+  "draft_start_f": 10284,
+  "draft_end_f": 10626,
+  "draft_speech_end_f": 10592,
+  "actual_start_f": 10036,
+  "actual_end_f": 10376,
+  "start_delta_f": -248,
+  "end_delta_f": -216
+ },
+ {
+  "vo": "VO-C04-B04",
+  "draft_start_f": 10626,
+  "draft_end_f": 10957,
+  "draft_speech_end_f": 10924,
+  "actual_start_f": 10369,
+  "actual_end_f": 10707,
+  "start_delta_f": -257,
+  "end_delta_f": -217
+ },
+ {
+  "vo": "VO-C04-B05",
+  "draft_start_f": 10957,
+  "draft_end_f": 11310,
+  "draft_speech_end_f": 11275,
+  "actual_start_f": 10691,
+  "actual_end_f": 11046,
+  "start_delta_f": -266,
+  "end_delta_f": -229
+ },
+ {
+  "vo": "VO-C04-B06",
+  "draft_start_f": 11310,
+  "draft_end_f": 11663,
+  "draft_speech_end_f": 11628,
+  "actual_start_f": 11034,
+  "actual_end_f": 11385,
+  "start_delta_f": -276,
+  "end_delta_f": -243
+ },
+ {
+  "vo": "VO-C04-B07",
+  "draft_start_f": 11663,
+  "draft_end_f": 11994,
+  "draft_speech_end_f": 11961,
+  "actual_start_f": 11377,
+  "actual_end_f": 11712,
+  "start_delta_f": -286,
+  "end_delta_f": -249
+ },
+ {
+  "vo": "VO-C04-B08",
+  "draft_start_f": 11994,
+  "draft_end_f": 12347,
+  "draft_speech_end_f": 12312,
+  "actual_start_f": 11700,
+  "actual_end_f": 12051,
+  "start_delta_f": -294,
+  "end_delta_f": -261
+ },
+ {
+  "vo": "VO-C04-B09",
+  "draft_start_f": 12347,
+  "draft_end_f": 12689,
+  "draft_speech_end_f": 12655,
+  "actual_start_f": 12043,
+  "actual_end_f": 12384,
+  "start_delta_f": -304,
+  "end_delta_f": -271
+ },
+ {
+  "vo": "VO-C05-B01",
+  "draft_start_f": 12689,
+  "draft_end_f": 13075,
+  "draft_speech_end_f": 13037,
+  "actual_start_f": 12376,
+  "actual_end_f": 12763,
+  "start_delta_f": -313,
+  "end_delta_f": -274
+ },
+ {
+  "vo": "VO-C05-B02",
+  "draft_start_f": 13075,
+  "draft_end_f": 13417,
+  "draft_speech_end_f": 13383,
+  "actual_start_f": 12751,
+  "actual_end_f": 13092,
+  "start_delta_f": -324,
+  "end_delta_f": -291
+ },
+ {
+  "vo": "VO-C05-B03",
+  "draft_start_f": 13417,
+  "draft_end_f": 13737,
+  "draft_speech_end_f": 13705,
+  "actual_start_f": 13084,
+  "actual_end_f": 13407,
+  "start_delta_f": -333,
+  "end_delta_f": -298
+ },
+ {
+  "vo": "VO-C05-B04",
+  "draft_start_f": 13737,
+  "draft_end_f": 14046,
+  "draft_speech_end_f": 14015,
+  "actual_start_f": 13395,
+  "actual_end_f": 13704,
+  "start_delta_f": -342,
+  "end_delta_f": -311
+ },
+ {
+  "vo": "VO-C05-B05",
+  "draft_start_f": 14046,
+  "draft_end_f": 14388,
+  "draft_speech_end_f": 14354,
+  "actual_start_f": 13697,
+  "actual_end_f": 14041,
+  "start_delta_f": -349,
+  "end_delta_f": -313
+ },
+ {
+  "vo": "VO-C05-B06",
+  "draft_start_f": 14388,
+  "draft_end_f": 14730,
+  "draft_speech_end_f": 14696,
+  "actual_start_f": 14029,
+  "actual_end_f": 14374,
+  "start_delta_f": -359,
+  "end_delta_f": -322
+ },
+ {
+  "vo": "VO-C05-B07",
+  "draft_start_f": 14730,
+  "draft_end_f": 15094,
+  "draft_speech_end_f": 15058,
+  "actual_start_f": 14362,
+  "actual_end_f": 14728,
+  "start_delta_f": -368,
+  "end_delta_f": -330
+ },
+ {
+  "vo": "VO-C05-B08",
+  "draft_start_f": 15094,
+  "draft_end_f": 15447,
+  "draft_speech_end_f": 15412,
+  "actual_start_f": 14716,
+  "actual_end_f": 15071,
+  "start_delta_f": -378,
+  "end_delta_f": -341
+ },
+ {
+  "vo": "VO-C05-B09",
+  "draft_start_f": 15447,
+  "draft_end_f": 15745,
+  "draft_speech_end_f": 15715,
+  "actual_start_f": 15059,
+  "actual_end_f": 15358,
+  "start_delta_f": -388,
+  "end_delta_f": -357
+ }
+]
