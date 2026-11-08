@@ -94,11 +94,13 @@ def unit_intervals(u):
         a, b = round(amap(vid, s['start_f'])), round(amap(vid, s['end_f']))
         is_panel = (s['graphic'] == u['id'] and 'PLATE' not in s['dominance']) or sid in OVERRIDE_SUPPORT
         if 'compact qualifier' in s.get('graphic_note', ''):
+            if u['id'] == 'MG-045': b = DUR_F  # C05-S020: qualifier persists through final plate to EOF
             chips.append((a, b, clean(u['copy'][0], u['id'])))
         elif is_panel:
             panels.append((a, b))
         elif 'PLATE' in s['dominance']:
             chips.append((a, b, clean(s['disclosure'].split('|')[0], u['id'] + ' chip')))
+    if u['id'] == 'MG-045': he = DUR_F  # host lives to EOF so the closing qualifier can persist
     return hs, he, panels, chips
 
 # ---------- HTML templates ----------

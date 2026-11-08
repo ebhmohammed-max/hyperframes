@@ -32,5 +32,12 @@ Verified at 2.0 / 5.2 / 10.5 / 30 / 95 / 102 / 117.5 / 146 / 150 / 160 / 213 / 3
 - Long source-strip disclosure text can wrap to two lines inside the strip (seen at 632s); strip height absorbs it, no overlap with panels.
 - The backdrop picture is the supplied master picture with non-Appendix-E generated plates; disclosure chips keep the film honest ("IMAGE NOT VERIFIED" where no verified image exists), and release stays DRAFT_CONDITIONAL.
 
+## Shot-rhythm conformance (Appendix C, verified after full manual read of S015-S098)
+- Every base unit follows its Appendix C shot pattern: dominant panel on the graphic shot, disclosure-only chip on the following BACKGROUND PLATE shot ("keep illustration disclosure visible"), panel hard-clear or 0.45s fade per the Appendix D boundary class out of the graphic shot. VX-001/002/003 continue over their SUPPORT PLATE shots (OVERRIDE_SUPPORT) with a second state.
+- Snapshot-verified in the assembled film: 10.5s (MG-001 plate interval, chip only), 523s (MG-037 plate gap), 529s (MG-037 panel returns for C05-S003), 645s (MG-045 compact closing qualifier persisting over the final plate past narration end).
+- Q05 dominance proxy under the backdrop basis: panel-free frames = 46.80% of 15,745 (plan target for plate share: 46.8720%). The residual delta is the affine audio re-time, not a layout change.
+- One functional fix in this pass: the MG-045 compact qualifier previously ended with narration (639.92s); it now persists through C05-S020 to frame 15745 per Appendix B MG-045 ("carry a compact identity-unestablished qualifier into the final plate").
+- Boundary census (62 CUT / 23 CROSSFADE / 12 GRAPHIC) governs plate edits in the Appendix E system; under the recorded picture-basis decision the picture is the supplied master's own edit, and boundary classes drive only panel exit behaviour. This remains part of the DRAFT_CONDITIONAL picture deviation.
+
 ## Appendix I gate mapping for this build
 Q01-Q06/Q17: plan-checked (unchanged). Q07 (media existence): partially evidenced — Met plate acquired and identity-verified via Met API/IIIF; human visual check against DP-40309-001 still owed. Q08 (installed syntax): executed — lint/check clean on HF 0.9.2. Q09 (determinism): executed — identical hashes. Q10-Q13: executed for this draft (caption alignment proven 48/48 verbatim; audio measured; legibility spot-checked at 1080p; encoded output probed). Q14/Q15/Q16: HOLD (historical/source independence, oral-read signoff, release status) — output remains DRAFT_CONDITIONAL, not an approved/public master.
