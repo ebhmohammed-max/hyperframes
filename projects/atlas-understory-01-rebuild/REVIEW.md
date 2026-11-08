@@ -22,6 +22,11 @@ Picture basis: KEEP the current muted supplied-master backdrop as delivered. No 
 ## Holds that keep this a draft (Appendix I)
 Q14 historical/source independence, Q15 oral-read signoff, Q16 workprint/release status: HOLD. Q07 human visual verification of the Met plate vs DP-40309-001 also still owed. Nothing in this project is an approved final or public master.
 
+## Release paperwork prepared for the human gates
+- ORAL_READ_PACKET.md — Q15: all 48 narration segments at actual timestamps with pronunciation watch-items and a sign-off block (two confirm-first names: Antirhodos, Franck Goddio).
+- SOURCE_INDEPENDENCE_NOTE.md — Q14: claim-by-claim independence summary from Appendix F, with the editor's three-way decision (accept / require corroboration / require text change).
+- RELEASE_CHECKLIST.md — Q01–Q17 status, evidence pointers, remaining human actions, and the release procedure once Q14+Q15 clear.
+
 ## Rebuild / re-render
 - Regenerate compositions: `python3 tools/build_project.py` (asserts caption text 48/48 while running tools/make_captions.py separately).
 - Re-render: source the runtime env, then `hf render -o renders/<name>.mp4 -f 24 -w 1 --video-bitrate 950k` from this directory (delete renders/work-* first if a stale work dir exists).
