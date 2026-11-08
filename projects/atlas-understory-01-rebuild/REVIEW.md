@@ -10,8 +10,11 @@ A complete rebuild of Atlas Understory Video 01 ("The Lighthouse Ring Found in A
 5. Stage F draft delivery: full render at 24fps/1 worker/950k -> renders/Atlas_Understory_01_The_Lighthouse_Ring_DRAFT_CONDITIONAL_1080p.mp4 (15,745 frames, -16.03 LUFS/TP -1.88, 94,182,339 bytes); SRT+VTT sidecars.
 6. Verification pass (after full manual read of Appendix C S015-S098, H, I): shot-level panel/chip rhythm confirmed against Appendix C (panel on graphic shot, disclosure chip on plate shot; MG-037 panel-gap-panel; VX support-plate continuation) and snapshot-verified at 10.5/523/529/645s; panel-free share measured 46.80% vs Q05's 46.8720% plan. One fix: MG-045 closing qualifier now persists to the final frame instead of ending with narration. Film re-rendered with identical settings; QC_REPORT.md carries the details.
 
+## Decision recorded (user, 2026-11-08)
+Picture basis: KEEP the current muted supplied-master backdrop as delivered. No solid-background fallback rebuild and no Appendix E plate commission. The film rests as DRAFT_CONDITIONAL; remaining release gates are the human holds Q14 (historical/source independence), Q15 (oral-read signoff), Q16 (workprint/release status).
+
 ## What a reviewer should check first
-- The picture basis: backdrop plates are the supplied master's generated illustrations, not the Appendix E plates. The film is labelled DRAFT_CONDITIONAL for exactly this reason; plate approval or replacement is the main open creative decision.
+- The picture basis: backdrop plates are the supplied master's generated illustrations, not the Appendix E plates. The film is labelled DRAFT_CONDITIONAL for exactly this reason; plate approval or replacement is the main open creative decision (decided 2026-11-08: keep).
 - Chapter-heading placement at actual narration chapter starts (116.79 / 242.16 / 332.24 / 424.17 s).
 - The "S01" prefix omission and five spacing-only copy fixes (OVERRIDE_LOG.md) — accept or ask for reverts; all are one-line generator changes.
 - Whether the 28px label sizes (command spec 26-30px) read well on your display; the hf craft heuristic prefers larger, we kept the spec.
