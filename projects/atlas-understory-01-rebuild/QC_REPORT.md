@@ -28,6 +28,11 @@ Verified at 2.0 / 5.2 / 10.5 / 30 / 95 / 102 / 117.5 / 146 / 150 / 160 / 213 / 3
 - tools/make_captions.py: 161 cues, span 1.208-639.917s, max 18.1 CPS, max line 42 chars, max 2 lines/cue; concatenated cue text reproduces Appendix A 48/48 segments verbatim (asserted in the generator).
 - HF03_Atlas_Understory_01_captions.srt + .vtt (WebVTT converted from the same SRT).
 
+## Q07 plate inspection (agent visual pass, 2026-11-08)
+- Acquired file assets/photo/met-bulla-1978.93.29.jpg (1200x899, Met IIIF main-image for object 326457) visually inspected at full size: irregular brown un-baked clay sealing on the Met's light background, faint weathered curvilinear seal impressions across the upper surface, no figure legible enough to identify at this resolution. Consistent with the Met record (Bulla, Parthian, 2nd c. BC-1st c. AD, Shahr-i Qumis).
+- Film behaviour: MG-011/012/013 show the photo flat and unannotated (no arrows, markers, or motif claims drawn on it); all interpretation is in adjacent text rows with "Possibly" qualifiers; credit shown as "The Met · 1978.93.29 · Public Domain" (full credit line preserved in INPUT_MANIFEST.md). Nothing was annotated from the image itself.
+- Still owed for Q07 closure: human side-by-side against the DP-40309-001 original file. The acquired IIIF derivative is displayed at 470x318px (downscaled, never upscaled), so resolution is not a legibility risk at 1080p.
+
 ## Known accepted imperfections
 - Long source-strip disclosure text can wrap to two lines inside the strip (seen at 632s); strip height absorbs it, no overlap with panels.
 - The backdrop picture is the supplied master picture with non-Appendix-E generated plates; disclosure chips keep the film honest ("IMAGE NOT VERIFIED" where no verified image exists), and release stays DRAFT_CONDITIONAL.

@@ -9,7 +9,7 @@ Film: Atlas_Understory_01_The_Lighthouse_Ring_DRAFT_CONDITIONAL_1080p.mp4 (Drive
 | Q04 Image inventory | 31 baseline asset rows | DEVIATES BY DECISION (picture basis kept 2026-11-08; only sourced photo = Met bulla) | INPUT_MANIFEST.md; SPEC.md | None unless basis is reopened |
 | Q05 Dominant share | Plate 46.8720% | MEASURED 46.80% panel-free under backdrop basis | QC_REPORT.md shot-rhythm section | None |
 | Q06 Boundaries | 62 CUT / 23 CROSSFADE / 12 GRAPHIC | Plan-checked; classes drive panel exits only under backdrop basis | QC_REPORT.md | None |
-| Q07 Media existence/approvals | Actual paths, licences, approvals | PARTIAL: Met plate acquired via Met IIIF, identity via API record S12 | INPUT_MANIFEST.md | Human visual check of the plate against DP-40309-001 original |
+| Q07 Media existence/approvals | Actual paths, licences, approvals | PARTIAL: plate acquired via Met IIIF, identity via API record S12; agent visual pass documented (unannotated, motif not legible, never upscaled) | INPUT_MANIFEST.md; QC_REPORT.md Q07 section | Human side-by-side against the DP-40309-001 original file |
 | Q08 Installed syntax | Verified version/flags | EXECUTED (HyperFrames 0.9.2) | RUNTIME_CAPABILITY_REPORT.md | None |
 | Q09 Determinism | Cold/repeat same-time parity | EXECUTED (identical MD5 at 340.0s, twice, incl. after final patch) | QC_REPORT.md | None |
 | Q10 Captions | Real VO alignment, one group, hard kills | EXECUTED (48/48 verbatim; 161 cues; SRT+VTT) | TIMING_LOCK_REPORT.md; caption proof render | None |
