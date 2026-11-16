@@ -94,3 +94,4 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 3 Dec
 - Done: 181-190 (B19), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B18 zip id 1f0FTVTnyaij_p4d9vKsrI3FK-o0me9Sx. Next: 191 onward (191, 197 use the brothers ref); write v2 overrides for chapter 6 (N07, images 198-230) first.
+- TODO next message: EP11_B19_sheet.jpg was NOT uploaded (Drive upload rate limit). Rebuild it (`$PY tools/sheet.py 181 190`, copy to out/up/EP11_B19_sheet.jpg) and upload it with the B20 files. B19 zip id 1wd3xdMn0x9dgV_er6a7nzGKNRxtDAoLx.
