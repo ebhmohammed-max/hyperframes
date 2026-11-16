@@ -196,14 +196,57 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
       tl.to("#${id}-in", { opacity: 0, duration: 0.2, ease: "power2.in" }, ${r(end - 0.22)});\n`;
     i = j;
   }
+  // ── subscribe pop-up (chapter 1 only): silent, 5 s, top right
+  let sCss = "", sHtml = "", sJs = "";
+  if (ci === 1 && !partial) {
+    const w5 = win.find((x) => x.q === 5) ?? win[Math.min(5, win.length - 1)];
+    const T0 = r(w5.t0), BX = 648, BY = 76;
+    const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
+    sCss = `
+    ${FONTS.oswald}
+    #s-pop { position: absolute; left: 1036px; top: 52px; width: 820px; height: 400px; }
+    #s-card { position: absolute; left: 0; top: 0; width: 820px; height: 148px; border-radius: 26px; background: ${C.navy}; border: 1.5px solid rgba(243,212,138,0.55); box-shadow: 0 10px 40px rgba(0,0,0,0.55); opacity: 0; }
+    #s-logo { position: absolute; left: 20px; top: 20px; width: 108px; height: 108px; border-radius: 54px; border: 2.5px solid ${C.gold}; object-fit: cover; }
+    #s-name { position: absolute; left: 150px; top: 28px; width: 360px; font: 650 35px/1.4 "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap; }
+    #s-at { position: absolute; left: 152px; top: 88px; width: 360px; font: 500 26px/1.3 "NK Oswald", sans-serif; letter-spacing: 0.03em; color: ${C.gold}; white-space: nowrap; }
+    #s-btn { position: absolute; left: 528px; top: 34px; width: 270px; height: 80px; }
+    .s-face { position: absolute; inset: 0; border-radius: 40px; display: flex; align-items: center; justify-content: center; gap: 10px; font: 600 35px/1 "NK Oswald", sans-serif; letter-spacing: 0.04em; color: #fff; }
+    #s-red { background: #e8201f; box-shadow: 0 6px 26px rgba(232,32,31,0.45); }
+    #s-grey { background: #30333b; border: 2px solid rgba(255,255,255,0.14); opacity: 0; font-size: 31px; }
+    #s-cur { position: absolute; left: 0; top: 0; width: 50px; height: 50px; opacity: 0; filter: drop-shadow(0 3px 6px rgba(0,0,0,0.7)); }`;
+    sHtml = `    <div id="s-pop" class="clip" data-start="${T0}" data-duration="5" data-track-index="2" data-layout-allow-overflow>
+      <div id="s-card">
+        <img id="s-logo" src="assets/brand/logo_512.jpg" alt="" />
+        <div id="s-name">நிலவன் கதைகள்</div>
+        <div id="s-at">@NilavanKadhaigal</div>
+        <div id="s-btn">
+          <div id="s-red" class="s-face">SUBSCRIBE</div>
+          <div id="s-grey" class="s-face"><svg id="s-bell" width="32" height="32" viewBox="0 0 24 24"><path d="${BELL}" fill="${C.gold}"/></svg><span>SUBSCRIBED</span></div>
+        </div>
+      </div>
+      <svg id="s-cur" viewBox="0 0 24 24"><path d="M4 2v17l4.6-4.3 3 6.8 2.7-1.2-3-6.7 6.3-.4z" fill="#fff" stroke="#111" stroke-width="1.3" stroke-linejoin="round"/></svg>
+    </div>\n`;
+    const K = r(T0 + 2.1); // the click
+    sJs = `      tl.fromTo("#s-card", { opacity: 0, x: 70 }, { opacity: 1, x: 0, duration: 0.5, ease: "power3.out" }, ${r(T0 + 0.05)});
+      tl.fromTo("#s-cur", { x: 760, y: 300, opacity: 0 }, { x: ${BX}, y: ${BY}, opacity: 1, duration: 0.75, ease: "power2.inOut" }, ${r(K - 0.9)});
+      tl.to("#s-cur", { scale: 0.8, duration: 0.08, ease: "power2.in" }, ${r(K - 0.06)});
+      tl.to("#s-cur", { scale: 1, duration: 0.16, ease: "power2.out" }, ${r(K + 0.04)});
+      tl.to("#s-btn", { scale: 0.92, duration: 0.08, ease: "power2.in" }, ${r(K - 0.04)});
+      tl.to("#s-btn", { scale: 1, duration: 0.3, ease: "back.out(2.4)" }, ${r(K + 0.05)});
+      tl.to("#s-red", { opacity: 0, duration: 0.14 }, ${K});
+      tl.to("#s-grey", { opacity: 1, duration: 0.14 }, ${K});
+      tl.fromTo("#s-bell", { rotation: 0 }, { rotation: 16, duration: 0.09, yoyo: true, repeat: 5, ease: "sine.inOut", transformOrigin: "50% 10%" }, ${r(K + 0.12)});
+      tl.to("#s-cur", { x: 800, y: 290, opacity: 0, duration: 0.6, ease: "power2.in" }, ${r(K + 0.8)});
+      tl.to("#s-card", { opacity: 0, x: 50, duration: 0.4, ease: "power2.in" }, ${r(T0 + 4.5)});\n`;
+  }
   const ovl = scene({
     id: "ovl",
-    css: `    ${FONTS.sansTa}
+    css: `    ${FONTS.sansTa}${sCss}
     .o-tag { position: absolute; left: 64px; top: 56px; width: 520px; height: 64px; }
     .o-in { opacity: 0; display: inline-flex; align-items: center; gap: 14px; padding: 9px 24px 9px 18px; border-radius: 34px; background: ${C.navy}; border: 1.5px solid rgba(243,212,138,0.55); }
     .o-dot { width: 12px; height: 12px; border-radius: 50%; background: ${C.gold}; }
     .o-tx { font: 600 30px/1.4 "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap; }`,
-    html: oHtml || `    <div id="g0" class="o-tag clip" data-start="0" data-duration="0.1" data-track-index="1"></div>\n`, js: oJs,
+    html: (oHtml || `    <div id="g0" class="o-tag clip" data-start="0" data-duration="0.1" data-track-index="1"></div>\n`) + sHtml, js: oJs + sJs,
   });
 
   // ── sound: narration, plus effects in the hook only
