@@ -65,3 +65,9 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - Done: 101-109 (B11), on Drive; 110 blocked by content moderation (counts toward the 10) and held. Redo pass: 048, 061, 067, 074, 095, 110. B10 zip id 1DE5ji8Tw_4oqHF2gNImmtvhDLF7eJZ4B.
 - Narration mp3s and shared/vo are gone locally; before the film build download EP11 narration zip 1ySpKl5S2s3zTWNM4fyKnWZjaxCSgAOhu and N11 1GKCHE4FoUZxruNrU9Dg90FsHo9eCegqO.
 - Next: 111 onward.
+
+## 26 Nov
+- Found the rule: files ignored by git (out/, pics/, *.zip, *.mp3) are NOT kept between messages; untracked files that are not ignored are kept; the local git history is rebuilt on the base commit each time (fix: `git fetch origin <branch> && git reset --soft origin/<branch> && git reset`, then commit as usual).
+- Pictures now live in <repo>/google_drive/ep11_pics/raw/NNN.jpg and .../cast/<key>.jpg (outside the project .gitignore, never added to git). Generate straight into that folder. `bash tools/restore.sh` relinks out/raw and out/cast and rebuilds out/img and sheets.
+- Done: 111-120 (B12), on Drive. 117 (English masthead) on the redo list. Redo pass: 048, 061, 067, 074, 095, 110, 117. B11 zip id 1v0_2RrQF1vfgzlY4vCyWjjj5RO-gcsvq.
+- Next: 121 onward (124 uses refs sundara, kundavai, arulmozhi).
