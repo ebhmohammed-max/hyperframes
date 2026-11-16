@@ -113,3 +113,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 8 Dec
 - Done: 231-240 (B24), on Drive. v2 overrides written for chapter 7 (N08) up to 267 (cast refs: 236 and 238 uttama, 243 arulmozhi+uttama, 247 and 264 brothers, 258 sundara; 244 crowd; 250 brother-sister stays a silhouette because the 1971 claim has no evidence). No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B23 zip id 1LQZFH4npFQ-IkLJ25yPqBuyw-oeGvJ-3. Next: 241 onward.
+
+## 9 Dec
+- Done: 241-250 (B25), on Drive. No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B24 zip id 1tjCKQkWvbM_w87R361WuQvUX6A8HtnJu. Next: 251 onward (258 sundara ref, 264 brothers ref).
