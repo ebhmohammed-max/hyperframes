@@ -1,0 +1,1003 @@
+# EP12 Poompuhar: shot list
+
+322 images. File names carry the running number, narration clip and line.
+
+Rules: reconstruction art, not photographs. Karikala Chola, the poet, the king and the princess of the Manimekalai tale have invented faces, kept consistent with the reference pictures in shots/CAST.md (marked `refs`). Modern and living people (archaeologists, divers, the writer, the professor) are shown from behind, as hands only, or behind dive masks. The U-shaped structure is always drawn as a low, heavily overgrown ridge and never as clear walls, steps or carvings, because nobody knows yet what it is. The 11,000-year and 15,000-year claims are shown only as sketches, screens or dreamlike illustrations, never as realistic scenes. No readable writing (all text is set in the edit).
+
+Looks: **P** the ancient port, daylight; **D** the ancient port, dusk; **L** ancient lamp-lit interior; **B** the Manimekalai tale (storybook); **Y** the later town (5th to 12th century); **E** 1960s excavation; **N** survey at sea around 1990; **R** ship's cabin around 1990; **U** underwater; **M** survey at sea, present day; **T** the coast today; **G** computer laboratory; **A** scholar's desk; **I** end of the Ice Age; **W** ancient West Asia; **X** symbolic still life; **C** lamp still life; **O** setting given in the subject.
+
+
+## N01
+
+**001** `EP12_001_N01q00_coast_aerial.jpg` [T] (N01 q00: “தமிழ்நாட்டு கடற்கரையில இருந்து 5 கிலோமீட்டர் தூரம். கடலுக்கு அடியில, 23 மீட்டர் ஆழம்.”)  
+Aerial view of a long straight sandy Tamil coast with palmyra palms and a small fishing village, the open sea stretching away to the horizon, a few wooden fishing boats, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**002** `EP12_002_N01q00_descent_blue.jpg` [U] (N01 q00: “தமிழ்நாட்டு கடற்கரையில இருந்து 5 கிலோமீட்டர் தூரம். கடலுக்கு அடியில, 23 மீட்டர் ஆழம்.”)  
+Looking straight down through darkening green-blue water as shafts of sunlight fade into the deep, a faint pale seabed far below, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**003** `EP12_003_N01q01_ushape_first_glimpse.jpg` [U] (N01 q01: “அங்க ஒரு வடிவம் இருக்கு. குதிரை லாடம் மாதிரி. ஆங்கில எழுத்து U மாதிரி.”)  
+A low horseshoe-shaped ridge of rough stone on a sandy seabed, about as tall as a man, thickly covered in barnacles, sponges and weed, seen from above through murky water, a small school of fish, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**004** `EP12_004_N01q01_ushape_curve_torch.jpg` [U] (N01 q01: “அங்க ஒரு வடிவம் இருக்கு. குதிரை லாடம் மாதிரி. ஆங்கில எழுத்து U மாதிரி.”)  
+The curved end of a low overgrown stone ridge on the seabed bending away into the gloom on both sides, a torch beam crossing it, a diver in mask and tank small beside it. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**005** `EP12_005_N01q02_diver_tape_ridge.jpg` [U] (N01 q02: “சுத்தளவு 85 மீட்டர்.”)  
+A diver in mask and tank holding a long measuring tape along a low weed-covered stone ridge on the seabed, face hidden by the mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**006** `EP12_006_N01q03_towfish_lowered.jpg` [N] (N01 q03: “1991ல, இந்திய கடல் ஆய்வாளர்கள் இதை சோனார்ல பார்த்தாங்க.”)  
+A yellow torpedo-shaped sonar towfish being lowered on a cable from the stern of a small white research vessel, two crewmen seen from behind. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**007** `EP12_007_N01q03_sonar_trace_first.jpg` [R] (N01 q03: “1991ல, இந்திய கடல் ஆய்வாளர்கள் இதை சோனார்ல பார்த்தாங்க.”)  
+A paper chart recorder printing a grey sonar trace with a faint curved shadow on it, a technician's hand pointing at the curve with a pencil, no lettering on the paper. Cabin of an Indian research vessel around 1990, dim green instrument light, plain unlabelled equipment. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**008** `EP12_008_N01q04_port_city_wide.jpg` [P] (N01 q04: “இது பூம்புகார். சங்க காலத்து சோழர்களோட துறைமுக நகரம்.”)  
+Wide view of a great ancient Tamil port at a river mouth, wooden ships with square sails at anchor, warehouses and tall brick mansions, crowds on the wharf. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**009** `EP12_009_N01q05_waves_over_ruins.jpg` [D] (N01 q05: “கடல் விழுங்கின நகரம்னு நாம எல்லாரும் கேள்விப்பட்ட ஊரு.”)  
+Storm waves at dusk breaking over the half-drowned brick walls and broken pillars of an abandoned ancient shore town, no people. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**010** `EP12_010_N01q06_ice_age_plain_walkers.jpg` [I] (N01 q06: “இந்த வடிவத்துக்கு 11,000 வருஷம் வயசுன்னு ஒருத்தர் சொன்னார்.”)  
+A wide dry coastal plain with the sea far out on the horizon, a small band of hunter-gatherers walking in single file, cold pale light. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**011** `EP12_011_N01q07_seabed_map_monitor.jpg` [G] (N01 q07: “இல்ல, 15,000 வருஷம்னு இன்னொருத்தர் சொன்னார்.”)  
+A computer monitor showing a rainbow-coloured depth map of a seabed with ridges and channels, a man's hand pointing at a straight ridge, no lettering on the screen. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**012** `EP12_012_N01q08_phones_same_picture.jpg` [X] (N01 q08: “நிறைய வீடியோ அதையே திருப்பி திருப்பி சொல்லுது.”)  
+Several smartphones lying on the table, each screen glowing with the same blurred blue underwater picture, no lettering, no logos, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**013** `EP12_013_N01q09_hands_find_nothing.jpg` [U] (N01 q09: “ஆனா நண்பர்களே… அந்த வடிவத்துல இருந்து, காலம் கணிக்கக்கூடிய ஒரு பொருள் கூட எடுக்கப்பட்டதா எந்த அறிக்கையும் சொல்லல.”)  
+A diver's gloved hands brushing weed from rough overgrown stone on the seabed and finding nothing, a cloud of silt rising. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**014** `EP12_014_N01q09_empty_sample_tray.jpg` [X] (N01 q09: “ஆனா நண்பர்களே… அந்த வடிவத்துல இருந்து, காலம் கணிக்கக்கூடிய ஒரு பொருள் கூட எடுக்கப்பட்டதா எந்த அறிக்கையும் சொல்லல.”)  
+An empty steel specimen tray with empty plain unlabelled sample bags beside it, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**015** `EP12_015_N01q09_report_unreadable.jpg` [A] (N01 q09: “ஆனா நண்பர்களே… அந்த வடிவத்துல இருந்து, காலம் கணிக்கக்கூடிய ஒரு பொருள் கூட எடுக்கப்பட்டதா எந்த அறிக்கையும் சொல்லல.”)  
+An old typed research report lying open on a desk seen at a steep angle and out of focus so nothing can be read, top of the page out of frame, a pencil lying across it, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**016** `EP12_016_N01q10_brick_sherd_gap.jpg` [X] (N01 q10: “ஒரு செங்கல் இல்ல. ஒரு பானை ஓடு இல்ல. ஒரு எழுத்து இல்ல.”)  
+One ancient flat red brick and one broken potsherd lying in the light, a wide empty space of bare table beside them, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**017** `EP12_017_N01q10_blank_palm_leaf.jpg` [C] (N01 q10: “ஒரு செங்கல் இல்ல. ஒரு பானை ஓடு இல்ல. ஒரு எழுத்து இல்ல.”)  
+A blank dried palm-leaf strip and an iron stylus beside the lamp, no marks on the leaf at all, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**018** `EP12_018_N01q11_palm_leaf_shelf.jpg` [L] (N01 q11: “இன்னொரு விஷயம். கடல் புகாரை விழுங்குச்சுன்னு சங்கப் பாடல்கள் எங்கயுமே சொல்லல.”)  
+Bundles of old palm-leaf manuscripts tied with cord on a wooden shelf, lit by one oil lamp, no people. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**019** `EP12_019_N01q11_poet_calm_harbour.jpg` [P] refs: poet (N01 q11: “இன்னொரு விஷயம். கடல் புகாரை விழுங்குச்சுன்னு சங்கப் பாடல்கள் எங்கயுமே சொல்லல.”)  
+The elderly Tamil poet standing on a river bank looking at ships in a calm busy harbour, face clearly visible, peaceful mood, medium shot. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**020** `EP12_020_N01q12_storyteller_beach.jpg` [B] (N01 q12: “அப்போ அந்த கதை எங்க இருந்து வந்தது?”)  
+An old storyteller seen from behind telling a tale to villagers seated around an oil lamp on a beach at night, a dark sea behind. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**021** `EP12_021_N01q13_torch_into_dark.jpg` [U] (N01 q13: “கடலுக்கு அடியில நிஜமா என்ன இருக்கு?”)  
+A diver seen from behind, torch beam reaching into dark green water above a sandy seabed, vague shapes at the edge of the light. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**022** `EP12_022_N01q14_three_things_table.jpg` [X] (N01 q14: “இந்த வீடியோல மூணு விஷயத்தை தனித்தனியா பிரிச்சு பார்க்கப் போறோம். இலக்கியம் என்ன சொல்லுது. மண்ணுல என்ன கிடைச்சது. கடல்ல என்ன கிடைச்சது.”)  
+Three things laid well apart in the light: a bundle of palm-leaf manuscripts, an ancient red brick with a potsherd, and a diver's mask, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**023** `EP12_023_N01q14_trench_brick_wall.jpg` [E] (N01 q14: “இந்த வீடியோல மூணு விஷயத்தை தனித்தனியா பிரிச்சு பார்க்கப் போறோம். இலக்கியம் என்ன சொல்லுது. மண்ணுல என்ன கிடைச்சது. கடல்ல என்ன கிடைச்சது.”)  
+An excavation trench with a neat ancient brick wall exposed at the bottom, tools laid beside it, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**024** `EP12_024_N01q14_seabed_sherds_peg.jpg` [U] (N01 q14: “இந்த வீடியோல மூணு விஷயத்தை தனித்தனியா பிரிச்சு பார்க்கப் போறோம். இலக்கியம் என்ன சொல்லுது. மண்ணுல என்ன கிடைச்சது. கடல்ல என்ன கிடைச்சது.”)  
+Broken ancient pottery pieces half buried in sand on the seabed, a plain white marker peg beside them, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**025** `EP12_025_N01q15_boat_out_dawn.jpg` [M] (N01 q15: “கடைசி வரைக்கும் பாருங்க.”)  
+A small survey boat heading out to sea at dawn seen from behind, its wake stretching back toward a palm-lined coast. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**026** `EP12_026_N01q16_diver_lifts_fragment.jpg` [U] (N01 q16: “ஏன்னா 2026 செப்டம்பர்ல, டைவர்கள் அந்த கடலுக்கு அடியில ஒரு ஜாடித் துண்டை கண்டுபிடிச்சாங்க… அது செய்யப்பட்டது தமிழ்நாட்டுல இல்ல.”)  
+A diver in mask and tank lifting a large curved piece of a thick pale pottery jar from the sandy seabed, face hidden by the mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**027** `EP12_027_N01q16_fragment_wet_cloth.jpg` [M] (N01 q16: “ஏன்னா 2026 செப்டம்பர்ல, டைவர்கள் அந்த கடலுக்கு அடியில ஒரு ஜாடித் துண்டை கண்டுபிடிச்சாங்க… அது செய்யப்பட்டது தமிழ்நாட்டுல இல்ல.”)  
+A large curved fragment of a thick pale buff pottery jar, still wet, lying on a plain cloth on a boat deck, gloved hands beside it. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**028** `EP12_028_N01q16_gulf_potters_yard.jpg` [W] (N01 q16: “ஏன்னா 2026 செப்டம்பர்ல, டைவர்கள் அந்த கடலுக்கு அடியில ஒரு ஜாடித் துண்டை கண்டுபிடிச்சாங்க… அது செய்யப்பட்டது தமிழ்நாட்டுல இல்ல.”)  
+A potter's yard on the shore, rows of tall narrow torpedo-shaped clay jars without handles drying in the sun, a potter seen from behind carrying one. Ancient West Asia, bright dry Persian Gulf coast, date palms, mud-brick buildings, men in long plain tunics and head cloths. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N02
+
+**029** `EP12_029_N02q00_river_mouth_aerial.jpg` [T] (N02 q00: “காவிரி ஆறு வங்கக் கடல்ல கலக்கற இடம்.”)  
+Aerial view of a wide calm river meeting the sea across a sandbar, green delta fields and coconut groves, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**030** `EP12_030_N02q01_fishing_boats_beach.jpg` [T] (N02 q01: “இன்னிக்கு அங்க இருக்கறது ஒரு சின்ன கடலோர ஊரு. மயிலாடுதுறை மாவட்டத்துல, பூம்புகார்.”)  
+Painted wooden fishing boats pulled up on a sandy beach beside heaps of nets, fishermen in lungis seen from behind, a quiet small coastal town of low houses behind. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**031** `EP12_031_N02q01_village_street_quiet.jpg` [T] (N02 q01: “இன்னிக்கு அங்க இருக்கறது ஒரு சின்ன கடலோர ஊரு. மயிலாடுதுறை மாவட்டத்துல, பூம்புகார்.”)  
+A quiet coastal village street of low tiled houses and coconut palms, a man on a bicycle seen from behind. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**032** `EP12_032_N02q02_port_two_thousand.jpg` [P] (N02 q02: “2,000 வருஷத்துக்கு முன்னாடி அதுக்கு வேற பேரு. காவிரிப்பூம்பட்டினம். சுருக்கமா, புகார்.”)  
+The same river mouth two thousand years ago, a great port city of brick and timber along both banks, dozens of wooden ships with square sails. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**033** `EP12_033_N02q02_city_gate_crowd.jpg` [P] (N02 q02: “2,000 வருஷத்துக்கு முன்னாடி அதுக்கு வேற பேரு. காவிரிப்பூம்பட்டினம். சுருக்கமா, புகார்.”)  
+A tall timber and brick city gate with a busy crowd of traders, bullock carts and porters passing through. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**034** `EP12_034_N02q03_tiger_banner_wharf.jpg` [P] (N02 q03: “முற்கால சோழர்களோட துறைமுகம்.”)  
+A red cloth banner with a leaping tiger emblem flying from a tall wooden pole above a busy wharf, thatched warehouses and palms behind, plain sky. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**035** `EP12_035_N02q04_palm_leaf_poem.jpg` [C] (N02 q04: “இந்த ஊரை பத்தியே ஒரு முழு சங்கப் பாட்டு இருக்கு. பட்டினப்பாலை. 301 அடி.”)  
+A long bundle of palm-leaf strips fanned open, covered in fine eroded illegible scratches, steep raking light, shallow depth of field, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**036** `EP12_036_N02q04_poet_writing_lamp.jpg` [L] refs: poet (N02 q04: “இந்த ஊரை பத்தியே ஒரு முழு சங்கப் பாட்டு இருக்கு. பட்டினப்பாலை. 301 அடி.”)  
+The elderly poet seated cross-legged writing on a palm leaf with an iron stylus beside an oil lamp, face clearly visible. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**037** `EP12_037_N02q05_poet_before_king.jpg` [L] refs: poet, karikala (N02 q05: “பாடினவர் கடியலூர் உருத்திரங்கண்ணனார். பாட்டுடைத் தலைவன், கரிகால் சோழன்.”)  
+The elderly poet standing and reciting before king Karikala seated on a low carved throne in a pillared timber hall, both faces visible. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**038** `EP12_038_N02q05_karikala_terrace.jpg` [P] refs: karikala (N02 q05: “பாடினவர் கடியலூர் உருத்திரங்கண்ணனார். பாட்டுடைத் தலைவன், கரிகால் சோழன்.”)  
+King Karikala Chola standing on a palace terrace above his port, looking out at the ships, face clearly visible, medium shot. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**039** `EP12_039_N02q06_wharf_cargo_heaps.jpg` [P] (N02 q06: “அந்த பாட்டு, துறைமுகத்துல குவிஞ்சு கிடக்கற சரக்கை பட்டியல் போடுது.”)  
+Huge heaps of sacks, bales and clay jars stacked along a timber wharf, porters carrying loads, ships alongside. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**040** `EP12_040_N02q06_clerk_counting_sacks.jpg` [P] (N02 q06: “அந்த பாட்டு, துறைமுகத்துல குவிஞ்சு கிடக்கற சரக்கை பட்டியல் போடுது.”)  
+A harbour clerk with a palm leaf and stylus counting sacks while porters wait in line, medium shot. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**041** `EP12_041_N02q07_horses_and_pepper.jpg` [P] (N02 q07: “கடல் வழியா வந்த குதிரைகள். தரை வழியா வந்த மிளகு மூட்டைகள்.”)  
+Tall horses being led down a gangplank from a wooden ship onto the wharf by handlers, behind them bullock carts loaded with sacks of black pepper. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**042** `EP12_042_N02q08_gems_gold_cloth.jpg` [L] (N02 q08: “வடமலையில பிறந்த மணியும் பொன்னும். மேற்கு மலையில பிறந்த சந்தனமும் அகிலும்.”)  
+A merchant's hands pouring uncut gems and small gold pieces onto a cloth, bare arms with gold bangles, close shot. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**043** `EP12_043_N02q08_sandalwood_shed.jpg` [P] (N02 q08: “வடமலையில பிறந்த மணியும் பொன்னும். மேற்கு மலையில பிறந்த சந்தனமும் அகிலும்.”)  
+Stacked pale sandalwood logs and dark agarwood under a thatched shed, a trader smelling a shaving of wood. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**044** `EP12_044_N02q09_pearls_coral.jpg` [C] (N02 q09: “தென்கடல் முத்து. கீழ்க்கடல் பவளம். ஈழத்து உணவு. காழகத்து பொருள்.”)  
+A heap of white pearls and branches of red coral beside the lamp, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**045** `EP12_045_N02q09_ships_from_east.jpg` [P] (N02 q09: “தென்கடல் முத்து. கீழ்க்கடல் பவளம். ஈழத்து உணவு. காழகத்து பொருள்.”)  
+Ocean-going wooden ships with woven mat sails arriving from the open sea, sailors on deck, seen from the harbour mouth. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**046** `EP12_046_N02q10_tiger_seal_stamp.jpg` [P] (N02 q10: “சுங்க அதிகாரிங்க ஒவ்வொரு மூட்டை மேலயும் புலி முத்திரை குத்தி அனுப்பினாங்கன்னும் அது சொல்லுது.”)  
+A customs officer pressing a carved wooden seal with a tiger emblem onto a cloth-wrapped bale, close shot of bare arms with armlets. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**047** `EP12_047_N02q10_sealed_bales_yard.jpg` [P] (N02 q10: “சுங்க அதிகாரிங்க ஒவ்வொரு மூட்டை மேலயும் புலி முத்திரை குத்தி அனுப்பினாங்கன்னும் அது சொல்லுது.”)  
+Rows of cloth-wrapped bales each marked with a small red tiger stamp waiting in a warehouse yard, a guard with a spear. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**048** `EP12_048_N02q11_traders_many_lands.jpg` [P] (N02 q11: “பல மொழி பேசற, பல நாட்டு மக்கள் இங்க கலந்து வாழ்ந்தாங்கன்னும் சொல்லுது.”)  
+Traders from many lands talking together in a market street: a pale Mediterranean merchant in a tunic, a West Asian trader in a head cloth, a South-East Asian sailor, and Tamil merchants in dhotis. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**049** `EP12_049_N02q11_foreign_quarter_dusk.jpg` [D] (N02 q11: “பல மொழி பேசற, பல நாட்டு மக்கள் இங்க கலந்து வாழ்ந்தாங்கன்னும் சொல்லுது.”)  
+A waterfront street with foreign merchants' flat-roofed houses beside Tamil thatched ones, lamps being lit, wine jars stacked outside. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**050** `EP12_050_N02q12_ship_full_sail_enters.jpg` [P] (N02 q12: “புறநானூறு இன்னொரு விஷயம் சொல்லுது. பெரிய கப்பல்கள் பாயை இறக்காமலேயே புகார் துறைக்குள்ள நுழைஞ்சது.”)  
+A large wooden ship under full square sail gliding straight into a wide deep river mouth, people watching from the bank. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**051** `EP12_051_N02q12_deck_view_river_mouth.jpg` [P] (N02 q12: “புறநானூறு இன்னொரு விஷயம் சொல்லுது. பெரிய கப்பல்கள் பாயை இறக்காமலேயே புகார் துறைக்குள்ள நுழைஞ்சது.”)  
+View from a ship's deck entering a broad calm river mouth, the sail still full above, the port city ahead, sailors seen from behind. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**052** `EP12_052_N02q13_seafront_quarter.jpg` [P] (N02 q13: “சிலப்பதிகாரம் நகரத்தோட அமைப்பையே கொடுக்குது. கடலோரம் மருவூர்ப்பாக்கம். உள்ள பட்டினப்பாக்கம். நடுவுல நாளங்காடி.”)  
+The seafront quarter of the port: warehouses, fishermen's huts, salt pans and artisans' sheds beside the beach. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**053** `EP12_053_N02q13_day_market_trees.jpg` [P] (N02 q13: “சிலப்பதிகாரம் நகரத்தோட அமைப்பையே கொடுக்குது. கடலோரம் மருவூர்ப்பாக்கம். உள்ள பட்டினப்பாக்கம். நடுவுல நாளங்காடி.”)  
+A shaded open day market among big trees between two halves of the city, stalls of cloth, flowers and grain, a crowd of shoppers. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**054** `EP12_054_N02q14_merchant_couple_terrace.jpg` [D] (N02 q14: “கோவலனும் கண்ணகியும் பிறந்த ஊரும் இதுதான்.”)  
+A young merchant couple seen from behind on the terrace of a tall mansion, she with anklets and jasmine in her hair, he in a fine dhoti, the port below. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**055** `EP12_055_N02q15_greek_geographer.jpg` [O] (N02 q15: “கிரேக்க புவியியலாளர் தாலமி எழுதின கபேரிஸ் எம்போரியன்ங்கற துறைமுகமும் இதுதான்னு அறிஞர்கள் சொல்றாங்க.”)  
+A Greek geographer of the second century in a tunic and cloak seen from behind at a table in Alexandria, drawing a coastline on a papyrus sheet by the light of a clay oil lamp, no readable writing. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**056** `EP12_056_N02q15_old_map_divider.jpg` [C] (N02 q15: “கிரேக்க புவியியலாளர் தாலமி எழுதின கபேரிஸ் எம்போரியன்ங்கற துறைமுகமும் இதுதான்னு அறிஞர்கள் சொல்றாங்க.”)  
+A worn antique parchment map of a peninsula's coastline with tiny faded illegible marks, a brass divider lying on it, steep raking angle, shallow depth of field, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**057** `EP12_057_N02q16_city_evening_life.jpg` [D] (N02 q16: “ஆக, இலக்கியம் காட்டுறது உயிரோட இருக்கற ஒரு நகரத்தை.”)  
+The port city full of life, lamps in every window, people and musicians in the streets, ships at anchor. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**058** `EP12_058_N02q16_children_wharf_steps.jpg` [P] (N02 q16: “ஆக, இலக்கியம் காட்டுறது உயிரோட இருக்கற ஒரு நகரத்தை.”)  
+Children playing on the wharf steps beside moored boats while women carry water pots past. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**059** `EP12_059_N02q17_calm_sea_city_lamps.jpg` [D] (N02 q17: “அது அழிஞ்சதை பத்தி இந்த பாடல்கள் ஒரு வார்த்தை கூட சொல்லல.”)  
+The port seen from the sea, perfectly calm water reflecting the lamps of the city, no people. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**060** `EP12_060_N02q18_red_cloth_bundle.jpg` [L] (N02 q18: “அந்த கதை வர்றது வேற ஒரு நூல்ல.”)  
+A single palm-leaf manuscript bundle wrapped in red cloth lying apart from a pile of others on a shelf, a bare hand reaching for it. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N03
+
+**061** `EP12_061_N03q00_manuscript_unwrapped.jpg` [C] (N03 q00: “அந்த நூல், மணிமேகலை.”)  
+A palm-leaf manuscript bundle unwrapped from red cloth, leaves fanned, fine eroded illegible scratches, steep raking light, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**062** `EP12_062_N03q01_buddhist_poet_niche.jpg` [L] (N03 q01: “எழுதினவர் சீத்தலைச் சாத்தனார். இது ஒரு பௌத்த காப்பியம்.”)  
+An ancient Tamil merchant-poet seen from behind writing on a palm leaf, a small stone Buddha image and a lamp in a wall niche before him. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**063** `EP12_063_N03q02_monk_reading_cell.jpg` [L] (N03 q02: “சங்கப் பாடல்களுக்கு பின்னாடி எழுதப்பட்டது. சரியா எப்போன்னு அறிஞர்கள் நடுவுல இன்னும் கருத்து வேறுபாடு இருக்கு.”)  
+A Buddhist monk in an ochre robe seen from behind reading palm leaves in a small brick monastery cell. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**064** `EP12_064_N03q02_books_leaning_apart.jpg` [A] (N03 q02: “சங்கப் பாடல்களுக்கு பின்னாடி எழுதப்பட்டது. சரியா எப்போன்னு அறிஞர்கள் நடுவுல இன்னும் கருத்து வேறுபாடு இருக்கு.”)  
+Two stacks of old scholarly books on a desk leaning in opposite directions, a pair of spectacles between them, plain spines with no titles, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**065** `EP12_065_N03q03_moonlit_palace_shore.jpg` [B] (N03 q03: “அதுல வர்ற கதை இதுதான்.”)  
+A moonlit shore with a palace above the beach, lamps in its windows, calm sea, no people. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**066** `EP12_066_N03q04_king_meets_princess.jpg` [B] refs: king, peelivalai (N03 q04: “புகாரை ஆண்ட ஒரு சோழ மன்னனுக்கு, நாக நாட்டு இளவரசி பீலிவளை மூலமா ஒரு மகன் பிறக்கறான்.”)  
+The Chola king and the Naga princess Peelivalai meeting in a seaside grove of screw-pine and flowering trees, both faces visible. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**067** `EP12_067_N03q04_princess_infant.jpg` [B] refs: peelivalai (N03 q04: “புகாரை ஆண்ட ஒரு சோழ மன்னனுக்கு, நாக நாட்டு இளவரசி பீலிவளை மூலமா ஒரு மகன் பிறக்கறான்.”)  
+The Naga princess Peelivalai holding her infant son wrapped in cloth on an island shore, face visible, gentle mood. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**068** `EP12_068_N03q05_child_given_merchant.jpg` [B] refs: peelivalai (N03 q05: “அந்த குழந்தையை ஒரு வணிகனோட கப்பல்ல அப்பாகிட்ட அனுப்பி வைக்கிறா.”)  
+Peelivalai on an island jetty handing her wrapped infant to an elderly bearded merchant in a dhoti and shoulder cloth, a wooden ship waiting behind. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**069** `EP12_069_N03q05_ship_leaves_island.jpg` [B] (N03 q05: “அந்த குழந்தையை ஒரு வணிகனோட கப்பல்ல அப்பாகிட்ட அனுப்பி வைக்கிறா.”)  
+A wooden merchant ship with a square sail leaving a small green island at sunset, a woman's small figure watching from the shore. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**070** `EP12_070_N03q06_ship_storm_night.jpg` [B] (N03 q06: “ஆனா கரைக்கு பக்கத்துல, ராத்திரி இருட்டுல, கப்பல் உடைஞ்சு போகுது. குழந்தை காணாம போகுது.”)  
+A wooden ship driven by heavy waves near a dark shore at night, sail torn, lightning in the clouds, no people visible. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**071** `EP12_071_N03q06_wreckage_empty_cradle.jpg` [B] (N03 q06: “ஆனா கரைக்கு பக்கத்துல, ராத்திரி இருட்டுல, கப்பல் உடைஞ்சு போகுது. குழந்தை காணாம போகுது.”)  
+Broken ship timbers and an empty woven cradle basket washing onto a beach at grey dawn, no people. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**072** `EP12_072_N03q07_king_searching_surf.jpg` [B] refs: king (N03 q07: “மன்னன் கடற்கரை முழுக்க மகனை தேடி அலையறான்.”)  
+The Chola king walking alone along the surf at dawn, crown off, hair loose, searching the waves with grief on his face, guards far behind. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**073** `EP12_073_N03q08_king_grieving_hall.jpg` [L] refs: king (N03 q08: “அந்த துக்கத்துல, வருஷா வருஷம் நடக்கற இந்திர விழாவை நடத்த மறந்துடறான்.”)  
+The king sitting slumped on the steps below his throne in a dark hall, head bowed in grief, ministers waiting at a distance. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**074** `EP12_074_N03q08_festival_street_empty.jpg` [D] (N03 q08: “அந்த துக்கத்துல, வருஷா வருஷம் நடக்கற இந்திர விழாவை நடத்த மறந்துடறான்.”)  
+A festival street standing silent: bare poles without decorations, unlit lamps, a drum on its stand untouched, a few townspeople looking up anxiously. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**075** `EP12_075_N03q09_shrine_withered_garlands.jpg` [D] (N03 q09: “விழா நின்னா நகரத்தை கடல் கொள்ளும்னு ஒரு சாபம் முன்னாடியே இருந்தது.”)  
+A small ancient brick shrine with an unlit lamp and withered garlands, dark clouds gathering over the sea behind, no people. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**076** `EP12_076_N03q09_elders_at_gate.jpg` [L] (N03 q09: “விழா நின்னா நகரத்தை கடல் கொள்ளும்னு ஒரு சாபம் முன்னாடியே இருந்தது.”)  
+Old townsmen seen from behind speaking urgently to palace guards at a timber gate by torchlight. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**077** `EP12_077_N03q10_mythic_wave_goddess.jpg` [B] (N03 q10: “கடல் தெய்வம் மணிமேகலாவோட சாபம் பலிச்சது. புகாரை கடல் விழுங்குச்சு.”)  
+A towering dark wave rising over a sleeping port city at night, the faint shape of a woman's figure in the crest of the wave, as in a myth, no people in the streets. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**078** `EP12_078_N03q10_water_through_streets.jpg` [B] (N03 q10: “கடல் தெய்வம் மணிமேகலாவோட சாபம் பலிச்சது. புகாரை கடல் விழுங்குச்சு.”)  
+Sea water rushing between the brick houses of an ancient street at night, lamps going out one by one, no people visible. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**079** `EP12_079_N03q11_flooded_city_dawn.jpg` [B] (N03 q11: “இதுக்கு தமிழ்ல ஒரு வார்த்தை இருக்கு. கடல்கோள்.”)  
+Dawn over a flooded ancient city, only rooftops, a gate tower and palm crowns above calm water, no people. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**080** `EP12_080_N03q12_island_deity_speaks.jpg` [B] (N03 q12: “இப்போ கவனிங்க. இது ஒரு காப்பியத்துக்குள்ள, ஒரு தெய்வம் சொல்ற கதை.”)  
+A young woman ascetic in plain ochre cloth seen from behind, listening to a softly glowing guardian goddess on an island shore at night. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**081** `EP12_081_N03q13_leaf_no_date.jpg` [C] (N03 q13: “இதுல வருஷம் இல்ல. கடல் எவ்வளவு தூரம் உள்ள வந்ததுன்னு இல்ல. ஒரே ராத்திரியிலயா, பல வருஷத்துலயான்னும் இல்ல.”)  
+A single blank palm-leaf strip beside a stylus, no marks on it at all, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**082** `EP12_082_N03q13_footprints_tide_line.jpg` [T] (N03 q13: “இதுல வருஷம் இல்ல. கடல் எவ்வளவு தூரம் உள்ள வந்ததுன்னு இல்ல. ஒரே ராத்திரியிலயா, பல வருஷத்துலயான்னும் இல்ல.”)  
+A long empty beach at low tide with the waterline curving away, a line of footprints stopping at the water's edge, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**083** `EP12_083_N03q14_leaf_and_stone_apart.jpg` [X] (N03 q14: “அதனால இதை ஒரு வரலாற்று பதிவா அப்படியே எடுத்துக்க முடியாது.”)  
+A palm-leaf manuscript at one end of the table and a plain weathered stone slab at the other, the light falling on the empty gap between them, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**084** `EP12_084_N03q15_manuscript_put_back.jpg` [L] (N03 q15: “ஆனா ஒரேடியா தூக்கி போடவும் முடியாது.”)  
+Bare hands carefully re-wrapping a palm-leaf manuscript in red cloth and placing it back on a wooden shelf. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**085** `EP12_085_N03q16_sea_drawn_back.jpg` [B] (N03 q16: “கடற்கரை மக்கள் நிஜமா பார்த்த ஏதோ ஒரு பேரலையோட நினைவு, இப்படி ஒரு கதையா மாறியிருக்கலாம்னு கடல் தொல்லியலாளர்களே எழுதியிருக்காங்க.”)  
+Ancient fishermen on a beach seen from behind staring at the sea drawn far back, boats stranded on wet sand, an ominous white line on the horizon, grey daylight. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**086** `EP12_086_N03q16_grandmother_wave_story.jpg` [L] (N03 q16: “கடற்கரை மக்கள் நிஜமா பார்த்த ஏதோ ஒரு பேரலையோட நினைவு, இப்படி ஒரு கதையா மாறியிருக்கலாம்னு கடல் தொல்லியலாளர்களே எழுதியிருக்காங்க.”)  
+An old woman telling a story to children around an oil lamp in a thatched hut, her hands raised like a wave. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**087** `EP12_087_N03q16_marine_archaeologist_notes.jpg` [A] (N03 q16: “கடற்கரை மக்கள் நிஜமா பார்த்த ஏதோ ஒரு பேரலையோட நினைவு, இப்படி ஒரு கதையா மாறியிருக்கலாம்னு கடல் தொல்லியலாளர்களே எழுதியிருக்காங்க.”)  
+An Indian marine archaeologist seen from behind writing notes at a desk, a diving mask and a potsherd beside the lamp, no readable writing. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**088** `EP12_088_N03q17_spade_in_sand.jpg` [E] (N03 q17: “அது உண்மையா இல்லையான்னு சொல்ல வேண்டியது பாட்டு இல்ல. மண்ணு.”)  
+A spade standing upright in sandy soil at the edge of a freshly marked excavation square near palmyra palms, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N04
+
+**089** `EP12_089_N04q00_dig_camp_tents.jpg` [E] (N04 q00: “1963. இந்திய தொல்லியல் துறை பூம்புகார் கரையில தோண்ட ஆரம்பிச்சது.”)  
+White canvas tents of an archaeological camp among palmyra palms near a beach, workers arriving with baskets and spades. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**090** `EP12_090_N04q00_first_trench.jpg` [E] (N04 q00: “1963. இந்திய தொல்லியல் துறை பூம்புகார் கரையில தோண்ட ஆரம்பிச்சது.”)  
+Workers digging the first square trench in sandy soil with pickaxes, a supervisor in a sun hat seen from behind. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**091** `EP12_091_N04q01_supervisor_notebook.jpg` [E] (N04 q01: “1973 வரைக்கும், பல கட்டமா நடந்த அகழாய்வு. தலைமை, கே.வி. சௌந்தரராஜன்.”)  
+An Indian archaeologist in a white shirt and sun hat seen from behind at the edge of a trench, writing in a field notebook. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**092** `EP12_092_N04q01_trench_rows.jpg` [E] (N04 q01: “1973 வரைக்கும், பல கட்டமா நடந்த அகழாய்வு. தலைமை, கே.வி. சௌந்தரராஜன்.”)  
+Several neat square trenches in a row with string lines and measuring poles, baskets of soil, workers bent at their task. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**093** `EP12_093_N04q02_silted_channel.jpg` [E] (N04 q02: “கீழையூர்ங்கற இடத்துல, மண்ணு மூடிப்போன ஒரு பழைய காவிரி வாய்க்கால்ல, ஒரு செங்கல் கட்டுமானம் வெளிய வந்தது.”)  
+A shallow dry depression winding through fields, the trace of a silted-up old river channel, a trench cut across it, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**094** `EP12_094_N04q02_brick_emerging_silt.jpg` [E] (N04 q02: “கீழையூர்ங்கற இடத்துல, மண்ணு மூடிப்போன ஒரு பழைய காவிரி வாய்க்கால்ல, ஒரு செங்கல் கட்டுமானம் வெளிய வந்தது.”)  
+The top of an ancient brick wall emerging from damp dark silt at the bottom of a trench, a worker's bare hands brushing it clean. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**095** `EP12_095_N04q03_wharf_excavated.jpg` [E] (N04 q03: “தண்ணி ஓட ஒரு வழி. சரக்கு இறக்க ஒரு மேடை. அதை தாங்கி நிக்கற மரக் கம்பங்கள்.”)  
+An excavated ancient brick platform with a brick-lined water channel beside it and blackened wooden posts standing in the mud, seen from the trench edge, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**096** `EP12_096_N04q03_wooden_posts_close.jpg` [E] (N04 q03: “தண்ணி ஓட ஒரு வழி. சரக்கு இறக்க ஒரு மேடை. அதை தாங்கி நிக்கற மரக் கம்பங்கள்.”)  
+Close view of thick blackened ancient wooden posts set in wet silt beside old brickwork, raking light, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**097** `EP12_097_N04q04_wharf_alive.jpg` [P] (N04 q04: “அது ஒரு படகுத்துறை.”)  
+A small brick wharf on a river channel, flat-bottomed boats tied to wooden posts, porters unloading sacks onto the platform. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**098** `EP12_098_N04q05_wood_sample_tube.jpg` [E] (N04 q05: “அந்த மரக் கம்பத்தை கார்பன் டேட்டிங் பண்ணாங்க. வந்த காலம், கி.மு. மூணாம் நூற்றாண்டு வாக்கில.”)  
+Gloved hands cutting a small sample from a blackened ancient wooden post and dropping it into a plain glass tube, no labels. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**099** `EP12_099_N04q05_dating_lab_1960s.jpg` [O] (N04 q05: “அந்த மரக் கம்பத்தை கார்பன் டேட்டிங் பண்ணாங்க. வந்த காலம், கி.மு. மூணாம் நூற்றாண்டு வாக்கில.”)  
+An Indian laboratory of the 1960s with a bench of plain glass vacuum tubes and plain metal instruments, a scientist in a white coat seen from behind, daylight from a window, bare walls, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**100** `EP12_100_N04q06_posts_driven_new.jpg` [P] (N04 q06: “அதாவது கிட்டத்தட்ட 2,300 வருஷம்.”)  
+Pale new wooden posts being driven into a river bank by workers with heavy wooden mallets. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**101** `EP12_101_N04q07_curved_reservoir_wall.jpg` [E] (N04 q07: “வானகிரியில, அரை வட்டமா ஒரு செங்கல் நீர்த்தேக்கம்.”)  
+An excavated curved semicircular ancient brick wall of a small reservoir in a trench, a plain measuring pole laid against it, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**102** `EP12_102_N04q08_vihara_foundations.jpg` [E] (N04 q08: “பல்லவனீச்சரத்துல ஒரு பௌத்த விகாரை. அதுக்குள்ள, புத்தரோட பாதம் செதுக்கின ஒரு கல்.”)  
+Excavated brick foundations of a row of small monastery cells along a corridor, palm trees behind, one worker sweeping. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**103** `EP12_103_N04q08_footprint_slab.jpg` [E] (N04 q08: “பல்லவனீச்சரத்துல ஒரு பௌத்த விகாரை. அதுக்குள்ள, புத்தரோட பாதம் செதுக்கின ஒரு கல்.”)  
+A pale limestone slab carved with a pair of footprints and simple wheel symbols lying in an excavation trench, raking light, no lettering, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**104** `EP12_104_N04q09_square_copper_coins.jpg` [C] (N04 q09: “முற்கால சோழர்களோட சதுர செப்புக் காசுகள்.”)  
+A handful of small square corroded green copper coins, a worn faint animal shape on one, no lettering, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**105** `EP12_105_N04q10_brick_on_manuscript.jpg` [X] (N04 q10: “ஆக, பட்டினப்பாலை பாடின நகரம் கற்பனை இல்ல. அது மண்ணுக்கு அடியில இருக்கு.”)  
+An ancient red brick resting on top of a palm-leaf manuscript in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**106** `EP12_106_N04q10_buried_walls_cropmarks.jpg` [T] (N04 q10: “ஆக, பட்டினப்பாலை பாடின நகரம் கற்பனை இல்ல. அது மண்ணுக்கு அடியில இருக்கு.”)  
+Green rice fields and coconut palms seen from above, faint straight lines of buried walls showing as marks in the crop, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**107** `EP12_107_N04q11_archaeologist_stands_still.jpg` [E] (N04 q11: “ஆனா இங்க ஒரு முக்கியமான விஷயம்.”)  
+An archaeologist seen from behind standing still at the trench edge, looking down at brick foundations in evening light. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**108** `EP12_108_N04q12_monks_courtyard.jpg` [Y] (N04 q12: “அந்த பௌத்த விகாரையோட காலம், கி.பி. 4, 5ஆம் நூற்றாண்டு.”)  
+Buddhist monks in ochre robes walking in the brick courtyard of a small monastery near the sea. Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**109** `EP12_109_N04q12_lamp_before_footprints.jpg` [L] (N04 q12: “அந்த பௌத்த விகாரையோட காலம், கி.பி. 4, 5ஆம் நூற்றாண்டு.”)  
+An oil lamp and flowers placed before a carved stone slab of the Buddha's footprints in a small brick shrine, a monk's joined hands at the edge of the frame. Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**110** `EP12_110_N04q13_boy_saint_sings.jpg` [Y] (N04 q13: “7ஆம் நூற்றாண்டுல திருஞானசம்பந்தர், இதே காவிரிப்பூம்பட்டினத்துல இருக்கற பல்லவனீச்சரம் கோயிலை பாடியிருக்கார்.”)  
+A boy saint seen from behind with small cymbals in his raised hands, singing before a small early Shiva temple near the sea, devotees listening with folded hands. Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**111** `EP12_111_N04q13_temple_near_shore.jpg` [Y] (N04 q13: “7ஆம் நூற்றாண்டுல திருஞானசம்பந்தர், இதே காவிரிப்பூம்பட்டினத்துல இருக்கற பல்லவனீச்சரம் கோயிலை பாடியிருக்கார்.”)  
+A small early Shiva temple with a low tower among palms close to the shore, a lamp burning at the doorway, no people. Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**112** `EP12_112_N04q14_trench_layers.jpg` [E] (N04 q14: “தமிழ்நாடு தொல்லியல் துறை பின்னாடி தோண்டினப்போ, கி.மு. 300ல இருந்து கி.பி. 1200 வரைக்கும் மக்கள் வாழ்ந்த தடயம் கிடைச்சது.”)  
+The cut side wall of a deep trench showing many coloured layers of soil with potsherds and lines of brick at different depths, a plain measuring pole, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**113** `EP12_113_N04q14_sherds_in_sequence.jpg` [A] (N04 q14: “தமிழ்நாடு தொல்லியல் துறை பின்னாடி தோண்டினப்போ, கி.மு. 300ல இருந்து கி.பி. 1200 வரைக்கும் மக்கள் வாழ்ந்த தடயம் கிடைச்சது.”)  
+Rows of potsherds laid out in order on a cloth-covered table, from rough dark early pieces to later glazed ones, bare hands arranging them, no labels. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**114** `EP12_114_N04q14_medieval_street.jpg` [Y] (N04 q14: “தமிழ்நாடு தொல்லியல் துறை பின்னாடி தோண்டினப்போ, கி.மு. 300ல இருந்து கி.பி. 1200 வரைக்கும் மக்கள் வாழ்ந்த தடயம் கிடைச்சது.”)  
+A village street with a granite temple gateway, bullock cart and people going about their day, the sea visible at the end of the street. Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**115** `EP12_115_N04q15_town_and_broken_edge.jpg` [D] (N04 q15: “அப்படின்னா, ஒரே ராத்திரியில மொத்த நகரமும் கடலுக்குள்ள போயிடல.”)  
+An ancient town carrying on its life with lamps and cooking fires, while the sea laps at broken walls on its outer edge. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**116** `EP12_116_N04q16_shore_cliff_walls.jpg` [D] (N04 q16: “ஊரு தொடர்ந்து இருந்திருக்கு. அதோட கடலோரப் பகுதிதான் காணாம போயிருக்கு.”)  
+Waves undercutting a low earth cliff where the brick walls of old houses hang broken over the beach, no people. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**117** `EP12_117_N04q16_inland_market_alive.jpg` [Y] (N04 q16: “ஊரு தொடர்ந்து இருந்திருக்கு. அதோட கடலோரப் பகுதிதான் காணாம போயிருக்கு.”)  
+The inland part of the town busy with a market under trees, while far behind it the sea shows through a gap of ruined walls. Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**118** `EP12_118_N04q17_diver_backroll.jpg` [M] (N04 q17: “அந்த பகுதியை தேடணும்னா, கடலுக்குள்ள இறங்கணும்.”)  
+A diver in mask and tank rolling backward off the side of a small boat into the sea, a splash, a palm coast far behind. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N05
+
+**119** `EP12_119_N05q00_survey_boat_1981.jpg` [N] (N05 q00: “1981ல ஒரு முதல் கட்ட ஆய்வு. 1990கள்ல முழு வேகம்.”)  
+A small wooden survey boat of the early 1980s, two men seen from behind lowering a weighted line into the sea near a palm coast. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**120** `EP12_120_N05q00_research_vessel_anchor.jpg` [N] (N05 q00: “1981ல ஒரு முதல் கட்ட ஆய்வு. 1990கள்ல முழு வேகம்.”)  
+A white research vessel at anchor off a low palm-lined coast, a rubber dinghy alongside, no people. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**121** `EP12_121_N05q01_institute_on_hill.jpg` [O] (N05 q01: “கோவாவுல இருக்கற தேசிய கடலியல் நிறுவனம் (NIO). கூடவே தமிழ்நாடு தொல்லியல் துறை.”)  
+A plain institute building of the 1980s on a green hillside above the sea in Goa, coconut palms, monsoon clouds, no signboards, no lettering, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**122** `EP12_122_N05q01_team_chart_deck.jpg` [N] (N05 q01: “கோவாவுல இருக்கற தேசிய கடலியல் நிறுவனம் (NIO). கூடவே தமிழ்நாடு தொல்லியல் துறை.”)  
+A team of Indian marine archaeologists and officials seen from behind on a ship's deck, studying a rolled chart held open between them. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**123** `EP12_123_N05q02_senior_archaeologist_rail.jpg` [N] (N05 q02: “வழிநடத்தினவர் எஸ்.ஆர். ராவ். குஜராத் கடல்ல துவாரகையை தேடின அதே ஆய்வாளர்.”)  
+A senior Indian marine archaeologist with grey hair seen from behind at a ship's rail, looking at the coast through binoculars. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**124** `EP12_124_N05q02_gujarat_dive_blocks.jpg` [O] (N05 q02: “வழிநடத்தினவர் எஸ்.ஆர். ராவ். குஜராத் கடல்ல துவாரகையை தேடின அதே ஆய்வாளர்.”)  
+Divers in the 1980s examining large squared stone blocks on a shallow sunlit seabed off the coast of Gujarat, faces hidden by masks, clear green water. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**125** `EP12_125_N05q03_surf_over_brickwork.jpg` [T] (N05 q03: “முதல்ல, அலை வந்து வந்து போற கரையோரம்.”)  
+Waves washing in and out over a flat sandy foreshore at low tide, dark shapes of old brickwork just showing through the foam, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**126** `EP12_126_N05q04_ring_well_in_surf.jpg` [T] (N05 q04: “வானகிரி, சின்னவானகிரி பக்கம், அலைக்கு நடுவுல சுடுமண் உறை கிணறுகள் தெரிஞ்சது.”)  
+The round rim of an ancient terracotta ring well standing in the wash of the waves on a beach, water swirling inside it, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**127** `EP12_127_N05q04_ring_wells_measured.jpg` [T] (N05 q04: “வானகிரி, சின்னவானகிரி பக்கம், அலைக்கு நடுவுல சுடுமண் உறை கிணறுகள் தெரிஞ்சது.”)  
+Two ancient terracotta ring wells exposed in wet sand at low tide, an archaeologist seen from behind kneeling beside one with a plain scale rod. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**128** `EP12_128_N05q05_well_in_yard_then.jpg` [P] (N05 q05: “கிணறு யாரும் கடலுக்குள்ள தோண்ட மாட்டாங்க. அப்போ அந்த இடம் ஒரு காலத்துல தரை.”)  
+Women drawing water with clay pots from a terracotta ring well in the yard of a house, coconut palms. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**129** `EP12_129_N05q05_well_wave_now.jpg` [T] (N05 q05: “கிணறு யாரும் கடலுக்குள்ள தோண்ட மாட்டாங்க. அப்போ அந்த இடம் ஒரு காலத்துல தரை.”)  
+A terracotta ring well half buried on an empty beach with a wave breaking over it, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**130** `EP12_130_N05q06_wall_and_jar_foreshore.jpg` [T] (N05 q06: “கூடவே செங்கல் கட்டுமானங்கள். பெரிய சேமிப்பு ஜாடிகள்.”)  
+A line of ancient brick wall and the rim of a large buried storage jar exposed in the sand of the foreshore at low tide, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**131** `EP12_131_N05q07_shallow_dive_bright.jpg` [U] (N05 q07: “அடுத்தது, 5ல இருந்து 7 மீட்டர் ஆழம். காவிரி முகத்துவாரத்துக்கு வடக்க.”)  
+Two divers in masks and tanks swimming down through bright shallow green water toward a sandy seabed, strong sunlight. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**132** `EP12_132_N05q07_river_mouth_from_boat.jpg` [N] (N05 q07: “அடுத்தது, 5ல இருந்து 7 மீட்டர் ஆழம். காவிரி முகத்துவாரத்துக்கு வடக்க.”)  
+The mouth of a river seen from a boat a little way out to sea, a sandbar and palms, a diver's flag buoy floating in the foreground, no people. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**133** `EP12_133_N05q08_dressed_blocks_seabed.jpg` [U] (N05 q08: “அங்க செதுக்கின கல் பலகைகள். அதுல ஒண்ணு அரை வட்டம், L வடிவத்துல ஒரு வெட்டோட.”)  
+Several squared dressed stone blocks lying scattered on a sandy seabed in shallow water, lightly covered with weed, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**134** `EP12_134_N05q08_half_round_block.jpg` [U] (N05 q08: “அங்க செதுக்கின கல் பலகைகள். அதுல ஒண்ணு அரை வட்டம், L வடிவத்துல ஒரு வெட்டோட.”)  
+A half-round dressed stone block with a right-angled notch cut into it lying on the seabed, a diver's hand holding a plain scale rod beside it. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**135** `EP12_135_N05q09_sherd_from_sand.jpg` [U] (N05 q09: “பானை ஓடுகளும் கிடைச்சது. அதோட காலம், கி.மு. 300ல இருந்து கி.பி. 300.”)  
+A diver's gloved hand picking a red potsherd out of the sand on the seabed. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**136** `EP12_136_N05q09_sherds_tray_deck.jpg` [N] (N05 q09: “பானை ஓடுகளும் கிடைச்சது. அதோட காலம், கி.மு. 300ல இருந்து கி.பி. 300.”)  
+Wet potsherds of black-and-red ware laid in a plain tray on a boat deck, bare hands sorting them, no labels. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**137** `EP12_137_N05q09_sherd_magnifier.jpg` [A] (N05 q09: “பானை ஓடுகளும் கிடைச்சது. அதோட காலம், கி.மு. 300ல இருந்து கி.பி. 300.”)  
+A potsherd under a desk magnifier, a hand turning it, drawing instruments beside it, no readable writing. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**138** `EP12_138_N05q10_potter_wheel_yard.jpg` [P] (N05 q10: “அதாவது சரியா சங்க காலம்.”)  
+A potter shaping a black-and-red pot on a wheel outside a hut, finished pots drying in rows. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**139** `EP12_139_N05q11_profiler_recorder.jpg` [R] (N05 q11: “கடல் தரைக்கு கீழ ஒலி அலை அனுப்பி பார்த்தப்போ இன்னொண்ணு தெரிஞ்சது.”)  
+A paper chart recorder drawing wavy grey layers of the seabed, a technician's hand on a plain dial, no lettering. Cabin of an Indian research vessel around 1990, dim green instrument light, plain unlabelled equipment. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**140** `EP12_140_N05q12_buried_valley_trace.jpg` [R] (N05 q12: “மண்ணுக்குள்ள புதைஞ்ச ஒரு பழைய காவிரி ஆற்றுப் பாதை. 300ல இருந்து 500 மீட்டர் அகலம்.”)  
+Close view of a grey paper sonar trace showing a broad dip like a buried valley under flat layers, a pencil tip pointing at it, no lettering. Cabin of an Indian research vessel around 1990, dim green instrument light, plain unlabelled equipment. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**141** `EP12_141_N05q12_ancient_river_broad.jpg` [P] (N05 q12: “மண்ணுக்குள்ள புதைஞ்ச ஒரு பழைய காவிரி ஆற்றுப் பாதை. 300ல இருந்து 500 மீட்டர் அகலம்.”)  
+A broad river flowing to the sea between green banks seen from high above, small boats on it, no people visible. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**142** `EP12_142_N05q13_wreck_ribs.jpg` [U] (N05 q13: “19 மீட்டர் ஆழத்துல ஒரு உடைஞ்ச கப்பலும் கிடைச்சது. உள்ள ஈயக் கட்டிகள்.”)  
+The broken ribs and timbers of an old wooden sailing ship half buried in the seabed and overgrown with weed, a diver hovering above, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**143** `EP12_143_N05q13_lead_ingots_pile.jpg` [U] (N05 q13: “19 மீட்டர் ஆழத்துல ஒரு உடைஞ்ச கப்பலும் கிடைச்சது. உள்ள ஈயக் கட்டிகள்.”)  
+A pile of dull grey boat-shaped lead ingots lying among ship timbers on the seabed, dusted with silt, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**144** `EP12_144_N05q14_ingot_worn_stamp.jpg` [O] (N05 q14: “அந்த கட்டிகள் மேல வருஷம் அடிச்சிருந்தது. 1791. 1792.”)  
+Close view of a heavy grey lead ingot on a wet boat deck, a worn stamped mark in its surface too corroded to read, gloved fingers brushing it, shallow depth of field. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**145** `EP12_145_N05q14_ingot_brush_tray.jpg` [N] (N05 q14: “அந்த கட்டிகள் மேல வருஷம் அடிச்சிருந்தது. 1791. 1792.”)  
+Bare hands cleaning a grey lead ingot with a soft brush in a tray of water on a ship's deck. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**146** `EP12_146_N05q15_merchant_ship_1790s.jpg` [O] (N05 q15: “அது சோழர் காலம் இல்ல. ஐரோப்பிய கம்பெனிகள் காலத்து கப்பல்.”)  
+A three-masted European merchant sailing ship of the 1790s under sail off a low palm-lined South Indian coast, evening light, no flags, no people visible. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**147** `EP12_147_N05q16_anchor_beside_blocks.jpg` [U] (N05 q16: “இதுல ஒரு பாடம் இருக்கு. கடலுக்கு அடியில கிடக்கற எல்லாமே ரொம்ப பழசு இல்ல. ஆழம் மட்டும் வயசை சொல்லாது.”)  
+A rusted eighteenth-century iron anchor lying on the seabed next to much older worn stone blocks, both covered in the same weed, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**148** `EP12_148_N05q16_depth_gauge_wrist.jpg` [U] (N05 q16: “இதுல ஒரு பாடம் இருக்கு. கடலுக்கு அடியில கிடக்கற எல்லாமே ரொம்ப பழசு இல்ல. ஆழம் மட்டும் வயசை சொல்லாது.”)  
+A diver's wrist depth gauge held up in green water, a plain dial with a needle and no readable numbers, the seabed blurred below. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**149** `EP12_149_N05q16_weighted_line_sinking.jpg` [U] (N05 q16: “இதுல ஒரு பாடம் இருக்கு. கடலுக்கு அடியில கிடக்கற எல்லாமே ரொம்ப பழசு இல்ல. ஆழம் மட்டும் வயசை சொல்லாது.”)  
+A weighted measuring line dropping through the water toward the seabed, the light fading with depth, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**150** `EP12_150_N05q17_vessel_further_out.jpg` [N] (N05 q17: “இந்த பாடத்தை ஞாபகம் வெச்சுக்கோங்க. ஏன்னா அடுத்து வர்றது, 23 மீட்டர்.”)  
+The research vessel heading further out to sea, the coast now a thin line behind it, crew seen from behind at the stern. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**151** `EP12_151_N05q17_deeper_darker_water.jpg` [U] (N05 q17: “இந்த பாடத்தை ஞாபகம் வெச்சுக்கோங்க. ஏன்னா அடுத்து வர்றது, 23 மீட்டர்.”)  
+Looking down into much deeper, darker blue-green water where the light fails, a faint curved shape on the seabed far below, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N06
+
+**152** `EP12_152_N06q00_vessel_hazy_march.jpg` [N] (N06 q00: “1991. மார்ச் 23.”)  
+The research vessel at sea on a hot hazy morning, a cable running from its stern into the water, no people. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**153** `EP12_153_N06q00_logbook_chart_table.jpg` [R] (N06 q00: “1991. மார்ச் 23.”)  
+A ship's logbook lying open on a chart table with a pencil and brass dividers, the pages blurred and unreadable, seen at a steep angle, no people. Cabin of an Indian research vessel around 1990, dim green instrument light, plain unlabelled equipment. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**154** `EP12_154_N06q01_towfish_over_seabed.jpg` [U] (N06 q01: “ஆய்வுக் கப்பலுக்கு பின்னாடி இழுத்துட்டு போற சைட் ஸ்கேன் சோனார், கடல் தரையில 3 மேடுகளை காட்டுச்சு.”)  
+A yellow torpedo-shaped sonar towfish gliding on its cable above a flat sandy seabed, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**155** `EP12_155_N06q01_three_blotches_trace.jpg` [R] (N06 q01: “ஆய்வுக் கப்பலுக்கு பின்னாடி இழுத்துட்டு போற சைட் ஸ்கேன் சோனார், கடல் தரையில 3 மேடுகளை காட்டுச்சு.”)  
+A grey paper sonar printout showing three dark blotches in a row on a flat pale seabed, the middle one curved like a horseshoe, a technician's finger touching it, no lettering. Cabin of an Indian research vessel around 1990, dim green instrument light, plain unlabelled equipment. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**156** `EP12_156_N06q02_coast_thin_line.jpg` [N] (N06 q02: “கடைக்காடு கிராமத்துக்கு நேரா, கரையில இருந்து 5 கிலோமீட்டர். ஆழம் 23 மீட்டர்.”)  
+View from the ship toward a very distant low coast, only a thin line of palms on the horizon across open water, no people. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**157** `EP12_157_N06q02_sounding_line_paid_out.jpg` [N] (N06 q02: “கடைக்காடு கிராமத்துக்கு நேரா, கரையில இருந்து 5 கிலோமீட்டர். ஆழம் 23 மீட்டர்.”)  
+A sailor seen from behind paying out a knotted sounding line over the ship's side into deep green water. Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**158** `EP12_158_N06q03_three_divers_descend.jpg` [U] (N06 q03: “டைவர்கள் இறங்கி பார்த்தாங்க. நடுவுல இருந்த மேடு, குதிரை லாடம் மாதிரி வளைஞ்சிருந்தது.”)  
+Three divers in masks and tanks descending a rope line into dim deep green water, torches on, faces hidden. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**159** `EP12_159_N06q03_torch_sweeps_curve.jpg` [U] (N06 q03: “டைவர்கள் இறங்கி பார்த்தாங்க. நடுவுல இருந்த மேடு, குதிரை லாடம் மாதிரி வளைஞ்சிருந்தது.”)  
+A torch beam sweeping along a low curving weed-covered stone ridge on the seabed that bends round like a horseshoe, a diver small beside it. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**160** `EP12_160_N06q04_two_divers_tape.jpg` [U] (N06 q04: “1993ல மறுபடி இறங்கி அளந்தாங்க.”)  
+Two divers stretching a long measuring tape along the top of a low overgrown stone ridge on the seabed, faces hidden by masks. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**161** `EP12_161_N06q05_ushape_whole_above.jpg` [U] (N06 q05: “சுத்தளவு 85 மீட்டர். ரெண்டு கைகளுக்கு நடுவுல 13 மீட்டர். உயரம் அதிகபட்சம் 2 மீட்டர்.”)  
+The whole low horseshoe-shaped overgrown ridge seen from high above through murky water, a tiny diver over one arm showing its great size, the open end toward the top of the frame. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**162** `EP12_162_N06q05_ridge_height_diver.jpg` [U] (N06 q05: “சுத்தளவு 85 மீட்டர். ரெண்டு கைகளுக்கு நடுவுல 13 மீட்டர். உயரம் அதிகபட்சம் 2 மீட்டர்.”)  
+A diver standing on the seabed beside the overgrown ridge, which rises to just above his head, holding a plain scale pole upright, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**163** `EP12_163_N06q06_compass_over_ridge.jpg` [U] (N06 q06: “வடக்கு தெற்கா கிடக்குது. கிழக்கு கை, மேற்கு கையை விட உயரம்.”)  
+A diver's gloved hand holding a plain underwater compass above the overgrown ridge, no readable lettering. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**164** `EP12_164_N06q06_two_arms_unequal.jpg` [U] (N06 q06: “வடக்கு தெற்கா கிடக்குது. கிழக்கு கை, மேற்கு கையை விட உயரம்.”)  
+View from the open end of the horseshoe ridge showing one arm clearly taller than the other, bare sand between them, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**165** `EP12_165_N06q07_marine_growth_macro.jpg` [U] (N06 q07: “மேல முழுக்க சிப்பி, பாசி, கடல் உயிரினங்கள்.”)  
+Close view of thick barnacles, oysters, sponges and sea fans completely covering a rough surface, tiny fish, no stone visible, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**166** `EP12_166_N06q08_level_rows_hint.jpg` [U] (N06 q08: “சில இடத்துல, கல் அடுக்கி கட்டின மாதிரி சில வரிசைகள் தெரிஞ்சதுன்னு அறிக்கை சொல்லுது.”)  
+A patch on the overgrown ridge where the growth is thinner and rough stone seems to lie in two or three level rows, a diver's hand hovering near, unclear whether built or natural. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**167** `EP12_167_N06q08_hand_fanning_silt.jpg` [U] (N06 q08: “சில இடத்துல, கல் அடுக்கி கட்டின மாதிரி சில வரிசைகள் தெரிஞ்சதுன்னு அறிக்கை சொல்லுது.”)  
+A diver's gloved hand fanning silt away from the sandy floor inside the horseshoe, rough rock just appearing under the sand. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**168** `EP12_168_N06q09_two_notebook_sketches.jpg` [A] (N06 q09: “ஆனா அதே நிறுவனத்தோட இன்னொரு குறிப்புல அளவுகள் வேற மாதிரி இருக்கு. நீளம் 40 மீட்டர். அகலம் 20.”)  
+Two open field notebooks side by side on a desk with different pencil sketches of a horseshoe outline, one long and narrow, one short and wide, no writing, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**169** `EP12_169_N06q09_diver_sketch_slate.jpg` [U] (N06 q09: “ஆனா அதே நிறுவனத்தோட இன்னொரு குறிப்புல அளவுகள் வேற மாதிரி இருக்கு. நீளம் 40 மீட்டர். அகலம் 20.”)  
+A diver sketching a horseshoe outline with a pencil on a white underwater slate, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**170** `EP12_170_N06q09_tape_slack_current.jpg` [U] (N06 q09: “ஆனா அதே நிறுவனத்தோட இன்னொரு குறிப்புல அளவுகள் வேற மாதிரி இருக்கு. நீளம் 40 மீட்டர். அகலம் 20.”)  
+A measuring tape lying slack across weed-covered stone in a murky current, poor visibility, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**171** `EP12_171_N06q10_diver_lost_in_murk.jpg` [U] (N06 q10: “அளவுலயே இவ்வளவு வித்தியாசம்.”)  
+A diver almost lost in thick green murk above the seabed, the torch beam reaching only a metre or two. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**172** `EP12_172_N06q11_typed_report_mask.jpg` [A] (N06 q11: “இது கோயிலா, வேற ஏதாவது கட்டடமான்னு அடுத்த ஆய்வுல பார்க்கணும்னு முதல் அறிக்கையே எழுதி வெச்சது.”)  
+A typed research report in a plain card cover on a desk, seen at a steep angle and out of focus so nothing can be read, top of the page out of frame, a diving mask beside it, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**173** `EP12_173_N06q11_pencil_unfinished_outline.jpg` [A] (N06 q11: “இது கோயிலா, வேற ஏதாவது கட்டடமான்னு அடுத்த ஆய்வுல பார்க்கணும்னு முதல் அறிக்கையே எழுதி வெச்சது.”)  
+A hand with a pencil stopped above an unfinished sketch of a horseshoe-shaped outline on plain paper, no writing. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**174** `EP12_174_N06q12_ridge_left_alone.jpg` [U] (N06 q12: “ஆனா அங்க தோண்டி பார்க்கற அகழாய்வு இதுவரைக்கும் நடக்கல.”)  
+The overgrown horseshoe ridge alone on the seabed, fish drifting over it, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**175** `EP12_175_N06q13_three_pebbles.jpg` [X] (N06 q13: “இப்போ மூணு கேள்வி.”)  
+Three smooth sea pebbles placed in a row in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**176** `EP12_176_N06q14_natural_beachrock.jpg` [U] (N06 q14: “ஒண்ணு. இது மனுஷன் கட்டினதா? இல்ல இயற்கையா உருவான பாறையா?”)  
+A natural curved ridge of layered beach rock on the seabed, cracked by nature into block-like pieces and overgrown, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**177** `EP12_177_N06q14_mason_sets_block.jpg` [P] (N06 q14: “ஒண்ணு. இது மனுஷன் கட்டினதா? இல்ல இயற்கையா உருவான பாறையா?”)  
+A mason setting a squared stone block onto a low wall with a wooden lever, another row already laid. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**178** `EP12_178_N06q15_hourglass_wet_stone.jpg` [X] (N06 q15: “ரெண்டு. கட்டினதுன்னா, எப்போ?”)  
+A plain hourglass with sand running, standing on a wet dark stone in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**179** `EP12_179_N06q16_shore_wall_tide.jpg` [D] (N06 q16: “மூணு. தரையில கட்டினது கடலுக்குள்ள போச்சா? இல்ல தரையே கீழ இறங்குச்சா?”)  
+A low curved stone wall on a shore with the tide rising around its base, no people. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**180** `EP12_180_N06q16_delta_mud_sagging.jpg` [O] (N06 q16: “மூணு. தரையில கட்டினது கடலுக்குள்ள போச்சா? இல்ல தரையே கீழ இறங்குச்சா?”)  
+A cutaway side view painted like a plain geological illustration: soft layers of delta mud sagging downward beneath the sea with a small stone ridge resting on top, muted colours, no labels, no lettering, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**181** `EP12_181_N06q17_sherd_charcoal_dish.jpg` [X] (N06 q17: “இந்த மூணுக்கும் பதில் சொல்ல தேவையானது ஒண்ணுதான். காலம் கணிக்கக்கூடிய ஒரு பொருள்.”)  
+A single potsherd and a small piece of charcoal in a plain glass dish in the light, a soft brush beside them, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**182** `EP12_182_N06q17_empty_mesh_bag.jpg` [U] (N06 q17: “இந்த மூணுக்கும் பதில் சொல்ல தேவையானது ஒண்ணுதான். காலம் கணிக்கக்கூடிய ஒரு பொருள்.”)  
+A diver's gloved hand holding an empty mesh sample bag above the overgrown ridge. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**183** `EP12_183_N06q18_ridge_fading_dark.jpg` [U] (N06 q18: “அது கிடைக்கல. அந்த வெற்றிடத்துலதான்… பெரிய பெரிய எண்கள் வந்து உட்கார்ந்தது.”)  
+The overgrown horseshoe ridge fading into dark water as the light fails, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**184** `EP12_184_N06q18_plain_books_tapes.jpg` [X] (N06 q18: “அது கிடைக்கல. அந்த வெற்றிடத்துலதான்… பெரிய பெரிய எண்கள் வந்து உட்கார்ந்தது.”)  
+A stack of thick paperback books and video cassettes with plain blank covers in the light, no lettering, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N07
+
+**185** `EP12_185_N07q00_writer_on_beach.jpg` [O] (N07 q00: “2001. பிரிட்டிஷ் எழுத்தாளர் கிரஹாம் ஹான்காக் பூம்புகாருக்கு வந்தார்.”)  
+A tall European writer in a sun hat and linen shirt seen from behind walking along a Tamil fishing beach with a camera bag, palm trees and wooden boats, around the year 2001, morning light, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**186** `EP12_186_N07q00_film_crew_loading.jpg` [O] (N07 q00: “2001. பிரிட்டிஷ் எழுத்தாளர் கிரஹாம் ஹான்காக் பூம்புகாருக்கு வந்தார்.”)  
+A small television film crew seen from behind loading camera cases and diving tanks onto an Indian fishing boat at a small harbour, early morning, around the year 2001, no logos, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**187** `EP12_187_N07q01_writer_desk_books.jpg` [O] (N07 q01: “பனியுகத்துல அழிஞ்சு போன ஒரு நாகரிகம் இருந்ததுன்னு எழுதறவர். தொல்லியலாளர் இல்ல.”)  
+A writer's desk in an English house around the year 2001 with stacks of plain-covered books, coastline maps and a bulky laptop, a man's hands typing, grey window light, no readable lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**188** `EP12_188_N07q01_fantasy_drowning_city.jpg` [O] (N07 q01: “பனியுகத்துல அழிஞ்சு போன ஒரு நாகரிகம் இருந்ததுன்னு எழுதறவர். தொல்லியலாளர் இல்ல.”)  
+Painted as a fantasy book illustration: an imagined grand stone city on a coast being overtaken by a rising sea under a red sky, dreamlike soft haze, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**189** `EP12_189_N07q02_mixed_team_descends.jpg` [U] (N07 q02: “வெளிநாட்டு டிவி சேனல்கள் பணம் கொடுக்க, இந்திய கடல் ஆய்வாளர்களோட சேர்ந்து அந்த U வடிவத்துக்கு இறங்கினார்.”)  
+A European diver and Indian divers in masks and tanks descending together toward the seabed, an underwater film camera with lights among them, faces hidden. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**190** `EP12_190_N07q02_film_lights_on_ridge.jpg` [U] (N07 q02: “வெளிநாட்டு டிவி சேனல்கள் பணம் கொடுக்க, இந்திய கடல் ஆய்வாளர்களோட சேர்ந்து அந்த U வடிவத்துக்கு இறங்கினார்.”)  
+Bright film lights on an underwater camera lighting a section of the low overgrown horseshoe ridge, a diver filming, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**191** `EP12_191_N07q03_university_office_2001.jpg` [O] (N07 q03: “அப்புறம் இங்கிலாந்துல, கடல் மட்ட ஆய்வாளர் க்ளென் மில்ன்கிட்ட ஒரு கணக்கு கேட்டார்.”)  
+A geologist's office in an English university around the year 2001, a man seen from behind at a bulky computer monitor showing a plain coloured coastline map, bookshelves, grey daylight in the window, no readable lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**192** `EP12_192_N07q03_coast_map_wider_land.jpg` [O] (N07 q03: “அப்புறம் இங்கிலாந்துல, கடல் மட்ட ஆய்வாளர் க்ளென் மில்ன்கிட்ட ஒரு கணக்கு கேட்டார்.”)  
+Close view of an old bulky computer monitor showing a plain colour map of the southern tip of India with a wider pale band of extra land around today's coast, no labels, no lettering, dim office. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**193** `EP12_193_N07q04_ice_sheet_calving.jpg` [O] (N07 q04: “பனியுகம் முடிஞ்சு பனி உருகினப்போ, உலகம் முழுக்க கடல் மட்டம் ஏறுச்சு. இது அறிவியல்.”)  
+The edge of a vast ice sheet at the end of the Ice Age calving into a grey sea, meltwater rivers pouring off it, cold blue light, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**194** `EP12_194_N07q04_sea_creeping_plain.jpg` [I] (N07 q04: “பனியுகம் முடிஞ்சு பனி உருகினப்போ, உலகம் முழுக்க கடல் மட்டம் ஏறுச்சு. இது அறிவியல்.”)  
+The sea creeping across a low coastal plain, drowned trees standing in the shallows, no people. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**195** `EP12_195_N07q05_dry_plain_low_ridge.jpg` [I] (N07 q05: “அந்த கணக்குப்படி, 23 மீட்டர் ஆழத்துல இருக்கற இடம் கடைசியா தரையா இருந்தது 11,000 வருஷத்துக்கு முன்னாடி.”)  
+A wide dry coastal plain with a low curved rock ridge on it, the sea far away on the horizon, no people. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**196** `EP12_196_N07q05_same_ridge_drowned.jpg` [U] (N07 q05: “அந்த கணக்குப்படி, 23 மீட்டர் ஆழத்துல இருக்கற இடம் கடைசியா தரையா இருந்தது 11,000 வருஷத்துக்கு முன்னாடி.”)  
+A low curved overgrown ridge deep underwater in dim green light, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**197** `EP12_197_N07q06_writer_filmed_deck.jpg` [O] (N07 q06: “அதனால இந்த கட்டடத்துக்கு வயசு 11,000 வருஷம்னு ஹான்காக் வாதாடினார்.”)  
+A European writer in a wetsuit seen from behind on an Indian boat deck, gesturing toward the open sea while a television cameraman seen from behind films him, around the year 2001, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**198** `EP12_198_N07q06_fantasy_builders.jpg` [O] (N07 q06: “அதனால இந்த கட்டடத்துக்கு வயசு 11,000 வருஷம்னு ஹான்காக் வாதாடினார்.”)  
+Painted as a fantasy book illustration, deliberately dreamlike and unreal: Ice Age people raising a horseshoe of rough stones on a misty shore, soft glowing haze, figures small and indistinct. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**199** `EP12_199_N07q07_pot_three_holes.jpg` [X] (N07 q07: “ஆனா இந்த வாதத்துல மூணு ஓட்டை இருக்கு.”)  
+An old clay water pot with three small holes in its side, thin streams of water running out onto the table, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**200** `EP12_200_N07q08_stone_or_growth.jpg` [U] (N07 q08: “முதல் ஓட்டை. அது கட்டடம்தான்னு இன்னும் யாரும் நிரூபிக்கல.”)  
+Close view of the overgrown ridge where it is impossible to tell stone from growth, a torch beam on it, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**201** `EP12_201_N07q09_delta_aerial_channels.jpg` [T] (N07 q09: “ரெண்டாவது. காவிரி டெல்டா மாதிரி வண்டல் மண் கரையில, தரை தானாவே அமுங்கும். கடல் அரிக்கும். கரை நகரும்.”)  
+Aerial view of a green river delta with many winding channels and soft muddy banks reaching the sea, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**202** `EP12_202_N07q09_mud_bank_slumping.jpg` [T] (N07 q09: “ரெண்டாவது. காவிரி டெல்டா மாதிரி வண்டல் மண் கரையில, தரை தானாவே அமுங்கும். கடல் அரிக்கும். கரை நகரும்.”)  
+A soft river bank of delta mud slumping into brown water, palm roots exposed, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**203** `EP12_203_N07q09_palms_fallen_surf.jpg` [T] (N07 q09: “ரெண்டாவது. காவிரி டெல்டா மாதிரி வண்டல் மண் கரையில, தரை தானாவே அமுங்கும். கடல் அரிக்கும். கரை நகரும்.”)  
+Waves cutting into a sandy shore, coconut palms fallen with their roots in the surf, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**204** `EP12_204_N07q10_gauge_and_blank_slate.jpg` [U] (N07 q10: “அப்போ இன்னிக்கு இருக்கற ஆழத்தை மட்டும் வெச்சு வயசை கணக்கு போட முடியாது.”)  
+A diver's depth gauge and a blank white wrist slate held together in green water, no readable numbers. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**205** `EP12_205_N07q10_rod_and_stopped_watch.jpg` [X] (N07 q10: “அப்போ இன்னிக்கு இருக்கற ஆழத்தை மட்டும் வெச்சு வயசை கணக்கு போட முடியாது.”)  
+A wooden measuring rod and a stopped brass pocket watch with a plain blank dial lying apart in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**206** `EP12_206_N07q11_microliths_in_palm.jpg` [I] (N07 q11: “மூணாவது. 11,000 வருஷத்துக்கு முன்னாடி இந்தியாவுல மனுஷன் கையில இருந்தது சின்ன கல் கருவிகள். கட்டடம் கட்டினதுக்கு எந்த தடயமும் இல்ல.”)  
+An open dark-skinned palm holding several tiny sharp chipped stone blades, close shot. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**207** `EP12_207_N07q11_hunters_campfire.jpg` [I] (N07 q11: “மூணாவது. 11,000 வருஷத்துக்கு முன்னாடி இந்தியாவுல மனுஷன் கையில இருந்தது சின்ன கல் கருவிகள். கட்டடம் கட்டினதுக்கு எந்த தடயமும் இல்ல.”)  
+A small band of hunter-gatherers at a camp fire beside a rock shelter, chipping stone tools, simple skin shelters. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**208** `EP12_208_N07q11_rock_shelter_ash.jpg` [I] (N07 q11: “மூணாவது. 11,000 வருஷத்துக்கு முன்னாடி இந்தியாவுல மனுஷன் கையில இருந்தது சின்ன கல் கருவிகள். கட்டடம் கட்டினதுக்கு எந்த தடயமும் இல்ல.”)  
+A low rock shelter with the ash of a fire and scattered stone chips on the floor, no walls, no people. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**209** `EP12_209_N07q12_scientists_and_writer_deck.jpg` [O] (N07 q12: “இதை சொன்னது வேற யாரும் இல்ல. அந்த வடிவத்தை ஆய்வு பண்ண இந்திய கடல் தொல்லியலாளர்களே.”)  
+Two Indian marine archaeologists in plain shirts seen from behind on a boat deck, talking with a European man in a wetsuit seen from behind, open sea, around the year 2001, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**210** `EP12_210_N07q12_clipboard_horseshoe.jpg` [O] (N07 q12: “இதை சொன்னது வேற யாரும் இல்ல. அந்த வடிவத்தை ஆய்வு பண்ண இந்திய கடல் தொல்லியலாளர்களே.”)  
+An Indian marine archaeologist seen from behind on a boat deck, pointing with a pen at a pencil sketch of a horseshoe shape on a clipboard, no writing, sea behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**211** `EP12_211_N07q13_interview_tripod.jpg` [O] (N07 q13: “அந்த காலத்துல இப்படி கட்ட ரொம்ப பெரிய தொழில்நுட்பம் வேணும்னு ஹான்காக்கோட கேமரா முன்னாடியே சொன்னாங்க.”)  
+A television interview on a boat deck around the year 2001: a video camera on a tripod in the foreground, an Indian scientist seated beyond it out of focus with his face turned away, sea behind, no logos, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**212** `EP12_212_N07q13_men_hauling_block.jpg` [O] (N07 q13: “அந்த காலத்துல இப்படி கட்ட ரொம்ப பெரிய தொழில்நுட்பம் வேணும்னு ஹான்காக்கோட கேமரா முன்னாடியே சொன்னாங்க.”)  
+A painted illustration of how hard it is to move a great stone: many bare-chested men straining at ropes and log rollers under a huge block, dust in hot light, South Indian landscape with palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**213** `EP12_213_N07q14_writer_looks_down_water.jpg` [O] (N07 q14: “ஹான்காக்கோட பதில், அந்த ஆதாரம் கடலுக்கு அடியிலதான் இருக்கும்ங்கறது.”)  
+A European writer seen from behind at the stern of an Indian boat at sunset, looking down into the water, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**214** `EP12_214_N07q15_empty_bag_on_rail.jpg` [M] (N07 q15: “ஆனா நண்பர்களே, ஆதாரம் இன்னும் கிடைக்கலங்கறதே ஒரு ஆதாரம் ஆகாது.”)  
+An empty mesh sample bag hanging to dry on a boat rail, the sea behind, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**215** `EP12_215_N07q15_empty_glass_dish.jpg` [X] (N07 q15: “ஆனா நண்பர்களே, ஆதாரம் இன்னும் கிடைக்கலங்கறதே ஒரு ஆதாரம் ஆகாது.”)  
+An empty plain glass specimen dish in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**216** `EP12_216_N07q16_balance_pans_empty.jpg` [X] (N07 q16: “11,000 வருஷம்ங்கறது பொய்ன்னு நிரூபிக்கப்படல. உண்மைன்னும் நிரூபிக்கப்படல. இன்னிக்கு வரைக்கும் அது ஒரு கூற்று மட்டும்தான்.”)  
+An old brass hand balance with both pans empty and level, hanging in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**217** `EP12_217_N07q16_ridge_silent_wide.jpg` [U] (N07 q16: “11,000 வருஷம்ங்கறது பொய்ன்னு நிரூபிக்கப்படல. உண்மைன்னும் நிரூபிக்கப்படல. இன்னிக்கு வரைக்கும் அது ஒரு கூற்று மட்டும்தான்.”)  
+The overgrown horseshoe ridge seen wide in dim water, a single fish passing, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**218** `EP12_218_N07q16_closed_book_mask.jpg` [X] (N07 q16: “11,000 வருஷம்ங்கறது பொய்ன்னு நிரூபிக்கப்படல. உண்மைன்னும் நிரூபிக்கப்படல. இன்னிக்கு வரைக்கும் அது ஒரு கூற்று மட்டும்தான்.”)  
+A thick plain-covered book lying closed beside a diver's mask, no lettering, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N08
+
+**219** `EP12_219_N08q00_wake_fading_dusk.jpg` [M] (N08 q00: “20 வருஷம் கழிச்சு, இன்னும் பெரிய ஒரு எண் வந்தது.”)  
+A boat's wake fading on an empty sea at dusk, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**220** `EP12_220_N08q01_university_campus.jpg` [O] (N08 q01: “2023, ஜனவரி. திருச்சி பாரதிதாசன் பல்கலைக்கழகம்.”)  
+A modern Indian university building of brick and concrete among big rain trees in Tiruchirappalli, students seen from behind walking, morning light, no signboards, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**221** `EP12_221_N08q01_press_room_from_back.jpg` [O] (N08 q01: “2023, ஜனவரி. திருச்சி பாரதிதாசன் பல்கலைக்கழகம்.”)  
+A press conference in a plain Indian university hall seen from the back of the room: journalists with cameras and microphones seen from behind, a projector screen showing a blurred blue seabed image, the speakers at the far table out of focus and too small to recognise, no banners, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**222** `EP12_222_N08q02_lab_many_monitors.jpg` [G] (N08 q02: “மத்திய அரசு நிதியோட நடந்த பூம்புகார் திட்டம். ஒருங்கிணைப்பாளர், பேராசிரியர் எஸ்.எம். ராமசாமி.”)  
+A remote-sensing laboratory with several large monitors showing coloured seabed maps, researchers seen from behind, no lettering on the screens. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**223** `EP12_223_N08q02_professor_wall_screen.jpg` [G] (N08 q02: “மத்திய அரசு நிதியோட நடந்த பூம்புகார் திட்டம். ஒருங்கிணைப்பாளர், பேராசிரியர் எஸ்.எம். ராமசாமி.”)  
+An elderly Indian professor in a plain shirt seen from behind, pointing with a pen at a large coloured seabed map on a wall screen, no lettering. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**224** `EP12_224_N08q03_survey_ship_sound_fan.jpg` [M] (N08 q03: “அவங்க பயன்படுத்தினது, ஒலி அலையால வரைஞ்ச கடல் தரை வரைபடம்.”)  
+A modern survey ship moving over the sea shown in cutaway, a faint fan of sound beams drawn beneath it down to the seabed, no people, no lettering. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**225** `EP12_225_N08q03_seabed_relief_screen.jpg` [G] (N08 q03: “அவங்க பயன்படுத்தினது, ஒலி அலையால வரைஞ்ச கடல் தரை வரைபடம்.”)  
+Close view of a monitor showing a rainbow-coloured relief map of the seabed with ridges, channels and hollows, no labels, no lettering, no people. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**226** `EP12_226_N08q04_open_ocean_no_land.jpg` [M] (N08 q04: “அதுல, கரையில இருந்து 30–40 கிலோமீட்டர் தூரத்துல, 50ல இருந்து 100 மீட்டர் ஆழத்துல, சில வடிவங்கள்.”)  
+Nothing but open sea to every horizon seen from a ship's deck, no land in sight, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**227** `EP12_227_N08q04_deep_black_seabed.jpg` [O] (N08 q04: “அதுல, கரையில இருந்து 30–40 கிலோமீட்டர் தூரத்துல, 50ல இருந்து 100 மீட்டர் ஆழத்துல, சில வடிவங்கள்.”)  
+A very deep dark seabed a hundred metres down, almost black water, a faint bare ridge just visible in the gloom, no divers, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**228** `EP12_228_N08q04_straight_shapes_on_map.jpg` [G] (N08 q04: “அதுல, கரையில இருந்து 30–40 கிலோமீட்டர் தூரத்துல, 50ல இருந்து 100 மீட்டர் ஆழத்துல, சில வடிவங்கள்.”)  
+A monitor showing straight-edged shapes and parallel lines in a coloured seabed map, a finger tracing one line, no lettering. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**229** `EP12_229_N08q05_pen_outlines_harbour.jpg` [G] (N08 q05: “அதை அவங்க இப்படி படிச்சாங்க. 11 கிலோமீட்டர் நீளத்துக்கு ஒரு துறைமுகம்.”)  
+A hand drawing the outline of a long rectangular harbour with a pen over a printed colour seabed map on a desk, no labels, no lettering. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**230** `EP12_230_N08q05_sketch_giant_harbour.jpg` [A] (N08 q05: “அதை அவங்க இப்படி படிச்சாங்க. 11 கிலோமீட்டர் நீளத்துக்கு ஒரு துறைமுகம்.”)  
+A pencil drawing on plain paper of an enormous imagined harbour with long canals, lying on a desk under a lamp, clearly only a sketch, no writing, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**231** `EP12_231_N08q06_sketch_ship_docks.jpg` [A] (N08 q06: “70–80 கப்பல் நிக்கற அளவுக்கு கப்பல் தளங்கள். சுழல் படிக்கட்டோட ஒரு கலங்கரை விளக்கம்.”)  
+A pencil sketch on plain paper of rows of ship docks along a canal, an eraser and pencil beside it, clearly only a drawing, no writing, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**232** `EP12_232_N08q06_sketch_lighthouse_stair.jpg` [A] (N08 q06: “70–80 கப்பல் நிக்கற அளவுக்கு கப்பல் தளங்கள். சுழல் படிக்கட்டோட ஒரு கலங்கரை விளக்கம்.”)  
+A pencil sketch on plain paper of a tall lighthouse tower with a spiral staircase, clearly an imagined drawing, a hand shading it, no writing. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**233** `EP12_233_N08q06_round_bump_on_map.jpg` [G] (N08 q06: “70–80 கப்பல் நிக்கற அளவுக்கு கப்பல் தளங்கள். சுழல் படிக்கட்டோட ஒரு கலங்கரை விளக்கம்.”)  
+Close view of a small round bump in a coloured seabed map on a monitor, a pen tip pointing to it, no lettering. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**234** `EP12_234_N08q07_ice_age_shore_far.jpg` [I] (N08 q07: “வயசு? 15,000 வருஷத்துக்கு மேல இருக்கலாம்.”)  
+The Ice Age shoreline far out on a bare plain, a few hunter-gatherers tiny in the distance. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**235** `EP12_235_N08q08_hand_drawn_rising_line.jpg` [O] (N08 q08: “எப்படி? அந்த ஆழத்துல கடற்கரை இருந்தது 15,000 வருஷத்துக்கு முன்னாடி. அதனால துறைமுகமும் அப்போதான். அதே பழைய வாதம்.”)  
+A plain hand-drawn pencil line on graph paper climbing from lower left to upper right like a rising sea level, a pencil beside it, no numbers, no labels, no lettering, desk lamp light, Indian study. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**236** `EP12_236_N08q08_second_shoreline_map.jpg` [G] (N08 q08: “எப்படி? அந்த ஆழத்துல கடற்கரை இருந்தது 15,000 வருஷத்துக்கு முன்னாடி. அதனால துறைமுகமும் அப்போதான். அதே பழைய வாதம்.”)  
+A monitor showing a plain map of a coast with a second pale shoreline drawn far out to sea, no lettering, no people. Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**237** `EP12_237_N08q08_ridge_again_dim.jpg` [U] (N08 q08: “எப்படி? அந்த ஆழத்துல கடற்கரை இருந்தது 15,000 வருஷத்துக்கு முன்னாடி. அதனால துறைமுகமும் அப்போதான். அதே பழைய வாதம்.”)  
+The low overgrown horseshoe ridge on the seabed in dim light seen from one side, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**238** `EP12_238_N08q09_empty_tube_rack.jpg` [X] (N08 q09: “ஆனா ஒரு மாதிரி கூட எடுக்கப்படல. குழுவுல தொல்லியலாளரும் இல்ல, டைவரும் இல்ல.”)  
+A rack of empty plain glass sample tubes in the light, no labels, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**239** `EP12_239_N08q09_dive_gear_unused.jpg` [M] (N08 q09: “ஆனா ஒரு மாதிரி கூட எடுக்கப்படல. குழுவுல தொல்லியலாளரும் இல்ல, டைவரும் இல்ல.”)  
+Diving tanks and masks standing dry and unused in a rack on a quiet jetty, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**240** `EP12_240_N08q10_archaeologists_table.jpg` [A] (N08 q10: “சில வாரத்துலயே தொல்லியலாளர்கள் பதில் சொன்னாங்க. இதுக்கு அறிவியல் அடிப்படை இல்லன்னு.”)  
+Three Indian archaeologists seen from behind around a table covered with potsherds and trowels, one holding a newspaper folded so the page cannot be seen. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**241** `EP12_241_N08q10_folded_newspaper_trowel.jpg` [A] (N08 q10: “சில வாரத்துலயே தொல்லியலாளர்கள் பதில் சொன்னாங்க. இதுக்கு அறிவியல் அடிப்படை இல்லன்னு.”)  
+A folded newspaper on a desk beside spectacles and a trowel, top of the page out of frame, print blurred and unreadable, no masthead, no heading, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**242** `EP12_242_N08q11_hunter_in_grass.jpg` [I] (N08 q11: “15,000 வருஷத்துக்கு முன்னாடி இந்தியாவுல மனுஷன் வேட்டையாடி வாழ்ந்தான். கையில நுண்கற்கருவி.”)  
+A hunter-gatherer with a spear tipped with tiny stone blades crouching in tall dry grass, deer far off. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**243** `EP12_243_N08q11_microliths_by_ash.jpg` [I] (N08 q11: “15,000 வருஷத்துக்கு முன்னாடி இந்தியாவுல மனுஷன் வேட்டையாடி வாழ்ந்தான். கையில நுண்கற்கருவி.”)  
+Tiny chipped stone blades scattered on bare earth beside the ash of a small fire, no people. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**244** `EP12_244_N08q12_dream_empty_harbour.jpg` [O] (N08 q12: “அப்போ 70 கப்பல் நிக்கற துறைமுகம் யாரோட வியாபாரம் பண்ண? என்ன சரக்கு?”)  
+Painted as an unreal dream image: an enormous empty stone harbour with no ships and no people under a pale sky, fading into mist at the edges. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**245** `EP12_245_N08q12_dugout_canoe_lagoon.jpg` [I] (N08 q12: “அப்போ 70 கப்பல் நிக்கற துறைமுகம் யாரோட வியாபாரம் பண்ண? என்ன சரக்கு?”)  
+Two hunter-gatherers paddling a small dugout log canoe in a quiet lagoon. South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**246** `EP12_246_N08q13_natural_seabed_lines.jpg` [O] (N08 q13: “வரைபடத்துல ஒரு வடிவம் தெரிஞ்சா அது கட்டடம் ஆகிடாது. இறங்கி, தொட்டு, மாதிரி எடுத்து, காலம் கணிச்சாதான் அது ஆதாரம்.”)  
+A seabed seen from above in clear deep blue water with long straight natural ridges and channels made by old river courses and sand waves, no buildings, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**247** `EP12_247_N08q13_bare_hand_on_stone.jpg` [U] (N08 q13: “வரைபடத்துல ஒரு வடிவம் தெரிஞ்சா அது கட்டடம் ஆகிடாது. இறங்கி, தொட்டு, மாதிரி எடுத்து, காலம் கணிச்சாதான் அது ஆதாரம்.”)  
+A diver's bare hand laid flat on rough stone on the seabed, torch light, face out of frame. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**248** `EP12_248_N08q13_coring_tube_winch.jpg` [M] (N08 q13: “வரைபடத்துல ஒரு வடிவம் தெரிஞ்சா அது கட்டடம் ஆகிடாது. இறங்கி, தொட்டு, மாதிரி எடுத்து, காலம் கணிச்சாதான் அது ஆதாரம்.”)  
+Crew seen from behind lowering a long steel coring tube on a winch from a boat into the sea. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**249** `EP12_249_N08q14_villagers_look_to_sea.jpg` [T] (N08 q14: “நம்ம ஊரு ரொம்ப பழசுன்னா கேட்க பெருமைதான். ஆனா நிரூபிக்கப்படாத ஒரு எண், நிஜமா கிடைச்ச கிணத்தோட, படகுத்துறையோட மரியாதையையும் கெடுத்துடும்.”)  
+Tamil villagers of all ages seen from behind on a beach at sunset, looking out to sea. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**250** `EP12_250_N08q14_child_touches_well.jpg` [T] (N08 q14: “நம்ம ஊரு ரொம்ப பழசுன்னா கேட்க பெருமைதான். ஆனா நிரூபிக்கப்படாத ஒரு எண், நிஜமா கிடைச்ச கிணத்தோட, படகுத்துறையோட மரியாதையையும் கெடுத்துடும்.”)  
+An ancient terracotta ring well exposed on the beach, solid and real, a child's hand touching its rim. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**251** `EP12_251_N08q14_wharf_bricks_sun.jpg` [E] (N08 q14: “நம்ம ஊரு ரொம்ப பழசுன்னா கேட்க பெருமைதான். ஆனா நிரூபிக்கப்படாத ஒரு எண், நிஜமா கிடைச்ச கிணத்தோட, படகுத்துறையோட மரியாதையையும் கெடுத்துடும்.”)  
+The excavated ancient brick wharf with its wooden posts in clear sunlight, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**252** `EP12_252_N08q15_dive_boat_ready.jpg` [M] (N08 q15: “அப்போ நிஜமான ஆதாரம் எங்க? அதை தேடி, 2025ல, டைவர்கள் மறுபடி கடலுக்குள்ள இறங்கினாங்க.”)  
+A modern dive boat with tanks racked on deck, divers in black wetsuits seen from behind preparing to dive, calm sea. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**253** `EP12_253_N08q15_divers_step_off.jpg` [M] (N08 q15: “அப்போ நிஜமான ஆதாரம் எங்க? அதை தேடி, 2025ல, டைவர்கள் மறுபடி கடலுக்குள்ள இறங்கினாங்க.”)  
+Two divers in black wetsuits stepping off the stern platform of a boat into the sea, seen from behind, a splash. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N09
+
+**254** `EP12_254_N09q00_budget_book_desk.jpg` [O] (N09 q00: “2025. தமிழ்நாடு பட்ஜெட்ல பூம்புகார் கடல் ஆய்வுக்கு அறிவிப்பு வந்தது.”)  
+A thick bound document in a plain red cover tied with a ribbon on a polished wooden desk beside a brass lamp in an Indian government office, no lettering, no emblem, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**255** `EP12_255_N09q00_shore_today_breakwater.jpg` [T] (N09 q00: “2025. தமிழ்நாடு பட்ஜெட்ல பூம்புகார் கடல் ஆய்வுக்கு அறிவிப்பு வந்தது.”)  
+A long beach with a line of breakwater stones and fishing boats, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**256** `EP12_256_N09q01_team_briefing_jetty.jpg` [M] (N09 q01: “தமிழ்நாடு தொல்லியல் துறையும் இந்திய கடல்சார் பல்கலைக்கழகமும் சேர்ந்து பண்ற திட்டம்.”)  
+A team of Indian archaeologists and divers seen from behind standing around a chart spread on a table on a jetty. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**257** `EP12_257_N09q01_cadets_carry_cases.jpg` [M] (N09 q01: “தமிழ்நாடு தொல்லியல் துறையும் இந்திய கடல்சார் பல்கலைக்கழகமும் சேர்ந்து பண்ற திட்டம்.”)  
+Young Indian maritime cadets in plain white uniforms seen from behind carrying survey equipment cases along a jetty to a boat. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**258** `EP12_258_N09q02_ten_divers_deck.jpg` [M] (N09 q02: “செப்டம்பர் 20ஆம் தேதி முதல் கட்டம். 10 டைவர்கள்.”)  
+Ten divers in black wetsuits seen from behind sitting in two rows on the deck of a boat heading out to sea. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**259** `EP12_259_N09q03_robot_lowered.jpg` [M] (N09 q03: “ரிமோட்ல ஓடற நீர்மூழ்கி கேமரா. சோனார். கடல் தரைக்கு கீழ பார்க்கற கருவி.”)  
+A small yellow box-shaped underwater robot with lamps and a cable being lowered by hand from a boat into the sea, crew seen from behind. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**260** `EP12_260_N09q03_robot_over_seabed.jpg` [U] (N09 q03: “ரிமோட்ல ஓடற நீர்மூழ்கி கேமரா. சோனார். கடல் தரைக்கு கீழ பார்க்கற கருவி.”)  
+A small yellow underwater robot with bright lamps hovering above a sandy seabed, its cable trailing upward, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**261** `EP12_261_N09q04_old_chart_and_gps.jpg` [M] (N09 q04: “முதல் வேலை, 30 வருஷத்துக்கு முன்னாடி எஸ்.ஆர். ராவ் குழு குறிச்ச இடங்களை மறுபடி கண்டுபிடிக்கறது.”)  
+Bare hands holding a faded old sea chart with pencil crosses next to a plain handheld GPS unit on a boat's console, no readable lettering. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**262** `EP12_262_N09q04_blocks_found_again.jpg` [U] (N09 q04: “முதல் வேலை, 30 வருஷத்துக்கு முன்னாடி எஸ்.ஆர். ராவ் குழு குறிச்ச இடங்களை மறுபடி கண்டுபிடிக்கறது.”)  
+A diver hovering over scattered dressed stone blocks on the seabed, heavily overgrown, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**263** `EP12_263_N09q05_oval_mound_diver.jpg` [U] (N09 q05: “2026 மார்ச்ல, அந்த U வடிவத்துக்கு பக்கத்துலயே இன்னொரு நீள்வட்ட வடிவம் தெரிஞ்சது.”)  
+A low oval-shaped overgrown stone mound on the seabed in dim green water, a diver swimming along its edge, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**264** `EP12_264_N09q05_laptop_two_shapes.jpg` [M] (N09 q05: “2026 மார்ச்ல, அந்த U வடிவத்துக்கு பக்கத்துலயே இன்னொரு நீள்வட்ட வடிவம் தெரிஞ்சது.”)  
+A laptop on a boat showing a grey sonar image of a horseshoe shape with a smaller oval beside it, a hand pointing, no lettering. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**265** `EP12_265_N09q06_boat_monsoon_clouds.jpg` [M] (N09 q06: “செப்டம்பர்ல மூணாவது கட்டம். இந்த முறை பொருட்கள் கிடைச்சது.”)  
+The dive boat anchored on a calm sea under tall monsoon clouds, a diver's flag buoy floating nearby, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**266** `EP12_266_N09q07_coast_two_km.jpg` [M] (N09 q07: “கரையில இருந்து கிட்டத்தட்ட 2 கிலோமீட்டர். 10ல இருந்து 12 மீட்டர் ஆழம்.”)  
+View from the dive boat toward the coast two kilometres away, palms and a temple tower clearly visible, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**267** `EP12_267_N09q07_divers_grid_frame.jpg` [U] (N09 q07: “கரையில இருந்து கிட்டத்தட்ட 2 கிலோமீட்டர். 10ல இருந்து 12 மீட்டர் ஆழம்.”)  
+Divers working on a sandy seabed in fairly bright green water, a plain white square grid frame laid on the sand, faces hidden by masks. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**268** `EP12_268_N09q08_jar_fragment_in_sand.jpg` [U] (N09 q08: “அங்க ஒரு ஜாடியோட உடைஞ்ச துண்டு. இந்த வகைக்கு பேரு டார்பிடோ ஜார்.”)  
+A large curved fragment of a thick pale pottery jar half buried in the sand of the seabed, a diver's gloved hand reaching toward it. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**269** `EP12_269_N09q09_torpedo_jar_whole.jpg` [W] (N09 q09: “குழாய் மாதிரி நீளமான ஜாடி. மேற்கு ஆசியாவுல செய்யப்பட்டு, கப்பல்ல எண்ணெய் மாதிரி திரவ சரக்கு கொண்டு போக பயன்பட்டது.”)  
+A complete ancient torpedo jar: a tall narrow cylindrical pale clay vessel with a small mouth, no handles and a rounded pointed base, leaning against a mud-brick wall, no people. Ancient West Asia, bright dry Persian Gulf coast, date palms, mud-brick buildings, men in long plain tunics and head cloths. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**270** `EP12_270_N09q09_jars_in_ship_hold.jpg` [W] (N09 q09: “குழாய் மாதிரி நீளமான ஜாடி. மேற்கு ஆசியாவுல செய்யப்பட்டு, கப்பல்ல எண்ணெய் மாதிரி திரவ சரக்கு கொண்டு போக பயன்பட்டது.”)  
+Rows of tall handleless torpedo jars stacked upright in the hold of a wooden sewn-plank trading ship, a sailor checking a rope seal. Ancient West Asia, bright dry Persian Gulf coast, date palms, mud-brick buildings, men in long plain tunics and head cloths. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**271** `EP12_271_N09q09_gulf_ship_open_sea.jpg` [O] (N09 q09: “குழாய் மாதிரி நீளமான ஜாடி. மேற்கு ஆசியாவுல செய்யப்பட்டு, கப்பல்ல எண்ணெய் மாதிரி திரவ சரக்கு கொண்டு போக பயன்பட்டது.”)  
+An ancient Persian Gulf sewn-plank sailing ship with one big sail crossing the open Arabian Sea in a strong wind, tall handleless clay jars lashed on deck, sailors in tunics and head cloths. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**272** `EP12_272_N09q10_fragment_crowd_deck.jpg` [M] (N09 q10: “பூம்புகார் கடலுக்கு அடியில இருந்து இப்படி ஒரு துண்டு கிடைக்கறது இதுதான் முதல் தடவை.”)  
+The thick pale jar fragment lying on a padded cloth on the boat deck, still wet, divers and archaeologists seen from behind gathered round it. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**273** `EP12_273_N09q10_fragment_caliper.jpg` [M] (N09 q10: “பூம்புகார் கடலுக்கு அடியில இருந்து இப்படி ஒரு துண்டு கிடைக்கறது இதுதான் முதல் தடவை.”)  
+Gloved hands measuring the curve of the thick pale jar fragment with a plain caliper, no labels. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**274** `EP12_274_N09q11_gulf_trader_on_wharf.jpg` [P] (N09 q11: “பல நாட்டு மக்கள் இங்க வந்தாங்கன்னு பட்டினப்பாலை சொன்னதுக்கு, இது ஒரு பொருள் சாட்சி.”)  
+A West Asian trader in a long tunic and head cloth standing beside tall handleless clay jars on the wharf, bargaining with a Tamil merchant in a dhoti. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**275** `EP12_275_N09q11_porters_carry_jars.jpg` [P] (N09 q11: “பல நாட்டு மக்கள் இங்க வந்தாங்கன்னு பட்டினப்பாலை சொன்னதுக்கு, இது ஒரு பொருள் சாட்சி.”)  
+Porters carrying tall handleless pale clay jars from a foreign ship onto the wharf, a customs officer watching. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**276** `EP12_276_N09q12_fragment_lab_bench.jpg` [O] (N09 q12: “ஆனா இதோட சரியான காலம் இன்னும் உறுதி ஆகல.”)  
+The thick pale jar fragment on a white bench under a magnifier lamp in a modern Indian archaeology laboratory, a researcher's gloved hands, bare walls, no labels, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**277** `EP12_277_N09q12_fragment_edge_macro.jpg` [O] (N09 q12: “ஆனா இதோட சரியான காலம் இன்னும் உறுதி ஆகல.”)  
+Close view of the broken edge of the thick pale jar fragment showing the grain of the clay, a researcher's gloved fingertip beside it, modern Indian archaeology laboratory light, shallow depth of field, no labels, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**278** `EP12_278_N09q13_ring_well_scale_rod.jpg` [U] (N09 q13: “கூடவே 4 சுடுமண் உறை கிணறுகள். ஒவ்வொண்ணும் 60–65 சென்டிமீட்டர் அகலம்.”)  
+The round rim of a terracotta ring well showing through the sand of the seabed, a diver holding a plain scale rod across it, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**279** `EP12_279_N09q13_four_well_rims.jpg` [U] (N09 q13: “கூடவே 4 சுடுமண் உறை கிணறுகள். ஒவ்வொண்ணும் 60–65 சென்டிமீட்டர் அகலம்.”)  
+Four round terracotta ring well rims in a loose line on the sandy seabed, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**280** `EP12_280_N09q14_wells_river_bank_then.jpg` [P] (N09 q14: “அந்த கிணறுகள் ஒரு பழைய ஆற்றுப் பாதையை காட்டலாம்னு ஆய்வாளர்கள் நினைக்கறாங்க.”)  
+A row of ring wells beside houses along the bank of a river, people drawing water. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**281** `EP12_281_N09q14_laptop_buried_channel.jpg` [M] (N09 q14: “அந்த கிணறுகள் ஒரு பழைய ஆற்றுப் பாதையை காட்டலாம்னு ஆய்வாளர்கள் நினைக்கறாங்க.”)  
+A laptop on the boat showing a grey image of a buried channel under the seabed, a hand tracing its curve, no lettering. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**282** `EP12_282_N09q15_sherds_long_tables.jpg` [O] (N09 q15: “250க்கு மேல பானை ஓடுகள். மெருகு பூசின பானை. சுண்ணாம்புக் கல்லுல செஞ்ச சிலை பீடங்கள்.”)  
+Hundreds of wet potsherds laid in rows on long tables under an awning at a modern Indian field camp beside the beach, bare hands sorting them, no labels, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**283** `EP12_283_N09q15_limestone_base_glaze.jpg` [O] (N09 q15: “250க்கு மேல பானை ஓடுகள். மெருகு பூசின பானை. சுண்ணாம்புக் கல்லுல செஞ்ச சிலை பீடங்கள்.”)  
+A small pale limestone pedestal block with a square socket in its top, worn and pitted by the sea, lying on a cloth beside a blue-green glazed potsherd on a field camp table in coastal Tamil Nadu, no labels, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**284** `EP12_284_N09q16_sherd_on_colour_map.jpg` [X] (N09 q16: “இதுக்கும் அந்த பெரிய எண்களுக்கும் என்ன வித்தியாசம்னு பாருங்க.”)  
+A real potsherd lying on top of a printed coloured seabed map in the light, no lettering, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**285** `EP12_285_N09q17_three_finds_row.jpg` [X] (N09 q17: “கிணறு. பானை. ஜாடி. இதெல்லாம் காலம் கணிக்க முடியற பொருட்கள். மனுஷன் வாழ்ந்ததுக்கு நேரடி சாட்சி.”)  
+A piece of a terracotta well ring, a black-and-red potsherd and a thick pale jar fragment in a row in the light, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**286** `EP12_286_N09q17_scraping_into_tube.jpg` [O] (N09 q17: “கிணறு. பானை. ஜாடி. இதெல்லாம் காலம் கணிக்க முடியற பொருட்கள். மனுஷன் வாழ்ந்ததுக்கு நேரடி சாட்சி.”)  
+Gloved hands placing a tiny scraping from a potsherd into a plain glass tube in a modern Indian laboratory, bare walls, no labels, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**287** `EP12_287_N09q17_potter_wet_hands.jpg` [P] (N09 q17: “கிணறு. பானை. ஜாடி. இதெல்லாம் காலம் கணிக்க முடியற பொருட்கள். மனுஷன் வாழ்ந்ததுக்கு நேரடி சாட்சி.”)  
+Close view of a potter's wet hands shaping the rim of a pot on a wheel. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+
+## N10
+
+**288** `EP12_288_N10q00_three_cloths_above.jpg` [X] (N10 q00: “இப்போ மூணையும் தனித்தனியா பார்ப்போம்.”)  
+A palm-leaf manuscript, an ancient brick and a diving mask set on three separate plain cloths, seen from directly above, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**289** `EP12_289_N10q01_port_golden_hill.jpg` [P] (N10 q01: “இலக்கியம். பூம்புகார்ங்கற பெரிய துறைமுகம் இருந்தது.”)  
+The great port in golden afternoon light seen from a low hill, ships, warehouses, mansions and crowds. Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**290** `EP12_290_N10q02_wave_mural_style.jpg` [B] (N10 q02: “கடல் அதை கொண்டதுன்னு சொல்றது, பின்னாடி வந்த ஒரு காப்பியம். அதுவும் ஒரு சாபக் கதையா.”)  
+The mythic dark wave with a faint goddess shape above the sleeping city, painted like an old temple mural, no people in the streets. Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**291** `EP12_291_N10q02_bundle_guttering_lamp.jpg` [C] (N10 q02: “கடல் அதை கொண்டதுன்னு சொல்றது, பின்னாடி வந்த ஒரு காப்பியம். அதுவும் ஒரு சாபக் கதையா.”)  
+A red-cloth manuscript bundle lying closed beside the guttering lamp, no people. Still life on dark wood, one brass oil lamp, South Indian setting. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**292** `EP12_292_N10q03_wharf_dawn_dew.jpg` [E] (N10 q03: “மண்ணு. படகுத்துறை. விகாரை. 1,500 வருஷம் தொடர்ந்து மக்கள் வாழ்ந்த ஊரு.”)  
+The excavated brick wharf at dawn with dew on the bricks, no people. Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**293** `EP12_293_N10q03_monastery_ruins_today.jpg` [T] (N10 q03: “மண்ணு. படகுத்துறை. விகாரை. 1,500 வருஷம் தொடர்ந்து மக்கள் வாழ்ந்த ஊரு.”)  
+Low conserved brick foundations of an ancient monastery among grass and palms, a visitor seen from behind. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**294** `EP12_294_N10q03_temple_street_sea.jpg` [Y] (N10 q03: “மண்ணு. படகுத்துறை. விகாரை. 1,500 வருஷம் தொடர்ந்து மக்கள் வாழ்ந்த ஊரு.”)  
+A town street with a granite temple gateway, carts and people, the sea close behind the houses. Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**295** `EP12_295_N10q04_well_rim_fish.jpg` [U] (N10 q04: “கடல். 12 மீட்டர் ஆழம் வரைக்கும் கிணறு, செங்கல், பானை. நகரத்தோட ஒரு பகுதி நிஜமாவே கடலுக்குள்ள இருக்கு.”)  
+A terracotta ring well rim on the seabed with small fish sheltering inside it, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**296** `EP12_296_N10q04_brick_line_seabed.jpg` [U] (N10 q04: “கடல். 12 மீட்டர் ஆழம் வரைக்கும் கிணறு, செங்கல், பானை. நகரத்தோட ஒரு பகுதி நிஜமாவே கடலுக்குள்ள இருக்கு.”)  
+A short line of ancient flat bricks showing through the sand on the seabed, weed growing on them, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**297** `EP12_297_N10q04_sunbeams_low_walls.jpg` [U] (N10 q04: “கடல். 12 மீட்டர் ஆழம் வரைக்கும் கிணறு, செங்கல், பானை. நகரத்தோட ஒரு பகுதி நிஜமாவே கடலுக்குள்ள இருக்கு.”)  
+Sunbeams falling through shallow green water onto low remains of brick walls and a broken pot on a sandy seabed, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**298** `EP12_298_N10q05_diver_hovers_ridge.jpg` [U] (N10 q05: “23 மீட்டர்ல இருக்கற U வடிவம்? அது என்னன்னு இன்னும் தெரியாது.”)  
+The low overgrown horseshoe ridge in deep dim water, a diver hovering motionless above it and looking down, face hidden by mask. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**299** `EP12_299_N10q05_ridge_surface_torch.jpg` [U] (N10 q05: “23 மீட்டர்ல இருக்கற U வடிவம்? அது என்னன்னு இன்னும் தெரியாது.”)  
+Close view of the ridge's surface in torch light, growth and stone impossible to tell apart, no people. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**300** `EP12_300_N10q06_empty_tray_dust.jpg` [X] (N10 q06: “11,000, 15,000 வருஷம்? அதுக்கு ஒரு பொருள் சாட்சி கூட இல்ல.”)  
+An empty steel specimen tray in the light, dust drifting in the beam, no people. Dark Indian room, a single shaft of light on a plain wooden table. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**301** `EP12_301_N10q06_sketches_aside_sherd.jpg` [A] (N10 q06: “11,000, 15,000 வருஷம்? அதுக்கு ஒரு பொருள் சாட்சி கூட இல்ல.”)  
+Pencil sketches of an imagined harbour and lighthouse pushed to the edge of a desk, a single real potsherd alone in the lamp light at the centre, no writing, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**302** `EP12_302_N10q07_tide_advancing_dusk.jpg` [T] (N10 q07: “அப்போ கடல் எப்போ, எப்படி உள்ள வந்தது?”)  
+The tide advancing over a flat beach toward the viewer at dusk, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**303** `EP12_303_N10q08_coring_rig_beach.jpg` [T] (N10 q08: “கடற்கரை மண்ணை ஆழமா துளைச்சு பார்த்த ஒரு ஆய்வு சொல்லுது. கிட்டத்தட்ட 1,500 வருஷத்துக்கு முன்னாடி, இங்க ஆற்றுச் சூழல் திடீர்னு கடல் சூழலா மாறிடுச்சு.”)  
+Researchers seen from behind driving a long steel coring tube into the sand of a beach with a tripod rig. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**304** `EP12_304_N10q08_core_split_boundary.jpg` [O] (N10 q08: “கடற்கரை மண்ணை ஆழமா துளைச்சு பார்த்த ஒரு ஆய்வு சொல்லுது. கிட்டத்தட்ட 1,500 வருஷத்துக்கு முன்னாடி, இங்க ஆற்றுச் சூழல் திடீர்னு கடல் சூழலா மாறிடுச்சு.”)  
+A long sediment core split lengthwise on a bench in a modern Indian laboratory: dark fine river mud in the lower part changing sharply to pale shelly sea sand above, a gloved hand pointing at the boundary, no labels, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**305** `EP12_305_N10q08_microscope_tiny_shells.jpg` [O] (N10 q08: “கடற்கரை மண்ணை ஆழமா துளைச்சு பார்த்த ஒரு ஆய்வு சொல்லுது. கிட்டத்தட்ட 1,500 வருஷத்துக்கு முன்னாடி, இங்க ஆற்றுச் சூழல் திடீர்னு கடல் சூழலா மாறிடுச்சு.”)  
+View through a microscope of tiny pale spiral sea shells among sand grains in a circular field on black, no lettering. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**306** `EP12_306_N10q09_white_line_wave_far.jpg` [D] (N10 q09: “காரணம் பெரிய சுனாமியா இருக்கலாம். தரை அமுங்கியிருக்கலாம். காவிரி பாதை மாறியிருக்கலாம்.”)  
+A long white line of a great wave approaching an ancient shore town seen from far inland in grey daylight, no people visible. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**307** `EP12_307_N10q09_abandoned_river_bed.jpg` [T] (N10 q09: “காரணம் பெரிய சுனாமியா இருக்கலாம். தரை அமுங்கியிருக்கலாம். காவிரி பாதை மாறியிருக்கலாம்.”)  
+A dry abandoned river bed curving through fields while the living river flows far off in another course, aerial view, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**308** `EP12_308_N10q10_core_line_close.jpg` [O] (N10 q10: “எதுன்னு அந்த ஆய்வே முடிவா சொல்லல.”)  
+Close view of the sharp line between dark mud and pale shelly sand in a split sediment core, laboratory light, no labels, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**309** `EP12_309_N10q11_old_photo_shore_temple.jpg` [A] (N10 q11: “ஒண்ணு மட்டும் தெரியுது. 20 வருஷத்துக்கு முன்னாடி தான் படம் எடுத்த ஒரு கடற்கரைக் கோயில், இப்போ தண்ணிக்குள்ளன்னு தொல்லியல் அறிஞர் கா. ராஜன் சொல்றார்.”)  
+An Indian archaeologist's hands holding an old colour photograph of a small shore temple standing on dry sand, no writing. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**310** `EP12_310_N10q11_temple_in_the_surf.jpg` [T] (N10 q11: “ஒண்ணு மட்டும் தெரியுது. 20 வருஷத்துக்கு முன்னாடி தான் படம் எடுத்த ஒரு கடற்கரைக் கோயில், இப்போ தண்ணிக்குள்ளன்னு தொல்லியல் அறிஞர் கா. ராஜன் சொல்றார்.”)  
+A small old shore temple standing in the sea, waves breaking against its walls, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**311** `EP12_311_N10q11_archaeologist_watches_temple.jpg` [T] (N10 q11: “ஒண்ணு மட்டும் தெரியுது. 20 வருஷத்துக்கு முன்னாடி தான் படம் எடுத்த ஒரு கடற்கரைக் கோயில், இப்போ தண்ணிக்குள்ளன்னு தொல்லியல் அறிஞர் கா. ராஜன் சொல்றார்.”)  
+An elderly Indian archaeologist in a plain shirt seen from behind standing on the beach, looking at a small temple half in the water. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**312** `EP12_312_N10q12_wave_pulls_bricks.jpg` [T] (N10 q12: “கடல் இப்பவும் பூம்புகாரை கொஞ்சம் கொஞ்சமா எடுத்துட்டு இருக்கு.”)  
+A wave pulling sand and broken old bricks back into the sea, close low view, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**313** `EP12_313_N10q13_chart_corner_shaded.jpg` [M] (N10 q13: “ஆய்வு பண்ண வேண்டிய கடல் பகுதியில இதுவரைக்கும் பார்த்தது 10% தான்.”)  
+A sea chart on a boat table with one small corner shaded in pencil and the rest left blank, a hand resting on it, no readable lettering. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light, Indian crew in plain work clothes, no logos, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**314** `EP12_314_N10q13_wide_sea_one_buoy.jpg` [M] (N10 q13: “ஆய்வு பண்ண வேண்டிய கடல் பகுதியில இதுவரைக்கும் பார்த்தது 10% தான்.”)  
+A wide empty sea seen from the boat at dawn with a single small diver's buoy, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**315** `EP12_315_N10q14_gear_packed_jetty.jpg` [M] (N10 q14: “அடுத்த கட்டம், 2027 ஜனவரி.”)  
+Diving tanks, coiled ropes and plain survey cases packed and ready on a jetty at dawn beside a moored boat, no people. Present day, Bay of Bengal off the Tamil Nadu coast, soft morning light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**316** `EP12_316_N10q15_hand_reaches_gap.jpg` [U] (N10 q15: “அந்த U வடிவத்துல இருந்து ஒரு செங்கல், ஒரு பானை ஓடு கிடைச்சா… 30 வருஷ கேள்விக்கு பதில் கிடைக்கும்.”)  
+A diver's gloved hand reaching toward a gap in the overgrown ridge where something small and reddish shows in the sand. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**317** `EP12_317_N10q15_sherd_in_glove.jpg` [U] (N10 q15: “அந்த U வடிவத்துல இருந்து ஒரு செங்கல், ஒரு பானை ஓடு கிடைச்சா… 30 வருஷ கேள்விக்கு பதில் கிடைக்கும்.”)  
+A single small potsherd lying in a diver's open gloved palm underwater, torch light on it. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**318** `EP12_318_N10q16_notebook_two_columns.jpg` [A] (N10 q16: “அது வரைக்கும், தெரிஞ்சதை தெரிஞ்சதுன்னும், தெரியாததை தெரியாதுன்னும் சொல்லுவோம்.”)  
+An open notebook on a desk with two plain columns of pencil marks, one long and one short, blurred and unreadable, a pencil lying across it, no people. Indian scholar's study, warm desk-lamp light, bare walls, no posters. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**319** `EP12_319_N10q16_brush_on_brick.jpg` [T] (N10 q16: “அது வரைக்கும், தெரிஞ்சதை தெரிஞ்சதுன்னும், தெரியாததை தெரியாதுன்னும் சொல்லுவோம்.”)  
+An archaeologist's bare hands gently cleaning an ancient brick with a soft brush, patient careful work, close shot. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**320** `EP12_320_N10q17_port_sunset_above.jpg` [D] (N10 q17: “ஏன்னா நிஜமான பூம்புகார், எந்த கற்பனையையும் விட பெரிசு.”)  
+The great ancient port at sunset seen from above with all its ships and lamps, the river and the sea shining. Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**321** `EP12_321_N10q18_ridge_torch_star.jpg` [U] (N10 q18: “நீங்க என்ன நினைக்கறீங்க? அது கட்டடமா, பாறையா? கமெண்ட்ல சொல்லுங்க.”)  
+The overgrown horseshoe ridge seen from directly above in dim green water, a lone diver's torch a small star at its centre. Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.
+
+**322** `EP12_322_N10q18_calm_sea_one_boat.jpg` [T] (N10 q18: “நீங்க என்ன நினைக்கறீங்க? அது கட்டடமா, பாறையா? கமெண்ட்ல சொல்லுங்க.”)  
+The calm sea at dusk seen from the beach, a single fishing boat far out, nothing showing of what lies beneath, no people. Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.

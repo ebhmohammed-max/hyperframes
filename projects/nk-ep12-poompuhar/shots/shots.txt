@@ -1,0 +1,323 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order)
+N01|0|coast_aerial|T|aerial view of a long straight sandy Tamil coast with palmyra palms and a small fishing village, the open sea stretching away to the horizon, a few wooden fishing boats, no people
+N01|0|descent_blue|U|looking straight down through darkening green-blue water as shafts of sunlight fade into the deep, a faint pale seabed far below, no people
+N01|1|ushape_first_glimpse|U|a low horseshoe-shaped ridge of rough stone on a sandy seabed, about as tall as a man, thickly covered in barnacles, sponges and weed, seen from above through murky water, a small school of fish, no people
+N01|1|ushape_curve_torch|U|the curved end of a low overgrown stone ridge on the seabed bending away into the gloom on both sides, a torch beam crossing it, a diver in mask and tank small beside it
+N01|2|diver_tape_ridge|U|a diver in mask and tank holding a long measuring tape along a low weed-covered stone ridge on the seabed, face hidden by the mask
+N01|3|towfish_lowered|N|a yellow torpedo-shaped sonar towfish being lowered on a cable from the stern of a small white research vessel, two crewmen seen from behind
+N01|3|sonar_trace_first|R|a paper chart recorder printing a grey sonar trace with a faint curved shadow on it, a technician's hand pointing at the curve with a pencil, no lettering on the paper
+N01|4|port_city_wide|P|wide view of a great ancient Tamil port at a river mouth, wooden ships with square sails at anchor, warehouses and tall brick mansions, crowds on the wharf
+N01|5|waves_over_ruins|D|storm waves at dusk breaking over the half-drowned brick walls and broken pillars of an abandoned ancient shore town, no people
+N01|6|ice_age_plain_walkers|I|a wide dry coastal plain with the sea far out on the horizon, a small band of hunter-gatherers walking in single file, cold pale light
+N01|7|seabed_map_monitor|G|a computer monitor showing a rainbow-coloured depth map of a seabed with ridges and channels, a man's hand pointing at a straight ridge, no lettering on the screen
+N01|8|phones_same_picture|X|several smartphones lying on the table, each screen glowing with the same blurred blue underwater picture, no lettering, no logos, no people
+N01|9|hands_find_nothing|U|a diver's gloved hands brushing weed from rough overgrown stone on the seabed and finding nothing, a cloud of silt rising
+N01|9|empty_sample_tray|X|an empty steel specimen tray with empty plain unlabelled sample bags beside it, no people
+N01|9|report_unreadable|A|an old typed research report lying open on a desk seen at a steep angle and out of focus so nothing can be read, top of the page out of frame, a pencil lying across it, no people
+N01|10|brick_sherd_gap|X|one ancient flat red brick and one broken potsherd lying in the light, a wide empty space of bare table beside them, no people
+N01|10|blank_palm_leaf|C|a blank dried palm-leaf strip and an iron stylus beside the lamp, no marks on the leaf at all, no people
+N01|11|palm_leaf_shelf|L|bundles of old palm-leaf manuscripts tied with cord on a wooden shelf, lit by one oil lamp, no people
+N01|11|poet_calm_harbour|P@poet|the elderly Tamil poet standing on a river bank looking at ships in a calm busy harbour, face clearly visible, peaceful mood, medium shot
+N01|12|storyteller_beach|B|an old storyteller seen from behind telling a tale to villagers seated around an oil lamp on a beach at night, a dark sea behind
+N01|13|torch_into_dark|U|a diver seen from behind, torch beam reaching into dark green water above a sandy seabed, vague shapes at the edge of the light
+N01|14|three_things_table|X|three things laid well apart in the light: a bundle of palm-leaf manuscripts, an ancient red brick with a potsherd, and a diver's mask, no people
+N01|14|trench_brick_wall|E|an excavation trench with a neat ancient brick wall exposed at the bottom, tools laid beside it, no people
+N01|14|seabed_sherds_peg|U|broken ancient pottery pieces half buried in sand on the seabed, a plain white marker peg beside them, no people
+N01|15|boat_out_dawn|M|a small survey boat heading out to sea at dawn seen from behind, its wake stretching back toward a palm-lined coast
+N01|16|diver_lifts_fragment|U|a diver in mask and tank lifting a large curved piece of a thick pale pottery jar from the sandy seabed, face hidden by the mask
+N01|16|fragment_wet_cloth|M|a large curved fragment of a thick pale buff pottery jar, still wet, lying on a plain cloth on a boat deck, gloved hands beside it
+N01|16|gulf_potters_yard|W|a potter's yard on the shore, rows of tall narrow torpedo-shaped clay jars without handles drying in the sun, a potter seen from behind carrying one
+N02|0|river_mouth_aerial|T|aerial view of a wide calm river meeting the sea across a sandbar, green delta fields and coconut groves, no people
+N02|1|fishing_boats_beach|T|painted wooden fishing boats pulled up on a sandy beach beside heaps of nets, fishermen in lungis seen from behind, a quiet small coastal town of low houses behind
+N02|1|village_street_quiet|T|a quiet coastal village street of low tiled houses and coconut palms, a man on a bicycle seen from behind
+N02|2|port_two_thousand|P|the same river mouth two thousand years ago, a great port city of brick and timber along both banks, dozens of wooden ships with square sails
+N02|2|city_gate_crowd|P|a tall timber and brick city gate with a busy crowd of traders, bullock carts and porters passing through
+N02|3|tiger_banner_wharf|P|a red cloth banner with a leaping tiger emblem flying from a tall wooden pole above a busy wharf, thatched warehouses and palms behind, plain sky
+N02|4|palm_leaf_poem|C|a long bundle of palm-leaf strips fanned open, covered in fine eroded illegible scratches, steep raking light, shallow depth of field, no people
+N02|4|poet_writing_lamp|L@poet|the elderly poet seated cross-legged writing on a palm leaf with an iron stylus beside an oil lamp, face clearly visible
+N02|5|poet_before_king|L@poet,karikala|the elderly poet standing and reciting before king Karikala seated on a low carved throne in a pillared timber hall, both faces visible
+N02|5|karikala_terrace|P@karikala|king Karikala Chola standing on a palace terrace above his port, looking out at the ships, face clearly visible, medium shot
+N02|6|wharf_cargo_heaps|P|huge heaps of sacks, bales and clay jars stacked along a timber wharf, porters carrying loads, ships alongside
+N02|6|clerk_counting_sacks|P|a harbour clerk with a palm leaf and stylus counting sacks while porters wait in line, medium shot
+N02|7|horses_and_pepper|P|tall horses being led down a gangplank from a wooden ship onto the wharf by handlers, behind them bullock carts loaded with sacks of black pepper
+N02|8|gems_gold_cloth|L|a merchant's hands pouring uncut gems and small gold pieces onto a cloth, bare arms with gold bangles, close shot
+N02|8|sandalwood_shed|P|stacked pale sandalwood logs and dark agarwood under a thatched shed, a trader smelling a shaving of wood
+N02|9|pearls_coral|C|a heap of white pearls and branches of red coral beside the lamp, no people
+N02|9|ships_from_east|P|ocean-going wooden ships with woven mat sails arriving from the open sea, sailors on deck, seen from the harbour mouth
+N02|10|tiger_seal_stamp|P|a customs officer pressing a carved wooden seal with a tiger emblem onto a cloth-wrapped bale, close shot of bare arms with armlets
+N02|10|sealed_bales_yard|P|rows of cloth-wrapped bales each marked with a small red tiger stamp waiting in a warehouse yard, a guard with a spear
+N02|11|traders_many_lands|P|traders from many lands talking together in a market street: a pale Mediterranean merchant in a tunic, a West Asian trader in a head cloth, a South-East Asian sailor, and Tamil merchants in dhotis
+N02|11|foreign_quarter_dusk|D|a waterfront street with foreign merchants' flat-roofed houses beside Tamil thatched ones, lamps being lit, wine jars stacked outside
+N02|12|ship_full_sail_enters|P|a large wooden ship under full square sail gliding straight into a wide deep river mouth, people watching from the bank
+N02|12|deck_view_river_mouth|P|view from a ship's deck entering a broad calm river mouth, the sail still full above, the port city ahead, sailors seen from behind
+N02|13|seafront_quarter|P|the seafront quarter of the port: warehouses, fishermen's huts, salt pans and artisans' sheds beside the beach
+N02|13|day_market_trees|P|a shaded open day market among big trees between two halves of the city, stalls of cloth, flowers and grain, a crowd of shoppers
+N02|14|merchant_couple_terrace|D|a young merchant couple seen from behind on the terrace of a tall mansion, she with anklets and jasmine in her hair, he in a fine dhoti, the port below
+N02|15|greek_geographer|O|a Greek geographer of the second century in a tunic and cloak seen from behind at a table in Alexandria, drawing a coastline on a papyrus sheet by the light of a clay oil lamp, no readable writing
+N02|15|old_map_divider|C|a worn antique parchment map of a peninsula's coastline with tiny faded illegible marks, a brass divider lying on it, steep raking angle, shallow depth of field, no people
+N02|16|city_evening_life|D|the port city full of life, lamps in every window, people and musicians in the streets, ships at anchor
+N02|16|children_wharf_steps|P|children playing on the wharf steps beside moored boats while women carry water pots past
+N02|17|calm_sea_city_lamps|D|the port seen from the sea, perfectly calm water reflecting the lamps of the city, no people
+N02|18|red_cloth_bundle|L|a single palm-leaf manuscript bundle wrapped in red cloth lying apart from a pile of others on a shelf, a bare hand reaching for it
+N03|0|manuscript_unwrapped|C|a palm-leaf manuscript bundle unwrapped from red cloth, leaves fanned, fine eroded illegible scratches, steep raking light, no people
+N03|1|buddhist_poet_niche|L|an ancient Tamil merchant-poet seen from behind writing on a palm leaf, a small stone Buddha image and a lamp in a wall niche before him
+N03|2|monk_reading_cell|L|a Buddhist monk in an ochre robe seen from behind reading palm leaves in a small brick monastery cell
+N03|2|books_leaning_apart|A|two stacks of old scholarly books on a desk leaning in opposite directions, a pair of spectacles between them, plain spines with no titles, no people
+N03|3|moonlit_palace_shore|B|a moonlit shore with a palace above the beach, lamps in its windows, calm sea, no people
+N03|4|king_meets_princess|B@king,peelivalai|the Chola king and the Naga princess Peelivalai meeting in a seaside grove of screw-pine and flowering trees, both faces visible
+N03|4|princess_infant|B@peelivalai|the Naga princess Peelivalai holding her infant son wrapped in cloth on an island shore, face visible, gentle mood
+N03|5|child_given_merchant|B@peelivalai|Peelivalai on an island jetty handing her wrapped infant to an elderly bearded merchant in a dhoti and shoulder cloth, a wooden ship waiting behind
+N03|5|ship_leaves_island|B|a wooden merchant ship with a square sail leaving a small green island at sunset, a woman's small figure watching from the shore
+N03|6|ship_storm_night|B|a wooden ship driven by heavy waves near a dark shore at night, sail torn, lightning in the clouds, no people visible
+N03|6|wreckage_empty_cradle|B|broken ship timbers and an empty woven cradle basket washing onto a beach at grey dawn, no people
+N03|7|king_searching_surf|B@king|the Chola king walking alone along the surf at dawn, crown off, hair loose, searching the waves with grief on his face, guards far behind
+N03|8|king_grieving_hall|L@king|the king sitting slumped on the steps below his throne in a dark hall, head bowed in grief, ministers waiting at a distance
+N03|8|festival_street_empty|D|a festival street standing silent: bare poles without decorations, unlit lamps, a drum on its stand untouched, a few townspeople looking up anxiously
+N03|9|shrine_withered_garlands|D|a small ancient brick shrine with an unlit lamp and withered garlands, dark clouds gathering over the sea behind, no people
+N03|9|elders_at_gate|L|old townsmen seen from behind speaking urgently to palace guards at a timber gate by torchlight
+N03|10|mythic_wave_goddess|B|a towering dark wave rising over a sleeping port city at night, the faint shape of a woman's figure in the crest of the wave, as in a myth, no people in the streets
+N03|10|water_through_streets|B|sea water rushing between the brick houses of an ancient street at night, lamps going out one by one, no people visible
+N03|11|flooded_city_dawn|B|dawn over a flooded ancient city, only rooftops, a gate tower and palm crowns above calm water, no people
+N03|12|island_deity_speaks|B|a young woman ascetic in plain ochre cloth seen from behind, listening to a softly glowing guardian goddess on an island shore at night
+N03|13|leaf_no_date|C|a single blank palm-leaf strip beside a stylus, no marks on it at all, no people
+N03|13|footprints_tide_line|T|a long empty beach at low tide with the waterline curving away, a line of footprints stopping at the water's edge, no people
+N03|14|leaf_and_stone_apart|X|a palm-leaf manuscript at one end of the table and a plain weathered stone slab at the other, the light falling on the empty gap between them, no people
+N03|15|manuscript_put_back|L|bare hands carefully re-wrapping a palm-leaf manuscript in red cloth and placing it back on a wooden shelf
+N03|16|sea_drawn_back|B|ancient fishermen on a beach seen from behind staring at the sea drawn far back, boats stranded on wet sand, an ominous white line on the horizon, grey daylight
+N03|16|grandmother_wave_story|L|an old woman telling a story to children around an oil lamp in a thatched hut, her hands raised like a wave
+N03|16|marine_archaeologist_notes|A|an Indian marine archaeologist seen from behind writing notes at a desk, a diving mask and a potsherd beside the lamp, no readable writing
+N03|17|spade_in_sand|E|a spade standing upright in sandy soil at the edge of a freshly marked excavation square near palmyra palms, no people
+N04|0|dig_camp_tents|E|white canvas tents of an archaeological camp among palmyra palms near a beach, workers arriving with baskets and spades
+N04|0|first_trench|E|workers digging the first square trench in sandy soil with pickaxes, a supervisor in a sun hat seen from behind
+N04|1|supervisor_notebook|E|an Indian archaeologist in a white shirt and sun hat seen from behind at the edge of a trench, writing in a field notebook
+N04|1|trench_rows|E|several neat square trenches in a row with string lines and measuring poles, baskets of soil, workers bent at their task
+N04|2|silted_channel|E|a shallow dry depression winding through fields, the trace of a silted-up old river channel, a trench cut across it, no people
+N04|2|brick_emerging_silt|E|the top of an ancient brick wall emerging from damp dark silt at the bottom of a trench, a worker's bare hands brushing it clean
+N04|3|wharf_excavated|E|an excavated ancient brick platform with a brick-lined water channel beside it and blackened wooden posts standing in the mud, seen from the trench edge, no people
+N04|3|wooden_posts_close|E|close view of thick blackened ancient wooden posts set in wet silt beside old brickwork, raking light, no people
+N04|4|wharf_alive|P|a small brick wharf on a river channel, flat-bottomed boats tied to wooden posts, porters unloading sacks onto the platform
+N04|5|wood_sample_tube|E|gloved hands cutting a small sample from a blackened ancient wooden post and dropping it into a plain glass tube, no labels
+N04|5|dating_lab_1960s|O|an Indian laboratory of the 1960s with a bench of plain glass vacuum tubes and plain metal instruments, a scientist in a white coat seen from behind, daylight from a window, bare walls, no lettering
+N04|6|posts_driven_new|P|pale new wooden posts being driven into a river bank by workers with heavy wooden mallets
+N04|7|curved_reservoir_wall|E|an excavated curved semicircular ancient brick wall of a small reservoir in a trench, a plain measuring pole laid against it, no people
+N04|8|vihara_foundations|E|excavated brick foundations of a row of small monastery cells along a corridor, palm trees behind, one worker sweeping
+N04|8|footprint_slab|E|a pale limestone slab carved with a pair of footprints and simple wheel symbols lying in an excavation trench, raking light, no lettering, no people
+N04|9|square_copper_coins|C|a handful of small square corroded green copper coins, a worn faint animal shape on one, no lettering, no people
+N04|10|brick_on_manuscript|X|an ancient red brick resting on top of a palm-leaf manuscript in the light, no people
+N04|10|buried_walls_cropmarks|T|green rice fields and coconut palms seen from above, faint straight lines of buried walls showing as marks in the crop, no people
+N04|11|archaeologist_stands_still|E|an archaeologist seen from behind standing still at the trench edge, looking down at brick foundations in evening light
+N04|12|monks_courtyard|Y|Buddhist monks in ochre robes walking in the brick courtyard of a small monastery near the sea
+N04|12|lamp_before_footprints|L|an oil lamp and flowers placed before a carved stone slab of the Buddha's footprints in a small brick shrine, a monk's joined hands at the edge of the frame
+N04|13|boy_saint_sings|Y|a boy saint seen from behind with small cymbals in his raised hands, singing before a small early Shiva temple near the sea, devotees listening with folded hands
+N04|13|temple_near_shore|Y|a small early Shiva temple with a low tower among palms close to the shore, a lamp burning at the doorway, no people
+N04|14|trench_layers|E|the cut side wall of a deep trench showing many coloured layers of soil with potsherds and lines of brick at different depths, a plain measuring pole, no people
+N04|14|sherds_in_sequence|A|rows of potsherds laid out in order on a cloth-covered table, from rough dark early pieces to later glazed ones, bare hands arranging them, no labels
+N04|14|medieval_street|Y|a village street with a granite temple gateway, bullock cart and people going about their day, the sea visible at the end of the street
+N04|15|town_and_broken_edge|D|an ancient town carrying on its life with lamps and cooking fires, while the sea laps at broken walls on its outer edge
+N04|16|shore_cliff_walls|D|waves undercutting a low earth cliff where the brick walls of old houses hang broken over the beach, no people
+N04|16|inland_market_alive|Y|the inland part of the town busy with a market under trees, while far behind it the sea shows through a gap of ruined walls
+N04|17|diver_backroll|M|a diver in mask and tank rolling backward off the side of a small boat into the sea, a splash, a palm coast far behind
+N05|0|survey_boat_1981|N|a small wooden survey boat of the early 1980s, two men seen from behind lowering a weighted line into the sea near a palm coast
+N05|0|research_vessel_anchor|N|a white research vessel at anchor off a low palm-lined coast, a rubber dinghy alongside, no people
+N05|1|institute_on_hill|O|a plain institute building of the 1980s on a green hillside above the sea in Goa, coconut palms, monsoon clouds, no signboards, no lettering, no people
+N05|1|team_chart_deck|N|a team of Indian marine archaeologists and officials seen from behind on a ship's deck, studying a rolled chart held open between them
+N05|2|senior_archaeologist_rail|N|a senior Indian marine archaeologist with grey hair seen from behind at a ship's rail, looking at the coast through binoculars
+N05|2|gujarat_dive_blocks|O|divers in the 1980s examining large squared stone blocks on a shallow sunlit seabed off the coast of Gujarat, faces hidden by masks, clear green water
+N05|3|surf_over_brickwork|T|waves washing in and out over a flat sandy foreshore at low tide, dark shapes of old brickwork just showing through the foam, no people
+N05|4|ring_well_in_surf|T|the round rim of an ancient terracotta ring well standing in the wash of the waves on a beach, water swirling inside it, no people
+N05|4|ring_wells_measured|T|two ancient terracotta ring wells exposed in wet sand at low tide, an archaeologist seen from behind kneeling beside one with a plain scale rod
+N05|5|well_in_yard_then|P|women drawing water with clay pots from a terracotta ring well in the yard of a house, coconut palms
+N05|5|well_wave_now|T|a terracotta ring well half buried on an empty beach with a wave breaking over it, no people
+N05|6|wall_and_jar_foreshore|T|a line of ancient brick wall and the rim of a large buried storage jar exposed in the sand of the foreshore at low tide, no people
+N05|7|shallow_dive_bright|U|two divers in masks and tanks swimming down through bright shallow green water toward a sandy seabed, strong sunlight
+N05|7|river_mouth_from_boat|N|the mouth of a river seen from a boat a little way out to sea, a sandbar and palms, a diver's flag buoy floating in the foreground, no people
+N05|8|dressed_blocks_seabed|U|several squared dressed stone blocks lying scattered on a sandy seabed in shallow water, lightly covered with weed, no people
+N05|8|half_round_block|U|a half-round dressed stone block with a right-angled notch cut into it lying on the seabed, a diver's hand holding a plain scale rod beside it
+N05|9|sherd_from_sand|U|a diver's gloved hand picking a red potsherd out of the sand on the seabed
+N05|9|sherds_tray_deck|N|wet potsherds of black-and-red ware laid in a plain tray on a boat deck, bare hands sorting them, no labels
+N05|9|sherd_magnifier|A|a potsherd under a desk magnifier, a hand turning it, drawing instruments beside it, no readable writing
+N05|10|potter_wheel_yard|P|a potter shaping a black-and-red pot on a wheel outside a hut, finished pots drying in rows
+N05|11|profiler_recorder|R|a paper chart recorder drawing wavy grey layers of the seabed, a technician's hand on a plain dial, no lettering
+N05|12|buried_valley_trace|R|close view of a grey paper sonar trace showing a broad dip like a buried valley under flat layers, a pencil tip pointing at it, no lettering
+N05|12|ancient_river_broad|P|a broad river flowing to the sea between green banks seen from high above, small boats on it, no people visible
+N05|13|wreck_ribs|U|the broken ribs and timbers of an old wooden sailing ship half buried in the seabed and overgrown with weed, a diver hovering above, face hidden by mask
+N05|13|lead_ingots_pile|U|a pile of dull grey boat-shaped lead ingots lying among ship timbers on the seabed, dusted with silt, no people
+N05|14|ingot_worn_stamp|O|close view of a heavy grey lead ingot on a wet boat deck, a worn stamped mark in its surface too corroded to read, gloved fingers brushing it, shallow depth of field
+N05|14|ingot_brush_tray|N|bare hands cleaning a grey lead ingot with a soft brush in a tray of water on a ship's deck
+N05|15|merchant_ship_1790s|O|a three-masted European merchant sailing ship of the 1790s under sail off a low palm-lined South Indian coast, evening light, no flags, no people visible
+N05|16|anchor_beside_blocks|U|a rusted eighteenth-century iron anchor lying on the seabed next to much older worn stone blocks, both covered in the same weed, no people
+N05|16|depth_gauge_wrist|U|a diver's wrist depth gauge held up in green water, a plain dial with a needle and no readable numbers, the seabed blurred below
+N05|16|weighted_line_sinking|U|a weighted measuring line dropping through the water toward the seabed, the light fading with depth, no people
+N05|17|vessel_further_out|N|the research vessel heading further out to sea, the coast now a thin line behind it, crew seen from behind at the stern
+N05|17|deeper_darker_water|U|looking down into much deeper, darker blue-green water where the light fails, a faint curved shape on the seabed far below, no people
+N06|0|vessel_hazy_march|N|the research vessel at sea on a hot hazy morning, a cable running from its stern into the water, no people
+N06|0|logbook_chart_table|R|a ship's logbook lying open on a chart table with a pencil and brass dividers, the pages blurred and unreadable, seen at a steep angle, no people
+N06|1|towfish_over_seabed|U|a yellow torpedo-shaped sonar towfish gliding on its cable above a flat sandy seabed, no people
+N06|1|three_blotches_trace|R|a grey paper sonar printout showing three dark blotches in a row on a flat pale seabed, the middle one curved like a horseshoe, a technician's finger touching it, no lettering
+N06|2|coast_thin_line|N|view from the ship toward a very distant low coast, only a thin line of palms on the horizon across open water, no people
+N06|2|sounding_line_paid_out|N|a sailor seen from behind paying out a knotted sounding line over the ship's side into deep green water
+N06|3|three_divers_descend|U|three divers in masks and tanks descending a rope line into dim deep green water, torches on, faces hidden
+N06|3|torch_sweeps_curve|U|a torch beam sweeping along a low curving weed-covered stone ridge on the seabed that bends round like a horseshoe, a diver small beside it
+N06|4|two_divers_tape|U|two divers stretching a long measuring tape along the top of a low overgrown stone ridge on the seabed, faces hidden by masks
+N06|5|ushape_whole_above|U|the whole low horseshoe-shaped overgrown ridge seen from high above through murky water, a tiny diver over one arm showing its great size, the open end toward the top of the frame
+N06|5|ridge_height_diver|U|a diver standing on the seabed beside the overgrown ridge, which rises to just above his head, holding a plain scale pole upright, face hidden by mask
+N06|6|compass_over_ridge|U|a diver's gloved hand holding a plain underwater compass above the overgrown ridge, no readable lettering
+N06|6|two_arms_unequal|U|view from the open end of the horseshoe ridge showing one arm clearly taller than the other, bare sand between them, no people
+N06|7|marine_growth_macro|U|close view of thick barnacles, oysters, sponges and sea fans completely covering a rough surface, tiny fish, no stone visible, no people
+N06|8|level_rows_hint|U|a patch on the overgrown ridge where the growth is thinner and rough stone seems to lie in two or three level rows, a diver's hand hovering near, unclear whether built or natural
+N06|8|hand_fanning_silt|U|a diver's gloved hand fanning silt away from the sandy floor inside the horseshoe, rough rock just appearing under the sand
+N06|9|two_notebook_sketches|A|two open field notebooks side by side on a desk with different pencil sketches of a horseshoe outline, one long and narrow, one short and wide, no writing, no people
+N06|9|diver_sketch_slate|U|a diver sketching a horseshoe outline with a pencil on a white underwater slate, face hidden by mask
+N06|9|tape_slack_current|U|a measuring tape lying slack across weed-covered stone in a murky current, poor visibility, no people
+N06|10|diver_lost_in_murk|U|a diver almost lost in thick green murk above the seabed, the torch beam reaching only a metre or two
+N06|11|typed_report_mask|A|a typed research report in a plain card cover on a desk, seen at a steep angle and out of focus so nothing can be read, top of the page out of frame, a diving mask beside it, no people
+N06|11|pencil_unfinished_outline|A|a hand with a pencil stopped above an unfinished sketch of a horseshoe-shaped outline on plain paper, no writing
+N06|12|ridge_left_alone|U|the overgrown horseshoe ridge alone on the seabed, fish drifting over it, no people
+N06|13|three_pebbles|X|three smooth sea pebbles placed in a row in the light, no people
+N06|14|natural_beachrock|U|a natural curved ridge of layered beach rock on the seabed, cracked by nature into block-like pieces and overgrown, no people
+N06|14|mason_sets_block|P|a mason setting a squared stone block onto a low wall with a wooden lever, another row already laid
+N06|15|hourglass_wet_stone|X|a plain hourglass with sand running, standing on a wet dark stone in the light, no people
+N06|16|shore_wall_tide|D|a low curved stone wall on a shore with the tide rising around its base, no people
+N06|16|delta_mud_sagging|O|a cutaway side view painted like a plain geological illustration: soft layers of delta mud sagging downward beneath the sea with a small stone ridge resting on top, muted colours, no labels, no lettering, no people
+N06|17|sherd_charcoal_dish|X|a single potsherd and a small piece of charcoal in a plain glass dish in the light, a soft brush beside them, no people
+N06|17|empty_mesh_bag|U|a diver's gloved hand holding an empty mesh sample bag above the overgrown ridge
+N06|18|ridge_fading_dark|U|the overgrown horseshoe ridge fading into dark water as the light fails, no people
+N06|18|plain_books_tapes|X|a stack of thick paperback books and video cassettes with plain blank covers in the light, no lettering, no people
+N07|0|writer_on_beach|O|a tall European writer in a sun hat and linen shirt seen from behind walking along a Tamil fishing beach with a camera bag, palm trees and wooden boats, around the year 2001, morning light, no signboards
+N07|0|film_crew_loading|O|a small television film crew seen from behind loading camera cases and diving tanks onto an Indian fishing boat at a small harbour, early morning, around the year 2001, no logos, no lettering
+N07|1|writer_desk_books|O|a writer's desk in an English house around the year 2001 with stacks of plain-covered books, coastline maps and a bulky laptop, a man's hands typing, grey window light, no readable lettering
+N07|1|fantasy_drowning_city|O|painted as a fantasy book illustration: an imagined grand stone city on a coast being overtaken by a rising sea under a red sky, dreamlike soft haze, no people
+N07|2|mixed_team_descends|U|a European diver and Indian divers in masks and tanks descending together toward the seabed, an underwater film camera with lights among them, faces hidden
+N07|2|film_lights_on_ridge|U|bright film lights on an underwater camera lighting a section of the low overgrown horseshoe ridge, a diver filming, face hidden by mask
+N07|3|university_office_2001|O|a geologist's office in an English university around the year 2001, a man seen from behind at a bulky computer monitor showing a plain coloured coastline map, bookshelves, grey daylight in the window, no readable lettering
+N07|3|coast_map_wider_land|O|close view of an old bulky computer monitor showing a plain colour map of the southern tip of India with a wider pale band of extra land around today's coast, no labels, no lettering, dim office
+N07|4|ice_sheet_calving|O|the edge of a vast ice sheet at the end of the Ice Age calving into a grey sea, meltwater rivers pouring off it, cold blue light, no people
+N07|4|sea_creeping_plain|I|the sea creeping across a low coastal plain, drowned trees standing in the shallows, no people
+N07|5|dry_plain_low_ridge|I|a wide dry coastal plain with a low curved rock ridge on it, the sea far away on the horizon, no people
+N07|5|same_ridge_drowned|U|a low curved overgrown ridge deep underwater in dim green light, no people
+N07|6|writer_filmed_deck|O|a European writer in a wetsuit seen from behind on an Indian boat deck, gesturing toward the open sea while a television cameraman seen from behind films him, around the year 2001, no logos
+N07|6|fantasy_builders|O|painted as a fantasy book illustration, deliberately dreamlike and unreal: Ice Age people raising a horseshoe of rough stones on a misty shore, soft glowing haze, figures small and indistinct
+N07|7|pot_three_holes|X|an old clay water pot with three small holes in its side, thin streams of water running out onto the table, no people
+N07|8|stone_or_growth|U|close view of the overgrown ridge where it is impossible to tell stone from growth, a torch beam on it, no people
+N07|9|delta_aerial_channels|T|aerial view of a green river delta with many winding channels and soft muddy banks reaching the sea, no people
+N07|9|mud_bank_slumping|T|a soft river bank of delta mud slumping into brown water, palm roots exposed, no people
+N07|9|palms_fallen_surf|T|waves cutting into a sandy shore, coconut palms fallen with their roots in the surf, no people
+N07|10|gauge_and_blank_slate|U|a diver's depth gauge and a blank white wrist slate held together in green water, no readable numbers
+N07|10|rod_and_stopped_watch|X|a wooden measuring rod and a stopped brass pocket watch with a plain blank dial lying apart in the light, no people
+N07|11|microliths_in_palm|I|an open dark-skinned palm holding several tiny sharp chipped stone blades, close shot
+N07|11|hunters_campfire|I|a small band of hunter-gatherers at a camp fire beside a rock shelter, chipping stone tools, simple skin shelters
+N07|11|rock_shelter_ash|I|a low rock shelter with the ash of a fire and scattered stone chips on the floor, no walls, no people
+N07|12|scientists_and_writer_deck|O|two Indian marine archaeologists in plain shirts seen from behind on a boat deck, talking with a European man in a wetsuit seen from behind, open sea, around the year 2001, no logos
+N07|12|clipboard_horseshoe|O|an Indian marine archaeologist seen from behind on a boat deck, pointing with a pen at a pencil sketch of a horseshoe shape on a clipboard, no writing, sea behind
+N07|13|interview_tripod|O|a television interview on a boat deck around the year 2001: a video camera on a tripod in the foreground, an Indian scientist seated beyond it out of focus with his face turned away, sea behind, no logos, no lettering
+N07|13|men_hauling_block|O|a painted illustration of how hard it is to move a great stone: many bare-chested men straining at ropes and log rollers under a huge block, dust in hot light, South Indian landscape with palmyra palms
+N07|14|writer_looks_down_water|O|a European writer seen from behind at the stern of an Indian boat at sunset, looking down into the water, no logos
+N07|15|empty_bag_on_rail|M|an empty mesh sample bag hanging to dry on a boat rail, the sea behind, no people
+N07|15|empty_glass_dish|X|an empty plain glass specimen dish in the light, no people
+N07|16|balance_pans_empty|X|an old brass hand balance with both pans empty and level, hanging in the light, no people
+N07|16|ridge_silent_wide|U|the overgrown horseshoe ridge seen wide in dim water, a single fish passing, no people
+N07|16|closed_book_mask|X|a thick plain-covered book lying closed beside a diver's mask, no lettering, no people
+N08|0|wake_fading_dusk|M|a boat's wake fading on an empty sea at dusk, no people
+N08|1|university_campus|O|a modern Indian university building of brick and concrete among big rain trees in Tiruchirappalli, students seen from behind walking, morning light, no signboards, no lettering
+N08|1|press_room_from_back|O|a press conference in a plain Indian university hall seen from the back of the room: journalists with cameras and microphones seen from behind, a projector screen showing a blurred blue seabed image, the speakers at the far table out of focus and too small to recognise, no banners, no lettering
+N08|2|lab_many_monitors|G|a remote-sensing laboratory with several large monitors showing coloured seabed maps, researchers seen from behind, no lettering on the screens
+N08|2|professor_wall_screen|G|an elderly Indian professor in a plain shirt seen from behind, pointing with a pen at a large coloured seabed map on a wall screen, no lettering
+N08|3|survey_ship_sound_fan|M|a modern survey ship moving over the sea shown in cutaway, a faint fan of sound beams drawn beneath it down to the seabed, no people, no lettering
+N08|3|seabed_relief_screen|G|close view of a monitor showing a rainbow-coloured relief map of the seabed with ridges, channels and hollows, no labels, no lettering, no people
+N08|4|open_ocean_no_land|M|nothing but open sea to every horizon seen from a ship's deck, no land in sight, no people
+N08|4|deep_black_seabed|O|a very deep dark seabed a hundred metres down, almost black water, a faint bare ridge just visible in the gloom, no divers, no people
+N08|4|straight_shapes_on_map|G|a monitor showing straight-edged shapes and parallel lines in a coloured seabed map, a finger tracing one line, no lettering
+N08|5|pen_outlines_harbour|G|a hand drawing the outline of a long rectangular harbour with a pen over a printed colour seabed map on a desk, no labels, no lettering
+N08|5|sketch_giant_harbour|A|a pencil drawing on plain paper of an enormous imagined harbour with long canals, lying on a desk under a lamp, clearly only a sketch, no writing, no people
+N08|6|sketch_ship_docks|A|a pencil sketch on plain paper of rows of ship docks along a canal, an eraser and pencil beside it, clearly only a drawing, no writing, no people
+N08|6|sketch_lighthouse_stair|A|a pencil sketch on plain paper of a tall lighthouse tower with a spiral staircase, clearly an imagined drawing, a hand shading it, no writing
+N08|6|round_bump_on_map|G|close view of a small round bump in a coloured seabed map on a monitor, a pen tip pointing to it, no lettering
+N08|7|ice_age_shore_far|I|the Ice Age shoreline far out on a bare plain, a few hunter-gatherers tiny in the distance
+N08|8|hand_drawn_rising_line|O|a plain hand-drawn pencil line on graph paper climbing from lower left to upper right like a rising sea level, a pencil beside it, no numbers, no labels, no lettering, desk lamp light, Indian study
+N08|8|second_shoreline_map|G|a monitor showing a plain map of a coast with a second pale shoreline drawn far out to sea, no lettering, no people
+N08|8|ridge_again_dim|U|the low overgrown horseshoe ridge on the seabed in dim light seen from one side, no people
+N08|9|empty_tube_rack|X|a rack of empty plain glass sample tubes in the light, no labels, no people
+N08|9|dive_gear_unused|M|diving tanks and masks standing dry and unused in a rack on a quiet jetty, no people
+N08|10|archaeologists_table|A|three Indian archaeologists seen from behind around a table covered with potsherds and trowels, one holding a newspaper folded so the page cannot be seen
+N08|10|folded_newspaper_trowel|A|a folded newspaper on a desk beside spectacles and a trowel, top of the page out of frame, print blurred and unreadable, no masthead, no heading, no people
+N08|11|hunter_in_grass|I|a hunter-gatherer with a spear tipped with tiny stone blades crouching in tall dry grass, deer far off
+N08|11|microliths_by_ash|I|tiny chipped stone blades scattered on bare earth beside the ash of a small fire, no people
+N08|12|dream_empty_harbour|O|painted as an unreal dream image: an enormous empty stone harbour with no ships and no people under a pale sky, fading into mist at the edges
+N08|12|dugout_canoe_lagoon|I|two hunter-gatherers paddling a small dugout log canoe in a quiet lagoon
+N08|13|natural_seabed_lines|O|a seabed seen from above in clear deep blue water with long straight natural ridges and channels made by old river courses and sand waves, no buildings, no people
+N08|13|bare_hand_on_stone|U|a diver's bare hand laid flat on rough stone on the seabed, torch light, face out of frame
+N08|13|coring_tube_winch|M|crew seen from behind lowering a long steel coring tube on a winch from a boat into the sea
+N08|14|villagers_look_to_sea|T|Tamil villagers of all ages seen from behind on a beach at sunset, looking out to sea
+N08|14|child_touches_well|T|an ancient terracotta ring well exposed on the beach, solid and real, a child's hand touching its rim
+N08|14|wharf_bricks_sun|E|the excavated ancient brick wharf with its wooden posts in clear sunlight, no people
+N08|15|dive_boat_ready|M|a modern dive boat with tanks racked on deck, divers in black wetsuits seen from behind preparing to dive, calm sea
+N08|15|divers_step_off|M|two divers in black wetsuits stepping off the stern platform of a boat into the sea, seen from behind, a splash
+N09|0|budget_book_desk|O|a thick bound document in a plain red cover tied with a ribbon on a polished wooden desk beside a brass lamp in an Indian government office, no lettering, no emblem, no people
+N09|0|shore_today_breakwater|T|a long beach with a line of breakwater stones and fishing boats, no people
+N09|1|team_briefing_jetty|M|a team of Indian archaeologists and divers seen from behind standing around a chart spread on a table on a jetty
+N09|1|cadets_carry_cases|M|young Indian maritime cadets in plain white uniforms seen from behind carrying survey equipment cases along a jetty to a boat
+N09|2|ten_divers_deck|M|ten divers in black wetsuits seen from behind sitting in two rows on the deck of a boat heading out to sea
+N09|3|robot_lowered|M|a small yellow box-shaped underwater robot with lamps and a cable being lowered by hand from a boat into the sea, crew seen from behind
+N09|3|robot_over_seabed|U|a small yellow underwater robot with bright lamps hovering above a sandy seabed, its cable trailing upward, no people
+N09|4|old_chart_and_gps|M|bare hands holding a faded old sea chart with pencil crosses next to a plain handheld GPS unit on a boat's console, no readable lettering
+N09|4|blocks_found_again|U|a diver hovering over scattered dressed stone blocks on the seabed, heavily overgrown, face hidden by mask
+N09|5|oval_mound_diver|U|a low oval-shaped overgrown stone mound on the seabed in dim green water, a diver swimming along its edge, face hidden by mask
+N09|5|laptop_two_shapes|M|a laptop on a boat showing a grey sonar image of a horseshoe shape with a smaller oval beside it, a hand pointing, no lettering
+N09|6|boat_monsoon_clouds|M|the dive boat anchored on a calm sea under tall monsoon clouds, a diver's flag buoy floating nearby, no people
+N09|7|coast_two_km|M|view from the dive boat toward the coast two kilometres away, palms and a temple tower clearly visible, no people
+N09|7|divers_grid_frame|U|divers working on a sandy seabed in fairly bright green water, a plain white square grid frame laid on the sand, faces hidden by masks
+N09|8|jar_fragment_in_sand|U|a large curved fragment of a thick pale pottery jar half buried in the sand of the seabed, a diver's gloved hand reaching toward it
+N09|9|torpedo_jar_whole|W|a complete ancient torpedo jar: a tall narrow cylindrical pale clay vessel with a small mouth, no handles and a rounded pointed base, leaning against a mud-brick wall, no people
+N09|9|jars_in_ship_hold|W|rows of tall handleless torpedo jars stacked upright in the hold of a wooden sewn-plank trading ship, a sailor checking a rope seal
+N09|9|gulf_ship_open_sea|O|an ancient Persian Gulf sewn-plank sailing ship with one big sail crossing the open Arabian Sea in a strong wind, tall handleless clay jars lashed on deck, sailors in tunics and head cloths
+N09|10|fragment_crowd_deck|M|the thick pale jar fragment lying on a padded cloth on the boat deck, still wet, divers and archaeologists seen from behind gathered round it
+N09|10|fragment_caliper|M|gloved hands measuring the curve of the thick pale jar fragment with a plain caliper, no labels
+N09|11|gulf_trader_on_wharf|P|a West Asian trader in a long tunic and head cloth standing beside tall handleless clay jars on the wharf, bargaining with a Tamil merchant in a dhoti
+N09|11|porters_carry_jars|P|porters carrying tall handleless pale clay jars from a foreign ship onto the wharf, a customs officer watching
+N09|12|fragment_lab_bench|O|the thick pale jar fragment on a white bench under a magnifier lamp in a modern Indian archaeology laboratory, a researcher's gloved hands, bare walls, no labels, no lettering
+N09|12|fragment_edge_macro|O|close view of the broken edge of the thick pale jar fragment showing the grain of the clay, a researcher's gloved fingertip beside it, modern Indian archaeology laboratory light, shallow depth of field, no labels, no lettering
+N09|13|ring_well_scale_rod|U|the round rim of a terracotta ring well showing through the sand of the seabed, a diver holding a plain scale rod across it, face hidden by mask
+N09|13|four_well_rims|U|four round terracotta ring well rims in a loose line on the sandy seabed, no people
+N09|14|wells_river_bank_then|P|a row of ring wells beside houses along the bank of a river, people drawing water
+N09|14|laptop_buried_channel|M|a laptop on the boat showing a grey image of a buried channel under the seabed, a hand tracing its curve, no lettering
+N09|15|sherds_long_tables|O|hundreds of wet potsherds laid in rows on long tables under an awning at a modern Indian field camp beside the beach, bare hands sorting them, no labels, no lettering
+N09|15|limestone_base_glaze|O|a small pale limestone pedestal block with a square socket in its top, worn and pitted by the sea, lying on a cloth beside a blue-green glazed potsherd on a field camp table in coastal Tamil Nadu, no labels, no people
+N09|16|sherd_on_colour_map|X|a real potsherd lying on top of a printed coloured seabed map in the light, no lettering, no people
+N09|17|three_finds_row|X|a piece of a terracotta well ring, a black-and-red potsherd and a thick pale jar fragment in a row in the light, no people
+N09|17|scraping_into_tube|O|gloved hands placing a tiny scraping from a potsherd into a plain glass tube in a modern Indian laboratory, bare walls, no labels, no lettering
+N09|17|potter_wet_hands|P|close view of a potter's wet hands shaping the rim of a pot on a wheel
+N10|0|three_cloths_above|X|a palm-leaf manuscript, an ancient brick and a diving mask set on three separate plain cloths, seen from directly above, no people
+N10|1|port_golden_hill|P|the great port in golden afternoon light seen from a low hill, ships, warehouses, mansions and crowds
+N10|2|wave_mural_style|B|the mythic dark wave with a faint goddess shape above the sleeping city, painted like an old temple mural, no people in the streets
+N10|2|bundle_guttering_lamp|C|a red-cloth manuscript bundle lying closed beside the guttering lamp, no people
+N10|3|wharf_dawn_dew|E|the excavated brick wharf at dawn with dew on the bricks, no people
+N10|3|monastery_ruins_today|T|low conserved brick foundations of an ancient monastery among grass and palms, a visitor seen from behind
+N10|3|temple_street_sea|Y|a town street with a granite temple gateway, carts and people, the sea close behind the houses
+N10|4|well_rim_fish|U|a terracotta ring well rim on the seabed with small fish sheltering inside it, no people
+N10|4|brick_line_seabed|U|a short line of ancient flat bricks showing through the sand on the seabed, weed growing on them, no people
+N10|4|sunbeams_low_walls|U|sunbeams falling through shallow green water onto low remains of brick walls and a broken pot on a sandy seabed, no people
+N10|5|diver_hovers_ridge|U|the low overgrown horseshoe ridge in deep dim water, a diver hovering motionless above it and looking down, face hidden by mask
+N10|5|ridge_surface_torch|U|close view of the ridge's surface in torch light, growth and stone impossible to tell apart, no people
+N10|6|empty_tray_dust|X|an empty steel specimen tray in the light, dust drifting in the beam, no people
+N10|6|sketches_aside_sherd|A|pencil sketches of an imagined harbour and lighthouse pushed to the edge of a desk, a single real potsherd alone in the lamp light at the centre, no writing, no people
+N10|7|tide_advancing_dusk|T|the tide advancing over a flat beach toward the viewer at dusk, no people
+N10|8|coring_rig_beach|T|researchers seen from behind driving a long steel coring tube into the sand of a beach with a tripod rig
+N10|8|core_split_boundary|O|a long sediment core split lengthwise on a bench in a modern Indian laboratory: dark fine river mud in the lower part changing sharply to pale shelly sea sand above, a gloved hand pointing at the boundary, no labels, no lettering
+N10|8|microscope_tiny_shells|O|view through a microscope of tiny pale spiral sea shells among sand grains in a circular field on black, no lettering
+N10|9|white_line_wave_far|D|a long white line of a great wave approaching an ancient shore town seen from far inland in grey daylight, no people visible
+N10|9|abandoned_river_bed|T|a dry abandoned river bed curving through fields while the living river flows far off in another course, aerial view, no people
+N10|10|core_line_close|O|close view of the sharp line between dark mud and pale shelly sand in a split sediment core, laboratory light, no labels, no people
+N10|11|old_photo_shore_temple|A|an Indian archaeologist's hands holding an old colour photograph of a small shore temple standing on dry sand, no writing
+N10|11|temple_in_the_surf|T|a small old shore temple standing in the sea, waves breaking against its walls, no people
+N10|11|archaeologist_watches_temple|T|an elderly Indian archaeologist in a plain shirt seen from behind standing on the beach, looking at a small temple half in the water
+N10|12|wave_pulls_bricks|T|a wave pulling sand and broken old bricks back into the sea, close low view, no people
+N10|13|chart_corner_shaded|M|a sea chart on a boat table with one small corner shaded in pencil and the rest left blank, a hand resting on it, no readable lettering
+N10|13|wide_sea_one_buoy|M|a wide empty sea seen from the boat at dawn with a single small diver's buoy, no people
+N10|14|gear_packed_jetty|M|diving tanks, coiled ropes and plain survey cases packed and ready on a jetty at dawn beside a moored boat, no people
+N10|15|hand_reaches_gap|U|a diver's gloved hand reaching toward a gap in the overgrown ridge where something small and reddish shows in the sand
+N10|15|sherd_in_glove|U|a single small potsherd lying in a diver's open gloved palm underwater, torch light on it
+N10|16|notebook_two_columns|A|an open notebook on a desk with two plain columns of pencil marks, one long and one short, blurred and unreadable, a pencil lying across it, no people
+N10|16|brush_on_brick|T|an archaeologist's bare hands gently cleaning an ancient brick with a soft brush, patient careful work, close shot
+N10|17|port_sunset_above|D|the great ancient port at sunset seen from above with all its ships and lamps, the river and the sea shining
+N10|18|ridge_torch_star|U|the overgrown horseshoe ridge seen from directly above in dim green water, a lone diver's torch a small star at its centre
+N10|18|calm_sea_one_boat|T|the calm sea at dusk seen from the beach, a single fishing boat far out, nothing showing of what lies beneath, no people
