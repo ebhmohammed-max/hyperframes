@@ -1,0 +1,60 @@
+OLD VALYRIA — STYLE SAMPLER TECHNICAL QA
+=======================================
+FINAL. Master and both delivery encodes verified with full frame count, duration,
+loudness and complete decode passes.
+
+PROJECT
+  Path: projects/valyria_style_sampler
+  Timeline: 720.0 s (12:00), 1920x1080, 30 fps, 21,600 frames
+  Chapters: 8 x 90 s, each 22 s technique introduction (voice-01)
+           + 60 s selected excerpt of the planned episode narration
+           + 8 s summary/transition
+  Narration source: existing voice-01 episode narration, unaltered excerpts
+  Illustrations: 47 existing project JPGs with original provenance retained
+  Soundtrack: assets/audio/soundtrack.m4a, 720.0 s, stereo AAC, 48 kHz
+
+BROWSER / CRAFT CHECKS (HyperFrames 0.8.223)
+  lint     0 errors, 14 warnings (timeline density / duplicate media discovery only)
+  runtime  pass, 0 errors
+  layout   0 errors, 0 warnings (4 informational image-overhang notices inside
+           clipping panels; frames reviewed visually and they are not visible)
+  motion   pass, 0 errors
+  contrast pass, 0 errors
+  craft    pass, 0 errors
+  audio    pass, 0 errors
+  Live preview verified; 10 frames reviewed for leader lines, contrast and text size.
+  Fixes made after review: anatomy leader lines no longer fill as black wedges;
+  political network labels raised to #eee5d8; closing text raised to 30 px;
+  chapter label now sits on a top gradient scrim for legibility over bright skies.
+
+SOUND
+  Premix measured -19.90 LUFS integrated, -4.91 dBTP, LRA 8.50.
+  Two-pass loudness normalization to -16 LUFS, true peak ceiling -1.5 dBTP (dynamic).
+  Chapters are cross-faded, music ducks under narration, SFX restrained.
+
+CAVEATS
+  Technical passes are not subjective listening approval and are not legal, lore or
+  publication clearance. Narration excerpts were not independently fact-checked against
+  published books for this sampler. Images remain unapproved at the shot-ledger level.
+
+FINAL EXPORT RESULTS
+  Master      OLD_VALYRIA_STYLE_SAMPLER_12MIN_v04_master.mp4
+              358,618,656 bytes, 21,600 frames, 720.000 s, 1920x1080, 30 fps
+              H.264 yuv420p + AAC 48 kHz stereo
+              -16.04 LUFS integrated, -1.44 dBTP true peak, LRA 6.20
+              SHA-256 6552a7c50679cd89... (full value in production/EXPORT_QA_master.json)
+              decode pass: clean, zero errors
+
+  Delivery    OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_1080p.mp4
+              77,155,269 bytes (under the 100 MB upload cap, full 12 minutes)
+              21,600 frames, 720.000 s, 1920x1080, 30 fps, H.264 + AAC
+              -16.07 LUFS integrated, -1.40 dBTP true peak, LRA 6.30
+              SHA-256 3189ab7ae82c0273... (full value in production/EXPORT_QA_delivery.json)
+              decode pass: clean, zero errors
+
+  Fallback    OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_720p.mp4
+              1280x720, same soundtrack, 61,760,292 bytes
+
+  The capture master was re-rendered once after review found the small chapter label
+  losing contrast over bright skies. The fix (a top gradient scrim plus lighter label
+  colour) is in the editable project, so a future re-render reproduces it.

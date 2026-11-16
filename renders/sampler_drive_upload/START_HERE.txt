@@ -1,0 +1,54 @@
+OLD VALYRIA — DOCUMENTARY STYLE SAMPLER
+======================================
+
+Watch first:
+  OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_1080p.mp4   (12:00, 1920x1080, 30 fps, 77 MB)
+  OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_720p.mp4    (same film, smaller download)
+
+What it is
+  Eight 90-second treatments of the *planned* Old Valyria episode content, so you can
+  choose a visual language before committing the full film. Same selected narrator
+  (voice-01) introduces each approach; the following 60 seconds reuse exact excerpts of
+  the existing 35-minute narration, with music, designed sound effects and on-screen
+  technique labels.
+
+The eight treatments (sampler clock)
+  00:00  Cinematic history            - scale, sustained shots, restrained title
+  01:30  Archival essay               - reading cards, source and uncertainty labels
+  03:00  Investigative history        - competing dragon-origin claims, open questions
+  04:30  Geographic explainer         - schematic peninsula, route reveal, volcanoes
+  06:00  Natural-history explainer    - simplified anatomy silhouette and detail cutaways
+  07:30  Political history            - conceptual house network, power without one throne
+  09:00  Human-cost documentary       - mines, slower movement, narration-first sound
+  10:30  Reflective essay             - juxtaposition, thematic words, closing question
+
+How to judge it
+  1. Which two or three treatments suit Old Valyria best?
+  2. Where should graphics replace imagery, and where should they stay out of the way?
+  3. Is the movement distracting or too restrained?
+  4. Is the narration / music / sound-effect balance right?
+  5. Should the final episode feel like cinematic history, an evidence-led essay, or a blend?
+
+What this is NOT
+  No authentic interviews, expert testimony, recovered footage, scanned manuscripts or
+  measured data are shown or implied. Reading cards are designed for this sampler, maps
+  are schematic, the anatomy is simplified, and the political network is illustrative,
+  not a complete genealogy. All illustrations are AI-generated; narration is synthetic.
+  This is an unofficial fan documentary demonstration, not a new lore source.
+
+Files in this folder
+  OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_1080p.mp4   finished comparison film
+  OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_720p.mp4    lighter copy for slow connections
+  OLD_VALYRIA_STYLE_SAMPLER_SOURCE_v02.zip     editable HyperFrames project + assets
+  OLD_VALYRIA_STYLE_SAMPLER_SOUNDTRACK_12MIN.mp3  isolated narration/music/SFX mix
+  CONTACT_SHEET_all_treatments.jpg             all eight treatments at a glance
+  START_HERE.txt                               this note
+  STYLE_GUIDE.md                               treatment table and publication cautions
+  AUDIO_CREDITS.txt                            music and sound-effect attribution
+  TECHNICAL_QA.txt                             render, audio and browser-check evidence
+  STILLS_*.jpg                                 one representative frame per treatment
+
+Full 35-minute film: paused, not cancelled. Its completed render segments are preserved
+and it remains the separate long-form deliverable.
+
+Music: Kevin MacLeod (incompetech.com), CC BY 4.0. SFX: Kenney RPG Audio, CC0.

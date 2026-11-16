@@ -1,0 +1,73 @@
+{
+  "duration": 720,
+  "intro_placement": 1,
+  "source_excerpt_placement": 22,
+  "music": [
+    "night-vigil.mp3",
+    "mana-two-part-1.mp3",
+    "ancient-rite.mp3",
+    "ancient-winds-part-1.mp3",
+    "ancient-rite.mp3",
+    "ancient-winds-part-1.mp3",
+    "night-vigil.mp3",
+    "night-vigil.mp3"
+  ],
+  "premix_measurements": {
+    "input_i": "-19.90",
+    "input_tp": "-4.91",
+    "input_lra": "8.50",
+    "input_thresh": "-30.72",
+    "output_i": "-16.14",
+    "output_tp": "-1.50",
+    "output_lra": "6.10",
+    "output_thresh": "-26.78",
+    "normalization_type": "dynamic",
+    "target_offset": "0.14"
+  },
+  "sha256": "7d808d190963a2b6779754c2eea124417fbaf872e055c1de76833b16d9a96cc7",
+  "bytes": 14816530,
+  "listening_approval": "PENDING",
+  "chapter_measurements": {
+    "000-090s": {
+      "integrated_lufs": -16.44,
+      "true_peak_dbtp": -1.52,
+      "lra": 5.8
+    },
+    "090-180s": {
+      "integrated_lufs": -15.96,
+      "true_peak_dbtp": -1.59,
+      "lra": 6.6
+    },
+    "180-270s": {
+      "integrated_lufs": -16.0,
+      "true_peak_dbtp": -1.5,
+      "lra": 6.9
+    },
+    "270-360s": {
+      "integrated_lufs": -15.91,
+      "true_peak_dbtp": -1.55,
+      "lra": 7.6
+    },
+    "360-450s": {
+      "integrated_lufs": -15.93,
+      "true_peak_dbtp": -1.49,
+      "lra": 6.6
+    },
+    "450-540s": {
+      "integrated_lufs": -15.88,
+      "true_peak_dbtp": -1.51,
+      "lra": 7.7
+    },
+    "540-630s": {
+      "integrated_lufs": -16.31,
+      "true_peak_dbtp": -1.52,
+      "lra": 6.5
+    },
+    "630-720s": {
+      "integrated_lufs": -16.04,
+      "true_peak_dbtp": -1.66,
+      "lra": 6.1
+    }
+  },
+  "chapter_consistency_note": "All eight chapters measure within 0.43 LU of -16 and peaks stay under the -1.5 dBTP ceiling."
+}

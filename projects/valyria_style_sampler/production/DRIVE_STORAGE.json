@@ -1,0 +1,71 @@
+{
+  "studio_folder_id": "1LqivhzEJWhvtnYrZ_pCfU-W1lv_kcWFS",
+  "studio_folder_url": "https://drive.google.com/drive/folders/1LqivhzEJWhvtnYrZ_pCfU-W1lv_kcWFS",
+  "sampler_folder_id": "17MM15rQBT-3nm7QJDxnUwtuXSIXN3yu6",
+  "sampler_folder_url": "https://drive.google.com/drive/folders/17MM15rQBT-3nm7QJDxnUwtuXSIXN3yu6",
+  "video_uploaded": true,
+  "uploaded": {
+    "OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_1080p.mp4": {
+      "id": "1orKIHlzyL1RtOWvOftLqQs1caiT5aL0c",
+      "bytes": 77155269
+    },
+    "OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_720p.mp4": {
+      "id": "1RAbaO39CP3ere2-mQfQTOJhZoOx-wumV",
+      "bytes": 61760292
+    },
+    "OLD_VALYRIA_STYLE_SAMPLER_SOURCE_v02.zip": {
+      "id": "1KuZk2qCLVmcb_W8cH2yDvJiOuBLsCYMp",
+      "bytes": 23089556
+    },
+    "OLD_VALYRIA_STYLE_SAMPLER_SOUNDTRACK_12MIN.mp3": {
+      "id": "1XUqvPs-6U9OlqcgqotZGCQsTL6oZZqnC",
+      "bytes": 14401103
+    },
+    "START_HERE.txt": {
+      "id": "1EinwZkEyutwzN8JpvFuGmsXvmIAev7Wb"
+    },
+    "STYLE_GUIDE.md": {
+      "id": "1cfe_TURtWQTA71-bZKr-tmzh65nJLsyM"
+    },
+    "TECHNICAL_QA.txt": {
+      "id": "1yF9blzzgxy7IJUuv2W9Gx-jS-CuqEbJS"
+    },
+    "AUDIO_CREDITS.txt": {
+      "id": "1c39NAEHWnIyKqh2lcAidyKCdkZDr_Kns"
+    },
+    "CONTACT_SHEET_all_treatments.jpg": {
+      "id": "1bcTQqGXr6TbJ5tQERkesVVG0nddKzxwn",
+      "bytes": 309163
+    },
+    "STILLS_01_cinematic.jpg": {
+      "id": "1wUmEbUyozxL4Cp9L2SmTAAGDRSr6TYdP"
+    },
+    "STILLS_02_archival.jpg": {
+      "id": "1L97yaXmbbYbpVUPuOsOBEDc0zqnSokIA"
+    },
+    "STILLS_03_investigative.jpg": {
+      "id": "17Yfp36iF7Hnu7KJPtmt7ZLEltQoBHJ4W"
+    },
+    "STILLS_04_geographic.jpg": {
+      "id": "1ZsBAFUXcigx2KdBpQooGhsq0cHgZVXCQ"
+    },
+    "STILLS_05_anatomy.jpg": {
+      "id": "1u-K1dpT0CtRI9BUl8YLHG0T-IiWOH_Tz"
+    },
+    "STILLS_06_political.jpg": {
+      "id": "1OTJf_ZbVMN_Huo9ma1dMMXfnmBIhKLBj"
+    },
+    "STILLS_07_human-cost.jpg": {
+      "id": "1nHJoglzMREsw3J9URI8L5TC5nU1NbIg5"
+    },
+    "STILLS_08_essay.jpg": {
+      "id": "1zD32ohpSdkN8Tc-RHm7e0el5fPqhW9XO"
+    }
+  },
+  "pending": [],
+  "superseded_trashed": [
+    "OLD_VALYRIA_STYLE_SAMPLER_SOURCE_v01.zip",
+    "OLD_VALYRIA_STYLE_SAMPLER_SOURCE_v02.zip (first upload)",
+    "first-generation stills and contact sheet"
+  ]
+}

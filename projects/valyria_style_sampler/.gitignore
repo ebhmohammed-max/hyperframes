@@ -1,0 +1,9 @@
+# Binary media for this sampler (illustrations, narration, soundtrack) is delivered in
+# OLD_VALYRIA_STYLE_SAMPLER_SOURCE_v02.zip in the shared Drive folder instead of Git.
+assets/
+renders/
+
+# The repo root ignores every `compositions/` directory (video scratch dirs). This
+# project's chapter compositions are source, not scratch, so re-include them.
+!compositions/
+!compositions/*.html

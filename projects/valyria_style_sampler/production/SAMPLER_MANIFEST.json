@@ -1,0 +1,521 @@
+{
+  "duration": 720,
+  "fps": 30,
+  "chapters": [
+    {
+      "number": 1,
+      "start": 0,
+      "duration": 90,
+      "style": "Cinematic history",
+      "title": "From pasture to power",
+      "source_narration_start": 0,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "Old Valyria. One story, eight documentary languages. First, cinematic history: a question, a landscape, and an unfolding transformation. These are illustrated reconstructions, not recovered footage. Watch the images establish scale before the argument begins.",
+      "intro_asset": "assets/audio/intro-01.mp3",
+      "images": [
+        1,
+        8,
+        23,
+        30,
+        151,
+        226
+      ],
+      "techniques": "Wide establishing images \u00b7 restrained camera \u00b7 question-led opening",
+      "caveat": "Original illustrated reconstruction. Not recovered footage.",
+      "source_narration_blocks": [
+        "Long before the Iron Throne was forged from surrendered blades, before Aegon Targaryen turned his gaze toward Westeros, another people learned to command the sky. Their home was a smoking peninsula in southern Essos. Their descendants would break empires and raise wonders from black stone. Yet the first Valyrians were shepherds. How did they become dragonlords? And who paid for the world they built?",
+        "The answer begins far from a throne. Beneath fourteen volcanic mountains, flocks moved through pasture and families worked the wool that sustained them. No surviving chronicle gives us the first shepherd's name. No witness describes the first successful flight. But between those two images, a flock below and a rider above, lies one of history's greatest transformations. First came discovery. Then came the struggle to possess it."
+      ]
+    },
+    {
+      "number": 2,
+      "start": 90,
+      "duration": 90,
+      "style": "Archival essay",
+      "title": "Reading the uncertain past",
+      "source_narration_start": 60,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "The archival essay makes uncertainty visible. Our narration now becomes a reading guide, framed by chronology and source notes. These are designed reading cards, not scans of ancient documents. A beautiful page must never be mistaken for new evidence.",
+      "intro_asset": "assets/audio/intro-02.mp3",
+      "images": [
+        31,
+        38,
+        46,
+        53,
+        60,
+        76
+      ],
+      "techniques": "Reading cards \u00b7 chronology \u00b7 quotation vs interpretation",
+      "caveat": "Designed reading cards, not scans or facsimiles of published pages.",
+      "source_narration_blocks": [
+        "To follow that transformation, we must travel thousands of years before Aegon's Conquest, into an age whose dates remain uncertain. Later histories place Valyria's rise roughly five thousand years before the Conquest, but distance has blurred the chronology. Beyond those fragile records stretches an older darkness: the Long Night. Across Essos, peoples remembered a catastrophe so vast that its ending became the foundation of legend.",
+        "Along the Rhoyne, the darkness survived in stories of frozen water and a world waiting for the dawn. One tradition tells of a hero who persuaded the quarreling children of Mother Rhoyne to sing together and bring back daylight. The Crab King and the Old Man of the River belong to that telling. Here, salvation was remembered not simply as conquest, but as voices joining against the night."
+      ]
+    },
+    {
+      "number": 3,
+      "start": 180,
+      "duration": 90,
+      "style": "Investigative history",
+      "title": "Where did dragons begin?",
+      "source_narration_start": 780,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "Investigative history separates a tradition from a conclusion. Where did dragons come from? This treatment places competing accounts beside one another, leaving unresolved questions open. The graphics organize the claims; they do not prove them.",
+      "intro_asset": "assets/audio/intro-03.mp3",
+      "images": [
+        391,
+        398,
+        405,
+        406,
+        413,
+        420
+      ],
+      "techniques": "Competing claims \u00b7 evidence labels \u00b7 unresolved questions",
+      "caveat": "Traditions are presented as traditions, not verified origins.",
+      "source_narration_blocks": [
+        "Where had the dragons themselves come from? Valyrian tradition linked them to the Fourteen Flames, making the mountains more than a refuge. They became a birthplace, and the creatures became an inheritance. It is a powerful story for a ruling civilization to tell about itself. If its greatest weapon belongs uniquely to its homeland, then dominion can look like destiny. Other stories, however, refuse to leave that claim undisturbed.",
+        "In Qarth, a tale says that two moons once hung above the world. One wandered too close to the sun, cracked like an egg, and released dragons into the sky. They drank the sun's fire, and became creatures of flame. This is a fable, not an astronomical record. Its value lies in the way people imagined dragons: beings so extraordinary that an ordinary earthly origin seemed too small for them."
+      ]
+    },
+    {
+      "number": 4,
+      "start": 270,
+      "duration": 90,
+      "style": "Geographic explainer",
+      "title": "The peninsula beneath fire",
+      "source_narration_start": 300,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "A geographic explainer connects pasture, coast and volcanic mountains. This is a schematic peninsula, not an authoritative map. Watch the labels and routes reveal relationships without pretending to establish exact locations or distances.",
+      "intro_asset": "assets/audio/intro-04.mp3",
+      "images": [
+        151,
+        158,
+        165,
+        166,
+        173,
+        180
+      ],
+      "techniques": "Schematic map \u00b7 progressive route \u00b7 geographic callouts",
+      "caveat": "Not an authoritative map. No exact distance or peak count implied.",
+      "source_narration_blocks": [
+        "Before the Doom shattered it, the Valyrian peninsula reached into the southern seas as a living landscape, not the ruin later sailors feared. Coast, pasture, and volcanic heights belonged to one country. The Lands of the Long Summer lay nearby; the great waters linked the peninsula to a wider world. The mountains did not make Valyria separate from history forever. They gave its people a dangerous starting place within it.",
+        "The Fourteen Flames gave that landscape its defining presence. Imagine smoke above the valleys, steam drifting across dark slopes, and the glow of volcanic heat against a deepening sky. The exact arrangement in our images is a reconstruction, not a surviving view. What matters is the relationship: ordinary lives unfolding beneath extraordinary forces. The people below could not command those mountains. They had to learn how to live beside them."
+      ]
+    },
+    {
+      "number": 5,
+      "start": 360,
+      "duration": 90,
+      "style": "Natural-history explainer",
+      "title": "An animal, not an emblem",
+      "source_narration_start": 660,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "A natural-history treatment looks at the dragon as an animal rather than a banner. Labels isolate wings, hind legs and the body. The drawing is a simplified fictional anatomy study, not a scientific model or proof of every illustrated detail.",
+      "intro_asset": "assets/audio/intro-05.mp3",
+      "images": [
+        331,
+        335,
+        338,
+        345,
+        346,
+        353
+      ],
+      "techniques": "Anatomy labels \u00b7 conceptual diagram \u00b7 image-detail cutaways",
+      "caveat": "Simplified fictional anatomy. Illustrated details are not scientific evidence.",
+      "source_narration_blocks": [
+        "Look at the animal rather than the emblem. Two hind legs support it; its other limbs are wings. Scales, claws, jaws, and the space needed to unfold those wings make its presence physical, not merely mythical. The size of our illustrated elder is not a measurement preserved from the first discovery. But scale conveys the real imbalance. The human at the cavern mouth is the vulnerable creature in this meeting.",
+        "Dragonbone is described as black and rich in iron; dragonfire is the terror that gives the animal its greatest military consequence. Yet no description makes every dragon the same. Size, age, and experience matter. We should not turn a spectacular image into a universal measure of heat or strength. What the shepherds faced was extraordinary enough without imaginary numbers: a predator they could neither fence out nor handle like livestock."
+      ]
+    },
+    {
+      "number": 6,
+      "start": 450,
+      "duration": 90,
+      "style": "Political history",
+      "title": "Power without one throne",
+      "source_narration_start": 1350,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "Political history asks how power is distributed. The Freehold becomes a network of competing dragonlord houses rather than a single throne. These nodes represent a concept, not a complete family tree, census or measured ranking of influence.",
+      "intro_asset": "assets/audio/intro-06.mp3",
+      "images": [
+        676,
+        683,
+        690,
+        691,
+        698,
+        705
+      ],
+      "techniques": "Conceptual network \u00b7 hierarchy \u00b7 institutional comparison",
+      "caveat": "Nodes are illustrative, not a complete genealogy or influence ranking.",
+      "source_narration_blocks": [
+        "Yet this hierarchy did not produce a single Valyrian king. The Freehold was not a monarchy like so many neighboring states. Its powerful families competed within a different political order. That creates a useful question: what would it take for one dragonlord to make all the others kneel? A crown is an object. Authority exists only when rivals accept it, or when someone can force them to accept it.",
+        "Dragons make that calculation terrifying. A would-be ruler confronting other dragonriding houses cannot rely on the same imbalance that separates a mounted lord from an unarmed laborer. Rival power becomes a restraint as well as a temptation. This is an interpretation of the political tension, not a surviving debate from Valyria's founding. It helps explain why possessing extraordinary strength need not make any one family strong enough to rule all the rest."
+      ]
+    },
+    {
+      "number": 7,
+      "start": 540,
+      "duration": 90,
+      "style": "Human-cost documentary",
+      "title": "The price beneath the stone",
+      "source_narration_start": 1740,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "The human-cost documentary slows the camera and refuses spectacle. The mines move from background detail to the center of the story. These people are unnamed reconstructions. Sound is designed for the film, not presented as an authentic recording.",
+      "intro_asset": "assets/audio/intro-07.mp3",
+      "images": [
+        871,
+        878,
+        885,
+        886,
+        893,
+        900
+      ],
+      "techniques": "Longer holds \u00b7 quiet transitions \u00b7 narration-first sound",
+      "caveat": "Unnamed people are AI reconstructions. Sound effects are designed.",
+      "source_narration_blocks": [
+        "Captivity meant being made to work for a world that denied your freedom. In the mines, that work took place within the heat and danger of the volcanic earth. Chains, baskets, tools, and narrow passages bring the system into human scale. These images are reconstructions, not portraits of identified captives. The people they represent were not merely background to Valyria's achievement. Their suffering belongs at the center of our judgment of it.",
+        "The accounts of the depths describe heat, lethal conditions, and firewyrms. No invented final speech is needed to make those dangers matter. Nor should every tunnel become an excuse for a spectacular death scene. Think instead of the endurance demanded by a system that needed more ore, more labor, and more people to replace those it consumed. The wonder above ground did not make the darkness below it less real."
+      ]
+    },
+    {
+      "number": 8,
+      "start": 630,
+      "duration": 90,
+      "style": "Reflective essay",
+      "title": "Who paid for their power?",
+      "source_narration_start": 2040,
+      "source_narration_duration": 60,
+      "source_narration_placement": 22,
+      "intro_text": "The reflective essay brings the argument together: pasture, power, stone and servitude. Typography and juxtaposition can guide attention without inventing testimony. Compare this ending with the cinematic opening, then choose the combination that best serves your film.",
+      "intro_asset": "assets/audio/intro-08.mp3",
+      "images": [
+        1021,
+        1028,
+        1035,
+        1036,
+        1043,
+        1050
+      ],
+      "techniques": "Juxtaposition \u00b7 recurring motif \u00b7 editorial typography",
+      "caveat": "An illustrated fan-documentary demonstration, not a new lore source.",
+      "source_narration_blocks": [
+        "Pasture became an inheritance the dragonlords could look down upon. Blood became a claim to rule. Stone became a monument to powers others could not readily imitate. Beneath those monuments, enslaved people labored in darkness. That is the transformation to remember: not a simple ascent from weakness into glory, but the making of a civilization whose beauty and brutality grew together beneath the shadow of the same wings.",
+        "Now the harpy and the dragon stand at the edge of a struggle the histories remember as five wars. Their outcome belongs to the next chapter. This beginning has its own answer. Valyria did not merely learn to fly. Its rulers learned to make other people live beneath them. The shepherds had become dragonlords. Next, the legions of Old Ghis would discover what that change meant for the world."
+      ]
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "source": "assets/images/0001.jpg",
+      "sha256": "3fcd2972e95b55d598de47b5ce6a1f5a6e29dcb80c6a6a3b6afe9abbcb8a0379",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 8,
+      "source": "assets/images/0008.jpg",
+      "sha256": "83f368aed2bc7b8463719d4c1d62c39e2d41e0d453bbd8122791cdd8f844a2c4",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 23,
+      "source": "assets/images/0023.jpg",
+      "sha256": "304f5535ee611af19a75e13b06005ed35da314ece8097b072c493ac59d0526c0",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 30,
+      "source": "assets/images/0030.jpg",
+      "sha256": "71609165821c327272a564d7a98ba8f840d5428b406f81c32e95df67229c6892",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 31,
+      "source": "assets/images/0031.jpg",
+      "sha256": "7c4e2b916000621b0c0ca07cbfc7f3bfb171bf4892e4bc401e320a3f9ae0204e",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 38,
+      "source": "assets/images/0038.jpg",
+      "sha256": "b99d38244f636baf0096fb1cc5cf56d2d176dedf5b0f30aab0b9e4751c28f842",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 46,
+      "source": "assets/images/0046.jpg",
+      "sha256": "7cb3229d74c2a859f02f674e2f5c58c4977062725427136a998a0b7fa4ff0a35",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 53,
+      "source": "assets/images/0053.jpg",
+      "sha256": "1aa01ffe947594d2f12c6d0fd7d12e010a8be7a7a98f816b42fd87190e22e75b",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 60,
+      "source": "assets/images/0060.jpg",
+      "sha256": "ba51abe31d038fcca540013b3935f25a718947ad2660585580e6ad5f3eb816a5",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 76,
+      "source": "assets/images/0076.jpg",
+      "sha256": "32e0f66b355f11109c10b0388cb927b6a4951534b673e001c4bb3b1bbe6a409b",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 151,
+      "source": "assets/images/0151.jpg",
+      "sha256": "dde147fb8a89495cd38e8e59cd8cc7a936268c0dd78a6f057da9d96f6e462ba6",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 158,
+      "source": "assets/images/0158.jpg",
+      "sha256": "c9e721792c047c245ab09d4817873cc2a28970be926c22a4e9bc03ac8823c66c",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 165,
+      "source": "assets/images/0165.jpg",
+      "sha256": "7816038c011d278deb0397c88de5a25467e3b9db11c96b752da8fad55c9efb95",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 166,
+      "source": "assets/images/0166.jpg",
+      "sha256": "4627f7fe7d5715a9a86842422fa4fd670e0359092175697e898b6151ec402b7f",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 173,
+      "source": "assets/images/0173.jpg",
+      "sha256": "55551964986658603e236d32b49bf4a994bc35573d65cb859cef1802f6e955ba",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 180,
+      "source": "assets/images/0180.jpg",
+      "sha256": "8edab2e03c3414636b96aa7652c8203434ea94f02ff4b55b1f2756241cd19a64",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 226,
+      "source": "assets/images/0226.jpg",
+      "sha256": "c283a73cb68ced9c75bb29c33379d8bac0352a6ab3cfce7718f4f532404da9e3",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 331,
+      "source": "assets/images/0331.jpg",
+      "sha256": "d2a0b30cfeeccf3f1156c1910bdd9ba499461c93f215361fdfdb167f50ea1dbf",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 335,
+      "source": "assets/images/0335.jpg",
+      "sha256": "92893540acb77972e3601d435ec2ef5cea6a0b6e0f7750c7d0431b894c48d8ac",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 338,
+      "source": "assets/images/0338.jpg",
+      "sha256": "41fcf757d8e135ccf897a422bae4763d4e81a8b001d0d721c9173ae28654ce32",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 345,
+      "source": "assets/images/0345.jpg",
+      "sha256": "36443317a3341f72800a611a6f858ba78508437bf76b7abd14ed9ceb9a4390e0",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 346,
+      "source": "assets/images/0346.jpg",
+      "sha256": "7bb0988cca391e46a54549df654c6fdf97199417a1af52dc6eaeed09e559b1bd",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 353,
+      "source": "assets/images/0353.jpg",
+      "sha256": "434ec64f4b85dcb3bbb871099140341887b68225699860c0f8b3ebb441dc620a",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 391,
+      "source": "assets/images/0391.jpg",
+      "sha256": "004fcb8f40c910f0a54b2666e45bbb2acdee05b717fde532683ab758a2ece6bc",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 398,
+      "source": "assets/images/0398.jpg",
+      "sha256": "47cf15ed221529b842b6b90ac8802246d7dc62915c8cc9ad83a27c98f5bb19fb",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 405,
+      "source": "assets/images/0405.jpg",
+      "sha256": "03346cb7d1cc6348afc05c51795d6c104ee35e64c19d1396796728ad17f68be2",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 406,
+      "source": "assets/images/0406.jpg",
+      "sha256": "0f2b7631174601f5b08957a4af2070550ac6cf3919d77e628135f32b431dd02c",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 413,
+      "source": "assets/images/0413.jpg",
+      "sha256": "6b50b0c9bf1284e5bee3ec55c56ee073bb94006a30c0a08d20a33528e3939874",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 420,
+      "source": "assets/images/0420.jpg",
+      "sha256": "3569f024e5162226ecf2c7129dc08393cf1b040593ea7931cd83267c4a612eb8",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 676,
+      "source": "assets/images/0676.jpg",
+      "sha256": "efd09a43862d4d4f10411209b5fb95e12aeab7021e0d7d7d1441fb85f0496169",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 683,
+      "source": "assets/images/0683.jpg",
+      "sha256": "3522fe0f77163f2ebc7e44bb50d2a91e21f54e8c0ec7cd5da3de2a69e96e7597",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 690,
+      "source": "assets/images/0690.jpg",
+      "sha256": "b525923dd379ded8ab35bbc2d088b9a7167ab0a0a6d347a135e5de9a50e3082f",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 691,
+      "source": "assets/images/0691.jpg",
+      "sha256": "90ac415f58d875502f1329daf56f8d50b9699fd03c70d68530a64ebdc876cda3",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 698,
+      "source": "assets/images/0698.jpg",
+      "sha256": "44a11840e1223db3c33e3cee69160aadc8e37b6edfab51673b2ea4f83b0bc708",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 705,
+      "source": "assets/images/0705.jpg",
+      "sha256": "5260f5cdbc497516b6ffe75707c56bce26cd2cb39d1f1a08cc166f8d33e20dd5",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 871,
+      "source": "assets/images/0871.jpg",
+      "sha256": "e1cec240a3dcc06d10184f18b13ebf0b4277ae39abfb502f1d7f41df8b69bb80",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 878,
+      "source": "assets/images/0878.jpg",
+      "sha256": "c6c502abc216c926ce139cbe83a334d057f61d4732f485d06aaa8f4ef3ea5e5a",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 885,
+      "source": "assets/images/0885.jpg",
+      "sha256": "e05058f8e0cf2a7cbe1395403f7c9968e09c1d3b935a85d8899cc91a46afad18",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 886,
+      "source": "assets/images/0886.jpg",
+      "sha256": "cd381faf549f9958a15b4ea074788bedadd48ea25be0f6c4c4d60665f360f8aa",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 893,
+      "source": "assets/images/0893.jpg",
+      "sha256": "cce1e29cfca8192315b07879ea1c186c7f19f5458a22964b801b5905026b4882",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 900,
+      "source": "assets/images/0900.jpg",
+      "sha256": "a06fe8814bf514b7b183ade0e1f0233ae101f8f76bb6e9313ccb85bf9f74aecd",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 1021,
+      "source": "assets/images/1021.jpg",
+      "sha256": "1f8f0dd5f39ed6a74d2b4139990d013daa622cca5395760479b4d32d29c4714c",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 1028,
+      "source": "assets/images/1028.jpg",
+      "sha256": "7174a98c4117b3faecc6d3c85725414c7ac27620365a6d57c915a54198d0a66e",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 1035,
+      "source": "assets/images/1035.jpg",
+      "sha256": "31e32927225c9bc3744d6fa60ae9436d3eb5f98b2d44a88adb6f0e8485bff714",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 1036,
+      "source": "assets/images/1036.jpg",
+      "sha256": "58566849c7046262be050356e070495ee8280b0269cb4cba8cdfcf569614a6db",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 1043,
+      "source": "assets/images/1043.jpg",
+      "sha256": "a2e6384763084e3bfc0ba7de7c7cdda15a382d0bc88beedaa02aa8609fc0c2e6",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    },
+    {
+      "image": 1050,
+      "source": "assets/images/1050.jpg",
+      "sha256": "ce9800ac75a26591e299f6c553d20a9e7b989806ca90c189d3b92bd8c76a1e62",
+      "prior_status": "UNAPPROVED_CANDIDATE_NOT_PUBLICATION_CLEARANCE"
+    }
+  ],
+  "voice": "voice-01",
+  "status": "DELIVERED",
+  "source_film_unchanged": true,
+  "scope": "Representative styles, not every possible documentary mode. No real interviews, historical documents, external lore verification or scientific simulation claimed.",
+  "master": {
+    "path": "renders/OLD_VALYRIA_STYLE_SAMPLER_12MIN_v04_master.mp4",
+    "bytes": 358618656,
+    "frames": 21600,
+    "duration": 720.0,
+    "sha256": "6552a7c50679cd898a2242508f234a5256e80af1687677a84ac783a4ca649f3a",
+    "qa": "production/EXPORT_QA_master.json"
+  },
+  "label_fix": "Master carries a top scrim behind the chapter label after review; delivery encodes come from a re-render of the same project with the CSS scrim baked in.",
+  "delivery": {
+    "path": "renders/OLD_VALYRIA_STYLE_SAMPLER_12MIN_FINAL_1080p.mp4",
+    "bytes": 77155269,
+    "frames": 21600,
+    "duration": 720.0,
+    "sha256": "3189ab7ae82c02739d3b686e46a4585a4673312a392a5b5f0a96ead8c14f1e19",
+    "drive_file_id": "1orKIHlzyL1RtOWvOftLqQs1caiT5aL0c"
+  },
+  "drive_folder": "https://drive.google.com/drive/folders/17MM15rQBT-3nm7QJDxnUwtuXSIXN3yu6",
+  "listening_approval": "PENDING"
+}

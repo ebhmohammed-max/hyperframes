@@ -1,0 +1,41 @@
+{
+  "video": "renders/OLD_VALYRIA_STYLE_SAMPLER_12MIN_v04_master.mp4",
+  "bytes": 358618656,
+  "sha256": "6552a7c50679cd898a2242508f234a5256e80af1687677a84ac783a4ca649f3a",
+  "duration_seconds": 720.0,
+  "frames": 21600,
+  "expected_frames": 21600,
+  "fps": "30/1",
+  "resolution": "1920x1080",
+  "video_codec": "h264",
+  "pix_fmt": "yuv420p",
+  "audio_codec": "aac",
+  "audio_rate": "48000",
+  "audio_channels": 2,
+  "decode_errors": [],
+  "loudness": {
+    "input_i": "-16.04",
+    "input_tp": "-1.44",
+    "input_lra": "6.20",
+    "input_thresh": "-26.69"
+  },
+  "chapter_stills": [
+    ".cache/valyria-sampler-final-stills/chapter01-at-2s.png",
+    ".cache/valyria-sampler-final-stills/chapter02-at-92s.png",
+    ".cache/valyria-sampler-final-stills/chapter03-at-182s.png",
+    ".cache/valyria-sampler-final-stills/chapter04-at-272s.png",
+    ".cache/valyria-sampler-final-stills/chapter05-at-362s.png",
+    ".cache/valyria-sampler-final-stills/chapter06-at-452s.png",
+    ".cache/valyria-sampler-final-stills/chapter07-at-542s.png",
+    ".cache/valyria-sampler-final-stills/chapter08-at-632s.png"
+  ],
+  "checks": {
+    "frame_count": true,
+    "duration": true,
+    "resolution": true,
+    "has_audio": true,
+    "decode_clean": true
+  },
+  "status": "PASS",
+  "subjective_review": "PENDING \u2014 technical checks are not viewing/listening approval"
+}
