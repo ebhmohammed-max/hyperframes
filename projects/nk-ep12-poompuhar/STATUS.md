@@ -28,3 +28,26 @@ Same pipeline as EP11 (`projects/nk-ep11-karikalan/STATUS.md` has the lessons an
 - Scratch voice, no music, no native read-through (same as EP11).
 - The script names Graham Hancock and Prof. SM. Ramasamy and says their age claims are unproven. Sources are in the fact sheet, sections 6 and 7.
 - Fact sheet items marked **check**.
+
+## Drive (16 Nov)
+
+Folder `EP12_Poompuhar` `1fC15q9VvjorFPg5i3gPGbTCjqrg6ncm9` inside NK Documentaries.
+
+| File | Id |
+|---|---|
+| EP12_SCRIPT_TA_v1.md | `1jsropJwNIHDc3t4bkrdBpX_L63Hr_vAF` |
+| EP12_FACT_SHEET.md | `1NwnmjKRJbd7MDb-MLCg0moXN0XA5smX3` |
+| EP12_SHOTLIST_322_images.md | `1g6tGvdVnIY2b4AO_8uZVfv8BP8Pxx1FA` |
+| EP12_narration_scratch_voice02.zip | `1LQN3CixbqcThLrHdwTjcawZP4wt8zPpN` |
+| images/ (folder) | `17TRLcMeP345nbeyuRKVzXeyzMS_C0JRL` |
+| images/EP12_cast.zip | `1aJAQOjfe_NFzCUEzoRaaCaM8oXV4O8hM` |
+| images/EP12_cast_sheet.jpg | `1wv8z84qc69WO-P_hfd4k2rnuv6wBfhPf` |
+
+## Cast (16 Nov)
+
+Four portraits made and looked at on one sheet: karikala, poet, king, peelivalai. All kept.
+Note: karikala came out with a short beard as well as the moustache, and holding a sword; his face is small in the frame (full-length shot). Kept as the reference; redo if the face drifts in pictures 037–038.
+
+## Next
+
+Pictures 001–322, batches of 10 (`tools/next.py`, `tools/pack.py`). Nothing generated yet.
