@@ -51,3 +51,12 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 
 ## 23 Nov
 - Done: 081-090 (B09), on Drive. 088 changed to Aditya and Vira Pandya on clashing elephants (v2). Redo pass unchanged: 048, 061, 067, 074. Next: 091 onward.
+
+## 24 Nov
+- out/ and /tmp vanished between messages. Pictures now live in pics/raw and pics/cast (saved between sessions, not in git); out/raw and out/cast are symlinks. `bash tools/restore.sh` relinks and rebuilds out/img and the sheets (and unpacks any EP11 zips found in <repo>/google_drive/).
+- Done: 091-100 (B10), on Drive. 095 (modern tunics) added to shots/redo.txt. Redo pass: 048, 061, 067, 074, 095. v2 overrides written for chapter 3 (N04) up to 124.
+- Lesson: "hands only" shots drift to modern clothes; always say bare arms, bare chest, armlets, Indian straight sword with a disc pommel.
+- Next: 101 onward.
+
+### Drive ids, images folder 1DTqKaOUnmmb4NGgEzj--byUxq1GCFLaD
+cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- | B02 1wmpQx4LcdK0iMyntNbR6lG_5MqgvzbAP | B03 1U4OkSy14ufWEQ-0vZEFLiNtWrtXsaT2m | B04 1UYjc_EtIo81uImQRvOBhl6ZBQMM2QFFl | B05 1TcHvLyPLVh0H7sB3T8wYounPFx9P5Bmc | B06 1Ofrd5WM5eNktSF-fp8HM4Wvj6mRX-TlW | B07 1LnW6rAtkH4G9IvhVRMEZBfQe9eweYd5U | B08 1al_My7dfHgHw2LIE3d6_6aL3NPP-iSFi | B09 1ajO4n26N42OMfoYkN7YDp39k9jBU_cfa

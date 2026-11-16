@@ -3,3 +3,4 @@
 067|generation failed and the per-message limit was reached, picture missing|magnifying glass over an inked estampage, hand only
 061|the carved letters are the modern Tamil consonant chart, clearly readable|letters shallow, eroded and half cut, seen at a steep raking angle and partly hidden by the chisel and stone dust, too worn to make out; never a macro of clean letters
 074|the rim of the seal carries Latin-looking letters|no lettering anywhere on the seal, a plain beaded rim, emblem only
+095|the men wear modern dark long-sleeved tunics and the swords have European cross-guards|bare arms and bare chests with armlets, Indian straight swords with disc pommels, no shirts

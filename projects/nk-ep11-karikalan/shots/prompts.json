@@ -1034,7 +1034,8 @@
   "name": "harvest_near_temple",
   "look": "P",
   "file": "EP11_098_N04q00_harvest_near_temple.jpg",
-  "prompt": "Paddy fields being harvested near a small granite temple, farmers seen from behind. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Farmers harvesting golden paddy near a small granite temple, men and women with sickles and bundles of sheaves, faces visible, a peaceful prosperous countryside. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 99,
@@ -1064,7 +1065,8 @@
   "name": "messenger_night_rain",
   "look": "L",
   "file": "EP11_101_N04q02_messenger_night_rain.jpg",
-  "prompt": "A messenger on horseback galloping through rain at night carrying a torch. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A royal messenger on a galloping horse in heavy rain at night, holding a burning torch, his face visible, soaked and desperate. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 102,
@@ -1074,7 +1076,8 @@
   "name": "palace_alarm_lamps",
   "look": "L",
   "file": "EP11_102_N04q02_palace_alarm_lamps.jpg",
-  "prompt": "A palace at night, lamps being lit in a hurry, guards running along a corridor, seen from behind. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A palace at night in alarm, servants hurriedly lighting lamps, guards with spears running along a pillared corridor, frightened faces visible. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 103,
@@ -1134,7 +1137,8 @@
   "name": "poet_and_scribe",
   "look": "L",
   "file": "EP11_108_N04q05_poet_and_scribe.jpg",
-  "prompt": "A court poet seen from behind composing while a scribe waits with a stylus. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A court poet with a grey beard, face visible, composing verses aloud while a young scribe waits with a stylus over a palm leaf, lamps. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 109,
@@ -1154,7 +1158,8 @@
   "name": "prince_on_elephant_battle",
   "look": "W",
   "file": "EP11_110_N04q06_prince_on_elephant_battle.jpg",
-  "prompt": "A prince's silhouette on a war elephant in the thick of battle, arrows in the air, seen from far behind. Battlefield haze at dusk, tenth-century South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A Chola prince of an earlier generation, a broad warrior with a thick moustache and a gold crown, face visible, fighting from the howdah of a war elephant in the thick of battle, arrows in the air. Battlefield haze at dusk, tenth-century South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 111,
@@ -1254,7 +1259,8 @@
   "name": "emperor_court_pillar",
   "look": "L",
   "file": "EP11_120_N04q12_emperor_court_pillar.jpg",
-  "prompt": "A grand royal court seen from behind a pillar, an emperor's silhouette on the throne, rows of courtiers. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The grand court of a Chola emperor fifty years later, a powerful emperor in his fifties with a greying beard and a tall jewelled crown on a high lion throne, face visible, rows of ministers, generals and courtiers below. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 121,
@@ -1294,7 +1300,12 @@
   "name": "pyre_smoke_river",
   "look": "D",
   "file": "EP11_124_N04q14_pyre_smoke_river.jpg",
-  "prompt": "Smoke rising into an evening sky above a river bank, royal parasols lowered, mourners far away and seen from behind. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A royal funeral at a river bank at dusk, smoke rising into the evening sky, in the foreground the old king Sundara Chola with bowed head, his daughter Kundavai and his young son Arulmozhi beside him, the same people as in the reference images, faces visible in grief, a silent crowd of mourners and lowered parasols behind. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "sundara",
+   "kundavai",
+   "arulmozhi"
+  ]
  },
  {
   "n": 125,
