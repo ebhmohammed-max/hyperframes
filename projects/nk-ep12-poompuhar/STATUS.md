@@ -65,6 +65,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 |---|---|---|---|
 | B01 | 001–010 | `1teEj2jR9A5Z-lW4kMXbl7aE2v7L1O2fi` | `1yBgJc_o4EJbGOyFVL_bSAvT7j4JJ9cxI` |
 | B02 | 011–020 | `10MfXidi9aX05YEEWfetCXIsCkKIbwWzy` | `1wLVofTvagFZMzYFJwF_tpKg8qyCP-_9I` |
+| B03 | 021–030 | `1uhbeJKvbOKlxG9-y9kVTzlQ-g1xhdZRY` | `1sj-z6cJK3aGIlbUVe9Ev6u2vcqfEqibz` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -87,4 +88,12 @@ The workspace came back as a fresh clone at the base commit: the branch had to b
 3. `bash tools/setup.sh`; unzip the narration into `google_drive/ep12_audio` and copy to `narration/`; `bash tools/restore.sh`.
 So Drive is the only safe copy of pictures and audio: upload every batch before the turn ends. EP11 pictures were not restored (not needed; they are on Drive).
 
-Next: B03 = 021–030.
+## B03 (021–030)
+
+Eight kept, two to redo. Looked at on the sheet; 024, 026, 027, 028 at half size.
+- **026 redo:** shows a whole two-handled amphora on a coral reef. The find was one fragment on a sandy bed.
+- **028 redo:** the jars are ordinary necked pots, not torpedo jars.
+- 027: a crewman's face showed at the right; the film copy is cropped to the fragment and gloved hands. Kept with a doubt: the fragment has a flared rim, and a real torpedo jar has a small plain mouth.
+- The flawed 026 and 028 are in the B03 zip on Drive for now. New wording for both is in `shots/redo.txt`; they are remade in a redo pass and the zip replaced then.
+
+Next: B04 = 031–040 (037 uses `poet` and `karikala`, 038 uses `karikala`).
