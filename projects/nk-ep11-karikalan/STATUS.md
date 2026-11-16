@@ -139,3 +139,7 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - Redo list (11): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274, 297. Plan: 301-310, 311-320, then 321-327 plus three redos in the same message, then the other eight redos.
 - B29 zip id 1zDZ53ZKoZu4Y4O3IHFM5ZYtFkVYGJlJd.
 - Kept with a doubt: 295 the three inscribed slabs stand like headstones.
+
+## 15 Dec
+- Done: 301-310 (B31), on Drive. No new redo. Redo list (11): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274, 297. B30 zip id 1kaPbjZQkd3Ly6vK0seOF4i4NjFVDx6TA. Next: 311-320 (316 arulmozhi ref), then 321-327 (321 aditya+arulmozhi) plus three redos.
+- Note: sheet.py trimmed 202 px of dark stone off the bottom of 302 as if it were a black bar; the film copy still looks right.
