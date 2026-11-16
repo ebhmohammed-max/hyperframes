@@ -28,17 +28,27 @@ for raw in open("shots/shots.txt", encoding="utf8"):
     rows.append({"n": n, "clip": clip, "q": q, "k": per[(clip, q)] - 1, "name": name, "look": look,
                  "file": f"EP11_{n:03d}_{clip}q{q:02d}_{name}.jpg",
                  "prompt": f"{subj[0].upper()+subj[1:]}. {LOOK[look][1].split(', bare-chested')[0] if 'no people' in subj else LOOK[look][1]}. {TAIL}"})
+# overrides (faces allowed from 17 Nov): shots/v2.txt
+import os
+if os.path.exists("shots/v2.txt"):
+    for raw in open("shots/v2.txt", encoding="utf8"):
+        raw = raw.strip()
+        if not raw or raw.startswith("#"): continue
+        n, refs, subj = raw.split("|", 2)
+        r_ = rows[int(n) - 1]
+        r_["refs"] = [x for x in refs.split(",") if x]
+        r_["prompt"] = f"{subj[0].upper()+subj[1:]}. {LOOK[r_['look']][1].split(', bare-chested')[0]}. " + TAIL.replace(" No faces shown.", "")
 bad = 0
 for clip, cs in counts.items():
     for q, c in enumerate(cs):
         if per[(clip, q)] != c: bad += 1; print("count", clip, q, "want", c, "have", per[(clip, q)])
 json.dump(rows, open("shots/prompts.json", "w"), indent=1, ensure_ascii=False)
 md = [f"# EP11 Aditya Karikalan: shot list\n\n{len(rows)} images. File names carry the running number, narration clip and line.\n",
-      "Rules used in every prompt: reconstruction art, not photographs; people are shown from behind, as silhouettes or as hands only; no bodies or injuries; no readable writing (all text is set in the edit).\n",
+      "Rules: reconstruction art, not photographs. Kings, princes, the princess and the three brothers have invented faces, kept consistent with the reference pictures in shots/CAST.md (marked `refs`). Scholars and other modern people are shown from behind or as hands only. No bodies or injuries; no readable writing (all text is set in the edit).\n",
       "Looks: " + "; ".join(f"**{k}** {v[0]}" for k, v in LOOK.items()) + ".\n"]
 cur = None
 for r_ in rows:
     if r_["clip"] != cur: cur = r_["clip"]; md.append(f"\n## {cur}\n")
-    md.append(f"**{r_['n']:03d}** `{r_['file']}` [{r_['look']}] ({r_['clip']} q{r_['q']:02d}: “{cap[(r_['clip'], r_['q'])]}”)  \n{r_['prompt']}\n")
+    md.append(f"**{r_['n']:03d}** `{r_['file']}` [{r_['look']}]{' refs: ' + ', '.join(r_['refs']) if r_.get('refs') else ''} ({r_['clip']} q{r_['q']:02d}: “{cap[(r_['clip'], r_['q'])]}”)  \n{r_['prompt']}\n")
 open("SHOTLIST.md", "w", encoding="utf8").write("\n".join(md))
 print(len(rows), "images;", bad, "count mismatches;", dict(collections.Counter(r_["clip"] for r_ in rows)))

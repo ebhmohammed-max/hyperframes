@@ -1,0 +1,9 @@
+# Overrides to shots.txt after the user allowed faces: number|refs (comma separated cast keys)|new subject
+003|aditya|the crown prince Aditya Karikalan standing on a palace terrace at dusk, facing the camera with a proud fierce look, one hand on the hilt of a straight sword, a wide river plain with small temple towers far behind him, medium shot, face clearly visible
+004|aditya,arulmozhi|two royal brothers standing together on palace steps at dusk facing the camera, the elder Aditya tall with a sword and a hand on the shoulder of his younger brother Arulmozhi, a temple town with lamps far behind, both faces clearly visible
+019|brothers|the three brothers standing close together in a dark pillared granite hall at night, lit from below by a single brass oil lamp, looking straight at the camera with cold guarded expressions, all three faces visible
+032|sundara|the Chola king Sundara Chola seated on a low lion throne in a pillared timber hall, facing the camera, a parasol bearer and fly-whisk bearers at his sides, face clearly visible
+034|kundavai|a Chola queen in her thirties in deep red silk, face visible, smiling as she watches three children playing in a sunlit palace courtyard
+035|aditya,kundavai,arulmozhi|three royal children sitting on stone steps in order of size, facing the camera: a bold boy of twelve with a wooden sword (the crown prince as a child), a clever girl of nine, and a quiet small boy of five, faces clearly visible
+037|arulmozhi|a quiet small boy of five, a young prince, looking up in wonder at a modest granite temple tower, his face visible in profile
+038|arulmozhi|the same prince grown into a great king of about forty with a full moustache and a tall jewelled crown, standing before a vast granite temple tower at sunrise, face clearly visible, calm and commanding

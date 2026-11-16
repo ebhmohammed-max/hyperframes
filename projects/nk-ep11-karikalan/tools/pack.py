@@ -4,7 +4,9 @@ import json, sys, zipfile, os
 a, b = int(sys.argv[1]), int(sys.argv[2])
 R = {r["n"]: r for r in json.load(open("shots/prompts.json", encoding="utf8"))}
 os.makedirs("out/up", exist_ok=True)
-p = f"out/up/EP11_images_{a:03d}-{b:03d}.zip"
+B = (a - 1) // 10 + 1
+p = f"out/up/EP11_B{B:02d}_images_{a:03d}-{b:03d}.zip"
 z = zipfile.ZipFile(p, "w", zipfile.ZIP_STORED)
 for n in range(a, b + 1): z.write(f"out/raw/{n:03d}.jpg", R[n]["file"])
 z.close(); print(p, os.path.getsize(p))
+import shutil; shutil.copy(f"out/sheets/sheet_{a:03d}_{b:03d}.jpg", f"out/up/EP11_B{B:02d}_sheet.jpg")

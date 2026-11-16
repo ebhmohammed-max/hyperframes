@@ -2,7 +2,7 @@
 
 327 images. File names carry the running number, narration clip and line.
 
-Rules used in every prompt: reconstruction art, not photographs; people are shown from behind, as silhouettes or as hands only; no bodies or injuries; no readable writing (all text is set in the edit).
+Rules: reconstruction art, not photographs. Kings, princes, the princess and the three brothers have invented faces, kept consistent with the reference pictures in shots/CAST.md (marked `refs`). Scholars and other modern people are shown from behind or as hands only. No bodies or injuries; no readable writing (all text is set in the edit).
 
 Looks: **P** daylight; **D** dusk; **L** lamp-lit interior; **W** battlefield; **S** stone macro; **C** copper still life; **A** scholar's desk; **T** present day; **K** 1950s Madras; **N** novel (storybook); **X** symbolic still life.
 
@@ -15,11 +15,11 @@ An empty prince's chamber, a brass oil lamp guttering beside an overturned gold 
 **002** `EP11_002_N01q00_diadem_on_cushion.jpg` [L] (N01 q00: “ஆயிரம் வருஷத்துக்கு முன்னாடி… சோழ நாட்டோட பட்டத்து இளவரசன் கொல்லப்பட்டான்.”)  
 A jewelled crown prince's gold diadem resting alone on a dark silk cushion, one oil lamp, long shadows of carved pillars, no people. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**003** `EP11_003_N01q01_prince_terrace_back.jpg` [D] (N01 q01: “அவன் பேரு ஆதித்த கரிகாலன். ராஜராஜ சோழனோட அண்ணன்.”)  
-A young Chola prince seen from behind on a palace terrace, hair in a topknot, bare shoulders, gold armlets, a long straight sword at his hip, looking out over a river plain. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**003** `EP11_003_N01q01_prince_terrace_back.jpg` [D] refs: aditya (N01 q01: “அவன் பேரு ஆதித்த கரிகாலன். ராஜராஜ சோழனோட அண்ணன்.”)  
+The crown prince Aditya Karikalan standing on a palace terrace at dusk, facing the camera with a proud fierce look, one hand on the hilt of a straight sword, a wide river plain with small temple towers far behind him, medium shot, face clearly visible. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**004** `EP11_004_N01q01_two_brothers_steps.jpg` [D] (N01 q01: “அவன் பேரு ஆதித்த கரிகாலன். ராஜராஜ சோழனோட அண்ணன்.”)  
-Two royal brothers seen from behind on palace steps, the tall elder with a sword and a younger boy beside him, looking toward a distant temple town. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**004** `EP11_004_N01q01_two_brothers_steps.jpg` [D] refs: aditya, arulmozhi (N01 q01: “அவன் பேரு ஆதித்த கரிகாலன். ராஜராஜ சோழனோட அண்ணன்.”)  
+Two royal brothers standing together on palace steps at dusk facing the camera, the elder Aditya tall with a sword and a hand on the shoulder of his younger brother Arulmozhi, a temple town with lamps far behind, both faces clearly visible. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **005** `EP11_005_N01q02_empty_corridor.jpg` [L] (N01 q02: “அவன் எங்க செத்தான்? தெரியாது.”)  
 A long empty palace corridor of carved granite pillars, one small lamp burning at the far end, no people. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
@@ -63,8 +63,8 @@ A short run of carved characters lit hard from one side, the rest of the wall fa
 **018** `EP11_018_N01q10_estampage_peel.jpg` [A] (N01 q10: “கரிகால சோழனைக் கொன்று… துரோகிகளான…”)  
 Two hands peeling a paper estampage from a stone temple wall, white characters standing out on black ink. Twentieth-century Indian scholar's study, warm desk-lamp light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**019** `EP11_019_N01q11_three_silhouettes_hall.jpg` [L] (N01 q11: “அதுக்கு அப்புறம் மூணு பேரு. சோமன். ரவிதாசன். பரமேஸ்வரன்.”)  
-Three men seen from behind as dark silhouettes in a pillared hall, sacred threads across bare backs, topknots, standing shoulder to shoulder. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**019** `EP11_019_N01q11_three_silhouettes_hall.jpg` [L] refs: brothers (N01 q11: “அதுக்கு அப்புறம் மூணு பேரு. சோமன். ரவிதாசன். பரமேஸ்வரன்.”)  
+The three brothers standing close together in a dark pillared granite hall at night, lit from below by a single brass oil lamp, looking straight at the camera with cold guarded expressions, all three faces visible. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **020** `EP11_020_N01q11_three_shadows_wall.jpg` [L] (N01 q11: “அதுக்கு அப்புறம் மூணு பேரு. சோமன். ரவிதாசன். பரமேஸ்வரன்.”)  
 Three long shadows of men thrown across a palace wall by a single lamp, no faces. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
@@ -105,26 +105,26 @@ A magnifying glass held over one line of an inked estampage, the characters enla
 **031** `EP11_031_N02q00_thanjavur_town_wide.jpg` [P] (N02 q00: “பத்தாம் நூற்றாண்டு. தஞ்சாவூர்.”)  
 Wide view of a walled town of tiled roofs and small granite temple towers among palms beside river channels, morning haze. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**032** `EP11_032_N02q01_king_on_throne_back.jpg` [L] (N02 q01: “சோழ நாட்டை ஆண்டது சுந்தர சோழன். இரண்டாம் பராந்தகன்.”)  
-A Chola king seen from behind seated on a low lion throne in a pillared timber hall, parasol bearer and fly-whisk bearers at his sides. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**032** `EP11_032_N02q01_king_on_throne_back.jpg` [L] refs: sundara (N02 q01: “சோழ நாட்டை ஆண்டது சுந்தர சோழன். இரண்டாம் பராந்தகன்.”)  
+The Chola king Sundara Chola seated on a low lion throne in a pillared timber hall, facing the camera, a parasol bearer and fly-whisk bearers at his sides, face clearly visible. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **033** `EP11_033_N02q01_king_hand_rings.jpg` [L] (N02 q01: “சோழ நாட்டை ஆண்டது சுந்தர சோழன். இரண்டாம் பராந்தகன்.”)  
 Close-up of a king's hand with heavy gold rings resting on the carved arm of a throne. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**034** `EP11_034_N02q02_queen_watches_children.jpg` [P] (N02 q02: “அவருக்கும் வானவன் மாதேவிக்கும் மூணு பிள்ளைங்க.”)  
-A queen seen from behind on a palace verandah watching three children playing in a sunlit courtyard. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**034** `EP11_034_N02q02_queen_watches_children.jpg` [P] refs: kundavai (N02 q02: “அவருக்கும் வானவன் மாதேவிக்கும் மூணு பிள்ளைங்க.”)  
+A Chola queen in her thirties in deep red silk, face visible, smiling as she watches three children playing in a sunlit palace courtyard. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**035** `EP11_035_N02q03_three_children_steps.jpg` [P] (N02 q03: “மூத்தவன் ஆதித்தன். அப்புறம் குந்தவை. கடைசி, அருள்மொழி.”)  
-Three royal children seen from behind sitting on stone steps in order of size, a boy with a wooden sword, a girl, and a small boy. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**035** `EP11_035_N02q03_three_children_steps.jpg` [P] refs: aditya, kundavai, arulmozhi (N02 q03: “மூத்தவன் ஆதித்தன். அப்புறம் குந்தவை. கடைசி, அருள்மொழி.”)  
+Three royal children sitting on stone steps in order of size, facing the camera: a bold boy of twelve with a wooden sword (the crown prince as a child), a clever girl of nine, and a quiet small boy of five, faces clearly visible. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **036** `EP11_036_N02q03_brothers_hands.jpg` [P] (N02 q03: “மூத்தவன் ஆதித்தன். அப்புறம் குந்தவை. கடைசி, அருள்மொழி.”)  
 Close-up of a small boy's hand holding his elder brother's hand, gold bangles. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**037** `EP11_037_N02q04_small_boy_temple_tower.jpg` [P] (N02 q04: “அந்த அருள்மொழிதான்… பின்னாடி ராஜராஜ சோழன்.”)  
-A small boy seen from behind looking up at a modest granite temple tower. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**037** `EP11_037_N02q04_small_boy_temple_tower.jpg` [P] refs: arulmozhi (N02 q04: “அந்த அருள்மொழிதான்… பின்னாடி ராஜராஜ சோழன்.”)  
+A quiet small boy of five, a young prince, looking up in wonder at a modest granite temple tower, his face visible in profile. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**038** `EP11_038_N02q04_grown_king_big_temple.jpg` [D] (N02 q04: “அந்த அருள்மொழிதான்… பின்னாடி ராஜராஜ சோழன்.”)  
-A grown king seen from behind as a silhouette before a vast granite temple tower at sunrise. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**038** `EP11_038_N02q04_grown_king_big_temple.jpg` [D] refs: arulmozhi (N02 q04: “அந்த அருள்மொழிதான்… பின்னாடி ராஜராஜ சோழன்.”)  
+The same prince grown into a great king of about forty with a full moustache and a tall jewelled crown, standing before a vast granite temple tower at sunrise, face clearly visible, calm and commanding. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **039** `EP11_039_N02q05_modest_palace_gate.jpg` [P] (N02 q05: “அப்போ சோழ நாடு இன்னும் பேரரசு ஆகல.”)  
 A modest brick and timber palace with tiled roofs, guards with spears at the gate, bullock carts passing. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.

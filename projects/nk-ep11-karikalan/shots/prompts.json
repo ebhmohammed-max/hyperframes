@@ -27,7 +27,10 @@
   "name": "prince_terrace_back",
   "look": "D",
   "file": "EP11_003_N01q01_prince_terrace_back.jpg",
-  "prompt": "A young Chola prince seen from behind on a palace terrace, hair in a topknot, bare shoulders, gold armlets, a long straight sword at his hip, looking out over a river plain. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The crown prince Aditya Karikalan standing on a palace terrace at dusk, facing the camera with a proud fierce look, one hand on the hilt of a straight sword, a wide river plain with small temple towers far behind him, medium shot, face clearly visible. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya"
+  ]
  },
  {
   "n": 4,
@@ -37,7 +40,11 @@
   "name": "two_brothers_steps",
   "look": "D",
   "file": "EP11_004_N01q01_two_brothers_steps.jpg",
-  "prompt": "Two royal brothers seen from behind on palace steps, the tall elder with a sword and a younger boy beside him, looking toward a distant temple town. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Two royal brothers standing together on palace steps at dusk facing the camera, the elder Aditya tall with a sword and a hand on the shoulder of his younger brother Arulmozhi, a temple town with lamps far behind, both faces clearly visible. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya",
+   "arulmozhi"
+  ]
  },
  {
   "n": 5,
@@ -187,7 +194,10 @@
   "name": "three_silhouettes_hall",
   "look": "L",
   "file": "EP11_019_N01q11_three_silhouettes_hall.jpg",
-  "prompt": "Three men seen from behind as dark silhouettes in a pillared hall, sacred threads across bare backs, topknots, standing shoulder to shoulder. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The three brothers standing close together in a dark pillared granite hall at night, lit from below by a single brass oil lamp, looking straight at the camera with cold guarded expressions, all three faces visible. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 20,
@@ -317,7 +327,10 @@
   "name": "king_on_throne_back",
   "look": "L",
   "file": "EP11_032_N02q01_king_on_throne_back.jpg",
-  "prompt": "A Chola king seen from behind seated on a low lion throne in a pillared timber hall, parasol bearer and fly-whisk bearers at his sides. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The Chola king Sundara Chola seated on a low lion throne in a pillared timber hall, facing the camera, a parasol bearer and fly-whisk bearers at his sides, face clearly visible. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "sundara"
+  ]
  },
  {
   "n": 33,
@@ -337,7 +350,10 @@
   "name": "queen_watches_children",
   "look": "P",
   "file": "EP11_034_N02q02_queen_watches_children.jpg",
-  "prompt": "A queen seen from behind on a palace verandah watching three children playing in a sunlit courtyard. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A Chola queen in her thirties in deep red silk, face visible, smiling as she watches three children playing in a sunlit palace courtyard. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "kundavai"
+  ]
  },
  {
   "n": 35,
@@ -347,7 +363,12 @@
   "name": "three_children_steps",
   "look": "P",
   "file": "EP11_035_N02q03_three_children_steps.jpg",
-  "prompt": "Three royal children seen from behind sitting on stone steps in order of size, a boy with a wooden sword, a girl, and a small boy. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Three royal children sitting on stone steps in order of size, facing the camera: a bold boy of twelve with a wooden sword (the crown prince as a child), a clever girl of nine, and a quiet small boy of five, faces clearly visible. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya",
+   "kundavai",
+   "arulmozhi"
+  ]
  },
  {
   "n": 36,
@@ -367,7 +388,10 @@
   "name": "small_boy_temple_tower",
   "look": "P",
   "file": "EP11_037_N02q04_small_boy_temple_tower.jpg",
-  "prompt": "A small boy seen from behind looking up at a modest granite temple tower. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A quiet small boy of five, a young prince, looking up in wonder at a modest granite temple tower, his face visible in profile. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "arulmozhi"
+  ]
  },
  {
   "n": 38,
@@ -377,7 +401,10 @@
   "name": "grown_king_big_temple",
   "look": "D",
   "file": "EP11_038_N02q04_grown_king_big_temple.jpg",
-  "prompt": "A grown king seen from behind as a silhouette before a vast granite temple tower at sunrise. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The same prince grown into a great king of about forty with a full moustache and a tall jewelled crown, standing before a vast granite temple tower at sunrise, face clearly visible, calm and commanding. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "arulmozhi"
+  ]
  },
  {
   "n": 39,

@@ -19,3 +19,10 @@ Each message: python tools/next.py → 10 prompts; generate into out/raw/NNN.jpg
 Render a clip when its pictures are complete (N01 = 001–030).
 Still to build: title sequence (after the hook), subscribe pop-up in chapter 1, join + levelling to -14 LUFS, 720p copy.
 N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
+
+## 17 Nov: user direction
+- Make all pictures first, batch by batch, saved to Drive like EP10 (folder `images` id 1DTqKaOUnmmb4NGgEzj--byUxq1GCFLaD: EP11_Bxx_images_NNN-NNN.zip + EP11_Bxx_sheet.jpg); build the full video after.
+- Faces allowed for kings and princes; invent consistent characters. Cast in shots/CAST.md, references in out/cast (Drive images/EP11_cast.zip id 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3). Overrides in shots/v2.txt (number|refs|subject).
+- Done: cast (7), 001-030 (003, 004, 019 remade with faces). Next: 031 onward; v2 overrides written for 032-038.
+- Per message: python3 tools/next.py; generate (pass out/cast/<key>.jpg for refs); $PY tools/sheet.py a b; $PY tools/crops.py; $PY tools/pack.py a b; upload zip + sheet to the images folder.
+- The hook render (out/renders/N01.mp4) predates the new 003/004/019; re-render when the full video is built.
