@@ -926,7 +926,11 @@
   "name": "elephants_clash",
   "look": "W",
   "file": "EP11_088_N03q12_elephants_clash.jpg",
-  "prompt": "Two royal war elephants with howdahs clashing in dust, seen from far away. Battlefield haze at dusk, tenth-century South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Two royal war elephants clashing in battlefield dust, on one the young prince Aditya with a raised sword and on the other the bearded Pandya king Vira Pandya with a spear, both the same men as in the reference images, both faces visible, soldiers fighting around them. Battlefield haze at dusk, tenth-century South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya",
+   "virapandya"
+  ]
  },
  {
   "n": 89,

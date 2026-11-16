@@ -48,3 +48,6 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 ## 22 Nov
 - Done: 071-080 (B08), on Drive. 071 film copy cropped (ink-bottle brand label) via shots/crops.json (values are fractions of the source). 074 (Latin-looking letters on the seal rim) added to shots/redo.txt.
 - Redo pass so far: 048, 061, 067, 074. Next: 081 onward.
+
+## 23 Nov
+- Done: 081-090 (B09), on Drive. 088 changed to Aditya and Vira Pandya on clashing elephants (v2). Redo pass unchanged: 048, 061, 067, 074. Next: 091 onward.
