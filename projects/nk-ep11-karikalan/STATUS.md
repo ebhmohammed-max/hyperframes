@@ -60,3 +60,8 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 
 ### Drive ids, images folder 1DTqKaOUnmmb4NGgEzj--byUxq1GCFLaD
 cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- | B02 1wmpQx4LcdK0iMyntNbR6lG_5MqgvzbAP | B03 1U4OkSy14ufWEQ-0vZEFLiNtWrtXsaT2m | B04 1UYjc_EtIo81uImQRvOBhl6ZBQMM2QFFl | B05 1TcHvLyPLVh0H7sB3T8wYounPFx9P5Bmc | B06 1Ofrd5WM5eNktSF-fp8HM4Wvj6mRX-TlW | B07 1LnW6rAtkH4G9IvhVRMEZBfQe9eweYd5U | B08 1al_My7dfHgHw2LIE3d6_6aL3NPP-iSFi | B09 1ajO4n26N42OMfoYkN7YDp39k9jBU_cfa
+
+## 25 Nov
+- Done: 101-109 (B11), on Drive; 110 blocked by content moderation (counts toward the 10) and held. Redo pass: 048, 061, 067, 074, 095, 110. B10 zip id 1DE5ji8Tw_4oqHF2gNImmtvhDLF7eJZ4B.
+- Narration mp3s and shared/vo are gone locally; before the film build download EP11 narration zip 1ySpKl5S2s3zTWNM4fyKnWZjaxCSgAOhu and N11 1GKCHE4FoUZxruNrU9Dg90FsHo9eCegqO.
+- Next: 111 onward.
