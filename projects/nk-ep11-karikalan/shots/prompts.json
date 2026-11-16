@@ -3136,7 +3136,10 @@
   "name": "diadem_dark",
   "look": "L",
   "file": "EP11_298_N10q00_diadem_dark.jpg",
-  "prompt": "A crown prince's diadem on a cushion in near darkness, no people. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Close portrait of the crown prince Aditya Karikalan, the same man as in the reference image, standing in near darkness with one side of his face lit by a single lamp, looking straight at the viewer, his gold diadem resting on a cushion beside him. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya"
+  ]
  },
  {
   "n": 299,
@@ -3166,7 +3169,10 @@
   "name": "three_silhouettes_again",
   "look": "L",
   "file": "EP11_301_N10q03_three_silhouettes_again.jpg",
-  "prompt": "Three male silhouettes standing apart in a dark pillared hall, no faces. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The three brothers from the reference image standing apart from one another in a dark pillared hall, each in his own pool of lamp light, their faces visible, still and silent. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 302,
@@ -3256,7 +3262,8 @@
   "name": "emperor_elephant_new_temple",
   "look": "P",
   "file": "EP11_310_N10q09_emperor_elephant_new_temple.jpg",
-  "prompt": "An emperor seen from behind on a war elephant before a huge granite temple under construction. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The emperor Rajendra Chola riding a war elephant before a huge granite temple under construction, a man of about forty with a broad face, a thick curled moustache, a tall jewelled crown and pearl necklaces, his face visible, proud, soldiers and stone workers around him. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 311,
@@ -3276,7 +3283,8 @@
   "name": "name_giving_priests",
   "look": "L",
   "file": "EP11_312_N10q09_name_giving_priests.jpg",
-  "prompt": "Priests seen from behind chanting before a newly crowned king's silhouette. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Priests chanting and raising their hands in blessing before a newly crowned king seated on a throne, a man of about thirty with a broad face, a thick curled moustache, a tall jewelled crown and pearl necklaces, his face visible, solemn. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 313,
@@ -3316,7 +3324,10 @@
   "name": "rajaraja_throne_back",
   "look": "L",
   "file": "EP11_316_N10q12_rajaraja_throne_back.jpg",
-  "prompt": "A great king seen from behind on the lion throne, the hall full of courtiers. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The great king Rajaraja seated on the lion throne, the same man as in the reference image but older, about forty-five with a full moustache and a tall jewelled crown, his face visible, calm and commanding, the hall full of courtiers and ministers. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "arulmozhi"
+  ]
  },
  {
   "n": 317,
@@ -3366,7 +3377,11 @@
   "name": "elder_brother_fades",
   "look": "D",
   "file": "EP11_321_N10q14_elder_brother_fades.jpg",
-  "prompt": "Two brothers seen from behind, the elder fading like mist. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Two brothers standing side by side, the younger, the same man as in the second reference image, solid and clear, the elder, the same man as in the first reference image, half transparent and fading like mist, both faces visible. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya",
+   "arulmozhi"
+  ]
  },
  {
   "n": 322,

@@ -927,8 +927,8 @@ One carved line on a granite wall, side lit, everything else dark. Weathered car
 
 ## N10
 
-**298** `EP11_298_N10q00_diadem_dark.jpg` [L] (N10 q00: “அப்போ, ஆதித்த கரிகாலனை கொன்னது யாரு?”)  
-A crown prince's diadem on a cushion in near darkness, no people. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**298** `EP11_298_N10q00_diadem_dark.jpg` [L] refs: aditya (N10 q00: “அப்போ, ஆதித்த கரிகாலனை கொன்னது யாரு?”)  
+Close portrait of the crown prince Aditya Karikalan, the same man as in the reference image, standing in near darkness with one side of his face lit by a single lamp, looking straight at the viewer, his gold diadem resting on a cushion beside him. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **299** `EP11_299_N10q01_wall_wide_dawn.jpg` [T] (N10 q01: “கல் சொல்றது இவ்வளவுதான்.”)  
 A long inscribed temple wall at dawn, no people. Present day, soft morning light, rural Tamil Nadu. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
@@ -936,8 +936,8 @@ A long inscribed temple wall at dawn, no people. Present day, soft morning light
 **300** `EP11_300_N10q02_chisel_marks_close.jpg` [S] (N10 q02: “அவன் கொல்லப்பட்டான். அது உறுதி.”)  
 Carved characters in granite so close that the chisel marks show. Weathered carved granite, raking side light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**301** `EP11_301_N10q03_three_silhouettes_again.jpg` [L] (N10 q03: “கொன்னவங்க சோமன், ரவிதாசன், பரமேஸ்வரன். அதுவும் கல்லுல இருக்கு.”)  
-Three male silhouettes standing apart in a dark pillared hall, no faces. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**301** `EP11_301_N10q03_three_silhouettes_again.jpg` [L] refs: brothers (N10 q03: “கொன்னவங்க சோமன், ரவிதாசன், பரமேஸ்வரன். அதுவும் கல்லுல இருக்கு.”)  
+The three brothers from the reference image standing apart from one another in a dark pillared hall, each in his own pool of lamp light, their faces visible, still and silent. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **302** `EP11_302_N10q03_three_stretches_lit.jpg` [S] (N10 q03: “கொன்னவங்க சோமன், ரவிதாசன், பரமேஸ்வரன். அதுவும் கல்லுல இருக்கு.”)  
 Three short stretches of a carved line lit one after another. Weathered carved granite, raking side light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
@@ -964,13 +964,13 @@ Morning fog over a small temple and paddy fields, no people. Present day, soft m
 A large bundle of copper plates with a great royal seal, no people. Still life on dark wood, one oil lamp. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **310** `EP11_310_N10q09_emperor_elephant_new_temple.jpg` [P] (N10 q09: “ராஜராஜனோட மகன் ராஜேந்திரன், மதுராந்தகன்ங்கற பேரையும் வெச்சுக்கிட்டான். உத்தம சோழனோட அதே பேரு.”)  
-An emperor seen from behind on a war elephant before a huge granite temple under construction. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+The emperor Rajendra Chola riding a war elephant before a huge granite temple under construction, a man of about forty with a broad face, a thick curled moustache, a tall jewelled crown and pearl necklaces, his face visible, proud, soldiers and stone workers around him. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **311** `EP11_311_N10q09_royal_seal_again.jpg` [C] (N10 q09: “ராஜராஜனோட மகன் ராஜேந்திரன், மதுராந்தகன்ங்கற பேரையும் வெச்சுக்கிட்டான். உத்தம சோழனோட அதே பேரு.”)  
 A round royal seal with a tiger, two fish and a bow, lamp light. Still life on dark wood, one oil lamp. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **312** `EP11_312_N10q09_name_giving_priests.jpg` [L] (N10 q09: “ராஜராஜனோட மகன் ராஜேந்திரன், மதுராந்தகன்ங்கற பேரையும் வெச்சுக்கிட்டான். உத்தம சோழனோட அதே பேரு.”)  
-Priests seen from behind chanting before a newly crowned king's silhouette. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+Priests chanting and raising their hands in blessing before a newly crowned king seated on a throne, a man of about thirty with a broad face, a thick curled moustache, a tall jewelled crown and pearl necklaces, his face visible, solemn. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **313** `EP11_313_N10q10_emperor_ancestor_lamps.jpg` [L] (N10 q10: “தன் பெரியப்பாவை கொன்னவர்னு நம்பியிருந்தா, அந்த பேரை அவன் எடுத்திருப்பானா?”)  
 An emperor seen from behind standing before a row of memorial lamps. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
@@ -981,8 +981,8 @@ A row of small royal portrait bronzes in a shrine, lamps, no people. Night inter
 **315** `EP11_315_N10q11_scales_balanced.jpg` [X] (N10 q11: “இதுவும் ஒரு வாதம்தான். தீர்ப்பு இல்ல.”)  
 A pair of bronze scales hanging level, no people. Dark room, a single shaft of light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**316** `EP11_316_N10q12_rajaraja_throne_back.jpg` [L] (N10 q12: “ஆதித்தன் போய் கிட்டத்தட்ட பதினாறு வருஷம் கழிச்சு, அவன் தம்பி ராஜாவானான்.”)  
-A great king seen from behind on the lion throne, the hall full of courtiers. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**316** `EP11_316_N10q12_rajaraja_throne_back.jpg` [L] refs: arulmozhi (N10 q12: “ஆதித்தன் போய் கிட்டத்தட்ட பதினாறு வருஷம் கழிச்சு, அவன் தம்பி ராஜாவானான்.”)  
+The great king Rajaraja seated on the lion throne, the same man as in the reference image but older, about forty-five with a full moustache and a tall jewelled crown, his face visible, calm and commanding, the hall full of courtiers and ministers. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **317** `EP11_317_N10q12_tiger_banner_sunrise.jpg` [P] (N10 q12: “ஆதித்தன் போய் கிட்டத்தட்ட பதினாறு வருஷம் கழிச்சு, அவன் தம்பி ராஜாவானான்.”)  
 A tiger banner against the sunrise, no people. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
@@ -996,8 +996,8 @@ A fleet of wooden ships with square sails crossing the open sea. Daylight, tenth
 **320** `EP11_320_N10q13_great_temple_golden_hour.jpg` [P] (N10 q13: “தஞ்சை பெரிய கோயிலை கட்டினான். கடல் கடந்து படை அனுப்பினான். சோழ நாடு பேரரசு ஆச்சு.”)  
 A finished colossal granite temple tower at golden hour, no people. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
 
-**321** `EP11_321_N10q14_elder_brother_fades.jpg` [D] (N10 q14: “அண்ணன் உயிரோட இருந்திருந்தா… ராஜராஜ சோழன்னு ஒரு பேரு வரலாற்றுல இருந்திருக்குமா?”)  
-Two brothers seen from behind, the elder fading like mist. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.
+**321** `EP11_321_N10q14_elder_brother_fades.jpg` [D] refs: aditya, arulmozhi (N10 q14: “அண்ணன் உயிரோட இருந்திருந்தா… ராஜராஜ சோழன்னு ஒரு பேரு வரலாற்றுல இருந்திருக்குமா?”)  
+Two brothers standing side by side, the younger, the same man as in the second reference image, solid and clear, the elder, the same man as in the first reference image, half transparent and fading like mist, both faces visible. Dusk, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.
 
 **322** `EP11_322_N10q14_temple_faint_figure.jpg` [D] (N10 q14: “அண்ணன் உயிரோட இருந்திருந்தா… ராஜராஜ சோழன்னு ஒரு பேரு வரலாற்றுல இருந்திருக்குமா?”)  
 The silhouette of a great temple tower with a faint lone figure before it. Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark.

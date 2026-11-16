@@ -133,3 +133,9 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 13 Dec
 - Done: 281-290 (B29), on Drive. No new redo. Redo list (10): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274. B28 zip id 1ul99sNTUEOS9t4i--3_zjJ-PjBsnPfBK. Next: 291 onward; write v2 overrides for the last chapter (N10, images 298-327) before 298.
 - Kept with a doubt: 289 the palace film set looks North Indian (arched, Rajasthani) rather than Chola.
+
+## 14 Dec
+- Done: 291-300 (B30), on Drive. Chapter 8 (N09) complete. 297 added to the redo list (lit band reads as Egyptian hieroglyphs). v2 overrides written for the last chapter (N10) up to 327 (298 aditya, 301 brothers, 310 and 312 Rajendra invented face: about forty or thirty, broad face, thick curled moustache, tall jewelled crown, pearl necklaces; 316 arulmozhi older; 321 aditya+arulmozhi).
+- Redo list (11): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274, 297. Plan: 301-310, 311-320, then 321-327 plus three redos in the same message, then the other eight redos.
+- B29 zip id 1zDZ53ZKoZu4Y4O3IHFM5ZYtFkVYGJlJd.
+- Kept with a doubt: 295 the three inscribed slabs stand like headstones.
