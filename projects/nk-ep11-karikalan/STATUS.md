@@ -31,3 +31,7 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 - User: not every picture needs faces; keep the series style, use faces where they help, and show kingdoms, ministers and crowds where the script allows.
 - Done: 031-040 (B04). v2 overrides written up to 058. tools/next.py now prints the cast refs in brackets.
 - Next: 041 onward.
+
+## 19 Nov
+- Done: 041-050 (B05), on Drive. 048 is wrong for the period (see shots/redo.txt); remakes are collected there and done in one pass after the last batch.
+- Next: 051 onward.

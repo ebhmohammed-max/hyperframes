@@ -1,0 +1,2 @@
+# Pictures to remake in one pass after the last batch (number|why|prompt note). After remaking: sheet.py, crops.py, pack.py for that batch, replace the zip on Drive.
+048|boy wears a modern dark tunic and holds a European cross-hilt sword|bare forearms with gold bangles, bare chest with a gold chain, Indian straight sword with a disc pommel and no cross-guard, no shirt
