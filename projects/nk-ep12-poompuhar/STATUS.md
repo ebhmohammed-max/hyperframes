@@ -67,6 +67,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B02 | 011–020 | `10MfXidi9aX05YEEWfetCXIsCkKIbwWzy` | `1wLVofTvagFZMzYFJwF_tpKg8qyCP-_9I` |
 | B03 | 021–030 | `1uhbeJKvbOKlxG9-y9kVTzlQ-g1xhdZRY` | `1sj-z6cJK3aGIlbUVe9Ev6u2vcqfEqibz` |
 | B04 | 031–040 | `1Y8gw05UTtuv2gGY-P8d9lH8KSP9C3iM2` | `1ES9wsABZWSCx0jlKG9VIp1De6c9jf_xY` |
+| B05 | 041–050 | `13_4gL2hzyi7-Mh48PYiW3js4ubHUvLuO` | `1NJCUIcPllvC60RSK_mw250fVhhtUSekN` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -104,4 +105,13 @@ All ten kept. Looked at on the sheet; 034, 035, 037, 038 at half size.
 - Kept with a doubt: 034 has two or three stave-built wooden barrels in the crowd, which do not belong in Sangam-age South India; they are small.
 - 035: the palm leaves carry fine scratches that look like writing; nothing could be read at half size. Not checked at full size.
 
-Next: B05 = 041–050.
+## B05 (041–050)
+
+Nine kept, one to redo. Looked at on the sheet; 041, 043, 045–050 at half size.
+- **050 redo:** the ship is a three-masted European galleon of about 1600. This is the Purananuru line about ships entering without lowering sail, so the ship is the subject. In `shots/redo.txt`.
+- Kept with a doubt: 041, the ship at the left edge has European-looking rigging and a stern castle (the horses are the subject). 047, the bales sit on modern-looking slatted pallets. 048, the Mediterranean merchant looks medieval rather than Roman.
+- To stop more galleons, the port, dusk and storybook settings in `shots/expand.py` now say ships are single-masted with one square sail. `prompts.json` and `SHOTLIST.md` were regenerated, so the recorded prompts for the port pictures already made (before 051) carry that sentence although it was not in the prompt actually used.
+
+Redo list so far: 026, 028, 050.
+
+Next: B06 = 051–060.

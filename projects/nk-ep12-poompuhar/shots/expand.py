@@ -4,10 +4,10 @@ Row format:  clip|line|name|look[@ref,ref]|subject     (refs = cast keys in shot
 import json, collections
 MEN = ", bare-chested men in white dhotis with hair in topknots, women in simple draped cotton cloth"
 LOOK = {
- "P": ("the ancient port, daylight", "Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms" + MEN),
- "D": ("the ancient port, dusk", "Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms" + MEN),
+ "P": ("the ancient port, daylight", "Daylight, ancient Tamil port city of the Sangam age two thousand years ago, brick and timber buildings with thatch and tile roofs, coconut and palmyra palms, any ships are ancient single-masted vessels with one square sail and plain low hulls, never multi-masted European galleons" + MEN),
+ "D": ("the ancient port, dusk", "Dusk, ancient Tamil coast of the Sangam age two thousand years ago, oil lamps, coconut and palmyra palms, any ships are ancient single-masted vessels with one square sail and plain low hulls, never multi-masted European galleons" + MEN),
  "L": ("ancient lamp-lit interior", "Night interior lit by brass oil lamps, ancient South India of the Sangam age, timber pillars and brick walls" + MEN),
- "B": ("the Manimekalai tale (storybook)", "Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast" + MEN),
+ "B": ("the Manimekalai tale (storybook)", "Storybook illustration mood, moonlight and lamp glow, ancient Tamil coast, any ships are ancient single-masted vessels with one square sail and plain low hulls, never multi-masted European galleons" + MEN),
  "Y": ("the later town (5th to 12th century)", "Daylight, early medieval Tamil Nadu coast, granite and brick temples, palmyra palms" + MEN),
  "E": ("1960s excavation", "Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts"),
  "N": ("survey at sea around 1990", "Bay of Bengal off the Tamil Nadu coast around 1990, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos"),
