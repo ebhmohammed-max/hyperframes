@@ -1,0 +1,328 @@
+# clip|line|name|look|subject        (one row per image, in film order)
+N01|0|empty_chamber_fallen_sword|L|an empty prince's chamber, a brass oil lamp guttering beside an overturned gold cup on the stone floor, a straight sword lying where it fell, silk curtains moving, no people
+N01|0|diadem_on_cushion|L|a jewelled crown prince's gold diadem resting alone on a dark silk cushion, one oil lamp, long shadows of carved pillars, no people
+N01|1|prince_terrace_back|D|a young Chola prince seen from behind on a palace terrace, hair in a topknot, bare shoulders, gold armlets, a long straight sword at his hip, looking out over a river plain
+N01|1|two_brothers_steps|D|two royal brothers seen from behind on palace steps, the tall elder with a sword and a younger boy beside him, looking toward a distant temple town
+N01|2|empty_corridor|L|a long empty palace corridor of carved granite pillars, one small lamp burning at the far end, no people
+N01|3|sword_and_cup|X|a sheathed straight sword and a small brass cup side by side on a stone ledge, neither touched, no people
+N01|4|copper_plate_bundle|C|a heavy bundle of old copper plates strung on a thick copper ring closed with a round seal, lying on dark wood, no people
+N01|4|copper_plate_finger|C|close-up of one copper plate tilted toward the lamp, rows of fine engraved archaic script catching the light, a fingertip hovering over one line
+N01|5|riderless_horse_twilight|D|a riderless royal horse with an empty saddle standing on a low hill under a huge twilight sky with the first stars, no people
+N01|5|lamp_on_river|D|a single clay lamp floating on a wide dark river, the evening sky reflected in the water, no people
+N01|6|copper_script_macro|C|extreme macro of engraved script on a copper plate, shallow focus, green patina in the grooves, no people
+N01|7|small_shiva_temple_mist|T|a small old granite Shiva temple with a modest tower among coconut palms and paddy fields, early mist, no people
+N01|7|nandi_gateway|T|a worn granite Nandi bull facing the doorway of a small old Shiva shrine, fresh flowers on its back, no people
+N01|8|inscribed_wall_wide|T|the outer granite wall of an old shrine covered with long horizontal lines of carved inscription, raking morning light, no people
+N01|8|inscription_macro_lichen|S|macro of carved lines of ancient script on granite, lichen and old oil stains in the grooves
+N01|9|finger_traces_line|S|a fingertip tracing one single line among many carved lines on a granite temple wall
+N01|10|hard_lit_phrase|S|a short run of carved characters lit hard from one side, the rest of the wall falling into darkness
+N01|10|estampage_peel|A|two hands peeling a paper estampage from a stone temple wall, white characters standing out on black ink
+N01|11|three_silhouettes_hall|L|three men seen from behind as dark silhouettes in a pillared hall, sacred threads across bare backs, topknots, standing shoulder to shoulder
+N01|11|three_shadows_wall|L|three long shadows of men thrown across a palace wall by a single lamp, no faces
+N01|12|three_lamps_row|X|three identical small brass oil lamps in a row on a stone floor, one flame leaning away from the others, no people
+N01|13|novels_and_film_reel|K|a stack of thick old novels and a metal film reel can pushed aside on a wooden table, no people
+N01|13|visitor_before_wall|T|a visitor seen from behind, small, standing before a long inscribed granite temple wall
+N01|14|three_in_doorway|L|three male silhouettes seen through a carved stone doorway, backlit by a lamp, no faces
+N01|15|fourth_shadow|L|a fourth, larger shadow falling across a palace floor from someone standing unseen behind a pillar
+N01|16|empty_lion_throne|L|an empty carved lion throne under a royal parasol in a dark hall, a shaft of light on the seat, no people
+N01|17|sunlight_on_wall|T|sunlight moving across an inscribed granite wall, half of it still in shadow, no people
+N01|18|scholar_desk_estampage|A|a scholar's desk with a large inked estampage sheet unrolled, a magnifying glass, open notebooks and a fountain pen, hands only
+N01|18|two_hands_two_lines|A|two different hands pointing at different lines of the same inked estampage from opposite sides of a table
+N01|18|magnifier_one_line|A|a magnifying glass held over one line of an inked estampage, the characters enlarged, everything else soft
+N02|0|thanjavur_town_wide|P|wide view of a walled town of tiled roofs and small granite temple towers among palms beside river channels, morning haze
+N02|1|king_on_throne_back|L|a Chola king seen from behind seated on a low lion throne in a pillared timber hall, parasol bearer and fly-whisk bearers at his sides
+N02|1|king_hand_rings|L|close-up of a king's hand with heavy gold rings resting on the carved arm of a throne
+N02|2|queen_watches_children|P|a queen seen from behind on a palace verandah watching three children playing in a sunlit courtyard
+N02|3|three_children_steps|P|three royal children seen from behind sitting on stone steps in order of size, a boy with a wooden sword, a girl, and a small boy
+N02|3|brothers_hands|P|close-up of a small boy's hand holding his elder brother's hand, gold bangles
+N02|4|small_boy_temple_tower|P|a small boy seen from behind looking up at a modest granite temple tower
+N02|4|grown_king_big_temple|D|a grown king seen from behind as a silhouette before a vast granite temple tower at sunrise
+N02|5|modest_palace_gate|P|a modest brick and timber palace with tiled roofs, guards with spears at the gate, bullock carts passing
+N02|6|battlefield_aftermath|W|the aftermath of a lost battle, broken chariot wheels, fallen standards, a riderless war elephant with an empty howdah, drifting smoke, no bodies
+N02|6|torn_tiger_banner|W|a torn banner with a tiger emblem on a broken pole standing in churned mud, no people
+N02|6|rebuilding_fort|P|masons rebuilding a brick fort wall while soldiers drill with spears in the yard below, seen from behind
+N02|7|pandya_king_rampart|P|a Pandya king seen from behind on a fort rampart, a banner with a twin-fish emblem flying above him, looking north over the plain
+N02|7|fish_banner_gate|P|a banner with a twin-fish emblem flying over a fort gate tower, no people
+N02|8|army_on_march|D|a Chola army column on the march, spearmen, cavalry and war elephants carrying tiger banners, crossing a dry plain and raising dust, seen from behind
+N02|9|two_armies_plain|W|two armies meeting on a wide plain seen from far away, lines of infantry and war elephants, dust and banners
+N02|10|boy_prince_on_horse|W|a boy prince in light armour seen from behind on a small war horse beside his father's great war elephant, behind the battle lines
+N02|10|boy_hands_reins|W|close-up of a boy's hands gripping reins and the hilt of a sword too large for him
+N02|11|leiden_plates|C|a large set of many copper plates on a huge ring with a big round seal, laid on dark cloth, no people
+N02|12|lion_cub_elephant|W|allegory: a lion cub facing a towering war elephant in swirling dust, no people
+N02|12|boy_charges_elephant|W|a boy prince on horseback seen from behind charging toward a war elephant that carries a twin-fish banner
+N02|12|small_against_big|W|spear points and dust, a boy rider's small silhouette against the huge silhouette of a war elephant
+N02|13|finger_on_plate|C|a fingertip moving along engraved lines of a copper plate
+N02|13|boy_helmet_bench|L|a boy's small bronze helmet and a pair of gold armlets left on a stone bench, no people
+N02|14|boy_before_throne|L|a boy seen from behind standing before an empty lion throne that is far too big for him
+N02|14|crowd_below_balcony|P|a crowd seen from behind looking up at a palace balcony where a small figure stands beside the king
+N02|15|anointing_ceremony|L|priests' hands pouring sacred water from brass vessels over a young man's bowed head, seen from behind
+N02|15|diadem_placed|L|a king's hands placing a gold diadem on the head of a youth seen from behind
+N02|16|northern_temple_palmyra|P|a small granite temple on a northern plain among palmyra palms, no people
+N02|16|carver_at_temple_base|P|a stone carver seen from behind chiselling a line of letters into the base of a temple wall, granite chips, a wooden mallet
+N02|17|chisel_on_letters|S|macro of freshly carved characters in granite with an iron chisel resting on the ledge
+N02|17|light_on_phrase|S|a shaft of light falling on one phrase of a carved inscription
+N03|0|title_inscription_base|S|carved inscription running along the moulded base of a small granite temple, raking light
+N03|0|prince_sword_lamp|L|a young prince seen from behind holding a clean straight sword upright before a tall brass lamp
+N03|1|fallen_fish_crown|W|a fallen royal crown with a fish emblem lying in battlefield dust beside a broken sword, no people
+N03|1|victor_on_ridge|W|the silhouette of a victorious warrior on a ridge holding a captured twin-fish banner
+N03|2|magnifier_on_letters|A|a magnifying glass held over carved letters on an inked estampage, a scholar's hand
+N03|2|court_poet_recites|L|a court poet seen from behind reciting before a king while a scribe writes on a palm leaf
+N03|3|archive_shelves|A|shelves of old bound epigraphy volumes and rolled estampages in a dim archive room, no people
+N03|4|madras_scholar_study|A|a 1930s scholar seen from behind at a desk piled with books, round spectacles lying on an open page, a ceiling fan
+N03|4|fountain_pen_notes|A|a fountain pen writing in a notebook, hands only, ink bottle beside it
+N03|4|bound_history_volume|A|a thick cloth-bound history volume on a desk beside an ink bottle and a blotter, no people
+N03|5|tiruvalangadu_plates|C|a very large bundle of copper plates with a massive ring and seal, no people
+N03|5|chola_seal_closeup|C|close-up of a round royal bronze seal showing a seated tiger, two fish and a bow under a parasol, no people
+N03|6|victory_pillar_gate|D|a tall wooden victory pillar on a platform outside a city gate, its top lost in dark sky and smoke, crowd silhouettes seen from behind
+N03|6|crowd_torches_gate|D|townspeople seen from behind with torches looking up toward a palace gate at dusk
+N03|7|engraver_hands_copper|L|an old engraver's hands incising script on a copper plate with a fine chisel and a small hammer
+N03|7|plates_threaded_ring|L|hands threading finished copper plates onto a thick ring
+N03|7|old_poet_dictates|L|an old court poet seen from behind dictating to seated scribes in a grand pillared hall
+N03|8|village_dig_1987|T|villagers and workers seen from behind digging in red earth beside the wall of a small village temple, rural Tamil Nadu in the 1980s
+N03|8|plates_lifted_from_pit|T|hands lifting a soil-crusted bundle of copper plates out of a pit of red earth
+N03|8|plates_on_cloth_soil|T|soil-covered copper plates with a ring and seal laid on a white cloth, a brush clearing the earth
+N03|9|cleaned_plate_brush|C|a cleaned copper plate under a lamp, a hand with a soft brush
+N03|9|two_photos_compared|A|an archaeologist's hands comparing two photographs of copper plates side by side on a desk
+N03|10|two_bundles_side|C|two bundles of copper plates side by side on dark cloth, no people
+N03|11|seminar_table_hands|A|a seminar table with several scholars' hands, papers and photographs of copper plates
+N03|11|journal_with_glasses|A|an open academic journal with photographic plates of inscriptions, reading glasses resting on the page, no people
+N03|12|elephants_clash|W|two royal war elephants with howdahs clashing in dust, seen from far away
+N03|12|fallen_parasol|W|a fallen royal parasol on a battlefield at dusk, no bodies, no people
+N03|13|pole_red_sky|D|a city gate and a tall pole in silhouette against a red sky, crows circling, nothing else visible
+N03|13|courtiers_turn_away|L|courtiers seen from behind in a palace hall turning their heads away, uneasy
+N03|14|ministers_whisper|P|old ministers in white seen from behind whispering in a stone colonnade
+N03|14|palm_leaf_code|C|a palm-leaf manuscript and an iron stylus on dark wood, no people
+N03|15|pandya_oath_swords|L|warriors seen from behind kneeling in a dark shrine, their swords laid on the floor before a lamp
+N03|15|hands_over_hilts|L|close-up of hands clasped over sword hilts above a lamp flame
+N03|16|watcher_in_doorway|D|a lone man seen from behind in a dark doorway watching tiger banners pass along a street
+N03|17|fish_banner_in_chest|L|two hands folding a torn twin-fish banner into a wooden chest
+N04|0|harvest_near_temple|P|paddy fields being harvested near a small granite temple, farmers seen from behind
+N04|0|carver_adds_inscription|P|a stone carver seen from behind adding a new inscription to a temple wall beside several older ones
+N04|1|lines_stop_blank|S|a granite temple wall where rows of carved lines stop and the stone is left blank, a chisel left on the ledge
+N04|2|messenger_night_rain|L|a messenger on horseback galloping through rain at night carrying a torch
+N04|2|palace_alarm_lamps|L|a palace at night, lamps being lit in a hurry, guards running along a corridor, seen from behind
+N04|2|two_books_two_dates|A|a scholar's hands on a desk with two open history books and a notebook between them
+N04|3|sword_diadem_white_cloth|L|a prince's sword and diadem laid on a white cloth strewn with flowers, one lamp, no people
+N04|4|quiet_plain_egrets|P|a quiet empty plain with egrets and grazing cattle, no army, no people
+N04|4|rolled_banners_store|L|rolled tiger banners and war drums stored against a wall in a quiet storeroom, cobwebs, no people
+N04|5|armoury_unused_spears|L|racks of unused spears and shields in a quiet armoury, dust in a shaft of light, no people
+N04|5|poet_and_scribe|L|a court poet seen from behind composing while a scribe waits with a stylus
+N04|6|hero_stone_garlanded|P|an old memorial hero stone with a carved warrior relief, garlanded with flowers, no people
+N04|6|prince_on_elephant_battle|W|a prince's silhouette on a war elephant in the thick of battle, arrows in the air, seen from far behind
+N04|7|empty_howdah_dusk|W|an empty howdah on a kneeling war elephant at dusk, no people
+N04|8|blank_granite_gecko|S|a blank stretch of granite temple wall with a small gecko, nothing carved
+N04|9|chola_country_aerial|P|high painterly view of a river delta country with temples, forts and villages, clouds drifting, nothing marked
+N04|9|sword_dark_cloth|X|a straight sword lying on dark cloth, no people
+N04|10|cup_and_betel_tray|X|a small brass cup of dark liquid beside a spilled betel tray, no people
+N04|11|door_ajar_curtain|L|an empty chamber, one lamp, a curtain moving, a door left ajar, no people
+N04|11|magazine_palace_illustration|K|an old 1950s magazine open on a table showing an ink illustration of a palace, reading glasses beside it, no people
+N04|11|storybook_palace_night|N|a romantic palace at night with lamps in every window, moon over towers
+N04|12|hand_on_bare_wall|S|a hand resting on a carved granite inscription wall
+N04|12|emperor_court_pillar|L|a grand royal court seen from behind a pillar, an emperor's silhouette on the throne, rows of courtiers
+N04|12|engraver_copper_two|L|an engraver's hands cutting script into a copper plate, curls of copper
+N04|13|big_seal_ring|C|a massive copper ring and royal seal holding a thick stack of copper plates, no people
+N04|14|one_line_glows|C|macro of one engraved line on a copper plate catching the lamp light
+N04|14|pyre_smoke_river|D|smoke rising into an evening sky above a river bank, royal parasols lowered, mourners far away and seen from behind
+N04|15|stars_over_tower|D|a night sky full of stars above the silhouette of a small temple tower, no people
+N04|16|plates_tied_lamp_out|C|a bundle of copper plates tied with cord beside an oil lamp that has just gone out, a thread of smoke
+N04|16|scribe_hand_stopped|L|a royal scribe's hand pausing with a stylus above a palm leaf while an elder's raised hand stops him
+N04|17|finger_next_line|C|a fingertip moving down to the next engraved line of a copper plate
+N04|17|throne_two_shadows|L|an empty lion throne with two shadows falling toward it from opposite sides of the hall
+N05|0|copper_plate_lamp|C|a copper plate propped beside an oil lamp, engraved lines glinting, no people
+N05|1|crowd_arms_raised|P|a crowd of townspeople seen from behind below a palace balcony, arms raised
+N05|1|young_prince_balcony|P|a young prince seen from behind on a palace balcony facing a crowd
+N05|2|prince_steps_back|L|a young prince seen from behind stepping back from a throne dais, head bowed
+N05|2|older_noble_near_throne|L|the silhouette of an older nobleman seen from behind standing close to a throne
+N05|2|hands_folded_respect|L|a young man's hands folded in respect, gold bangles
+N05|3|uttama_in_shrine|L|a mature prince seen from behind in a Shiva shrine, ash on his shoulders, rudraksha beads, hands folded
+N05|3|temple_corridor_priests|P|a royal devotee seen from behind walking a granite temple corridor with priests
+N05|4|queen_builds_temple|P|an elderly queen in plain white seen from behind watching masons build a small granite temple
+N05|4|pious_king_nataraja|L|a pious old king seen from behind singing before a bronze dancing Shiva, lamps
+N05|5|bronze_figurines_tree|X|small bronze figurines of kings arranged in two branching rows on a wooden table like a family tree, no people
+N05|5|child_empty_throne|L|a small child seen from behind beside an empty throne much too big for him
+N05|5|crown_carried_past|L|hands carrying a crown on a cushion past a child toward another man
+N05|6|empty_prince_seat|L|the crown prince's seat standing empty beside the king's throne, a folded silk cloth on it, no people
+N05|7|coronation_from_behind|L|a coronation seen from behind, a man seated on the lion throne under a parasol, priests pouring sacred water, courtiers
+N05|8|prince_edge_of_court|L|a young prince seen from behind at the edge of the court among pillars, watching
+N05|8|sword_practice_dawn|P|a young prince seen from behind practising with a sword alone in a courtyard at dawn
+N05|9|monsoon_palace_roofs|P|monsoon rain on tiled palace roofs, a large courtyard tree, seasons passing, no people
+N05|10|golden_palace_kanchi|D|a palace with gilded roof finials glowing at sunset among temple towers
+N05|10|aging_king_window|L|an aging king seen from behind on a couch looking out of a window, a frail hand on a cane
+N05|10|bedchamber_attendants|L|a royal bedchamber, silhouettes of physicians and attendants, many lamps
+N05|11|gilded_pillars_empty_couch|L|gilded pillars and an empty royal couch draped in white cloth, no people
+N05|11|inscription_line_wall|S|one carved inscription line on a temple wall, side light
+N05|12|far_pyre_riverbank|D|a royal funeral pyre on a riverbank at dusk seen from very far away, tiny silhouettes, smoke
+N05|12|bangles_veil_steps|D|a queen's gold bangles and a silk veil left on stone steps by the water with scattered flowers, no people
+N05|13|three_lamps_two_out|X|three oil lamps in a row, two gone out and smoking, one still burning, no people
+N05|13|empty_courtyard_toy_sword|P|an empty family courtyard, a child's wooden sword left on the steps, no people
+N05|14|sister_brother_terrace|D|a sister and her younger brother seen from behind on a palace terrace at dusk, her hand on his shoulder
+N05|15|throne_occupied_silhouette|L|a lion throne occupied by a dark silhouette under a parasol
+N05|15|throne_shadow_reaches|L|the long shadow of a throne reaching across the floor to an empty seat
+N05|16|courtiers_glance|L|courtiers seen from behind glancing toward the throne and whispering
+N05|17|scales_one_empty|X|a pair of bronze scales in lamp light, one pan empty, no people
+N05|17|estampage_brush_wall|A|hands pressing blank estampage paper onto a carved stone wall with a brush
+N05|18|temple_monsoon_clouds|P|a small granite temple under heavy monsoon clouds, no people
+N05|18|inscription_wall_rain|S|an inscribed granite wall in rain, water running along the carved letters
+N06|0|coronation_procession|P|a coronation procession, a royal elephant with howdah and parasols moving through a crowded street, crowd seen from behind
+N06|0|sacred_water_king|L|sacred water being poured over a seated king seen from behind
+N06|0|king_receives_sword|L|a king's hands receiving a ceremonial sword
+N06|0|tiger_banner_palace_gate|P|a tiger banner being raised above a palace gate, drummers seen from behind
+N06|1|scribes_in_row|L|royal scribes seated in a row writing on palm leaves, seen from behind
+N06|2|brahmin_village_street|P|a tenth-century village of thatched and tiled houses along one straight street leading to a small temple, a canal, palms
+N06|3|veeranam_lake_sunrise|T|a vast lake at sunrise with a long earthen bund and one small fishing boat
+N06|3|town_street_temple_today|T|a present-day small-town street leading to a temple tower, bicycles and a tea stall, people seen from behind
+N06|4|ananteeswarar_exterior|T|the exterior of a small old granite Shiva temple with a low tower and a compound wall, no people
+N06|5|inscribed_base_mouldings|T|the long moulded base of a shrine wall covered with carved inscription lines, no people
+N06|6|first_line_left_edge|S|the first carved line of an inscription at the left edge of a granite wall, side light
+N06|6|carver_scribe_copying|P|a stone carver seen from behind with a chisel at a temple wall while a scribe holds up a palm leaf to copy from
+N06|7|messenger_elders_tree|P|a royal messenger seen from behind handing a sealed palm-leaf order to village elders seated under a tree
+N06|7|elders_letter_on_head|P|village elders seen from behind rising to receive a royal letter with respect
+N06|8|finger_nears_line|S|a fingertip approaching one line of a carved inscription
+N06|9|side_lit_close|S|a carved line of ancient script lit hard from the side, deep shadows in every stroke
+N06|9|estampage_white_on_black|A|an inked estampage, white characters on black, lifted into the light by two hands
+N06|10|flaked_granite_lost_letters|S|a damaged, flaked patch of granite where carved letters are lost
+N06|10|fingers_on_broken_edge|S|fingers touching the broken edge of a damaged inscription
+N06|11|official_with_documents|L|a high official seen from behind in fine cloth with a sacred thread and gold ear-rings carrying palm-leaf documents through a palace hall
+N06|11|official_in_doorway|L|the silhouette of an official standing in a carved palace doorway
+N06|12|official_near_royal_seat|L|an official seen from behind standing near a royal seat holding a staff of office
+N06|12|official_past_guards|P|an official seen from behind walking past saluting palace guards
+N06|13|three_at_lamp|L|three male silhouettes gathered close around a single lamp, no faces
+N06|14|king_presents_silk_ring|L|a king's hands presenting a gold-bordered silk and a signet ring to a kneeling official seen from behind
+N06|14|signet_ring_palm_leaf|C|a gold signet ring resting on a palm-leaf order, no people
+N06|15|council_near_throne|L|officials seen from behind seated close to the throne in council
+N06|15|inner_corridor_unchallenged|L|an official seen from behind walking unchallenged past guards into the inner corridor of a palace
+N06|16|two_stretches_lit|S|two short stretches of a carved inscription picked out by light, the rest dark
+N06|17|tiger_banner_wind|P|a banner with a tiger emblem snapping in the wind against the sky, no people
+N06|18|fish_banner_wind|P|a banner with a twin-fish emblem snapping in the wind against the sky, no people
+N06|19|two_seals_side_by_side|C|two signet seals side by side on a table, one with a tiger, one with twin fish, no people
+N06|19|brothers_family_meal|L|three brothers seen from behind sharing a meal on the floor of a house by lamp light
+N07|0|land_records_rod|C|a pile of palm-leaf land records tied with string beside a wooden measuring rod, no people
+N07|0|inscription_wide_again|S|a long carved inscription across a granite wall, many lines, even light
+N07|1|officers_seal_door|P|royal officers seen from behind sealing the door of a large tiled house with rope and a clay seal
+N07|1|boundary_stone_field|P|officers seen from behind planting a boundary stone at the edge of a paddy field
+N07|2|street_sealed_doors|P|a village street of houses with sealed doors, empty, no people
+N07|3|family_leaves_house|P|a family seen from behind leaving a house with cloth bundles, men, women and children walking down a village street
+N07|3|child_hand_bundle|P|close-up of a child's hand held by an adult, a cloth bundle in the other hand
+N07|4|elders_on_verandah|P|elderly men seen from behind seated on a verandah while an officer reads out an order
+N07|4|keys_handed_over|P|an old man's hands giving a bunch of iron house keys to an officer's hand
+N07|5|festooned_door_sealed|P|a doorway decorated with mango leaves and a wedding kolam, now closed with a clay seal, no people
+N07|5|carts_leave_dusk|D|carts loaded with household goods leaving a village at dusk, seen from behind
+N07|6|banyan_many_roots|P|a huge banyan tree with many hanging roots, a small village beneath it, storm light, no people
+N07|7|two_officials_ledgers|P|two officials seen from behind seated under a canopy with palm-leaf ledgers, villagers waiting
+N07|7|measuring_rod_paddy|P|men seen from behind pacing a paddy field with a long measuring rod
+N07|8|paddy_fields_aerial|P|aerial view of green paddy fields divided by bunds beside a canal, no people
+N07|8|rope_along_bund|P|surveyors' hands stretching a measuring rope along a field bund
+N07|8|six_house_plots|P|six empty house plots in a row with low mud walls along a village street, no people
+N07|9|mother_son_boy_look_back|P|an elderly mother, a man and a boy seen from behind looking back at their house from the end of the street
+N07|9|empty_verandah_tulsi|P|the empty verandah of a tiled house with a tulsi planter, no people
+N07|9|old_hand_door_frame|P|an old woman's hand resting on a wooden door frame
+N07|10|chieftain_arrives|P|a wealthy chieftain seen from behind arriving on horseback with attendants and a parasol
+N07|10|document_before_assembly|P|a hand with gold rings placing a palm-leaf document before seated village elders
+N07|11|gold_weighed_scale|C|small pieces of gold being weighed on a little balance scale by hands on a cloth
+N07|12|donor_bows_shrine|P|a chieftain seen from behind bowing before a temple shrine and pouring water from a small vessel as a gift
+N07|13|feeding_rows_verandah|P|rows of men seated cross-legged on a temple verandah eating from banana leaves, seen from behind
+N07|13|ascetics_receive_food|P|ascetics with matted hair and ash-smeared shoulders seen from behind receiving food
+N07|14|rice_vessels_kitchen|L|large brass vessels of cooked rice in a temple kitchen, steam, cooks' hands
+N07|14|water_poured_travellers|P|a man pouring drinking water from a clay pot for travellers at a temple water shed, hands and backs only
+N07|15|carver_finishes_donor|P|a stone carver seen from behind finishing an inscription while an attendant watches
+N07|16|wall_one_line_brighter|S|a wide inscribed wall with one line faintly brighter than the rest
+N07|17|three_flee_forest|D|three hooded figures seen from behind hurrying along a forest path at night with a torch
+N07|17|empty_shackle_floor|L|an empty iron shackle and chain on a stone floor, no people
+N07|18|end_of_text_blank|S|the end of a carved text, then blank granite
+N08|0|journals_estampage_rolls|A|stacks of old journals and rolled estampages in an archive, no people
+N08|0|lecture_hall_back|A|a lecture hall seen from the back row, scholars seen from behind, a projected photograph of an inscription on the screen
+N08|1|madras_university_building|A|a 1930s red-brick Indo-Saracenic university building, bicycles and rain trees in front
+N08|1|scholar_desk_spectacles|A|a scholar seen from behind at a desk, round spectacles, shelves of books
+N08|2|cards_timeline_desk|A|hands laying a row of small index cards along a desk like a timeline
+N08|2|uttama_throne_routine|L|a king's silhouette on the throne during routine court, petitioners seen from behind
+N08|2|water_clock_dripping|L|a bronze water clock dripping in a palace corridor, no people
+N08|3|crown_glint_silhouette|L|light glinting on the crown of a seated silhouette
+N08|4|pen_underlines|A|a fountain pen underlining a sentence on a manuscript page, hand only
+N08|4|book_pencil_mark|A|an open printed history book with a pencil mark in the margin, soft focus, no people
+N08|5|annamalai_campus|A|a 1940s university campus building with a clock tower and palm trees
+N08|5|tamil_scholar_palm_leaves|A|a Tamil scholar in a white veshti and shawl seen from behind at a desk with palm-leaf bundles and books
+N08|6|arulmozhi_bows_uncle|L|a young prince seen from behind bowing to an older man seated on a throne
+N08|6|peaceful_festival|P|a peaceful temple festival procession through a village, farmers and children seen from behind, no soldiers
+N08|6|bronze_casting_workshop|L|a bronze-casting workshop, craftsmen's hands finishing a temple bronze
+N08|7|fish_banner_shadow|D|a twin-fish banner half in shadow
+N08|7|three_clasp_hands_lamp|L|three men seen from behind in a dim room clasping hands over a lamp
+N08|7|riders_cross_river|D|riders seen from behind crossing a river northward at dusk
+N08|8|college_magazine_typewriter|A|a 1970s college magazine on a desk beside a typewriter and a glass of tea, no people
+N08|8|brother_sister_corridor|L|the silhouettes of a brother and sister seen from behind in a palace corridor
+N08|8|magazine_closed|A|a hand closing a thin magazine on a desk
+N08|9|empty_folder|A|an empty document folder lying open on a desk, nothing inside, no people
+N08|10|epigraphist_at_wall|T|an epigraphist seen from behind crouching at a temple wall with a notebook and a torch
+N08|10|torch_low_angle_letters|T|a hand holding a torch at a low angle so that carved letters stand out on granite
+N08|11|two_areas_lit|S|a carved wall with two separate areas lit, the join between them in shadow
+N08|11|notebook_bracket_sketch|A|a notebook with a pencil sketch of brackets dividing a block of lines into two parts, hand with pencil
+N08|12|officers_seal_house_early|P|officers seen from behind sealing a house door with a clay seal
+N08|12|old_king_raises_hand|L|the silhouette of an aged king raising a hand to give an order
+N08|13|old_book_new_notebook|A|an old book with a paper slip marking a page, a newer notebook lying on top, no people
+N08|13|cards_slide_off|A|a stack of index cards sliding off the edge of a desk
+N08|14|second_scholar_points|T|another scholar seen from behind pointing at a different section of the same temple wall
+N08|14|finger_opening_line|S|a fingertip on the opening line of a carved inscription
+N08|14|seal_ring_clay|L|a king's hand pressing a seal ring into clay on a palm-leaf order
+N08|15|three_before_dais|L|three bound men seen from behind standing before a king's dais, ministers at the sides
+N08|15|law_text_staff|C|a palm-leaf law text and a judge's staff on dark wood, no people
+N08|15|exile_city_gate|D|three men seen from behind being escorted out of a city gate at dusk carrying nothing
+N08|16|many_estampages_hands|A|several estampages of the same inscription overlapping on a table, many hands pointing
+N09|0|veiled_woman_doorway|N|a veiled woman seen from behind in the doorway of a lamp-lit palace
+N09|1|writer_room_madras|K|a writer seen from behind at a desk writing with a fountain pen, stacks of manuscript, a window with coconut trees
+N09|1|manuscript_pages_pile|K|handwritten manuscript pages piling up beside an ink bottle, no people
+N09|2|letterpress_shop|K|a letterpress printing shop, magazines coming off the press, workers seen from behind
+N09|3|magazines_tied_string|K|a stack of weekly magazines tied with string, the top cover an ink drawing of a prince's silhouette
+N09|3|magazine_stall_readers|K|readers seen from behind at a street magazine stall
+N09|4|reader_hands_magazine|K|a reader's hands holding an open magazine with an ink illustration of three cloaked men
+N09|4|estampage_beside_magazine|A|an inked estampage lying beside an old magazine on a desk, no people
+N09|4|family_reading_verandah|K|a family on a verandah, a girl seen from behind reading a magazine aloud to elders
+N09|5|conspirators_ruined_shrine|N|cloaked conspirators seen from behind meeting at night in a ruined shrine by torchlight
+N09|5|daggers_oath_silhouette|N|silhouettes of raised hands joined in an oath against torchlight
+N09|6|illustrator_inks_woman|K|an illustrator's hand inking the figure of a woman in silk seen from behind, flowers in her hair, on drawing paper
+N09|7|hands_search_wall|S|hands moving across a carved inscription wall, searching
+N09|7|magnifier_copper_search|C|a magnifying glass moving over a copper plate, searching
+N09|8|chamber_many_lamps|N|a palace chamber with many lamps, a prince's silhouette seen from behind facing a veiled woman
+N09|8|lamps_blown_out|N|a dark chamber, every lamp just blown out, thin trails of smoke from the wicks, no people
+N09|8|one_lamp_fallen_sword|N|one lamp relit in a dark chamber, a fallen sword on the floor, a long shadow across the stones, no people
+N09|9|pen_stopped|K|a writer's fountain pen stopped above a page, hand only
+N09|9|last_page_blank_space|K|the last page of a handwritten manuscript ending in blank space, no people
+N09|10|blank_granite_again|S|a blank stretch of granite beside a carved inscription
+N09|11|cinema_hall_back_row|T|a cinema hall seen from the back row, audience silhouettes, the screen glowing with a blurred epic battle
+N09|11|film_set_crane|T|a film set with a camera crane and lights before a palace set, crew seen from behind
+N09|12|crowd_outside_theatre|T|a crowd outside a cinema at night with garlands and lights, seen from behind
+N09|12|faces_lit_by_screen|T|rows of cinema viewers seen from behind, lit by the screen
+N09|13|ink_prince_drawing_board|K|an ink illustration of a fierce prince on a drawing board, brushes and ink, no people
+N09|13|projector_beam|T|a film projector beam cutting through a dark hall, dust in the light
+N09|14|small_fragment_inscription|S|a small fragment of carved inscription on a stone
+N09|15|three_inscribed_stones|S|three small inscribed stones set in different temple walls
+N09|15|plates_few_lines|C|a copper plate with a few lines picked out by light
+N09|16|the_line_side_lit|S|one carved line on a granite wall, side lit, everything else dark
+N10|0|diadem_dark|L|a crown prince's diadem on a cushion in near darkness, no people
+N10|1|wall_wide_dawn|T|a long inscribed temple wall at dawn, no people
+N10|2|chisel_marks_close|S|carved characters in granite so close that the chisel marks show
+N10|3|three_silhouettes_again|L|three male silhouettes standing apart in a dark pillared hall, no faces
+N10|3|three_stretches_lit|S|three short stretches of a carved line lit one after another
+N10|4|sealed_door_close|P|a clay seal and rope on a wooden house door, no people
+N10|4|families_on_road|D|families seen from behind walking away along a road with bundles at dusk
+N10|5|blank_stone_end|S|blank granite, the carving ended
+N10|6|fish_banner_dark|D|a twin-fish banner in deep shadow
+N10|6|empty_throne_light|L|an empty lion throne in a shaft of light, no people
+N10|7|fog_over_temple|T|morning fog over a small temple and paddy fields, no people
+N10|8|rajendra_plates|C|a large bundle of copper plates with a great royal seal, no people
+N10|9|emperor_elephant_new_temple|P|an emperor seen from behind on a war elephant before a huge granite temple under construction
+N10|9|royal_seal_again|C|a round royal seal with a tiger, two fish and a bow, lamp light
+N10|9|name_giving_priests|L|priests seen from behind chanting before a newly crowned king's silhouette
+N10|10|emperor_ancestor_lamps|L|an emperor seen from behind standing before a row of memorial lamps
+N10|10|ancestor_bronzes_row|L|a row of small royal portrait bronzes in a shrine, lamps, no people
+N10|11|scales_balanced|X|a pair of bronze scales hanging level, no people
+N10|12|rajaraja_throne_back|L|a great king seen from behind on the lion throne, the hall full of courtiers
+N10|12|tiger_banner_sunrise|P|a tiger banner against the sunrise, no people
+N10|13|big_temple_scaffolding|P|a colossal granite temple tower rising inside timber scaffolding, thousands of workers, elephants hauling stone
+N10|13|chola_fleet_sea|P|a fleet of wooden ships with square sails crossing the open sea
+N10|13|great_temple_golden_hour|P|a finished colossal granite temple tower at golden hour, no people
+N10|14|elder_brother_fades|D|two brothers seen from behind, the elder fading like mist
+N10|14|temple_faint_figure|D|the silhouette of a great temple tower with a faint lone figure before it
+N10|15|child_runs_past_wall|T|a child seen from behind running past an inscribed temple wall, flowers on the ground
+N10|15|priest_hand_on_wall|T|an old priest's hand resting on a carved granite wall
+N10|16|line_at_dusk_lamp|S|one carved line on a temple wall at dusk lit by a small oil lamp on the ledge
+N10|17|two_seals_lamp_between|C|a fish seal and a tiger seal on a table with a lamp between them, no people
+N10|17|temple_night_lamps_stars|T|a small temple at night with rows of lamps lit, stars above, no people

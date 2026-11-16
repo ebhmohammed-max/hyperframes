@@ -1,0 +1,3272 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "empty_chamber_fallen_sword",
+  "look": "L",
+  "file": "EP11_001_N01q00_empty_chamber_fallen_sword.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty prince's chamber, a brass oil lamp guttering beside an overturned gold cup on the stone floor, a straight sword lying where it fell, silk curtains moving, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "diadem_on_cushion",
+  "look": "L",
+  "file": "EP11_002_N01q00_diadem_on_cushion.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a jewelled crown prince's gold diadem resting alone on a dark silk cushion, one oil lamp, long shadows of carved pillars, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "prince_terrace_back",
+  "look": "D",
+  "file": "EP11_003_N01q01_prince_terrace_back.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young Chola prince seen from behind on a palace terrace, hair in a topknot, bare shoulders, gold armlets, a long straight sword at his hip, looking out over a river plain. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "two_brothers_steps",
+  "look": "D",
+  "file": "EP11_004_N01q01_two_brothers_steps.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two royal brothers seen from behind on palace steps, the tall elder with a sword and a younger boy beside him, looking toward a distant temple town. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "empty_corridor",
+  "look": "L",
+  "file": "EP11_005_N01q02_empty_corridor.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a long empty palace corridor of carved granite pillars, one small lamp burning at the far end, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "sword_and_cup",
+  "look": "X",
+  "file": "EP11_006_N01q03_sword_and_cup.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a sheathed straight sword and a small brass cup side by side on a stone ledge, neither touched, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "copper_plate_bundle",
+  "look": "C",
+  "file": "EP11_007_N01q04_copper_plate_bundle.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a heavy bundle of old copper plates strung on a thick copper ring closed with a round seal, lying on dark wood, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "copper_plate_finger",
+  "look": "C",
+  "file": "EP11_008_N01q04_copper_plate_finger.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of one copper plate tilted toward the lamp, rows of fine engraved archaic script catching the light, a fingertip hovering over one line. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "riderless_horse_twilight",
+  "look": "D",
+  "file": "EP11_009_N01q05_riderless_horse_twilight.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a riderless royal horse with an empty saddle standing on a low hill under a huge twilight sky with the first stars, no people. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 5,
+  "k": 1,
+  "name": "lamp_on_river",
+  "look": "D",
+  "file": "EP11_010_N01q05_lamp_on_river.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a single clay lamp floating on a wide dark river, the evening sky reflected in the water, no people. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "copper_script_macro",
+  "look": "C",
+  "file": "EP11_011_N01q06_copper_script_macro.jpg",
+  "prompt": "Wide 16:9 cinematic film still: extreme macro of engraved script on a copper plate, shallow focus, green patina in the grooves, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "small_shiva_temple_mist",
+  "look": "T",
+  "file": "EP11_012_N01q07_small_shiva_temple_mist.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small old granite Shiva temple with a modest tower among coconut palms and paddy fields, early mist, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 7,
+  "k": 1,
+  "name": "nandi_gateway",
+  "look": "T",
+  "file": "EP11_013_N01q07_nandi_gateway.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a worn granite Nandi bull facing the doorway of a small old Shiva shrine, fresh flowers on its back, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 8,
+  "k": 0,
+  "name": "inscribed_wall_wide",
+  "look": "T",
+  "file": "EP11_014_N01q08_inscribed_wall_wide.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the outer granite wall of an old shrine covered with long horizontal lines of carved inscription, raking morning light, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 8,
+  "k": 1,
+  "name": "inscription_macro_lichen",
+  "look": "S",
+  "file": "EP11_015_N01q08_inscription_macro_lichen.jpg",
+  "prompt": "Wide 16:9 cinematic film still: macro of carved lines of ancient script on granite, lichen and old oil stains in the grooves. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "finger_traces_line",
+  "look": "S",
+  "file": "EP11_016_N01q09_finger_traces_line.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fingertip tracing one single line among many carved lines on a granite temple wall. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 10,
+  "k": 0,
+  "name": "hard_lit_phrase",
+  "look": "S",
+  "file": "EP11_017_N01q10_hard_lit_phrase.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a short run of carved characters lit hard from one side, the rest of the wall falling into darkness. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 10,
+  "k": 1,
+  "name": "estampage_peel",
+  "look": "A",
+  "file": "EP11_018_N01q10_estampage_peel.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two hands peeling a paper estampage from a stone temple wall, white characters standing out on black ink. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N01",
+  "q": 11,
+  "k": 0,
+  "name": "three_silhouettes_hall",
+  "look": "L",
+  "file": "EP11_019_N01q11_three_silhouettes_hall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three men seen from behind as dark silhouettes in a pillared hall, sacred threads across bare backs, topknots, standing shoulder to shoulder. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N01",
+  "q": 11,
+  "k": 1,
+  "name": "three_shadows_wall",
+  "look": "L",
+  "file": "EP11_020_N01q11_three_shadows_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three long shadows of men thrown across a palace wall by a single lamp, no faces. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N01",
+  "q": 12,
+  "k": 0,
+  "name": "three_lamps_row",
+  "look": "X",
+  "file": "EP11_021_N01q12_three_lamps_row.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three identical small brass oil lamps in a row on a stone floor, one flame leaning away from the others, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N01",
+  "q": 13,
+  "k": 0,
+  "name": "novels_and_film_reel",
+  "look": "K",
+  "file": "EP11_022_N01q13_novels_and_film_reel.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stack of thick old novels and a metal film reel can pushed aside on a wooden table, no people. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N01",
+  "q": 13,
+  "k": 1,
+  "name": "visitor_before_wall",
+  "look": "T",
+  "file": "EP11_023_N01q13_visitor_before_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a visitor seen from behind, small, standing before a long inscribed granite temple wall. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N01",
+  "q": 14,
+  "k": 0,
+  "name": "three_in_doorway",
+  "look": "L",
+  "file": "EP11_024_N01q14_three_in_doorway.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three male silhouettes seen through a carved stone doorway, backlit by a lamp, no faces. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N01",
+  "q": 15,
+  "k": 0,
+  "name": "fourth_shadow",
+  "look": "L",
+  "file": "EP11_025_N01q15_fourth_shadow.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fourth, larger shadow falling across a palace floor from someone standing unseen behind a pillar. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N01",
+  "q": 16,
+  "k": 0,
+  "name": "empty_lion_throne",
+  "look": "L",
+  "file": "EP11_026_N01q16_empty_lion_throne.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty carved lion throne under a royal parasol in a dark hall, a shaft of light on the seat, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N01",
+  "q": 17,
+  "k": 0,
+  "name": "sunlight_on_wall",
+  "look": "T",
+  "file": "EP11_027_N01q17_sunlight_on_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: sunlight moving across an inscribed granite wall, half of it still in shadow, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N01",
+  "q": 18,
+  "k": 0,
+  "name": "scholar_desk_estampage",
+  "look": "A",
+  "file": "EP11_028_N01q18_scholar_desk_estampage.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a scholar's desk with a large inked estampage sheet unrolled, a magnifying glass, open notebooks and a fountain pen, hands only. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N01",
+  "q": 18,
+  "k": 1,
+  "name": "two_hands_two_lines",
+  "look": "A",
+  "file": "EP11_029_N01q18_two_hands_two_lines.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two different hands pointing at different lines of the same inked estampage from opposite sides of a table. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N01",
+  "q": 18,
+  "k": 2,
+  "name": "magnifier_one_line",
+  "look": "A",
+  "file": "EP11_030_N01q18_magnifier_one_line.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a magnifying glass held over one line of an inked estampage, the characters enlarged, everything else soft. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "thanjavur_town_wide",
+  "look": "P",
+  "file": "EP11_031_N02q00_thanjavur_town_wide.jpg",
+  "prompt": "Wide 16:9 cinematic film still: wide view of a walled town of tiled roofs and small granite temple towers among palms beside river channels, morning haze. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "king_on_throne_back",
+  "look": "L",
+  "file": "EP11_032_N02q01_king_on_throne_back.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a Chola king seen from behind seated on a low lion throne in a pillared timber hall, parasol bearer and fly-whisk bearers at his sides. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "king_hand_rings",
+  "look": "L",
+  "file": "EP11_033_N02q01_king_hand_rings.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of a king's hand with heavy gold rings resting on the carved arm of a throne. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "queen_watches_children",
+  "look": "P",
+  "file": "EP11_034_N02q02_queen_watches_children.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a queen seen from behind on a palace verandah watching three children playing in a sunlit courtyard. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "three_children_steps",
+  "look": "P",
+  "file": "EP11_035_N02q03_three_children_steps.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three royal children seen from behind sitting on stone steps in order of size, a boy with a wooden sword, a girl, and a small boy. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "brothers_hands",
+  "look": "P",
+  "file": "EP11_036_N02q03_brothers_hands.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of a small boy's hand holding his elder brother's hand, gold bangles. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "small_boy_temple_tower",
+  "look": "P",
+  "file": "EP11_037_N02q04_small_boy_temple_tower.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small boy seen from behind looking up at a modest granite temple tower. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "grown_king_big_temple",
+  "look": "D",
+  "file": "EP11_038_N02q04_grown_king_big_temple.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a grown king seen from behind as a silhouette before a vast granite temple tower at sunrise. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "modest_palace_gate",
+  "look": "P",
+  "file": "EP11_039_N02q05_modest_palace_gate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a modest brick and timber palace with tiled roofs, guards with spears at the gate, bullock carts passing. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 40,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "battlefield_aftermath",
+  "look": "W",
+  "file": "EP11_040_N02q06_battlefield_aftermath.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the aftermath of a lost battle, broken chariot wheels, fallen standards, a riderless war elephant with an empty howdah, drifting smoke, no bodies. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "torn_tiger_banner",
+  "look": "W",
+  "file": "EP11_041_N02q06_torn_tiger_banner.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a torn banner with a tiger emblem on a broken pole standing in churned mud, no people. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N02",
+  "q": 6,
+  "k": 2,
+  "name": "rebuilding_fort",
+  "look": "P",
+  "file": "EP11_042_N02q06_rebuilding_fort.jpg",
+  "prompt": "Wide 16:9 cinematic film still: masons rebuilding a brick fort wall while soldiers drill with spears in the yard below, seen from behind. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "pandya_king_rampart",
+  "look": "P",
+  "file": "EP11_043_N02q07_pandya_king_rampart.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a Pandya king seen from behind on a fort rampart, a banner with a twin-fish emblem flying above him, looking north over the plain. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N02",
+  "q": 7,
+  "k": 1,
+  "name": "fish_banner_gate",
+  "look": "P",
+  "file": "EP11_044_N02q07_fish_banner_gate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a banner with a twin-fish emblem flying over a fort gate tower, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "army_on_march",
+  "look": "D",
+  "file": "EP11_045_N02q08_army_on_march.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a Chola army column on the march, spearmen, cavalry and war elephants carrying tiger banners, crossing a dry plain and raising dust, seen from behind. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 46,
+  "clip": "N02",
+  "q": 9,
+  "k": 0,
+  "name": "two_armies_plain",
+  "look": "W",
+  "file": "EP11_046_N02q09_two_armies_plain.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two armies meeting on a wide plain seen from far away, lines of infantry and war elephants, dust and banners. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N02",
+  "q": 10,
+  "k": 0,
+  "name": "boy_prince_on_horse",
+  "look": "W",
+  "file": "EP11_047_N02q10_boy_prince_on_horse.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a boy prince in light armour seen from behind on a small war horse beside his father's great war elephant, behind the battle lines. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 48,
+  "clip": "N02",
+  "q": 10,
+  "k": 1,
+  "name": "boy_hands_reins",
+  "look": "W",
+  "file": "EP11_048_N02q10_boy_hands_reins.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of a boy's hands gripping reins and the hilt of a sword too large for him. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N02",
+  "q": 11,
+  "k": 0,
+  "name": "leiden_plates",
+  "look": "C",
+  "file": "EP11_049_N02q11_leiden_plates.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a large set of many copper plates on a huge ring with a big round seal, laid on dark cloth, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N02",
+  "q": 12,
+  "k": 0,
+  "name": "lion_cub_elephant",
+  "look": "W",
+  "file": "EP11_050_N02q12_lion_cub_elephant.jpg",
+  "prompt": "Wide 16:9 cinematic film still: allegory: a lion cub facing a towering war elephant in swirling dust, no people. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N02",
+  "q": 12,
+  "k": 1,
+  "name": "boy_charges_elephant",
+  "look": "W",
+  "file": "EP11_051_N02q12_boy_charges_elephant.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a boy prince on horseback seen from behind charging toward a war elephant that carries a twin-fish banner. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N02",
+  "q": 12,
+  "k": 2,
+  "name": "small_against_big",
+  "look": "W",
+  "file": "EP11_052_N02q12_small_against_big.jpg",
+  "prompt": "Wide 16:9 cinematic film still: spear points and dust, a boy rider's small silhouette against the huge silhouette of a war elephant. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N02",
+  "q": 13,
+  "k": 0,
+  "name": "finger_on_plate",
+  "look": "C",
+  "file": "EP11_053_N02q13_finger_on_plate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fingertip moving along engraved lines of a copper plate. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N02",
+  "q": 13,
+  "k": 1,
+  "name": "boy_helmet_bench",
+  "look": "L",
+  "file": "EP11_054_N02q13_boy_helmet_bench.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a boy's small bronze helmet and a pair of gold armlets left on a stone bench, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N02",
+  "q": 14,
+  "k": 0,
+  "name": "boy_before_throne",
+  "look": "L",
+  "file": "EP11_055_N02q14_boy_before_throne.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a boy seen from behind standing before an empty lion throne that is far too big for him. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N02",
+  "q": 14,
+  "k": 1,
+  "name": "crowd_below_balcony",
+  "look": "P",
+  "file": "EP11_056_N02q14_crowd_below_balcony.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a crowd seen from behind looking up at a palace balcony where a small figure stands beside the king. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N02",
+  "q": 15,
+  "k": 0,
+  "name": "anointing_ceremony",
+  "look": "L",
+  "file": "EP11_057_N02q15_anointing_ceremony.jpg",
+  "prompt": "Wide 16:9 cinematic film still: priests' hands pouring sacred water from brass vessels over a young man's bowed head, seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N02",
+  "q": 15,
+  "k": 1,
+  "name": "diadem_placed",
+  "look": "L",
+  "file": "EP11_058_N02q15_diadem_placed.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a king's hands placing a gold diadem on the head of a youth seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N02",
+  "q": 16,
+  "k": 0,
+  "name": "northern_temple_palmyra",
+  "look": "P",
+  "file": "EP11_059_N02q16_northern_temple_palmyra.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small granite temple on a northern plain among palmyra palms, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N02",
+  "q": 16,
+  "k": 1,
+  "name": "carver_at_temple_base",
+  "look": "P",
+  "file": "EP11_060_N02q16_carver_at_temple_base.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stone carver seen from behind chiselling a line of letters into the base of a temple wall, granite chips, a wooden mallet. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N02",
+  "q": 17,
+  "k": 0,
+  "name": "chisel_on_letters",
+  "look": "S",
+  "file": "EP11_061_N02q17_chisel_on_letters.jpg",
+  "prompt": "Wide 16:9 cinematic film still: macro of freshly carved characters in granite with an iron chisel resting on the ledge. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N02",
+  "q": 17,
+  "k": 1,
+  "name": "light_on_phrase",
+  "look": "S",
+  "file": "EP11_062_N02q17_light_on_phrase.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a shaft of light falling on one phrase of a carved inscription. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "title_inscription_base",
+  "look": "S",
+  "file": "EP11_063_N03q00_title_inscription_base.jpg",
+  "prompt": "Wide 16:9 cinematic film still: carved inscription running along the moulded base of a small granite temple, raking light. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "prince_sword_lamp",
+  "look": "L",
+  "file": "EP11_064_N03q00_prince_sword_lamp.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young prince seen from behind holding a clean straight sword upright before a tall brass lamp. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "fallen_fish_crown",
+  "look": "W",
+  "file": "EP11_065_N03q01_fallen_fish_crown.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fallen royal crown with a fish emblem lying in battlefield dust beside a broken sword, no people. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "victor_on_ridge",
+  "look": "W",
+  "file": "EP11_066_N03q01_victor_on_ridge.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the silhouette of a victorious warrior on a ridge holding a captured twin-fish banner. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "magnifier_on_letters",
+  "look": "A",
+  "file": "EP11_067_N03q02_magnifier_on_letters.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a magnifying glass held over carved letters on an inked estampage, a scholar's hand. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N03",
+  "q": 2,
+  "k": 1,
+  "name": "court_poet_recites",
+  "look": "L",
+  "file": "EP11_068_N03q02_court_poet_recites.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a court poet seen from behind reciting before a king while a scribe writes on a palm leaf. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "archive_shelves",
+  "look": "A",
+  "file": "EP11_069_N03q03_archive_shelves.jpg",
+  "prompt": "Wide 16:9 cinematic film still: shelves of old bound epigraphy volumes and rolled estampages in a dim archive room, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "madras_scholar_study",
+  "look": "A",
+  "file": "EP11_070_N03q04_madras_scholar_study.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a 1930s scholar seen from behind at a desk piled with books, round spectacles lying on an open page, a ceiling fan. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "fountain_pen_notes",
+  "look": "A",
+  "file": "EP11_071_N03q04_fountain_pen_notes.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fountain pen writing in a notebook, hands only, ink bottle beside it. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N03",
+  "q": 4,
+  "k": 2,
+  "name": "bound_history_volume",
+  "look": "A",
+  "file": "EP11_072_N03q04_bound_history_volume.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a thick cloth-bound history volume on a desk beside an ink bottle and a blotter, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "tiruvalangadu_plates",
+  "look": "C",
+  "file": "EP11_073_N03q05_tiruvalangadu_plates.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a very large bundle of copper plates with a massive ring and seal, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "chola_seal_closeup",
+  "look": "C",
+  "file": "EP11_074_N03q05_chola_seal_closeup.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of a round royal bronze seal showing a seated tiger, two fish and a bow under a parasol, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "victory_pillar_gate",
+  "look": "D",
+  "file": "EP11_075_N03q06_victory_pillar_gate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a tall wooden victory pillar on a platform outside a city gate, its top lost in dark sky and smoke, crowd silhouettes seen from behind. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "crowd_torches_gate",
+  "look": "D",
+  "file": "EP11_076_N03q06_crowd_torches_gate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: townspeople seen from behind with torches looking up toward a palace gate at dusk. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "engraver_hands_copper",
+  "look": "L",
+  "file": "EP11_077_N03q07_engraver_hands_copper.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old engraver's hands incising script on a copper plate with a fine chisel and a small hammer. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "plates_threaded_ring",
+  "look": "L",
+  "file": "EP11_078_N03q07_plates_threaded_ring.jpg",
+  "prompt": "Wide 16:9 cinematic film still: hands threading finished copper plates onto a thick ring. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 79,
+  "clip": "N03",
+  "q": 7,
+  "k": 2,
+  "name": "old_poet_dictates",
+  "look": "L",
+  "file": "EP11_079_N03q07_old_poet_dictates.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old court poet seen from behind dictating to seated scribes in a grand pillared hall. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "village_dig_1987",
+  "look": "T",
+  "file": "EP11_080_N03q08_village_dig_1987.jpg",
+  "prompt": "Wide 16:9 cinematic film still: villagers and workers seen from behind digging in red earth beside the wall of a small village temple, rural Tamil Nadu in the 1980s. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "plates_lifted_from_pit",
+  "look": "T",
+  "file": "EP11_081_N03q08_plates_lifted_from_pit.jpg",
+  "prompt": "Wide 16:9 cinematic film still: hands lifting a soil-crusted bundle of copper plates out of a pit of red earth. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N03",
+  "q": 8,
+  "k": 2,
+  "name": "plates_on_cloth_soil",
+  "look": "T",
+  "file": "EP11_082_N03q08_plates_on_cloth_soil.jpg",
+  "prompt": "Wide 16:9 cinematic film still: soil-covered copper plates with a ring and seal laid on a white cloth, a brush clearing the earth. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N03",
+  "q": 9,
+  "k": 0,
+  "name": "cleaned_plate_brush",
+  "look": "C",
+  "file": "EP11_083_N03q09_cleaned_plate_brush.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a cleaned copper plate under a lamp, a hand with a soft brush. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 84,
+  "clip": "N03",
+  "q": 9,
+  "k": 1,
+  "name": "two_photos_compared",
+  "look": "A",
+  "file": "EP11_084_N03q09_two_photos_compared.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an archaeologist's hands comparing two photographs of copper plates side by side on a desk. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N03",
+  "q": 10,
+  "k": 0,
+  "name": "two_bundles_side",
+  "look": "C",
+  "file": "EP11_085_N03q10_two_bundles_side.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two bundles of copper plates side by side on dark cloth, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N03",
+  "q": 11,
+  "k": 0,
+  "name": "seminar_table_hands",
+  "look": "A",
+  "file": "EP11_086_N03q11_seminar_table_hands.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a seminar table with several scholars' hands, papers and photographs of copper plates. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N03",
+  "q": 11,
+  "k": 1,
+  "name": "journal_with_glasses",
+  "look": "A",
+  "file": "EP11_087_N03q11_journal_with_glasses.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an open academic journal with photographic plates of inscriptions, reading glasses resting on the page, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 88,
+  "clip": "N03",
+  "q": 12,
+  "k": 0,
+  "name": "elephants_clash",
+  "look": "W",
+  "file": "EP11_088_N03q12_elephants_clash.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two royal war elephants with howdahs clashing in dust, seen from far away. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 89,
+  "clip": "N03",
+  "q": 12,
+  "k": 1,
+  "name": "fallen_parasol",
+  "look": "W",
+  "file": "EP11_089_N03q12_fallen_parasol.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fallen royal parasol on a battlefield at dusk, no bodies, no people. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N03",
+  "q": 13,
+  "k": 0,
+  "name": "pole_red_sky",
+  "look": "D",
+  "file": "EP11_090_N03q13_pole_red_sky.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a city gate and a tall pole in silhouette against a red sky, crows circling, nothing else visible. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 91,
+  "clip": "N03",
+  "q": 13,
+  "k": 1,
+  "name": "courtiers_turn_away",
+  "look": "L",
+  "file": "EP11_091_N03q13_courtiers_turn_away.jpg",
+  "prompt": "Wide 16:9 cinematic film still: courtiers seen from behind in a palace hall turning their heads away, uneasy. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N03",
+  "q": 14,
+  "k": 0,
+  "name": "ministers_whisper",
+  "look": "P",
+  "file": "EP11_092_N03q14_ministers_whisper.jpg",
+  "prompt": "Wide 16:9 cinematic film still: old ministers in white seen from behind whispering in a stone colonnade. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 93,
+  "clip": "N03",
+  "q": 14,
+  "k": 1,
+  "name": "palm_leaf_code",
+  "look": "C",
+  "file": "EP11_093_N03q14_palm_leaf_code.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a palm-leaf manuscript and an iron stylus on dark wood, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N03",
+  "q": 15,
+  "k": 0,
+  "name": "pandya_oath_swords",
+  "look": "L",
+  "file": "EP11_094_N03q15_pandya_oath_swords.jpg",
+  "prompt": "Wide 16:9 cinematic film still: warriors seen from behind kneeling in a dark shrine, their swords laid on the floor before a lamp. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N03",
+  "q": 15,
+  "k": 1,
+  "name": "hands_over_hilts",
+  "look": "L",
+  "file": "EP11_095_N03q15_hands_over_hilts.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of hands clasped over sword hilts above a lamp flame. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N03",
+  "q": 16,
+  "k": 0,
+  "name": "watcher_in_doorway",
+  "look": "D",
+  "file": "EP11_096_N03q16_watcher_in_doorway.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a lone man seen from behind in a dark doorway watching tiger banners pass along a street. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 97,
+  "clip": "N03",
+  "q": 17,
+  "k": 0,
+  "name": "fish_banner_in_chest",
+  "look": "L",
+  "file": "EP11_097_N03q17_fish_banner_in_chest.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two hands folding a torn twin-fish banner into a wooden chest. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "harvest_near_temple",
+  "look": "P",
+  "file": "EP11_098_N04q00_harvest_near_temple.jpg",
+  "prompt": "Wide 16:9 cinematic film still: paddy fields being harvested near a small granite temple, farmers seen from behind. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N04",
+  "q": 0,
+  "k": 1,
+  "name": "carver_adds_inscription",
+  "look": "P",
+  "file": "EP11_099_N04q00_carver_adds_inscription.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stone carver seen from behind adding a new inscription to a temple wall beside several older ones. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "lines_stop_blank",
+  "look": "S",
+  "file": "EP11_100_N04q01_lines_stop_blank.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a granite temple wall where rows of carved lines stop and the stone is left blank, a chisel left on the ledge. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "messenger_night_rain",
+  "look": "L",
+  "file": "EP11_101_N04q02_messenger_night_rain.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a messenger on horseback galloping through rain at night carrying a torch. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "palace_alarm_lamps",
+  "look": "L",
+  "file": "EP11_102_N04q02_palace_alarm_lamps.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a palace at night, lamps being lit in a hurry, guards running along a corridor, seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N04",
+  "q": 2,
+  "k": 2,
+  "name": "two_books_two_dates",
+  "look": "A",
+  "file": "EP11_103_N04q02_two_books_two_dates.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a scholar's hands on a desk with two open history books and a notebook between them. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "sword_diadem_white_cloth",
+  "look": "L",
+  "file": "EP11_104_N04q03_sword_diadem_white_cloth.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a prince's sword and diadem laid on a white cloth strewn with flowers, one lamp, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 105,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "quiet_plain_egrets",
+  "look": "P",
+  "file": "EP11_105_N04q04_quiet_plain_egrets.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a quiet empty plain with egrets and grazing cattle, no army, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 106,
+  "clip": "N04",
+  "q": 4,
+  "k": 1,
+  "name": "rolled_banners_store",
+  "look": "L",
+  "file": "EP11_106_N04q04_rolled_banners_store.jpg",
+  "prompt": "Wide 16:9 cinematic film still: rolled tiger banners and war drums stored against a wall in a quiet storeroom, cobwebs, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 107,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "armoury_unused_spears",
+  "look": "L",
+  "file": "EP11_107_N04q05_armoury_unused_spears.jpg",
+  "prompt": "Wide 16:9 cinematic film still: racks of unused spears and shields in a quiet armoury, dust in a shaft of light, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 108,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "poet_and_scribe",
+  "look": "L",
+  "file": "EP11_108_N04q05_poet_and_scribe.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a court poet seen from behind composing while a scribe waits with a stylus. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 109,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "hero_stone_garlanded",
+  "look": "P",
+  "file": "EP11_109_N04q06_hero_stone_garlanded.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old memorial hero stone with a carved warrior relief, garlanded with flowers, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 110,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "prince_on_elephant_battle",
+  "look": "W",
+  "file": "EP11_110_N04q06_prince_on_elephant_battle.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a prince's silhouette on a war elephant in the thick of battle, arrows in the air, seen from far behind. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "empty_howdah_dusk",
+  "look": "W",
+  "file": "EP11_111_N04q07_empty_howdah_dusk.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty howdah on a kneeling war elephant at dusk, no people. Battlefield haze at dusk, tenth-century South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "blank_granite_gecko",
+  "look": "S",
+  "file": "EP11_112_N04q08_blank_granite_gecko.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a blank stretch of granite temple wall with a small gecko, nothing carved. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "chola_country_aerial",
+  "look": "P",
+  "file": "EP11_113_N04q09_chola_country_aerial.jpg",
+  "prompt": "Wide 16:9 cinematic film still: high painterly view of a river delta country with temples, forts and villages, clouds drifting, nothing marked. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N04",
+  "q": 9,
+  "k": 1,
+  "name": "sword_dark_cloth",
+  "look": "X",
+  "file": "EP11_114_N04q09_sword_dark_cloth.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a straight sword lying on dark cloth, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N04",
+  "q": 10,
+  "k": 0,
+  "name": "cup_and_betel_tray",
+  "look": "X",
+  "file": "EP11_115_N04q10_cup_and_betel_tray.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small brass cup of dark liquid beside a spilled betel tray, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 116,
+  "clip": "N04",
+  "q": 11,
+  "k": 0,
+  "name": "door_ajar_curtain",
+  "look": "L",
+  "file": "EP11_116_N04q11_door_ajar_curtain.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty chamber, one lamp, a curtain moving, a door left ajar, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N04",
+  "q": 11,
+  "k": 1,
+  "name": "magazine_palace_illustration",
+  "look": "K",
+  "file": "EP11_117_N04q11_magazine_palace_illustration.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old 1950s magazine open on a table showing an ink illustration of a palace, reading glasses beside it, no people. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N04",
+  "q": 11,
+  "k": 2,
+  "name": "storybook_palace_night",
+  "look": "N",
+  "file": "EP11_118_N04q11_storybook_palace_night.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a romantic palace at night with lamps in every window, moon over towers. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N04",
+  "q": 12,
+  "k": 0,
+  "name": "hand_on_bare_wall",
+  "look": "S",
+  "file": "EP11_119_N04q12_hand_on_bare_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a hand resting on a carved granite inscription wall. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N04",
+  "q": 12,
+  "k": 1,
+  "name": "emperor_court_pillar",
+  "look": "L",
+  "file": "EP11_120_N04q12_emperor_court_pillar.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a grand royal court seen from behind a pillar, an emperor's silhouette on the throne, rows of courtiers. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N04",
+  "q": 12,
+  "k": 2,
+  "name": "engraver_copper_two",
+  "look": "L",
+  "file": "EP11_121_N04q12_engraver_copper_two.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an engraver's hands cutting script into a copper plate, curls of copper. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 122,
+  "clip": "N04",
+  "q": 13,
+  "k": 0,
+  "name": "big_seal_ring",
+  "look": "C",
+  "file": "EP11_122_N04q13_big_seal_ring.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a massive copper ring and royal seal holding a thick stack of copper plates, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N04",
+  "q": 14,
+  "k": 0,
+  "name": "one_line_glows",
+  "look": "C",
+  "file": "EP11_123_N04q14_one_line_glows.jpg",
+  "prompt": "Wide 16:9 cinematic film still: macro of one engraved line on a copper plate catching the lamp light. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N04",
+  "q": 14,
+  "k": 1,
+  "name": "pyre_smoke_river",
+  "look": "D",
+  "file": "EP11_124_N04q14_pyre_smoke_river.jpg",
+  "prompt": "Wide 16:9 cinematic film still: smoke rising into an evening sky above a river bank, royal parasols lowered, mourners far away and seen from behind. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N04",
+  "q": 15,
+  "k": 0,
+  "name": "stars_over_tower",
+  "look": "D",
+  "file": "EP11_125_N04q15_stars_over_tower.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a night sky full of stars above the silhouette of a small temple tower, no people. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N04",
+  "q": 16,
+  "k": 0,
+  "name": "plates_tied_lamp_out",
+  "look": "C",
+  "file": "EP11_126_N04q16_plates_tied_lamp_out.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a bundle of copper plates tied with cord beside an oil lamp that has just gone out, a thread of smoke. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N04",
+  "q": 16,
+  "k": 1,
+  "name": "scribe_hand_stopped",
+  "look": "L",
+  "file": "EP11_127_N04q16_scribe_hand_stopped.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a royal scribe's hand pausing with a stylus above a palm leaf while an elder's raised hand stops him. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 128,
+  "clip": "N04",
+  "q": 17,
+  "k": 0,
+  "name": "finger_next_line",
+  "look": "C",
+  "file": "EP11_128_N04q17_finger_next_line.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fingertip moving down to the next engraved line of a copper plate. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 129,
+  "clip": "N04",
+  "q": 17,
+  "k": 1,
+  "name": "throne_two_shadows",
+  "look": "L",
+  "file": "EP11_129_N04q17_throne_two_shadows.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty lion throne with two shadows falling toward it from opposite sides of the hall. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 130,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "copper_plate_lamp",
+  "look": "C",
+  "file": "EP11_130_N05q00_copper_plate_lamp.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a copper plate propped beside an oil lamp, engraved lines glinting, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 131,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "crowd_arms_raised",
+  "look": "P",
+  "file": "EP11_131_N05q01_crowd_arms_raised.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a crowd of townspeople seen from behind below a palace balcony, arms raised. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 132,
+  "clip": "N05",
+  "q": 1,
+  "k": 1,
+  "name": "young_prince_balcony",
+  "look": "P",
+  "file": "EP11_132_N05q01_young_prince_balcony.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young prince seen from behind on a palace balcony facing a crowd. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 133,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "prince_steps_back",
+  "look": "L",
+  "file": "EP11_133_N05q02_prince_steps_back.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young prince seen from behind stepping back from a throne dais, head bowed. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 134,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "older_noble_near_throne",
+  "look": "L",
+  "file": "EP11_134_N05q02_older_noble_near_throne.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the silhouette of an older nobleman seen from behind standing close to a throne. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 135,
+  "clip": "N05",
+  "q": 2,
+  "k": 2,
+  "name": "hands_folded_respect",
+  "look": "L",
+  "file": "EP11_135_N05q02_hands_folded_respect.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young man's hands folded in respect, gold bangles. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 136,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "uttama_in_shrine",
+  "look": "L",
+  "file": "EP11_136_N05q03_uttama_in_shrine.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a mature prince seen from behind in a Shiva shrine, ash on his shoulders, rudraksha beads, hands folded. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 137,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "temple_corridor_priests",
+  "look": "P",
+  "file": "EP11_137_N05q03_temple_corridor_priests.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a royal devotee seen from behind walking a granite temple corridor with priests. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 138,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "queen_builds_temple",
+  "look": "P",
+  "file": "EP11_138_N05q04_queen_builds_temple.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an elderly queen in plain white seen from behind watching masons build a small granite temple. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 139,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "pious_king_nataraja",
+  "look": "L",
+  "file": "EP11_139_N05q04_pious_king_nataraja.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a pious old king seen from behind singing before a bronze dancing Shiva, lamps. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 140,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "bronze_figurines_tree",
+  "look": "X",
+  "file": "EP11_140_N05q05_bronze_figurines_tree.jpg",
+  "prompt": "Wide 16:9 cinematic film still: small bronze figurines of kings arranged in two branching rows on a wooden table like a family tree, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 141,
+  "clip": "N05",
+  "q": 5,
+  "k": 1,
+  "name": "child_empty_throne",
+  "look": "L",
+  "file": "EP11_141_N05q05_child_empty_throne.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small child seen from behind beside an empty throne much too big for him. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 142,
+  "clip": "N05",
+  "q": 5,
+  "k": 2,
+  "name": "crown_carried_past",
+  "look": "L",
+  "file": "EP11_142_N05q05_crown_carried_past.jpg",
+  "prompt": "Wide 16:9 cinematic film still: hands carrying a crown on a cushion past a child toward another man. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 143,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "empty_prince_seat",
+  "look": "L",
+  "file": "EP11_143_N05q06_empty_prince_seat.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the crown prince's seat standing empty beside the king's throne, a folded silk cloth on it, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 144,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "coronation_from_behind",
+  "look": "L",
+  "file": "EP11_144_N05q07_coronation_from_behind.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a coronation seen from behind, a man seated on the lion throne under a parasol, priests pouring sacred water, courtiers. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 145,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "prince_edge_of_court",
+  "look": "L",
+  "file": "EP11_145_N05q08_prince_edge_of_court.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young prince seen from behind at the edge of the court among pillars, watching. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 146,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "sword_practice_dawn",
+  "look": "P",
+  "file": "EP11_146_N05q08_sword_practice_dawn.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young prince seen from behind practising with a sword alone in a courtyard at dawn. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 147,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "monsoon_palace_roofs",
+  "look": "P",
+  "file": "EP11_147_N05q09_monsoon_palace_roofs.jpg",
+  "prompt": "Wide 16:9 cinematic film still: monsoon rain on tiled palace roofs, a large courtyard tree, seasons passing, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 148,
+  "clip": "N05",
+  "q": 10,
+  "k": 0,
+  "name": "golden_palace_kanchi",
+  "look": "D",
+  "file": "EP11_148_N05q10_golden_palace_kanchi.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a palace with gilded roof finials glowing at sunset among temple towers. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 149,
+  "clip": "N05",
+  "q": 10,
+  "k": 1,
+  "name": "aging_king_window",
+  "look": "L",
+  "file": "EP11_149_N05q10_aging_king_window.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an aging king seen from behind on a couch looking out of a window, a frail hand on a cane. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 150,
+  "clip": "N05",
+  "q": 10,
+  "k": 2,
+  "name": "bedchamber_attendants",
+  "look": "L",
+  "file": "EP11_150_N05q10_bedchamber_attendants.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a royal bedchamber, silhouettes of physicians and attendants, many lamps. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 151,
+  "clip": "N05",
+  "q": 11,
+  "k": 0,
+  "name": "gilded_pillars_empty_couch",
+  "look": "L",
+  "file": "EP11_151_N05q11_gilded_pillars_empty_couch.jpg",
+  "prompt": "Wide 16:9 cinematic film still: gilded pillars and an empty royal couch draped in white cloth, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 152,
+  "clip": "N05",
+  "q": 11,
+  "k": 1,
+  "name": "inscription_line_wall",
+  "look": "S",
+  "file": "EP11_152_N05q11_inscription_line_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: one carved inscription line on a temple wall, side light. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 153,
+  "clip": "N05",
+  "q": 12,
+  "k": 0,
+  "name": "far_pyre_riverbank",
+  "look": "D",
+  "file": "EP11_153_N05q12_far_pyre_riverbank.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a royal funeral pyre on a riverbank at dusk seen from very far away, tiny silhouettes, smoke. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 154,
+  "clip": "N05",
+  "q": 12,
+  "k": 1,
+  "name": "bangles_veil_steps",
+  "look": "D",
+  "file": "EP11_154_N05q12_bangles_veil_steps.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a queen's gold bangles and a silk veil left on stone steps by the water with scattered flowers, no people. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 155,
+  "clip": "N05",
+  "q": 13,
+  "k": 0,
+  "name": "three_lamps_two_out",
+  "look": "X",
+  "file": "EP11_155_N05q13_three_lamps_two_out.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three oil lamps in a row, two gone out and smoking, one still burning, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 156,
+  "clip": "N05",
+  "q": 13,
+  "k": 1,
+  "name": "empty_courtyard_toy_sword",
+  "look": "P",
+  "file": "EP11_156_N05q13_empty_courtyard_toy_sword.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty family courtyard, a child's wooden sword left on the steps, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 157,
+  "clip": "N05",
+  "q": 14,
+  "k": 0,
+  "name": "sister_brother_terrace",
+  "look": "D",
+  "file": "EP11_157_N05q14_sister_brother_terrace.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a sister and her younger brother seen from behind on a palace terrace at dusk, her hand on his shoulder. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 158,
+  "clip": "N05",
+  "q": 15,
+  "k": 0,
+  "name": "throne_occupied_silhouette",
+  "look": "L",
+  "file": "EP11_158_N05q15_throne_occupied_silhouette.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a lion throne occupied by a dark silhouette under a parasol. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 159,
+  "clip": "N05",
+  "q": 15,
+  "k": 1,
+  "name": "throne_shadow_reaches",
+  "look": "L",
+  "file": "EP11_159_N05q15_throne_shadow_reaches.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the long shadow of a throne reaching across the floor to an empty seat. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 160,
+  "clip": "N05",
+  "q": 16,
+  "k": 0,
+  "name": "courtiers_glance",
+  "look": "L",
+  "file": "EP11_160_N05q16_courtiers_glance.jpg",
+  "prompt": "Wide 16:9 cinematic film still: courtiers seen from behind glancing toward the throne and whispering. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 161,
+  "clip": "N05",
+  "q": 17,
+  "k": 0,
+  "name": "scales_one_empty",
+  "look": "X",
+  "file": "EP11_161_N05q17_scales_one_empty.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a pair of bronze scales in lamp light, one pan empty, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 162,
+  "clip": "N05",
+  "q": 17,
+  "k": 1,
+  "name": "estampage_brush_wall",
+  "look": "A",
+  "file": "EP11_162_N05q17_estampage_brush_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: hands pressing blank estampage paper onto a carved stone wall with a brush. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 163,
+  "clip": "N05",
+  "q": 18,
+  "k": 0,
+  "name": "temple_monsoon_clouds",
+  "look": "P",
+  "file": "EP11_163_N05q18_temple_monsoon_clouds.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small granite temple under heavy monsoon clouds, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 164,
+  "clip": "N05",
+  "q": 18,
+  "k": 1,
+  "name": "inscription_wall_rain",
+  "look": "S",
+  "file": "EP11_164_N05q18_inscription_wall_rain.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an inscribed granite wall in rain, water running along the carved letters. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 165,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "coronation_procession",
+  "look": "P",
+  "file": "EP11_165_N06q00_coronation_procession.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a coronation procession, a royal elephant with howdah and parasols moving through a crowded street, crowd seen from behind. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 166,
+  "clip": "N06",
+  "q": 0,
+  "k": 1,
+  "name": "sacred_water_king",
+  "look": "L",
+  "file": "EP11_166_N06q00_sacred_water_king.jpg",
+  "prompt": "Wide 16:9 cinematic film still: sacred water being poured over a seated king seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 167,
+  "clip": "N06",
+  "q": 0,
+  "k": 2,
+  "name": "king_receives_sword",
+  "look": "L",
+  "file": "EP11_167_N06q00_king_receives_sword.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a king's hands receiving a ceremonial sword. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 168,
+  "clip": "N06",
+  "q": 0,
+  "k": 3,
+  "name": "tiger_banner_palace_gate",
+  "look": "P",
+  "file": "EP11_168_N06q00_tiger_banner_palace_gate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a tiger banner being raised above a palace gate, drummers seen from behind. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 169,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "scribes_in_row",
+  "look": "L",
+  "file": "EP11_169_N06q01_scribes_in_row.jpg",
+  "prompt": "Wide 16:9 cinematic film still: royal scribes seated in a row writing on palm leaves, seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 170,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "brahmin_village_street",
+  "look": "P",
+  "file": "EP11_170_N06q02_brahmin_village_street.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a tenth-century village of thatched and tiled houses along one straight street leading to a small temple, a canal, palms. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 171,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "veeranam_lake_sunrise",
+  "look": "T",
+  "file": "EP11_171_N06q03_veeranam_lake_sunrise.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a vast lake at sunrise with a long earthen bund and one small fishing boat. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 172,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "town_street_temple_today",
+  "look": "T",
+  "file": "EP11_172_N06q03_town_street_temple_today.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a present-day small-town street leading to a temple tower, bicycles and a tea stall, people seen from behind. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 173,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "ananteeswarar_exterior",
+  "look": "T",
+  "file": "EP11_173_N06q04_ananteeswarar_exterior.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the exterior of a small old granite Shiva temple with a low tower and a compound wall, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 174,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "inscribed_base_mouldings",
+  "look": "T",
+  "file": "EP11_174_N06q05_inscribed_base_mouldings.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the long moulded base of a shrine wall covered with carved inscription lines, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 175,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "first_line_left_edge",
+  "look": "S",
+  "file": "EP11_175_N06q06_first_line_left_edge.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the first carved line of an inscription at the left edge of a granite wall, side light. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 176,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "carver_scribe_copying",
+  "look": "P",
+  "file": "EP11_176_N06q06_carver_scribe_copying.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stone carver seen from behind with a chisel at a temple wall while a scribe holds up a palm leaf to copy from. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 177,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "messenger_elders_tree",
+  "look": "P",
+  "file": "EP11_177_N06q07_messenger_elders_tree.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a royal messenger seen from behind handing a sealed palm-leaf order to village elders seated under a tree. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 178,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "elders_letter_on_head",
+  "look": "P",
+  "file": "EP11_178_N06q07_elders_letter_on_head.jpg",
+  "prompt": "Wide 16:9 cinematic film still: village elders seen from behind rising to receive a royal letter with respect. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 179,
+  "clip": "N06",
+  "q": 8,
+  "k": 0,
+  "name": "finger_nears_line",
+  "look": "S",
+  "file": "EP11_179_N06q08_finger_nears_line.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fingertip approaching one line of a carved inscription. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 180,
+  "clip": "N06",
+  "q": 9,
+  "k": 0,
+  "name": "side_lit_close",
+  "look": "S",
+  "file": "EP11_180_N06q09_side_lit_close.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a carved line of ancient script lit hard from the side, deep shadows in every stroke. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 181,
+  "clip": "N06",
+  "q": 9,
+  "k": 1,
+  "name": "estampage_white_on_black",
+  "look": "A",
+  "file": "EP11_181_N06q09_estampage_white_on_black.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an inked estampage, white characters on black, lifted into the light by two hands. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 182,
+  "clip": "N06",
+  "q": 10,
+  "k": 0,
+  "name": "flaked_granite_lost_letters",
+  "look": "S",
+  "file": "EP11_182_N06q10_flaked_granite_lost_letters.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a damaged, flaked patch of granite where carved letters are lost. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 183,
+  "clip": "N06",
+  "q": 10,
+  "k": 1,
+  "name": "fingers_on_broken_edge",
+  "look": "S",
+  "file": "EP11_183_N06q10_fingers_on_broken_edge.jpg",
+  "prompt": "Wide 16:9 cinematic film still: fingers touching the broken edge of a damaged inscription. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 184,
+  "clip": "N06",
+  "q": 11,
+  "k": 0,
+  "name": "official_with_documents",
+  "look": "L",
+  "file": "EP11_184_N06q11_official_with_documents.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a high official seen from behind in fine cloth with a sacred thread and gold ear-rings carrying palm-leaf documents through a palace hall. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 185,
+  "clip": "N06",
+  "q": 11,
+  "k": 1,
+  "name": "official_in_doorway",
+  "look": "L",
+  "file": "EP11_185_N06q11_official_in_doorway.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the silhouette of an official standing in a carved palace doorway. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 186,
+  "clip": "N06",
+  "q": 12,
+  "k": 0,
+  "name": "official_near_royal_seat",
+  "look": "L",
+  "file": "EP11_186_N06q12_official_near_royal_seat.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an official seen from behind standing near a royal seat holding a staff of office. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 187,
+  "clip": "N06",
+  "q": 12,
+  "k": 1,
+  "name": "official_past_guards",
+  "look": "P",
+  "file": "EP11_187_N06q12_official_past_guards.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an official seen from behind walking past saluting palace guards. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 188,
+  "clip": "N06",
+  "q": 13,
+  "k": 0,
+  "name": "three_at_lamp",
+  "look": "L",
+  "file": "EP11_188_N06q13_three_at_lamp.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three male silhouettes gathered close around a single lamp, no faces. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 189,
+  "clip": "N06",
+  "q": 14,
+  "k": 0,
+  "name": "king_presents_silk_ring",
+  "look": "L",
+  "file": "EP11_189_N06q14_king_presents_silk_ring.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a king's hands presenting a gold-bordered silk and a signet ring to a kneeling official seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 190,
+  "clip": "N06",
+  "q": 14,
+  "k": 1,
+  "name": "signet_ring_palm_leaf",
+  "look": "C",
+  "file": "EP11_190_N06q14_signet_ring_palm_leaf.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a gold signet ring resting on a palm-leaf order, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 191,
+  "clip": "N06",
+  "q": 15,
+  "k": 0,
+  "name": "council_near_throne",
+  "look": "L",
+  "file": "EP11_191_N06q15_council_near_throne.jpg",
+  "prompt": "Wide 16:9 cinematic film still: officials seen from behind seated close to the throne in council. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 192,
+  "clip": "N06",
+  "q": 15,
+  "k": 1,
+  "name": "inner_corridor_unchallenged",
+  "look": "L",
+  "file": "EP11_192_N06q15_inner_corridor_unchallenged.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an official seen from behind walking unchallenged past guards into the inner corridor of a palace. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 193,
+  "clip": "N06",
+  "q": 16,
+  "k": 0,
+  "name": "two_stretches_lit",
+  "look": "S",
+  "file": "EP11_193_N06q16_two_stretches_lit.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two short stretches of a carved inscription picked out by light, the rest dark. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 194,
+  "clip": "N06",
+  "q": 17,
+  "k": 0,
+  "name": "tiger_banner_wind",
+  "look": "P",
+  "file": "EP11_194_N06q17_tiger_banner_wind.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a banner with a tiger emblem snapping in the wind against the sky, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 195,
+  "clip": "N06",
+  "q": 18,
+  "k": 0,
+  "name": "fish_banner_wind",
+  "look": "P",
+  "file": "EP11_195_N06q18_fish_banner_wind.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a banner with a twin-fish emblem snapping in the wind against the sky, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 196,
+  "clip": "N06",
+  "q": 19,
+  "k": 0,
+  "name": "two_seals_side_by_side",
+  "look": "C",
+  "file": "EP11_196_N06q19_two_seals_side_by_side.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two signet seals side by side on a table, one with a tiger, one with twin fish, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 197,
+  "clip": "N06",
+  "q": 19,
+  "k": 1,
+  "name": "brothers_family_meal",
+  "look": "L",
+  "file": "EP11_197_N06q19_brothers_family_meal.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three brothers seen from behind sharing a meal on the floor of a house by lamp light. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 198,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "land_records_rod",
+  "look": "C",
+  "file": "EP11_198_N07q00_land_records_rod.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a pile of palm-leaf land records tied with string beside a wooden measuring rod, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 199,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "inscription_wide_again",
+  "look": "S",
+  "file": "EP11_199_N07q00_inscription_wide_again.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a long carved inscription across a granite wall, many lines, even light. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 200,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "officers_seal_door",
+  "look": "P",
+  "file": "EP11_200_N07q01_officers_seal_door.jpg",
+  "prompt": "Wide 16:9 cinematic film still: royal officers seen from behind sealing the door of a large tiled house with rope and a clay seal. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 201,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "boundary_stone_field",
+  "look": "P",
+  "file": "EP11_201_N07q01_boundary_stone_field.jpg",
+  "prompt": "Wide 16:9 cinematic film still: officers seen from behind planting a boundary stone at the edge of a paddy field. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 202,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "street_sealed_doors",
+  "look": "P",
+  "file": "EP11_202_N07q02_street_sealed_doors.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a village street of houses with sealed doors, empty, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 203,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "family_leaves_house",
+  "look": "P",
+  "file": "EP11_203_N07q03_family_leaves_house.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a family seen from behind leaving a house with cloth bundles, men, women and children walking down a village street. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 204,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "child_hand_bundle",
+  "look": "P",
+  "file": "EP11_204_N07q03_child_hand_bundle.jpg",
+  "prompt": "Wide 16:9 cinematic film still: close-up of a child's hand held by an adult, a cloth bundle in the other hand. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 205,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "elders_on_verandah",
+  "look": "P",
+  "file": "EP11_205_N07q04_elders_on_verandah.jpg",
+  "prompt": "Wide 16:9 cinematic film still: elderly men seen from behind seated on a verandah while an officer reads out an order. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 206,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "keys_handed_over",
+  "look": "P",
+  "file": "EP11_206_N07q04_keys_handed_over.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old man's hands giving a bunch of iron house keys to an officer's hand. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 207,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "festooned_door_sealed",
+  "look": "P",
+  "file": "EP11_207_N07q05_festooned_door_sealed.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a doorway decorated with mango leaves and a wedding kolam, now closed with a clay seal, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 208,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "carts_leave_dusk",
+  "look": "D",
+  "file": "EP11_208_N07q05_carts_leave_dusk.jpg",
+  "prompt": "Wide 16:9 cinematic film still: carts loaded with household goods leaving a village at dusk, seen from behind. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 209,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "banyan_many_roots",
+  "look": "P",
+  "file": "EP11_209_N07q06_banyan_many_roots.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a huge banyan tree with many hanging roots, a small village beneath it, storm light, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 210,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "two_officials_ledgers",
+  "look": "P",
+  "file": "EP11_210_N07q07_two_officials_ledgers.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two officials seen from behind seated under a canopy with palm-leaf ledgers, villagers waiting. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 211,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "measuring_rod_paddy",
+  "look": "P",
+  "file": "EP11_211_N07q07_measuring_rod_paddy.jpg",
+  "prompt": "Wide 16:9 cinematic film still: men seen from behind pacing a paddy field with a long measuring rod. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 212,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "paddy_fields_aerial",
+  "look": "P",
+  "file": "EP11_212_N07q08_paddy_fields_aerial.jpg",
+  "prompt": "Wide 16:9 cinematic film still: aerial view of green paddy fields divided by bunds beside a canal, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 213,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "rope_along_bund",
+  "look": "P",
+  "file": "EP11_213_N07q08_rope_along_bund.jpg",
+  "prompt": "Wide 16:9 cinematic film still: surveyors' hands stretching a measuring rope along a field bund. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 214,
+  "clip": "N07",
+  "q": 8,
+  "k": 2,
+  "name": "six_house_plots",
+  "look": "P",
+  "file": "EP11_214_N07q08_six_house_plots.jpg",
+  "prompt": "Wide 16:9 cinematic film still: six empty house plots in a row with low mud walls along a village street, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 215,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "mother_son_boy_look_back",
+  "look": "P",
+  "file": "EP11_215_N07q09_mother_son_boy_look_back.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an elderly mother, a man and a boy seen from behind looking back at their house from the end of the street. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 216,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "empty_verandah_tulsi",
+  "look": "P",
+  "file": "EP11_216_N07q09_empty_verandah_tulsi.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the empty verandah of a tiled house with a tulsi planter, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 217,
+  "clip": "N07",
+  "q": 9,
+  "k": 2,
+  "name": "old_hand_door_frame",
+  "look": "P",
+  "file": "EP11_217_N07q09_old_hand_door_frame.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old woman's hand resting on a wooden door frame. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 218,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "chieftain_arrives",
+  "look": "P",
+  "file": "EP11_218_N07q10_chieftain_arrives.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a wealthy chieftain seen from behind arriving on horseback with attendants and a parasol. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 219,
+  "clip": "N07",
+  "q": 10,
+  "k": 1,
+  "name": "document_before_assembly",
+  "look": "P",
+  "file": "EP11_219_N07q10_document_before_assembly.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a hand with gold rings placing a palm-leaf document before seated village elders. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 220,
+  "clip": "N07",
+  "q": 11,
+  "k": 0,
+  "name": "gold_weighed_scale",
+  "look": "C",
+  "file": "EP11_220_N07q11_gold_weighed_scale.jpg",
+  "prompt": "Wide 16:9 cinematic film still: small pieces of gold being weighed on a little balance scale by hands on a cloth. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 221,
+  "clip": "N07",
+  "q": 12,
+  "k": 0,
+  "name": "donor_bows_shrine",
+  "look": "P",
+  "file": "EP11_221_N07q12_donor_bows_shrine.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a chieftain seen from behind bowing before a temple shrine and pouring water from a small vessel as a gift. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 222,
+  "clip": "N07",
+  "q": 13,
+  "k": 0,
+  "name": "feeding_rows_verandah",
+  "look": "P",
+  "file": "EP11_222_N07q13_feeding_rows_verandah.jpg",
+  "prompt": "Wide 16:9 cinematic film still: rows of men seated cross-legged on a temple verandah eating from banana leaves, seen from behind. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 223,
+  "clip": "N07",
+  "q": 13,
+  "k": 1,
+  "name": "ascetics_receive_food",
+  "look": "P",
+  "file": "EP11_223_N07q13_ascetics_receive_food.jpg",
+  "prompt": "Wide 16:9 cinematic film still: ascetics with matted hair and ash-smeared shoulders seen from behind receiving food. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 224,
+  "clip": "N07",
+  "q": 14,
+  "k": 0,
+  "name": "rice_vessels_kitchen",
+  "look": "L",
+  "file": "EP11_224_N07q14_rice_vessels_kitchen.jpg",
+  "prompt": "Wide 16:9 cinematic film still: large brass vessels of cooked rice in a temple kitchen, steam, cooks' hands. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 225,
+  "clip": "N07",
+  "q": 14,
+  "k": 1,
+  "name": "water_poured_travellers",
+  "look": "P",
+  "file": "EP11_225_N07q14_water_poured_travellers.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a man pouring drinking water from a clay pot for travellers at a temple water shed, hands and backs only. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 226,
+  "clip": "N07",
+  "q": 15,
+  "k": 0,
+  "name": "carver_finishes_donor",
+  "look": "P",
+  "file": "EP11_226_N07q15_carver_finishes_donor.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stone carver seen from behind finishing an inscription while an attendant watches. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 227,
+  "clip": "N07",
+  "q": 16,
+  "k": 0,
+  "name": "wall_one_line_brighter",
+  "look": "S",
+  "file": "EP11_227_N07q16_wall_one_line_brighter.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a wide inscribed wall with one line faintly brighter than the rest. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 228,
+  "clip": "N07",
+  "q": 17,
+  "k": 0,
+  "name": "three_flee_forest",
+  "look": "D",
+  "file": "EP11_228_N07q17_three_flee_forest.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three hooded figures seen from behind hurrying along a forest path at night with a torch. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 229,
+  "clip": "N07",
+  "q": 17,
+  "k": 1,
+  "name": "empty_shackle_floor",
+  "look": "L",
+  "file": "EP11_229_N07q17_empty_shackle_floor.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty iron shackle and chain on a stone floor, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 230,
+  "clip": "N07",
+  "q": 18,
+  "k": 0,
+  "name": "end_of_text_blank",
+  "look": "S",
+  "file": "EP11_230_N07q18_end_of_text_blank.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the end of a carved text, then blank granite. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 231,
+  "clip": "N08",
+  "q": 0,
+  "k": 0,
+  "name": "journals_estampage_rolls",
+  "look": "A",
+  "file": "EP11_231_N08q00_journals_estampage_rolls.jpg",
+  "prompt": "Wide 16:9 cinematic film still: stacks of old journals and rolled estampages in an archive, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 232,
+  "clip": "N08",
+  "q": 0,
+  "k": 1,
+  "name": "lecture_hall_back",
+  "look": "A",
+  "file": "EP11_232_N08q00_lecture_hall_back.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a lecture hall seen from the back row, scholars seen from behind, a projected photograph of an inscription on the screen. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 233,
+  "clip": "N08",
+  "q": 1,
+  "k": 0,
+  "name": "madras_university_building",
+  "look": "A",
+  "file": "EP11_233_N08q01_madras_university_building.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a 1930s red-brick Indo-Saracenic university building, bicycles and rain trees in front. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 234,
+  "clip": "N08",
+  "q": 1,
+  "k": 1,
+  "name": "scholar_desk_spectacles",
+  "look": "A",
+  "file": "EP11_234_N08q01_scholar_desk_spectacles.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a scholar seen from behind at a desk, round spectacles, shelves of books. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 235,
+  "clip": "N08",
+  "q": 2,
+  "k": 0,
+  "name": "cards_timeline_desk",
+  "look": "A",
+  "file": "EP11_235_N08q02_cards_timeline_desk.jpg",
+  "prompt": "Wide 16:9 cinematic film still: hands laying a row of small index cards along a desk like a timeline. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 236,
+  "clip": "N08",
+  "q": 2,
+  "k": 1,
+  "name": "uttama_throne_routine",
+  "look": "L",
+  "file": "EP11_236_N08q02_uttama_throne_routine.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a king's silhouette on the throne during routine court, petitioners seen from behind. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 237,
+  "clip": "N08",
+  "q": 2,
+  "k": 2,
+  "name": "water_clock_dripping",
+  "look": "L",
+  "file": "EP11_237_N08q02_water_clock_dripping.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a bronze water clock dripping in a palace corridor, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 238,
+  "clip": "N08",
+  "q": 3,
+  "k": 0,
+  "name": "crown_glint_silhouette",
+  "look": "L",
+  "file": "EP11_238_N08q03_crown_glint_silhouette.jpg",
+  "prompt": "Wide 16:9 cinematic film still: light glinting on the crown of a seated silhouette. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 239,
+  "clip": "N08",
+  "q": 4,
+  "k": 0,
+  "name": "pen_underlines",
+  "look": "A",
+  "file": "EP11_239_N08q04_pen_underlines.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fountain pen underlining a sentence on a manuscript page, hand only. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 240,
+  "clip": "N08",
+  "q": 4,
+  "k": 1,
+  "name": "book_pencil_mark",
+  "look": "A",
+  "file": "EP11_240_N08q04_book_pencil_mark.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an open printed history book with a pencil mark in the margin, soft focus, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 241,
+  "clip": "N08",
+  "q": 5,
+  "k": 0,
+  "name": "annamalai_campus",
+  "look": "A",
+  "file": "EP11_241_N08q05_annamalai_campus.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a 1940s university campus building with a clock tower and palm trees. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 242,
+  "clip": "N08",
+  "q": 5,
+  "k": 1,
+  "name": "tamil_scholar_palm_leaves",
+  "look": "A",
+  "file": "EP11_242_N08q05_tamil_scholar_palm_leaves.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a Tamil scholar in a white veshti and shawl seen from behind at a desk with palm-leaf bundles and books. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 243,
+  "clip": "N08",
+  "q": 6,
+  "k": 0,
+  "name": "arulmozhi_bows_uncle",
+  "look": "L",
+  "file": "EP11_243_N08q06_arulmozhi_bows_uncle.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a young prince seen from behind bowing to an older man seated on a throne. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 244,
+  "clip": "N08",
+  "q": 6,
+  "k": 1,
+  "name": "peaceful_festival",
+  "look": "P",
+  "file": "EP11_244_N08q06_peaceful_festival.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a peaceful temple festival procession through a village, farmers and children seen from behind, no soldiers. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 245,
+  "clip": "N08",
+  "q": 6,
+  "k": 2,
+  "name": "bronze_casting_workshop",
+  "look": "L",
+  "file": "EP11_245_N08q06_bronze_casting_workshop.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a bronze-casting workshop, craftsmen's hands finishing a temple bronze. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 246,
+  "clip": "N08",
+  "q": 7,
+  "k": 0,
+  "name": "fish_banner_shadow",
+  "look": "D",
+  "file": "EP11_246_N08q07_fish_banner_shadow.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a twin-fish banner half in shadow. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 247,
+  "clip": "N08",
+  "q": 7,
+  "k": 1,
+  "name": "three_clasp_hands_lamp",
+  "look": "L",
+  "file": "EP11_247_N08q07_three_clasp_hands_lamp.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three men seen from behind in a dim room clasping hands over a lamp. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 248,
+  "clip": "N08",
+  "q": 7,
+  "k": 2,
+  "name": "riders_cross_river",
+  "look": "D",
+  "file": "EP11_248_N08q07_riders_cross_river.jpg",
+  "prompt": "Wide 16:9 cinematic film still: riders seen from behind crossing a river northward at dusk. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 249,
+  "clip": "N08",
+  "q": 8,
+  "k": 0,
+  "name": "college_magazine_typewriter",
+  "look": "A",
+  "file": "EP11_249_N08q08_college_magazine_typewriter.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a 1970s college magazine on a desk beside a typewriter and a glass of tea, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 250,
+  "clip": "N08",
+  "q": 8,
+  "k": 1,
+  "name": "brother_sister_corridor",
+  "look": "L",
+  "file": "EP11_250_N08q08_brother_sister_corridor.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the silhouettes of a brother and sister seen from behind in a palace corridor. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 251,
+  "clip": "N08",
+  "q": 8,
+  "k": 2,
+  "name": "magazine_closed",
+  "look": "A",
+  "file": "EP11_251_N08q08_magazine_closed.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a hand closing a thin magazine on a desk. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 252,
+  "clip": "N08",
+  "q": 9,
+  "k": 0,
+  "name": "empty_folder",
+  "look": "A",
+  "file": "EP11_252_N08q09_empty_folder.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty document folder lying open on a desk, nothing inside, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 253,
+  "clip": "N08",
+  "q": 10,
+  "k": 0,
+  "name": "epigraphist_at_wall",
+  "look": "T",
+  "file": "EP11_253_N08q10_epigraphist_at_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an epigraphist seen from behind crouching at a temple wall with a notebook and a torch. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 254,
+  "clip": "N08",
+  "q": 10,
+  "k": 1,
+  "name": "torch_low_angle_letters",
+  "look": "T",
+  "file": "EP11_254_N08q10_torch_low_angle_letters.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a hand holding a torch at a low angle so that carved letters stand out on granite. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 255,
+  "clip": "N08",
+  "q": 11,
+  "k": 0,
+  "name": "two_areas_lit",
+  "look": "S",
+  "file": "EP11_255_N08q11_two_areas_lit.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a carved wall with two separate areas lit, the join between them in shadow. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 256,
+  "clip": "N08",
+  "q": 11,
+  "k": 1,
+  "name": "notebook_bracket_sketch",
+  "look": "A",
+  "file": "EP11_256_N08q11_notebook_bracket_sketch.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a notebook with a pencil sketch of brackets dividing a block of lines into two parts, hand with pencil. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 257,
+  "clip": "N08",
+  "q": 12,
+  "k": 0,
+  "name": "officers_seal_house_early",
+  "look": "P",
+  "file": "EP11_257_N08q12_officers_seal_house_early.jpg",
+  "prompt": "Wide 16:9 cinematic film still: officers seen from behind sealing a house door with a clay seal. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 258,
+  "clip": "N08",
+  "q": 12,
+  "k": 1,
+  "name": "old_king_raises_hand",
+  "look": "L",
+  "file": "EP11_258_N08q12_old_king_raises_hand.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the silhouette of an aged king raising a hand to give an order. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 259,
+  "clip": "N08",
+  "q": 13,
+  "k": 0,
+  "name": "old_book_new_notebook",
+  "look": "A",
+  "file": "EP11_259_N08q13_old_book_new_notebook.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old book with a paper slip marking a page, a newer notebook lying on top, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 260,
+  "clip": "N08",
+  "q": 13,
+  "k": 1,
+  "name": "cards_slide_off",
+  "look": "A",
+  "file": "EP11_260_N08q13_cards_slide_off.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stack of index cards sliding off the edge of a desk. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 261,
+  "clip": "N08",
+  "q": 14,
+  "k": 0,
+  "name": "second_scholar_points",
+  "look": "T",
+  "file": "EP11_261_N08q14_second_scholar_points.jpg",
+  "prompt": "Wide 16:9 cinematic film still: another scholar seen from behind pointing at a different section of the same temple wall. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 262,
+  "clip": "N08",
+  "q": 14,
+  "k": 1,
+  "name": "finger_opening_line",
+  "look": "S",
+  "file": "EP11_262_N08q14_finger_opening_line.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fingertip on the opening line of a carved inscription. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 263,
+  "clip": "N08",
+  "q": 14,
+  "k": 2,
+  "name": "seal_ring_clay",
+  "look": "L",
+  "file": "EP11_263_N08q14_seal_ring_clay.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a king's hand pressing a seal ring into clay on a palm-leaf order. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 264,
+  "clip": "N08",
+  "q": 15,
+  "k": 0,
+  "name": "three_before_dais",
+  "look": "L",
+  "file": "EP11_264_N08q15_three_before_dais.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three bound men seen from behind standing before a king's dais, ministers at the sides. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 265,
+  "clip": "N08",
+  "q": 15,
+  "k": 1,
+  "name": "law_text_staff",
+  "look": "C",
+  "file": "EP11_265_N08q15_law_text_staff.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a palm-leaf law text and a judge's staff on dark wood, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 266,
+  "clip": "N08",
+  "q": 15,
+  "k": 2,
+  "name": "exile_city_gate",
+  "look": "D",
+  "file": "EP11_266_N08q15_exile_city_gate.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three men seen from behind being escorted out of a city gate at dusk carrying nothing. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 267,
+  "clip": "N08",
+  "q": 16,
+  "k": 0,
+  "name": "many_estampages_hands",
+  "look": "A",
+  "file": "EP11_267_N08q16_many_estampages_hands.jpg",
+  "prompt": "Wide 16:9 cinematic film still: several estampages of the same inscription overlapping on a table, many hands pointing. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 268,
+  "clip": "N09",
+  "q": 0,
+  "k": 0,
+  "name": "veiled_woman_doorway",
+  "look": "N",
+  "file": "EP11_268_N09q00_veiled_woman_doorway.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a veiled woman seen from behind in the doorway of a lamp-lit palace. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 269,
+  "clip": "N09",
+  "q": 1,
+  "k": 0,
+  "name": "writer_room_madras",
+  "look": "K",
+  "file": "EP11_269_N09q01_writer_room_madras.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a writer seen from behind at a desk writing with a fountain pen, stacks of manuscript, a window with coconut trees. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 270,
+  "clip": "N09",
+  "q": 1,
+  "k": 1,
+  "name": "manuscript_pages_pile",
+  "look": "K",
+  "file": "EP11_270_N09q01_manuscript_pages_pile.jpg",
+  "prompt": "Wide 16:9 cinematic film still: handwritten manuscript pages piling up beside an ink bottle, no people. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 271,
+  "clip": "N09",
+  "q": 2,
+  "k": 0,
+  "name": "letterpress_shop",
+  "look": "K",
+  "file": "EP11_271_N09q02_letterpress_shop.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a letterpress printing shop, magazines coming off the press, workers seen from behind. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 272,
+  "clip": "N09",
+  "q": 3,
+  "k": 0,
+  "name": "magazines_tied_string",
+  "look": "K",
+  "file": "EP11_272_N09q03_magazines_tied_string.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a stack of weekly magazines tied with string, the top cover an ink drawing of a prince's silhouette. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 273,
+  "clip": "N09",
+  "q": 3,
+  "k": 1,
+  "name": "magazine_stall_readers",
+  "look": "K",
+  "file": "EP11_273_N09q03_magazine_stall_readers.jpg",
+  "prompt": "Wide 16:9 cinematic film still: readers seen from behind at a street magazine stall. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 274,
+  "clip": "N09",
+  "q": 4,
+  "k": 0,
+  "name": "reader_hands_magazine",
+  "look": "K",
+  "file": "EP11_274_N09q04_reader_hands_magazine.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a reader's hands holding an open magazine with an ink illustration of three cloaked men. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 275,
+  "clip": "N09",
+  "q": 4,
+  "k": 1,
+  "name": "estampage_beside_magazine",
+  "look": "A",
+  "file": "EP11_275_N09q04_estampage_beside_magazine.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an inked estampage lying beside an old magazine on a desk, no people. Twentieth-century scholar's study, warm desk-lamp light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 276,
+  "clip": "N09",
+  "q": 4,
+  "k": 2,
+  "name": "family_reading_verandah",
+  "look": "K",
+  "file": "EP11_276_N09q04_family_reading_verandah.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a family on a verandah, a girl seen from behind reading a magazine aloud to elders. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 277,
+  "clip": "N09",
+  "q": 5,
+  "k": 0,
+  "name": "conspirators_ruined_shrine",
+  "look": "N",
+  "file": "EP11_277_N09q05_conspirators_ruined_shrine.jpg",
+  "prompt": "Wide 16:9 cinematic film still: cloaked conspirators seen from behind meeting at night in a ruined shrine by torchlight. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 278,
+  "clip": "N09",
+  "q": 5,
+  "k": 1,
+  "name": "daggers_oath_silhouette",
+  "look": "N",
+  "file": "EP11_278_N09q05_daggers_oath_silhouette.jpg",
+  "prompt": "Wide 16:9 cinematic film still: silhouettes of raised hands joined in an oath against torchlight. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 279,
+  "clip": "N09",
+  "q": 6,
+  "k": 0,
+  "name": "illustrator_inks_woman",
+  "look": "K",
+  "file": "EP11_279_N09q06_illustrator_inks_woman.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an illustrator's hand inking the figure of a woman in silk seen from behind, flowers in her hair, on drawing paper. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 280,
+  "clip": "N09",
+  "q": 7,
+  "k": 0,
+  "name": "hands_search_wall",
+  "look": "S",
+  "file": "EP11_280_N09q07_hands_search_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: hands moving across a carved inscription wall, searching. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 281,
+  "clip": "N09",
+  "q": 7,
+  "k": 1,
+  "name": "magnifier_copper_search",
+  "look": "C",
+  "file": "EP11_281_N09q07_magnifier_copper_search.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a magnifying glass moving over a copper plate, searching. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 282,
+  "clip": "N09",
+  "q": 8,
+  "k": 0,
+  "name": "chamber_many_lamps",
+  "look": "N",
+  "file": "EP11_282_N09q08_chamber_many_lamps.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a palace chamber with many lamps, a prince's silhouette seen from behind facing a veiled woman. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 283,
+  "clip": "N09",
+  "q": 8,
+  "k": 1,
+  "name": "lamps_blown_out",
+  "look": "N",
+  "file": "EP11_283_N09q08_lamps_blown_out.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a dark chamber, every lamp just blown out, thin trails of smoke from the wicks, no people. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 284,
+  "clip": "N09",
+  "q": 8,
+  "k": 2,
+  "name": "one_lamp_fallen_sword",
+  "look": "N",
+  "file": "EP11_284_N09q08_one_lamp_fallen_sword.jpg",
+  "prompt": "Wide 16:9 cinematic film still: one lamp relit in a dark chamber, a fallen sword on the floor, a long shadow across the stones, no people. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 285,
+  "clip": "N09",
+  "q": 9,
+  "k": 0,
+  "name": "pen_stopped",
+  "look": "K",
+  "file": "EP11_285_N09q09_pen_stopped.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a writer's fountain pen stopped above a page, hand only. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 286,
+  "clip": "N09",
+  "q": 9,
+  "k": 1,
+  "name": "last_page_blank_space",
+  "look": "K",
+  "file": "EP11_286_N09q09_last_page_blank_space.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the last page of a handwritten manuscript ending in blank space, no people. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 287,
+  "clip": "N09",
+  "q": 10,
+  "k": 0,
+  "name": "blank_granite_again",
+  "look": "S",
+  "file": "EP11_287_N09q10_blank_granite_again.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a blank stretch of granite beside a carved inscription. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 288,
+  "clip": "N09",
+  "q": 11,
+  "k": 0,
+  "name": "cinema_hall_back_row",
+  "look": "T",
+  "file": "EP11_288_N09q11_cinema_hall_back_row.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a cinema hall seen from the back row, audience silhouettes, the screen glowing with a blurred epic battle. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 289,
+  "clip": "N09",
+  "q": 11,
+  "k": 1,
+  "name": "film_set_crane",
+  "look": "T",
+  "file": "EP11_289_N09q11_film_set_crane.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a film set with a camera crane and lights before a palace set, crew seen from behind. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 290,
+  "clip": "N09",
+  "q": 12,
+  "k": 0,
+  "name": "crowd_outside_theatre",
+  "look": "T",
+  "file": "EP11_290_N09q12_crowd_outside_theatre.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a crowd outside a cinema at night with garlands and lights, seen from behind. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 291,
+  "clip": "N09",
+  "q": 12,
+  "k": 1,
+  "name": "faces_lit_by_screen",
+  "look": "T",
+  "file": "EP11_291_N09q12_faces_lit_by_screen.jpg",
+  "prompt": "Wide 16:9 cinematic film still: rows of cinema viewers seen from behind, lit by the screen. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 292,
+  "clip": "N09",
+  "q": 13,
+  "k": 0,
+  "name": "ink_prince_drawing_board",
+  "look": "K",
+  "file": "EP11_292_N09q13_ink_prince_drawing_board.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an ink illustration of a fierce prince on a drawing board, brushes and ink, no people. Madras in the 1950s, warm tungsten light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 293,
+  "clip": "N09",
+  "q": 13,
+  "k": 1,
+  "name": "projector_beam",
+  "look": "T",
+  "file": "EP11_293_N09q13_projector_beam.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a film projector beam cutting through a dark hall, dust in the light. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 294,
+  "clip": "N09",
+  "q": 14,
+  "k": 0,
+  "name": "small_fragment_inscription",
+  "look": "S",
+  "file": "EP11_294_N09q14_small_fragment_inscription.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small fragment of carved inscription on a stone. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 295,
+  "clip": "N09",
+  "q": 15,
+  "k": 0,
+  "name": "three_inscribed_stones",
+  "look": "S",
+  "file": "EP11_295_N09q15_three_inscribed_stones.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three small inscribed stones set in different temple walls. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 296,
+  "clip": "N09",
+  "q": 15,
+  "k": 1,
+  "name": "plates_few_lines",
+  "look": "C",
+  "file": "EP11_296_N09q15_plates_few_lines.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a copper plate with a few lines picked out by light. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 297,
+  "clip": "N09",
+  "q": 16,
+  "k": 0,
+  "name": "the_line_side_lit",
+  "look": "S",
+  "file": "EP11_297_N09q16_the_line_side_lit.jpg",
+  "prompt": "Wide 16:9 cinematic film still: one carved line on a granite wall, side lit, everything else dark. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 298,
+  "clip": "N10",
+  "q": 0,
+  "k": 0,
+  "name": "diadem_dark",
+  "look": "L",
+  "file": "EP11_298_N10q00_diadem_dark.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a crown prince's diadem on a cushion in near darkness, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 299,
+  "clip": "N10",
+  "q": 1,
+  "k": 0,
+  "name": "wall_wide_dawn",
+  "look": "T",
+  "file": "EP11_299_N10q01_wall_wide_dawn.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a long inscribed temple wall at dawn, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 300,
+  "clip": "N10",
+  "q": 2,
+  "k": 0,
+  "name": "chisel_marks_close",
+  "look": "S",
+  "file": "EP11_300_N10q02_chisel_marks_close.jpg",
+  "prompt": "Wide 16:9 cinematic film still: carved characters in granite so close that the chisel marks show. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 301,
+  "clip": "N10",
+  "q": 3,
+  "k": 0,
+  "name": "three_silhouettes_again",
+  "look": "L",
+  "file": "EP11_301_N10q03_three_silhouettes_again.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three male silhouettes standing apart in a dark pillared hall, no faces. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 302,
+  "clip": "N10",
+  "q": 3,
+  "k": 1,
+  "name": "three_stretches_lit",
+  "look": "S",
+  "file": "EP11_302_N10q03_three_stretches_lit.jpg",
+  "prompt": "Wide 16:9 cinematic film still: three short stretches of a carved line lit one after another. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 303,
+  "clip": "N10",
+  "q": 4,
+  "k": 0,
+  "name": "sealed_door_close",
+  "look": "P",
+  "file": "EP11_303_N10q04_sealed_door_close.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a clay seal and rope on a wooden house door, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 304,
+  "clip": "N10",
+  "q": 4,
+  "k": 1,
+  "name": "families_on_road",
+  "look": "D",
+  "file": "EP11_304_N10q04_families_on_road.jpg",
+  "prompt": "Wide 16:9 cinematic film still: families seen from behind walking away along a road with bundles at dusk. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 305,
+  "clip": "N10",
+  "q": 5,
+  "k": 0,
+  "name": "blank_stone_end",
+  "look": "S",
+  "file": "EP11_305_N10q05_blank_stone_end.jpg",
+  "prompt": "Wide 16:9 cinematic film still: blank granite, the carving ended. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 306,
+  "clip": "N10",
+  "q": 6,
+  "k": 0,
+  "name": "fish_banner_dark",
+  "look": "D",
+  "file": "EP11_306_N10q06_fish_banner_dark.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a twin-fish banner in deep shadow. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 307,
+  "clip": "N10",
+  "q": 6,
+  "k": 1,
+  "name": "empty_throne_light",
+  "look": "L",
+  "file": "EP11_307_N10q06_empty_throne_light.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an empty lion throne in a shaft of light, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 308,
+  "clip": "N10",
+  "q": 7,
+  "k": 0,
+  "name": "fog_over_temple",
+  "look": "T",
+  "file": "EP11_308_N10q07_fog_over_temple.jpg",
+  "prompt": "Wide 16:9 cinematic film still: morning fog over a small temple and paddy fields, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 309,
+  "clip": "N10",
+  "q": 8,
+  "k": 0,
+  "name": "rajendra_plates",
+  "look": "C",
+  "file": "EP11_309_N10q08_rajendra_plates.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a large bundle of copper plates with a great royal seal, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 310,
+  "clip": "N10",
+  "q": 9,
+  "k": 0,
+  "name": "emperor_elephant_new_temple",
+  "look": "P",
+  "file": "EP11_310_N10q09_emperor_elephant_new_temple.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an emperor seen from behind on a war elephant before a huge granite temple under construction. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 311,
+  "clip": "N10",
+  "q": 9,
+  "k": 1,
+  "name": "royal_seal_again",
+  "look": "C",
+  "file": "EP11_311_N10q09_royal_seal_again.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a round royal seal with a tiger, two fish and a bow, lamp light. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 312,
+  "clip": "N10",
+  "q": 9,
+  "k": 2,
+  "name": "name_giving_priests",
+  "look": "L",
+  "file": "EP11_312_N10q09_name_giving_priests.jpg",
+  "prompt": "Wide 16:9 cinematic film still: priests seen from behind chanting before a newly crowned king's silhouette. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 313,
+  "clip": "N10",
+  "q": 10,
+  "k": 0,
+  "name": "emperor_ancestor_lamps",
+  "look": "L",
+  "file": "EP11_313_N10q10_emperor_ancestor_lamps.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an emperor seen from behind standing before a row of memorial lamps. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 314,
+  "clip": "N10",
+  "q": 10,
+  "k": 1,
+  "name": "ancestor_bronzes_row",
+  "look": "L",
+  "file": "EP11_314_N10q10_ancestor_bronzes_row.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a row of small royal portrait bronzes in a shrine, lamps, no people. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 315,
+  "clip": "N10",
+  "q": 11,
+  "k": 0,
+  "name": "scales_balanced",
+  "look": "X",
+  "file": "EP11_315_N10q11_scales_balanced.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a pair of bronze scales hanging level, no people. Symbolic still life in a dark room, a single shaft of light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 316,
+  "clip": "N10",
+  "q": 12,
+  "k": 0,
+  "name": "rajaraja_throne_back",
+  "look": "L",
+  "file": "EP11_316_N10q12_rajaraja_throne_back.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a great king seen from behind on the lion throne, the hall full of courtiers. Interior at night lit by brass oil lamps, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 317,
+  "clip": "N10",
+  "q": 12,
+  "k": 1,
+  "name": "tiger_banner_sunrise",
+  "look": "P",
+  "file": "EP11_317_N10q12_tiger_banner_sunrise.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a tiger banner against the sunrise, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 318,
+  "clip": "N10",
+  "q": 13,
+  "k": 0,
+  "name": "big_temple_scaffolding",
+  "look": "P",
+  "file": "EP11_318_N10q13_big_temple_scaffolding.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a colossal granite temple tower rising inside timber scaffolding, thousands of workers, elephants hauling stone. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 319,
+  "clip": "N10",
+  "q": 13,
+  "k": 1,
+  "name": "chola_fleet_sea",
+  "look": "P",
+  "file": "EP11_319_N10q13_chola_fleet_sea.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fleet of wooden ships with square sails crossing the open sea. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 320,
+  "clip": "N10",
+  "q": 13,
+  "k": 2,
+  "name": "great_temple_golden_hour",
+  "look": "P",
+  "file": "EP11_320_N10q13_great_temple_golden_hour.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a finished colossal granite temple tower at golden hour, no people. Daylight, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 321,
+  "clip": "N10",
+  "q": 14,
+  "k": 0,
+  "name": "elder_brother_fades",
+  "look": "D",
+  "file": "EP11_321_N10q14_elder_brother_fades.jpg",
+  "prompt": "Wide 16:9 cinematic film still: two brothers seen from behind, the elder fading like mist. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 322,
+  "clip": "N10",
+  "q": 14,
+  "k": 1,
+  "name": "temple_faint_figure",
+  "look": "D",
+  "file": "EP11_322_N10q14_temple_faint_figure.jpg",
+  "prompt": "Wide 16:9 cinematic film still: the silhouette of a great temple tower with a faint lone figure before it. Dusk, tenth-century Chola South India. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 323,
+  "clip": "N10",
+  "q": 15,
+  "k": 0,
+  "name": "child_runs_past_wall",
+  "look": "T",
+  "file": "EP11_323_N10q15_child_runs_past_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a child seen from behind running past an inscribed temple wall, flowers on the ground. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 324,
+  "clip": "N10",
+  "q": 15,
+  "k": 1,
+  "name": "priest_hand_on_wall",
+  "look": "T",
+  "file": "EP11_324_N10q15_priest_hand_on_wall.jpg",
+  "prompt": "Wide 16:9 cinematic film still: an old priest's hand resting on a carved granite wall. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 325,
+  "clip": "N10",
+  "q": 16,
+  "k": 0,
+  "name": "line_at_dusk_lamp",
+  "look": "S",
+  "file": "EP11_325_N10q16_line_at_dusk_lamp.jpg",
+  "prompt": "Wide 16:9 cinematic film still: one carved line on a temple wall at dusk lit by a small oil lamp on the ledge. Close study of weathered carved granite, raking side light. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 326,
+  "clip": "N10",
+  "q": 17,
+  "k": 0,
+  "name": "two_seals_lamp_between",
+  "look": "C",
+  "file": "EP11_326_N10q17_two_seals_lamp_between.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a fish seal and a tiger seal on a table with a lamp between them, no people. Still life on dark wood lit by one oil lamp. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ },
+ {
+  "n": 327,
+  "clip": "N10",
+  "q": 17,
+  "k": 1,
+  "name": "temple_night_lamps_stars",
+  "look": "T",
+  "file": "EP11_327_N10q17_temple_night_lamps_stars.jpg",
+  "prompt": "Wide 16:9 cinematic film still: a small temple at night with rows of lamps lit, stars above, no people. Present day, soft morning light, rural Tamil Nadu. Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+ }
+]
