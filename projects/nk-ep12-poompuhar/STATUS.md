@@ -69,6 +69,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B04 | 031–040 | `1Y8gw05UTtuv2gGY-P8d9lH8KSP9C3iM2` | `1ES9wsABZWSCx0jlKG9VIp1De6c9jf_xY` |
 | B05 | 041–050 | `13_4gL2hzyi7-Mh48PYiW3js4ubHUvLuO` | `1NJCUIcPllvC60RSK_mw250fVhhtUSekN` |
 | B06 | 051–060 | `1TU3c0D2s7Nb8J4yZYxKWr_HzbV-gjHAk` | `1_MnoPYd3zORP7QWWKFfR_BEUzdmd_SPy` |
+| B07 | 061–070 | `1kVHMHlyxF80rFoZ4UnoDFuyDiHCyRLjo` | `1w5BK0KqNBSAT2jk0d1fo3hj6_qChvu9r` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -124,4 +125,20 @@ All ten kept. Looked at on the sheet; 051, 055, 056, 057 at half size.
 
 Redo list so far: 026, 028, 050. Chapter 01 (N02) pictures are complete with this batch.
 
-Next: B07 = 061–070 (066 uses `king` and `peelivalai`; 067, 068 use `peelivalai`).
+## B07 (061–070)
+
+All ten kept. Looked at on the sheet; 064, 066, 067, 068 at half size.
+- 066–068: the king and Peelivalai match their cast portraits; the tale pictures come out in a flatter storybook style, clearly different from the port pictures, as intended.
+- Kept with a doubt: 065, the palace is a large domed stone fort on a cliff, more like a much later North Indian fort than anything on the Tamil coast (it is a storybook picture for the tale).
+- Five pictures needed bars trimmed (062, 063, 064, 069, 070).
+
+## Second workspace reset (found at the start of B07)
+
+This time the files were all there (including `google_drive/`), but git was back at the base commit with `projects/` showing as untracked, and `/tmp` was empty. Fix that worked:
+1. `git fetch origin arena/d486087a-hyperframes && git reset -q FETCH_HEAD` (working tree untouched; status then clean).
+2. `bash tools/setup.sh`; `cp ../../google_drive/ep12_audio/N*.mp3 narration/`; `bash tools/restore.sh`.
+`tools/pair.py` (half-size view of up to four film copies: `python tools/pair.py 066 067` → `/tmp/pair.jpg`) is now in the repo.
+
+Redo list so far: 026, 028, 050.
+
+Next: B08 = 071–080 (072, 073 use `king`).
