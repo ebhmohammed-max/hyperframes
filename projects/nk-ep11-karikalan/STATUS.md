@@ -124,3 +124,8 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 11 Dec
 - Done: 261-270 (B27), on Drive. Chapter 7 (N08) complete. v2 overrides written for chapter 8 (N09) up to 297 (268 Nandini invented face, 273 and 276 1950s readers, 277 brothers ref, 282 aditya ref, 290 and 291 cinema crowds; Kalki stays from behind). No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205, 255. B26 zip id 17sDqf28WcQDT5x-7AgTvyW1YrAbaWcNk. Next: 271 onward.
 - 268 came out with her whole face visible (the veil sits on her hair), kept: Nandini is fictional.
+
+## 12 Dec
+- Done: 271-280 (B28), on Drive. 274 added to the redo list (magazine illustration came out as European monks under Gothic arches). 272 film copy cropped via crops.json (garbled Tamil-like poster lettering in the background of the raw picture). Redo list (10, exactly one message): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274. B27 zip id 1Te5c78LVUEv2l3oBX-AN9o6lbrq4VH2Q. Next: 281 onward (282 aditya ref).
+- Kept with a doubt: 273 magazine covers at the stall carry small blurred mastheads and painted portraits of women.
+- Lesson: an "ink illustration" inside a magazine drifts to European woodcut style; name South Indian dress and granite pillars inside the illustration too. Shop interiors grow posters with pseudo-Tamil lettering; say "bare walls, no posters".
