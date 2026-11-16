@@ -1,6 +1,31 @@
 {
-  "_": "Film-copy overrides applied after tools/sheet.py: [source picture, x0, y0, x1, y1] as fractions of the source. Used to keep faces and wrong scripts out of frame.",
-  "028": ["028", 0.0, 0.08, 0.92, 1.0],
-  "029": ["029", 0.22, 0.22, 1.0, 1.0],
-  "030": ["028", 0.45, 0.42, 1.0, 0.97]
+ "_": "Film-copy overrides applied after tools/sheet.py: [source picture, x0, y0, x1, y1] as fractions of the source. Used to keep faces and wrong scripts out of frame.",
+ "028": [
+  "028",
+  0.0,
+  0.08,
+  0.92,
+  1.0
+ ],
+ "029": [
+  "029",
+  0.22,
+  0.22,
+  1.0,
+  1.0
+ ],
+ "030": [
+  "028",
+  0.45,
+  0.42,
+  1.0,
+  0.97
+ ],
+ "071": [
+  "071",
+  0.0,
+  0.14,
+  0.756,
+  0.896
+ ]
 }

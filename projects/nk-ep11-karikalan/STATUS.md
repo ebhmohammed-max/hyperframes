@@ -44,3 +44,7 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 - Done: 061-070 (B07) except 067 (generation failed; a failed call still counts toward the 10 per message). 061 shows the readable Tamil consonant chart. Both are in shots/redo.txt with 048; tools/next.py skips numbers held there, tools/pack.py skips missing files.
 - Lesson for script shots: ask for eroded, shallow, half-hidden letters at a raking angle; clean macro lettering comes out as readable modern Tamil.
 - Next: 071 onward. After the last batch: redo pass (048, 061, 067 so far), then repack and replace those batch zips on Drive.
+
+## 22 Nov
+- Done: 071-080 (B08), on Drive. 071 film copy cropped (ink-bottle brand label) via shots/crops.json (values are fractions of the source). 074 (Latin-looking letters on the seal rim) added to shots/redo.txt.
+- Redo pass so far: 048, 061, 067, 074. Next: 081 onward.
