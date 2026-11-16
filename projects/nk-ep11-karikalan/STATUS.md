@@ -82,3 +82,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 29 Nov
 - Done: 141-150 (B15), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B14 zip id 14BnTVGbI6QhqGtOIpN9MUGFPZByXvX4h. Next: 151 onward (157 uses refs kundavai, arulmozhi).
+
+## 30 Nov
+- Done: 151-160 (B16), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B15 zip id 1K44xyg4RLuFPziQ3BkL15aGjdbqNMb-r. Next: 161 onward; write v2 overrides for chapter 5 (N06, images 165-197) first.
