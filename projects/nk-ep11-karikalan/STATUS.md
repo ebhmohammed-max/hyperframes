@@ -116,3 +116,7 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 9 Dec
 - Done: 241-250 (B25), on Drive. No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B24 zip id 1tjCKQkWvbM_w87R361WuQvUX6A8HtnJu. Next: 251 onward (258 sundara ref, 264 brothers ref).
+
+## 10 Dec
+- Done: 251-260 (B26), on Drive. 255 added to the redo list (crisp Khmer-looking script fills the frame). Redo list: 048, 061, 067, 074, 095, 110, 117, 205, 255. B25 zip id 1d11PdLCOWRWr-7d-4Y9cTMfmYE3pmUjI. Next: 261 onward (264 brothers ref); write v2 overrides for chapter 8 (N09, images 268-297) before 268.
+- Lesson: a square-on, evenly lit wall of letters comes out as clean Khmer; always ask for a steep raking angle and broken, lichen-covered marks.
