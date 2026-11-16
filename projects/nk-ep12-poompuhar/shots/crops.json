@@ -1,1 +1,10 @@
-{}
+{
+ "_": "Film-copy overrides applied after tools/sheet.py: [source picture, x0, y0, x1, y1] as fractions of the source. Used to keep faces and wrong scripts out of frame.",
+ "011": [
+  "011",
+  0.0,
+  0.2,
+  0.8,
+  1.0
+ ]
+}

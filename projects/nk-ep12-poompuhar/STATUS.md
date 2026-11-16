@@ -64,9 +64,27 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | Batch | Pictures | Drive zip | Sheet |
 |---|---|---|---|
 | B01 | 001–010 | `1teEj2jR9A5Z-lW4kMXbl7aE2v7L1O2fi` | `1yBgJc_o4EJbGOyFVL_bSAvT7j4JJ9cxI` |
+| B02 | 011–020 | `10MfXidi9aX05YEEWfetCXIsCkKIbwWzy` | `1wLVofTvagFZMzYFJwF_tpKg8qyCP-_9I` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
 Also done: narration loudness measured on N01, N05, N10: −19.5 LUFS each, peaks about −1.5 dBTP (consistent; `finish.sh` raises the level to −14). Tag box in `film/gen.mjs` widened from 520 to 680 px for the longest tag; not rendered yet, so not seen.
 
-Next: B02 = 011–020 (019 uses the `poet` reference).
+
+
+## B02 (011–020)
+
+All ten kept. Looked at on the sheet; 011 and 015 at half size.
+- 011: the man's nose and moustache showed at the frame edge, and this picture stands for a living researcher's lab. The film copy is cropped to the screen and hand (`shots/crops.json`). The original in the Drive zip still shows him.
+- 012, 014, 018, 019 came with black bars baked in; `sheet.py` trims them, so the film copies lose a little at the sides.
+- 019: the poet matches the cast portrait.
+
+## Workspace reset (found at the start of B02)
+
+The workspace came back as a fresh clone at the base commit: the branch had to be fetched again, and the untracked `google_drive/` folder (narration, cast, pictures 001–010, all EP11 pictures) was gone. Recovery that worked:
+1. `git fetch origin arena/d486087a-hyperframes && git merge --ff-only FETCH_HEAD`
+2. Drive `download_file` on the zips (they land in `<repo>/google_drive/`): cast, each batch zip, the narration zip.
+3. `bash tools/setup.sh`; unzip the narration into `google_drive/ep12_audio` and copy to `narration/`; `bash tools/restore.sh`.
+So Drive is the only safe copy of pictures and audio: upload every batch before the turn ends. EP11 pictures were not restored (not needed; they are on Drive).
+
+Next: B03 = 021–030.
