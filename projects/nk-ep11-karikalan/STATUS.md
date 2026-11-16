@@ -79,3 +79,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 28 Nov
 - Done: 131-140 (B14), on Drive. Nothing new on the redo list (048, 061, 067, 074, 095, 110, 117). B13 zip id 1cw1XYteJnm14Dahzfnu6h65CyQTsfPZ_. Next: 141 onward.
+
+## 29 Nov
+- Done: 141-150 (B15), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B14 zip id 14BnTVGbI6QhqGtOIpN9MUGFPZByXvX4h. Next: 151 onward (157 uses refs kundavai, arulmozhi).
