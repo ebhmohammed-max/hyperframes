@@ -71,3 +71,8 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - Pictures now live in <repo>/google_drive/ep11_pics/raw/NNN.jpg and .../cast/<key>.jpg (outside the project .gitignore, never added to git). Generate straight into that folder. `bash tools/restore.sh` relinks out/raw and out/cast and rebuilds out/img and sheets.
 - Done: 111-120 (B12), on Drive. 117 (English masthead) on the redo list. Redo pass: 048, 061, 067, 074, 095, 110, 117. B11 zip id 1v0_2RrQF1vfgzlY4vCyWjjj5RO-gcsvq.
 - Next: 121 onward (124 uses refs sundara, kundavai, arulmozhi).
+
+## 27 Nov
+- The google_drive/ep11_pics store survived between messages (118 pictures and cast were intact).
+- Done: 121-130 (B13), on Drive. 126 film copy cropped (European leaded window). v2 overrides written for chapter 4 (N05) up to 160. B12 zip id 1cf4XEiz5rs1VGHUSwiLxBkY99iq8OFTj.
+- Redo pass unchanged: 048, 061, 067, 074, 095, 110, 117. Next: 131 onward.
