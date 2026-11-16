@@ -91,3 +91,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 2 Dec
 - Done: 171-180 (B18), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B17 zip id 1GFajERzbSC6gk23lw63jXnaGDIKbHYqv. Next: 181 onward (184, 186, 188 use the brothers ref).
+
+## 3 Dec
+- Done: 181-190 (B19), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B18 zip id 1f0FTVTnyaij_p4d9vKsrI3FK-o0me9Sx. Next: 191 onward (191, 197 use the brothers ref); write v2 overrides for chapter 6 (N07, images 198-230) first.
