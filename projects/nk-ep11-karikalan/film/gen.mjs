@@ -30,7 +30,7 @@ function syl(t) {
 }
 const units = (t) => t.split(/(?<=[.?!…])\s+/).map((s) => s.trim()).filter(Boolean);
 /** Break one sentence into caption chunks of at most `max` characters, at commas first, then evenly by words. */
-function chunks(t, max = 44) {
+function chunks(t, max = 76) {
   if ([...t].length <= max) return [t];
   const parts = t.split(/(?<=,)\s+/);
   const out = [];

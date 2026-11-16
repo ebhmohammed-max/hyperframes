@@ -4,7 +4,8 @@ Done: script v1 (10 clips, 183 lines), scratch narration N01–N10 (698 s) + N11
 alignment (narration/align.json), shot list (327 pictures, SHOTLIST.md / shots/prompts.json), fact sheet,
 film generator (film/gen.mjs), preview render of the first 23 s.
 
-Pictures made: 001–020 (in out/raw and out/img; copies on Drive in EP11_Aditya_Karikalan/images).
+Pictures made: 001–030 (hook complete; N01 rendered to out/renders/N01.mp4, 69.6 s).
+After tools/sheet.py always run tools/crops.py (shots/crops.json keeps faces and wrong scripts out of frame) (in out/raw and out/img; copies on Drive in EP11_Aditya_Karikalan/images).
 Image generation is capped at 10 per message, speech at 10 clips per message.
 
 Rebuild after a wipe:
