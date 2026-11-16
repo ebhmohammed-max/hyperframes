@@ -242,7 +242,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   const ovl = scene({
     id: "ovl",
     css: `    ${FONTS.sansTa}${sCss}
-    .o-tag { position: absolute; left: 64px; top: 56px; width: 520px; height: 64px; }
+    .o-tag { position: absolute; left: 64px; top: 56px; width: 680px; height: 64px; }
     .o-in { opacity: 0; display: inline-flex; align-items: center; gap: 14px; padding: 9px 24px 9px 18px; border-radius: 34px; background: ${C.navy}; border: 1.5px solid rgba(243,212,138,0.55); }
     .o-dot { width: 12px; height: 12px; border-radius: 50%; background: ${C.gold}; }
     .o-tx { font: 600 30px/1.4 "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap; }`,

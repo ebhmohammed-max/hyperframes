@@ -56,3 +56,17 @@ Pictures 001–322, batches of 10 (`tools/next.py`, `tools/pack.py`). Nothing ge
 
 - The narration was generated and aligned (0 lines flagged) but nobody has listened to it; no loudness check yet.
 - No pictures made apart from the four cast portraits.
+
+## 16 Nov · pictures started
+
+The image tool allows 10 pictures per turn, so one batch per "continue".
+
+| Batch | Pictures | Drive zip | Sheet |
+|---|---|---|---|
+| B01 | 001–010 | `1teEj2jR9A5Z-lW4kMXbl7aE2v7L1O2fi` | `1yBgJc_o4EJbGOyFVL_bSAvT7j4JJ9cxI` |
+
+B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
+
+Also done: narration loudness measured on N01, N05, N10: −19.5 LUFS each, peaks about −1.5 dBTP (consistent; `finish.sh` raises the level to −14). Tag box in `film/gen.mjs` widened from 520 to 680 px for the longest tag; not rendered yet, so not seen.
+
+Next: B02 = 011–020 (019 uses the `poet` reference).
