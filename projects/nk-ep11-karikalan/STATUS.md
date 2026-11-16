@@ -76,3 +76,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - The google_drive/ep11_pics store survived between messages (118 pictures and cast were intact).
 - Done: 121-130 (B13), on Drive. 126 film copy cropped (European leaded window). v2 overrides written for chapter 4 (N05) up to 160. B12 zip id 1cf4XEiz5rs1VGHUSwiLxBkY99iq8OFTj.
 - Redo pass unchanged: 048, 061, 067, 074, 095, 110, 117. Next: 131 onward.
+
+## 28 Nov
+- Done: 131-140 (B14), on Drive. Nothing new on the redo list (048, 061, 067, 074, 095, 110, 117). B13 zip id 1cw1XYteJnm14Dahzfnu6h65CyQTsfPZ_. Next: 141 onward.
