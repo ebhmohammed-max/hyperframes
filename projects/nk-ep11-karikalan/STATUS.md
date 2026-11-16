@@ -26,3 +26,8 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 - Done: cast (7), 001-030 (003, 004, 019 remade with faces). Next: 031 onward; v2 overrides written for 032-038.
 - Per message: python3 tools/next.py; generate (pass out/cast/<key>.jpg for refs); $PY tools/sheet.py a b; $PY tools/crops.py; $PY tools/pack.py a b; upload zip + sheet to the images folder.
 - The hook render (out/renders/N01.mp4) predates the new 003/004/019; re-render when the full video is built.
+
+## 18 Nov
+- User: not every picture needs faces; keep the series style, use faces where they help, and show kingdoms, ministers and crowds where the script allows.
+- Done: 031-040 (B04). v2 overrides written up to 058. tools/next.py now prints the cast refs in brackets.
+- Next: 041 onward.
