@@ -148,3 +148,9 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - Done: 311-320 (B32), on Drive. No new redo. Redo list (11): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274, 297. B31 zip id 15ou41CGxETUDXBIwOLbvgljfVxCtvwAS. Next: 321-327 (321 aditya+arulmozhi) plus three redos (suggest 297, 255, 274), then the other eight.
 - 311 (royal seal, no lettering, beaded rim) worked with this wording; reuse it for redo 074.
 - Kept with a doubt: 319 the ships have a Viking look (curved prows, single square sail).
+
+## 17 Dec
+- Done: 321-327 (B33). ALL 327 shot-list pictures now exist except 067 and 110 (never generated). Three redos made and swapped in: 255, 274, 297 (old versions kept in google_drive/ep11_pics/replaced/, new originals in .../redo/). B26, B28, B30 repacked locally; upload the replacements and trash the old Drive files (ids in the session log).
+- Redo list (8, one message): 048, 061, 067, 074, 095, 110, 117, 205. Write each to google_drive/ep11_pics/redo/NNN.jpg, view, then copy over raw/NNN.jpg, rerun sheet.py for B05, B07, B08, B10, B11, B12, B21, pack, replace on Drive.
+- After that: full film (tools/setup.sh, narration from Drive, render N01-N10, title sequence, subscribe pop-up, join, level, upload) and EP11_all_327_images_final.zip.
+- B32 zip id 1y-ob01DcT6MBiuOb4UdWlfU5gDZ0qTtV.
