@@ -39,3 +39,8 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 ## 20 Nov
 - Done: 051-060 (B06), on Drive. v2 overrides written for chapter 2 (N03) up to 096.
 - Next: 061 onward.
+
+## 21 Nov
+- Done: 061-070 (B07) except 067 (generation failed; a failed call still counts toward the 10 per message). 061 shows the readable Tamil consonant chart. Both are in shots/redo.txt with 048; tools/next.py skips numbers held there, tools/pack.py skips missing files.
+- Lesson for script shots: ask for eroded, shallow, half-hidden letters at a raking angle; clean macro lettering comes out as readable modern Tamil.
+- Next: 071 onward. After the last batch: redo pass (048, 061, 067 so far), then repack and replace those batch zips on Drive.
