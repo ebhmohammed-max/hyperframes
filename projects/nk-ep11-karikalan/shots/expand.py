@@ -2,19 +2,19 @@
 """shots/shots.txt -> shots/prompts.json, SHOTLIST.md. Checks the image count per line against shots/counts.json."""
 import json, re, collections
 LOOK = {
- "P": ("daylight", "Daylight, tenth-century Chola South India"),
- "D": ("dusk", "Dusk, tenth-century Chola South India"),
- "L": ("lamp-lit interior", "Interior at night lit by brass oil lamps, tenth-century Chola South India"),
+ "P": ("daylight", "Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots"),
+ "D": ("dusk", "Dusk, tenth-century Chola South India, bare-chested men in white dhotis with topknots"),
+ "L": ("lamp-lit interior", "Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots"),
  "W": ("battlefield", "Battlefield haze at dusk, tenth-century South India"),
- "S": ("stone macro", "Close study of weathered carved granite, raking side light"),
- "C": ("copper still life", "Still life on dark wood lit by one oil lamp"),
- "A": ("scholar's desk", "Twentieth-century scholar's study, warm desk-lamp light"),
+ "S": ("stone macro", "Weathered carved granite, raking side light"),
+ "C": ("copper still life", "Still life on dark wood, one oil lamp"),
+ "A": ("scholar's desk", "Twentieth-century Indian scholar's study, warm desk-lamp light"),
  "T": ("present day", "Present day, soft morning light, rural Tamil Nadu"),
  "K": ("1950s Madras", "Madras in the 1950s, warm tungsten light"),
  "N": ("novel (storybook)", "Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace"),
- "X": ("symbolic still life", "Symbolic still life in a dark room, a single shaft of light"),
+ "X": ("symbolic still life", "Dark room, a single shaft of light"),
 }
-TAIL = "Muted teal and amber palette, deep shadows. Painted-realism concept art, 35mm film grain. People only from behind, as silhouettes or as hands. Any writing is weathered and illegible. No text, no lettering, no captions, no watermark."
+TAIL = "Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
 lines = json.load(open("script/lines.json", encoding="utf8"))
 cap = {(l["clip"], l["q"]): l["cap"] for l in lines}
 counts = json.load(open("shots/counts.json"))
@@ -27,7 +27,7 @@ for raw in open("shots/shots.txt", encoding="utf8"):
     n = len(rows) + 1
     rows.append({"n": n, "clip": clip, "q": q, "k": per[(clip, q)] - 1, "name": name, "look": look,
                  "file": f"EP11_{n:03d}_{clip}q{q:02d}_{name}.jpg",
-                 "prompt": f"Wide 16:9 cinematic film still: {subj}. {LOOK[look][1]}. {TAIL}"})
+                 "prompt": f"{subj[0].upper()+subj[1:]}. {LOOK[look][1].split(', bare-chested')[0] if 'no people' in subj else LOOK[look][1]}. {TAIL}"})
 bad = 0
 for clip, cs in counts.items():
     for q, c in enumerate(cs):
