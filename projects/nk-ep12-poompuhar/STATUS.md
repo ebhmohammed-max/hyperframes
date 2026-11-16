@@ -71,6 +71,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B06 | 051–060 | `1TU3c0D2s7Nb8J4yZYxKWr_HzbV-gjHAk` | `1_MnoPYd3zORP7QWWKFfR_BEUzdmd_SPy` |
 | B07 | 061–070 | `1kVHMHlyxF80rFoZ4UnoDFuyDiHCyRLjo` | `1w5BK0KqNBSAT2jk0d1fo3hj6_qChvu9r` |
 | B08 | 071–080 | `19Q3tNy3OvYB_ieuKgzXtAqBEu5T7hk_D` | `16KZR8Y1aK2wnxgH0DRmKWIlKwuw34Q5m` |
+| B09 | 081–090 | `1TglgZhTMxrQT8mAbRdYpm6x-DKn0eUJJ` | `1C4GSzQoRYGVYUMNoxanHwoOwKnTDGkhw` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -148,7 +149,17 @@ All ten kept. Looked at on the sheet; 072, 073, 077, 080 at half size.
 - 072, 073: the king matches his cast portrait.
 - 077 (the mythic wave with the goddess shape) came with a rounded dark frame; the film copy is cropped 3% in from each edge (`shots/crops.json`).
 - Kept with a doubt: 079, the flooded city shows a tall many-storeyed temple gateway of a kind built about a thousand years after the Sangam age. The city in 077 and 079 is stone and flat-roofed, unlike the brick-and-thatch port in the daylight pictures. Both are storybook pictures for the tale.
+- Also kept with a doubt (added a turn late): 072 has a domed palace building at the right edge (a later style); 078 still shows lit lamps and fairly calm water, though the shot asked for lamps going out; 080 the ascetic, meant as Manimekalai seen from behind, has a shaved head and reads as a monk.
+
+## B09 (081–090)
+
+All ten kept. Looked at on the sheet and all ten at half size; the manuscripts in 083, 084 and the desk in 087 at full size.
+- 081–088 close N03 (the "no date" beats, the sea drawn back, the grandmother's story); 089, 090 open N04, the 1960s dig.
+- 087 had a faded wall map of India at the left edge; the film copy is cropped to x 0.20–1.00, y 0.10–0.90 (`shots/crops.json`), which removes it.
+- 083, 084: the palm leaves carry rows of script-like marks; not readable at full size.
+- Kept with a doubt: 085 has torches and lamps in what is meant to be grey daylight (the setting text adds "moonlight and lamp glow"); 087 shows a small broken pot, not a single sherd, and scribbled note pages; 088 the square is already dug, not just marked; 089, 090 show labourers' faces (small, invented, no real person); 090 the supervisor wears a pith helmet.
+- 088–090 came out in a flatter, more illustrated style than the photographic 082 and 087.
 
 Redo list so far: 026, 028, 050.
 
-Next: B09 = 081–090.
+Next: B10 = 091–100.
