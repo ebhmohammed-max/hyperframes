@@ -129,3 +129,7 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - Done: 271-280 (B28), on Drive. 274 added to the redo list (magazine illustration came out as European monks under Gothic arches). 272 film copy cropped via crops.json (garbled Tamil-like poster lettering in the background of the raw picture). Redo list (10, exactly one message): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274. B27 zip id 1Te5c78LVUEv2l3oBX-AN9o6lbrq4VH2Q. Next: 281 onward (282 aditya ref).
 - Kept with a doubt: 273 magazine covers at the stall carry small blurred mastheads and painted portraits of women.
 - Lesson: an "ink illustration" inside a magazine drifts to European woodcut style; name South Indian dress and granite pillars inside the illustration too. Shop interiors grow posters with pseudo-Tamil lettering; say "bare walls, no posters".
+
+## 13 Dec
+- Done: 281-290 (B29), on Drive. No new redo. Redo list (10): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274. B28 zip id 1ul99sNTUEOS9t4i--3_zjJ-PjBsnPfBK. Next: 291 onward; write v2 overrides for the last chapter (N10, images 298-327) before 298.
+- Kept with a doubt: 289 the palace film set looks North Indian (arched, Rajasthani) rather than Chola.
