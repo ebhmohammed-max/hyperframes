@@ -11,6 +11,13 @@ for i, n in enumerate(range(a, b + 1)):
     p = f"out/raw/{n:03d}.jpg"
     if not os.path.exists(p): print("missing", n); continue
     im = Image.open(p).convert("RGB")
+    # trim baked-in black bars (rows / columns that are almost black)
+    g = im.convert("L"); gw, gh = g.size
+    rows = list(g.resize((1, gh)).getdata()); colsm = list(g.resize((gw, 1)).getdata())
+    t = next((k for k, v in enumerate(rows) if v > 6), 0); bt = next((k for k, v in enumerate(reversed(rows)) if v > 6), 0)
+    lf = next((k for k, v in enumerate(colsm) if v > 6), 0); rt = next((k for k, v in enumerate(reversed(colsm)) if v > 6), 0)
+    if max(t, bt) > 12 or max(lf, rt) > 12:
+        print("trim", n, t, bt, lf, rt); im = im.crop((lf + (2 if lf else 0), t + (2 if t else 0), gw - rt - (2 if rt else 0), gh - bt - (2 if bt else 0)))
     w, h = im.size
     if i == 0: print("size", w, h, os.path.getsize(p))
     # centre-crop to 16:9, 1920x1080
