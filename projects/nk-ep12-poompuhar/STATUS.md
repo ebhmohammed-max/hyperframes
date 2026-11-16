@@ -70,6 +70,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B05 | 041–050 | `13_4gL2hzyi7-Mh48PYiW3js4ubHUvLuO` | `1NJCUIcPllvC60RSK_mw250fVhhtUSekN` |
 | B06 | 051–060 | `1TU3c0D2s7Nb8J4yZYxKWr_HzbV-gjHAk` | `1_MnoPYd3zORP7QWWKFfR_BEUzdmd_SPy` |
 | B07 | 061–070 | `1kVHMHlyxF80rFoZ4UnoDFuyDiHCyRLjo` | `1w5BK0KqNBSAT2jk0d1fo3hj6_qChvu9r` |
+| B08 | 071–080 | `19Q3tNy3OvYB_ieuKgzXtAqBEu5T7hk_D` | `16KZR8Y1aK2wnxgH0DRmKWIlKwuw34Q5m` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -141,4 +142,13 @@ This time the files were all there (including `google_drive/`), but git was back
 
 Redo list so far: 026, 028, 050.
 
-Next: B08 = 071–080 (072, 073 use `king`).
+## B08 (071–080)
+
+All ten kept. Looked at on the sheet; 072, 073, 077, 080 at half size.
+- 072, 073: the king matches his cast portrait.
+- 077 (the mythic wave with the goddess shape) came with a rounded dark frame; the film copy is cropped 3% in from each edge (`shots/crops.json`).
+- Kept with a doubt: 079, the flooded city shows a tall many-storeyed temple gateway of a kind built about a thousand years after the Sangam age. The city in 077 and 079 is stone and flat-roofed, unlike the brick-and-thatch port in the daylight pictures. Both are storybook pictures for the tale.
+
+Redo list so far: 026, 028, 050.
+
+Next: B09 = 081–090.
