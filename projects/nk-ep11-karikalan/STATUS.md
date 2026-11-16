@@ -143,3 +143,8 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 15 Dec
 - Done: 301-310 (B31), on Drive. No new redo. Redo list (11): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274, 297. B30 zip id 1kaPbjZQkd3Ly6vK0seOF4i4NjFVDx6TA. Next: 311-320 (316 arulmozhi ref), then 321-327 (321 aditya+arulmozhi) plus three redos.
 - Note: sheet.py trimmed 202 px of dark stone off the bottom of 302 as if it were a black bar; the film copy still looks right.
+
+## 16 Dec
+- Done: 311-320 (B32), on Drive. No new redo. Redo list (11): 048, 061, 067, 074, 095, 110, 117, 205, 255, 274, 297. B31 zip id 15ou41CGxETUDXBIwOLbvgljfVxCtvwAS. Next: 321-327 (321 aditya+arulmozhi) plus three redos (suggest 297, 255, 274), then the other eight.
+- 311 (royal seal, no lettering, beaded rim) worked with this wording; reuse it for redo 074.
+- Kept with a doubt: 319 the ships have a Viking look (curved prows, single square sail).
