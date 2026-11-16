@@ -2825,7 +2825,8 @@
   "name": "veiled_woman_doorway",
   "look": "N",
   "file": "EP11_268_N09q00_veiled_woman_doorway.jpg",
-  "prompt": "A veiled woman seen from behind in the doorway of a lamp-lit palace. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A beautiful young woman of a novel's imagination standing in the doorway of a lamp-lit palace, a sheer gold-edged veil drawn half across her face so that only her dark kohl-lined eyes and part of her face are visible, jasmine in her hair, dark green silk, looking straight at the viewer. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 269,
@@ -2875,7 +2876,8 @@
   "name": "magazine_stall_readers",
   "look": "K",
   "file": "EP11_273_N09q03_magazine_stall_readers.jpg",
-  "prompt": "Readers seen from behind at a street magazine stall. Madras in the 1950s, warm tungsten light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Readers crowding a street magazine stall in a Tamil town of the 1950s, men in white shirts and veshtis, a schoolboy and a woman in a cotton sari reaching for the new weekly issue, their faces visible, eager, magazines with plain covers hanging on strings. Madras in the 1950s, warm tungsten light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 274,
@@ -2905,7 +2907,8 @@
   "name": "family_reading_verandah",
   "look": "K",
   "file": "EP11_276_N09q04_family_reading_verandah.jpg",
-  "prompt": "A family on a verandah, a girl seen from behind reading a magazine aloud to elders. Madras in the 1950s, warm tungsten light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A Tamil family on the verandah of a tiled house in the 1950s, a girl of about fourteen with plaits reading aloud from a magazine while her grandmother, parents and small brother listen, their faces visible, absorbed, evening light. Madras in the 1950s, warm tungsten light. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 277,
@@ -2915,7 +2918,10 @@
   "name": "conspirators_ruined_shrine",
   "look": "N",
   "file": "EP11_277_N09q05_conspirators_ruined_shrine.jpg",
-  "prompt": "Cloaked conspirators seen from behind meeting at night in a ruined shrine by torchlight. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A novel's scene: conspirators meeting at night in a ruined overgrown shrine by torchlight, the three brothers from the reference image at the centre with dark cloths over their shoulders, their faces visible in the torchlight, other cloaked men around them in shadow. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 278,
@@ -2965,7 +2971,10 @@
   "name": "chamber_many_lamps",
   "look": "N",
   "file": "EP11_282_N09q08_chamber_many_lamps.jpg",
-  "prompt": "A palace chamber with many lamps, a prince's silhouette seen from behind facing a veiled woman. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A novel's scene: a palace chamber lit by many brass lamps, the prince Aditya Karikalan, the same man as in the reference image, his face visible, tense, standing facing a veiled woman in dark green silk seen from behind. Storybook illustration mood, moonlight and lamp glow, tenth-century South Indian palace. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "aditya"
+  ]
  },
  {
   "n": 283,
@@ -3045,7 +3054,8 @@
   "name": "crowd_outside_theatre",
   "look": "T",
   "file": "EP11_290_N09q12_crowd_outside_theatre.jpg",
-  "prompt": "A crowd outside a cinema at night with garlands and lights, seen from behind. Present day, soft morning light, rural Tamil Nadu. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A festive crowd outside a cinema theatre in a Tamil city at night, young men, families and children with flower garlands and strings of lights, their faces visible, excited, blank glowing hoardings above. Present day, soft morning light, rural Tamil Nadu. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 291,
@@ -3055,7 +3065,8 @@
   "name": "faces_lit_by_screen",
   "look": "T",
   "file": "EP11_291_N09q12_faces_lit_by_screen.jpg",
-  "prompt": "Rows of cinema viewers seen from behind, lit by the screen. Present day, soft morning light, rural Tamil Nadu. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Rows of cinema viewers seen from the front in a dark hall, families, old people and children, their faces lit by the flickering light of the screen, visible, spellbound. Present day, soft morning light, rural Tamil Nadu. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 292,

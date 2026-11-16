@@ -120,3 +120,7 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 10 Dec
 - Done: 251-260 (B26), on Drive. 255 added to the redo list (crisp Khmer-looking script fills the frame). Redo list: 048, 061, 067, 074, 095, 110, 117, 205, 255. B25 zip id 1d11PdLCOWRWr-7d-4Y9cTMfmYE3pmUjI. Next: 261 onward (264 brothers ref); write v2 overrides for chapter 8 (N09, images 268-297) before 268.
 - Lesson: a square-on, evenly lit wall of letters comes out as clean Khmer; always ask for a steep raking angle and broken, lichen-covered marks.
+
+## 11 Dec
+- Done: 261-270 (B27), on Drive. Chapter 7 (N08) complete. v2 overrides written for chapter 8 (N09) up to 297 (268 Nandini invented face, 273 and 276 1950s readers, 277 brothers ref, 282 aditya ref, 290 and 291 cinema crowds; Kalki stays from behind). No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205, 255. B26 zip id 17sDqf28WcQDT5x-7AgTvyW1YrAbaWcNk. Next: 271 onward.
+- 268 came out with her whole face visible (the veil sits on her hair), kept: Nandini is fictional.
