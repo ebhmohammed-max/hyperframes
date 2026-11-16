@@ -73,6 +73,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B08 | 071–080 | `19Q3tNy3OvYB_ieuKgzXtAqBEu5T7hk_D` | `16KZR8Y1aK2wnxgH0DRmKWIlKwuw34Q5m` |
 | B09 | 081–090 | `1TglgZhTMxrQT8mAbRdYpm6x-DKn0eUJJ` | `1C4GSzQoRYGVYUMNoxanHwoOwKnTDGkhw` |
 | B10 | 091–099 (nine; 100 failed) | `1Z4n74SyJNem50hEJOK67ePrRtO0tteUn` | `1oDQSSjHq4g1_V2TvBMziVWM1DBrOaEIx` |
+| B11 | 100–109 | `1n9NjrZvKiD8fcq5yT2R4pWidIYigSyKj` | `1pVQ4li46fCtdi6I2arBxOAdIvD_W9znz` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -169,6 +170,13 @@ Looked at all nine at half size.
 - Film-copy crops added in `shots/crops.json`: 092, 098, 099 had a rounded dark frame (3–3.5% inset); 094 showed a labourer's face large in the frame, so it is cropped to x 0.30–0.97, y 0.33–1.00 (hands, brush and brick wall; 915 px wide source, slightly soft).
 - Kept with a doubt: 097 has a square battlemented stone tower in the background and two-storey tiled houses that look colonial; 091 shows the archaeologist's face in part profile under the hat; 092 shows labourers' faces (invented); 093 has two 1960s jeeps and is in the flatter illustrated style; 099 shows radio valves and dial meters, a loose stand-in for a radiocarbon lab.
 
-Redo list so far: 026, 028, 050. Not yet made: 100.
+## B11 (100–109)
 
-Next: B11 = 100–109.
+All ten made and kept (100 worked on the second try). Looked at all ten at half size.
+- 100: posts driven in ancient times; 101–103, 107: the 1960s dig (curved reservoir wall, monastery cells, footprint slab, archaeologist at dusk); 104 square copper coins; 105 brick on manuscript; 106 crop marks from the air; 108, 109 the monastery in use.
+- Film-copy crops added in `shots/crops.json`: 100 had a black bar along the top; 108 had a thin dark frame all round.
+- Kept with a doubt: 109 the footprint slab carries carved swastikas next to the wheels and lotuses (they do occur on ancient Buddha-footprint slabs, but some viewers may read them wrongly; the slab is also far more ornate than the plain one in 103); 108 the monastery has a carved stone temple tower of a later, Hindu-temple style and the monks carry bowls in a row like a Southeast Asian alms round; 101 the reservoir wall is tall and deep, the real one is only a few courses; 106 the crop marks are very neat rectangles (the script only says remains lie under the fields); 100 is in the flatter illustrated style; 107 pith helmet again.
+
+Redo list so far: 026, 028, 050.
+
+Next: B12 = 110–119 (`tools/pack.py 110 119 12`).
