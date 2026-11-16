@@ -1,0 +1,22 @@
+AUDIO CREDITS — Before the Dragons: The Rise of Old Valyria (Cinematic Part One)
+
+MUSIC
+  "Ancient Rite"        Kevin MacLeod (incompetech.com) — CC BY 4.0
+  "Night Vigil"         Kevin MacLeod (incompetech.com) — CC BY 4.0
+  Licensed under Creative Commons: By Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+
+SOUND EFFECTS
+  whoosh-cinematic, whoosh-short, riser, impact-bass-1, impact-bass-2
+      Pixabay Content Licence — https://pixabay.com/service/license-summary/
+  cloth1, bookFlip1, metalLatch
+      Kenney (kenney.nl) — CC0 1.0 Universal, public domain
+
+NARRATION
+  Recorded for this episode (narrator voice-01). No third-party voice material.
+
+MIX
+  Narration 1.0; body music bed 0.9 (≈ 10 LU under the voice); trailer and outro beds
+  trimmed so the body does not feel like a level drop. Delivery mastered with
+  headroom-aware linear gain to -16 LUFS integrated, true peak held at or under
+  -1.5 dBTP. Measured, not heard.

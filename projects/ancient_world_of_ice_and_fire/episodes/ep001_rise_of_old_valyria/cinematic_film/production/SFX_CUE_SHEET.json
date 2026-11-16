@@ -1,0 +1,378 @@
+{
+  "film_seconds": 300.0,
+  "fps": 30,
+  "narration": {
+    "file": "assets/audio/narration.mp3",
+    "start": 84.0,
+    "duration": 180
+  },
+  "scenes": [
+    {
+      "id": "t01",
+      "start": 0.0,
+      "duration": 7.5
+    },
+    {
+      "id": "t02",
+      "start": 7.5,
+      "duration": 6.0
+    },
+    {
+      "id": "t03",
+      "start": 13.5,
+      "duration": 6.5
+    },
+    {
+      "id": "t04",
+      "start": 20.0,
+      "duration": 6.5
+    },
+    {
+      "id": "t05",
+      "start": 26.5,
+      "duration": 7.0
+    },
+    {
+      "id": "t06",
+      "start": 33.5,
+      "duration": 6.5
+    },
+    {
+      "id": "t07",
+      "start": 40.0,
+      "duration": 8.0
+    },
+    {
+      "id": "t08",
+      "start": 48.0,
+      "duration": 6.5
+    },
+    {
+      "id": "t09",
+      "start": 54.5,
+      "duration": 7.0
+    },
+    {
+      "id": "title",
+      "start": 61.5,
+      "duration": 16.5
+    },
+    {
+      "id": "ch01",
+      "start": 78.0,
+      "duration": 6.0
+    },
+    {
+      "id": "b01a",
+      "start": 84.0,
+      "duration": 12.0
+    },
+    {
+      "id": "b01b",
+      "start": 96.0,
+      "duration": 9.5
+    },
+    {
+      "id": "b01c",
+      "start": 105.5,
+      "duration": 8.5
+    },
+    {
+      "id": "b02",
+      "start": 114.0,
+      "duration": 15.0
+    },
+    {
+      "id": "b03a",
+      "start": 129.0,
+      "duration": 9.0
+    },
+    {
+      "id": "b03b",
+      "start": 138.0,
+      "duration": 8.0
+    },
+    {
+      "id": "b03c",
+      "start": 146.0,
+      "duration": 14.0
+    },
+    {
+      "id": "b04a",
+      "start": 160.0,
+      "duration": 9.0
+    },
+    {
+      "id": "b04b",
+      "start": 169.0,
+      "duration": 9.0
+    },
+    {
+      "id": "b05",
+      "start": 178.0,
+      "duration": 15.0
+    },
+    {
+      "id": "b06a",
+      "start": 193.0,
+      "duration": 10.0
+    },
+    {
+      "id": "b06b",
+      "start": 203.0,
+      "duration": 10.0
+    },
+    {
+      "id": "b06c",
+      "start": 213.0,
+      "duration": 16.0
+    },
+    {
+      "id": "b06d",
+      "start": 229.0,
+      "duration": 35.0
+    },
+    {
+      "id": "outro",
+      "start": 264.0,
+      "duration": 36.0
+    }
+  ],
+  "sfx": [
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 0.1,
+      "duration": 5.544,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 7.3,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 13.3,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 19.8,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 26.3,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 33.3,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 39.8,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 47.8,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 54.3,
+      "duration": 0.575,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "riser.mp3",
+      "start": 56.9,
+      "duration": 10.032,
+      "volume": 0.26,
+      "lane": 22
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 61.45,
+      "duration": 2.116,
+      "volume": 0.62,
+      "lane": 23
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 71.4,
+      "duration": 5.544,
+      "volume": 0.22,
+      "lane": 22
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 76.6,
+      "duration": 2.592,
+      "volume": 0.34,
+      "lane": 23
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 78.02,
+      "duration": 5.544,
+      "volume": 0.26,
+      "lane": 22
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 78.9,
+      "duration": 0.261,
+      "volume": 0.16,
+      "lane": 24
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 114.35,
+      "duration": 0.661,
+      "volume": 0.26,
+      "lane": 22
+    },
+    {
+      "file": "bookFlip1.ogg",
+      "start": 115.05,
+      "duration": 0.769,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 116.25,
+      "duration": 0.661,
+      "volume": 0.26,
+      "lane": 22
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 117.55,
+      "duration": 0.261,
+      "volume": 0.22,
+      "lane": 22
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 146.3,
+      "duration": 0.661,
+      "volume": 0.2,
+      "lane": 22
+    },
+    {
+      "file": "bookFlip1.ogg",
+      "start": 147.0,
+      "duration": 0.769,
+      "volume": 1.0,
+      "lane": 22
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 147.75,
+      "duration": 0.661,
+      "volume": 0.18,
+      "lane": 23
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 178.3,
+      "duration": 0.661,
+      "volume": 0.2,
+      "lane": 22
+    },
+    {
+      "file": "bookFlip1.ogg",
+      "start": 179.0,
+      "duration": 0.769,
+      "volume": 1.0,
+      "lane": 22
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 179.65,
+      "duration": 0.661,
+      "volume": 0.18,
+      "lane": 23
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 213.3,
+      "duration": 0.661,
+      "volume": 0.2,
+      "lane": 22
+    },
+    {
+      "file": "bookFlip1.ogg",
+      "start": 214.0,
+      "duration": 0.769,
+      "volume": 1.0,
+      "lane": 22
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 214.6,
+      "duration": 0.661,
+      "volume": 0.18,
+      "lane": 23
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 215.4,
+      "duration": 0.661,
+      "volume": 0.18,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 264.05,
+      "duration": 5.544,
+      "volume": 0.24,
+      "lane": 22
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 270.2,
+      "duration": 2.592,
+      "volume": 0.3,
+      "lane": 22
+    },
+    {
+      "file": "riser.mp3",
+      "start": 290.0,
+      "duration": 10.032,
+      "volume": 0.22,
+      "lane": 22
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 294.6,
+      "duration": 2.116,
+      "volume": 0.34,
+      "lane": 23
+    }
+  ],
+  "narration_cue_points": [
+    87.954, 91.565, 94.385, 95.857, 97.622, 99.283, 102.13, 103.413, 104.817, 107.031, 108.21,
+    110.229, 111.194, 112.57
+  ]
+}

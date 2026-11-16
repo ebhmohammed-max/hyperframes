@@ -1,0 +1,47 @@
+{
+  "film": {
+    "title": "Before the Dragons \u2014 The Rise of Old Valyria",
+    "part": "Cinematic Part One",
+    "duration_seconds": 300.0,
+    "fps": 30,
+    "frames": 9000,
+    "resolution": "1920x1080",
+    "scenes": 26
+  },
+  "delivery": {
+    "path": "renders/CINEMATIC_PART1_FINAL_1080p.mp4",
+    "bytes": 78187247,
+    "sha256": "7381dfbdff04b81469fe8fd1deb3ca82c95850e811c184b55e8904cdfe23c1f3",
+    "video": "h264 high@4.1 1984k 2-pass single-pass CBR-cap",
+    "audio": "aac 96k 48k stereo",
+    "loudness_lufs": -16.1,
+    "true_peak_dbtp": -2.4,
+    "faststart": true
+  },
+  "master": {
+    "path": "renders/CINEMATIC_PART1_v03_master.mp4",
+    "bytes": 182813005,
+    "sha256": "e5363e4228bcb17c880aeee1e68710f1f2543200602ed500d3ebe5cbf1983ef1",
+    "note": "full-quality render, kept local"
+  },
+  "check": {
+    "tool": "hyperframes check (repo CLI 0.8.223)",
+    "errors": 0,
+    "warnings": 0,
+    "result": "passed"
+  },
+  "timeline": {
+    "trailer": "0:00-1:01",
+    "title_sequence": "1:01-1:18",
+    "chapter_card": "1:18-1:24",
+    "body": "1:24-4:24",
+    "outro": "4:24-5:00"
+  },
+  "archive_boards": 4,
+  "sfx_cues": 33,
+  "music_tracks": [
+    "Ancient Rite (Kevin MacLeod, CC BY 4.0)",
+    "Night Vigil (Kevin MacLeod, CC BY 4.0)"
+  ],
+  "narration": "episode track, blocks B001-B006, 3:00, unchanged"
+}
