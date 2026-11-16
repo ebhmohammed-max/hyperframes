@@ -178,3 +178,40 @@ palm leaf is a wide sheet; 074 has an oil lamp with a glass chimney at the edge.
 
 Next: the full video (setup, narration from Drive, clips N01–N10, title sequence, subscribe
 pop-up, end card, join, levelling, 1080p parts, 720p copy, upload, one zip of all 327 pictures).
+
+## 19 Dec · full film v1 built and delivered
+
+Toolchain rebuilt (`bash tools/setup.sh`), narration fetched from Drive into `narration/`
+(`shared/vo` → `../narration`, `shared/plates` → `../out/img`).
+
+New in the film:
+- `film/title.mjs` → `film/TITLE/`: 12 s title sequence (crown 002 → Aditya 298 → empty throne 026,
+  "ஆதித்த கரிகாலன் / இளவரசனை கொன்னது யாரு?"), no voice, light effects, no numbers.
+- `film/gen.mjs`: silent 5 s subscribe pop-up, top right, in chapter 1 (N02) from the start of line 5 (21.2 s into the clip).
+- `tools/finish.sh parts|720`: joins in the order N01, TITLE, N02–N10, END; one gain for the whole film
+  (measured −16.59 LUFS → +2.59 dB, limiter at 0.8); result −14.3 LUFS, true peak −1.5 dB.
+
+Render: `hyperframes render --quality looks --crf 18`, about 6 min per chapter on 2 CPUs (queue in `/tmp/queue.sh`).
+Running time 756.6 s (12 min 37 s).
+
+Drive, EP11 folder → `final_video_v1` (`1riTy3IoB51NZ9pt_gRsF96LPUhjbm6kR`), 1080p parts in running order:
+- 01 hook + title `1m-KER0f5ZkZk8O5b3dLR8V0DHHQQp7Ur`
+- 02 ch1 `14bXPL7XHTPtMDagCnJEFMTggazuwGYlz`
+- 03 ch2 `1RRyUprPF_OppW7bbzmDvtNBt0_7N1VBy`
+- 04 ch3 `1Kt4Y5QQgXF4jpUxfNcoRuJd7En8ICEUq`
+- 05 ch4 `1H15pTf4X1I2W2SCeD-l9_LlMVpFD5xZA`
+- 06 ch5 `1RYfqRoVtlmsM6w4Ror6UwIgyqaNkynSI`
+- 07 ch6 `1mlLGkXNPCouI9DLYsqQdwptk2HKK5MHP`
+- 08 ch7 `1E2wD1EUFSozJDN_RrOS4F9f-D9pF3IX6`
+- 09 ch8 `14uEx7eEihZ4llPx_ZwZ43F3qb3_L_i3n`
+- 10 ch9 + end card `1fn10ykKfLl0FFMIg_btfpQoqYgwVmNPf`
+
+All 327 pictures in one zip: `images/EP11_all_327_images_final.zip` `1Yj7H4kVY37NFKq5J8IH1EQve81WLk499`.
+One-file copy: `EP11_Aditya_Karikalan_full_720p.mp4` `1ErHTC4Y6BRup7KR0EubP6lvN29UKqNqY`
+(1280×720, 89 MB, two-pass 840k + AAC 112k, −14.4 LUFS).
+
+Not kept locally between sessions: `out/renders`, `out/deliver` (rebuild: setup, narration from Drive,
+`node film/gen.mjs N01 … N10`, `node film/title.mjs`, `node film/end.mjs`, render each, `bash tools/finish.sh parts`, `… 720`).
+
+Still open: final voice (scratch `voice-02` now), music bed, native Tamil read-through, evidence tags keep or drop,
+soft line N03 q14, pictures kept with doubts (see earlier sections).
