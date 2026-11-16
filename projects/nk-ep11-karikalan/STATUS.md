@@ -102,3 +102,7 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 5 Dec
 - Done: 201-210 (B21), on Drive. 205 added to the redo list (officer in a later-period tunic and turban). 207 film copy cropped via crops.json (power lines top right in the raw picture). Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B20 zip id 1XiJkIkL238GrzZTYMsNbKYWrkWNRgbec. Next: 211 onward.
+
+## 6 Dec
+- Done: 211-220 (B22), on Drive. No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B21 zip id 1SwwBB-tusFFf6b4qalK_mJw2rRz_2LqZ. Next: 221 onward; write v2 overrides for chapter 7 (N08, images 231-267) before 231.
+- Kept with a doubt: 215 the three walk toward the camera instead of looking back at the house.
