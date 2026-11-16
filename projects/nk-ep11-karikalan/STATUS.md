@@ -99,3 +99,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 4 Dec
 - Done: 191-200 (B20), on Drive. B19 sheet now uploaded (the TODO above is cleared). v2 overrides written for chapter 6 (N07) up to 230 (faces: 203, 205, 210, 215, 218, 222, 223; no cast refs). Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B19 zip id 1wd3xdMn0x9dgV_er6a7nzGKNRxtDAoLx. Next: 201 onward.
 - Kept with a doubt: 194 and 195 show a fort wall with European-looking battlements under the banner; 191 the brothers face the camera with the throne behind them.
+
+## 5 Dec
+- Done: 201-210 (B21), on Drive. 205 added to the redo list (officer in a later-period tunic and turban). 207 film copy cropped via crops.json (power lines top right in the raw picture). Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B20 zip id 1XiJkIkL238GrzZTYMsNbKYWrkWNRgbec. Next: 211 onward.
