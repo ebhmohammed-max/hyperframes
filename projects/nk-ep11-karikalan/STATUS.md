@@ -110,3 +110,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 7 Dec
 - Done: 221-230 (B23), on Drive. Chapter 6 (N07) complete. No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B22 zip id 1IqH086tbCHlXAy0DhKB_9hqhv5dDCNlr. Next: 231 onward; write v2 overrides for chapter 7 (N08, images 231-267) first.
 - Kept with a doubt: 225 the travellers wear sleeved tunics and shoulder sacks; 228 hooded cloaks in a misty forest that looks more northern than Tamil.
+
+## 8 Dec
+- Done: 231-240 (B24), on Drive. v2 overrides written for chapter 7 (N08) up to 267 (cast refs: 236 and 238 uttama, 243 arulmozhi+uttama, 247 and 264 brothers, 258 sundara; 244 crowd; 250 brother-sister stays a silhouette because the 1971 claim has no evidence). No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B23 zip id 1LQZFH4npFQ-IkLJ25yPqBuyw-oeGvJ-3. Next: 241 onward.

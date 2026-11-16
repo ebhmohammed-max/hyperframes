@@ -2485,7 +2485,10 @@
   "name": "uttama_throne_routine",
   "look": "L",
   "file": "EP11_236_N08q02_uttama_throne_routine.jpg",
-  "prompt": "A king's silhouette on the throne during routine court, petitioners seen from behind. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Routine court in the palace hall, the king Uttama Chola seated on the throne, the same man as in the reference image now wearing a gold crown, his face visible, calm and unreadable, ministers at the sides and petitioners bowing before him. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "uttama"
+  ]
  },
  {
   "n": 237,
@@ -2505,7 +2508,10 @@
   "name": "crown_glint_silhouette",
   "look": "L",
   "file": "EP11_238_N08q03_crown_glint_silhouette.jpg",
-  "prompt": "Light glinting on the crown of a seated silhouette. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Close view of the king Uttama Chola on the throne, the same man as in the reference image wearing a gold crown that glints in the lamp light, half of his face in shadow, unreadable. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "uttama"
+  ]
  },
  {
   "n": 239,
@@ -2555,7 +2561,11 @@
   "name": "arulmozhi_bows_uncle",
   "look": "L",
   "file": "EP11_243_N08q06_arulmozhi_bows_uncle.jpg",
-  "prompt": "A young prince seen from behind bowing to an older man seated on a throne. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The young prince Arulmozhi, the same young man as in the first reference image, bowing with joined palms before his uncle the king Uttama Chola, the same man as in the second reference image, seated on the throne wearing a gold crown, both faces visible, the court watching. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "arulmozhi",
+   "uttama"
+  ]
  },
  {
   "n": 244,
@@ -2565,7 +2575,8 @@
   "name": "peaceful_festival",
   "look": "P",
   "file": "EP11_244_N08q06_peaceful_festival.jpg",
-  "prompt": "A peaceful temple festival procession through a village, farmers and children seen from behind, no soldiers. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A peaceful temple festival procession through a village, a decorated temple car pulled by a crowd of farmers, women and children, musicians with drums and long horns, their faces visible, joyful, no soldiers. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 245,
@@ -2595,7 +2606,10 @@
   "name": "three_clasp_hands_lamp",
   "look": "L",
   "file": "EP11_247_N08q07_three_clasp_hands_lamp.jpg",
-  "prompt": "Three men seen from behind in a dim room clasping hands over a lamp. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The three brothers from the reference image standing in a dim room clasping their right hands together over a single brass lamp in an oath, their faces visible, grim. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 248,
@@ -2705,7 +2719,10 @@
   "name": "old_king_raises_hand",
   "look": "L",
   "file": "EP11_258_N08q12_old_king_raises_hand.jpg",
-  "prompt": "The silhouette of an aged king raising a hand to give an order. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The aged king Sundara Chola, the same man as in the reference image, older and tired, seated on his throne raising one hand to give an order, his face visible, ministers waiting. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "sundara"
+  ]
  },
  {
   "n": 259,
@@ -2765,7 +2782,10 @@
   "name": "three_before_dais",
   "look": "L",
   "file": "EP11_264_N08q15_three_before_dais.jpg",
-  "prompt": "Three bound men seen from behind standing before a king's dais, ministers at the sides. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The three brothers from the reference image standing with their wrists tied with rope before a king's raised dais, guards beside them and ministers at the sides, their faces visible, heads unbowed, the king only a shape on the dais. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 265,
