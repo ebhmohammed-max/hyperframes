@@ -155,3 +155,26 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - After that: full film (tools/setup.sh, narration from Drive, render N01-N10, title sequence, subscribe pop-up, join, level, upload) and EP11_all_327_images_final.zip.
 - B32 zip id 1y-ob01DcT6MBiuOb4UdWlfU5gDZ0qTtV.
 - B33 on Drive (zip 1134mwujkBdA3Jv182YuPgNyR8V9eg-0t). B26, B28, B30 replaced on Drive with the remade 255, 274, 297 (old files trashed). trash_file input: {"input": {"file_id", "supports_all_drives": true}}; sequential uploads did not hit the rate limit.
+
+## 18 Dec · final redo pass: all 327 pictures now exist
+
+Remade and swapped into the store (`google_drive/ep11_pics/raw/`, old versions in `replaced/`):
+048, 061, 074, 095, 117, 205; made for the first time: 067, 110. `shots/redo.txt` is now empty.
+110 took two tries: the first had a mahout in a turban and waistcoat on a desert plain
+(kept as `redo/110_first_try.jpg`); the second names a bare-chested mahout and palmyra palms.
+
+Batches re-sheeted, repacked and replaced on Drive (old files trashed). New ids, zip / sheet:
+- B05 041–050 `1Mf1HO1RZQdQosgEgXXPphshQnC5_XkVc` / `1yy3PJE2z5yG81X47z0xG0jS2odaX2QO_`
+- B07 061–070 `1zaM04P9-GfZrPPLuwSy0-B0v85KjYCbH` / `1-9uUz7MOAZFd5AfN30jpUucH958kFfvR`
+- B08 071–080 `1iOcEThkTUK91AvVBJ8ckpyP1YheGaGng` / `1ibgF1tus4DmlftpMYX-3ZfnzEk6wBvCG`
+- B10 091–100 `19PBKJgfhfSl-5NrdcGqRgiYysG24gaeu` / `1HPTcHveEvU_2-bNfxM9uYa2gLLKcQ6hA`
+- B11 101–110 `1Vgr4U-UsmY5LKgA67t3jgKZTylNlyv9u` / `1rWDNGfHiKm4UhsVVU-hcaSPU6uEwqfgP`
+- B12 111–120 `19anWu2d0Le-ZgFedcCD4TyuB_MeclpoX` / `1VVTFvrerVN2bGd_XAKy08-7nFbqd5YtE`
+- B21 201–210 `1rLa1NmdjLt-emxVX6OwhVmrP_faS46Ns` / `1XTdAk7GQ1LgnmicHKfyzbJaCxI0zcPqk`
+
+Small things left as they are: 095 has one basket-hilted sword at the left edge; 117 has a tiny
+smudge of marks on one building in the drawing; 205 is more photographic than painted and the
+palm leaf is a wide sheet; 074 has an oil lamp with a glass chimney at the edge.
+
+Next: the full video (setup, narration from Drive, clips N01–N10, title sequence, subscribe
+pop-up, end card, join, levelling, 1080p parts, 720p copy, upload, one zip of all 327 pictures).
