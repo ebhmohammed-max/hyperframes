@@ -154,3 +154,4 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 - Redo list (8, one message): 048, 061, 067, 074, 095, 110, 117, 205. Write each to google_drive/ep11_pics/redo/NNN.jpg, view, then copy over raw/NNN.jpg, rerun sheet.py for B05, B07, B08, B10, B11, B12, B21, pack, replace on Drive.
 - After that: full film (tools/setup.sh, narration from Drive, render N01-N10, title sequence, subscribe pop-up, join, level, upload) and EP11_all_327_images_final.zip.
 - B32 zip id 1y-ob01DcT6MBiuOb4UdWlfU5gDZ0qTtV.
+- B33 on Drive (zip 1134mwujkBdA3Jv182YuPgNyR8V9eg-0t). B26, B28, B30 replaced on Drive with the remade 255, 274, 297 (old files trashed). trash_file input: {"input": {"file_id", "supports_all_drives": true}}; sequential uploads did not hit the rate limit.
