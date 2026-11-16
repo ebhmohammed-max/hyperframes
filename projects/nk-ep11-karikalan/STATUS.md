@@ -85,3 +85,6 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 
 ## 30 Nov
 - Done: 151-160 (B16), on Drive. Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B15 zip id 1K44xyg4RLuFPziQ3BkL15aGjdbqNMb-r. Next: 161 onward; write v2 overrides for chapter 5 (N06, images 165-197) first.
+
+## 1 Dec
+- Done: 161-170 (B17), on Drive. v2 overrides written for chapter 5 (N06) up to 197 (brothers ref for 184, 186, 188, 191, 197). Redo list unchanged (048, 061, 067, 074, 095, 110, 117). B16 zip id 1WMhslxLOezKgQVZWUUNR9bUqb_beR_xV. Next: 171 onward.

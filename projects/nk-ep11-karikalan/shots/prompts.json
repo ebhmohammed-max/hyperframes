@@ -1744,7 +1744,10 @@
   "name": "coronation_procession",
   "look": "P",
   "file": "EP11_165_N06q00_coronation_procession.jpg",
-  "prompt": "A coronation procession, a royal elephant with howdah and parasols moving through a crowded street, crowd seen from behind. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A coronation procession through a crowded street, the new king Rajaraja riding a royal elephant in a howdah under white parasols, the same man as in the reference image but older, about thirty-eight with a full moustache and a tall jewelled crown, his face visible, a cheering crowd throwing flowers, faces visible. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "arulmozhi"
+  ]
  },
  {
   "n": 166,
@@ -1754,7 +1757,10 @@
   "name": "sacred_water_king",
   "look": "L",
   "file": "EP11_166_N06q00_sacred_water_king.jpg",
-  "prompt": "Sacred water being poured over a seated king seen from behind. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Sacred water being poured from brass vessels by priests over the seated new king Rajaraja, the same man as in the reference image but older, about thirty-eight with a full moustache, eyes closed, his face visible, ministers watching. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "arulmozhi"
+  ]
  },
  {
   "n": 167,
@@ -1794,7 +1800,8 @@
   "name": "brahmin_village_street",
   "look": "P",
   "file": "EP11_170_N06q02_brahmin_village_street.jpg",
-  "prompt": "A tenth-century village of thatched and tiled houses along one straight street leading to a small temple, a canal, palms. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A tenth-century Brahmin village, thatched and tiled houses along one straight street leading to a small temple, villagers, priests with sacred threads and children in the street, a canal and palms. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 171,
@@ -1864,7 +1871,8 @@
   "name": "messenger_elders_tree",
   "look": "P",
   "file": "EP11_177_N06q07_messenger_elders_tree.jpg",
-  "prompt": "A royal messenger seen from behind handing a sealed palm-leaf order to village elders seated under a tree. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A royal messenger handing a sealed palm-leaf order to a group of village elders seated under a great tree, old men with sacred threads and grey topknots, their faces visible, grave and attentive. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 178,
@@ -1874,7 +1882,8 @@
   "name": "elders_letter_on_head",
   "look": "P",
   "file": "EP11_178_N06q07_elders_letter_on_head.jpg",
-  "prompt": "Village elders seen from behind rising to receive a royal letter with respect. Daylight, tenth-century Chola South India, bare-chested men in white dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "Village elders rising to their feet to receive a royal letter with respect, one elder raising the palm-leaf order to his forehead, faces visible, the village assembly watching. Daylight, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": []
  },
  {
   "n": 179,
@@ -1934,7 +1943,10 @@
   "name": "official_with_documents",
   "look": "L",
   "file": "EP11_184_N06q11_official_with_documents.jpg",
-  "prompt": "A high official seen from behind in fine cloth with a sacred thread and gold ear-rings carrying palm-leaf documents through a palace hall. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A high royal official carrying palm-leaf documents through a palace hall, the tall gaunt man from the middle of the reference image, in fine cloth with a sacred thread and gold ear-rings, his face visible, cold and assured. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 185,
@@ -1954,7 +1966,10 @@
   "name": "official_near_royal_seat",
   "look": "L",
   "file": "EP11_186_N06q12_official_near_royal_seat.jpg",
-  "prompt": "An official seen from behind standing near a royal seat holding a staff of office. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A high royal official standing close to a royal seat holding a staff of office, the broad stern youngest man from the reference image, shaved forehead and sacred thread, his face visible. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 187,
@@ -1974,7 +1989,10 @@
   "name": "three_at_lamp",
   "look": "L",
   "file": "EP11_188_N06q13_three_at_lamp.jpg",
-  "prompt": "Three male silhouettes gathered close around a single lamp, no faces. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The three brothers from the reference image gathered close around a single brass lamp at night, speaking low, their faces visible in the flame light. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 189,
@@ -2004,7 +2022,10 @@
   "name": "council_near_throne",
   "look": "L",
   "file": "EP11_191_N06q15_council_near_throne.jpg",
-  "prompt": "Officials seen from behind seated close to the throne in council. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "A royal council, officials seated on the floor close to the throne, the three brothers from the reference image seated nearest to the king's seat, their faces visible, other councillors behind. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 192,
@@ -2064,7 +2085,10 @@
   "name": "brothers_family_meal",
   "look": "L",
   "file": "EP11_197_N06q19_brothers_family_meal.jpg",
-  "prompt": "Three brothers seen from behind sharing a meal on the floor of a house by lamp light. Night interior lit by brass oil lamps, tenth-century Chola South India, bare-chested men in dhotis with topknots. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. No faces shown. Any writing is weathered and illegible. No text, no captions, no watermark."
+  "prompt": "The three brothers from the reference image sharing a meal on banana leaves on the floor of a house by lamp light, their faces visible, an ordinary family evening. Night interior lit by brass oil lamps, tenth-century Chola South India. Painted-realism concept art, wide 16:9 cinematic film still, muted teal and amber palette, deep shadows, 35mm film grain. Any writing is weathered and illegible. No text, no captions, no watermark.",
+  "refs": [
+   "brothers"
+  ]
  },
  {
   "n": 198,
