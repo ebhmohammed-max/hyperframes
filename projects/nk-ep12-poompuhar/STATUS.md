@@ -72,6 +72,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B07 | 061–070 | `1kVHMHlyxF80rFoZ4UnoDFuyDiHCyRLjo` | `1w5BK0KqNBSAT2jk0d1fo3hj6_qChvu9r` |
 | B08 | 071–080 | `19Q3tNy3OvYB_ieuKgzXtAqBEu5T7hk_D` | `16KZR8Y1aK2wnxgH0DRmKWIlKwuw34Q5m` |
 | B09 | 081–090 | `1TglgZhTMxrQT8mAbRdYpm6x-DKn0eUJJ` | `1C4GSzQoRYGVYUMNoxanHwoOwKnTDGkhw` |
+| B10 | 091–099 (nine; 100 failed) | `1Z4n74SyJNem50hEJOK67ePrRtO0tteUn` | `1oDQSSjHq4g1_V2TvBMziVWM1DBrOaEIx` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -160,6 +161,14 @@ All ten kept. Looked at on the sheet and all ten at half size; the manuscripts i
 - Kept with a doubt: 085 has torches and lamps in what is meant to be grey daylight (the setting text adds "moonlight and lamp glow"); 087 shows a small broken pot, not a single sherd, and scribbled note pages; 088 the square is already dug, not just marked; 089, 090 show labourers' faces (small, invented, no real person); 090 the supervisor wears a pith helmet.
 - 088–090 came out in a flatter, more illustrated style than the photographic 082 and 087.
 
-Redo list so far: 026, 028, 050.
+## B10 (091–099; 100 not made)
 
-Next: B10 = 091–100.
+Nine made and kept. The call for 100 failed ("Image generation failed") and the failed call used up the tenth slot of the turn, so 100 moves to the next batch. From here the batches run 100–109, 110–119, … ; pack them with the batch number as a third argument (`tools/pack.py 100 109 11`).
+Looked at all nine at half size.
+- 091–096, 098: the 1960s dig (trenches, silted channel, brick wall, wharf platform with channel and blackened posts, wood sample). 097: the wharf in use in ancient times. 099: 1960s dating lab.
+- Film-copy crops added in `shots/crops.json`: 092, 098, 099 had a rounded dark frame (3–3.5% inset); 094 showed a labourer's face large in the frame, so it is cropped to x 0.30–0.97, y 0.33–1.00 (hands, brush and brick wall; 915 px wide source, slightly soft).
+- Kept with a doubt: 097 has a square battlemented stone tower in the background and two-storey tiled houses that look colonial; 091 shows the archaeologist's face in part profile under the hat; 092 shows labourers' faces (invented); 093 has two 1960s jeeps and is in the flatter illustrated style; 099 shows radio valves and dial meters, a loose stand-in for a radiocarbon lab.
+
+Redo list so far: 026, 028, 050. Not yet made: 100.
+
+Next: B11 = 100–109.
