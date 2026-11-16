@@ -35,3 +35,7 @@ N11 sentence starts (s): 0.25, 3.14, 6.19, 9.77, 11.51; ends 12.72.
 ## 19 Nov
 - Done: 041-050 (B05), on Drive. 048 is wrong for the period (see shots/redo.txt); remakes are collected there and done in one pass after the last batch.
 - Next: 051 onward.
+
+## 20 Nov
+- Done: 051-060 (B06), on Drive. v2 overrides written for chapter 2 (N03) up to 096.
+- Next: 061 onward.
