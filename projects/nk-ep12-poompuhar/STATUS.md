@@ -7,7 +7,7 @@ Same pipeline as EP11 (`projects/nk-ep11-karikalan/STATUS.md` has the lessons an
 
 - Script v1: `script/script.mjs` → `SCRIPT_TA.md`. Hook + nine chapters, 179 lines, 13,346 characters.
 - Evidence tags: I இலக்கியம் · A அகழாய்வு · S கடல் ஆய்வு · O ஆய்வாளர் கருத்து · C நிரூபிக்கப்படாத கூற்று.
-- Fact sheet: `FACT_SHEET.md` (every claim, its sources, and the items marked **check**).
+- Fact sheet: `FACT_SHEET.md`. Says for each claim whether my research notes back it; 24 rows are marked **check**. The three-sources bar is met for only a few rows.
 - Scratch narration, voice-02: N01–N10 = 897.6 s (N01 75.4, N02 90.2, N03 80.7, N04 85.0, N05 87.7, N06 87.6, N07 93.9, N08 100.6, N09 99.2, N10 97.2). N11 is the channel end card (13.1 s), the same file as EP10 and EP11.
 - Line timings: `narration/align.json` (0 lines flagged).
 - Shot list: 322 pictures (`shots/shots.txt` → `shots/prompts.json`, `SHOTLIST.md`); about one picture per 2.8 s. Cast of four in `shots/CAST.md`.
@@ -36,7 +36,7 @@ Folder `EP12_Poompuhar` `1fC15q9VvjorFPg5i3gPGbTCjqrg6ncm9` inside NK Documentar
 | File | Id |
 |---|---|
 | EP12_SCRIPT_TA_v1.md | `1jsropJwNIHDc3t4bkrdBpX_L63Hr_vAF` |
-| EP12_FACT_SHEET.md | `1NwnmjKRJbd7MDb-MLCg0moXN0XA5smX3` |
+| EP12_FACT_SHEET.md (second upload; the first, `1Nwnmj…`, is in the Drive trash) | `1MeEAkjTXwSnrHpFaqmLC-1YTVZgXQIwJ` |
 | EP12_SHOTLIST_322_images.md | `1g6tGvdVnIY2b4AO_8uZVfv8BP8Pxx1FA` |
 | EP12_narration_scratch_voice02.zip | `1LQN3CixbqcThLrHdwTjcawZP4wt8zPpN` |
 | images/ (folder) | `17TRLcMeP345nbeyuRKVzXeyzMS_C0JRL` |
@@ -51,3 +51,8 @@ Note: karikala came out with a short beard as well as the moustache, and holding
 ## Next
 
 Pictures 001–322, batches of 10 (`tools/next.py`, `tools/pack.py`). Nothing generated yet.
+
+## Not checked
+
+- The narration was generated and aligned (0 lines flagged) but nobody has listened to it; no loudness check yet.
+- No pictures made apart from the four cast portraits.
