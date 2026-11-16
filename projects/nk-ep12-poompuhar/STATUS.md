@@ -68,6 +68,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B03 | 021–030 | `1uhbeJKvbOKlxG9-y9kVTzlQ-g1xhdZRY` | `1sj-z6cJK3aGIlbUVe9Ev6u2vcqfEqibz` |
 | B04 | 031–040 | `1Y8gw05UTtuv2gGY-P8d9lH8KSP9C3iM2` | `1ES9wsABZWSCx0jlKG9VIp1De6c9jf_xY` |
 | B05 | 041–050 | `13_4gL2hzyi7-Mh48PYiW3js4ubHUvLuO` | `1NJCUIcPllvC60RSK_mw250fVhhtUSekN` |
+| B06 | 051–060 | `1TU3c0D2s7Nb8J4yZYxKWr_HzbV-gjHAk` | `1_MnoPYd3zORP7QWWKFfR_BEUzdmd_SPy` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -114,4 +115,13 @@ Nine kept, one to redo. Looked at on the sheet; 041, 043, 045–050 at half size
 
 Redo list so far: 026, 028, 050.
 
-Next: B06 = 051–060.
+## B06 (051–060)
+
+All ten kept. Looked at on the sheet; 051, 055, 056, 057 at half size.
+- The ship wording worked: every ship in this batch is single-masted.
+- Kept with a doubt: 051 shows a spoked ship's wheel on deck (a much later invention). 055, the geographer is seen from behind but part of his bearded profile shows.
+- 056: the map's marks could not be read at half size; not checked at full size.
+
+Redo list so far: 026, 028, 050. Chapter 01 (N02) pictures are complete with this batch.
+
+Next: B07 = 061–070 (066 uses `king` and `peelivalai`; 067, 068 use `peelivalai`).
