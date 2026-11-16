@@ -106,3 +106,7 @@ cast 1LpNYhX_QnFiYtMG__1uL8dfpltiwckK3 | B01 1JLVnWq0zQ3j6RXWUn4_ImN8SOkhl6fu- |
 ## 6 Dec
 - Done: 211-220 (B22), on Drive. No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B21 zip id 1SwwBB-tusFFf6b4qalK_mJw2rRz_2LqZ. Next: 221 onward; write v2 overrides for chapter 7 (N08, images 231-267) before 231.
 - Kept with a doubt: 215 the three walk toward the camera instead of looking back at the house.
+
+## 7 Dec
+- Done: 221-230 (B23), on Drive. Chapter 6 (N07) complete. No new redo. Redo list: 048, 061, 067, 074, 095, 110, 117, 205. B22 zip id 1IqH086tbCHlXAy0DhKB_9hqhv5dDCNlr. Next: 231 onward; write v2 overrides for chapter 7 (N08, images 231-267) first.
+- Kept with a doubt: 225 the travellers wear sleeved tunics and shoulder sacks; 228 hooded cloaks in a misty forest that looks more northern than Tamil.
