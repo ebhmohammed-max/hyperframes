@@ -92,6 +92,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B27 | 260–269 | `1uGMV-Ocdj_ObMMpHnnLG3wFvgQmy8_-U` | `19R4CpUJVWj1sD3TiAsII1tINTQ_kjb8k` |
 | B28 | 270–279 | `1xPLyDrzmqbXZrAOYHLqmThuEPfxd-Kz_` | `1V3EpM5KTP-fmkXG1-yBOMtkxXZV8t48t` |
 | B29 | 280–289 | `1sVUW-5xR07E9hEuNChyZC8gpuEwbp752` | `1AdZ4dpns7k9WDGf6Et7dMZBPC_KDoVYY` |
+| B30 | 290–299 | `1afe9BtKCbcA2hhUI7bAoOcG22jLWzQly` | `1YE3SZ70jHc-Vbd5rEKQxW2m6-IDd2mfk` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -356,6 +357,14 @@ Ten made; nine kept, one for redo. Looked at all ten at half size; 285, 288 and 
 - Kept with a doubt: 287 is in a heavy painted, comic-like style; 285 the "black-and-red" sherd has a painted geometric pattern and the well-ring piece looks like a pot rim; 283 a flask stands on the table.
 - The port setting has drifted into a flat illustrated style in 274, 275, 280, 287 (289 is fine). For the remaining port rows consider starting the prompt with "Photorealistic".
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Plan: B30 = 290–299, B31 = 300–309, B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other nine redos plus one doubtful picture (159). Any further redo needs a B35, which would also take the remaining doubtful pictures (263, 188, 213, 287, 151).
+## B30 (290–299)
 
-Next: B30 = 290–299 (`tools/pack.py 290 299 30`). Ring-well row still to come: 295.
+Ten made; all ten kept. Looked at all ten at half size, and 290, 291, 292, 294, 298 again after cropping.
+- Good: 290 (the wave with a faint goddess over the sleeping town, mural style), 291 (red-cloth bundle beside a guttering lamp), 292 (the excavated brick wharf at dawn with post stumps), 293 (low brick cells of the monastery, a visitor from behind), 294 (street with a granite temple gateway, the sea close behind), 295 (one-piece ring-well rim with fish inside), 296 (bricks showing through the sand), 297 (sunbeams on low brick walls and a broken pot), 298 (diver hovering over the overgrown ridge), 299 (ridge surface in torch light).
+- Film-copy crops added in `shots/crops.json`: 290 and 292 (both came with a rounded film frame; trimmed 3–4 % all round), 294 (black bars top and bottom).
+- Prompts used differ from `prompts.json`: 292 ("soft early dawn light", a long low platform of large flat bricks with post stumps), 293 (rows of small cells only knee high; visitor "seen from directly behind"), 294 ("Photorealistic", ox carts, flat coast), 295 (one-piece ring wording), 297 ("only a few courses high"), 298 ("low overgrown curved ridge" in place of "horseshoe ridge").
+- Kept with a doubt: 291 a steel tumbler stands at the right edge; 293 the monastery is a very large regular grid of cells; 294 the gateway is richly carved; 297 the wall is close to a metre high and the pot has handles like an amphora; 298 the growth on the ridge includes fan shapes like coral.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Plan: B31 = 300–309, B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other nine redos plus one doubtful picture (159). Any further redo needs a B35, which would also take the remaining doubtful pictures (263, 188, 213, 287, 151).
+
+Next: B31 = 300–309 (`tools/pack.py 300 309 31`). No ring-well rows are left.
