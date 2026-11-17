@@ -84,6 +84,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B19 | 180–189 | `19SM43vo3sQsWu-jvZFOoqBvD9XTzl3tU` | `1EmVAM4z0YzSNHyUR4koaHF9GfksKbL71` |
 | B20 | 190–199 | `1D5WWiPPGYrDBK6MEkDMkK-7SGzaaVUvv` | `1BB5zLZnmN5EZRQosmKFUG0gt-2V_KCOn` |
 | B21 | 200–209 | `1kLp2w1q3e9Xibuhpvl90hM-BBsPKNMfW` | `1NfPMOIIMuSH_SfKp1aF0E0XlKtoENJdr` |
+| B22 | 210–219 | `1T4dnP6-B9FNDrgLCOvG29qTPBgg7V3ee` | `1dA72nB2__MeeEemy5PHJlCpTh0nmuLJX` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -277,6 +278,15 @@ Ten made; eight kept, two for redo. Looked at all ten at half size; the gauge in
 - Film-copy crop added in `shots/crops.json`: 208 (3.5% inset; white rounded frame).
 - Kept with a doubt: 206 and 208 look like African savanna (flat-topped acacias); 206 has hills behind.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209 (ten). Plan: B22 = 210–219 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151).
+## B22 (210–219)
 
-Next: B22 = 210–219 (`tools/pack.py 210 219 22`).
+All ten made and kept. Looked at all ten at half size; the sketch in 210, the camera in 211 and the head in 213 at full size.
+- 210–218 close N07 (the 2001 visit): the archaeologist's sketch (a thick U-shaped band, no labels: the "only the drawing" wording works), the interview camera, men hauling a block, the writer looking into the water, the empty sample bag, the empty dish, the level balance, the ridge alone, the closed book and mask. 219 opens N08 (the wake fading at dusk).
+- **211 raw picture edited**: the camera carried a readable "SONY" and an "SX" badge. Both were painted over in `google_drive/ep12_pics/raw/211.jpg` (two small patches at raw x 1002–1029, y 216–228 and x 1036–1063, y 239–266); the zip on Drive holds the edited picture. The untouched original is not kept.
+- Film-copy crop added in `shots/crops.json`: 212 (x 0–0.74, y 0.20–0.94) to cut out a temple tower in the background.
+- Prompts used differ slightly from `prompts.json`: 213 added "his face not visible"; 219 said "fading dusk light" in place of "soft morning light".
+- Kept with a doubt: 213 the writer's bearded jaw shows in shadowed profile, and the boat is a small canoe on a backwater, not a sea boat; 210 the archaeologist is a woman (the script does not say); 211 big ships on the horizon; 212 hills behind.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209 (ten). Plan: B23 = 220–229 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+
+Next: B23 = 220–229 (`tools/pack.py 220 229 23`).
