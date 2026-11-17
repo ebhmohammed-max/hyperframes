@@ -88,7 +88,7 @@ N04|0|pushpaka_to_grove|A|a golden flying chariot coming down toward a walled gr
 N04|1|mandodari_window_grove|L@mandodari|a queen at a high palace window at night looking down toward a distant lamp-lit grove
 N04|2|ravana_grove_anger|A@ravana|a king in rich robes standing in a grove at dawn with one arm flung out in anger, attendants with torches behind him
 N04|2|sita_back_grass|A|a woman in a plain pale cloth seated on the ground under a tree, seen from behind, a single blade of grass laid on the ground between her and a tall shadow
-N04|2|dhanyamalini_leads|A@ravana|a young royal wife in green silk gently drawing a king away by the arm while he turns his head back with a hard laugh
+N04|2|dhanyamalini_leads|A@ravana|a young royal wife in blue silk gently drawing a king away by the arm while he turns his head back with a hard laugh
 N04|3|tulsi_writing_ghat|O|a sixteenth-century North Indian poet-saint in plain white seen from behind, writing on loose paper sheets on a river ghat at dawn, no readable writing
 N04|3|mandodari_stops_sword|A@ravana,mandodari|a queen stepping in front of an angry king and holding his raised sword arm by the wrist, red blossom behind them
 N04|4|mandodari_pleads|L@ravana,mandodari|a queen with joined palms speaking earnestly to a king seated on a couch, he looks away

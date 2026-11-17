@@ -4,3 +4,4 @@
 038|the crown is a European medieval crown: make it an ancient Indian tall gold crown (kirita)
 040|the figure wears a hooded cloak like a monk of Europe: make it a bare-armed ascetic with matted hair, dark against the fire
 050|the foot looks old and veined with a thread anklet: make it a youthful, smooth, divine foot with a rudraksha or gold anklet and a soft glow
+081|the crown is a European arched crown: make it the same small Indian gold crown that Mandodari wears in her portrait (pass cast/mandodari.jpg)
