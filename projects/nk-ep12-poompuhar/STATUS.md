@@ -80,6 +80,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B15 | 140–149 | `1r9Gj-GNotqsdYatewsw7MzCt-eULDj4-` | `1LDIZKebRf2Jp_wzRkr-tRnhVPH1VtzGH` |
 | B16 | 150–159 | `16PeGh3TSeFAXvHCqucE9SRhS4gKdQC5y` | `1dgjC0eas4CMT2LWdgx_tWQMuuduegaKo` |
 | B17 | 160–169 | `1031ch4Hb90hEyfgA21SIMO-yV575OSMa` | `1LMNUqUCvW1Go4KiyHW1wj26b2m_TlVy8` |
+| B18 | 170–179 | `1DMi2ovtvA601iX_QxEwnD9pgdkqxmKdY` | `1yAGd-3yHKYhv7YLWYghFkLhIj0UVURbW` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -240,6 +241,14 @@ Ten made; seven kept, three for redo. Looked at all ten at half size; the sketch
 - Film-copy crops added in `shots/crops.json`: 163, 166, 168 had a black bar or dark rounded frame.
 - Kept with a doubt: 161 the U-shape looks about 25 m across against the diver, the script says 85 m; 163 has colourful growth close to coral.
 
-Redo list so far: 026, 028, 050, 166, 168, 169. Plan: after 170–319 (15 batches of ten) the last turn has 320–322 plus seven free slots, enough for these six. One more redo fits; beyond that the redo pass needs its own turn.
+## B18 (170–179)
 
-Next: B18 = 170–179 (`tools/pack.py 170 179 18`).
+Ten made; nine kept, one for redo. Looked at all ten at half size; the papers in 172, 173 at full size.
+- Good: 170 (slack tape), 171 (diver in murk), 172 (typed report, blurred and unreadable), 174 (the ridge alone, a low overgrown bank), 175 (three pebbles), 176 (natural beach rock in block-like pieces), 177 (mason setting a block), 178 (hourglass on wet stone), 179 (curved shore wall at dusk).
+- **Redo 173**: the plan sketch is now right (a U-shaped band, not a horseshoe) but it carries readable invented English labels ("Seafloor Bank A", "Bank B", "Shelf Edge", "Bank C (unmapped)", "depth"). New wording in `shots/redo.txt`; row 210 (clipboard sketch) now also says "no labels, no words, no letters, no numbers".
+- Film-copy crops added in `shots/crops.json`: 177 (dark rounded corners); 179 came with dark bands top and bottom that the trim missed, cropped to x 0.17–0.925, y 0.125–0.88.
+- Kept with a doubt: 170 the tape is a modern yellow pocket tape measure; 179 lamps stand on the wall; 175 and 178 have a kerosene lantern / later-style carved arches in the dark room behind.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173 (seven). Plan: after 180–319 (14 batches of ten) the last turn has 320–322 plus seven free slots, exactly enough. Any further redo needs one more turn.
+
+Next: B19 = 180–189 (`tools/pack.py 180 189 19`).
