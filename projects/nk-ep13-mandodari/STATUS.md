@@ -51,6 +51,7 @@ The user sent a reference picture and said the first Hanuman "looks like small m
 |---|---|---|---|
 | cast | ravana, mandodari, maya, indrajit, hanuman | `EP13_cast.zip` `1ABYGdNUVcWcv5qNgUMg1oCrS8Ic-m6K4` (v2, with hanuman and the user's reference), Hanuman portrait `1xzVNEbzS0kuIUPoj9yLTHxpGYiVeWF_T`, sheet of the first four `1tPhfcagaC884vudSxKXSP6t-AkB4VSCx` | all accepted |
 | B01 | 001–010 | `1X3gByyGcieCfZM1CmXCX66bTHV9H477y`, sheet `1klRgT21U1TCZsGR9zxHUCtQLYnQEBO_8` (v2; the first versions are in the Drive trash) | 002, 005, 006, 007 remade with the new Hanuman. 003 edge crop. 009 odd pose, kept. |
+| B02 | 011–020 | `1SlDuT8jRai1OeyKzot_J8AEew4IEQ_24`, sheet `1UDo3LNvuxz-239g8pKL4mmQ4FKovHLWv` | 017 (casket looks like a coffin) in `shots/redo.txt`, cropped for now. 016 has Mughal-style arches and domes, kept as doubtful. 012: the king is in focus, kept. |
 
 ## Drive file ids
 
