@@ -78,6 +78,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B13 | 120–129 | `14oujaSHPREOsEs3cmR10rK4y_5e5h149` | `1bbvwE_TUGJLnZhOJbpIvFHW7-pAqh-yV` |
 | B14 | 130–139 | `176cef6Jd17Yn_M0COybWBNWz7GwbPw8M` | `1wQZVE9IVUi6q_HRGZgmvlquZTH923xr_` |
 | B15 | 140–149 | `1r9Gj-GNotqsdYatewsw7MzCt-eULDj4-` | `1LDIZKebRf2Jp_wzRkr-tRnhVPH1VtzGH` |
+| B16 | 150–159 | `16PeGh3TSeFAXvHCqucE9SRhS4gKdQC5y` | `1dgjC0eas4CMT2LWdgx_tWQMuuduegaKo` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -218,6 +219,14 @@ All ten made and kept. Looked at all ten at half size; the dial in 148 at full s
 - Film-copy crops added in `shots/crops.json`: 140, 143, 144, 146 had black bars or a dark rounded frame; 145 showed a crewman's face large in the frame, so it is cropped to x 0.22–0.86, y 0.36–1.00 (hands, brush, ingot in the tray; slightly soft).
 - Kept with a doubt: 142 the wreck is a nearly whole hull skeleton (the real one is scattered remains); 146 has a low hill behind the palms (its prompt has no "no hills" sentence); 147 the "blocks" are rounded boulders; 141 shows a large town and many ships, in the flatter illustrated style.
 
+## B16 (150–159)
+
+All ten made and kept. Looked at all ten at half size; the logbook and wall maps in 153 at full size.
+- 150, 151: heading further out, deeper water (end of N05); 152–159 open N06: the vessel towing a cable, the logbook, the towfish, the sonar printout with three blotches, the distant coast, the sounding line, three divers descending, the first sight of the curved ridge.
+- Film-copy crops added in `shots/crops.json`: 156 and 157 had a black bar or dark rounded frame.
+- 153: the logbook pages are scribble, not readable; two small blurred wall maps at the top right (one vaguely like the subcontinent) were left in.
+- Kept with a doubt: **159** the curved ridge reads as a rough stone wall about as tall as the diver and only some 20 m across (rule: low overgrown ridge, never clear walls; the reported height is 1–2 m, the length 85 m) — compare with the later U-shape pictures before the film is cut; 151 the "faint curved shape" looks like a small object, not a large ridge, and is in an inked style; 150 and 152 show a rusty trawler-like ship, 120 showed a white research vessel; 157 the sailor's face shows in part profile.
+
 Redo list so far: 026, 028, 050.
 
-Next: B16 = 150–159 (`tools/pack.py 150 159 16`).
+Next: B17 = 160–169 (`tools/pack.py 160 169 17`).
