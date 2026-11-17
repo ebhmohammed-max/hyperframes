@@ -57,6 +57,7 @@ The user sent a reference picture and said the first Hanuman "looks like small m
 | B05 | 041–050 | `1MH6DkOl0SS2LqHd7WhjILPAxtKXE7M7e`, sheet `1Up_bn9Dj8EK7XcZ4cnyRTjjCOv_UH7-I` | 050 (Shiva's foot looks old and veined) in `shots/redo.txt`. 045 cropped for a dark strip on the right. |
 | B06 | 051–060 | `1Xjz3XAScvpUw6jiJfQ0A9kZTdMS4c5ZY`, sheet `1PLFbwebIhqtnjXU5jQiXq-ZAdJtXXiO-` | all ten accepted. 054 edge crop. 051 used 049 as a second reference. |
 | B07 | 061–070 | `1dAALSJwBlxptbvfg27hmm_pVSf6Jf4la`, sheet `1pgn5hyIkLNmoR_PnFSfpIEoCrNtYs2V9` | all ten accepted. Young forest Ravana uses `raw/058.jpg` as reference (gold circlet, ochre dress); young Mandodari is described as "about eighteen, plain pale cream silk, white flowers in her braid, no crown" with the cast portrait (062 is the best reference for her from now on). |
+| B08 | 071–080 | `1Ipz0yCHbWeU15_pFEyL6Em-5O1RR-rpH`, sheet `1_kUMmCBjC--rsAykZSgg1s-g0hI3Ab9D` | all ten accepted. 071 cropped for a dark left edge. 072 is more saturated than the rest, kept. `raw/001.jpg` works as a reference for the look of the city. |
 
 ## Drive file ids
 
