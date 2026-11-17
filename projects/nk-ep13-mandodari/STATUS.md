@@ -54,6 +54,7 @@ The user sent a reference picture and said the first Hanuman "looks like small m
 | B02 | 011–020 | `1SlDuT8jRai1OeyKzot_J8AEew4IEQ_24`, sheet `1UDo3LNvuxz-239g8pKL4mmQ4FKovHLWv` | 017 (casket looks like a coffin) in `shots/redo.txt`, cropped for now. 016 has Mughal-style arches and domes, kept as doubtful. 012: the king is in focus, kept. |
 | B03 | 021–030 | `1-yt9dPlrqfLIMGikIQ5tjgU6XLxRZ1ei`, sheet `1PyM1F3Wk6Z9uvewLkuFG9em4ElxjtxsS` | 028 (comic-book style) in `shots/redo.txt`. 030 cropped to remove a sheet with print-like marks in the corner. Check sheets: `tools/big.py a b`. |
 | B04 | 031–040 | `1lZ5Zo5r5PJ1Cx3Dac_J5x4wBFUXwCVFl`, sheet `1cvmbwjiQBukukbDfi5v-m8_SJrf3Zluv` | 038 (European crown) and 040 (hooded cloak) in `shots/redo.txt`. From this batch the prompts add "realistic like a film still, not a cartoon and no drawn outlines". |
+| B05 | 041–050 | `1MH6DkOl0SS2LqHd7WhjILPAxtKXE7M7e`, sheet `1Up_bn9Dj8EK7XcZ4cnyRTjjCOv_UH7-I` | 050 (Shiva's foot looks old and veined) in `shots/redo.txt`. 045 cropped for a dark strip on the right. |
 
 ## Drive file ids
 
