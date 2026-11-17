@@ -77,6 +77,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B12 | 110–119 | `1QUOpB2EOr0DOoQ65jGXzY70gHXWl9Gpz` | `1imGtPIkP5FD5UkOpdyWoy0YqP8EEbQW9` |
 | B13 | 120–129 | `14oujaSHPREOsEs3cmR10rK4y_5e5h149` | `1bbvwE_TUGJLnZhOJbpIvFHW7-pAqh-yV` |
 | B14 | 130–139 | `176cef6Jd17Yn_M0COybWBNWz7GwbPw8M` | `1wQZVE9IVUi6q_HRGZgmvlquZTH923xr_` |
+| B15 | 140–149 | `1r9Gj-GNotqsdYatewsw7MzCt-eULDj4-` | `1LDIZKebRf2Jp_wzRkr-tRnhVPH1VtzGH` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -207,6 +208,16 @@ All ten made and kept. Looked at all ten at half size.
 - Film-copy crops added in `shots/crops.json`: 136 and 137 had a dark rounded frame.
 - Kept with a doubt: 131, 134, 135 show corals and reef growth on the seabed (the real bed here is sand and mud); 133 one block seems to carry a faint carved panel; 135 the "sherd" is a large piece of a pot; 137 the sherd has scratched lines that could be taken for marks (not readable); 131 is in an inked comic style and 138 in the flatter illustrated style.
 
+## B15 (140–149)
+
+Prompt change before this batch: the underwater setting in `shots/expand.py` now says "a bare seabed of sand and silt with only thin weed, no coral reef" (131, 134, 135 had corals). `prompts.json` and `SHOTLIST.md` regenerated; 59 rows changed, so the recorded prompts for 002–005, 013, 021, 024, 026, 131, 133–135 carry a sentence that was not in the prompt actually used. Watch the U-shape pictures: their subject text says "heavily overgrown", the setting now says "thin weed".
+
+All ten made and kept. Looked at all ten at half size; the dial in 148 at full size (marks, not readable numbers).
+- 140: the sonar trace with the buried valley; 141: the ancient river from above; 142–145: the wreck and the lead ingots; 146: the 1790s merchant ship; 147: anchor beside old blocks; 148, 149: depth gauge and sounding line.
+- No coral in 142, 143, 147, 149: the new wording works (148 still has some blurred growth).
+- Film-copy crops added in `shots/crops.json`: 140, 143, 144, 146 had black bars or a dark rounded frame; 145 showed a crewman's face large in the frame, so it is cropped to x 0.22–0.86, y 0.36–1.00 (hands, brush, ingot in the tray; slightly soft).
+- Kept with a doubt: 142 the wreck is a nearly whole hull skeleton (the real one is scattered remains); 146 has a low hill behind the palms (its prompt has no "no hills" sentence); 147 the "blocks" are rounded boulders; 141 shows a large town and many ships, in the flatter illustrated style.
+
 Redo list so far: 026, 028, 050.
 
-Next: B15 = 140–149 (`tools/pack.py 140 149 15`).
+Next: B16 = 150–159 (`tools/pack.py 150 159 16`).

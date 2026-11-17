@@ -12,7 +12,7 @@ LOOK = {
  "E": ("1960s excavation", "Archaeological excavation in coastal Tamil Nadu in the 1960s, hard tropical sunlight, palmyra palms, Indian workers in white dhotis and plain cotton shirts"),
  "N": ("survey at sea around 1990", "Bay of Bengal off the Tamil Nadu coast around 1990, the shore a flat low line of palms with no hills or mountains, hazy morning light, Indian crew in plain shirts and shorts, plain older equipment, no logos"),
  "R": ("ship's cabin around 1990", "Cabin of an Indian research vessel around 1990, dim green instrument light, plain unlabelled equipment"),
- "U": ("underwater", "Underwater in the Bay of Bengal, murky green-blue tropical water, soft shafts of sunlight from the surface, drifting particles"),
+ "U": ("underwater", "Underwater in the Bay of Bengal, murky green-blue tropical water, a bare seabed of sand and silt with only thin weed, no coral reef, soft shafts of sunlight from the surface, drifting particles"),
  "M": ("survey at sea, present day", "Present day, Bay of Bengal off the Tamil Nadu coast, the shore a flat low line of palms with no hills or mountains, soft morning light, Indian crew in plain work clothes, no logos, no signboards"),
  "T": ("the coast today", "Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards"),
  "G": ("computer laboratory", "Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters"),
