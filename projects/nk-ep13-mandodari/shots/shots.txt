@@ -1,0 +1,201 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order)
+# Ravana has ONE head in every scene; ten heads only as a shadow, statue or relief.
+# Rama, Sita, Lakshmana, Hanuman, Shiva: never a face. Behind, far away, silhouette, hand or foot only.
+N01|0|lanka_night_wide|G|wide night view of a golden hill city above a dark sea, hundreds of lamps on its towers and ramparts, a full moon, no people
+N01|1|hanuman_corridor_shadow|L|a long pillared palace corridor at night, the small dark silhouette of a monkey-shaped figure with a long tail slipping between the pillars, seen from behind, face not visible
+N01|2|royal_bed_wide|L|a great royal bedchamber at night, an ivory and gold bed under sheer curtains with a sleeping queen seen from a distance, lamps burning low
+N01|2|mandodari_asleep|L@mandodari|a queen asleep on silk cushions, calm noble face, gold jewellery catching the lamp light, covered to the shoulders in silk
+N01|3|hanuman_watching_pillar|L|the dark silhouette of a monkey-shaped figure seen from behind, perched at the base of a pillar and looking toward a curtained bed that glows with lamp light
+N01|3|hanuman_leap_joy|L|the dark silhouette of a monkey-shaped figure leaping high up a gold pillar in joy, tail curled, seen from behind against lamp glow
+N01|4|hanuman_still_thinking|L|the dark silhouette of a monkey-shaped figure seen from behind, sitting very still on a window ledge with head bowed in thought, the moon outside
+N01|4|sita_grove_far|A|far away under a tree in a moonlit grove, a lone woman in a plain pale cloth sitting on the ground, seen from behind and small in the frame
+N01|5|curtain_face_half|L@mandodari|close view through a sheer curtain of a sleeping queen's face, half in shadow
+N01|6|mandodari_throne_portrait|L@mandodari|a queen seated upright on a low gold throne, calm and grave, looking straight ahead, small crown and pearl strings
+N01|7|ravana_ten_shadow|L@ravana|a powerful king standing with his back to a lamp, his shadow on the wall behind him showing ten heads in a row
+N01|7|queen_behind_king|L@ravana,mandodari|a king on a high throne in the foreground out of focus, his queen seated a step behind him in sharp focus, watching quietly
+N01|8|mandodari_battlefield_stand|W@mandodari|a queen standing alone on a battlefield at dusk, wind pulling her veil, looking down at something out of frame
+N01|9|two_manuscripts|M|two bundles of palm-leaf manuscripts side by side on a wooden desk, one lamp between them, no people
+N01|9|hand_on_breastplate|W@mandodari|close view of a queen's hand with gold bangles resting on a fallen warrior's bronze breastplate, faces not shown
+N01|10|cradle_empty|J|an empty gold cradle in a moonlit palace room, a silk cloth trailing to the floor, no people
+N01|10|casket_baby_hand|J|a small carved wooden casket lined with silk, a sleeping baby's tiny hand just visible at its edge, lamp glow
+N01|11|sage_writing_river|H|an old sage with white matted hair seen from behind, writing on a palm leaf beside a river at dawn
+N01|11|poet_tamil_stylus|M|the hands of a South Indian poet holding an iron stylus over a palm leaf, white shoulder cloth, face not shown
+N01|12|three_piles_leaves|M|three separate piles of palm-leaf manuscripts on a desk, each tied with a different coloured thread, a hand placing a leaf on one pile
+N01|13|library_shelves|M|shelves stacked with cloth-wrapped palm-leaf bundles in a dim old library, dust in a shaft of light, no people
+N01|13|leaf_turning_hand|M|close view of an old hand turning one palm leaf in a thick bundle
+N01|14|desert_town_sunrise|T|wide view of an old sandstone town below a rocky ridge in the Thar desert at sunrise, no people
+N01|14|stone_pavilion_ruin|T|a ruined carved sandstone pavilion with pillars among dry trees, no people
+N01|14|garlands_statue_feet|T|villagers seen from behind offering marigold garlands at the foot of a tall weathered statue of a king, only the statue's legs and lower body in frame
+N02|0|ravana_throne_wide|L@ravana|a king on a high gold throne at the far end of a vast pillared hall, small in the frame
+N02|1|bundle_last_leaves|M|a thick palm-leaf manuscript bundle lying open near its end, the last leaves fanned out, a lamp beside it, no people
+N02|1|sage_telling_story|H|an old sage with white matted hair seen from behind, telling a story to listeners seated on the ground in a forest hermitage
+N02|2|scholar_compares_back|M|a present-day Indian scholar seen from behind at a desk, comparing two palm-leaf bundles under a lamp
+N02|2|newer_leaves_tied|M|close view of a manuscript bundle in which a few paler, newer leaves are tied on to older, darker ones
+N02|3|vishravas_fire|H|a sage with black matted hair and a long beard seated with closed eyes before a sacred fire in a forest hermitage at dusk
+N02|3|kaikasi_approach|H|a young woman of a forest clan in dark red cloth and bone ornaments walking toward a hermitage hut at dusk, seen from the side
+N02|4|two_lineages_objects|X|on one side a sage's wooden water pot and prayer beads, on the other a bronze war helmet and a sword, a line of light between them, no people
+N02|4|infant_two_hands|H|a wrapped newborn held between a sage's hand with prayer beads and a mother's hand with heavy bronze bangles, faces not shown
+N02|5|ten_head_relief|O|an ancient weathered stone temple relief of a king with ten heads and many arms, raking light, no inscription, no people
+N02|5|father_naming|H|a sage seen from behind lifting a wrapped newborn toward the evening sky outside a thatched hut
+N02|6|four_children_river|H|four children of a forest hermitage by a river seen from a distance: a proud boy in front, a very large sleepy boy, a gentle thin boy and a small girl
+N02|6|kubera_terrace|G|a stout, richly dressed king with a gold crown standing on a palace terrace above a golden city, seen from behind
+N02|7|ravana_penance_fires|H@ravana|a young ascetic with matted hair standing on one leg with arms raised among five fires on a bare mountain, eyes closed
+N02|7|fire_altar_offering|H|a fire altar on a bare mountain at night, a hand casting an offering into tall flames, sparks rising, the figure only a dark shape
+N02|8|light_from_sky|H|a blinding shaft of golden light coming down through the clouds onto a mountain top where the tiny figure of an ascetic kneels
+N02|8|ravana_kneel_ask|H@ravana|an ascetic with matted hair kneeling with joined palms, his face lit from above by golden light
+N02|9|farmers_far_below|F|seen from a mountain top, far below, tiny farmers ploughing small fields beside a river in morning haze
+N02|9|ravana_proud_look|H@ravana|an ascetic with matted hair rising to his feet with a proud half-smile, golden light fading behind him
+N02|10|bow_arrow_still|X|a tall plain wooden bow and a single arrow leaning against dark stone in a shaft of light, no people
+N02|10|archer_silhouette_far|W|far away on a ridge against a red sky, the small silhouette of an archer drawing a bow, face not visible
+N02|11|ravana_enters_lanka|G@ravana|a warrior king in bronze armour walking up broad steps toward a golden palace gate, an army behind him
+N02|11|pushpaka_sky|G|a vast flying palace-chariot of gold with pillars and spires, shaped like a temple hall, gliding above the clouds at sunset, no people visible
+N02|12|ravana_under_mountain|K@ravana|a giant warrior king straining with both arms and shoulders under the base of a huge snow mountain, rocks cracking around him
+N02|12|foot_presses_summit|K|the glowing summit of a snow peak, a single bare foot with an anklet pressing down on the rock, only the foot in frame
+N02|13|ravana_roar|K@ravana|a warrior king pinned under a mountain ledge, head thrown back in a roar, snow shaken loose from the slopes
+N02|13|avalanches_peaks|K|avalanches pouring down many Himalayan peaks at once under a starry sky, birds scattering, no people
+N02|14|tamil_temple_dawn|O|a seventh-century South Indian granite temple with a small tower beside a tank at dawn, palms, a few devotees in white seen from behind
+N02|14|boy_saint_back|O|a boy saint in white holding small cymbals, seen from behind, singing before the lamp-lit doorway of a granite shrine in ancient Tamil Nadu
+N02|14|kailasa_relief_granite|O|a weathered granite relief on a South Indian temple wall showing a many-armed figure lifting a mountain with two seated figures on top, raking light, no inscription, no people
+N02|15|mandodari_doorway_enters|L@mandodari|a young queen in bridal red and gold stepping through a tall palace doorway into lamp light
+N03|0|forest_wide_morning|F|wide view of a misty ancient forest with a deer path in morning light, no people
+N03|1|ravana_hunting|F@ravana|a young warrior king with a bow walking alert through tall forest trees
+N03|1|maya_daughter_walk|F@maya,mandodari|an elderly master builder with a staff walking along a forest path beside his young daughter, seen from a distance
+N03|2|maya_portrait|F@maya|an elderly master builder with a white beard, a measuring rod in his hand, wise tired eyes
+N03|2|maya_palace_illusion|O|a fantastic palace of crystal and gold with impossible floating terraces and mirror-like pools in dreamlike mist, no people
+N03|3|young_mandodari_portrait|F@mandodari|a young woman of about eighteen in plain pale silk with flowers in her hair, calm grave face, forest light
+N03|3|hema_apsara_light|O|a celestial dancer in flowing white and gold seen from behind, rising into bright clouds in a soft glow
+N03|4|father_daughter_camp|F@maya,mandodari|an elderly father and his young daughter seated by a small campfire in the forest at night, he looks at her with worry
+N03|4|maya_road_far|F@maya|an old man with a staff looking down a long empty forest road, seen from behind
+N03|5|maya_asks|F@maya,ravana|an elderly master builder facing a tall young warrior king on a forest path, one hand raised in question
+N03|5|ravana_answers|F@ravana|a young warrior king with palms joined in respectful greeting, a bow slung on his shoulder
+N03|6|fire_witness_hands|F|close view over a small sacred fire in a forest clearing, an old man's hands placing a young woman's hand into a warrior's hand, faces not shown
+N03|6|forest_wedding_wide|F@maya,ravana,mandodari|a simple wedding in a forest clearing in evening light, a bride and groom standing before a small sacred fire, her father beside them
+N03|7|shakti_spear_given|F@maya|an elderly master builder holding out on both palms a long spear with a faintly glowing leaf-shaped blade
+N03|7|spear_glow_still|X|a long spear with a leaf-shaped blade glowing faintly, lying on dark stone, no people
+N03|8|storm_over_palace|G|storm clouds and lightning over a golden hill city at night, no people
+N03|8|mandodari_newborn|L@mandodari|a young queen on a couch holding a wrapped newborn and looking down at him, lamps around her
+N03|8|indrajit_chariot|G@indrajit|a young prince in dark armour standing in a war chariot under a thundercloud, bow raised in triumph
+N03|9|aksha_young_prince|L|a boy prince of about sixteen in light gold armour practising with a bow in a palace courtyard, seen from the side
+N03|10|leaf_few_marks|M|close view of a single palm leaf with only a few faint illegible scratches, the rest bare, lamp light
+N03|10|court_bows_queen|L@mandodari|a queen walking through a pillared hall while courtiers on both sides bow their heads
+N03|11|mandodari_sleep_attendants|L@mandodari|a sleeping queen on a gold bed seen from the foot of the bed, sheer curtains, attendants asleep on the floor around her
+N03|11|mandodari_morning_terrace|G@mandodari|a queen standing upright on a palace terrace at sunrise looking over a golden city, her veil lifted by the wind
+N03|12|women_quarters_many|L|a large palace hall where many richly dressed royal women sit in groups under lamps, seen from above
+N03|12|crown_on_cushion|X|a single queen's gold crown on a red silk cushion in a shaft of light, no people
+N03|13|lanka_soldiers_towers|G|a golden city at midday, ranks of soldiers in bronze armour drawn up below gold-roofed towers
+N03|13|ravana_gaze_away|L@ravana,mandodari|a king on a balcony staring far out over the sea, his queen standing behind him watching his back
+N04|0|pushpaka_to_grove|A|a golden flying chariot coming down toward a walled grove of red-blossomed trees at dusk, the figures aboard too small to make out
+N04|1|mandodari_window_grove|L@mandodari|a queen at a high palace window at night looking down toward a distant lamp-lit grove
+N04|2|ravana_grove_anger|A@ravana|a king in rich robes standing in a grove at dawn with one arm flung out in anger, attendants with torches behind him
+N04|2|sita_back_grass|A|a woman in a plain pale cloth seated on the ground under a tree, seen from behind, a single blade of grass laid on the ground between her and a tall shadow
+N04|2|dhanyamalini_leads|A@ravana|a young royal wife in green silk gently drawing a king away by the arm while he turns his head back with a hard laugh
+N04|3|tulsi_writing_ghat|O|a sixteenth-century North Indian poet-saint in plain white seen from behind, writing on loose paper sheets on a river ghat at dawn, no readable writing
+N04|3|mandodari_stops_sword|A@ravana,mandodari|a queen stepping in front of an angry king and holding his raised sword arm by the wrist, red blossom behind them
+N04|4|mandodari_pleads|L@ravana,mandodari|a queen with joined palms speaking earnestly to a king seated on a couch, he looks away
+N04|4|mandodari_points_sea|L@mandodari|a queen pointing through an arched window toward the sea and the far shore, her face urgent
+N04|5|mandodari_kneel_dusk|W@mandodari|a queen kneeling on a battlefield at dusk, speaking toward a fallen figure out of frame
+N04|5|finger_on_leaf_line|M|a finger resting on one line of a palm leaf under a lamp, the marks faint and illegible
+N04|6|private_room_warning|L@ravana,mandodari|at night in a private chamber, a queen standing and speaking firmly to a king who sits turned away holding a cup
+N04|6|ravana_dismiss_hand|L@ravana|a king waving one hand in dismissal with a proud smile, lamp light on gold
+N04|7|vibhishana_court|L@ravana|in a great court hall a gentle thin prince in plain white with joined palms pleading before a king on a high throne who glares down at him
+N04|7|vibhishana_leaves|G|a gentle thin prince in plain white walking out through a golden city gate with four companions, seen from behind
+N04|8|mandodari_alone_lamp|L@mandodari|a queen sitting alone beside a single lamp in a dark hall, hands in her lap
+N04|9|aksha_chariot_out|G|a boy prince in light gold armour driving a chariot out of a palace gate at speed
+N04|9|empty_chariot_grove|A|an overturned small gold chariot and a broken bow lying among trampled trees in a grove, drifting smoke, no people
+N04|10|ramparts_war_dusk|W|armies clashing far below the gold ramparts of a hill city at dusk, seen from a great distance, dust and smoke
+N04|10|empty_seats_court|L|a court hall with a row of empty gold seats, a helmet laid on each one, a single lamp, no people
+N04|11|indrajit_rides_out|G@indrajit|a prince in dark armour mounting his chariot at dawn, looking back once toward the palace
+N04|11|helmet_bow_ground|W|a dark war helmet and a broken bow lying on the ground at dusk, a single arrow standing in the earth beside them, no people
+N04|12|mandodari_holds_helmet|L@mandodari|a queen holding a dark war helmet in both hands with her eyes closed, attendants weeping behind her
+N04|12|mandodari_floor_grief|L@mandodari|a queen seated on the floor against a gold pillar, head bowed, hair loosened, one lamp
+N04|13|ravana_alone_throne|L@ravana|a king alone on his throne in an empty dark hall, chin on his fist
+N04|14|ravana_chariot_leaves|G@ravana|a king in full bronze armour riding a great war chariot out through a golden gate into smoke, seen from behind
+N05|0|arrow_flight_sky|W|a single bright arrow streaking across a red evening sky above a battlefield, trailing light, no people
+N05|1|mandodari_runs_gate|W@mandodari|a queen running barefoot out of a city gate toward a battlefield, veil flying, attendants behind her
+N05|2|mandodari_kneels_beside|W@mandodari|a queen kneeling beside a fallen king in bronze armour who lies as if asleep, only his arm and breastplate in frame
+N05|2|mandodari_tears_firm|W@mandodari|close view of a queen's face with tears on her cheeks but a firm steady gaze, red sky behind her
+N05|3|indra_bows_memory|O@ravana|a memory scene in pale gold haze: a proud king on a throne while a crowned sky-king holding a thunderbolt stands before him with head lowered
+N05|4|vanara_bridge_sea|O|a long causeway of rocks and tree trunks stretching across a blue sea toward a far island, thousands of tiny monkey-shaped figures carrying stones, seen from high above
+N05|4|archer_back_shore|O|a tall archer in bark cloth with his hair in a topknot standing on a shore, seen from behind, a bow on his shoulder, looking across the sea in soft dawn light
+N05|5|leaf_near_flame|M|a single palm leaf held near a lamp flame, faint illegible marks, the shadow of a hand
+N05|6|young_ravana_meditation|H@ravana|a young ascetic with matted hair seated in perfect stillness in deep meditation on a rock, eyes closed, calm
+N05|6|crown_in_dust|W|a gold crown with a tall centre spire lying in the dust of a battlefield at dusk, no people
+N05|7|broken_arrow_still|X|a broken arrow lying on dark stone in a shaft of light, no people
+N05|7|ravana_staring_grove|L@ravana|a king standing at a window at night staring toward a distant lamp-lit grove, his face tense with longing
+N05|8|golden_deer_glade|F|a shining golden deer with jewelled spots standing in a forest glade and looking back, no people
+N05|8|disguised_hermit_hut|F|a figure disguised as an old wandering hermit with a bowl and a parasol approaching a lonely forest hut, seen from behind, his long shadow on the ground wearing a king's crown
+N05|9|mandodari_closes_visor|W@mandodari|a queen in profile gently laying her hand on the helmet of a fallen king, his face not shown
+N05|10|mandodari_faint_chest|W@mandodari|a queen collapsed forward onto a fallen king's bronze breastplate, eyes closed, her veil spread over the armour
+N05|10|cowives_lift_her|W@mandodari|several royal women in rich silk lifting and holding a fainting queen, all weeping, red dusk
+N05|11|archer_consoles_prince|W|a tall archer in bark cloth seen from behind with one hand on the shoulder of a gentle thin prince in white who weeps, battlefield at dusk
+N05|11|funeral_pyre_shore|W|a great funeral pyre of sandalwood burning on a shore at night, a line of mourners in white seen from behind
+N05|12|kamban_hands_writing|M|the hands of a twelfth-century Tamil poet writing on a palm leaf with an iron stylus beside a brass lamp, white shoulder cloth, face not shown
+N05|12|temple_hall_recital|O|a poet in white seen from behind reciting from a palm-leaf bundle in the pillared hall of a medieval Tamil granite temple, listeners seated on the floor, oil lamps
+N05|13|mandodari_looks_down|W@mandodari|a queen standing over a fallen king, both hands pressed to her chest, looking down in disbelief, his face not shown
+N05|13|breastplate_pierced|W|close view of a bronze breastplate pierced with many small arrow holes, light glinting on the metal, no blood, no face
+N05|14|kailash_memory_lift|K@ravana|a memory in cold blue haze of a giant king lifting a snow mountain on his shoulders
+N05|14|sesame_seed_palm|X|a single tiny sesame seed on an open palm in a shaft of light
+N05|14|arrow_light_search|O|a glowing arrow of light winding like a searching thread through dark space around the faint outline of a heart, symbolic, no people
+N05|15|mandodari_embrace|W@mandodari|a queen with both arms around a fallen king's armoured chest, her cheek on the bronze, eyes closed, his face not shown
+N05|15|lamp_goes_out|X|a brass oil lamp whose flame has just gone out, a thin line of smoke rising, dark background, no people
+N05|16|mandodari_led_away|W@mandodari|a queen being led slowly away from a battlefield by other royal women, looking back over her shoulder
+N05|16|veil_over_two_far|W|seen from far away at dusk, two figures lying still side by side on a battlefield beneath a plain dark banner, one veil spread over both, no faces
+N06|0|mandodari_at_cradle|J@mandodari|a queen looking down at a small empty cradle, one hand on its edge
+N06|0|baby_girl_wrapped|J|a newborn girl wrapped in gold silk asleep on a cushion in soft lamp glow, no other people
+N06|1|janaka_plough_field|O|an ancient Indian king in simple white driving a golden plough behind two white oxen across a ritual field, priests watching from a distance, the king seen from behind
+N06|1|baby_in_furrow|O|a baby girl wrapped in cloth lying in a freshly ploughed furrow of dark earth, glowing softly, a king's hands reaching down, his face not shown
+N06|2|tamil_bundle_closed|M|a closed Tamil palm-leaf bundle tied with red thread beside a brass lamp, no people
+N06|3|later_books_stack|M|a stack of different old manuscripts, some palm leaf, some birch bark, some paper in cloth covers, on a low desk, no people
+N06|4|jain_monk_writing|O|a Jain monk in plain white cloth seen from behind, writing on a palm leaf in a bare stone cell lit by a small window
+N06|4|rock_cell_library|O|a rock-cut monastery cell in ancient India with shelves of cloth-wrapped manuscripts and a low wooden desk, soft daylight, no people
+N06|5|mandodari_holds_daughter|J@mandodari|a queen holding a newborn girl close and looking up in fear
+N06|5|astrologers_charts|J@ravana|three old astrologers with star charts of plain dots and lines spread on the floor, shaking their heads before a frowning king
+N06|6|casket_carried_night|J|a servant seen from behind carrying a small carved casket through a moonlit forest
+N06|6|casket_in_earth|J|a small carved casket half buried in ploughed earth at dawn, a plough blade beside it, no people
+N06|7|pot_sealed_roots|J|a sealed clay pot buried among tree roots in a forest clearing in moonlight, no people
+N06|7|storyteller_banyan|O|a village storyteller seen from behind speaking to listeners under a banyan tree at night by lamp light, old India
+N06|8|ravana_grove_distance|J@ravana|a king standing at the edge of a moonlit grove looking toward a distant woman seated under a tree with her back to him
+N06|8|mandodari_dread_window|J@mandodari|a queen at a window with one hand over her mouth, eyes wide with dread
+N06|9|banyan_branches|O|a huge ancient banyan tree with one great trunk and many hanging branch roots in morning light, no people
+N06|9|hand_separates_leaf|M|a hand moving one palm leaf away from a main bundle to a separate small pile
+N06|10|vibhishana_crowned|J|a gentle thin prince in white being crowned king in a damaged gold hall, seen from a distance
+N06|10|mandodari_white_court|J@mandodari|a queen in plain white without jewellery standing at the side of a court hall with her eyes lowered
+N06|11|empty_queen_seat|L|an empty queen's seat beside a king's throne, a white cloth laid over it, no people
+N06|11|two_bundles_two_hands|M|two palm-leaf bundles open side by side, a hand resting on each, a lamp between them
+N06|12|mandodari_dignity_portrait|L@mandodari|a queen standing in calm dignity, soft light on her face, dark background
+N06|13|five_lamps_row|X|five brass oil lamps burning in a row on dark stone, no people
+N06|13|five_women_silhouettes|O|five women of ancient India in draped silk standing in a row on a river bank at dawn, seen from behind as silhouettes
+N06|13|dawn_prayer_hands|O|an old Indian woman's joined hands holding prayer beads at dawn on a river ghat, face not shown
+N06|14|mandodari_among_five|O@mandodari|five women of ancient India standing in a line at dawn, four seen from behind, one queen turned so that her profile shows
+N06|14|sunrise_lanka_sea|G|sunrise over the sea behind a quiet golden city, no people
+N07|0|bundle_sill_road|O|a closed palm-leaf bundle on a window sill, beyond the window a dusty present-day Indian country road at sunrise, no people, no signboards
+N07|0|desert_road_wide|T|an empty road running toward low rocky hills in the Thar desert at sunrise, no people
+N07|1|sandstone_cenotaphs|T|tall dark-red sandstone cenotaphs shaped like temple towers standing in an old garden in Rajasthan, langur monkeys on the steps, no people
+N07|1|ruined_fort_ridge|T|ruined sandstone walls and a gateway on a rocky ridge above an old town, dry trees, no people
+N07|2|wedding_altar_pavilion|T|a small old carved sandstone pavilion with four pillars and a stone platform, weeds between the slabs, no people
+N07|2|guide_points_back|T|a local man in a white turban seen from behind pointing at an old stone pavilion while two visitors look on
+N07|3|family_niche_offering|T|the hands of a family placing flowers and a small lamp before a simple stone niche, faces not shown
+N07|3|elder_turban_step|T|an old man in a white dhoti and a coloured turban seen from behind, sitting on a stone step and looking at ruins
+N07|4|central_town_morning|T|a small central Indian town street in early morning with whitewashed houses and a neem tree, two people seen from behind
+N07|4|women_veils_statue_base|T|women in bright saris with veils drawn over their heads walking past the base of a tall statue, seen from behind, only the statue's feet in frame
+N07|5|ten_head_statue_tall|T|a tall weathered concrete statue of a ten-headed king standing in an open square, seen from low down against the morning sky, garlands at its feet, no people
+N07|5|puja_plate_feet|T|a brass plate with marigolds, a lamp and red powder set down at the huge stone feet of a statue, a hand lighting the lamp
+N07|6|village_shrine_fields|T|a small old village temple with a low dome among fields on the north Indian plain in winter mist, no people
+N07|6|village_lane_lamps|T|a quiet north Indian village lane at dusk on a festival evening, oil lamps on the doorsteps, no bonfire, no effigy
+N07|7|two_lamps_apart|X|two small oil lamps set far apart on a bare unmarked sandy surface, no people
+N07|7|hands_roadside_shrine|T|an old woman's joined hands before a small roadside shrine, face not shown
+N07|8|tamil_writer_1940s|O|a Tamil scholar of the 1940s in a white shirt and veshti seen from behind, writing by hand at a wooden desk beside a kerosene lamp, stacks of paper, no readable writing
+N07|8|letterpress_1940s|O|a hand-operated letterpress in a small South Indian printing shop of the 1940s, blank sheets hanging to dry, no readable writing, no people
+N07|8|plain_books_spectacles|O|a stack of thick plain-covered books on a wooden table, no titles, no lettering, a pair of round spectacles beside them, no people
+N07|9|books_locked_cupboard|O|a bundle of plain-covered books tied with rope inside a locked wooden cupboard with a wire-mesh door, no lettering, no people
+N07|9|book_open_window|O|a plain-covered book lying open on a table in bright window light, the pages blurred, a hand turning a page
+N07|10|three_piles_above|M|three separate piles of palm-leaf manuscripts on a desk under one lamp, seen from straight above, no people
+N07|11|father_daughter_sunlit|F@maya,mandodari|a young woman walking beside her elderly father through a sunlit forest, both with a slight smile
+N07|11|mandodari_speaks_truth|W@mandodari|a queen kneeling on a battlefield with one hand raised as she speaks, firm face, red sky
+N07|12|veil_banner_dusk|W|a queen's veil spread over two still forms on a battlefield at dusk, seen from a distance, a plain dark banner hanging above, no faces
+N07|13|casket_moonlight|J|a small carved casket in a pool of moonlight on a forest floor, no people
+N07|13|white_queen_corridor|J@mandodari|a queen in plain white seen from behind walking down an empty palace corridor
+N07|14|king_queen_terrace_sunset|L@ravana,mandodari|a king and queen in younger days seated together on a terrace at sunset, she is speaking and he listens with a smile
+N07|14|mandodari_final_portrait|L@mandodari|close portrait of a queen looking straight at the viewer, calm, a single lamp reflected in her eyes
+N07|15|two_leaves_two_hands|M|two palm leaves held up side by side by two hands in lamp light, faint illegible marks
+N07|15|veil_on_parapet|G|an empty palace terrace above the sea at dawn, a queen's veil left on the parapet and moving in the wind, no people

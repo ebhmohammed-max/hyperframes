@@ -1,0 +1,2213 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "lanka_night_wide",
+  "look": "G",
+  "file": "EP13_001_N01q00_lanka_night_wide.jpg",
+  "prompt": "Wide night view of a golden hill city above a dark sea, hundreds of lamps on its towers and ramparts, a full moon, no people. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "hanuman_corridor_shadow",
+  "look": "L",
+  "file": "EP13_002_N01q01_hanuman_corridor_shadow.jpg",
+  "prompt": "A long pillared palace corridor at night, the small dark silhouette of a monkey-shaped figure with a long tail slipping between the pillars, seen from behind, face not visible. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "royal_bed_wide",
+  "look": "L",
+  "file": "EP13_003_N01q02_royal_bed_wide.jpg",
+  "prompt": "A great royal bedchamber at night, an ivory and gold bed under sheer curtains with a sleeping queen seen from a distance, lamps burning low. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 2,
+  "k": 1,
+  "name": "mandodari_asleep",
+  "look": "L",
+  "file": "EP13_004_N01q02_mandodari_asleep.jpg",
+  "prompt": "A queen asleep on silk cushions, calm noble face, gold jewellery catching the lamp light, covered to the shoulders in silk. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "hanuman_watching_pillar",
+  "look": "L",
+  "file": "EP13_005_N01q03_hanuman_watching_pillar.jpg",
+  "prompt": "The dark silhouette of a monkey-shaped figure seen from behind, perched at the base of a pillar and looking toward a curtained bed that glows with lamp light. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "hanuman_leap_joy",
+  "look": "L",
+  "file": "EP13_006_N01q03_hanuman_leap_joy.jpg",
+  "prompt": "The dark silhouette of a monkey-shaped figure leaping high up a gold pillar in joy, tail curled, seen from behind against lamp glow. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "hanuman_still_thinking",
+  "look": "L",
+  "file": "EP13_007_N01q04_hanuman_still_thinking.jpg",
+  "prompt": "The dark silhouette of a monkey-shaped figure seen from behind, sitting very still on a window ledge with head bowed in thought, the moon outside. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "sita_grove_far",
+  "look": "A",
+  "file": "EP13_008_N01q04_sita_grove_far.jpg",
+  "prompt": "Far away under a tree in a moonlit grove, a lone woman in a plain pale cloth sitting on the ground, seen from behind and small in the frame. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "curtain_face_half",
+  "look": "L",
+  "file": "EP13_009_N01q05_curtain_face_half.jpg",
+  "prompt": "Close view through a sheer curtain of a sleeping queen's face, half in shadow. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "mandodari_throne_portrait",
+  "look": "L",
+  "file": "EP13_010_N01q06_mandodari_throne_portrait.jpg",
+  "prompt": "A queen seated upright on a low gold throne, calm and grave, looking straight ahead, small crown and pearl strings. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "ravana_ten_shadow",
+  "look": "L",
+  "file": "EP13_011_N01q07_ravana_ten_shadow.jpg",
+  "prompt": "A powerful king standing with his back to a lamp, his shadow on the wall behind him showing ten heads in a row. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 7,
+  "k": 1,
+  "name": "queen_behind_king",
+  "look": "L",
+  "file": "EP13_012_N01q07_queen_behind_king.jpg",
+  "prompt": "A king on a high throne in the foreground out of focus, his queen seated a step behind him in sharp focus, watching quietly. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 8,
+  "k": 0,
+  "name": "mandodari_battlefield_stand",
+  "look": "W",
+  "file": "EP13_013_N01q08_mandodari_battlefield_stand.jpg",
+  "prompt": "A queen standing alone on a battlefield at dusk, wind pulling her veil, looking down at something out of frame. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "two_manuscripts",
+  "look": "M",
+  "file": "EP13_014_N01q09_two_manuscripts.jpg",
+  "prompt": "Two bundles of palm-leaf manuscripts side by side on a wooden desk, one lamp between them, no people. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "hand_on_breastplate",
+  "look": "W",
+  "file": "EP13_015_N01q09_hand_on_breastplate.jpg",
+  "prompt": "Close view of a queen's hand with gold bangles resting on a fallen warrior's bronze breastplate, faces not shown. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 10,
+  "k": 0,
+  "name": "cradle_empty",
+  "look": "J",
+  "file": "EP13_016_N01q10_cradle_empty.jpg",
+  "prompt": "An empty gold cradle in a moonlit palace room, a silk cloth trailing to the floor, no people. Storybook illustration mood, soft moonlight and lamp glow, ancient India. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 10,
+  "k": 1,
+  "name": "casket_baby_hand",
+  "look": "J",
+  "file": "EP13_017_N01q10_casket_baby_hand.jpg",
+  "prompt": "A small carved wooden casket lined with silk, a sleeping baby's tiny hand just visible at its edge, lamp glow. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 11,
+  "k": 0,
+  "name": "sage_writing_river",
+  "look": "H",
+  "file": "EP13_018_N01q11_sage_writing_river.jpg",
+  "prompt": "An old sage with white matted hair seen from behind, writing on a palm leaf beside a river at dawn. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N01",
+  "q": 11,
+  "k": 1,
+  "name": "poet_tamil_stylus",
+  "look": "M",
+  "file": "EP13_019_N01q11_poet_tamil_stylus.jpg",
+  "prompt": "The hands of a South Indian poet holding an iron stylus over a palm leaf, white shoulder cloth, face not shown. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N01",
+  "q": 12,
+  "k": 0,
+  "name": "three_piles_leaves",
+  "look": "M",
+  "file": "EP13_020_N01q12_three_piles_leaves.jpg",
+  "prompt": "Three separate piles of palm-leaf manuscripts on a desk, each tied with a different coloured thread, a hand placing a leaf on one pile. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N01",
+  "q": 13,
+  "k": 0,
+  "name": "library_shelves",
+  "look": "M",
+  "file": "EP13_021_N01q13_library_shelves.jpg",
+  "prompt": "Shelves stacked with cloth-wrapped palm-leaf bundles in a dim old library, dust in a shaft of light, no people. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N01",
+  "q": 13,
+  "k": 1,
+  "name": "leaf_turning_hand",
+  "look": "M",
+  "file": "EP13_022_N01q13_leaf_turning_hand.jpg",
+  "prompt": "Close view of an old hand turning one palm leaf in a thick bundle. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N01",
+  "q": 14,
+  "k": 0,
+  "name": "desert_town_sunrise",
+  "look": "T",
+  "file": "EP13_023_N01q14_desert_town_sunrise.jpg",
+  "prompt": "Wide view of an old sandstone town below a rocky ridge in the Thar desert at sunrise, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N01",
+  "q": 14,
+  "k": 1,
+  "name": "stone_pavilion_ruin",
+  "look": "T",
+  "file": "EP13_024_N01q14_stone_pavilion_ruin.jpg",
+  "prompt": "A ruined carved sandstone pavilion with pillars among dry trees, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N01",
+  "q": 14,
+  "k": 2,
+  "name": "garlands_statue_feet",
+  "look": "T",
+  "file": "EP13_025_N01q14_garlands_statue_feet.jpg",
+  "prompt": "Villagers seen from behind offering marigold garlands at the foot of a tall weathered statue of a king, only the statue's legs and lower body in frame. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "ravana_throne_wide",
+  "look": "L",
+  "file": "EP13_026_N02q00_ravana_throne_wide.jpg",
+  "prompt": "A king on a high gold throne at the far end of a vast pillared hall, small in the frame. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "bundle_last_leaves",
+  "look": "M",
+  "file": "EP13_027_N02q01_bundle_last_leaves.jpg",
+  "prompt": "A thick palm-leaf manuscript bundle lying open near its end, the last leaves fanned out, a lamp beside it, no people. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "sage_telling_story",
+  "look": "H",
+  "file": "EP13_028_N02q01_sage_telling_story.jpg",
+  "prompt": "An old sage with white matted hair seen from behind, telling a story to listeners seated on the ground in a forest hermitage. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "scholar_compares_back",
+  "look": "M",
+  "file": "EP13_029_N02q02_scholar_compares_back.jpg",
+  "prompt": "A present-day Indian scholar seen from behind at a desk, comparing two palm-leaf bundles under a lamp. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "newer_leaves_tied",
+  "look": "M",
+  "file": "EP13_030_N02q02_newer_leaves_tied.jpg",
+  "prompt": "Close view of a manuscript bundle in which a few paler, newer leaves are tied on to older, darker ones. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "vishravas_fire",
+  "look": "H",
+  "file": "EP13_031_N02q03_vishravas_fire.jpg",
+  "prompt": "A sage with black matted hair and a long beard seated with closed eyes before a sacred fire in a forest hermitage at dusk. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "kaikasi_approach",
+  "look": "H",
+  "file": "EP13_032_N02q03_kaikasi_approach.jpg",
+  "prompt": "A young woman of a forest clan in dark red cloth and bone ornaments walking toward a hermitage hut at dusk, seen from the side. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "two_lineages_objects",
+  "look": "X",
+  "file": "EP13_033_N02q04_two_lineages_objects.jpg",
+  "prompt": "On one side a sage's wooden water pot and prayer beads, on the other a bronze war helmet and a sword, a line of light between them, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "infant_two_hands",
+  "look": "H",
+  "file": "EP13_034_N02q04_infant_two_hands.jpg",
+  "prompt": "A wrapped newborn held between a sage's hand with prayer beads and a mother's hand with heavy bronze bangles, faces not shown. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "ten_head_relief",
+  "look": "O",
+  "file": "EP13_035_N02q05_ten_head_relief.jpg",
+  "prompt": "An ancient weathered stone temple relief of a king with ten heads and many arms, raking light, no inscription, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "father_naming",
+  "look": "H",
+  "file": "EP13_036_N02q05_father_naming.jpg",
+  "prompt": "A sage seen from behind lifting a wrapped newborn toward the evening sky outside a thatched hut. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "four_children_river",
+  "look": "H",
+  "file": "EP13_037_N02q06_four_children_river.jpg",
+  "prompt": "Four children of a forest hermitage by a river seen from a distance: a proud boy in front, a very large sleepy boy, a gentle thin boy and a small girl. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "kubera_terrace",
+  "look": "G",
+  "file": "EP13_038_N02q06_kubera_terrace.jpg",
+  "prompt": "A stout, richly dressed king with a gold crown standing on a palace terrace above a golden city, seen from behind. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "ravana_penance_fires",
+  "look": "H",
+  "file": "EP13_039_N02q07_ravana_penance_fires.jpg",
+  "prompt": "A young ascetic with matted hair standing on one leg with arms raised among five fires on a bare mountain, eyes closed. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 40,
+  "clip": "N02",
+  "q": 7,
+  "k": 1,
+  "name": "fire_altar_offering",
+  "look": "H",
+  "file": "EP13_040_N02q07_fire_altar_offering.jpg",
+  "prompt": "A fire altar on a bare mountain at night, a hand casting an offering into tall flames, sparks rising, the figure only a dark shape. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "light_from_sky",
+  "look": "H",
+  "file": "EP13_041_N02q08_light_from_sky.jpg",
+  "prompt": "A blinding shaft of golden light coming down through the clouds onto a mountain top where the tiny figure of an ascetic kneels. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N02",
+  "q": 8,
+  "k": 1,
+  "name": "ravana_kneel_ask",
+  "look": "H",
+  "file": "EP13_042_N02q08_ravana_kneel_ask.jpg",
+  "prompt": "An ascetic with matted hair kneeling with joined palms, his face lit from above by golden light. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 43,
+  "clip": "N02",
+  "q": 9,
+  "k": 0,
+  "name": "farmers_far_below",
+  "look": "F",
+  "file": "EP13_043_N02q09_farmers_far_below.jpg",
+  "prompt": "Seen from a mountain top, far below, tiny farmers ploughing small fields beside a river in morning haze. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N02",
+  "q": 9,
+  "k": 1,
+  "name": "ravana_proud_look",
+  "look": "H",
+  "file": "EP13_044_N02q09_ravana_proud_look.jpg",
+  "prompt": "An ascetic with matted hair rising to his feet with a proud half-smile, golden light fading behind him. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 45,
+  "clip": "N02",
+  "q": 10,
+  "k": 0,
+  "name": "bow_arrow_still",
+  "look": "X",
+  "file": "EP13_045_N02q10_bow_arrow_still.jpg",
+  "prompt": "A tall plain wooden bow and a single arrow leaning against dark stone in a shaft of light, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 46,
+  "clip": "N02",
+  "q": 10,
+  "k": 1,
+  "name": "archer_silhouette_far",
+  "look": "W",
+  "file": "EP13_046_N02q10_archer_silhouette_far.jpg",
+  "prompt": "Far away on a ridge against a red sky, the small silhouette of an archer drawing a bow, face not visible. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N02",
+  "q": 11,
+  "k": 0,
+  "name": "ravana_enters_lanka",
+  "look": "G",
+  "file": "EP13_047_N02q11_ravana_enters_lanka.jpg",
+  "prompt": "A warrior king in bronze armour walking up broad steps toward a golden palace gate, an army behind him. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 48,
+  "clip": "N02",
+  "q": 11,
+  "k": 1,
+  "name": "pushpaka_sky",
+  "look": "G",
+  "file": "EP13_048_N02q11_pushpaka_sky.jpg",
+  "prompt": "A vast flying palace-chariot of gold with pillars and spires, shaped like a temple hall, gliding above the clouds at sunset, no people visible. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N02",
+  "q": 12,
+  "k": 0,
+  "name": "ravana_under_mountain",
+  "look": "K",
+  "file": "EP13_049_N02q12_ravana_under_mountain.jpg",
+  "prompt": "A giant warrior king straining with both arms and shoulders under the base of a huge snow mountain, rocks cracking around him. Mythic Himalaya, a great snow peak under a starry sky, cold blue light with a warm glow near the summit. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 50,
+  "clip": "N02",
+  "q": 12,
+  "k": 1,
+  "name": "foot_presses_summit",
+  "look": "K",
+  "file": "EP13_050_N02q12_foot_presses_summit.jpg",
+  "prompt": "The glowing summit of a snow peak, a single bare foot with an anklet pressing down on the rock, only the foot in frame. Mythic Himalaya, a great snow peak under a starry sky, cold blue light with a warm glow near the summit. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N02",
+  "q": 13,
+  "k": 0,
+  "name": "ravana_roar",
+  "look": "K",
+  "file": "EP13_051_N02q13_ravana_roar.jpg",
+  "prompt": "A warrior king pinned under a mountain ledge, head thrown back in a roar, snow shaken loose from the slopes. Mythic Himalaya, a great snow peak under a starry sky, cold blue light with a warm glow near the summit. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 52,
+  "clip": "N02",
+  "q": 13,
+  "k": 1,
+  "name": "avalanches_peaks",
+  "look": "K",
+  "file": "EP13_052_N02q13_avalanches_peaks.jpg",
+  "prompt": "Avalanches pouring down many Himalayan peaks at once under a starry sky, birds scattering, no people. Mythic Himalaya, a great snow peak under a starry sky, cold blue light with a warm glow near the summit. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N02",
+  "q": 14,
+  "k": 0,
+  "name": "tamil_temple_dawn",
+  "look": "O",
+  "file": "EP13_053_N02q14_tamil_temple_dawn.jpg",
+  "prompt": "A seventh-century South Indian granite temple with a small tower beside a tank at dawn, palms, a few devotees in white seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N02",
+  "q": 14,
+  "k": 1,
+  "name": "boy_saint_back",
+  "look": "O",
+  "file": "EP13_054_N02q14_boy_saint_back.jpg",
+  "prompt": "A boy saint in white holding small cymbals, seen from behind, singing before the lamp-lit doorway of a granite shrine in ancient Tamil Nadu. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N02",
+  "q": 14,
+  "k": 2,
+  "name": "kailasa_relief_granite",
+  "look": "O",
+  "file": "EP13_055_N02q14_kailasa_relief_granite.jpg",
+  "prompt": "A weathered granite relief on a South Indian temple wall showing a many-armed figure lifting a mountain with two seated figures on top, raking light, no inscription, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N02",
+  "q": 15,
+  "k": 0,
+  "name": "mandodari_doorway_enters",
+  "look": "L",
+  "file": "EP13_056_N02q15_mandodari_doorway_enters.jpg",
+  "prompt": "A young queen in bridal red and gold stepping through a tall palace doorway into lamp light. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 57,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "forest_wide_morning",
+  "look": "F",
+  "file": "EP13_057_N03q00_forest_wide_morning.jpg",
+  "prompt": "Wide view of a misty ancient forest with a deer path in morning light, no people. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "ravana_hunting",
+  "look": "F",
+  "file": "EP13_058_N03q01_ravana_hunting.jpg",
+  "prompt": "A young warrior king with a bow walking alert through tall forest trees. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 59,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "maya_daughter_walk",
+  "look": "F",
+  "file": "EP13_059_N03q01_maya_daughter_walk.jpg",
+  "prompt": "An elderly master builder with a staff walking along a forest path beside his young daughter, seen from a distance. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 60,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "maya_portrait",
+  "look": "F",
+  "file": "EP13_060_N03q02_maya_portrait.jpg",
+  "prompt": "An elderly master builder with a white beard, a measuring rod in his hand, wise tired eyes. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya"
+  ]
+ },
+ {
+  "n": 61,
+  "clip": "N03",
+  "q": 2,
+  "k": 1,
+  "name": "maya_palace_illusion",
+  "look": "O",
+  "file": "EP13_061_N03q02_maya_palace_illusion.jpg",
+  "prompt": "A fantastic palace of crystal and gold with impossible floating terraces and mirror-like pools in dreamlike mist, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "young_mandodari_portrait",
+  "look": "F",
+  "file": "EP13_062_N03q03_young_mandodari_portrait.jpg",
+  "prompt": "A young woman of about eighteen in plain pale silk with flowers in her hair, calm grave face, forest light. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 63,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "hema_apsara_light",
+  "look": "O",
+  "file": "EP13_063_N03q03_hema_apsara_light.jpg",
+  "prompt": "A celestial dancer in flowing white and gold seen from behind, rising into bright clouds in a soft glow. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "father_daughter_camp",
+  "look": "F",
+  "file": "EP13_064_N03q04_father_daughter_camp.jpg",
+  "prompt": "An elderly father and his young daughter seated by a small campfire in the forest at night, he looks at her with worry. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 65,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "maya_road_far",
+  "look": "F",
+  "file": "EP13_065_N03q04_maya_road_far.jpg",
+  "prompt": "An old man with a staff looking down a long empty forest road, seen from behind. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya"
+  ]
+ },
+ {
+  "n": 66,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "maya_asks",
+  "look": "F",
+  "file": "EP13_066_N03q05_maya_asks.jpg",
+  "prompt": "An elderly master builder facing a tall young warrior king on a forest path, one hand raised in question. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya",
+   "ravana"
+  ]
+ },
+ {
+  "n": 67,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "ravana_answers",
+  "look": "F",
+  "file": "EP13_067_N03q05_ravana_answers.jpg",
+  "prompt": "A young warrior king with palms joined in respectful greeting, a bow slung on his shoulder. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 68,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "fire_witness_hands",
+  "look": "F",
+  "file": "EP13_068_N03q06_fire_witness_hands.jpg",
+  "prompt": "Close view over a small sacred fire in a forest clearing, an old man's hands placing a young woman's hand into a warrior's hand, faces not shown. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "forest_wedding_wide",
+  "look": "F",
+  "file": "EP13_069_N03q06_forest_wedding_wide.jpg",
+  "prompt": "A simple wedding in a forest clearing in evening light, a bride and groom standing before a small sacred fire, her father beside them. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya",
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 70,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "shakti_spear_given",
+  "look": "F",
+  "file": "EP13_070_N03q07_shakti_spear_given.jpg",
+  "prompt": "An elderly master builder holding out on both palms a long spear with a faintly glowing leaf-shaped blade. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya"
+  ]
+ },
+ {
+  "n": 71,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "spear_glow_still",
+  "look": "X",
+  "file": "EP13_071_N03q07_spear_glow_still.jpg",
+  "prompt": "A long spear with a leaf-shaped blade glowing faintly, lying on dark stone, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "storm_over_palace",
+  "look": "G",
+  "file": "EP13_072_N03q08_storm_over_palace.jpg",
+  "prompt": "Storm clouds and lightning over a golden hill city at night, no people. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "mandodari_newborn",
+  "look": "L",
+  "file": "EP13_073_N03q08_mandodari_newborn.jpg",
+  "prompt": "A young queen on a couch holding a wrapped newborn and looking down at him, lamps around her. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 74,
+  "clip": "N03",
+  "q": 8,
+  "k": 2,
+  "name": "indrajit_chariot",
+  "look": "G",
+  "file": "EP13_074_N03q08_indrajit_chariot.jpg",
+  "prompt": "A young prince in dark armour standing in a war chariot under a thundercloud, bow raised in triumph. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "indrajit"
+  ]
+ },
+ {
+  "n": 75,
+  "clip": "N03",
+  "q": 9,
+  "k": 0,
+  "name": "aksha_young_prince",
+  "look": "L",
+  "file": "EP13_075_N03q09_aksha_young_prince.jpg",
+  "prompt": "A boy prince of about sixteen in light gold armour practising with a bow in a palace courtyard, seen from the side. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N03",
+  "q": 10,
+  "k": 0,
+  "name": "leaf_few_marks",
+  "look": "M",
+  "file": "EP13_076_N03q10_leaf_few_marks.jpg",
+  "prompt": "Close view of a single palm leaf with only a few faint illegible scratches, the rest bare, lamp light. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N03",
+  "q": 10,
+  "k": 1,
+  "name": "court_bows_queen",
+  "look": "L",
+  "file": "EP13_077_N03q10_court_bows_queen.jpg",
+  "prompt": "A queen walking through a pillared hall while courtiers on both sides bow their heads. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 78,
+  "clip": "N03",
+  "q": 11,
+  "k": 0,
+  "name": "mandodari_sleep_attendants",
+  "look": "L",
+  "file": "EP13_078_N03q11_mandodari_sleep_attendants.jpg",
+  "prompt": "A sleeping queen on a gold bed seen from the foot of the bed, sheer curtains, attendants asleep on the floor around her. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 79,
+  "clip": "N03",
+  "q": 11,
+  "k": 1,
+  "name": "mandodari_morning_terrace",
+  "look": "G",
+  "file": "EP13_079_N03q11_mandodari_morning_terrace.jpg",
+  "prompt": "A queen standing upright on a palace terrace at sunrise looking over a golden city, her veil lifted by the wind. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 80,
+  "clip": "N03",
+  "q": 12,
+  "k": 0,
+  "name": "women_quarters_many",
+  "look": "L",
+  "file": "EP13_080_N03q12_women_quarters_many.jpg",
+  "prompt": "A large palace hall where many richly dressed royal women sit in groups under lamps, seen from above. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N03",
+  "q": 12,
+  "k": 1,
+  "name": "crown_on_cushion",
+  "look": "X",
+  "file": "EP13_081_N03q12_crown_on_cushion.jpg",
+  "prompt": "A single queen's gold crown on a red silk cushion in a shaft of light, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N03",
+  "q": 13,
+  "k": 0,
+  "name": "lanka_soldiers_towers",
+  "look": "G",
+  "file": "EP13_082_N03q13_lanka_soldiers_towers.jpg",
+  "prompt": "A golden city at midday, ranks of soldiers in bronze armour drawn up below gold-roofed towers. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N03",
+  "q": 13,
+  "k": 1,
+  "name": "ravana_gaze_away",
+  "look": "L",
+  "file": "EP13_083_N03q13_ravana_gaze_away.jpg",
+  "prompt": "A king on a balcony staring far out over the sea, his queen standing behind him watching his back. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 84,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "pushpaka_to_grove",
+  "look": "A",
+  "file": "EP13_084_N04q00_pushpaka_to_grove.jpg",
+  "prompt": "A golden flying chariot coming down toward a walled grove of red-blossomed trees at dusk, the figures aboard too small to make out. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "mandodari_window_grove",
+  "look": "L",
+  "file": "EP13_085_N04q01_mandodari_window_grove.jpg",
+  "prompt": "A queen at a high palace window at night looking down toward a distant lamp-lit grove. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 86,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "ravana_grove_anger",
+  "look": "A",
+  "file": "EP13_086_N04q02_ravana_grove_anger.jpg",
+  "prompt": "A king in rich robes standing in a grove at dawn with one arm flung out in anger, attendants with torches behind him. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 87,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "sita_back_grass",
+  "look": "A",
+  "file": "EP13_087_N04q02_sita_back_grass.jpg",
+  "prompt": "A woman in a plain pale cloth seated on the ground under a tree, seen from behind, a single blade of grass laid on the ground between her and a tall shadow. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 88,
+  "clip": "N04",
+  "q": 2,
+  "k": 2,
+  "name": "dhanyamalini_leads",
+  "look": "A",
+  "file": "EP13_088_N04q02_dhanyamalini_leads.jpg",
+  "prompt": "A young royal wife in green silk gently drawing a king away by the arm while he turns his head back with a hard laugh. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 89,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "tulsi_writing_ghat",
+  "look": "O",
+  "file": "EP13_089_N04q03_tulsi_writing_ghat.jpg",
+  "prompt": "A sixteenth-century North Indian poet-saint in plain white seen from behind, writing on loose paper sheets on a river ghat at dawn, no readable writing. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N04",
+  "q": 3,
+  "k": 1,
+  "name": "mandodari_stops_sword",
+  "look": "A",
+  "file": "EP13_090_N04q03_mandodari_stops_sword.jpg",
+  "prompt": "A queen stepping in front of an angry king and holding his raised sword arm by the wrist, red blossom behind them. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 91,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "mandodari_pleads",
+  "look": "L",
+  "file": "EP13_091_N04q04_mandodari_pleads.jpg",
+  "prompt": "A queen with joined palms speaking earnestly to a king seated on a couch, he looks away. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 92,
+  "clip": "N04",
+  "q": 4,
+  "k": 1,
+  "name": "mandodari_points_sea",
+  "look": "L",
+  "file": "EP13_092_N04q04_mandodari_points_sea.jpg",
+  "prompt": "A queen pointing through an arched window toward the sea and the far shore, her face urgent. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 93,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "mandodari_kneel_dusk",
+  "look": "W",
+  "file": "EP13_093_N04q05_mandodari_kneel_dusk.jpg",
+  "prompt": "A queen kneeling on a battlefield at dusk, speaking toward a fallen figure out of frame. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 94,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "finger_on_leaf_line",
+  "look": "M",
+  "file": "EP13_094_N04q05_finger_on_leaf_line.jpg",
+  "prompt": "A finger resting on one line of a palm leaf under a lamp, the marks faint and illegible. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "private_room_warning",
+  "look": "L",
+  "file": "EP13_095_N04q06_private_room_warning.jpg",
+  "prompt": "At night in a private chamber, a queen standing and speaking firmly to a king who sits turned away holding a cup. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 96,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "ravana_dismiss_hand",
+  "look": "L",
+  "file": "EP13_096_N04q06_ravana_dismiss_hand.jpg",
+  "prompt": "A king waving one hand in dismissal with a proud smile, lamp light on gold. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 97,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "vibhishana_court",
+  "look": "L",
+  "file": "EP13_097_N04q07_vibhishana_court.jpg",
+  "prompt": "In a great court hall a gentle thin prince in plain white with joined palms pleading before a king on a high throne who glares down at him. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 98,
+  "clip": "N04",
+  "q": 7,
+  "k": 1,
+  "name": "vibhishana_leaves",
+  "look": "G",
+  "file": "EP13_098_N04q07_vibhishana_leaves.jpg",
+  "prompt": "A gentle thin prince in plain white walking out through a golden city gate with four companions, seen from behind. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "mandodari_alone_lamp",
+  "look": "L",
+  "file": "EP13_099_N04q08_mandodari_alone_lamp.jpg",
+  "prompt": "A queen sitting alone beside a single lamp in a dark hall, hands in her lap. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 100,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "aksha_chariot_out",
+  "look": "G",
+  "file": "EP13_100_N04q09_aksha_chariot_out.jpg",
+  "prompt": "A boy prince in light gold armour driving a chariot out of a palace gate at speed. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N04",
+  "q": 9,
+  "k": 1,
+  "name": "empty_chariot_grove",
+  "look": "A",
+  "file": "EP13_101_N04q09_empty_chariot_grove.jpg",
+  "prompt": "An overturned small gold chariot and a broken bow lying among trampled trees in a grove, drifting smoke, no people. A walled garden grove in ancient Lanka, ashoka trees with red-orange blossom, stone lamps, dusk or moonlight. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N04",
+  "q": 10,
+  "k": 0,
+  "name": "ramparts_war_dusk",
+  "look": "W",
+  "file": "EP13_102_N04q10_ramparts_war_dusk.jpg",
+  "prompt": "Armies clashing far below the gold ramparts of a hill city at dusk, seen from a great distance, dust and smoke. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N04",
+  "q": 10,
+  "k": 1,
+  "name": "empty_seats_court",
+  "look": "L",
+  "file": "EP13_103_N04q10_empty_seats_court.jpg",
+  "prompt": "A court hall with a row of empty gold seats, a helmet laid on each one, a single lamp, no people. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N04",
+  "q": 11,
+  "k": 0,
+  "name": "indrajit_rides_out",
+  "look": "G",
+  "file": "EP13_104_N04q11_indrajit_rides_out.jpg",
+  "prompt": "A prince in dark armour mounting his chariot at dawn, looking back once toward the palace. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "indrajit"
+  ]
+ },
+ {
+  "n": 105,
+  "clip": "N04",
+  "q": 11,
+  "k": 1,
+  "name": "helmet_bow_ground",
+  "look": "W",
+  "file": "EP13_105_N04q11_helmet_bow_ground.jpg",
+  "prompt": "A dark war helmet and a broken bow lying on the ground at dusk, a single arrow standing in the earth beside them, no people. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 106,
+  "clip": "N04",
+  "q": 12,
+  "k": 0,
+  "name": "mandodari_holds_helmet",
+  "look": "L",
+  "file": "EP13_106_N04q12_mandodari_holds_helmet.jpg",
+  "prompt": "A queen holding a dark war helmet in both hands with her eyes closed, attendants weeping behind her. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 107,
+  "clip": "N04",
+  "q": 12,
+  "k": 1,
+  "name": "mandodari_floor_grief",
+  "look": "L",
+  "file": "EP13_107_N04q12_mandodari_floor_grief.jpg",
+  "prompt": "A queen seated on the floor against a gold pillar, head bowed, hair loosened, one lamp. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 108,
+  "clip": "N04",
+  "q": 13,
+  "k": 0,
+  "name": "ravana_alone_throne",
+  "look": "L",
+  "file": "EP13_108_N04q13_ravana_alone_throne.jpg",
+  "prompt": "A king alone on his throne in an empty dark hall, chin on his fist. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 109,
+  "clip": "N04",
+  "q": 14,
+  "k": 0,
+  "name": "ravana_chariot_leaves",
+  "look": "G",
+  "file": "EP13_109_N04q14_ravana_chariot_leaves.jpg",
+  "prompt": "A king in full bronze armour riding a great war chariot out through a golden gate into smoke, seen from behind. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 110,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "arrow_flight_sky",
+  "look": "W",
+  "file": "EP13_110_N05q00_arrow_flight_sky.jpg",
+  "prompt": "A single bright arrow streaking across a red evening sky above a battlefield, trailing light, no people. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "mandodari_runs_gate",
+  "look": "W",
+  "file": "EP13_111_N05q01_mandodari_runs_gate.jpg",
+  "prompt": "A queen running barefoot out of a city gate toward a battlefield, veil flying, attendants behind her. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 112,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "mandodari_kneels_beside",
+  "look": "W",
+  "file": "EP13_112_N05q02_mandodari_kneels_beside.jpg",
+  "prompt": "A queen kneeling beside a fallen king in bronze armour who lies as if asleep, only his arm and breastplate in frame. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 113,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "mandodari_tears_firm",
+  "look": "W",
+  "file": "EP13_113_N05q02_mandodari_tears_firm.jpg",
+  "prompt": "Close view of a queen's face with tears on her cheeks but a firm steady gaze, red sky behind her. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 114,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "indra_bows_memory",
+  "look": "O",
+  "file": "EP13_114_N05q03_indra_bows_memory.jpg",
+  "prompt": "A memory scene in pale gold haze: a proud king on a throne while a crowned sky-king holding a thunderbolt stands before him with head lowered. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 115,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "vanara_bridge_sea",
+  "look": "O",
+  "file": "EP13_115_N05q04_vanara_bridge_sea.jpg",
+  "prompt": "A long causeway of rocks and tree trunks stretching across a blue sea toward a far island, thousands of tiny monkey-shaped figures carrying stones, seen from high above. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 116,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "archer_back_shore",
+  "look": "O",
+  "file": "EP13_116_N05q04_archer_back_shore.jpg",
+  "prompt": "A tall archer in bark cloth with his hair in a topknot standing on a shore, seen from behind, a bow on his shoulder, looking across the sea in soft dawn light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "leaf_near_flame",
+  "look": "M",
+  "file": "EP13_117_N05q05_leaf_near_flame.jpg",
+  "prompt": "A single palm leaf held near a lamp flame, faint illegible marks, the shadow of a hand. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "young_ravana_meditation",
+  "look": "H",
+  "file": "EP13_118_N05q06_young_ravana_meditation.jpg",
+  "prompt": "A young ascetic with matted hair seated in perfect stillness in deep meditation on a rock, eyes closed, calm. Ancient India of the epic age, a forest hermitage or bare mountain, thatched huts, sacred fire, sages with matted hair in bark cloth, dawn or dusk light. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 119,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "crown_in_dust",
+  "look": "W",
+  "file": "EP13_119_N05q06_crown_in_dust.jpg",
+  "prompt": "A gold crown with a tall centre spire lying in the dust of a battlefield at dusk, no people. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "broken_arrow_still",
+  "look": "X",
+  "file": "EP13_120_N05q07_broken_arrow_still.jpg",
+  "prompt": "A broken arrow lying on dark stone in a shaft of light, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N05",
+  "q": 7,
+  "k": 1,
+  "name": "ravana_staring_grove",
+  "look": "L",
+  "file": "EP13_121_N05q07_ravana_staring_grove.jpg",
+  "prompt": "A king standing at a window at night staring toward a distant lamp-lit grove, his face tense with longing. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 122,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "golden_deer_glade",
+  "look": "F",
+  "file": "EP13_122_N05q08_golden_deer_glade.jpg",
+  "prompt": "A shining golden deer with jewelled spots standing in a forest glade and looking back, no people. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "disguised_hermit_hut",
+  "look": "F",
+  "file": "EP13_123_N05q08_disguised_hermit_hut.jpg",
+  "prompt": "A figure disguised as an old wandering hermit with a bowl and a parasol approaching a lonely forest hut, seen from behind, his long shadow on the ground wearing a king's crown. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "mandodari_closes_visor",
+  "look": "W",
+  "file": "EP13_124_N05q09_mandodari_closes_visor.jpg",
+  "prompt": "A queen in profile gently laying her hand on the helmet of a fallen king, his face not shown. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 125,
+  "clip": "N05",
+  "q": 10,
+  "k": 0,
+  "name": "mandodari_faint_chest",
+  "look": "W",
+  "file": "EP13_125_N05q10_mandodari_faint_chest.jpg",
+  "prompt": "A queen collapsed forward onto a fallen king's bronze breastplate, eyes closed, her veil spread over the armour. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 126,
+  "clip": "N05",
+  "q": 10,
+  "k": 1,
+  "name": "cowives_lift_her",
+  "look": "W",
+  "file": "EP13_126_N05q10_cowives_lift_her.jpg",
+  "prompt": "Several royal women in rich silk lifting and holding a fainting queen, all weeping, red dusk. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 127,
+  "clip": "N05",
+  "q": 11,
+  "k": 0,
+  "name": "archer_consoles_prince",
+  "look": "W",
+  "file": "EP13_127_N05q11_archer_consoles_prince.jpg",
+  "prompt": "A tall archer in bark cloth seen from behind with one hand on the shoulder of a gentle thin prince in white who weeps, battlefield at dusk. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 128,
+  "clip": "N05",
+  "q": 11,
+  "k": 1,
+  "name": "funeral_pyre_shore",
+  "look": "W",
+  "file": "EP13_128_N05q11_funeral_pyre_shore.jpg",
+  "prompt": "A great funeral pyre of sandalwood burning on a shore at night, a line of mourners in white seen from behind. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 129,
+  "clip": "N05",
+  "q": 12,
+  "k": 0,
+  "name": "kamban_hands_writing",
+  "look": "M",
+  "file": "EP13_129_N05q12_kamban_hands_writing.jpg",
+  "prompt": "The hands of a twelfth-century Tamil poet writing on a palm leaf with an iron stylus beside a brass lamp, white shoulder cloth, face not shown. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 130,
+  "clip": "N05",
+  "q": 12,
+  "k": 1,
+  "name": "temple_hall_recital",
+  "look": "O",
+  "file": "EP13_130_N05q12_temple_hall_recital.jpg",
+  "prompt": "A poet in white seen from behind reciting from a palm-leaf bundle in the pillared hall of a medieval Tamil granite temple, listeners seated on the floor, oil lamps. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 131,
+  "clip": "N05",
+  "q": 13,
+  "k": 0,
+  "name": "mandodari_looks_down",
+  "look": "W",
+  "file": "EP13_131_N05q13_mandodari_looks_down.jpg",
+  "prompt": "A queen standing over a fallen king, both hands pressed to her chest, looking down in disbelief, his face not shown. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 132,
+  "clip": "N05",
+  "q": 13,
+  "k": 1,
+  "name": "breastplate_pierced",
+  "look": "W",
+  "file": "EP13_132_N05q13_breastplate_pierced.jpg",
+  "prompt": "Close view of a bronze breastplate pierced with many small arrow holes, light glinting on the metal, no blood, no face. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 133,
+  "clip": "N05",
+  "q": 14,
+  "k": 0,
+  "name": "kailash_memory_lift",
+  "look": "K",
+  "file": "EP13_133_N05q14_kailash_memory_lift.jpg",
+  "prompt": "A memory in cold blue haze of a giant king lifting a snow mountain on his shoulders. Mythic Himalaya, a great snow peak under a starry sky, cold blue light with a warm glow near the summit. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 134,
+  "clip": "N05",
+  "q": 14,
+  "k": 1,
+  "name": "sesame_seed_palm",
+  "look": "X",
+  "file": "EP13_134_N05q14_sesame_seed_palm.jpg",
+  "prompt": "A single tiny sesame seed on an open palm in a shaft of light. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 135,
+  "clip": "N05",
+  "q": 14,
+  "k": 2,
+  "name": "arrow_light_search",
+  "look": "O",
+  "file": "EP13_135_N05q14_arrow_light_search.jpg",
+  "prompt": "A glowing arrow of light winding like a searching thread through dark space around the faint outline of a heart, symbolic, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 136,
+  "clip": "N05",
+  "q": 15,
+  "k": 0,
+  "name": "mandodari_embrace",
+  "look": "W",
+  "file": "EP13_136_N05q15_mandodari_embrace.jpg",
+  "prompt": "A queen with both arms around a fallen king's armoured chest, her cheek on the bronze, eyes closed, his face not shown. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 137,
+  "clip": "N05",
+  "q": 15,
+  "k": 1,
+  "name": "lamp_goes_out",
+  "look": "X",
+  "file": "EP13_137_N05q15_lamp_goes_out.jpg",
+  "prompt": "A brass oil lamp whose flame has just gone out, a thin line of smoke rising, dark background, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 138,
+  "clip": "N05",
+  "q": 16,
+  "k": 0,
+  "name": "mandodari_led_away",
+  "look": "W",
+  "file": "EP13_138_N05q16_mandodari_led_away.jpg",
+  "prompt": "A queen being led slowly away from a battlefield by other royal women, looking back over her shoulder. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 139,
+  "clip": "N05",
+  "q": 16,
+  "k": 1,
+  "name": "veil_over_two_far",
+  "look": "W",
+  "file": "EP13_139_N05q16_veil_over_two_far.jpg",
+  "prompt": "Seen from far away at dusk, two figures lying still side by side on a battlefield beneath a plain dark banner, one veil spread over both, no faces. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 140,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "mandodari_at_cradle",
+  "look": "J",
+  "file": "EP13_140_N06q00_mandodari_at_cradle.jpg",
+  "prompt": "A queen looking down at a small empty cradle, one hand on its edge. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 141,
+  "clip": "N06",
+  "q": 0,
+  "k": 1,
+  "name": "baby_girl_wrapped",
+  "look": "J",
+  "file": "EP13_141_N06q00_baby_girl_wrapped.jpg",
+  "prompt": "A newborn girl wrapped in gold silk asleep on a cushion in soft lamp glow, no other people. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 142,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "janaka_plough_field",
+  "look": "O",
+  "file": "EP13_142_N06q01_janaka_plough_field.jpg",
+  "prompt": "An ancient Indian king in simple white driving a golden plough behind two white oxen across a ritual field, priests watching from a distance, the king seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 143,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "baby_in_furrow",
+  "look": "O",
+  "file": "EP13_143_N06q01_baby_in_furrow.jpg",
+  "prompt": "A baby girl wrapped in cloth lying in a freshly ploughed furrow of dark earth, glowing softly, a king's hands reaching down, his face not shown. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 144,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "tamil_bundle_closed",
+  "look": "M",
+  "file": "EP13_144_N06q02_tamil_bundle_closed.jpg",
+  "prompt": "A closed Tamil palm-leaf bundle tied with red thread beside a brass lamp, no people. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 145,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "later_books_stack",
+  "look": "M",
+  "file": "EP13_145_N06q03_later_books_stack.jpg",
+  "prompt": "A stack of different old manuscripts, some palm leaf, some birch bark, some paper in cloth covers, on a low desk, no people. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 146,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "jain_monk_writing",
+  "look": "O",
+  "file": "EP13_146_N06q04_jain_monk_writing.jpg",
+  "prompt": "A Jain monk in plain white cloth seen from behind, writing on a palm leaf in a bare stone cell lit by a small window. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 147,
+  "clip": "N06",
+  "q": 4,
+  "k": 1,
+  "name": "rock_cell_library",
+  "look": "O",
+  "file": "EP13_147_N06q04_rock_cell_library.jpg",
+  "prompt": "A rock-cut monastery cell in ancient India with shelves of cloth-wrapped manuscripts and a low wooden desk, soft daylight, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 148,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "mandodari_holds_daughter",
+  "look": "J",
+  "file": "EP13_148_N06q05_mandodari_holds_daughter.jpg",
+  "prompt": "A queen holding a newborn girl close and looking up in fear. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 149,
+  "clip": "N06",
+  "q": 5,
+  "k": 1,
+  "name": "astrologers_charts",
+  "look": "J",
+  "file": "EP13_149_N06q05_astrologers_charts.jpg",
+  "prompt": "Three old astrologers with star charts of plain dots and lines spread on the floor, shaking their heads before a frowning king. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 150,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "casket_carried_night",
+  "look": "J",
+  "file": "EP13_150_N06q06_casket_carried_night.jpg",
+  "prompt": "A servant seen from behind carrying a small carved casket through a moonlit forest. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 151,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "casket_in_earth",
+  "look": "J",
+  "file": "EP13_151_N06q06_casket_in_earth.jpg",
+  "prompt": "A small carved casket half buried in ploughed earth at dawn, a plough blade beside it, no people. Storybook illustration mood, soft moonlight and lamp glow, ancient India. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 152,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "pot_sealed_roots",
+  "look": "J",
+  "file": "EP13_152_N06q07_pot_sealed_roots.jpg",
+  "prompt": "A sealed clay pot buried among tree roots in a forest clearing in moonlight, no people. Storybook illustration mood, soft moonlight and lamp glow, ancient India. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 153,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "storyteller_banyan",
+  "look": "O",
+  "file": "EP13_153_N06q07_storyteller_banyan.jpg",
+  "prompt": "A village storyteller seen from behind speaking to listeners under a banyan tree at night by lamp light, old India. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 154,
+  "clip": "N06",
+  "q": 8,
+  "k": 0,
+  "name": "ravana_grove_distance",
+  "look": "J",
+  "file": "EP13_154_N06q08_ravana_grove_distance.jpg",
+  "prompt": "A king standing at the edge of a moonlit grove looking toward a distant woman seated under a tree with her back to him. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana"
+  ]
+ },
+ {
+  "n": 155,
+  "clip": "N06",
+  "q": 8,
+  "k": 1,
+  "name": "mandodari_dread_window",
+  "look": "J",
+  "file": "EP13_155_N06q08_mandodari_dread_window.jpg",
+  "prompt": "A queen at a window with one hand over her mouth, eyes wide with dread. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 156,
+  "clip": "N06",
+  "q": 9,
+  "k": 0,
+  "name": "banyan_branches",
+  "look": "O",
+  "file": "EP13_156_N06q09_banyan_branches.jpg",
+  "prompt": "A huge ancient banyan tree with one great trunk and many hanging branch roots in morning light, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 157,
+  "clip": "N06",
+  "q": 9,
+  "k": 1,
+  "name": "hand_separates_leaf",
+  "look": "M",
+  "file": "EP13_157_N06q09_hand_separates_leaf.jpg",
+  "prompt": "A hand moving one palm leaf away from a main bundle to a separate small pile. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 158,
+  "clip": "N06",
+  "q": 10,
+  "k": 0,
+  "name": "vibhishana_crowned",
+  "look": "J",
+  "file": "EP13_158_N06q10_vibhishana_crowned.jpg",
+  "prompt": "A gentle thin prince in white being crowned king in a damaged gold hall, seen from a distance. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 159,
+  "clip": "N06",
+  "q": 10,
+  "k": 1,
+  "name": "mandodari_white_court",
+  "look": "J",
+  "file": "EP13_159_N06q10_mandodari_white_court.jpg",
+  "prompt": "A queen in plain white without jewellery standing at the side of a court hall with her eyes lowered. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 160,
+  "clip": "N06",
+  "q": 11,
+  "k": 0,
+  "name": "empty_queen_seat",
+  "look": "L",
+  "file": "EP13_160_N06q11_empty_queen_seat.jpg",
+  "prompt": "An empty queen's seat beside a king's throne, a white cloth laid over it, no people. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 161,
+  "clip": "N06",
+  "q": 11,
+  "k": 1,
+  "name": "two_bundles_two_hands",
+  "look": "M",
+  "file": "EP13_161_N06q11_two_bundles_two_hands.jpg",
+  "prompt": "Two palm-leaf bundles open side by side, a hand resting on each, a lamp between them. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 162,
+  "clip": "N06",
+  "q": 12,
+  "k": 0,
+  "name": "mandodari_dignity_portrait",
+  "look": "L",
+  "file": "EP13_162_N06q12_mandodari_dignity_portrait.jpg",
+  "prompt": "A queen standing in calm dignity, soft light on her face, dark background. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 163,
+  "clip": "N06",
+  "q": 13,
+  "k": 0,
+  "name": "five_lamps_row",
+  "look": "X",
+  "file": "EP13_163_N06q13_five_lamps_row.jpg",
+  "prompt": "Five brass oil lamps burning in a row on dark stone, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 164,
+  "clip": "N06",
+  "q": 13,
+  "k": 1,
+  "name": "five_women_silhouettes",
+  "look": "O",
+  "file": "EP13_164_N06q13_five_women_silhouettes.jpg",
+  "prompt": "Five women of ancient India in draped silk standing in a row on a river bank at dawn, seen from behind as silhouettes. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 165,
+  "clip": "N06",
+  "q": 13,
+  "k": 2,
+  "name": "dawn_prayer_hands",
+  "look": "O",
+  "file": "EP13_165_N06q13_dawn_prayer_hands.jpg",
+  "prompt": "An old Indian woman's joined hands holding prayer beads at dawn on a river ghat, face not shown. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 166,
+  "clip": "N06",
+  "q": 14,
+  "k": 0,
+  "name": "mandodari_among_five",
+  "look": "O",
+  "file": "EP13_166_N06q14_mandodari_among_five.jpg",
+  "prompt": "Five women of ancient India standing in a line at dawn, four seen from behind, one queen turned so that her profile shows. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 167,
+  "clip": "N06",
+  "q": 14,
+  "k": 1,
+  "name": "sunrise_lanka_sea",
+  "look": "G",
+  "file": "EP13_167_N06q14_sunrise_lanka_sea.jpg",
+  "prompt": "Sunrise over the sea behind a quiet golden city, no people. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 168,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "bundle_sill_road",
+  "look": "O",
+  "file": "EP13_168_N07q00_bundle_sill_road.jpg",
+  "prompt": "A closed palm-leaf bundle on a window sill, beyond the window a dusty present-day Indian country road at sunrise, no people, no signboards. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 169,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "desert_road_wide",
+  "look": "T",
+  "file": "EP13_169_N07q00_desert_road_wide.jpg",
+  "prompt": "An empty road running toward low rocky hills in the Thar desert at sunrise, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 170,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "sandstone_cenotaphs",
+  "look": "T",
+  "file": "EP13_170_N07q01_sandstone_cenotaphs.jpg",
+  "prompt": "Tall dark-red sandstone cenotaphs shaped like temple towers standing in an old garden in Rajasthan, langur monkeys on the steps, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 171,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "ruined_fort_ridge",
+  "look": "T",
+  "file": "EP13_171_N07q01_ruined_fort_ridge.jpg",
+  "prompt": "Ruined sandstone walls and a gateway on a rocky ridge above an old town, dry trees, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 172,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "wedding_altar_pavilion",
+  "look": "T",
+  "file": "EP13_172_N07q02_wedding_altar_pavilion.jpg",
+  "prompt": "A small old carved sandstone pavilion with four pillars and a stone platform, weeds between the slabs, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 173,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "guide_points_back",
+  "look": "T",
+  "file": "EP13_173_N07q02_guide_points_back.jpg",
+  "prompt": "A local man in a white turban seen from behind pointing at an old stone pavilion while two visitors look on. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 174,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "family_niche_offering",
+  "look": "T",
+  "file": "EP13_174_N07q03_family_niche_offering.jpg",
+  "prompt": "The hands of a family placing flowers and a small lamp before a simple stone niche, faces not shown. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 175,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "elder_turban_step",
+  "look": "T",
+  "file": "EP13_175_N07q03_elder_turban_step.jpg",
+  "prompt": "An old man in a white dhoti and a coloured turban seen from behind, sitting on a stone step and looking at ruins. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 176,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "central_town_morning",
+  "look": "T",
+  "file": "EP13_176_N07q04_central_town_morning.jpg",
+  "prompt": "A small central Indian town street in early morning with whitewashed houses and a neem tree, two people seen from behind. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 177,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "women_veils_statue_base",
+  "look": "T",
+  "file": "EP13_177_N07q04_women_veils_statue_base.jpg",
+  "prompt": "Women in bright saris with veils drawn over their heads walking past the base of a tall statue, seen from behind, only the statue's feet in frame. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 178,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "ten_head_statue_tall",
+  "look": "T",
+  "file": "EP13_178_N07q05_ten_head_statue_tall.jpg",
+  "prompt": "A tall weathered concrete statue of a ten-headed king standing in an open square, seen from low down against the morning sky, garlands at its feet, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 179,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "puja_plate_feet",
+  "look": "T",
+  "file": "EP13_179_N07q05_puja_plate_feet.jpg",
+  "prompt": "A brass plate with marigolds, a lamp and red powder set down at the huge stone feet of a statue, a hand lighting the lamp. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 180,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "village_shrine_fields",
+  "look": "T",
+  "file": "EP13_180_N07q06_village_shrine_fields.jpg",
+  "prompt": "A small old village temple with a low dome among fields on the north Indian plain in winter mist, no people. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 181,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "village_lane_lamps",
+  "look": "T",
+  "file": "EP13_181_N07q06_village_lane_lamps.jpg",
+  "prompt": "A quiet north Indian village lane at dusk on a festival evening, oil lamps on the doorsteps, no bonfire, no effigy. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 182,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "two_lamps_apart",
+  "look": "X",
+  "file": "EP13_182_N07q07_two_lamps_apart.jpg",
+  "prompt": "Two small oil lamps set far apart on a bare unmarked sandy surface, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 183,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "hands_roadside_shrine",
+  "look": "T",
+  "file": "EP13_183_N07q07_hands_roadside_shrine.jpg",
+  "prompt": "An old woman's joined hands before a small roadside shrine, face not shown. Present day, dry north-western or central India, soft morning light, old sandstone and whitewashed buildings, no signboards, no wires, no poles, no logos, any people seen from behind. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 184,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "tamil_writer_1940s",
+  "look": "O",
+  "file": "EP13_184_N07q08_tamil_writer_1940s.jpg",
+  "prompt": "A Tamil scholar of the 1940s in a white shirt and veshti seen from behind, writing by hand at a wooden desk beside a kerosene lamp, stacks of paper, no readable writing. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 185,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "letterpress_1940s",
+  "look": "O",
+  "file": "EP13_185_N07q08_letterpress_1940s.jpg",
+  "prompt": "A hand-operated letterpress in a small South Indian printing shop of the 1940s, blank sheets hanging to dry, no readable writing, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 186,
+  "clip": "N07",
+  "q": 8,
+  "k": 2,
+  "name": "plain_books_spectacles",
+  "look": "O",
+  "file": "EP13_186_N07q08_plain_books_spectacles.jpg",
+  "prompt": "A stack of thick plain-covered books on a wooden table, no titles, no lettering, a pair of round spectacles beside them, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 187,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "books_locked_cupboard",
+  "look": "O",
+  "file": "EP13_187_N07q09_books_locked_cupboard.jpg",
+  "prompt": "A bundle of plain-covered books tied with rope inside a locked wooden cupboard with a wire-mesh door, no lettering, no people. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 188,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "book_open_window",
+  "look": "O",
+  "file": "EP13_188_N07q09_book_open_window.jpg",
+  "prompt": "A plain-covered book lying open on a table in bright window light, the pages blurred, a hand turning a page. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 189,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "three_piles_above",
+  "look": "M",
+  "file": "EP13_189_N07q10_three_piles_above.jpg",
+  "prompt": "Three separate piles of palm-leaf manuscripts on a desk under one lamp, seen from straight above, no people. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 190,
+  "clip": "N07",
+  "q": 11,
+  "k": 0,
+  "name": "father_daughter_sunlit",
+  "look": "F",
+  "file": "EP13_190_N07q11_father_daughter_sunlit.jpg",
+  "prompt": "A young woman walking beside her elderly father through a sunlit forest, both with a slight smile. Ancient Indian forest of the epic age, tall sal and banyan trees, shafts of soft light, mist, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "maya",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 191,
+  "clip": "N07",
+  "q": 11,
+  "k": 1,
+  "name": "mandodari_speaks_truth",
+  "look": "W",
+  "file": "EP13_191_N07q11_mandodari_speaks_truth.jpg",
+  "prompt": "A queen kneeling on a battlefield with one hand raised as she speaks, firm face, red sky. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 192,
+  "clip": "N07",
+  "q": 12,
+  "k": 0,
+  "name": "veil_banner_dusk",
+  "look": "W",
+  "file": "EP13_192_N07q12_veil_banner_dusk.jpg",
+  "prompt": "A queen's veil spread over two still forms on a battlefield at dusk, seen from a distance, a plain dark banner hanging above, no faces. The plain below the ramparts of ancient Lanka at dusk after a battle of the epic age, broken chariots, fallen plain banners, drifting smoke, a red sky, no blood, no gore, no wounds, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 193,
+  "clip": "N07",
+  "q": 13,
+  "k": 0,
+  "name": "casket_moonlight",
+  "look": "J",
+  "file": "EP13_193_N07q13_casket_moonlight.jpg",
+  "prompt": "A small carved casket in a pool of moonlight on a forest floor, no people. Storybook illustration mood, soft moonlight and lamp glow, ancient India. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 194,
+  "clip": "N07",
+  "q": 13,
+  "k": 1,
+  "name": "white_queen_corridor",
+  "look": "J",
+  "file": "EP13_194_N07q13_white_queen_corridor.jpg",
+  "prompt": "A queen in plain white seen from behind walking down an empty palace corridor. Storybook illustration mood, soft moonlight and lamp glow, ancient India, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 195,
+  "clip": "N07",
+  "q": 14,
+  "k": 0,
+  "name": "king_queen_terrace_sunset",
+  "look": "L",
+  "file": "EP13_195_N07q14_king_queen_terrace_sunset.jpg",
+  "prompt": "A king and queen in younger days seated together on a terrace at sunset, she is speaking and he listens with a smile. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ravana",
+   "mandodari"
+  ]
+ },
+ {
+  "n": 196,
+  "clip": "N07",
+  "q": 14,
+  "k": 1,
+  "name": "mandodari_final_portrait",
+  "look": "L",
+  "file": "EP13_196_N07q14_mandodari_final_portrait.jpg",
+  "prompt": "Close portrait of a queen looking straight at the viewer, calm, a single lamp reflected in her eyes. Interior of a legendary golden palace in ancient Lanka, tall gold-plated pillars, brass oil lamps, polished dark stone floor, sheer curtains, warm lamp light and deep shadow, people in ancient Indian epic-age dress of draped silk and gold jewellery, modest. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "mandodari"
+  ]
+ },
+ {
+  "n": 197,
+  "clip": "N07",
+  "q": 15,
+  "k": 0,
+  "name": "two_leaves_two_hands",
+  "look": "M",
+  "file": "EP13_197_N07q15_two_leaves_two_hands.jpg",
+  "prompt": "Two palm leaves held up side by side by two hands in lamp light, faint illegible marks. Old Indian scriptorium, warm oil-lamp light, palm-leaf manuscripts carrying only faint illegible scratches. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 198,
+  "clip": "N07",
+  "q": 15,
+  "k": 1,
+  "name": "veil_on_parapet",
+  "look": "G",
+  "file": "EP13_198_N07q15_veil_on_parapet.jpg",
+  "prompt": "An empty palace terrace above the sea at dawn, a queen's veil left on the parapet and moving in the wind, no people. Legendary golden city of ancient Lanka on a hill above a tropical sea, gold-roofed towers and high ramparts, palms. Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ }
+]
