@@ -83,6 +83,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B18 | 170–179 | `1DMi2ovtvA601iX_QxEwnD9pgdkqxmKdY` | `1yAGd-3yHKYhv7YLWYghFkLhIj0UVURbW` |
 | B19 | 180–189 | `19SM43vo3sQsWu-jvZFOoqBvD9XTzl3tU` | `1EmVAM4z0YzSNHyUR4koaHF9GfksKbL71` |
 | B20 | 190–199 | `1D5WWiPPGYrDBK6MEkDMkK-7SGzaaVUvv` | `1BB5zLZnmN5EZRQosmKFUG0gt-2V_KCOn` |
+| B21 | 200–209 | `1kLp2w1q3e9Xibuhpvl90hM-BBsPKNMfW` | `1NfPMOIIMuSH_SfKp1aF0E0XlKtoENJdr` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -266,6 +267,16 @@ Ten made; nine kept, one for redo. Looked at all ten at half size; 191 shelves a
 - Film-copy crop added in `shots/crops.json`: 191 (3% inset; pale frame line at top and left).
 - Kept with a doubt: 191 the map on the monitor is a green coast that looks like eastern England, not India (192 right after shows India); 194 has low hills on the horizon; 195 the ridge is a rocky hill, larger than "low"; 193 mountains behind the ice.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198 (eight). Plan: B21 = 200–209 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the remaining redo(s). B34 has free slots, so pictures kept with a doubt can be redone there too (first choices: 159, 188, 151).
+## B21 (200–209)
 
-Next: B21 = 200–209 (`tools/pack.py 200 209 21`).
+Ten made; eight kept, two for redo. Looked at all ten at half size; the gauge in 204, the camp in 207 and the heads in 209 at full size.
+- `shots/expand.py` Ice Age setting reworded before this batch: "a warm wide dry coastal plain of scrub and scattered trees … no snow, no ice … wearing only simple hide loincloths, no furs" (the old "cold pale sky … animal skins" gave snow and furs in 198). Rows 010, 194, 195, 206, 207, 208, 234, 242, 243, 245 changed in `prompts.json`; 010, 194, 195 were made with the old wording.
+- Good: 200 (torch on the overgrown lump), 201 (delta from the air), 202 (mud bank slumping, roots bare), 203 (palms fallen in the surf), 204 (depth gauge and blank slate; dial blurred, not readable), 205 (rod and stopped watch, blank dial), 206 (microliths in a palm), 208 (rock shelter with ash).
+- **Redo 207**: the camp came out as a flat textbook illustration, with bare-chested women in the foreground, large polished spearheads and a hafted hammer. New wording: small dim figures at dusk, hide wraps, no metal.
+- **Redo 209**: the Indian scientist's face is in clear profile and the European man's bearded cheek shows; they stand for real living people. New wording: three backs at the rail, no faces.
+- Film-copy crop added in `shots/crops.json`: 208 (3.5% inset; white rounded frame).
+- Kept with a doubt: 206 and 208 look like African savanna (flat-topped acacias); 206 has hills behind.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209 (ten). Plan: B22 = 210–219 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151).
+
+Next: B22 = 210–219 (`tools/pack.py 210 219 22`).

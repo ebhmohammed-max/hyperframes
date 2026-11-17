@@ -17,7 +17,7 @@ LOOK = {
  "T": ("the coast today", "Present day, soft morning light, coastal Tamil Nadu, palmyra palms and sand, no wires, no poles, no signboards"),
  "G": ("computer laboratory", "Dark modern Indian laboratory room, glow of computer screens, bare walls, no posters"),
  "A": ("scholar's desk", "Indian scholar's study, warm desk-lamp light, bare walls, no posters"),
- "I": ("end of the Ice Age", "South India at the end of the Ice Age, wide dry coastal plain under a cold pale sky, dark-skinned hunter-gatherers in animal skins, no buildings"),
+ "I": ("end of the Ice Age", "South India at the end of the Ice Age, a warm wide dry coastal plain of scrub and scattered trees under a pale sky, no snow, no ice, dark-skinned hunter-gatherers wearing only simple hide loincloths, no furs, no buildings"),
  "W": ("ancient West Asia", "Ancient West Asia, bright dry Persian Gulf coast, date palms, mud-brick buildings, men in long plain tunics and head cloths"),
  "X": ("symbolic still life", "Dark Indian room, a single shaft of light on a plain wooden table"),
  "C": ("lamp still life", "Still life on dark wood, one brass oil lamp, South Indian setting"),
