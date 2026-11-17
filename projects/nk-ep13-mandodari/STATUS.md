@@ -61,6 +61,7 @@ The user sent a reference picture and said the first Hanuman "looks like small m
 | B09 | 081–090 | `1S4okD9cBAxHF2Ztst0h0sylGvdHhC49S`, sheet `19Llvnz_Y686FGG0DjwKByw-BKcoSPseX` | 081 (European crown) in `shots/redo.txt`. 085 edge crop. 088: Dhanyamalini changed from green to blue silk so she is not mistaken for Mandodari (`shots.txt` updated). 090: she holds his other arm, not the sword arm; kept. 087 slightly storybook in style, kept. |
 | B10 v2 | 091–100, complete | `1MxQsIfD28wZq9Y8gtW0zckAlTRGAqCYj`, sheet `1JOJKCu9Tqo7ERAV-Bb-wC3m0Xd9awOKh` | Replaces the first B10 upload (nine pictures, trashed). Holds 096 (new) and the remade 098 and 100. 094 palm leaf has script-like marks that cannot be read; kept. |
 | R1 (redo pass 1) | 017, 028, 038, 040, 050, 081, 096, 098, 100 | `1tV3VzBZ8IpJpH6qsLgU0aEnoCWnGObFD`, sheet `1Lt5eWKwB2t-0a2HxKe8EaQRQJKJwVYDL` | Nine pictures made again, all accepted; `shots/redo.txt` is empty. Same file names as in the batch zips B02–B05, B09, which still hold the first versions: unpack R1 last (`tools/restore.sh` does). First versions kept locally in `google_drive/ep13_pics/raw_v1/`. Crop entry for 017 removed. |
+| B11 | 101–110 | `1ssMkHOks56Va9yeLxHwx356D0o7UzDMO`, sheet `1a0Y_SLuSp3R7J7l8rOCcplGGolQXtSDB` | All ten accepted, no crops, nothing for redo. Kept with a doubt: 104 Indrajit's chariot is a plain dark boxy car, closer to a carriage than a war chariot. Chapter 3 (to 109) complete; 110 opens chapter 4. |
 
 ## Drive file ids
 
