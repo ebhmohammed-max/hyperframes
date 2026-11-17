@@ -228,12 +228,12 @@ N08|4|open_ocean_no_land|M|nothing but open sea to every horizon seen from a shi
 N08|4|deep_black_seabed|O|a very deep dark seabed a hundred metres down, almost black water, a faint bare ridge just visible in the gloom, no divers, no people
 N08|4|straight_shapes_on_map|G|a monitor showing straight-edged shapes and parallel lines in a coloured seabed map, a finger tracing one line, no lettering
 N08|5|pen_outlines_harbour|G|a hand drawing the outline of a long rectangular harbour with a pen over a printed colour seabed map on a desk, no labels, no lettering
-N08|5|sketch_giant_harbour|A|a pencil drawing on plain paper of an enormous imagined harbour with long canals, lying on a desk under a lamp, clearly only a sketch, no writing, no people
-N08|6|sketch_ship_docks|A|a pencil sketch on plain paper of rows of ship docks along a canal, an eraser and pencil beside it, clearly only a drawing, no writing, no people
-N08|6|sketch_lighthouse_stair|A|a pencil sketch on plain paper of a tall lighthouse tower with a spiral staircase, clearly an imagined drawing, a hand shading it, no writing
+N08|5|sketch_giant_harbour|A|a pencil drawing on plain paper of an enormous imagined harbour with long canals, lying on a desk under a lamp, clearly only a sketch, the paper carries only the drawing with no labels, no words, no letters, no numbers, no people
+N08|6|sketch_ship_docks|A|a pencil sketch on plain paper of rows of ship docks along a canal, an eraser and pencil beside it, clearly only a drawing, the paper carries only the drawing with no labels, no words, no letters, no numbers, no people
+N08|6|sketch_lighthouse_stair|A|a pencil sketch on plain paper of a tall lighthouse tower with a spiral staircase, clearly an imagined drawing, a hand shading it, the paper carries only the drawing with no labels, no words, no letters, no numbers
 N08|6|round_bump_on_map|G|close view of a small round bump in a coloured seabed map on a monitor, a pen tip pointing to it, no lettering
 N08|7|ice_age_shore_far|I|the Ice Age shoreline far out on a bare plain, a few hunter-gatherers tiny in the distance
-N08|8|hand_drawn_rising_line|O|a plain hand-drawn pencil line on graph paper climbing from lower left to upper right like a rising sea level, a pencil beside it, no numbers, no labels, no lettering, desk lamp light, Indian study
+N08|8|hand_drawn_rising_line|O|a plain hand-drawn pencil line on graph paper climbing from lower left to upper right like a rising sea level, a pencil beside it, the paper carries only the line with no numbers, no labels, no words, no letters, desk lamp light, Indian study
 N08|8|second_shoreline_map|G|a monitor showing a plain map of a coast with a second pale shoreline drawn far out to sea, no lettering, no people
 N08|8|ridge_again_dim|U|the low overgrown horseshoe ridge on the seabed in dim light seen from one side, no people
 N08|9|empty_tube_rack|X|a rack of empty plain glass sample tubes in the light, no labels, no people

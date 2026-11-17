@@ -86,6 +86,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B21 | 200–209 | `1kLp2w1q3e9Xibuhpvl90hM-BBsPKNMfW` | `1NfPMOIIMuSH_SfKp1aF0E0XlKtoENJdr` |
 | B22 | 210–219 | `1T4dnP6-B9FNDrgLCOvG29qTPBgg7V3ee` | `1dA72nB2__MeeEemy5PHJlCpTh0nmuLJX` |
 | B23 | 220–229 | `1Ym01E3tdUHnBzELH28jz0t57kKKkYS6B` | `1wgEvpN3gt9Em7sh7U33miB6ciBM7ONvh` |
+| B24 | 230–239 | `17aGptkdBsIDbWW3sQlK2wX__X4uMLzp-` | `1pYHV12_tLrkXHvNuQsuZZhP3Bm3siD3k` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -297,6 +298,13 @@ Ten made; nine kept, one for redo. Looked at all ten at half size; the screens i
 - Prompt used for 226 dropped the "shore a flat low line of palms" sentence (the subject says no land in sight).
 - Kept with a doubt: 225 the relief map has round craters and looks like a planet's surface more than a seabed; 220 is in a flatter illustrated style; 229 has an old lantern on a modern lab desk; 224 the seabed under the ship is rocky canyon, not flat shelf.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223 (eleven). Plan: B24 = 230–239 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+## B24 (230–239)
 
-Next: B24 = 230–239 (`tools/pack.py 230 239 24`).
+All ten made and kept. Looked at all ten at half size; corners of 234 and the cropped 232 at full size.
+- 230–232 the imagined harbour, docks and lighthouse as pencil sketches (no labels on any of them; rows 230, 231, 232, 235 in `shots/shots.txt` now carry the "only the drawing … no labels, no words, no letters, no numbers" wording that was used), 233 a round bump on the map, 234 the Ice Age shoreline with tiny figures (warm, no snow), 235 a rising pencil line on graph paper (no numbers), 236 a monitor with India's outline and a dashed second shoreline, 237 the ridge from one side, 238 empty sample tubes, 239 dive gear unused on a jetty.
+- Film-copy crops added in `shots/crops.json`: 232 (3.5% inset; rounded film frame), 234 (2.5% inset; dark rounded top corners).
+- Kept with a doubt: 230 the imagined harbour is drawn as a European-looking port town with towers and bridges (it is meant as "only a sketch"); 236 the dashed line runs only along the east coast; 238 the tubes look frosted, not clearly empty; 234 flat-topped acacias again.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223 (eleven). Plan: B25 = 240–249 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+
+Next: B25 = 240–249 (`tools/pack.py 240 249 25`).
