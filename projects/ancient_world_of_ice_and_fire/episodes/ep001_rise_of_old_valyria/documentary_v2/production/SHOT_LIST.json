@@ -588,20 +588,20 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 6.0,
+      "start": 5.5,
       "vol": 0.22,
       "lane": 23
     },
     {
       "file": "metalLatch.ogg",
-      "start": 6.0,
+      "start": 12.049999999999999,
       "vol": 0.22,
-      "lane": 24
+      "lane": 21
     },
     {
-      "file": "metalLatch.ogg",
-      "start": 11.49,
-      "vol": 0.22,
+      "file": "whoosh-cinematic.mp3",
+      "start": 18.6,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -617,8 +617,14 @@
       "lane": 21
     },
     {
+      "file": "metalLatch.ogg",
+      "start": 60.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
       "file": "impact-bass-1.mp3",
-      "start": 60.85,
+      "start": 66.71,
       "vol": 0.32,
       "lane": 21
     },
@@ -630,20 +636,8 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 60.16,
+      "start": 82.0,
       "vol": 0.22,
-      "lane": 21
-    },
-    {
-      "file": "metalLatch.ogg",
-      "start": 78.35,
-      "vol": 0.22,
-      "lane": 21
-    },
-    {
-      "file": "cloth1.ogg",
-      "start": 91.05,
-      "vol": 0.32,
       "lane": 21
     },
     {
@@ -653,15 +647,15 @@
       "lane": 21
     },
     {
-      "file": "metalLatch.ogg",
-      "start": 97.37,
-      "vol": 0.22,
+      "file": "cloth1.ogg",
+      "start": 96.73,
+      "vol": 0.32,
       "lane": 21
     },
     {
-      "file": "impact-bass-2.mp3",
-      "start": 121.25,
-      "vol": 0.32,
+      "file": "metalLatch.ogg",
+      "start": 102.08000000000001,
+      "vol": 0.22,
       "lane": 21
     },
     {
@@ -671,8 +665,14 @@
       "lane": 21
     },
     {
+      "file": "impact-bass-2.mp3",
+      "start": 126.81,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
       "file": "metalLatch.ogg",
-      "start": 124.78,
+      "start": 132.56,
       "vol": 0.22,
       "lane": 21
     },
@@ -684,19 +684,13 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 181.05,
-      "vol": 0.32,
-      "lane": 21
-    },
-    {
-      "file": "metalLatch.ogg",
       "start": 180.16,
       "vol": 0.22,
       "lane": 21
     },
     {
-      "file": "cloth1.ogg",
-      "start": 211.05,
+      "file": "metalLatch.ogg",
+      "start": 186.71,
       "vol": 0.32,
       "lane": 21
     },
@@ -707,8 +701,8 @@
       "lane": 21
     },
     {
-      "file": "impact-bass-1.mp3",
-      "start": 241.25,
+      "file": "cloth1.ogg",
+      "start": 216.71,
       "vol": 0.32,
       "lane": 21
     },
@@ -716,6 +710,12 @@
       "file": "metalLatch.ogg",
       "start": 240.16,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 246.71,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -731,21 +731,27 @@
       "lane": 22
     },
     {
+      "file": "whoosh-short.mp3",
+      "start": 305.5,
+      "vol": 0.32,
+      "lane": 23
+    },
+    {
       "file": "metalLatch.ogg",
       "start": 314.17,
       "vol": 0.22,
       "lane": 21
     },
     {
-      "file": "cloth1.ogg",
-      "start": 331.05,
-      "vol": 0.32,
-      "lane": 21
-    },
-    {
       "file": "metalLatch.ogg",
       "start": 330.14,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 336.69,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -815,15 +821,15 @@
       "lane": 21
     },
     {
-      "file": "whoosh-short.mp3",
-      "start": 841.05,
-      "vol": 0.32,
-      "lane": 21
-    },
-    {
       "file": "metalLatch.ogg",
       "start": 840.16,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 846.7099999999999,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -839,10 +845,16 @@
       "lane": 22
     },
     {
-      "file": "metalLatch.ogg",
-      "start": 905.74,
-      "vol": 0.22,
+      "file": "impact-bass-1.mp3",
+      "start": 905.5,
+      "vol": 0.32,
       "lane": 23
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 911.25,
+      "vol": 0.22,
+      "lane": 21
     },
     {
       "file": "whoosh-short.mp3",
@@ -852,14 +864,14 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 1021.05,
-      "vol": 0.32,
+      "start": 1020.14,
+      "vol": 0.22,
       "lane": 21
     },
     {
       "file": "metalLatch.ogg",
-      "start": 1020.14,
-      "vol": 0.22,
+      "start": 1026.69,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -876,7 +888,7 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 1082.53,
+      "start": 1086.4,
       "vol": 0.22,
       "lane": 21
     },
@@ -888,7 +900,7 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 1146.2,
+      "start": 1146.4,
       "vol": 0.22,
       "lane": 22
     },
@@ -911,21 +923,27 @@
       "lane": 22
     },
     {
+      "file": "impact-bass-1.mp3",
+      "start": 1235.5,
+      "vol": 0.32,
+      "lane": 23
+    },
+    {
       "file": "metalLatch.ogg",
       "start": 1260.18,
       "vol": 0.22,
       "lane": 21
     },
     {
-      "file": "cloth1.ogg",
-      "start": 1291.05,
-      "vol": 0.32,
-      "lane": 21
-    },
-    {
       "file": "metalLatch.ogg",
       "start": 1290.12,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 1296.6699999999998,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -936,14 +954,8 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 1353.79,
+      "start": 1356.6,
       "vol": 0.22,
-      "lane": 21
-    },
-    {
-      "file": "whoosh-short.mp3",
-      "start": 1441.05,
-      "vol": 0.32,
       "lane": 21
     },
     {
@@ -953,8 +965,8 @@
       "lane": 21
     },
     {
-      "file": "cloth1.ogg",
-      "start": 1471.05,
+      "file": "whoosh-short.mp3",
+      "start": 1446.73,
       "vol": 0.32,
       "lane": 21
     },
@@ -962,6 +974,12 @@
       "file": "metalLatch.ogg",
       "start": 1470.14,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 1476.69,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -977,6 +995,12 @@
       "lane": 22
     },
     {
+      "file": "whoosh-short.mp3",
+      "start": 1535.5,
+      "vol": 0.32,
+      "lane": 23
+    },
+    {
       "file": "cloth1.ogg",
       "start": 1561.05,
       "vol": 0.32,
@@ -990,20 +1014,20 @@
     },
     {
       "file": "metalLatch.ogg",
-      "start": 1652.33,
+      "start": 1656.4,
       "vol": 0.22,
-      "lane": 21
-    },
-    {
-      "file": "impact-bass-2.mp3",
-      "start": 1711.05,
-      "vol": 0.32,
       "lane": 21
     },
     {
       "file": "metalLatch.ogg",
       "start": 1710.16,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 1715.6999999999998,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -1025,15 +1049,21 @@
       "lane": 22
     },
     {
-      "file": "impact-bass-1.mp3",
-      "start": 1890.85,
+      "file": "whoosh-short.mp3",
+      "start": 1835.5,
       "vol": 0.32,
-      "lane": 21
+      "lane": 23
     },
     {
       "file": "metalLatch.ogg",
       "start": 1890.16,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1896.71,
+      "vol": 0.32,
       "lane": 21
     },
     {
@@ -1049,15 +1079,15 @@
       "lane": 21
     },
     {
-      "file": "whoosh-cinematic.mp3",
-      "start": 2075.85,
-      "vol": 0.32,
-      "lane": 21
-    },
-    {
       "file": "metalLatch.ogg",
       "start": 2070.16,
       "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 2076.71,
+      "vol": 0.32,
       "lane": 21
     }
   ]

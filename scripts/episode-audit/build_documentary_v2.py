@@ -220,9 +220,9 @@ html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--g
   max-width:1150px;text-shadow:0 2px 20px rgba(0,0,0,.96)}
 
 /* the year / the place — an overline plaque, also transparent */
-.plaque{position:absolute;z-index:9;left:132px;pointer-events:none;
-  padding:16px 32px 18px 22px;border-left:3px solid var(--ember);max-width:1010px;
-  background:linear-gradient(100deg,rgba(4,4,6,.88),rgba(4,4,6,.5) 68%,rgba(4,4,6,0))}
+.plaque{position:absolute;z-index:9;left:132px;top:104px;pointer-events:none;
+  padding:0 0 0 24px;border-left:3px solid var(--ember);max-width:1010px;
+  background:none}
 .plaque .pl{font-family:var(--mono);font-size:28px;letter-spacing:.30em;color:var(--ember-hot);
   text-transform:uppercase;margin:0 0 9px}
 .plaque .pv{font-family:var(--display);font-size:46px;line-height:1.1;color:#fdf8ec;margin:0;
@@ -433,51 +433,69 @@ def main() -> None:
             sfx.append(dict(file="riser.mp3", start=t0 + 1.2, vol=0.26))
             sfx.append(dict(file="impact-bass-1.mp3", start=t0 + 4.6, vol=0.34))
 
-        # title cards (never within the first 5.5 s of a chapter card)
-        cards_here = [c for c in CARDS if c[0] == i]
-        for c in cards_here:
-            _, off, eyebrow, line, sub, hold, fx = c
-            if ch and off < 5.5:
+        # ---- on-screen messages, one at a time -------------------------------
+        # Title cards and place plaques share the screen, so they are scheduled as a
+        # single timeline: a message never opens while another is still up, and no
+        # message opens within 5.5 s of a chapter card. (Three simultaneous overlays
+        # shipped in the first draft; this is the fix.)
+        msgs = []   # (at, hold, kind, payload)
+        for c in CARDS:
+            if c[0] != i:
                 continue
-            # open the card on the measured pause, a beat BEFORE the line it quotes
-            off = max(0.3, off - 0.35)
-            cid = f"{sid}-tc{off:.0f}"
-            body.append(f'  <div id="{cid}" class="tc"><div class="rule"></div>'
-                        + (f'<p class="eyebrow">{eyebrow}</p>' if eyebrow else "")
-                        + f'<p class="line">{line}</p>'
-                        + (f'<p class="sub">{sub}</p>' if sub else "")
-                        + '</div>')
-            js.append(f'  tl.fromTo("#{cid}",{{opacity:0,y:16}},'
-                      f'{{opacity:1,y:0,duration:.6,ease:"power3.out",immediateRender:false}},{off:.2f});')
-            js.append(f'  tl.fromTo("#{cid} .rule",{{scaleX:0}},'
-                      f'{{scaleX:1,duration:.9,ease:"power2.out"}},{off + 0.1:.2f});')
-            js.append(f'  tl.to("#{cid}",{{opacity:0,duration:.55,ease:"power2.in"}},{off + hold:.2f});')
-            sfx.append(dict(file=fx, start=t0 + off, vol=0.32))
+            _, off, eyebrow, line, sub, hold, fx = c
+            off = max(0.35, off - 0.35)      # open a beat before the line it quotes
+            msgs.append([off, hold, "card", dict(eyebrow=eyebrow, line=line, sub=sub, fx=fx)])
 
-        # date / place plaques, opened on the sentence that names them.
-        # Staggered in a column: two plaques in one block never share a position.
-        plaque_slot = 0
         for (b, needle, place, note) in PLACES:
             if b != i:
                 continue
             s_start, s_end = sentence_start(timing, i, needle)
             if s_start < 0:
                 continue
-            at = s_start - t0                      # local seconds into the block
-            if ch and at < 5.5:
-                at = 6.0
-            at = min(at, 23.0)
-            hold = max(3.2, min(7.0, (s_end - s_start) + 2.2))
-            pid = f"{sid}-pl{int(at * 10):04d}"
-            top = [88, 384, 680][plaque_slot % 3]
-            plaque_slot += 1
-            body.append(f'  <div id="{pid}" class="plaque" style="top:{top}px">'
-                        f'<p class="pl">Place</p>'
-                        f'<p class="pv">{place}</p><p class="pn">{note}</p></div>')
-            js.append(f'  tl.fromTo("#{pid}",{{opacity:0,x:-22}},'
-                      f'{{opacity:1,x:0,duration:.55,ease:"power3.out",immediateRender:false}},{at:.2f});')
-            js.append(f'  tl.to("#{pid}",{{opacity:0,duration:.45}},{min(at + hold, 29.2):.2f});')
-            sfx.append(dict(file="metalLatch.ogg", start=t0 + at, vol=0.22))
+            at = s_start - t0
+            hold = max(3.4, min(6.2, (s_end - s_start) + 2.0))
+            msgs.append([at, hold, "place", dict(place=place, note=note)])
+
+        msgs.sort(key=lambda m: m[0])
+        floor = 5.5 if ch else 0.0
+        cursor = floor
+        kept = []
+        for at, hold, kind, payload in msgs:
+            at = max(at, cursor)
+            if at > 24.0:                    # keep every message clear of the block edge
+                continue
+            hold = min(hold, 29.2 - at)
+            if hold < 2.6:
+                continue
+            cursor = at + hold + 0.35        # a 0.35 s breath between messages
+            kept.append((at, hold, kind, payload))
+
+        for at, hold, kind, payload in kept:
+            if kind == "card":
+                cid = f"{sid}-tc{int(at * 10):04d}"
+                eyebrow, line, sub, fx = (payload["eyebrow"], payload["line"],
+                                          payload["sub"], payload["fx"])
+                body.append(f'  <div id="{cid}" class="tc" style="opacity:0"><div class="rule"></div>'
+                            + (f'<p class="eyebrow">{eyebrow}</p>' if eyebrow else "")
+                            + f'<p class="line">{line}</p>'
+                            + (f'<p class="sub">{sub}</p>' if sub else "")
+                            + '</div>')
+                js.append(f'  tl.fromTo("#{cid}",{{opacity:0,y:16}},'
+                          f'{{opacity:1,y:0,duration:.6,ease:"power3.out",immediateRender:false}},{at:.2f});')
+                js.append(f'  tl.fromTo("#{cid} .rule",{{scaleX:0}},'
+                          f'{{scaleX:1,duration:.9,ease:"power2.out"}},{at + 0.1:.2f});')
+                js.append(f'  tl.to("#{cid}",{{opacity:0,duration:.55,ease:"power2.in"}},{at + hold:.2f});')
+                sfx.append(dict(file=fx, start=t0 + at, vol=0.32))
+            else:
+                pid = f"{sid}-pl{int(at * 10):04d}"
+                body.append(f'  <div id="{pid}" class="plaque" style="opacity:0">'
+                            f'<p class="pl">Place</p>'
+                            f'<p class="pv">{payload["place"]}</p>'
+                            f'<p class="pn">{payload["note"]}</p></div>')
+                js.append(f'  tl.fromTo("#{pid}",{{opacity:0,x:-22}},'
+                          f'{{opacity:1,x:0,duration:.55,ease:"power3.out",immediateRender:false}},{at:.2f});')
+                js.append(f'  tl.to("#{pid}",{{opacity:0,duration:.45}},{at + hold:.2f});')
+                sfx.append(dict(file="metalLatch.ogg", start=t0 + at, vol=0.22))
 
         body.append('  </div>')
         (PROJ / "compositions" / f"{sid}.html").write_text(
