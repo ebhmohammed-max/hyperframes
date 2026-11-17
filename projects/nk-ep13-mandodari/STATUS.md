@@ -46,6 +46,7 @@ Topic in the user's words: "Untold story of ravaana and his wife". Shorter film:
 | Batch | Pictures | Drive zip | Notes |
 |---|---|---|---|
 | cast | ravana, mandodari, maya, indrajit | `EP13_cast.zip` `1r-tgA5zX_NpZyBY7aJpQfBMwQItAfuDG`, sheet `1tPhfcagaC884vudSxKXSP6t-AkB4VSCx` | all four accepted |
+| B01 | 001–010 | `1wRBpKKx5Pg2fBla9qYPs60qGfJBUuU87`, sheet `1Be6pB15yWiuabzNyFDR9KWRZ9bVSWnWa` | 005 has black bars (cropped for now) and shows the figure too clearly: in `shots/redo.txt`. 002, 003, 006, 007 edge crops. 009 odd pose, kept. |
 
 ## Drive file ids
 
