@@ -399,7 +399,9 @@ Ten made; all ten kept. **All 322 pictures now exist.** Looked at all ten at hal
 
 The workspace came back as a fresh clone at the base commit again: `google_drive/` (all 322 raw pictures, cast, narration, `raw_old`), `out/` and `/tmp` were gone. Fixed so far: `git fetch origin arena/d486087a-hyperframes && git merge --ff-only FETCH_HEAD`; `bash tools/setup.sh`; `out/raw` and `out/cast` links made by hand. **Lost for good: the redone 166, 168, 169 from B33** (their rebuilt B17 zip had not reached Drive); they were made again in R1. Everything else is on Drive.
 
-**The pictures, cast and narration have NOT been downloaded again yet.** Only the ten R1 pictures are in `google_drive/ep12_pics/raw/` now. Before the edge check, the film render or any batch-zip rebuild: Drive `download_file` on all batch zips B01–B33 (ids in the table above; B03 and B05 are already v2), then the redo zips R1, R2 …, `EP12_cast.zip` and the narration zip; move them into `<repo>/google_drive/` if they land elsewhere; unzip the narration into `google_drive/ep12_audio` and copy `N*.mp3` to `narration/`; `bash tools/restore.sh`.
+**Restored later in the same turn:** Drive `download_file` on all 33 batch zips, `EP12_cast.zip` and the narration zip (35 calls, all went through; they land in `<repo>/google_drive/`); the R1 redo zip copied from `out/up/` into `google_drive/`; narration unzipped into `google_drive/ep12_audio` and copied to `narration/`; `bash tools/restore.sh` → "pictures: 322, cast: 4", 322 film copies in `out/img`, crops applied. Checked: the R1 pictures on disk are the redone ones; 026, 028, 050 are the redone ones (B03 and B05 v2). Not restored: `raw_old/` (old versions; not needed) and `out/up/` files of earlier batches (they are on Drive).
+
+If it happens again: the same recipe, plus `download_file` on every redo zip (R1 `138jVF2GUbeX54jXheIaG6oPUfw4PFgGE`, later ones in the table).
 
 New rule: redone pictures no longer go into rebuilt batch zips. They go to Drive as **redo zips** `EP12_Rn_images_redo_*.zip` (same file names as in the batch zips) in the same turn they are made. `tools/restore.sh` now unpacks the redo zips after the batch zips, so the redone pictures win. The batch zips B17, B18, B20, B21, B23, B25, B27, B28, B29 on Drive stay as they are (old versions inside). At the end one zip of all 322 final pictures is uploaded, as for EP11. `tools/crops.py` now skips pictures that are not on disk.
 
@@ -417,6 +419,6 @@ Redo list still open (five): 168, 209, 272, 274, 280. Plan: R2 = these five plus
 
 Edge check over all 322 film copies (`tools/edges.py 1 322`) flags twenty pictures, most of them from the early batches made before the check existed: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105, 230, 236, 248. Look at each (thin black bars or rounded corners need a 2–3 % crop in `shots/crops.json`; dark night scenes are false alarms) before the film render.
 
-After R2: download everything from Drive and restore (recipe above); run `tools/edges.py 1 322` and fix flagged film copies; then the film steps listed under "Still open" (title picture numbers, end card, listening to the narration, render, `tools/finish.sh`, upload of the film and of one zip with all 322 final pictures).
+After R2: run `tools/edges.py 1 322` and fix flagged film copies (the same twenty are flagged after the restore); then the film steps listed under "Still open" (title picture numbers, end card, listening to the narration, render, `tools/finish.sh`, upload of the film and of one zip with all 322 final pictures).
 
 Next: R2 = redos 168, 209, 272, 274, 280 and doubtful 159, 263, 188, 213, 287.
