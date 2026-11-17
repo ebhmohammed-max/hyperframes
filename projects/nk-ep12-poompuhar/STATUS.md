@@ -74,6 +74,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B09 | 081–090 | `1TglgZhTMxrQT8mAbRdYpm6x-DKn0eUJJ` | `1C4GSzQoRYGVYUMNoxanHwoOwKnTDGkhw` |
 | B10 | 091–099 (nine; 100 failed) | `1Z4n74SyJNem50hEJOK67ePrRtO0tteUn` | `1oDQSSjHq4g1_V2TvBMziVWM1DBrOaEIx` |
 | B11 | 100–109 | `1n9NjrZvKiD8fcq5yT2R4pWidIYigSyKj` | `1pVQ4li46fCtdi6I2arBxOAdIvD_W9znz` |
+| B12 | 110–119 | `1QUOpB2EOr0DOoQ65jGXzY70gHXWl9Gpz` | `1imGtPIkP5FD5UkOpdyWoy0YqP8EEbQW9` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -177,6 +178,16 @@ All ten made and kept (100 worked on the second try). Looked at all ten at half 
 - Film-copy crops added in `shots/crops.json`: 100 had a black bar along the top; 108 had a thin dark frame all round.
 - Kept with a doubt: 109 the footprint slab carries carved swastikas next to the wheels and lotuses (they do occur on ancient Buddha-footprint slabs, but some viewers may read them wrongly; the slab is also far more ornate than the plain one in 103); 108 the monastery has a carved stone temple tower of a later, Hindu-temple style and the monks carry bowls in a row like a Southeast Asian alms round; 101 the reservoir wall is tall and deep, the real one is only a few courses; 106 the crop marks are very neat rectangles (the script only says remains lie under the fields); 100 is in the flatter illustrated style; 107 pith helmet again.
 
+## B12 (110–119)
+
+The workspace was reset again before this batch (third time; the "files kept, git and /tmp lost" kind). Fixed with the same recipe; nothing lost. Note: `restore.sh` rebuilds sheets on the 001–010 grid (`sheet_091_100`, `sheet_101_110`), which is harmless.
+New helper: `tools/edges.py A B` flags film copies with a black bar or dark rounded frame.
+
+All ten made and kept. Looked at all ten at half size.
+- 110, 111: the boy saint singing and the shore temple; 112, 113: soil layers and sorted sherds; 114, 117: the later town; 115, 116: the sea eating the town's edge; 118: diver going in; 119 opens N05 (survey boat).
+- Film-copy crops added in `shots/crops.json`: 113 showed part of a present-day man's face at the right edge; 117 had black bars top and bottom.
+- Kept with a doubt: 114 has a tall, heavily carved temple gateway of a later style than the period meant, and is in the flatter illustrated style; 110 the small shrine is very ornate for the 7th century; 117 the ruined walls in the distance look like a European castle ruin; 119 has hills behind the coast (this coast is flat delta) and film scratches at the right edge; 118 the diver is shown already in the water beside the boat.
+
 Redo list so far: 026, 028, 050.
 
-Next: B12 = 110–119 (`tools/pack.py 110 119 12`).
+Next: B13 = 120–129 (`tools/pack.py 120 129 13`).
