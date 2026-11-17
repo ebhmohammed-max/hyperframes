@@ -90,6 +90,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B25 | 240–249 | `1ow4JHPeYa0a1OLsS9uM9bsXz2xA0BOjc` | `1p_h6vKkedCBzrve37ATq9mzfl12nb0VK` |
 | B26 | 250–259 | `1Z_KtqT-NfirPyUQ0iqkaYeKxV_291y61` | `1IFjqgR-6dIh3RDsIaWKA4ryDWfI-tm8_` |
 | B27 | 260–269 | `1uGMV-Ocdj_ObMMpHnnLG3wFvgQmy8_-U` | `19R4CpUJVWj1sD3TiAsII1tINTQ_kjb8k` |
+| B28 | 270–279 | `1xPLyDrzmqbXZrAOYHLqmThuEPfxd-Kz_` | `1V3EpM5KTP-fmkXG1-yBOMtkxXZV8t48t` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -334,6 +335,16 @@ Ten made; nine kept, one for redo. Looked at all ten at half size; the blocks in
 - Prompts used differ from `prompts.json`: 261 (blank GPS screen, chart with no words or numbers), 264 (screen with no labels, numbers or menus), 268 (one piece, not a whole jar), 269 (straight-sided, no neck, not an amphora; the "men in long plain tunics" part left out).
 - Kept with a doubt: 263 the oval mound looks like a low ring wall of stacked stones (like 159); 265 has film scratches and a flatter painted look; 268 the piece is large, close to half a pot.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262 (thirteen). Plan: B28 = 270–279 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other six redos plus four doubtful pictures (first choices: 159, 188, 263, 213; then 151). That fills both turns; any further redo needs a B35.
+## B28 (270–279)
 
-Next: B28 = 270–279 (`tools/pack.py 270 279 28`). Ring-well rows still to come: 278, 279, 280, 295 (add the "stacked one-piece fired-clay rings and not of bricks" wording).
+Ten made; eight kept, two for redo. Looked at all ten at half size; 270, 277 and the cropped 273 at full size.
+- Good: 270 (torpedo jars in rows in a ship's hold, a sailor at a rope seal), 271 (Gulf ship in a strong wind, one mast), 273 (gloved hands with a caliper on the jar piece), 275 (porters carrying jars down a gangplank, an officer watching), 276 (the piece under a magnifier lamp), 277 (broken edge close up), 278 (one ring-well rim with a diver and scale rod), 279 (four ring rims in a line; both are one-piece rings, the wording works).
+- **Redo 272**: the find lies on the cloth as a whole necked pot. The script (N09 q8) says one broken piece of a jar.
+- **Redo 274**: flat illustrated style with modern details (jars on wooden shipping pallets, a modern checked head cloth with a cord, a shoulder bag), and the jars are wide-mouthed storage pots.
+- Film-copy crop added in `shots/crops.json`: 273 (x 0–0.77, y 0.23–1.00; a man's bearded face showed at the top right).
+- Prompts used differ from `prompts.json`: jars described as "tall straight-sided torpedo-shaped … with no necks and no handles" (270, 271, 274, 275); 271 "a single mast"; 272, 273, 276 "one … broken jar fragment"; 272 "no faces visible"; 278, 279 "a single one-piece fired-clay ring and not made of bricks".
+- Kept with a doubt: 271 and 275 are in a flatter illustrated style and their jars have short necks (vases, not torpedo jars); 270 has a few necked, lidded jars in the corner; 273 the piece is large, close to the top half of a pot; 277 faint painted marks on the sherd surface; 275 the officer wears an orange robe and turban.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274 (fifteen). Plan: B29 = 280–289 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other eight redos plus two doubtful pictures (first choices: 159, 263; then 188, 213, 151). Any further redo needs a B35, which would also take the remaining doubtful pictures.
+
+Next: B29 = 280–289 (`tools/pack.py 280 289 29`). Ring-well rows still to come: 280, 295 (add the one-piece ring wording). Torpedo-jar rows: use the "tall straight-sided torpedo-shaped … no necks, no handles" wording.
