@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rise of Old Valyria — Chapter One</title>
+<script src="assets/gsap.min.js"></script>
+<style>
+
+:root{
+  --ground:#07070a;--ink:#f2ead9;--ink-dim:#cdc3ae;--ember:#d78a3c;--ember-hot:#f0b063;
+  --display:"Playfair Display",Georgia,"Times New Roman",serif;
+  --serif:Georgia,"Times New Roman",serif;
+  --mono:"JetBrains Mono","Space Mono",Menlo,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--ground)}
+.plate{position:absolute;inset:0;overflow:hidden;background:#000}
+.plate img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  transform-origin:50% 50%;will-change:transform}
+.grade{position:absolute;inset:0;pointer-events:none;background:
+  radial-gradient(122% 94% at 50% 42%,rgba(0,0,0,0) 38%,rgba(0,0,0,.6) 100%),
+  linear-gradient(180deg,rgba(4,4,6,.62) 0%,rgba(4,4,6,0) 19%,rgba(4,4,6,0) 58%,rgba(4,4,6,.78) 100%)}
+.grain{position:absolute;inset:-40px;pointer-events:none;opacity:.13;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='3' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='220' height='220' filter='url(%23n)' opacity='0.55'/></svg>")}
+
+/* transparent title card — type over the image, no panel, no box */
+.tc{position:absolute;z-index:8;left:132px;right:150px;bottom:112px;pointer-events:none}
+.tc .rule{height:2px;width:150px;margin:0 0 20px;
+  background:linear-gradient(90deg,var(--ember),rgba(215,138,60,0));transform-origin:0 50%}
+.tc .eyebrow{font-family:var(--mono);font-size:28px;letter-spacing:.32em;text-transform:uppercase;
+  color:var(--ember-hot);margin:0 0 12px;text-shadow:0 2px 18px rgba(0,0,0,.95)}
+.tc .line{font-family:var(--display);font-weight:400;font-size:64px;line-height:1.15;
+  color:#fdf9ee;margin:0;text-wrap:balance;
+  text-shadow:0 3px 28px rgba(0,0,0,.96),0 1px 3px rgba(0,0,0,.92)}
+.tc .line em{font-style:italic;color:var(--ember-hot)}
+.tc .sub{font-family:var(--serif);font-size:30px;line-height:1.42;color:#e8dfcb;margin:14px 0 0;
+  max-width:1150px;text-shadow:0 2px 20px rgba(0,0,0,.96)}
+
+/* the year / the place — an overline plaque, also transparent */
+.plaque{position:absolute;z-index:9;left:132px;pointer-events:none;
+  padding:16px 32px 18px 22px;border-left:3px solid var(--ember);max-width:1010px;
+  background:linear-gradient(100deg,rgba(4,4,6,.88),rgba(4,4,6,.5) 68%,rgba(4,4,6,0))}
+.plaque .pl{font-family:var(--mono);font-size:28px;letter-spacing:.30em;color:var(--ember-hot);
+  text-transform:uppercase;margin:0 0 9px}
+.plaque .pv{font-family:var(--display);font-size:46px;line-height:1.1;color:#fdf8ec;margin:0;
+  text-wrap:balance}
+.plaque .pn{font-family:var(--serif);font-size:28px;color:#cec5b1;margin:9px 0 0}
+
+/* chapter card — type over the image, not a black frame */
+.chapter{position:absolute;inset:0;z-index:12;display:grid;place-items:center;pointer-events:none;
+  background:radial-gradient(60% 60% at 50% 48%,rgba(4,4,6,.72),rgba(4,4,6,.28) 60%,rgba(4,4,6,0))}
+.chapter .inner{text-align:center;max-width:1320px}
+.chapter .num{font-family:var(--display);font-style:italic;font-size:170px;line-height:.9;
+  color:rgba(242,234,217,.16);margin:0 0 -40px}
+.chapter .lbl{font-family:var(--mono);font-size:28px;letter-spacing:.42em;color:var(--ember-hot);
+  text-transform:uppercase;margin:0 0 22px;text-shadow:0 2px 18px rgba(0,0,0,.95)}
+.chapter h1{font-family:var(--display);font-weight:400;font-size:88px;line-height:1.06;color:#fbf6ea;
+  margin:0 0 24px;text-wrap:balance;text-shadow:0 4px 34px rgba(0,0,0,.96)}
+.chapter p{font-family:var(--serif);font-size:31px;line-height:1.5;color:#e4dbc7;margin:0 auto;
+  max-width:980px;text-shadow:0 2px 22px rgba(0,0,0,.96)}
+.chapter .rule{height:1px;width:330px;margin:30px auto 0;background:rgba(242,234,217,.34);
+  transform-origin:50% 50%}
+
+  #film { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #07070a; }
+  #film > .clip:not(audio) { position: absolute; inset: 0; }
+  .stage { position: absolute; inset: 0; overflow: hidden; }
+</style>
+</head>
+<body>
+<div id="film" data-composition-id="film" data-width="1920" data-height="1080" data-fps="30"
+     data-start="0" data-duration="2100.0">
+  <div id="b001" class="clip" data-composition-id="b001" data-composition-src="compositions/b001.html" data-start="0.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b002" class="clip" data-composition-id="b002" data-composition-src="compositions/b002.html" data-start="30.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b003" class="clip" data-composition-id="b003" data-composition-src="compositions/b003.html" data-start="60.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b004" class="clip" data-composition-id="b004" data-composition-src="compositions/b004.html" data-start="90.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b005" class="clip" data-composition-id="b005" data-composition-src="compositions/b005.html" data-start="120.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b006" class="clip" data-composition-id="b006" data-composition-src="compositions/b006.html" data-start="150.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b007" class="clip" data-composition-id="b007" data-composition-src="compositions/b007.html" data-start="180.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b008" class="clip" data-composition-id="b008" data-composition-src="compositions/b008.html" data-start="210.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b009" class="clip" data-composition-id="b009" data-composition-src="compositions/b009.html" data-start="240.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b010" class="clip" data-composition-id="b010" data-composition-src="compositions/b010.html" data-start="270.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b011" class="clip" data-composition-id="b011" data-composition-src="compositions/b011.html" data-start="300.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b012" class="clip" data-composition-id="b012" data-composition-src="compositions/b012.html" data-start="330.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b013" class="clip" data-composition-id="b013" data-composition-src="compositions/b013.html" data-start="360.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b014" class="clip" data-composition-id="b014" data-composition-src="compositions/b014.html" data-start="390.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b015" class="clip" data-composition-id="b015" data-composition-src="compositions/b015.html" data-start="420.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b016" class="clip" data-composition-id="b016" data-composition-src="compositions/b016.html" data-start="450.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b017" class="clip" data-composition-id="b017" data-composition-src="compositions/b017.html" data-start="480.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b018" class="clip" data-composition-id="b018" data-composition-src="compositions/b018.html" data-start="510.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b019" class="clip" data-composition-id="b019" data-composition-src="compositions/b019.html" data-start="540.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b020" class="clip" data-composition-id="b020" data-composition-src="compositions/b020.html" data-start="570.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b021" class="clip" data-composition-id="b021" data-composition-src="compositions/b021.html" data-start="600.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b022" class="clip" data-composition-id="b022" data-composition-src="compositions/b022.html" data-start="630.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b023" class="clip" data-composition-id="b023" data-composition-src="compositions/b023.html" data-start="660.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b024" class="clip" data-composition-id="b024" data-composition-src="compositions/b024.html" data-start="690.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b025" class="clip" data-composition-id="b025" data-composition-src="compositions/b025.html" data-start="720.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b026" class="clip" data-composition-id="b026" data-composition-src="compositions/b026.html" data-start="750.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b027" class="clip" data-composition-id="b027" data-composition-src="compositions/b027.html" data-start="780.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b028" class="clip" data-composition-id="b028" data-composition-src="compositions/b028.html" data-start="810.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b029" class="clip" data-composition-id="b029" data-composition-src="compositions/b029.html" data-start="840.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b030" class="clip" data-composition-id="b030" data-composition-src="compositions/b030.html" data-start="870.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b031" class="clip" data-composition-id="b031" data-composition-src="compositions/b031.html" data-start="900.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b032" class="clip" data-composition-id="b032" data-composition-src="compositions/b032.html" data-start="930.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b033" class="clip" data-composition-id="b033" data-composition-src="compositions/b033.html" data-start="960.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b034" class="clip" data-composition-id="b034" data-composition-src="compositions/b034.html" data-start="990.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b035" class="clip" data-composition-id="b035" data-composition-src="compositions/b035.html" data-start="1020.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b036" class="clip" data-composition-id="b036" data-composition-src="compositions/b036.html" data-start="1050.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b037" class="clip" data-composition-id="b037" data-composition-src="compositions/b037.html" data-start="1080.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b038" class="clip" data-composition-id="b038" data-composition-src="compositions/b038.html" data-start="1110.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b039" class="clip" data-composition-id="b039" data-composition-src="compositions/b039.html" data-start="1140.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b040" class="clip" data-composition-id="b040" data-composition-src="compositions/b040.html" data-start="1170.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b041" class="clip" data-composition-id="b041" data-composition-src="compositions/b041.html" data-start="1200.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b042" class="clip" data-composition-id="b042" data-composition-src="compositions/b042.html" data-start="1230.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b043" class="clip" data-composition-id="b043" data-composition-src="compositions/b043.html" data-start="1260.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b044" class="clip" data-composition-id="b044" data-composition-src="compositions/b044.html" data-start="1290.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b045" class="clip" data-composition-id="b045" data-composition-src="compositions/b045.html" data-start="1320.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b046" class="clip" data-composition-id="b046" data-composition-src="compositions/b046.html" data-start="1350.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b047" class="clip" data-composition-id="b047" data-composition-src="compositions/b047.html" data-start="1380.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b048" class="clip" data-composition-id="b048" data-composition-src="compositions/b048.html" data-start="1410.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b049" class="clip" data-composition-id="b049" data-composition-src="compositions/b049.html" data-start="1440.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b050" class="clip" data-composition-id="b050" data-composition-src="compositions/b050.html" data-start="1470.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b051" class="clip" data-composition-id="b051" data-composition-src="compositions/b051.html" data-start="1500.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b052" class="clip" data-composition-id="b052" data-composition-src="compositions/b052.html" data-start="1530.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b053" class="clip" data-composition-id="b053" data-composition-src="compositions/b053.html" data-start="1560.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b054" class="clip" data-composition-id="b054" data-composition-src="compositions/b054.html" data-start="1590.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b055" class="clip" data-composition-id="b055" data-composition-src="compositions/b055.html" data-start="1620.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b056" class="clip" data-composition-id="b056" data-composition-src="compositions/b056.html" data-start="1650.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b057" class="clip" data-composition-id="b057" data-composition-src="compositions/b057.html" data-start="1680.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b058" class="clip" data-composition-id="b058" data-composition-src="compositions/b058.html" data-start="1710.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b059" class="clip" data-composition-id="b059" data-composition-src="compositions/b059.html" data-start="1740.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b060" class="clip" data-composition-id="b060" data-composition-src="compositions/b060.html" data-start="1770.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b061" class="clip" data-composition-id="b061" data-composition-src="compositions/b061.html" data-start="1800.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b062" class="clip" data-composition-id="b062" data-composition-src="compositions/b062.html" data-start="1830.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b063" class="clip" data-composition-id="b063" data-composition-src="compositions/b063.html" data-start="1860.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b064" class="clip" data-composition-id="b064" data-composition-src="compositions/b064.html" data-start="1890.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b065" class="clip" data-composition-id="b065" data-composition-src="compositions/b065.html" data-start="1920.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b066" class="clip" data-composition-id="b066" data-composition-src="compositions/b066.html" data-start="1950.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b067" class="clip" data-composition-id="b067" data-composition-src="compositions/b067.html" data-start="1980.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b068" class="clip" data-composition-id="b068" data-composition-src="compositions/b068.html" data-start="2010.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b069" class="clip" data-composition-id="b069" data-composition-src="compositions/b069.html" data-start="2040.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <div id="b070" class="clip" data-composition-id="b070" data-composition-src="compositions/b070.html" data-start="2070.000" data-duration="30.000" data-width="1920" data-height="1080" data-track-index="1" data-track-kind="graphics"></div>
+  <audio id="narr" src="assets/audio/narration.mp3" data-start="0" data-duration="2100.0" data-volume="1.0" data-track-index="20"></audio>
+  <audio id="mus-I" src="assets/audio/bed/ch_I.mp3" data-start="0.0" data-duration="300.0" data-volume="0.2138" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="mus-II" src="assets/audio/bed/ch_II.mp3" data-start="300.0" data-duration="300.0" data-volume="0.182" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="mus-III" src="assets/audio/bed/ch_III.mp3" data-start="600.0" data-duration="300.0" data-volume="1.3964" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="mus-IV" src="assets/audio/bed/ch_IV.mp3" data-start="900.0" data-duration="330.0" data-volume="0.1738" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="mus-V" src="assets/audio/bed/ch_V.mp3" data-start="1230.0" data-duration="300.0" data-volume="0.2884" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="mus-VI" src="assets/audio/bed/ch_VI.mp3" data-start="1530.0" data-duration="300.0" data-volume="0.2138" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="mus-VII" src="assets/audio/bed/ch_VII.mp3" data-start="1830.0" data-duration="270.0" data-volume="1.3804" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
+  <audio id="sfx000" src="assets/audio/sfx/riser.mp3" data-start="1.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx001" src="assets/audio/sfx/impact-bass-1.mp3" data-start="4.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx002" src="assets/audio/sfx/metalLatch.ogg" data-start="6.000" data-duration="0.261" data-volume="0.22" data-track-index="23"></audio>
+  <audio id="sfx003" src="assets/audio/sfx/metalLatch.ogg" data-start="6.000" data-duration="0.261" data-volume="0.22" data-track-index="24"></audio>
+  <audio id="sfx004" src="assets/audio/sfx/metalLatch.ogg" data-start="11.490" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx005" src="assets/audio/sfx/whoosh-short.mp3" data-start="30.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx006" src="assets/audio/sfx/whoosh-short.mp3" data-start="44.250" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx007" src="assets/audio/sfx/impact-bass-1.mp3" data-start="60.850" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx008" src="assets/audio/sfx/whoosh-short.mp3" data-start="76.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx009" src="assets/audio/sfx/metalLatch.ogg" data-start="60.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx010" src="assets/audio/sfx/metalLatch.ogg" data-start="78.350" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx011" src="assets/audio/sfx/cloth1.ogg" data-start="91.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx012" src="assets/audio/sfx/metalLatch.ogg" data-start="90.180" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx013" src="assets/audio/sfx/metalLatch.ogg" data-start="97.370" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx014" src="assets/audio/sfx/impact-bass-2.mp3" data-start="121.250" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx015" src="assets/audio/sfx/metalLatch.ogg" data-start="120.260" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx016" src="assets/audio/sfx/metalLatch.ogg" data-start="124.780" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx017" src="assets/audio/sfx/whoosh-short.mp3" data-start="151.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx018" src="assets/audio/sfx/metalLatch.ogg" data-start="181.050" data-duration="0.261" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx019" src="assets/audio/sfx/metalLatch.ogg" data-start="180.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx020" src="assets/audio/sfx/cloth1.ogg" data-start="211.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx021" src="assets/audio/sfx/metalLatch.ogg" data-start="210.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx022" src="assets/audio/sfx/impact-bass-1.mp3" data-start="241.250" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx023" src="assets/audio/sfx/metalLatch.ogg" data-start="240.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx024" src="assets/audio/sfx/riser.mp3" data-start="301.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx025" src="assets/audio/sfx/impact-bass-1.mp3" data-start="304.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx026" src="assets/audio/sfx/metalLatch.ogg" data-start="314.170" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx027" src="assets/audio/sfx/cloth1.ogg" data-start="331.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx028" src="assets/audio/sfx/metalLatch.ogg" data-start="330.140" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx029" src="assets/audio/sfx/whoosh-short.mp3" data-start="391.250" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx030" src="assets/audio/sfx/impact-bass-2.mp3" data-start="421.050" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx031" src="assets/audio/sfx/whoosh-short.mp3" data-start="451.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx032" src="assets/audio/sfx/cloth1.ogg" data-start="481.250" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx033" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="571.250" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx034" src="assets/audio/sfx/riser.mp3" data-start="601.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx035" src="assets/audio/sfx/impact-bass-1.mp3" data-start="604.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx036" src="assets/audio/sfx/whoosh-short.mp3" data-start="630.850" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx037" src="assets/audio/sfx/impact-bass-1.mp3" data-start="690.850" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx038" src="assets/audio/sfx/whoosh-short.mp3" data-start="781.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx039" src="assets/audio/sfx/cloth1.ogg" data-start="811.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx040" src="assets/audio/sfx/whoosh-short.mp3" data-start="841.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx041" src="assets/audio/sfx/metalLatch.ogg" data-start="840.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx042" src="assets/audio/sfx/riser.mp3" data-start="901.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx043" src="assets/audio/sfx/impact-bass-1.mp3" data-start="904.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx044" src="assets/audio/sfx/metalLatch.ogg" data-start="905.740" data-duration="0.261" data-volume="0.22" data-track-index="23"></audio>
+  <audio id="sfx045" src="assets/audio/sfx/whoosh-short.mp3" data-start="991.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx046" src="assets/audio/sfx/metalLatch.ogg" data-start="1021.050" data-duration="0.261" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx047" src="assets/audio/sfx/metalLatch.ogg" data-start="1020.140" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx048" src="assets/audio/sfx/metalLatch.ogg" data-start="1050.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx049" src="assets/audio/sfx/cloth1.ogg" data-start="1081.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx050" src="assets/audio/sfx/metalLatch.ogg" data-start="1082.530" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx051" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="1141.050" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx052" src="assets/audio/sfx/metalLatch.ogg" data-start="1146.200" data-duration="0.261" data-volume="0.22" data-track-index="22"></audio>
+  <audio id="sfx053" src="assets/audio/sfx/impact-bass-2.mp3" data-start="1170.850" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx054" src="assets/audio/sfx/riser.mp3" data-start="1231.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx055" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1234.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx056" src="assets/audio/sfx/metalLatch.ogg" data-start="1260.180" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx057" src="assets/audio/sfx/cloth1.ogg" data-start="1291.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx058" src="assets/audio/sfx/metalLatch.ogg" data-start="1290.120" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx059" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1351.050" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx060" src="assets/audio/sfx/metalLatch.ogg" data-start="1353.790" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx061" src="assets/audio/sfx/whoosh-short.mp3" data-start="1441.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx062" src="assets/audio/sfx/metalLatch.ogg" data-start="1440.180" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx063" src="assets/audio/sfx/cloth1.ogg" data-start="1471.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx064" src="assets/audio/sfx/metalLatch.ogg" data-start="1470.140" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx065" src="assets/audio/sfx/riser.mp3" data-start="1531.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx066" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1534.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx067" src="assets/audio/sfx/cloth1.ogg" data-start="1561.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx068" src="assets/audio/sfx/whoosh-short.mp3" data-start="1651.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx069" src="assets/audio/sfx/metalLatch.ogg" data-start="1652.330" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx070" src="assets/audio/sfx/impact-bass-2.mp3" data-start="1711.050" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx071" src="assets/audio/sfx/metalLatch.ogg" data-start="1710.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx072" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1771.050" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx073" src="assets/audio/sfx/riser.mp3" data-start="1831.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx074" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1834.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx075" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1890.850" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx076" src="assets/audio/sfx/metalLatch.ogg" data-start="1890.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx077" src="assets/audio/sfx/metalLatch.ogg" data-start="1950.120" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+  <audio id="sfx078" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="2011.250" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx079" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="2075.850" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx080" src="assets/audio/sfx/metalLatch.ogg" data-start="2070.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
+</div>
+<script>
+window.__timelines = { "film": gsap.timeline({ paused: true }) };
+</script>
+</body>
+</html>

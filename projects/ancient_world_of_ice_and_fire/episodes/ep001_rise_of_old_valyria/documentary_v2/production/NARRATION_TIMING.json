@@ -1,0 +1,3306 @@
+{
+  "duration": 2100.0,
+  "rate": 16000,
+  "gap_db": -40.0,
+  "min_gap": 0.2,
+  "voiced_runs": 3165,
+  "blocks": [
+    {
+      "block": 1,
+      "start": 0.0,
+      "sentence_count": 6,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Long before the Iron Throne was forged from surrendered blades, before Aegon Targaryen turned his gaze toward Westeros, another people learned to command the sky.",
+          "start": 0.16,
+          "end": 11.49,
+          "gap_after": 0.7
+        },
+        {
+          "i": 1,
+          "text": "Their home was a smoking peninsula in southern Essos.",
+          "start": 11.49,
+          "end": 16.24,
+          "gap_after": 0.24
+        },
+        {
+          "i": 2,
+          "text": "Their descendants would break empires and raise wonders from black stone.",
+          "start": 16.24,
+          "end": 20.62,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "Yet the first Valyrians were shepherds.",
+          "start": 20.62,
+          "end": 24.02,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "How did they become dragonlords?",
+          "start": 24.02,
+          "end": 26.99,
+          "gap_after": 0.38
+        },
+        {
+          "i": 5,
+          "text": "And who paid for the world they built?",
+          "start": 26.99,
+          "end": 29.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "start": 30.0,
+      "sentence_count": 7,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The answer begins far from a throne.",
+          "start": 30.14,
+          "end": 32.38,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "Beneath fourteen volcanic mountains, flocks moved through pasture and families worked the wool that sustained them.",
+          "start": 32.38,
+          "end": 41.27,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "No surviving chronicle gives us the first shepherd's name.",
+          "start": 41.27,
+          "end": 44.32,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "No witness describes the first successful flight.",
+          "start": 44.32,
+          "end": 48.77,
+          "gap_after": 0.34
+        },
+        {
+          "i": 4,
+          "text": "But between those two images, a flock below and a rider above, lies one of history's greatest transformations.",
+          "start": 48.77,
+          "end": 56.15,
+          "gap_after": 0.38
+        },
+        {
+          "i": 5,
+          "text": "First came discovery.",
+          "start": 56.15,
+          "end": 57.05,
+          "gap_after": 0.3
+        },
+        {
+          "i": 6,
+          "text": "Then came the struggle to possess it.",
+          "start": 57.05,
+          "end": 59.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 3,
+      "start": 60.0,
+      "sentence_count": 4,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "To follow that transformation, we must travel thousands of years before Aegon's Conquest, into an age whose dates remain uncertain.",
+          "start": 60.16,
+          "end": 68.24,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Later histories place Valyria's rise roughly five thousand years before the Conquest, but distance has blurred the chronology.",
+          "start": 68.24,
+          "end": 78.35,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "Beyond those fragile records stretches an older darkness: the Long Night.",
+          "start": 78.35,
+          "end": 82.29,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "Across Essos, peoples remembered a catastrophe so vast that its ending became the foundation of legend.",
+          "start": 82.29,
+          "end": 89.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "start": 90.0,
+      "sentence_count": 4,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Along the Rhoyne, the darkness survived in stories of frozen water and a world waiting for the dawn.",
+          "start": 90.18,
+          "end": 97.37,
+          "gap_after": 0.34
+        },
+        {
+          "i": 1,
+          "text": "One tradition tells of a hero who persuaded the quarreling children of Mother Rhoyne to sing together and bring back daylight.",
+          "start": 97.37,
+          "end": 107.01,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "The Crab King and the Old Man of the River belong to that telling.",
+          "start": 107.01,
+          "end": 111.85,
+          "gap_after": 0.38
+        },
+        {
+          "i": 3,
+          "text": "Here, salvation was remembered not simply as conquest, but as voices joining against the night.",
+          "start": 111.85,
+          "end": 119.6,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "start": 120.0,
+      "sentence_count": 5,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Farther east, the traditions of Yi Ti tell a different story.",
+          "start": 120.26,
+          "end": 124.78,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "The Bloodstone Emperor murdered his sister, the Amethyst Empress, and the Blood Betrayal helped cast the world into darkness.",
+          "start": 124.78,
+          "end": 133.28,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "Elsewhere, heroes bearing different names fought that darkness with living fire.",
+          "start": 133.28,
+          "end": 138.65,
+          "gap_after": 0.38
+        },
+        {
+          "i": 3,
+          "text": "These are related echoes, not one reliable eyewitness account.",
+          "start": 138.65,
+          "end": 144.05,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "What unites them is the memory of a world broken, and the struggle to make it habitable again.",
+          "start": 144.05,
+          "end": 149.72,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "start": 150.0,
+      "sentence_count": 5,
+      "runs": 17,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Out of those uncertain ages emerge the peoples of ancient Essos: river settlements, grassland kingdoms, and communities whose histories are now fragments.",
+          "start": 150.1,
+          "end": 159.8,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "Along the Mother Rhoyne, craft, trade, and river life nourished a civilization remembered for accomplishments very different from Valyria's.",
+          "start": 159.8,
+          "end": 169.22,
+          "gap_after": 0.44
+        },
+        {
+          "i": 2,
+          "text": "The continent was not empty, waiting for dragonlords to invent greatness.",
+          "start": 169.22,
+          "end": 174.35,
+          "gap_after": 0.38
+        },
+        {
+          "i": 3,
+          "text": "It already held worlds of its own.",
+          "start": 174.35,
+          "end": 176.39,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "Valyria began at their margins, not their center.",
+          "start": 176.39,
+          "end": 179.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "start": 180.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "At the far eastern edge of the known world stood Asshai beside the River Ash, a place later accounts describe through darkness, strange sorcery, and stone that seems to swallow light.",
+          "start": 180.16,
+          "end": 193.09,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Its beginnings are obscure.",
+          "start": 193.09,
+          "end": 195.04,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "We cannot simply project every later description unchanged into the distant past.",
+          "start": 195.04,
+          "end": 199.7,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "But remember its name.",
+          "start": 199.7,
+          "end": 201.09,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "When we reach the secret of dragon mastery, an eastern tradition will claim that Valyria owed everything to forgotten teachers.",
+          "start": 201.09,
+          "end": 209.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 8,
+      "start": 210.0,
+      "sentence_count": 5,
+      "runs": 13,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "For worldly power, however, our story turns toward Old Ghis.",
+          "start": 210.16,
+          "end": 215.16,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Its stepped brick pyramids rose above a civilization of conquest and wealth, watched over by the harpy with its thunderbolt.",
+          "start": 215.16,
+          "end": 222.62,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "Where Valyria offers us a beginning among flocks, Ghis presents the confidence of an established empire.",
+          "start": 222.62,
+          "end": 229.46,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "Its monuments declared that power could be made permanent.",
+          "start": 229.46,
+          "end": 235.47,
+          "gap_after": 0.74
+        },
+        {
+          "i": 4,
+          "text": "Its armies existed to persuade anyone who doubted that declaration.",
+          "start": 235.47,
+          "end": 239.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "start": 240.0,
+      "sentence_count": 7,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Grazdan the Great was remembered as the founder of Ghiscari greatness, and the lockstep legions as its terrible instrument.",
+          "start": 240.16,
+          "end": 249.24,
+          "gap_after": 0.44
+        },
+        {
+          "i": 1,
+          "text": "Shields, swords, and spears mattered.",
+          "start": 249.24,
+          "end": 250.61,
+          "gap_after": 0.22
+        },
+        {
+          "i": 2,
+          "text": "So did the discipline that made many soldiers move like one.",
+          "start": 250.61,
+          "end": 255.6,
+          "gap_after": 0.6
+        },
+        {
+          "i": 3,
+          "text": "Behind the military achievement lay an economy built on slavery.",
+          "start": 255.6,
+          "end": 260.15,
+          "gap_after": 0.46
+        },
+        {
+          "i": 4,
+          "text": "Conquest brought captives; captivity supported wealth.",
+          "start": 260.15,
+          "end": 262.46,
+          "gap_after": 0.56
+        },
+        {
+          "i": 5,
+          "text": "Keep that chain in mind.",
+          "start": 262.46,
+          "end": 264.12,
+          "gap_after": 0.36
+        },
+        {
+          "i": 6,
+          "text": "Valyria would challenge this empire without escaping its most brutal logic.",
+          "start": 264.12,
+          "end": 269.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "start": 270.0,
+      "sentence_count": 5,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Set the two worlds beside each other: brick pyramids and pasture, marching soldiers and wandering flocks, the certainty of an empire and the obscurity of a peninsula.",
+          "start": 270.18,
+          "end": 281.56,
+          "gap_after": 0.44
+        },
+        {
+          "i": 1,
+          "text": "We cannot recover a Ghiscari captain's thoughts as he watched the horizon.",
+          "start": 281.56,
+          "end": 286.33,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "But we know what the contrast conceals.",
+          "start": 286.33,
+          "end": 289.21,
+          "gap_after": 0.5
+        },
+        {
+          "i": 3,
+          "text": "The mountains above those shepherds held something the legions did not possess.",
+          "start": 289.21,
+          "end": 295.18,
+          "gap_after": 0.44
+        },
+        {
+          "i": 4,
+          "text": "To understand Valyria's future, we must climb toward them.",
+          "start": 295.18,
+          "end": 299.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "start": 300.0,
+      "sentence_count": 5,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Before the Doom shattered it, the Valyrian peninsula reached into the southern seas as a living landscape, not the ruin later sailors feared.",
+          "start": 300.16,
+          "end": 310.27,
+          "gap_after": 0.34
+        },
+        {
+          "i": 1,
+          "text": "Coast, pasture, and volcanic heights belonged to one country.",
+          "start": 310.27,
+          "end": 314.17,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "The Lands of the Long Summer lay nearby; the great waters linked the peninsula to a wider world.",
+          "start": 314.17,
+          "end": 320.55,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "The mountains did not make Valyria separate from history forever.",
+          "start": 320.55,
+          "end": 325.67,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "They gave its people a dangerous starting place within it.",
+          "start": 325.67,
+          "end": 329.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 12,
+      "start": 330.0,
+      "sentence_count": 6,
+      "runs": 15,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The Fourteen Flames gave that landscape its defining presence.",
+          "start": 330.14,
+          "end": 334.85,
+          "gap_after": 0.26
+        },
+        {
+          "i": 1,
+          "text": "Imagine smoke above the valleys, steam drifting across dark slopes, and the glow of volcanic heat against a deepening sky.",
+          "start": 334.85,
+          "end": 342.18,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "The exact arrangement in our images is a reconstruction, not a surviving view.",
+          "start": 342.18,
+          "end": 347.29,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "What matters is the relationship: ordinary lives unfolding beneath extraordinary forces.",
+          "start": 347.29,
+          "end": 354.32,
+          "gap_after": 0.4
+        },
+        {
+          "i": 4,
+          "text": "The people below could not command those mountains.",
+          "start": 354.32,
+          "end": 357.6,
+          "gap_after": 0.44
+        },
+        {
+          "i": 5,
+          "text": "They had to learn how to live beside them.",
+          "start": 357.6,
+          "end": 359.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "start": 360.0,
+      "sentence_count": 6,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "That relationship was not only one of fear.",
+          "start": 360.12,
+          "end": 362.57,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Volcanic earth can weather into fertile soil, and the histories place the early Valyrians among flocks rather than barren wastes.",
+          "start": 362.57,
+          "end": 373.38,
+          "gap_after": 0.24
+        },
+        {
+          "i": 2,
+          "text": "Green country and smoking peaks are not contradictions.",
+          "start": 373.38,
+          "end": 377.98,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "They are two faces of the same landscape.",
+          "start": 377.98,
+          "end": 379.88,
+          "gap_after": 1.04
+        },
+        {
+          "i": 4,
+          "text": "In the lower valleys, the mountains helped sustain life.",
+          "start": 379.88,
+          "end": 382.95,
+          "gap_after": 0.54
+        },
+        {
+          "i": 5,
+          "text": "Higher up, the land offered dangers no shepherd's familiar skill could easily answer.",
+          "start": 382.95,
+          "end": 389.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 14,
+      "start": 390.0,
+      "sentence_count": 6,
+      "runs": 13,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Beneath the pasture lay another kind of wealth.",
+          "start": 390.12,
+          "end": 392.65,
+          "gap_after": 0.54
+        },
+        {
+          "i": 1,
+          "text": "Gold and silver would become inseparable from the story of Valyria's mines, while volcanic stone and obsidian shaped the world above.",
+          "start": 392.65,
+          "end": 402.11,
+          "gap_after": 0.5
+        },
+        {
+          "i": 2,
+          "text": "At first, these riches were not yet the machinery of an empire.",
+          "start": 402.11,
+          "end": 406.4,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "They were possibilities locked underground.",
+          "start": 406.4,
+          "end": 408.87,
+          "gap_after": 0.34
+        },
+        {
+          "i": 4,
+          "text": "Later generations would force those possibilities into the light.",
+          "start": 408.87,
+          "end": 412.73,
+          "gap_after": 0.42
+        },
+        {
+          "i": 5,
+          "text": "But the earth beneath the Fourteen Flames was not empty, and entering it carried a price.",
+          "start": 412.73,
+          "end": 419.6,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 15,
+      "start": 420.0,
+      "sentence_count": 6,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Accounts of the Valyrian depths speak of firewyrms: wingless creatures that burrow through the earth and breathe flame.",
+          "start": 420.16,
+          "end": 427.57,
+          "gap_after": 0.94
+        },
+        {
+          "i": 1,
+          "text": "Their association with the mines makes the mountains more than a source of ore.",
+          "start": 427.57,
+          "end": 433.91,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "They are a country within a country, dangerous to the people sent below.",
+          "start": 433.91,
+          "end": 439.17,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "We should not mistake every illustrated tunnel for a recorded event.",
+          "start": 439.17,
+          "end": 443.46,
+          "gap_after": 0.4
+        },
+        {
+          "i": 4,
+          "text": "Still, the warning is clear.",
+          "start": 443.46,
+          "end": 446.0,
+          "gap_after": 0.36
+        },
+        {
+          "i": 5,
+          "text": "Valyria's wealth rested above an underworld capable of killing.",
+          "start": 446.0,
+          "end": 449.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 16,
+      "start": 450.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "On the surface lived the people remembered as the earliest Valyrians: shepherds.",
+          "start": 450.16,
+          "end": 455.7,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Their ordinary routines have left us little direct testimony, so our homesteads and daily work are reconstructions.",
+          "start": 455.7,
+          "end": 464.26,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "A flock to guide, a gate to mend, wool to prepare: these give the transformation its human scale.",
+          "start": 464.26,
+          "end": 470.9,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "We need not invent a perfect, peaceful society.",
+          "start": 470.9,
+          "end": 474.33,
+          "gap_after": 0.42
+        },
+        {
+          "i": 4,
+          "text": "It is enough to remember that the dragonlords' story began with people, not gods.",
+          "start": 474.33,
+          "end": 479.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 17,
+      "start": 480.0,
+      "sentence_count": 5,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Later generations would recognize the Valyrian look: silver-gold hair and eyes in shades of purple.",
+          "start": 480.18,
+          "end": 487.26,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "Among ruling families, those features became signs of ancestry and prestige.",
+          "start": 487.26,
+          "end": 493.19,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "But a face cannot tell us how a civilization acquired its power.",
+          "start": 493.19,
+          "end": 497.04,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "Nor should we turn neighboring peoples into identical ranks of one complexion or appearance.",
+          "start": 497.04,
+          "end": 502.21,
+          "gap_after": 0.5
+        },
+        {
+          "i": 4,
+          "text": "Here, the important contrast is between a recognizable heritage and the extraordinary destiny later claimed for it.",
+          "start": 502.21,
+          "end": 509.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 18,
+      "start": 510.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Why did those features become so strongly associated with Valyria?",
+          "start": 510.16,
+          "end": 513.83,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "The surviving histories do not give us a proven genetic explanation.",
+          "start": 513.83,
+          "end": 518.45,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "Isolation and inheritance may seem like answers, but speculation is not a recovered scientific account.",
+          "start": 518.45,
+          "end": 526.99,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "What we can follow is the political use of appearance.",
+          "start": 526.99,
+          "end": 530.25,
+          "gap_after": 0.42
+        },
+        {
+          "i": 4,
+          "text": "Once dragonlords ruled, the signs of their ancestry helped make a claim to exceptional status visible in every gathering and every marriage.",
+          "start": 530.25,
+          "end": 539.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 19,
+      "start": 540.0,
+      "sentence_count": 6,
+      "runs": 9,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Some readers look farther east for echoes of that ancestry, toward ancient tales of jewel-eyed rulers and forgotten empires.",
+          "start": 540.18,
+          "end": 548.31,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Such resemblances can inspire questions.",
+          "start": 548.31,
+          "end": 551.21,
+          "gap_after": 0.5
+        },
+        {
+          "i": 2,
+          "text": "They do not establish a bloodline.",
+          "start": 551.21,
+          "end": 553.48,
+          "gap_after": 0.44
+        },
+        {
+          "i": 3,
+          "text": "No surviving chain of evidence joins every violet eye to the Amethyst Empress.",
+          "start": 553.48,
+          "end": 558.8,
+          "gap_after": 0.44
+        },
+        {
+          "i": 4,
+          "text": "The uncertainty matters because Valyria would later speak as if its greatness were written into its blood.",
+          "start": 558.8,
+          "end": 566.33,
+          "gap_after": 0.42
+        },
+        {
+          "i": 5,
+          "text": "Its beginnings offer a far less comfortable certainty.",
+          "start": 566.33,
+          "end": 569.6,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 20,
+      "start": 570.0,
+      "sentence_count": 6,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Now imagine leaving the pasture behind.",
+          "start": 570.1,
+          "end": 572.38,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "A herdsman climbs toward dark rock and drifting vapor, farther from the familiar sounds of animals and home.",
+          "start": 572.38,
+          "end": 579.79,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "We do not know what first drew someone upward: a wandering flock, curiosity, necessity, or something else entirely.",
+          "start": 579.79,
+          "end": 587.44,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "Those motives belong to reconstruction.",
+          "start": 587.44,
+          "end": 590.06,
+          "gap_after": 0.32
+        },
+        {
+          "i": 4,
+          "text": "The discovery belongs to Valyria's remembered history.",
+          "start": 590.06,
+          "end": 593.08,
+          "gap_after": 0.36
+        },
+        {
+          "i": 5,
+          "text": "Somewhere within the Fourteen Flames, people encountered the creatures that would transform their world.",
+          "start": 593.08,
+          "end": 599.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 21,
+      "start": 600.0,
+      "sentence_count": 4,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Above the green slopes, our imagined climb enters a harsher country: broken volcanic stone, rising steam, and openings into the mountain.",
+          "start": 600.18,
+          "end": 609.58,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "There is no reliable altitude for the first encounter, no preserved trail we can follow step by step.",
+          "start": 609.58,
+          "end": 617.71,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "The figure approaching the cavern is an illustration of that unknown threshold.",
+          "start": 617.71,
+          "end": 623.93,
+          "gap_after": 0.46
+        },
+        {
+          "i": 3,
+          "text": "What waits beyond it is not a treasure that can simply be carried home.",
+          "start": 623.93,
+          "end": 629.7,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 22,
+      "start": 630.0,
+      "sentence_count": 7,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The histories place dragons among the Fourteen Flames.",
+          "start": 630.16,
+          "end": 633.33,
+          "gap_after": 0.5
+        },
+        {
+          "i": 1,
+          "text": "Strip away everything that later centuries added: the banners, the towers, the riders dressed for war.",
+          "start": 633.33,
+          "end": 640.4,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "What remains is a living creature in its own domain.",
+          "start": 640.4,
+          "end": 643.93,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "A cavern is shelter, not a stable.",
+          "start": 643.93,
+          "end": 646.86,
+          "gap_after": 0.44
+        },
+        {
+          "i": 4,
+          "text": "A dragon resting within it is not waiting for a human master.",
+          "start": 646.86,
+          "end": 650.96,
+          "gap_after": 0.44
+        },
+        {
+          "i": 5,
+          "text": "Discovery makes the creature known.",
+          "start": 650.96,
+          "end": 653.87,
+          "gap_after": 0.42
+        },
+        {
+          "i": 6,
+          "text": "It does not make the discoverer safe, and it certainly does not make them powerful.",
+          "start": 653.87,
+          "end": 659.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 23,
+      "start": 660.0,
+      "sentence_count": 6,
+      "runs": 15,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Look at the animal rather than the emblem.",
+          "start": 660.16,
+          "end": 662.87,
+          "gap_after": 0.34
+        },
+        {
+          "i": 1,
+          "text": "Two hind legs support it; its other limbs are wings.",
+          "start": 662.87,
+          "end": 667.5,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "Scales, claws, jaws, and the space needed to unfold those wings make its presence physical, not merely mythical.",
+          "start": 667.5,
+          "end": 674.69,
+          "gap_after": 0.46
+        },
+        {
+          "i": 3,
+          "text": "The size of our illustrated elder is not a measurement preserved from the first discovery.",
+          "start": 674.69,
+          "end": 681.11,
+          "gap_after": 0.42
+        },
+        {
+          "i": 4,
+          "text": "But scale conveys the real imbalance.",
+          "start": 681.11,
+          "end": 684.02,
+          "gap_after": 0.4
+        },
+        {
+          "i": 5,
+          "text": "The human at the cavern mouth is the vulnerable creature in this meeting.",
+          "start": 684.02,
+          "end": 689.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 24,
+      "start": 690.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Dragonbone is described as black and rich in iron; dragonfire is the terror that gives the animal its greatest military consequence.",
+          "start": 690.12,
+          "end": 698.04,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "Yet no description makes every dragon the same.",
+          "start": 698.04,
+          "end": 702.21,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "Size, age, and experience matter.",
+          "start": 702.21,
+          "end": 704.72,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "We should not turn a spectacular image into a universal measure of heat or strength.",
+          "start": 704.72,
+          "end": 710.02,
+          "gap_after": 0.6
+        },
+        {
+          "i": 4,
+          "text": "What the shepherds faced was extraordinary enough without imaginary numbers: a predator they could neither fence out nor handle like livestock.",
+          "start": 710.02,
+          "end": 719.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 25,
+      "start": 720.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "For people whose livelihoods depended on animals, sharing a landscape with such predators would mean danger before opportunity.",
+          "start": 720.2,
+          "end": 728.04,
+          "gap_after": 0.44
+        },
+        {
+          "i": 1,
+          "text": "Our images of scattered flocks and descending wings explore that danger; they do not document a named raid.",
+          "start": 728.04,
+          "end": 735.41,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "Consider the problem from below.",
+          "start": 735.41,
+          "end": 739.12,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "A shepherd can gather sheep, repair a wall, or change a grazing path.",
+          "start": 739.12,
+          "end": 741.96,
+          "gap_after": 0.32
+        },
+        {
+          "i": 4,
+          "text": "None of those ordinary defenses explains how a human being might ever approach a dragon willingly.",
+          "start": 741.96,
+          "end": 749.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 26,
+      "start": 750.0,
+      "sentence_count": 6,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Observation is one possible bridge between terror and understanding.",
+          "start": 750.16,
+          "end": 755.03,
+          "gap_after": 0.22
+        },
+        {
+          "i": 1,
+          "text": "An imagined watcher might study a resting place, the return of a hunting dragon, or eggs sheltered in warmth.",
+          "start": 755.03,
+          "end": 761.49,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "But the record does not preserve a complete apprenticeship, generation by generation.",
+          "start": 761.49,
+          "end": 766.82,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "These images illustrate what learning could demand.",
+          "start": 766.82,
+          "end": 770.36,
+          "gap_after": 0.52
+        },
+        {
+          "i": 4,
+          "text": "They cannot tell us which discovery came first.",
+          "start": 770.36,
+          "end": 773.32,
+          "gap_after": 0.36
+        },
+        {
+          "i": 5,
+          "text": "And even perfect knowledge of an animal's habits would leave the hardest question unanswered.",
+          "start": 773.32,
+          "end": 779.58,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 27,
+      "start": 780.0,
+      "sentence_count": 6,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Where had the dragons themselves come from?",
+          "start": 780.16,
+          "end": 782.46,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Valyrian tradition linked them to the Fourteen Flames, making the mountains more than a refuge.",
+          "start": 782.46,
+          "end": 789.13,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "They became a birthplace, and the creatures became an inheritance.",
+          "start": 789.13,
+          "end": 793.48,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "It is a powerful story for a ruling civilization to tell about itself.",
+          "start": 793.48,
+          "end": 797.98,
+          "gap_after": 0.48
+        },
+        {
+          "i": 4,
+          "text": "If its greatest weapon belongs uniquely to its homeland, then dominion can look like destiny.",
+          "start": 797.98,
+          "end": 805.32,
+          "gap_after": 0.4
+        },
+        {
+          "i": 5,
+          "text": "Other stories, however, refuse to leave that claim undisturbed.",
+          "start": 805.32,
+          "end": 809.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 28,
+      "start": 810.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "In Qarth, a tale says that two moons once hung above the world.",
+          "start": 810.16,
+          "end": 814.64,
+          "gap_after": 0.52
+        },
+        {
+          "i": 1,
+          "text": "One wandered too close to the sun, cracked like an egg, and released dragons into the sky.",
+          "start": 814.64,
+          "end": 821.96,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "They drank the sun's fire, and became creatures of flame.",
+          "start": 821.96,
+          "end": 826.12,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "This is a fable, not an astronomical record.",
+          "start": 826.12,
+          "end": 829.69,
+          "gap_after": 0.46
+        },
+        {
+          "i": 4,
+          "text": "Its value lies in the way people imagined dragons: beings so extraordinary that an ordinary earthly origin seemed too small for them.",
+          "start": 829.69,
+          "end": 839.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 29,
+      "start": 840.0,
+      "sentence_count": 5,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Other accounts speak of dragon bones found far from Valyria, including distant Ib and Sothoryos.",
+          "start": 840.16,
+          "end": 847.06,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Such reports widen the question beyond one peninsula.",
+          "start": 847.06,
+          "end": 850.65,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "They do not give us a complete history of where dragons lived or how every population changed.",
+          "start": 850.65,
+          "end": 856.96,
+          "gap_after": 0.44
+        },
+        {
+          "i": 3,
+          "text": "In Sothoryos, wyverns offer another troubling resemblance: winged predators without a dragon's fire.",
+          "start": 856.96,
+          "end": 863.75,
+          "gap_after": 0.42
+        },
+        {
+          "i": 4,
+          "text": "The world contains more possibilities than Valyria's proudest origin story can comfortably explain.",
+          "start": 863.75,
+          "end": 869.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 30,
+      "start": 870.0,
+      "sentence_count": 7,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "So the mountains may have held one chapter of a wider history, not its entire beginning.",
+          "start": 870.16,
+          "end": 876.76,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "We cannot confidently turn scattered remains into a precise map of ancient extinction.",
+          "start": 876.76,
+          "end": 882.18,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "But we can separate two questions that Valyrian pride brings together.",
+          "start": 882.18,
+          "end": 886.81,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "Where did dragons originate?",
+          "start": 886.81,
+          "end": 888.9,
+          "gap_after": 0.44
+        },
+        {
+          "i": 4,
+          "text": "And how did people gain the ability to ride them?",
+          "start": 888.9,
+          "end": 891.92,
+          "gap_after": 0.44
+        },
+        {
+          "i": 5,
+          "text": "Finding a creature in a cavern answers neither.",
+          "start": 891.92,
+          "end": 896.69,
+          "gap_after": 0.9
+        },
+        {
+          "i": 6,
+          "text": "The second question leads us back toward Asshai.",
+          "start": 896.69,
+          "end": 899.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 31,
+      "start": 900.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "In the eastern tradition, the secret did not begin with Valyrian shepherds.",
+          "start": 900.18,
+          "end": 905.74,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "An ancient people of the Shadow had already mastered dragons, and knowledge traveled west from them.",
+          "start": 905.74,
+          "end": 911.37,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "Imagine how that claim would sound beside Valyria's own account of its greatness.",
+          "start": 911.37,
+          "end": 917.42,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "The power that seemed to mark a chosen people might instead have been taught.",
+          "start": 917.42,
+          "end": 923.5,
+          "gap_after": 0.48
+        },
+        {
+          "i": 4,
+          "text": "Yet the story reaches us through uncertain traditions, not the testimony of an identified teacher.",
+          "start": 923.5,
+          "end": 929.74,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 32,
+      "start": 930.0,
+      "sentence_count": 6,
+      "runs": 17,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "According to that account, the forgotten people passed their knowledge to the Valyrians, then disappeared from the history we can follow.",
+          "start": 930.16,
+          "end": 940.37,
+          "gap_after": 0.34
+        },
+        {
+          "i": 1,
+          "text": "Their names and motives remain obscure.",
+          "start": 940.37,
+          "end": 943.93,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "Our figures in eastern robes are illustrations of the tradition, not recovered portraits.",
+          "start": 943.93,
+          "end": 947.69,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "No mask, scroll, or gesture can make the account proven.",
+          "start": 947.69,
+          "end": 951.44,
+          "gap_after": 0.32
+        },
+        {
+          "i": 4,
+          "text": "Still, the possibility changes the mystery.",
+          "start": 951.44,
+          "end": 954.68,
+          "gap_after": 0.4
+        },
+        {
+          "i": 5,
+          "text": "Perhaps the decisive encounter was not only between a shepherd and a dragon.",
+          "start": 954.68,
+          "end": 959.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 33,
+      "start": 960.0,
+      "sentence_count": 6,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The histories also question this eastern claim.",
+          "start": 960.16,
+          "end": 963.12,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "If an older people possessed dragon mastery, why do we know so little of an empire they built with it?",
+          "start": 963.12,
+          "end": 970.27,
+          "gap_after": 0.5
+        },
+        {
+          "i": 2,
+          "text": "The objection has force, but it is not a disproof.",
+          "start": 970.27,
+          "end": 973.5,
+          "gap_after": 0.24
+        },
+        {
+          "i": 3,
+          "text": "Knowledge does not always produce the same ambitions or institutions.",
+          "start": 973.5,
+          "end": 979.67,
+          "gap_after": 0.46
+        },
+        {
+          "i": 4,
+          "text": "The question remains open.",
+          "start": 979.67,
+          "end": 981.55,
+          "gap_after": 0.42
+        },
+        {
+          "i": 5,
+          "text": "We are weighing incomplete accounts, not choosing whichever explanation would make the most impressive scene inside a smoky chamber.",
+          "start": 981.55,
+          "end": 989.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 34,
+      "start": 990.0,
+      "sentence_count": 6,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "There are other possibilities: knowledge developed locally, practices borrowed and changed, or many dangerous experiments later remembered as one discovery.",
+          "start": 990.16,
+          "end": 998.77,
+          "gap_after": 0.34
+        },
+        {
+          "i": 1,
+          "text": "None can be reconstructed with certainty.",
+          "start": 998.77,
+          "end": 1001.34,
+          "gap_after": 0.36
+        },
+        {
+          "i": 2,
+          "text": "What emerges from the uncertainty is the result.",
+          "start": 1001.34,
+          "end": 1004.6,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "Valyrians came to ride dragons, and their civilization became associated with formidable sorcery.",
+          "start": 1004.6,
+          "end": 1010.94,
+          "gap_after": 0.28
+        },
+        {
+          "i": 4,
+          "text": "The road between those facts remains partly hidden.",
+          "start": 1010.94,
+          "end": 1013.64,
+          "gap_after": 0.28
+        },
+        {
+          "i": 5,
+          "text": "Later objects and writings illuminate its dangers without giving us a reliable account of its first steps.",
+          "start": 1013.64,
+          "end": 1019.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 35,
+      "start": 1020.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Among those later objects are the terrible horns associated with dragonbinding.",
+          "start": 1020.14,
+          "end": 1026.16,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "Black surfaces, metal bands, and inscriptions make a compelling image of command.",
+          "start": 1026.16,
+          "end": 1030.0,
+          "gap_after": 0.72
+        },
+        {
+          "i": 2,
+          "text": "But we cannot place a horn in the first rider's hands as an established fact.",
+          "start": 1030.0,
+          "end": 1035.4,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "Nor can we assume that possessing one means understanding it.",
+          "start": 1035.4,
+          "end": 1039.0,
+          "gap_after": 0.84
+        },
+        {
+          "i": 4,
+          "text": "The traditions surround mastery with instruments that seem as threatening to human beings as they are promising to those who seek power.",
+          "start": 1039.0,
+          "end": 1049.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 36,
+      "start": 1050.0,
+      "sentence_count": 4,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Much later, in the story of the ironborn, a great horn is sounded and the man who blows it dies.",
+          "start": 1050.16,
+          "end": 1058.24,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "The incident is horrifying.",
+          "start": 1058.24,
+          "end": 1060.12,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "It does not prove that every early bond required the same act, or that the horn's promised control is fully understood.",
+          "start": 1060.12,
+          "end": 1067.89,
+          "gap_after": 0.46
+        },
+        {
+          "i": 3,
+          "text": "It gives us something narrower and darker: evidence that pursuing command over dragons can expose a person to forces whose cost they do not comprehend.",
+          "start": 1067.89,
+          "end": 1079.6,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 37,
+      "start": 1080.0,
+      "sentence_count": 6,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Blood magic raises deeper questions.",
+          "start": 1080.12,
+          "end": 1082.53,
+          "gap_after": 0.42
+        },
+        {
+          "i": 1,
+          "text": "Septon Barth, writing long after Valyria's beginnings, explored disturbing ideas about dragons and the creatures connected with them.",
+          "start": 1082.53,
+          "end": 1091.12,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "His work reaches us imperfectly, through a history of controversy and destruction.",
+          "start": 1091.12,
+          "end": 1095.72,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "It is not a witnessed account of the first binding.",
+          "start": 1095.72,
+          "end": 1098.99,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "When our images show a bloodmage or an arcane chamber, they represent that field of speculation.",
+          "start": 1098.99,
+          "end": 1105.38,
+          "gap_after": 0.36
+        },
+        {
+          "i": 5,
+          "text": "They must not quietly become proof of an invented ceremony.",
+          "start": 1105.38,
+          "end": 1109.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 38,
+      "start": 1110.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The bond between dragon and rider is real within the histories, but its origins do not become simple merely because later riders existed.",
+          "start": 1110.18,
+          "end": 1118.63,
+          "gap_after": 0.46
+        },
+        {
+          "i": 1,
+          "text": "A human can claim a dragon; that does not make the creature an ordinary possession.",
+          "start": 1118.63,
+          "end": 1124.7,
+          "gap_after": 0.44
+        },
+        {
+          "i": 2,
+          "text": "Nor does it give us a formula of blood, horn, and spoken words that explains every bond.",
+          "start": 1124.7,
+          "end": 1131.41,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "Let the uncertainty remain.",
+          "start": 1131.41,
+          "end": 1133.44,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "We can understand the magnitude of the change without pretending to possess its lost instructions.",
+          "start": 1133.44,
+          "end": 1139.58,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 39,
+      "start": 1140.0,
+      "sentence_count": 6,
+      "runs": 13,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Now imagine a moment that stands for the threshold, not a morning whose date and witnesses we know.",
+          "start": 1140.18,
+          "end": 1146.2,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "A Valyrian approaches a dragon on a mountain ledge.",
+          "start": 1146.2,
+          "end": 1149.27,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "The creature allows the person near.",
+          "start": 1149.27,
+          "end": 1151.61,
+          "gap_after": 0.34
+        },
+        {
+          "i": 3,
+          "text": "Somewhere in the long history of those encounters, approach became acceptance, and acceptance made riding possible.",
+          "start": 1151.61,
+          "end": 1158.75,
+          "gap_after": 0.42
+        },
+        {
+          "i": 4,
+          "text": "Our anonymous figure represents that transformation.",
+          "start": 1158.75,
+          "end": 1163.84,
+          "gap_after": 0.44
+        },
+        {
+          "i": 5,
+          "text": "The rider's clothes, face, and mount are visual choices, not recovered historical identities.",
+          "start": 1163.84,
+          "end": 1169.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 40,
+      "start": 1170.0,
+      "sentence_count": 8,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The wings open.",
+          "start": 1170.14,
+          "end": 1171.2,
+          "gap_after": 0.6
+        },
+        {
+          "i": 1,
+          "text": "The ledge falls away.",
+          "start": 1171.2,
+          "end": 1172.89,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "For the rider, the familiar valley becomes a pattern beneath a moving shadow.",
+          "start": 1172.89,
+          "end": 1177.32,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "Land crossed slowly on foot passes below in moments.",
+          "start": 1177.32,
+          "end": 1181.77,
+          "gap_after": 0.34
+        },
+        {
+          "i": 4,
+          "text": "This is an imagined first ascent, but the change in perspective needs little explanation.",
+          "start": 1181.77,
+          "end": 1188.41,
+          "gap_after": 0.34
+        },
+        {
+          "i": 5,
+          "text": "The shepherd once looked up at the mountain.",
+          "start": 1188.41,
+          "end": 1190.77,
+          "gap_after": 0.38
+        },
+        {
+          "i": 6,
+          "text": "A rider can look beyond it.",
+          "start": 1190.77,
+          "end": 1192.56,
+          "gap_after": 0.4
+        },
+        {
+          "i": 7,
+          "text": "The boundary of an ordinary life has suddenly moved farther than anyone below can follow.",
+          "start": 1192.56,
+          "end": 1199.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 41,
+      "start": 1200.0,
+      "sentence_count": 7,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "And beneath that freedom lie other people.",
+          "start": 1200.12,
+          "end": 1202.74,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Walls, storehouses, roads, and settlements now exist within reach of a power that comes from above.",
+          "start": 1202.74,
+          "end": 1209.11,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "Dragons are not invulnerable, and no single flight made every fortress useless.",
+          "start": 1209.11,
+          "end": 1216.22,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "But the balance has changed.",
+          "start": 1216.22,
+          "end": 1217.34,
+          "gap_after": 0.24
+        },
+        {
+          "i": 4,
+          "text": "The next struggle is no longer only between a human and a dangerous animal.",
+          "start": 1217.34,
+          "end": 1221.18,
+          "gap_after": 0.32
+        },
+        {
+          "i": 5,
+          "text": "It is between humans who possess this power and humans who do not.",
+          "start": 1221.18,
+          "end": 1226.59,
+          "gap_after": 0.38
+        },
+        {
+          "i": 6,
+          "text": "Valyria must decide who gets to rise.",
+          "start": 1226.59,
+          "end": 1229.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 42,
+      "start": 1230.0,
+      "sentence_count": 7,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The answer was not everyone.",
+          "start": 1230.2,
+          "end": 1232.19,
+          "gap_after": 0.42
+        },
+        {
+          "i": 1,
+          "text": "Whatever the exact stages of its development, Valyrian society came to be dominated by families who rode dragons.",
+          "start": 1232.19,
+          "end": 1239.9,
+          "gap_after": 0.44
+        },
+        {
+          "i": 2,
+          "text": "Others could live within the same civilization without sharing that decisive source of power.",
+          "start": 1239.9,
+          "end": 1245.62,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "We should not imagine a documented overnight revolution.",
+          "start": 1245.62,
+          "end": 1248.97,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "Think instead of the distance opening between households.",
+          "start": 1248.97,
+          "end": 1252.48,
+          "gap_after": 0.48
+        },
+        {
+          "i": 5,
+          "text": "A flock can be counted.",
+          "start": 1252.48,
+          "end": 1254.44,
+          "gap_after": 0.44
+        },
+        {
+          "i": 6,
+          "text": "A dragon changes what its rider can demand from every flock around it.",
+          "start": 1254.44,
+          "end": 1259.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 43,
+      "start": 1260.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The dragonlords became the ruling caste, and the language of blood gave their position a deeper claim.",
+          "start": 1260.18,
+          "end": 1267.18,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "Their mastery was presented not simply as an accomplishment, but as an inheritance.",
+          "start": 1267.18,
+          "end": 1272.31,
+          "gap_after": 0.3
+        },
+        {
+          "i": 2,
+          "text": "Rich garments and elaborate ornaments made the distinction visible.",
+          "start": 1272.31,
+          "end": 1276.24,
+          "gap_after": 0.44
+        },
+        {
+          "i": 3,
+          "text": "Yet beneath the display lay a practical concern: how could a family keep such power from passing beyond its control?",
+          "start": 1276.24,
+          "end": 1284.94,
+          "gap_after": 0.44
+        },
+        {
+          "i": 4,
+          "text": "The answer reached into marriage, kinship, and the definition of belonging.",
+          "start": 1284.94,
+          "end": 1289.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 44,
+      "start": 1290.0,
+      "sentence_count": 5,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Close-kin marriage became one of the customs associated with Valyria's dragonlords.",
+          "start": 1290.12,
+          "end": 1294.75,
+          "gap_after": 0.46
+        },
+        {
+          "i": 1,
+          "text": "Brother and sister, uncle and niece: relationships forbidden or condemned elsewhere could serve the preservation of a ruling line.",
+          "start": 1294.75,
+          "end": 1304.39,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "That custom tells us about their determination to protect the blood of the dragon.",
+          "start": 1304.39,
+          "end": 1309.13,
+          "gap_after": 0.34
+        },
+        {
+          "i": 3,
+          "text": "It does not prove every explanation they offered for it.",
+          "start": 1309.13,
+          "end": 1312.34,
+          "gap_after": 0.4
+        },
+        {
+          "i": 4,
+          "text": "A dynasty's belief in its exceptional nature is not the same as a complete account of how dragon bonding works.",
+          "start": 1312.34,
+          "end": 1319.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 45,
+      "start": 1320.0,
+      "sentence_count": 6,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Generation after generation, family became a political boundary.",
+          "start": 1320.14,
+          "end": 1324.86,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "Marriage could secure an alliance, preserve wealth, or reinforce the idea that dragonlords stood apart from ordinary people.",
+          "start": 1324.86,
+          "end": 1331.77,
+          "gap_after": 0.3
+        },
+        {
+          "i": 2,
+          "text": "Our ceremonial images show that social world, not a named wedding whose details survive.",
+          "start": 1331.77,
+          "end": 1337.13,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "Remember the faces beneath the ornaments.",
+          "start": 1337.13,
+          "end": 1339.38,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "They are descendants of people remembered as shepherds.",
+          "start": 1339.38,
+          "end": 1341.72,
+          "gap_after": 0.24
+        },
+        {
+          "i": 5,
+          "text": "Their growing conviction that they belonged above others was part of the transformation, not an explanation written into the beginning.",
+          "start": 1341.72,
+          "end": 1349.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 46,
+      "start": 1350.0,
+      "sentence_count": 6,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Yet this hierarchy did not produce a single Valyrian king.",
+          "start": 1350.16,
+          "end": 1353.79,
+          "gap_after": 0.22
+        },
+        {
+          "i": 1,
+          "text": "The Freehold was not a monarchy like so many neighboring states.",
+          "start": 1353.79,
+          "end": 1360.22,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "Its powerful families competed within a different political order.",
+          "start": 1360.22,
+          "end": 1364.64,
+          "gap_after": 0.32
+        },
+        {
+          "i": 3,
+          "text": "That creates a useful question: what would it take for one dragonlord to make all the others kneel?",
+          "start": 1364.64,
+          "end": 1370.9,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "A crown is an object.",
+          "start": 1370.9,
+          "end": 1373.58,
+          "gap_after": 0.4
+        },
+        {
+          "i": 5,
+          "text": "Authority exists only when rivals accept it, or when someone can force them to accept it.",
+          "start": 1373.58,
+          "end": 1379.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 47,
+      "start": 1380.0,
+      "sentence_count": 5,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Dragons make that calculation terrifying.",
+          "start": 1380.12,
+          "end": 1382.7,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "A would-be ruler confronting other dragonriding houses cannot rely on the same imbalance that separates a mounted lord from an unarmed laborer.",
+          "start": 1382.7,
+          "end": 1390.83,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "Rival power becomes a restraint as well as a temptation.",
+          "start": 1390.83,
+          "end": 1395.62,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "This is an interpretation of the political tension, not a surviving debate from Valyria's founding.",
+          "start": 1395.62,
+          "end": 1401.83,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "It helps explain why possessing extraordinary strength need not make any one family strong enough to rule all the rest.",
+          "start": 1401.83,
+          "end": 1409.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 48,
+      "start": 1410.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The name Freehold suggests a world of people holding land and sharing in a political community.",
+          "start": 1410.18,
+          "end": 1417.81,
+          "gap_after": 0.46
+        },
+        {
+          "i": 1,
+          "text": "But we must be careful not to invent a precise founding constitution from that name.",
+          "start": 1417.81,
+          "end": 1422.95,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "What the histories give us most clearly is a state without a king, dominated by an elite.",
+          "start": 1422.95,
+          "end": 1428.57,
+          "gap_after": 0.38
+        },
+        {
+          "i": 3,
+          "text": "Freedom within such a system is not necessarily equal influence.",
+          "start": 1428.57,
+          "end": 1433.05,
+          "gap_after": 0.42
+        },
+        {
+          "i": 4,
+          "text": "And it certainly does not mean freedom for every human being inside its borders.",
+          "start": 1433.05,
+          "end": 1439.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 49,
+      "start": 1440.0,
+      "sentence_count": 6,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Forty great dragonlord families stood at the center of Valyrian power.",
+          "start": 1440.18,
+          "end": 1445.23,
+          "gap_after": 0.42
+        },
+        {
+          "i": 1,
+          "text": "Their competition involved wealth, lineage, ambition, and the creatures they commanded.",
+          "start": 1445.23,
+          "end": 1451.76,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "A council scene can help us imagine political life, but its votes and conversations are not a recovered transcript.",
+          "start": 1451.76,
+          "end": 1458.89,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "We know the structure was unequal.",
+          "start": 1458.89,
+          "end": 1460.94,
+          "gap_after": 0.2
+        },
+        {
+          "i": 4,
+          "text": "We can see why every alliance mattered.",
+          "start": 1460.94,
+          "end": 1463.37,
+          "gap_after": 0.46
+        },
+        {
+          "i": 5,
+          "text": "Above ordinary rivalry hovered the possibility that a dispute might acquire wings and fire.",
+          "start": 1463.37,
+          "end": 1469.7,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 50,
+      "start": 1470.0,
+      "sentence_count": 4,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Among the dragonlord families of later Valyria were the Targaryens, far from the greatest of that formidable company.",
+          "start": 1470.14,
+          "end": 1478.36,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "Their eventual importance in Westeros can make them seem inevitable here.",
+          "start": 1478.36,
+          "end": 1483.62,
+          "gap_after": 0.36
+        },
+        {
+          "i": 2,
+          "text": "They were not the whole of Valyria, and their later survival should not shrink this civilization to one house.",
+          "start": 1483.62,
+          "end": 1490.48,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "For now, our story belongs to the wider Freehold: competing families, growing wealth, and a hunger to make their power visible in stone.",
+          "start": 1490.48,
+          "end": 1499.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 51,
+      "start": 1500.0,
+      "sentence_count": 7,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "That ambition changes the landscape again.",
+          "start": 1500.12,
+          "end": 1502.71,
+          "gap_after": 0.34
+        },
+        {
+          "i": 1,
+          "text": "Where we began with pasture and simple homes, imagine a civilization raising places worthy of dragonlords.",
+          "start": 1502.71,
+          "end": 1510.45,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "This is not a claim that every tower appeared in one generation.",
+          "start": 1510.45,
+          "end": 1514.43,
+          "gap_after": 0.26
+        },
+        {
+          "i": 3,
+          "text": "Our sequence follows a transformation whose exact stages are lost.",
+          "start": 1514.43,
+          "end": 1518.82,
+          "gap_after": 0.32
+        },
+        {
+          "i": 4,
+          "text": "Rivalry and wealth found expression in architecture.",
+          "start": 1518.82,
+          "end": 1522.52,
+          "gap_after": 0.32
+        },
+        {
+          "i": 5,
+          "text": "The lords of the sky did not merely want to live differently.",
+          "start": 1522.52,
+          "end": 1525.91,
+          "gap_after": 0.42
+        },
+        {
+          "i": 6,
+          "text": "They wanted the world below to see the difference.",
+          "start": 1525.91,
+          "end": 1529.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 52,
+      "start": 1530.0,
+      "sentence_count": 6,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Old Ghis made its greatness visible in brick.",
+          "start": 1530.16,
+          "end": 1533.24,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "Other peoples built through their own traditions of labor and skill.",
+          "start": 1533.24,
+          "end": 1538.85,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "Valyria's distinction was not that everyone else lacked ingenuity, but that its builders possessed arts others could not readily reproduce.",
+          "start": 1538.85,
+          "end": 1547.0,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "The histories connect dragons and sorcery with the shaping of stone.",
+          "start": 1547.0,
+          "end": 1551.02,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "In that association, the creature becomes more than a mount or a weapon.",
+          "start": 1551.02,
+          "end": 1555.93,
+          "gap_after": 0.38
+        },
+        {
+          "i": 5,
+          "text": "It becomes part of the civilization's built world.",
+          "start": 1555.93,
+          "end": 1559.58,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 53,
+      "start": 1560.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Stone shaped as if it were wax became one of the wonders associated with Valyria.",
+          "start": 1560.18,
+          "end": 1566.53,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Seamless structures seemed to defy the ordinary work of quarrying blocks and joining them together.",
+          "start": 1566.53,
+          "end": 1571.92,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "Yet the surviving accounts are not an engineer's manual.",
+          "start": 1571.92,
+          "end": 1575.37,
+          "gap_after": 0.34
+        },
+        {
+          "i": 3,
+          "text": "We can show flame and craft as an illustrative reconstruction without claiming every gesture or temperature is known.",
+          "start": 1575.37,
+          "end": 1583.1,
+          "gap_after": 0.28
+        },
+        {
+          "i": 4,
+          "text": "The achievement is extraordinary enough without pretending its lost process has been completely recovered.",
+          "start": 1583.1,
+          "end": 1589.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 54,
+      "start": 1590.0,
+      "sentence_count": 6,
+      "runs": 8,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Look upward through the imagined skyline.",
+          "start": 1590.16,
+          "end": 1592.3,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "Towers rise toward the airspace of dragons, and human architecture begins to answer the needs of creatures far larger than its builders.",
+          "start": 1592.3,
+          "end": 1600.62,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "The exact forms in our images are design interpretations.",
+          "start": 1600.62,
+          "end": 1604.32,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "Their purpose is to convey a society organizing space around extraordinary power.",
+          "start": 1604.32,
+          "end": 1609.64,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "Once, the mountain sheltered the dragon while people lived below.",
+          "start": 1609.64,
+          "end": 1613.29,
+          "gap_after": 0.38
+        },
+        {
+          "i": 5,
+          "text": "Now the city itself announces that the rulers belong beside the creatures above.",
+          "start": 1613.29,
+          "end": 1619.56,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 55,
+      "start": 1620.0,
+      "sentence_count": 4,
+      "runs": 9,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Along monumental ways, sculpted creatures and elaborate stonework gave that claim a visible language.",
+          "start": 1620.18,
+          "end": 1627.45,
+          "gap_after": 0.42
+        },
+        {
+          "i": 1,
+          "text": "Valyrian sphinxes joined human faces with dragon bodies, making an emblem of the relationship at the center of the civilization.",
+          "start": 1627.45,
+          "end": 1635.09,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "We should not treat every glowing channel in an illustration as a documented municipal system.",
+          "start": 1635.09,
+          "end": 1641.03,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "What survives in the idea of this city is already powerful: a human world deliberately reshaped around its identification with dragons.",
+          "start": 1641.03,
+          "end": 1649.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 56,
+      "start": 1650.0,
+      "sentence_count": 6,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The roads carried that mastery outward.",
+          "start": 1650.1,
+          "end": 1652.33,
+          "gap_after": 0.42
+        },
+        {
+          "i": 1,
+          "text": "Valyrian roads were remembered for their straightness, durability, and remarkable fused stone, achievements travelers could encounter long after their makers were gone.",
+          "start": 1652.33,
+          "end": 1663.45,
+          "gap_after": 0.3
+        },
+        {
+          "i": 2,
+          "text": "A road is less spectacular than a dragon in flight, but its power is persistent.",
+          "start": 1663.45,
+          "end": 1668.83,
+          "gap_after": 0.34
+        },
+        {
+          "i": 3,
+          "text": "It moves people, goods, and authority.",
+          "start": 1668.83,
+          "end": 1670.92,
+          "gap_after": 0.24
+        },
+        {
+          "i": 4,
+          "text": "It makes distant places part of one system.",
+          "start": 1670.92,
+          "end": 1674.98,
+          "gap_after": 0.36
+        },
+        {
+          "i": 5,
+          "text": "The Freehold's reach was not measured only by the shadows passing over the ground.",
+          "start": 1674.98,
+          "end": 1679.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 57,
+      "start": 1680.0,
+      "sentence_count": 6,
+      "runs": 9,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Metalwork adds another part of the story.",
+          "start": 1680.12,
+          "end": 1682.45,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Later ages would treasure Valyrian steel, while dragonbone and other rare materials carried value far beyond the peninsula.",
+          "start": 1682.45,
+          "end": 1690.71,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "The exact sequence of early inventions is not securely preserved.",
+          "start": 1690.71,
+          "end": 1694.8,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "Our workshops suggest accumulating skill, not the witnessed forging of the first famous blade.",
+          "start": 1694.8,
+          "end": 1700.65,
+          "gap_after": 0.34
+        },
+        {
+          "i": 4,
+          "text": "But materials connect splendor to labor.",
+          "start": 1700.65,
+          "end": 1703.49,
+          "gap_after": 0.42
+        },
+        {
+          "i": 5,
+          "text": "Everything displayed in a ruler's hall begins somewhere outside it, and often far beneath it.",
+          "start": 1703.49,
+          "end": 1709.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 58,
+      "start": 1710.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Return to the mineral wealth inside the Fourteen Flames.",
+          "start": 1710.16,
+          "end": 1713.35,
+          "gap_after": 0.3
+        },
+        {
+          "i": 1,
+          "text": "A ruling society could desire gold and silver without facing the conditions of extracting them itself.",
+          "start": 1713.35,
+          "end": 1722.01,
+          "gap_after": 0.54
+        },
+        {
+          "i": 2,
+          "text": "Valyria's mines became places of enslaved labor, where other people's bodies bore the cost of wealth.",
+          "start": 1722.01,
+          "end": 1728.22,
+          "gap_after": 0.48
+        },
+        {
+          "i": 3,
+          "text": "We cannot date every step by which that system grew.",
+          "start": 1728.22,
+          "end": 1731.66,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "We can refuse to hide its existence behind the beauty of the objects it helped place in the daylight above.",
+          "start": 1731.66,
+          "end": 1739.6,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 59,
+      "start": 1740.0,
+      "sentence_count": 6,
+      "runs": 13,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Captivity meant being made to work for a world that denied your freedom.",
+          "start": 1740.12,
+          "end": 1745.01,
+          "gap_after": 0.82
+        },
+        {
+          "i": 1,
+          "text": "In the mines, that work took place within the heat and danger of the volcanic earth.",
+          "start": 1745.01,
+          "end": 1750.18,
+          "gap_after": 0.32
+        },
+        {
+          "i": 2,
+          "text": "Chains, baskets, tools, and narrow passages bring the system into human scale.",
+          "start": 1750.18,
+          "end": 1755.35,
+          "gap_after": 0.26
+        },
+        {
+          "i": 3,
+          "text": "These images are reconstructions, not portraits of identified captives.",
+          "start": 1755.35,
+          "end": 1760.38,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "The people they represent were not merely background to Valyria's achievement.",
+          "start": 1760.38,
+          "end": 1764.53,
+          "gap_after": 0.42
+        },
+        {
+          "i": 5,
+          "text": "Their suffering belongs at the center of our judgment of it.",
+          "start": 1764.53,
+          "end": 1769.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 60,
+      "start": 1770.0,
+      "sentence_count": 5,
+      "runs": 15,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "The accounts of the depths describe heat, lethal conditions, and firewyrms.",
+          "start": 1770.16,
+          "end": 1776.32,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "No invented final speech is needed to make those dangers matter.",
+          "start": 1776.32,
+          "end": 1779.25,
+          "gap_after": 0.78
+        },
+        {
+          "i": 2,
+          "text": "Nor should every tunnel become an excuse for a spectacular death scene.",
+          "start": 1779.25,
+          "end": 1786.01,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "Think instead of the endurance demanded by a system that needed more ore, more labor, and more people to replace those it consumed.",
+          "start": 1786.01,
+          "end": 1794.86,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "The wonder above ground did not make the darkness below it less real.",
+          "start": 1794.86,
+          "end": 1799.7,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 61,
+      "start": 1800.0,
+      "sentence_count": 8,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Here is the answer to the question hidden inside Valyria's rise.",
+          "start": 1800.2,
+          "end": 1804.09,
+          "gap_after": 0.5
+        },
+        {
+          "i": 1,
+          "text": "Who paid for the world the dragonlords built?",
+          "start": 1804.09,
+          "end": 1807.27,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "Not only the enemies their dragons would eventually burn.",
+          "start": 1807.27,
+          "end": 1810.55,
+          "gap_after": 0.38
+        },
+        {
+          "i": 3,
+          "text": "People within their dominion paid for it, beneath the mountains that had once framed a shepherd's life.",
+          "start": 1810.55,
+          "end": 1818.24,
+          "gap_after": 0.32
+        },
+        {
+          "i": 4,
+          "text": "Some rose into the sky.",
+          "start": 1818.24,
+          "end": 1820.71,
+          "gap_after": 0.38
+        },
+        {
+          "i": 5,
+          "text": "Others were driven underground.",
+          "start": 1820.71,
+          "end": 1822.34,
+          "gap_after": 0.2
+        },
+        {
+          "i": 6,
+          "text": "The Freehold's freedom and its bondage were not separate histories.",
+          "start": 1822.34,
+          "end": 1826.93,
+          "gap_after": 0.9
+        },
+        {
+          "i": 7,
+          "text": "They were parts of the same civilization.",
+          "start": 1826.93,
+          "end": 1829.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 62,
+      "start": 1830.0,
+      "sentence_count": 4,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Beyond the mines and towers, the peninsula was connected to a larger world by its coasts.",
+          "start": 1830.16,
+          "end": 1835.81,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Harbors, ships, and trade show another form of expansion, less dramatic than conquest but essential to a wealthy civilization.",
+          "start": 1835.81,
+          "end": 1844.85,
+          "gap_after": 0.34
+        },
+        {
+          "i": 2,
+          "text": "Our views of settlement and traffic are reconstructions, not an exact census of early ports.",
+          "start": 1844.85,
+          "end": 1850.73,
+          "gap_after": 0.38
+        },
+        {
+          "i": 3,
+          "text": "They convey the widening reach of Valyria: a place increasingly involved in the movement of materials, people, and knowledge across the seas.",
+          "start": 1850.73,
+          "end": 1859.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 63,
+      "start": 1860.0,
+      "sentence_count": 5,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Imagine what travelers might carry away from such a place: memories of remarkable buildings, wealthy households, and dragons in the sky.",
+          "start": 1860.16,
+          "end": 1869.9,
+          "gap_after": 0.44
+        },
+        {
+          "i": 1,
+          "text": "We cannot quote the first sailor who told those stories in a foreign harbor.",
+          "start": 1869.9,
+          "end": 1875.71,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "But the contrast with the old pastoral beginning is clear.",
+          "start": 1875.71,
+          "end": 1879.0,
+          "gap_after": 0.68
+        },
+        {
+          "i": 3,
+          "text": "Valyria was no longer merely a country beneath volcanoes.",
+          "start": 1879.0,
+          "end": 1883.66,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "It was a center of power whose existence changed the calculations of the peoples around it.",
+          "start": 1883.66,
+          "end": 1889.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 64,
+      "start": 1890.0,
+      "sentence_count": 5,
+      "runs": 11,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Old Ghis belonged to that surrounding world, and it had built its own greatness through conquest and slavery.",
+          "start": 1890.16,
+          "end": 1898.34,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "The resemblance must not disappear behind the contrast of harpy and dragon.",
+          "start": 1898.34,
+          "end": 1903.38,
+          "gap_after": 0.4
+        },
+        {
+          "i": 2,
+          "text": "These were not simply freedom and tyranny facing each other across the water.",
+          "start": 1903.38,
+          "end": 1906.94,
+          "gap_after": 0.8
+        },
+        {
+          "i": 3,
+          "text": "Both civilizations could turn human captivity into wealth.",
+          "start": 1906.94,
+          "end": 1913.02,
+          "gap_after": 0.48
+        },
+        {
+          "i": 4,
+          "text": "Their coming struggle would concern power between states without erasing the suffering that supported power inside them.",
+          "start": 1913.02,
+          "end": 1919.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 65,
+      "start": 1920.0,
+      "sentence_count": 7,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "For an established empire, a rising neighbor poses more than one problem.",
+          "start": 1920.14,
+          "end": 1925.41,
+          "gap_after": 0.38
+        },
+        {
+          "i": 1,
+          "text": "Wealth can shift; influence can spread; military assumptions can become dangerous habits.",
+          "start": 1925.41,
+          "end": 1930.2,
+          "gap_after": 0.44
+        },
+        {
+          "i": 2,
+          "text": "Dragons added an extraordinary force to that familiar political tension.",
+          "start": 1930.2,
+          "end": 1934.56,
+          "gap_after": 0.4
+        },
+        {
+          "i": 3,
+          "text": "We should not invent a verified report or a particular commander's private ambition.",
+          "start": 1934.56,
+          "end": 1939.56,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "The larger confrontation is enough.",
+          "start": 1939.56,
+          "end": 1941.86,
+          "gap_after": 0.64
+        },
+        {
+          "i": 5,
+          "text": "Ghis represented an order already made.",
+          "start": 1941.86,
+          "end": 1945.02,
+          "gap_after": 0.44
+        },
+        {
+          "i": 6,
+          "text": "Valyria represented a power that order could not easily absorb or ignore.",
+          "start": 1945.02,
+          "end": 1949.66,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 66,
+      "start": 1950.0,
+      "sentence_count": 5,
+      "runs": 9,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Set the lockstep legion beside the dragonrider.",
+          "start": 1950.12,
+          "end": 1953.33,
+          "gap_after": 0.42
+        },
+        {
+          "i": 1,
+          "text": "One draws strength from disciplined bodies holding formation.",
+          "start": 1953.33,
+          "end": 1957.49,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "The other adds mobility and fire from above.",
+          "start": 1957.49,
+          "end": 1960.77,
+          "gap_after": 0.54
+        },
+        {
+          "i": 3,
+          "text": "Neither image gives us a transcript of Ghiscari strategy, nor should we insert weapons into a war plan merely because they seem plausible.",
+          "start": 1960.77,
+          "end": 1969.25,
+          "gap_after": 0.3
+        },
+        {
+          "i": 4,
+          "text": "What we can see is the question the coming wars would test: how would an ancient military empire confront an enemy whose greatest strength moved through the sky?",
+          "start": 1969.25,
+          "end": 1979.62,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 67,
+      "start": 1980.0,
+      "sentence_count": 6,
+      "runs": 12,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Across the water, the Freehold had its own rivalries, ambitions, and reasons to protect its power.",
+          "start": 1980.18,
+          "end": 1986.36,
+          "gap_after": 0.32
+        },
+        {
+          "i": 1,
+          "text": "We do not need an invented oath of defiance from a balcony to understand the stakes.",
+          "start": 1986.36,
+          "end": 1993.45,
+          "gap_after": 0.46
+        },
+        {
+          "i": 2,
+          "text": "Valyria's transformation had made submission a different proposition.",
+          "start": 1993.45,
+          "end": 1997.51,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "The descendants of shepherds now belonged to a civilization of dragons and sorcery.",
+          "start": 1997.51,
+          "end": 2002.79,
+          "gap_after": 0.38
+        },
+        {
+          "i": 4,
+          "text": "But extraordinary power does not remove conflict.",
+          "start": 2002.79,
+          "end": 2006.32,
+          "gap_after": 0.4
+        },
+        {
+          "i": 5,
+          "text": "It gives its possessors new reasons to enter it.",
+          "start": 2006.32,
+          "end": 2009.64,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 68,
+      "start": 2010.0,
+      "sentence_count": 5,
+      "runs": 14,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Before that struggle begins, return once more to the missing first encounter.",
+          "start": 2010.16,
+          "end": 2014.79,
+          "gap_after": 0.22
+        },
+        {
+          "i": 1,
+          "text": "We still cannot name the shepherd, prove the eastern teachers, or reconstruct the exact ceremony of dragon mastery.",
+          "start": 2014.79,
+          "end": 2024.49,
+          "gap_after": 0.38
+        },
+        {
+          "i": 2,
+          "text": "Those uncertainties have not been solved by traveling through this story.",
+          "start": 2024.49,
+          "end": 2028.53,
+          "gap_after": 0.42
+        },
+        {
+          "i": 3,
+          "text": "Something else has become clearer: what the mastery made possible.",
+          "start": 2028.53,
+          "end": 2033.08,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "The distance between a cavern and a city is measured not only in discovery, but in the choices made afterward.",
+          "start": 2033.08,
+          "end": 2039.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 69,
+      "start": 2040.0,
+      "sentence_count": 5,
+      "runs": 10,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Pasture became an inheritance the dragonlords could look down upon.",
+          "start": 2040.16,
+          "end": 2044.08,
+          "gap_after": 0.4
+        },
+        {
+          "i": 1,
+          "text": "Blood became a claim to rule.",
+          "start": 2044.08,
+          "end": 2046.25,
+          "gap_after": 0.42
+        },
+        {
+          "i": 2,
+          "text": "Stone became a monument to powers others could not readily imitate.",
+          "start": 2046.25,
+          "end": 2052.04,
+          "gap_after": 0.36
+        },
+        {
+          "i": 3,
+          "text": "Beneath those monuments, enslaved people labored in darkness.",
+          "start": 2052.04,
+          "end": 2056.0,
+          "gap_after": 0.32
+        },
+        {
+          "i": 4,
+          "text": "That is the transformation to remember: not a simple ascent from weakness into glory, but the making of a civilization whose beauty and brutality grew together beneath the shadow of the same wings.",
+          "start": 2056.0,
+          "end": 2069.68,
+          "gap_after": null
+        }
+      ]
+    },
+    {
+      "block": 70,
+      "start": 2070.0,
+      "sentence_count": 7,
+      "runs": 16,
+      "sentences": [
+        {
+          "i": 0,
+          "text": "Now the harpy and the dragon stand at the edge of a struggle the histories remember as five wars.",
+          "start": 2070.16,
+          "end": 2077.76,
+          "gap_after": 0.36
+        },
+        {
+          "i": 1,
+          "text": "Their outcome belongs to the next chapter.",
+          "start": 2077.76,
+          "end": 2080.22,
+          "gap_after": 0.36
+        },
+        {
+          "i": 2,
+          "text": "This beginning has its own answer.",
+          "start": 2080.22,
+          "end": 2083.01,
+          "gap_after": 0.3
+        },
+        {
+          "i": 3,
+          "text": "Valyria did not merely learn to fly.",
+          "start": 2083.01,
+          "end": 2085.52,
+          "gap_after": 0.36
+        },
+        {
+          "i": 4,
+          "text": "Its rulers learned to make other people live beneath them.",
+          "start": 2085.52,
+          "end": 2090.58,
+          "gap_after": 0.32
+        },
+        {
+          "i": 5,
+          "text": "The shepherds had become dragonlords.",
+          "start": 2090.58,
+          "end": 2093.35,
+          "gap_after": 0.34
+        },
+        {
+          "i": 6,
+          "text": "Next, the legions of Old Ghis would discover what that change meant for the world.",
+          "start": 2093.35,
+          "end": 2099.64,
+          "gap_after": null
+        }
+      ]
+    }
+  ]
+}

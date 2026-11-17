@@ -1,0 +1,1064 @@
+{
+  "film_seconds": 2100.0,
+  "fps": 30,
+  "scene_count": 70,
+  "image_slots": 1050,
+  "narration": {
+    "file": "assets/audio/narration.mp3",
+    "duration": 2100.024
+  },
+  "chapters": [
+    {
+      "num": "I",
+      "title": "The Shepherds and the Mountain",
+      "first_block": 0,
+      "start": 0.0,
+      "track": "ancient-rite.mp3",
+      "offset": 0.0,
+      "volume": 0.2138
+    },
+    {
+      "num": "II",
+      "title": "An Older Darkness",
+      "first_block": 10,
+      "start": 300.0,
+      "track": "night-vigil.mp3",
+      "offset": 0.0,
+      "volume": 0.182
+    },
+    {
+      "num": "III",
+      "title": "The World Before Valyria",
+      "first_block": 20,
+      "start": 600.0,
+      "track": "ancient-winds-part-1.mp3",
+      "offset": 24.0,
+      "volume": 1.3964
+    },
+    {
+      "num": "IV",
+      "title": "Beneath the Fourteen Flames",
+      "first_block": 30,
+      "start": 900.0,
+      "track": "night-vigil.mp3",
+      "offset": 108.0,
+      "volume": 0.1738
+    },
+    {
+      "num": "V",
+      "title": "The First Encounter",
+      "first_block": 41,
+      "start": 1230.0,
+      "track": "mana-two-part-1.mp3",
+      "offset": 0.0,
+      "volume": 0.2884
+    },
+    {
+      "num": "VI",
+      "title": "The Dragonlords",
+      "first_block": 51,
+      "start": 1530.0,
+      "track": "ancient-rite.mp3",
+      "offset": 0.0,
+      "volume": 0.2138
+    },
+    {
+      "num": "VII",
+      "title": "The Price of the Freehold",
+      "first_block": 61,
+      "start": 1830.0,
+      "track": "ancient-winds-part-1.mp3",
+      "offset": 300.0,
+      "volume": 1.3804
+    }
+  ],
+  "bed_levels": {
+    "ch_I.mp3": -16.6,
+    "ch_II.mp3": -15.2,
+    "ch_III.mp3": -32.9,
+    "ch_IV.mp3": -14.8,
+    "ch_V.mp3": -19.2,
+    "ch_VI.mp3": -16.6,
+    "ch_VII.mp3": -32.8
+  },
+  "bed_target_lufs": -30.0,
+  "cards": [
+    {
+      "block": 1,
+      "at": 4.85,
+      "line": "How did the shepherds become dragonlords?",
+      "hold": 5.2,
+      "sfx": "whoosh-cinematic.mp3"
+    },
+    {
+      "block": 2,
+      "at": 0.65,
+      "line": "No chronicle gives us the first shepherd's name.",
+      "hold": 4.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 2,
+      "at": 14.25,
+      "line": "First came discovery. Then the struggle to possess it.",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 3,
+      "at": 0.85,
+      "line": "\u2248 5,000 years before the Conquest",
+      "hold": 5.6,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 3,
+      "at": 16.65,
+      "line": "Beyond those fragile records: the Long Night.",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 4,
+      "at": 1.05,
+      "line": "A world waiting for the dawn",
+      "hold": 5.0,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 5,
+      "at": 1.25,
+      "line": "The Blood Betrayal",
+      "hold": 5.4,
+      "sfx": "impact-bass-2.mp3"
+    },
+    {
+      "block": 6,
+      "at": 1.65,
+      "line": "The continent was not empty.",
+      "hold": 5.4,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 7,
+      "at": 1.05,
+      "line": "Beside the River Ash",
+      "hold": 5.0,
+      "sfx": "metalLatch.ogg"
+    },
+    {
+      "block": 8,
+      "at": 1.05,
+      "line": "The harpy and the thunderbolt",
+      "hold": 5.0,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 9,
+      "at": 1.25,
+      "line": "The lockstep legions",
+      "hold": 5.2,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 11,
+      "at": 0.85,
+      "line": "Before the Doom shattered it",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 12,
+      "at": 1.05,
+      "line": "Ordinary lives beneath extraordinary forces",
+      "hold": 5.2,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 14,
+      "at": 1.25,
+      "line": "Another kind of wealth, under the pasture",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 15,
+      "at": 1.05,
+      "line": "A country within a country",
+      "hold": 5.2,
+      "sfx": "impact-bass-2.mp3"
+    },
+    {
+      "block": 16,
+      "at": 1.05,
+      "line": "Their story began with people, not gods.",
+      "hold": 5.2,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 17,
+      "at": 1.25,
+      "line": "Silver-gold hair, eyes in shades of purple",
+      "hold": 5.0,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 20,
+      "at": 1.25,
+      "line": "A herdsman climbs toward dark rock",
+      "hold": 5.4,
+      "sfx": "whoosh-cinematic.mp3"
+    },
+    {
+      "block": 22,
+      "at": 0.85,
+      "line": "A living creature in its own domain",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 24,
+      "at": 0.85,
+      "line": "A predator they could neither fence out nor handle",
+      "hold": 5.0,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 27,
+      "at": 1.05,
+      "line": "Where had the dragons come from?",
+      "hold": 5.2,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 28,
+      "at": 1.05,
+      "line": "Two moons, and one that cracked like an egg",
+      "hold": 5.0,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 29,
+      "at": 1.05,
+      "line": "Dragon bones far from Valyria",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 31,
+      "at": 0.85,
+      "line": "The secret did not begin with Valyrian shepherds",
+      "hold": 5.4,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 34,
+      "at": 1.05,
+      "line": "The bond is real. Its origins remain unclear.",
+      "hold": 5.2,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 35,
+      "at": 1.05,
+      "line": "Horns that seem as threatening as they are promising",
+      "hold": 4.8,
+      "sfx": "metalLatch.ogg"
+    },
+    {
+      "block": 37,
+      "at": 1.05,
+      "line": "Blood magic, long after the beginnings",
+      "hold": 5.0,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 39,
+      "at": 1.05,
+      "line": "Approach became acceptance.",
+      "hold": 5.0,
+      "sfx": "whoosh-cinematic.mp3"
+    },
+    {
+      "block": 40,
+      "at": 0.85,
+      "line": "The wings open. The ledge falls away.",
+      "hold": 4.4,
+      "sfx": "impact-bass-2.mp3"
+    },
+    {
+      "block": 42,
+      "at": 1.05,
+      "line": "Families who rode dragons",
+      "hold": 5.2,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 44,
+      "at": 1.05,
+      "line": "Close-kin marriage",
+      "hold": 5.2,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 46,
+      "at": 1.05,
+      "line": "No king. Forty families.",
+      "hold": 5.2,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 49,
+      "at": 1.05,
+      "line": "Forty great dragonlord families",
+      "hold": 5.4,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 50,
+      "at": 1.05,
+      "line": "Far from the greatest of that company",
+      "hold": 5.2,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 52,
+      "at": 0.85,
+      "line": "Arts others could not readily reproduce",
+      "hold": 5.2,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 53,
+      "at": 1.05,
+      "line": "Stone shaped as if it were wax",
+      "hold": 4.6,
+      "sfx": "cloth1.ogg"
+    },
+    {
+      "block": 56,
+      "at": 1.05,
+      "line": "Straight, durable, fused stone",
+      "hold": 5.0,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 58,
+      "at": 1.05,
+      "line": "The mines",
+      "hold": 5.2,
+      "sfx": "impact-bass-2.mp3"
+    },
+    {
+      "block": 60,
+      "at": 1.05,
+      "line": "Some rose into the sky. Others were driven underground.",
+      "hold": 5.6,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 62,
+      "at": 0.85,
+      "line": "Both built their greatness through conquest and slavery",
+      "hold": 5.4,
+      "sfx": "whoosh-short.mp3"
+    },
+    {
+      "block": 64,
+      "at": 0.85,
+      "line": "The lockstep legion beside the dragonrider",
+      "hold": 5.0,
+      "sfx": "impact-bass-1.mp3"
+    },
+    {
+      "block": 68,
+      "at": 1.25,
+      "line": "Not a simple ascent from weakness into glory",
+      "hold": 5.4,
+      "sfx": "whoosh-cinematic.mp3"
+    },
+    {
+      "block": 70,
+      "at": 5.85,
+      "line": "The shepherds had become dragonlords.",
+      "hold": 8.0,
+      "sfx": "whoosh-cinematic.mp3"
+    }
+  ],
+  "places": [
+    {
+      "block": 1,
+      "needle": "the Iron Throne",
+      "place": "WESTEROS",
+      "note": "the throne this story begins before"
+    },
+    {
+      "block": 1,
+      "needle": "Aegon Targaryen",
+      "place": "AEGON TARGARYEN",
+      "note": "a conqueror centuries away"
+    },
+    {
+      "block": 1,
+      "needle": "southern Essos",
+      "place": "ESSOS \u2014 SOUTHERN COAST",
+      "note": "the peninsula's continent"
+    },
+    {
+      "block": 3,
+      "needle": "Aegon's Conquest",
+      "place": "THE CONQUEST",
+      "note": "the dating zero point"
+    },
+    {
+      "block": 3,
+      "needle": "the Long Night",
+      "place": "THE LONG NIGHT",
+      "note": "older than the count"
+    },
+    {
+      "block": 4,
+      "needle": "the Rhoyne",
+      "place": "THE RHOYNE",
+      "note": "the river of the first memory"
+    },
+    {
+      "block": 4,
+      "needle": "Mother Rhoyne",
+      "place": "MOTHER RHOYNE",
+      "note": "mother of the river peoples"
+    },
+    {
+      "block": 5,
+      "needle": "the traditions of Yi Ti",
+      "place": "YI TI",
+      "note": "a different account, far east"
+    },
+    {
+      "block": 5,
+      "needle": "the Amethyst Empress",
+      "place": "THE AMETHYST EMPRESS",
+      "note": "murdered by her brother"
+    },
+    {
+      "block": 7,
+      "needle": "Asshai",
+      "place": "ASSHAI",
+      "note": "beside the River Ash"
+    },
+    {
+      "block": 8,
+      "needle": "Old Ghis",
+      "place": "OLD GHIS",
+      "note": "the empire of brick"
+    },
+    {
+      "block": 9,
+      "needle": "Grazdan the Great",
+      "place": "GRAZDAN THE GREAT",
+      "note": "founder of Ghiscari greatness"
+    },
+    {
+      "block": 11,
+      "needle": "the Lands of the Long Summer",
+      "place": "THE LANDS OF THE LONG SUMMER",
+      "note": "the peninsula before the Doom"
+    },
+    {
+      "block": 12,
+      "needle": "the Fourteen Flames",
+      "place": "THE FOURTEEN FLAMES",
+      "note": "the mountains of the peninsula"
+    },
+    {
+      "block": 27,
+      "needle": "Qarth",
+      "place": "QARTH",
+      "note": "a city, and a fable of two moons"
+    },
+    {
+      "block": 29,
+      "needle": "Ib and Sothoryos",
+      "place": "IB \u00b7 SOTHORYOS",
+      "note": "dragon bone far from Valyria"
+    },
+    {
+      "block": 31,
+      "needle": "the Shadow",
+      "place": "THE SHADOW",
+      "note": "an eastern tradition of teachers"
+    },
+    {
+      "block": 35,
+      "needle": "dragonbinding",
+      "place": "DRAGONBINDING",
+      "note": "horns, bands and inscriptions"
+    },
+    {
+      "block": 36,
+      "needle": "the ironborn",
+      "place": "THE IRONBORN",
+      "note": "a horn that kills the man who sounds it"
+    },
+    {
+      "block": 37,
+      "needle": "Septon Barth",
+      "place": "SEPTON BARTH",
+      "note": "blood magic, written much later"
+    },
+    {
+      "block": 39,
+      "needle": "a mountain ledge",
+      "place": "THE FIRST ASCENT",
+      "note": "the imagined threshold"
+    },
+    {
+      "block": 43,
+      "needle": "the dragonlords",
+      "place": "THE DRAGONLORDS",
+      "note": "a caste, not a coronation"
+    },
+    {
+      "block": 44,
+      "needle": "Close-kin marriage",
+      "place": "BLOOD OF THE DRAGON",
+      "note": "a custom, not a proof"
+    },
+    {
+      "block": 46,
+      "needle": "The Freehold",
+      "place": "THE FREEFOLD",
+      "note": "no king, many houses"
+    },
+    {
+      "block": 49,
+      "needle": "Forty great dragonlord families",
+      "place": "40 FAMILIES",
+      "note": "the centre of Valyrian power"
+    },
+    {
+      "block": 50,
+      "needle": "the Targaryens",
+      "place": "HOUSE TARGARYEN",
+      "note": "not the greatest of that company"
+    },
+    {
+      "block": 56,
+      "needle": "Valyrian roads",
+      "place": "THE FUSED-STONE ROADS",
+      "note": "reach made permanent"
+    },
+    {
+      "block": 58,
+      "needle": "the mineral wealth",
+      "place": "GOLD AND SILVER",
+      "note": "the price paid below"
+    },
+    {
+      "block": 64,
+      "needle": "Old Ghis",
+      "place": "OLD GHIS",
+      "note": "the empire across the water"
+    },
+    {
+      "block": 66,
+      "needle": "the lockstep legion",
+      "place": "THE LOCKSTEP LEGIONS",
+      "note": "discipline against wings"
+    },
+    {
+      "block": 70,
+      "needle": "five wars",
+      "place": "THE FIVE WARS",
+      "note": "the next chapter"
+    }
+  ],
+  "sfx": [
+    {
+      "file": "riser.mp3",
+      "start": 1.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 4.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 6.0,
+      "vol": 0.22,
+      "lane": 23
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 6.0,
+      "vol": 0.22,
+      "lane": 24
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 11.49,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 30.65,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 44.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 60.85,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 76.65,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 60.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 78.35,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 91.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 90.18,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 97.37,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 121.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 120.26,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 124.78,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 151.65,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 181.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 180.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 211.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 210.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 241.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 240.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "riser.mp3",
+      "start": 301.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 304.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 314.17,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 331.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 330.14,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 391.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 421.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 451.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 481.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 571.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "riser.mp3",
+      "start": 601.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 604.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 630.85,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 690.85,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 781.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 811.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 841.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 840.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "riser.mp3",
+      "start": 901.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 904.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 905.74,
+      "vol": 0.22,
+      "lane": 23
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 991.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1021.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1020.14,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1050.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 1081.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1082.53,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 1141.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1146.2,
+      "vol": 0.22,
+      "lane": 22
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 1170.85,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "riser.mp3",
+      "start": 1231.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1234.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1260.18,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 1291.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1290.12,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1351.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1353.79,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 1441.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1440.18,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 1471.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1470.14,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "riser.mp3",
+      "start": 1531.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1534.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "cloth1.ogg",
+      "start": 1561.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-short.mp3",
+      "start": 1651.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1652.33,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-2.mp3",
+      "start": 1711.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1710.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1771.05,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "riser.mp3",
+      "start": 1831.2,
+      "vol": 0.26,
+      "lane": 21
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1834.6,
+      "vol": 0.34,
+      "lane": 22
+    },
+    {
+      "file": "impact-bass-1.mp3",
+      "start": 1890.85,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1890.16,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 1950.12,
+      "vol": 0.22,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 2011.25,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "whoosh-cinematic.mp3",
+      "start": 2075.85,
+      "vol": 0.32,
+      "lane": 21
+    },
+    {
+      "file": "metalLatch.ogg",
+      "start": 2070.16,
+      "vol": 0.22,
+      "lane": 21
+    }
+  ]
+}
