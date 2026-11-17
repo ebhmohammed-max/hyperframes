@@ -97,6 +97,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B32 | 309–318 | `1KhQfqrrUM5uEBTz55zm3bWP6mSXMLH4-` | `1peIqGK_ifPAQn6PdvophYo8s9sJ8kmby` |
 | B33 | 319–322 | `1MjX1GML-avH_xCzdJt1SPOdpTOgkSnu3` | `1RFSfr2sHQGKd67ik82dgyMy5izE_czWU` |
 | R1 (redo zip) | 166, 168, 169, 173, 198, 207, 209, 223, 245, 262 | `138jVF2GUbeX54jXheIaG6oPUfw4PFgGE` | `13U5Vc4NuHm8hMAkWq7_mxvT3P9AdS_vK` |
+| R2 (redo zip) | 159, 168, 188, 209, 213, 263, 272, 274, 280, 287 | `1RwfjSKCxwksOe9sF4-3c55gTS3JsB5Cz` | `12w0WU6qifkOUgZRn3RMqA6OPSYqkM_LI` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -415,10 +416,26 @@ Ten made. Looked at all ten at half size; details of 209 and 223 at full size. E
 - Kept with a doubt: 207 and 245 have an African-savanna look (flat-topped thorn trees; 207 has low hills far off); 245 the spear has a broad point; 262 the blocks are quite regular rectangles; 169 the plan is small in the frame.
 - Drive: `EP12_R1_images_redo_166-262.zip` and `EP12_R1_sheet.jpg` uploaded (ids in the table).
 
-Redo list still open (five): 168, 209, 272, 274, 280. Plan: R2 = these five plus five doubtful pictures: 159, 263, 188, 213, 287 (then 317, 151 if a slot is free). Upload `EP12_R2_images_redo_*.zip` in the same turn.
+## R2 (redos 168, 209, 272, 274, 280 and doubtful 159, 263, 188, 213, 287)
+
+Ten made; all ten taken. **The redo list is empty: all 322 pictures are final unless the user asks for changes.** Looked at all ten at half size; 213 against its old version and 272 at full size. Old versions are in `google_drive/ep12_pics/raw_old/` (untracked).
+- 168: two notebooks, a long narrow U and a short wide U, both open at one end, no labels.
+- 209: three men at the rail from directly behind (two in sun hats, one in a wetsuit hood), open sea to a flat horizon, no land.
+- 272: one curved pale shard on a padded cloth, the crew round it from the shoulders down. Film-copy crop (x 0.04–0.96, y 0.08–0.96) removes two chins at the top edge and a thin dark line at the bottom.
+- 274: photoreal wharf; the trader in a plain turban and tunic bargains with a Tamil merchant beside pale jars leaning on a timber rail; no pallets, no bag.
+- 280: three wells with smooth one-piece clay rims on the river bank, a man and a woman drawing water.
+- 159: a low overgrown bank curving round, a small diver with a torch; no wall face.
+- 263: a low rounded overgrown mound with a diver; no ring of stones.
+- 188: the imagined drowned city is now stepped stone terraces among palms under a red sky (no Gothic spires).
+- 213: the writer from behind at the stern, open sea at sunset (the old one was a small figure on a backwater with houseboats).
+- 287: photoreal close view of clay-covered hands shaping a pot rim on the wheel; the old crop was removed.
+- Kept with a doubt: 274 the jars still have short flared necks (they read as tall vases); 213 the man's ear, cheek and stubble show from behind (no eye, nose or mouth); 188 the terraces look Mesoamerican; 272 a small pale mark is stitched on the cloth; 280 the rims are wide and low like big basins.
+- Drive: `EP12_R2_images_redo_159-287.zip` and `EP12_R2_sheet.jpg` uploaded (ids in the table). Restore order: batch zips, then R1, then R2 (168 and 209 are in both; R2 wins).
 
 Edge check over all 322 film copies (`tools/edges.py 1 322`) flags twenty pictures, most of them from the early batches made before the check existed: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105, 230, 236, 248. Look at each (thin black bars or rounded corners need a 2–3 % crop in `shots/crops.json`; dark night scenes are false alarms) before the film render.
 
-After R2: run `tools/edges.py 1 322` and fix flagged film copies (the same twenty are flagged after the restore); then the film steps listed under "Still open" (title picture numbers, end card, listening to the narration, render, `tools/finish.sh`, upload of the film and of one zip with all 322 final pictures).
-
-Next: R2 = redos 168, 209, 272, 274, 280 and doubtful 159, 263, 188, 213, 287.
+Next (no more pictures to make):
+1. Edge pass: look at the twenty flagged film copies and add crops where there are bars or rounded corners.
+2. `film/title.mjs` `const P` still has EP11 picture numbers; `film/end.mjs` uses N11; links `shared/plates`, `shared/vo` are missing; check the subscribe pop-up and hook sounds in `film/gen.mjs`.
+3. Listen to the narration; decide the open script edits (see FACT_SHEET.md and the list in this file); a text change means a new clip and new timings.
+4. Render the film parts, `tools/finish.sh`, upload the film and one zip of all 322 final pictures.
