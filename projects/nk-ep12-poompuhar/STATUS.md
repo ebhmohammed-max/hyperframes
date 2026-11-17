@@ -81,6 +81,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B16 | 150–159 | `16PeGh3TSeFAXvHCqucE9SRhS4gKdQC5y` | `1dgjC0eas4CMT2LWdgx_tWQMuuduegaKo` |
 | B17 | 160–169 | `1031ch4Hb90hEyfgA21SIMO-yV575OSMa` | `1LMNUqUCvW1Go4KiyHW1wj26b2m_TlVy8` |
 | B18 | 170–179 | `1DMi2ovtvA601iX_QxEwnD9pgdkqxmKdY` | `1yAGd-3yHKYhv7YLWYghFkLhIj0UVURbW` |
+| B19 | 180–189 | `19SM43vo3sQsWu-jvZFOoqBvD9XTzl3tU` | `1EmVAM4z0YzSNHyUR4koaHF9GfksKbL71` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -249,6 +250,13 @@ Ten made; nine kept, one for redo. Looked at all ten at half size; the papers in
 - Film-copy crops added in `shots/crops.json`: 177 (dark rounded corners); 179 came with dark bands top and bottom that the trim missed, cropped to x 0.17–0.925, y 0.125–0.88.
 - Kept with a doubt: 170 the tape is a modern yellow pocket tape measure; 179 lamps stand on the wall; 175 and 178 have a kerosene lantern / later-style carved arches in the dark room behind.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173 (seven). Plan: after 180–319 (14 batches of ten) the last turn has 320–322 plus seven free slots, exactly enough. Any further redo needs one more turn.
+## B19 (180–189)
 
-Next: B19 = 180–189 (`tools/pack.py 180 189 19`).
+All ten made and kept. Looked at all ten at half size; the laptop screen and map in 187 at full size (greeked text, an invented island; nothing readable).
+- 180–184 close N06: the sagging delta-mud cutaway, sherd and charcoal in a dish, the empty sample bag, the ridge fading into dark, plain books and video cassettes. 185–189 open N07 (the 2001 visit): the writer on the beach from behind, the film crew loading, the writer's desk, the fantasy drowning city, the mixed dive team with a film camera.
+- Film-copy crop added in `shots/crops.json`: 187 showed the writer's face in profile at the right edge (the line is about a living, named man), cropped to x 0–0.84, y 0.16–1.00 (desk, laptop, hands).
+- Kept with a doubt: 188 the "imagined city" is a European Gothic fantasy city with spires and castles (it is meant as a book-cover fantasy, but it is far from anything Indian); 186 has hills behind the harbour, shows two crew faces in part profile and looks like dusk, not morning; 180 is drawn as a painted block with a dark empty corner at the bottom right; 189 one diver's beard shows under the mask.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173 (seven). Plan: after 190–319 (13 batches of ten) the last turn has 320–322 plus seven free slots, exactly enough. Any further redo needs one more turn.
+
+Next: B20 = 190–199 (`tools/pack.py 190 199 20`).
