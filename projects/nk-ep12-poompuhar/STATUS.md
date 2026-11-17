@@ -91,6 +91,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B26 | 250–259 | `1Z_KtqT-NfirPyUQ0iqkaYeKxV_291y61` | `1IFjqgR-6dIh3RDsIaWKA4ryDWfI-tm8_` |
 | B27 | 260–269 | `1uGMV-Ocdj_ObMMpHnnLG3wFvgQmy8_-U` | `19R4CpUJVWj1sD3TiAsII1tINTQ_kjb8k` |
 | B28 | 270–279 | `1xPLyDrzmqbXZrAOYHLqmThuEPfxd-Kz_` | `1V3EpM5KTP-fmkXG1-yBOMtkxXZV8t48t` |
+| B29 | 280–289 | `1sVUW-5xR07E9hEuNChyZC8gpuEwbp752` | `1AdZ4dpns7k9WDGf6Et7dMZBPC_KDoVYY` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -345,6 +346,16 @@ Ten made; eight kept, two for redo. Looked at all ten at half size; 270, 277 and
 - Prompts used differ from `prompts.json`: jars described as "tall straight-sided torpedo-shaped … with no necks and no handles" (270, 271, 274, 275); 271 "a single mast"; 272, 273, 276 "one … broken jar fragment"; 272 "no faces visible"; 278, 279 "a single one-piece fired-clay ring and not made of bricks".
 - Kept with a doubt: 271 and 275 are in a flatter illustrated style and their jars have short necks (vases, not torpedo jars); 270 has a few necked, lidded jars in the corner; 273 the piece is large, close to the top half of a pot; 277 faint painted marks on the sherd surface; 275 the officer wears an orange robe and turban.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274 (fifteen). Plan: B29 = 280–289 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other eight redos plus two doubtful pictures (first choices: 159, 263; then 188, 213, 151). Any further redo needs a B35, which would also take the remaining doubtful pictures.
+## B29 (280–289)
 
-Next: B29 = 280–289 (`tools/pack.py 280 289 29`). Ring-well rows still to come: 280, 295 (add the one-piece ring wording). Torpedo-jar rows: use the "tall straight-sided torpedo-shaped … no necks, no handles" wording.
+Ten made; nine kept, one for redo. Looked at all ten at half size; 285, 288 and the cropped 287 at full size (marks on the manuscript and brick in 288 are scribbles, nothing readable).
+- Good: 281 (laptop with a buried channel, a hand tracing it; no face, no labels), 282 (sherds in rows on long tables, hands only), 283 (limestone block with a square socket beside a blue-green glazed sherd), 284 (a sherd on a coloured seabed map; no labels), 285 (three finds in a row), 286 (gloved hands taking a scraping into a tube), 287 (potter's hands on the wheel), 288 (manuscript, brick and mask on three cloths from above), 289 (the port in golden light from a watchtower, flat coast). 284–287 close N09; 288–289 open N10.
+- **Redo 280**: the wells along the river came out built of bricks, in a flat illustrated style, although the prompt said one-piece rings and not bricks. New wording describes each lining as a smooth seamless clay tube.
+- Film-copy crop added in `shots/crops.json`: 287 (x 0.22–0.87, y 0.33–0.98): the picture came as a whole potter with black bars top and bottom; the film copy is the close view of hands and pot the shot asked for.
+- Prompts used differ from `prompts.json`: 280 (ring wording), 281 and 282 and 286 (hands only, no face), 284 (map without words), 285 (three small finds named one by one), 289 ("seen from a high watchtower above a flat river-mouth coast with no hills" in place of "from a low hill").
+- Kept with a doubt: 287 is in a heavy painted, comic-like style; 285 the "black-and-red" sherd has a painted geometric pattern and the well-ring piece looks like a pot rim; 283 a flask stands on the table.
+- The port setting has drifted into a flat illustrated style in 274, 275, 280, 287 (289 is fine). For the remaining port rows consider starting the prompt with "Photorealistic".
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Plan: B30 = 290–299, B31 = 300–309, B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other nine redos plus one doubtful picture (159). Any further redo needs a B35, which would also take the remaining doubtful pictures (263, 188, 213, 287, 151).
+
+Next: B30 = 290–299 (`tools/pack.py 290 299 30`). Ring-well row still to come: 295.
