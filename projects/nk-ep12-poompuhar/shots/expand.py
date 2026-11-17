@@ -24,6 +24,9 @@ LOOK = {
  "O": ("setting given in the subject", ""),
 }
 TAIL = "Painted-realism concept art, wide 16:9 cinematic film still filling the whole frame, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+# Added after 159 came out looking like a built wall: used for the U-shape pictures from 160 on.
+RIDGE = "The ridge is a low rounded bank about as high as a man, thickly coated in marine growth, with no cut blocks and no built masonry. "
+RIDGE_SKIP = ("level_rows_hint", "natural_beachrock")
 lines = json.load(open("script/lines.json", encoding="utf8"))
 cap = {(l["clip"], l["q"]): l["cap"] for l in lines}
 counts = json.load(open("shots/counts.json"))
@@ -39,7 +42,7 @@ for raw in open("shots/shots.txt", encoding="utf8"):
     if "no people" in subj: setting = setting.split(MEN)[0].split(", Indian workers")[0].split(", Indian crew")[0].split(", dark-skinned")[0]
     r_ = {"n": n, "clip": clip, "q": q, "k": per[(clip, q)] - 1, "name": name, "look": look,
           "file": f"EP12_{n:03d}_{clip}q{q:02d}_{name}.jpg",
-          "prompt": f"{subj[0].upper()+subj[1:]}. " + (setting + ". " if setting else "") + TAIL}
+          "prompt": f"{subj[0].upper()+subj[1:]}. " + (RIDGE if look == "U" and "ridge" in subj and n >= 160 and name not in RIDGE_SKIP else "") + (setting + ". " if setting else "") + TAIL}
     if refs: r_["refs"] = refs.split(",")
     rows.append(r_)
 bad = 0

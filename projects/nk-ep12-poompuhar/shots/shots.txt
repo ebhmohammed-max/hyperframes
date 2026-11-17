@@ -171,7 +171,7 @@ N06|9|diver_sketch_slate|U|a diver sketching a horseshoe outline with a pencil o
 N06|9|tape_slack_current|U|a measuring tape lying slack across weed-covered stone in a murky current, poor visibility, no people
 N06|10|diver_lost_in_murk|U|a diver almost lost in thick green murk above the seabed, the torch beam reaching only a metre or two
 N06|11|typed_report_mask|A|a typed research report in a plain card cover on a desk, seen at a steep angle and out of focus so nothing can be read, top of the page out of frame, a diving mask beside it, no people
-N06|11|pencil_unfinished_outline|A|a hand with a pencil stopped above an unfinished sketch of a horseshoe-shaped outline on plain paper, no writing
+N06|11|pencil_unfinished_outline|A|a hand with a pencil stopped above an unfinished survey sketch on plain paper: a rough pencil plan of a U-shaped bank on the seabed, drawn as a thick uneven curved band open at one end with light hatching, a survey plan and not a horse's shoe, one arm left incomplete, no writing
 N06|12|ridge_left_alone|U|the overgrown horseshoe ridge alone on the seabed, fish drifting over it, no people
 N06|13|three_pebbles|X|three smooth sea pebbles placed in a row in the light, no people
 N06|14|natural_beachrock|U|a natural curved ridge of layered beach rock on the seabed, cracked by nature into block-like pieces and overgrown, no people
@@ -208,7 +208,7 @@ N07|11|microliths_in_palm|I|an open dark-skinned palm holding several tiny sharp
 N07|11|hunters_campfire|I|a small band of hunter-gatherers at a camp fire beside a rock shelter, chipping stone tools, simple skin shelters
 N07|11|rock_shelter_ash|I|a low rock shelter with the ash of a fire and scattered stone chips on the floor, no walls, no people
 N07|12|scientists_and_writer_deck|O|two Indian marine archaeologists in plain shirts seen from behind on a boat deck, talking with a European man in a wetsuit seen from behind, open sea, around the year 2001, no logos
-N07|12|clipboard_horseshoe|O|an Indian marine archaeologist seen from behind on a boat deck, pointing with a pen at a pencil sketch of a horseshoe shape on a clipboard, no writing, sea behind
+N07|12|clipboard_horseshoe|O|an Indian marine archaeologist seen from behind on a boat deck, pointing with a pen at a sketch on a clipboard: a rough pencil plan of a U-shaped bank on the seabed, drawn as a thick uneven curved band open at one end with light hatching, a survey plan and not a horse's shoe, no writing, sea behind
 N07|13|interview_tripod|O|a television interview on a boat deck around the year 2001: a video camera on a tripod in the foreground, an Indian scientist seated beyond it out of focus with his face turned away, sea behind, no logos, no lettering
 N07|13|men_hauling_block|O|a painted illustration of how hard it is to move a great stone: many bare-chested men straining at ropes and log rollers under a huge block, dust in hot light, South Indian landscape with palmyra palms
 N07|14|writer_looks_down_water|O|a European writer seen from behind at the stern of an Indian boat at sunset, looking down into the water, no logos
@@ -262,7 +262,7 @@ N09|3|robot_over_seabed|U|a small yellow underwater robot with bright lamps hove
 N09|4|old_chart_and_gps|M|bare hands holding a faded old sea chart with pencil crosses next to a plain handheld GPS unit on a boat's console, no readable lettering
 N09|4|blocks_found_again|U|a diver hovering over scattered dressed stone blocks on the seabed, heavily overgrown, face hidden by mask
 N09|5|oval_mound_diver|U|a low oval-shaped overgrown stone mound on the seabed in dim green water, a diver swimming along its edge, face hidden by mask
-N09|5|laptop_two_shapes|M|a laptop on a boat showing a grey sonar image of a horseshoe shape with a smaller oval beside it, a hand pointing, no lettering
+N09|5|laptop_two_shapes|M|a laptop on a boat showing a grainy grey sonar image of the seabed with a rough U-shaped dark blotch and a smaller oval blotch beside it, a hand pointing, no lettering
 N09|6|boat_monsoon_clouds|M|the dive boat anchored on a calm sea under tall monsoon clouds, a diver's flag buoy floating nearby, no people
 N09|7|coast_two_km|M|view from the dive boat toward the coast two kilometres away, palms and a temple tower clearly visible, no people
 N09|7|divers_grid_frame|U|divers working on a sandy seabed in fairly bright green water, a plain white square grid frame laid on the sand, faces hidden by masks

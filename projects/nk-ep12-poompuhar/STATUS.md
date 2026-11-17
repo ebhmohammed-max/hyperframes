@@ -79,6 +79,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B14 | 130–139 | `176cef6Jd17Yn_M0COybWBNWz7GwbPw8M` | `1wQZVE9IVUi6q_HRGZgmvlquZTH923xr_` |
 | B15 | 140–149 | `1r9Gj-GNotqsdYatewsw7MzCt-eULDj4-` | `1LDIZKebRf2Jp_wzRkr-tRnhVPH1VtzGH` |
 | B16 | 150–159 | `16PeGh3TSeFAXvHCqucE9SRhS4gKdQC5y` | `1dgjC0eas4CMT2LWdgx_tWQMuuduegaKo` |
+| B17 | 160–169 | `1031ch4Hb90hEyfgA21SIMO-yV575OSMa` | `1LMNUqUCvW1Go4KiyHW1wj26b2m_TlVy8` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -227,6 +228,18 @@ All ten made and kept. Looked at all ten at half size; the logbook and wall maps
 - 153: the logbook pages are scribble, not readable; two small blurred wall maps at the top right (one vaguely like the subcontinent) were left in.
 - Kept with a doubt: **159** the curved ridge reads as a rough stone wall about as tall as the diver and only some 20 m across (rule: low overgrown ridge, never clear walls; the reported height is 1–2 m, the length 85 m) — compare with the later U-shape pictures before the film is cut; 151 the "faint curved shape" looks like a small object, not a large ridge, and is in an inked style; 150 and 152 show a rusty trawler-like ship, 120 showed a white research vessel; 157 the sailor's face shows in part profile.
 
-Redo list so far: 026, 028, 050.
+## B17 (160–169)
 
-Next: B17 = 160–169 (`tools/pack.py 160 169 17`).
+Prompt changes before and after this batch (all in the repo, `prompts.json` and `SHOTLIST.md` regenerated):
+- `shots/expand.py`: U-shape pictures from 160 on (underwater rows whose subject says "ridge", except `level_rows_hint` and `natural_beachrock`) get the sentence "The ridge is a low rounded bank about as high as a man, thickly coated in marine growth, with no cut blocks and no built masonry." (159 looked like a built wall.)
+- `shots/shots.txt`: rows 174, 211, 265 no longer say "horseshoe"; the sketches are described as a survey plan of a U-shaped bank, "not a horse's shoe" (168, 169 came out as iron horseshoes).
+
+Ten made; seven kept, three for redo. Looked at all ten at half size; the sketches in 168, 169 at full size.
+- Good: 160 (two divers with a tape), 161 (whole U-shape from above with a tiny diver), 162 (diver and scale pole beside it), 163 (compass), 164 (two unequal arms), 165 (marine growth close up), 167 (hand fanning silt). The ridge is a low, rounded, overgrown bank in all of them: the new sentence works.
+- **Redo 166**: the "level rows" are three clean flat steps like a staircase. **Redo 168, 169**: the sketches are drawings of an iron horse's shoe with nail holes. New wording for all three is in `shots/redo.txt`.
+- Film-copy crops added in `shots/crops.json`: 163, 166, 168 had a black bar or dark rounded frame.
+- Kept with a doubt: 161 the U-shape looks about 25 m across against the diver, the script says 85 m; 163 has colourful growth close to coral.
+
+Redo list so far: 026, 028, 050, 166, 168, 169. Plan: after 170–319 (15 batches of ten) the last turn has 320–322 plus seven free slots, enough for these six. One more redo fits; beyond that the redo pass needs its own turn.
+
+Next: B18 = 170–179 (`tools/pack.py 170 179 18`).
