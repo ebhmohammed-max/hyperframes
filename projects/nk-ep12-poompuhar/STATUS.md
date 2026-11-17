@@ -432,10 +432,11 @@ Ten made; all ten taken. **The redo list is empty: all 322 pictures are final un
 - Kept with a doubt: 274 the jars still have short flared necks (they read as tall vases); 213 the man's ear, cheek and stubble show from behind (no eye, nose or mouth); 188 the terraces look Mesoamerican; 272 a small pale mark is stitched on the cloth; 280 the rims are wide and low like big basins.
 - Drive: `EP12_R2_images_redo_159-287.zip` and `EP12_R2_sheet.jpg` uploaded (ids in the table). Restore order: batch zips, then R1, then R2 (168 and 209 are in both; R2 wins).
 
-Edge check over all 322 film copies (`tools/edges.py 1 322`) flags twenty pictures, most of them from the early batches made before the check existed: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105, 230, 236, 248. Look at each (thin black bars or rounded corners need a 2–3 % crop in `shots/crops.json`; dark night scenes are false alarms) before the film render.
+## Edge pass (done with R2)
+
+`tools/edges.py 1 322` flagged twenty film copies, most from the early batches made before the check existed. Seventeen had a thin dark line at the top or bottom or rounded film-frame corners: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105. Each got a 3.5 % inset crop in `shots/crops.json`; all seventeen were looked at afterwards and are clean. Still flagged and left alone because the dark edge is part of the picture: 064 (dark desk edge), 168 (dark room corners), 230, 236, 248.
 
 Next (no more pictures to make):
-1. Edge pass: look at the twenty flagged film copies and add crops where there are bars or rounded corners.
-2. `film/title.mjs` `const P` still has EP11 picture numbers; `film/end.mjs` uses N11; links `shared/plates`, `shared/vo` are missing; check the subscribe pop-up and hook sounds in `film/gen.mjs`.
-3. Listen to the narration; decide the open script edits (see FACT_SHEET.md and the list in this file); a text change means a new clip and new timings.
-4. Render the film parts, `tools/finish.sh`, upload the film and one zip of all 322 final pictures.
+1. `film/title.mjs` `const P` still has EP11 picture numbers; `film/end.mjs` uses N11; links `shared/plates`, `shared/vo` are missing; check the subscribe pop-up and hook sounds in `film/gen.mjs`.
+2. Listen to the narration; decide the open script edits (see FACT_SHEET.md and the list in this file); a text change means a new clip and new timings.
+3. Render the film parts, `tools/finish.sh`, upload the film and one zip of all 322 final pictures.
