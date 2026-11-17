@@ -75,6 +75,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B10 | 091–099 (nine; 100 failed) | `1Z4n74SyJNem50hEJOK67ePrRtO0tteUn` | `1oDQSSjHq4g1_V2TvBMziVWM1DBrOaEIx` |
 | B11 | 100–109 | `1n9NjrZvKiD8fcq5yT2R4pWidIYigSyKj` | `1pVQ4li46fCtdi6I2arBxOAdIvD_W9znz` |
 | B12 | 110–119 | `1QUOpB2EOr0DOoQ65jGXzY70gHXWl9Gpz` | `1imGtPIkP5FD5UkOpdyWoy0YqP8EEbQW9` |
+| B13 | 120–129 | `14oujaSHPREOsEs3cmR10rK4y_5e5h149` | `1bbvwE_TUGJLnZhOJbpIvFHW7-pAqh-yV` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -188,6 +189,16 @@ All ten made and kept. Looked at all ten at half size.
 - Film-copy crops added in `shots/crops.json`: 113 showed part of a present-day man's face at the right edge; 117 had black bars top and bottom.
 - Kept with a doubt: 114 has a tall, heavily carved temple gateway of a later style than the period meant, and is in the flatter illustrated style; 110 the small shrine is very ornate for the 7th century; 117 the ruined walls in the distance look like a European castle ruin; 119 has hills behind the coast (this coast is flat delta) and film scratches at the right edge; 118 the diver is shown already in the water beside the boat.
 
+## B13 (120–129)
+
+Prompt change before this batch: the two "survey at sea" settings in `shots/expand.py` (1990 and present day) now say "the shore a flat low line of palms with no hills or mountains" (119 had hills). `prompts.json` and `SHOTLIST.md` regenerated; 37 rows changed, so the recorded prompts for 006, 025, 027, 118, 119 carry a sentence that was not in the prompt actually used.
+
+All ten made and kept. Looked at all ten at half size; the chart in 122 and the ship in 120 at full size (no readable writing; 120 flies a small Indian flag).
+- 120–123: the survey ship, the institute in Goa, the team with a chart, the senior archaeologist; 124: divers at the Gujarat site; 125–127, 129: brickwork and ring wells in the surf; 128: a well in use in ancient times.
+- The coast is flat in 120, 122, 123: the new wording works.
+- Film-copy crop added in `shots/crops.json`: 124 had a dark rounded frame. 120 came letterboxed (1376×581 after trimming), so its film copy is enlarged more than usual.
+- Kept with a doubt: 127 and 128 show wells built of bricks, not the stacked terracotta rings meant (126 and 129 are right); 128 also has a wooden pulley frame and is in the flatter illustrated style; 123 the senior archaeologist is seen from behind but a grey-bearded cheek shows beside the binoculars (the line is about a real, named man); 121 the institute looks old and run-down; 124 is in a comic-book style.
+
 Redo list so far: 026, 028, 050.
 
-Next: B13 = 120–129 (`tools/pack.py 120 129 13`).
+Next: B14 = 130–139 (`tools/pack.py 130 139 14`).
