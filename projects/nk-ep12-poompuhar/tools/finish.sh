@@ -1,7 +1,7 @@
 #!/bin/bash
 # Join, level and package the film once every clip is in out/renders/.
 #   bash tools/finish.sh parts   → out/deliver/EP12_1080p_NN_<slug>.mp4, ten parts (picture untouched, sound levelled)
-#   bash tools/finish.sh 720     → out/deliver/EP12_Poompuhar_full_720p.mp4 (one file under 100 MB)
+#   VB=690k bash tools/finish.sh 720   → out/deliver/EP12_Poompuhar_full_720p.mp4 (one file under 100 MB; 690k fits 16 min)
 # One gain for the whole film (measured on the joined sound, target -14 LUFS, peaks limited), so every part matches.
 set -e
 . /tmp/hfenv.sh
@@ -31,6 +31,10 @@ parts)
     cs=${x%%:*}; s=${x##*:}; i=$((i+1)); o=$(printf "out/deliver/EP12_1080p_%02d_%s.mp4" $i $s)
     : > out/deliver/part.txt; for c in ${cs//+/ }; do echo "file '../renders/$c.mp4'" >> out/deliver/part.txt; done
     ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i out/deliver/part.txt -c:v copy -af "$AF" -c:a aac -b:a 192k -ar 48000 -movflags +faststart $o
+    # the Drive upload takes at most 100 MB per file: a larger part is compressed again (x264 crf 20), sound untouched
+    if [ $(stat -c %s $o) -gt 100000000 ]; then
+      ffmpeg -hide_banner -loglevel error -y -i $o -c:v libx264 -preset medium -crf 20 -pix_fmt yuv420p -c:a copy -movflags +faststart out/deliver/fit.mp4 && mv out/deliver/fit.mp4 $o
+    fi
     echo "$o $(stat -c %s $o) $(ffprobe -v error -show_entries format=duration -of csv=p=0 $o)"
   done ;;
 720)

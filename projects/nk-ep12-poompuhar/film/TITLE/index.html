@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ta">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>EP12 title</title>
+    <script src="assets/vendor/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+      #root { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="12" data-width="1920" data-height="1080">
+      <div
+        id="ttl"
+        data-composition-id="ttl"
+        data-composition-src="compositions/ttl.html"
+        data-start="0"
+        data-duration="12"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 1"
+      ></div>
+      <audio id="fx1-impact-bass-1" class="clip" src="assets/sfx/impact-bass-1.mp3" data-start="0.11" data-duration="2.1" data-track-index="2" data-volume="0.22"></audio>
+      <audio id="fx2-whoosh" class="clip" src="assets/sfx/whoosh.mp3" data-start="2.821" data-duration="0.57" data-track-index="3" data-volume="0.14"></audio>
+      <audio id="fx3-whoosh-cinematic" class="clip" src="assets/sfx/whoosh-cinematic.mp3" data-start="3.733" data-duration="4.4" data-track-index="4" data-volume="0.2"></audio>
+      <audio id="fx4-impact-bass-2" class="clip" src="assets/sfx/impact-bass-2.mp3" data-start="6.203" data-duration="2.59" data-track-index="5" data-volume="0.36"></audio>
+      <audio id="fx5-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="7.171" data-duration="0.57" data-track-index="6" data-volume="0.1"></audio>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = gsap.timeline({ paused: true });
+    </script>
+  </body>
+</html>

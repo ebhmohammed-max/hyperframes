@@ -57,9 +57,9 @@ const MOVES = [
 
 // Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line)]
 const HOOK_FX = [
-  [0, "impact-bass-1", 0.34, "start"], [4, "whoosh", 0.22, "start"], [7, "whoosh-cinematic", 0.2, "start"],
+  [0, "impact-bass-1", 0.34, "start"], [4, "whoosh", 0.22, "start"], [6, "whoosh-cinematic", 0.2, "start"],
   [10, "riser", 0.2, "start"], [10, "impact-bass-2", 0.36, "start"], [11, "impact-bass-1", 0.26, "start"],
-  [13, "impact-bass-2", 0.3, "last"], [18, "whoosh", 0.2, "start"],
+  [13, "impact-bass-2", 0.3, "start"], [16, "whoosh", 0.2, "start"],
 ];
 
 export function build(cid, opt = {}) {

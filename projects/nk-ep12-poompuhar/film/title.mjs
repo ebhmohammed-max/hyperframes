@@ -1,4 +1,4 @@
-// Title sequence (12 s, no voice, no numbers): crown → the prince → the empty throne with the title.
+// Title sequence (12 s, no voice, no numbers): the port at sunset → waves over the ruins → the diver's torch in the dark, with the title.
 //   node film/title.mjs → film/TITLE/
 import { mkdirSync, writeFileSync, symlinkSync, rmSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -11,9 +11,9 @@ const C = { gold: "#f3d48a", cream: "#f6efdc", ink: "#070a18" };
 const D = 12, T = 6.2; // length, title reveal
 // [plate, in, out, transform-origin, from [scale,x,y], to [scale,x,y]]
 const P = [
-  ["002", 0, 3.5, "42% 70%", [1.08, 0, 0], [1.2, 0, 0]],
-  ["298", 2.9, 6.3, "50% 35%", [1.2, 0, 10], [1.08, 0, 0]],
-  ["026", 5.7, D, "38% 52%", [1.05, 0, 0], [1.16, 0, 0]],
+  ["320", 0, 3.5, "40% 55%", [1.08, 0, 0], [1.2, 0, 0]],
+  ["009", 2.9, 6.3, "42% 58%", [1.2, 0, 10], [1.08, 0, 0]],
+  ["021", 5.7, D, "46% 50%", [1.05, 0, 0], [1.16, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
 
@@ -57,7 +57,7 @@ P.forEach(([n, a, b, o, f, t], i) => {
 });
 js += `${G.js}      tl.fromTo("#t-pre-in", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0.8);
       tl.to("#t-pre-in", { opacity: 0, duration: 0.4, ease: "power2.in" }, 2.8);
-      tl.to("#t-shade", { opacity: 1, duration: 0.7, ease: "power2.out" }, ${r(T - 0.25)});
+      tl.to("#t-shade", { opacity: 0.6, duration: 0.7, ease: "power2.out" }, ${r(T - 0.25)});
       tl.fromTo("#t-name", { opacity: 0, scale: 1.12, filter: "blur(14px)" }, { opacity: 1, scale: 1, filter: "blur(0px)", duration: 0.7, ease: "expo.out" }, ${T});
       tl.to("#t-name", { scale: 1.035, duration: ${r(D - T - 0.7)}, ease: "none" }, ${r(T + 0.7)});
       tl.fromTo("#t-r1", { opacity: 0, scaleX: 0 }, { opacity: 0.85, scaleX: 1, duration: 0.7, ease: "expo.out" }, ${r(T + 0.15)});

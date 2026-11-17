@@ -436,7 +436,37 @@ Ten made; all ten taken. **The redo list is empty: all 322 pictures are final un
 
 `tools/edges.py 1 322` flagged twenty film copies, most from the early batches made before the check existed. Seventeen had a thin dark line at the top or bottom or rounded film-frame corners: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105. Each got a 3.5 % inset crop in `shots/crops.json`; all seventeen were looked at afterwards and are clean. Still flagged and left alone because the dark edge is part of the picture: 064 (dark desk edge), 168 (dark room corners), 230, 236, 248.
 
-Next (no more pictures to make):
-1. `film/title.mjs` `const P` still has EP11 picture numbers; `film/end.mjs` uses N11; links `shared/plates`, `shared/vo` are missing; check the subscribe pop-up and hook sounds in `film/gen.mjs`.
-2. Listen to the narration; decide the open script edits (see FACT_SHEET.md and the list in this file); a text change means a new clip and new timings.
-3. Render the film parts, `tools/finish.sh`, upload the film and one zip of all 322 final pictures.
+## Film v1 built and delivered (17 Nov)
+
+Setup: `shared/vo` → `../narration`, `shared/plates` → `../out/img` (`tools/render.sh` makes both links).
+- `film/title.mjs`: plates 320 (port at sunset) → 009 (waves over the ruins) → 021 (diver's torch) with the title; shade behind the title lightened to 0.6.
+- `film/gen.mjs`: hook effects moved to the EP12 lines (q0, 4, 6, 10, 10, 11, 13, 16); subscribe pop-up stays at N02 line 5 (top right, clear of the tag pill).
+- `tools/render.sh`: render queue, `hyperframes render --quality looks --crf 18`; about 9–11 min per chapter on 2 CPUs, 95 min for everything.
+- `tools/finish.sh parts`: measured −16.54 LUFS → +2.54 dB, limiter 0.8. Parts over 100 MB (02, 04, 10) are compressed again with x264 crf 20 because the Drive upload stops at 100 MB.
+- `VB=690k bash tools/finish.sh 720`: 95.2 MB, 955.7 s (15 min 56 s), −14.3 LUFS, peak −1.4 dB.
+- Narration loudness: N01–N10 all −19.4 LUFS (N11 −18.0). Nobody has listened to it.
+- Frames looked at: title, hook, chapter 1 with the pop-up, cards 02–05 and 09, tags, end card. The film has not been watched from start to end.
+
+Drive, `EP12_Poompuhar`:
+- `EP12_Poompuhar_full_720p.mp4` `1LyQ_uXZHiSmHkzW8Uziio5tlNplgawnW`
+- folder `final_video_v1` `1rEUPPw3qrhyTm062Ng1o5xr6duZ2nqN3`, 1080p parts:
+  - 01 hook + title `1Wxh3jVWfb0pNv3WdcmmM8kQt0EMg6g_n`
+  - 02 ch1 `15o6-9JuwsoZxRc6zD25TUsaKERjdaR69`
+  - 03 ch2 `14oZE1MuMAsu30aQR5Ur2_jPcOUuk8J4z`
+  - 04 ch3 `1HqeDplNLtwwN-2Jw002B50pHjKZ43EGR`
+  - 05 ch4 `1cQBr8yvfKBKKInrPdXOPwuHo6198rbJu`
+  - 06 ch5 `1EYXsjZQN7Z00I3qq7cpVCjYIUadQ5dDN`
+  - 07 ch6 `1bD_XKIbXtsELAlfJOzhgy0eHlLp_7hFT`
+  - 08 ch7 `1VdMps0ToaI0LPmDnfBYSae0I6v2G2pjb`
+  - 09 ch8 `1w6ISLfswfk-xTeM20ARM5kgE0iInUzDE`
+  - 10 ch9 + end card `1ZrrGgHaKYWUNtzfA9xudLScZxkFsDTz1`
+- `images/EP12_all_322_images_final.zip` `1okSrQLYW4QY_NhhFxdt87X1LqsvtXrn6` (66 MB, every final picture in running order)
+
+Not kept locally between sessions: `out/renders`, `out/deliver`. Rebuild: `bash tools/setup.sh`, narration and pictures from Drive, `bash tools/restore.sh`,
+`node film/gen.mjs N01 … N10 && node film/title.mjs && node film/end.mjs`, `bash tools/render.sh`, `bash tools/finish.sh parts`, `VB=690k bash tools/finish.sh 720`.
+
+## Still open after v1
+
+- Final voice (the narration is the `voice-02` scratch read), music bed, a native Tamil read-through of script and titles.
+- Script points never decided, all left in: "foreign TV channels paid" (N07 q2) and N07 q12–13 (unverified Hancock lines); N09 q11 could be softer; N10 q4 "கிணறு, செங்கல், பானை"; N08 q12 tag O. A text change means a new clip, new timings and a new render of that chapter.
+- Pictures kept with doubts: see the R1, R2 and batch sections.
