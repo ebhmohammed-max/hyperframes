@@ -115,7 +115,7 @@ N05|1|mandodari_runs_gate|W@mandodari|a queen running barefoot out of a city gat
 N05|2|mandodari_kneels_beside|W@mandodari|a queen kneeling beside a fallen king in bronze armour who lies as if asleep, only his arm and breastplate in frame
 N05|2|mandodari_tears_firm|W@mandodari|close view of a queen's face with tears on her cheeks but a firm steady gaze, red sky behind her
 N05|3|indra_bows_memory|O@ravana|a memory scene in pale gold haze: a proud king on a throne while a crowned sky-king holding a thunderbolt stands before him with head lowered
-N05|4|vanara_bridge_sea|O|a long causeway of rocks and tree trunks stretching across a blue sea toward a far island, thousands of tiny monkey-shaped figures carrying stones, seen from high above
+N05|4|vanara_bridge_sea|O|a long causeway of rocks and tree trunks stretching across a blue sea toward a far island, thousands of tiny upright figures of the vanara army, tall warriors with tails, carrying stones, seen from high above
 N05|4|archer_back_shore|O|a tall archer in bark cloth with his hair in a topknot standing on a shore, seen from behind, a bow on his shoulder, looking across the sea in soft dawn light
 N05|5|leaf_near_flame|M|a single palm leaf held near a lamp flame, faint illegible marks, the shadow of a hand
 N05|6|young_ravana_meditation|H@ravana|a young ascetic with matted hair seated in perfect stillness in deep meditation on a rock, eyes closed, calm
