@@ -76,6 +76,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B11 | 100–109 | `1n9NjrZvKiD8fcq5yT2R4pWidIYigSyKj` | `1pVQ4li46fCtdi6I2arBxOAdIvD_W9znz` |
 | B12 | 110–119 | `1QUOpB2EOr0DOoQ65jGXzY70gHXWl9Gpz` | `1imGtPIkP5FD5UkOpdyWoy0YqP8EEbQW9` |
 | B13 | 120–129 | `14oujaSHPREOsEs3cmR10rK4y_5e5h149` | `1bbvwE_TUGJLnZhOJbpIvFHW7-pAqh-yV` |
+| B14 | 130–139 | `176cef6Jd17Yn_M0COybWBNWz7GwbPw8M` | `1wQZVE9IVUi6q_HRGZgmvlquZTH923xr_` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -199,6 +200,13 @@ All ten made and kept. Looked at all ten at half size; the chart in 122 and the 
 - Film-copy crop added in `shots/crops.json`: 124 had a dark rounded frame. 120 came letterboxed (1376×581 after trimming), so its film copy is enlarged more than usual.
 - Kept with a doubt: 127 and 128 show wells built of bricks, not the stacked terracotta rings meant (126 and 129 are right); 128 also has a wooden pulley frame and is in the flatter illustrated style; 123 the senior archaeologist is seen from behind but a grey-bearded cheek shows beside the binoculars (the line is about a real, named man); 121 the institute looks old and run-down; 124 is in a comic-book style.
 
+## B14 (130–139)
+
+All ten made and kept. Looked at all ten at half size.
+- 130: wall and jar rim on the foreshore; 131–135: the shallow dives (divers, river mouth with a dive-flag buoy, dressed blocks, the half-round block with a notch, a sherd lifted from the sand); 136, 137: sherds sorted on deck and under a magnifier; 138: a potter in ancient times; 139: the chart recorder.
+- Film-copy crops added in `shots/crops.json`: 136 and 137 had a dark rounded frame.
+- Kept with a doubt: 131, 134, 135 show corals and reef growth on the seabed (the real bed here is sand and mud); 133 one block seems to carry a faint carved panel; 135 the "sherd" is a large piece of a pot; 137 the sherd has scratched lines that could be taken for marks (not readable); 131 is in an inked comic style and 138 in the flatter illustrated style.
+
 Redo list so far: 026, 028, 050.
 
-Next: B14 = 130–139 (`tools/pack.py 130 139 14`).
+Next: B15 = 140–149 (`tools/pack.py 140 149 15`).
