@@ -87,6 +87,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B22 | 210–219 | `1T4dnP6-B9FNDrgLCOvG29qTPBgg7V3ee` | `1dA72nB2__MeeEemy5PHJlCpTh0nmuLJX` |
 | B23 | 220–229 | `1Ym01E3tdUHnBzELH28jz0t57kKKkYS6B` | `1wgEvpN3gt9Em7sh7U33miB6ciBM7ONvh` |
 | B24 | 230–239 | `17aGptkdBsIDbWW3sQlK2wX__X4uMLzp-` | `1pYHV12_tLrkXHvNuQsuZZhP3Bm3siD3k` |
+| B25 | 240–249 | `1ow4JHPeYa0a1OLsS9uM9bsXz2xA0BOjc` | `1p_h6vKkedCBzrve37ATq9mzfl12nb0VK` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -305,6 +306,15 @@ All ten made and kept. Looked at all ten at half size; corners of 234 and the cr
 - Film-copy crops added in `shots/crops.json`: 232 (3.5% inset; rounded film frame), 234 (2.5% inset; dark rounded top corners).
 - Kept with a doubt: 230 the imagined harbour is drawn as a European-looking port town with towers and bridges (it is meant as "only a sketch"); 236 the dashed line runs only along the east coast; 238 the tubes look frosted, not clearly empty; 234 flat-topped acacias again.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223 (eleven). Plan: B25 = 240–249 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+## B25 (240–249)
 
-Next: B25 = 240–249 (`tools/pack.py 240 249 25`).
+Ten made; nine kept, one for redo. Looked at all ten at half size; the newspapers in 240 and 241, the spear in 242, the canoe in 245 and the corners of 248 at full size (newsprint and masthead are blurred, nothing readable).
+- Good: 240 (three archaeologists from behind over sherds, one with a newspaper), 241 (folded newspaper, spectacles, trowel), 242 (hunter in grass, spear tipped with small stone barbs, deer far off), 243 (tiny blades beside ash), 244 (dream image of an empty stone harbour in mist), 246 (natural seabed ridges and channels from above), 247 (bare hand on rough stone, torch), 248 (crew lowering a coring tube), 249 (villagers from behind at sunset).
+- **Redo 245**: a modern leather handbag sits in the middle of the dugout canoe. New wording: only a fibre net and a wooden spear in the canoe, no bags.
+- Film-copy crops added in `shots/crops.json`: 243 (3.5% inset; rounded film frame), 246 (3% inset; dark frame).
+- Prompts used differ slightly from `prompts.json`: 240 said "seen from directly behind, no faces visible"; 249 said "warm sunset light" in place of "soft morning light".
+- Kept with a doubt: 240 the left man's face shows in shadowed part profile, and the newspaper is held open, not folded; 244 the dream harbour looks like a medieval European stone dock with chains; 243 is in a flatter illustrated style; 247 the hand wears a ring; 245 also has hills behind the lagoon.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245 (twelve). Plan: B26 = 250–259 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+
+Next: B26 = 250–259 (`tools/pack.py 250 259 26`).
