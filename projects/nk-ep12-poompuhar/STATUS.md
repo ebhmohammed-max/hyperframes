@@ -82,6 +82,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B17 | 160–169 | `1031ch4Hb90hEyfgA21SIMO-yV575OSMa` | `1LMNUqUCvW1Go4KiyHW1wj26b2m_TlVy8` |
 | B18 | 170–179 | `1DMi2ovtvA601iX_QxEwnD9pgdkqxmKdY` | `1yAGd-3yHKYhv7YLWYghFkLhIj0UVURbW` |
 | B19 | 180–189 | `19SM43vo3sQsWu-jvZFOoqBvD9XTzl3tU` | `1EmVAM4z0YzSNHyUR4koaHF9GfksKbL71` |
+| B20 | 190–199 | `1D5WWiPPGYrDBK6MEkDMkK-7SGzaaVUvv` | `1BB5zLZnmN5EZRQosmKFUG0gt-2V_KCOn` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -257,6 +258,14 @@ All ten made and kept. Looked at all ten at half size; the laptop screen and map
 - Film-copy crop added in `shots/crops.json`: 187 showed the writer's face in profile at the right edge (the line is about a living, named man), cropped to x 0–0.84, y 0.16–1.00 (desk, laptop, hands).
 - Kept with a doubt: 188 the "imagined city" is a European Gothic fantasy city with spires and castles (it is meant as a book-cover fantasy, but it is far from anything Indian); 186 has hills behind the harbour, shows two crew faces in part profile and looks like dusk, not morning; 180 is drawn as a painted block with a dark empty corner at the bottom right; 189 one diver's beard shows under the mask.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173 (seven). Plan: after 190–319 (13 batches of ten) the last turn has 320–322 plus seven free slots, exactly enough. Any further redo needs one more turn.
+## B20 (190–199)
 
-Next: B20 = 190–199 (`tools/pack.py 190 199 20`).
+Ten made; nine kept, one for redo. Looked at all ten at half size; 191 shelves and 197 figures at full size (shelf labels are scribbles, nothing readable; no face shows in 197).
+- Good: 190 (film lights on the low ridge), 191 (geologist's office, man from behind), 192 (monitor: southern India with a pale band of extra land, no labels), 193 (ice sheet calving), 194 (sea creeping over a plain, drowned trees), 195 (dry plain with a low rock ridge, sea far off), 196 (the same ridge drowned), 197 (writer in a wetsuit filmed on deck, both from behind), 199 (pot with three holes).
+- **Redo 198**: the "fantasy builders" came out as fur-clad people raising tall standing stones under snowy cliffs. Wrong for a warm South Indian shore and unlike the low ridge. New wording in `shots/redo.txt` (cloth wraps, palms, a low U-shaped bank, no snow, no furs, no standing stones). The prompt used said "a large U-shaped curved row of rough stones" in place of "a horseshoe of rough stones"; `shots/shots.txt` now says the same.
+- Film-copy crop added in `shots/crops.json`: 191 (3% inset; pale frame line at top and left).
+- Kept with a doubt: 191 the map on the monitor is a green coast that looks like eastern England, not India (192 right after shows India); 194 has low hills on the horizon; 195 the ridge is a rocky hill, larger than "low"; 193 mountains behind the ice.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198 (eight). Plan: B21 = 200–209 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the remaining redo(s). B34 has free slots, so pictures kept with a doubt can be redone there too (first choices: 159, 188, 151).
+
+Next: B21 = 200–209 (`tools/pack.py 200 209 21`).

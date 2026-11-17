@@ -196,7 +196,7 @@ N07|4|sea_creeping_plain|I|the sea creeping across a low coastal plain, drowned 
 N07|5|dry_plain_low_ridge|I|a wide dry coastal plain with a low curved rock ridge on it, the sea far away on the horizon, no people
 N07|5|same_ridge_drowned|U|a low curved overgrown ridge deep underwater in dim green light, no people
 N07|6|writer_filmed_deck|O|a European writer in a wetsuit seen from behind on an Indian boat deck, gesturing toward the open sea while a television cameraman seen from behind films him, around the year 2001, no logos
-N07|6|fantasy_builders|O|painted as a fantasy book illustration, deliberately dreamlike and unreal: Ice Age people raising a horseshoe of rough stones on a misty shore, soft glowing haze, figures small and indistinct
+N07|6|fantasy_builders|O|painted as a fantasy book illustration, deliberately dreamlike and unreal: Ice Age people raising a large U-shaped curved row of rough stones on a misty shore, soft glowing haze, figures small and indistinct
 N07|7|pot_three_holes|X|an old clay water pot with three small holes in its side, thin streams of water running out onto the table, no people
 N07|8|stone_or_growth|U|close view of the overgrown ridge where it is impossible to tell stone from growth, a torch beam on it, no people
 N07|9|delta_aerial_channels|T|aerial view of a green river delta with many winding channels and soft muddy banks reaching the sea, no people
