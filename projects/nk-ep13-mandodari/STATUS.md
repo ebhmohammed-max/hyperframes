@@ -35,6 +35,10 @@ Topic in the user's words: "Untold story of ravaana and his wife". Shorter film:
 2. After a workspace reset: `git fetch` + fast-forward, `bash tools/setup.sh`, download `EP13_cast.zip` and the batch zips from Drive, `bash tools/restore.sh`.
 3. Film stage, still to adapt from EP12: `film/gen.mjs` (`HOOK_FX` list for the new hook, subscribe pop-up timing in N02, `createdAt`), `film/title.mjs` (the three plates; the title text is already changed), `film/end.mjs` (uses `N08.mp3`; check the sentence timings comment). `tools/render.sh` and `tools/finish.sh` already list N01–N07.
 
+## User correction, 17 Nov
+
+The user sent a reference picture and said the first Hanuman "looks like small monkey". Hanuman is now always shown in full as a tall, mighty, crowned figure (cast key `hanuman`, made from the user's picture, stored as `cast/hanuman_user_ref.jpg`). Rama, Sita, Lakshmana and Shiva are still never shown by face. Pictures 002, 005, 006, 007 were remade; `shots/shots.txt` rows changed to `L@hanuman`.
+
 ## Open points
 
 - Titles and script are drafts; no native Tamil read-through yet.
@@ -45,8 +49,8 @@ Topic in the user's words: "Untold story of ravaana and his wife". Shorter film:
 
 | Batch | Pictures | Drive zip | Notes |
 |---|---|---|---|
-| cast | ravana, mandodari, maya, indrajit | `EP13_cast.zip` `1r-tgA5zX_NpZyBY7aJpQfBMwQItAfuDG`, sheet `1tPhfcagaC884vudSxKXSP6t-AkB4VSCx` | all four accepted |
-| B01 | 001–010 | `1wRBpKKx5Pg2fBla9qYPs60qGfJBUuU87`, sheet `1Be6pB15yWiuabzNyFDR9KWRZ9bVSWnWa` | 005 has black bars (cropped for now) and shows the figure too clearly: in `shots/redo.txt`. 002, 003, 006, 007 edge crops. 009 odd pose, kept. |
+| cast | ravana, mandodari, maya, indrajit, hanuman | `EP13_cast.zip` `1ABYGdNUVcWcv5qNgUMg1oCrS8Ic-m6K4` (v2, with hanuman and the user's reference), Hanuman portrait `1xzVNEbzS0kuIUPoj9yLTHxpGYiVeWF_T`, sheet of the first four `1tPhfcagaC884vudSxKXSP6t-AkB4VSCx` | all accepted |
+| B01 | 001–010 | `1X3gByyGcieCfZM1CmXCX66bTHV9H477y`, sheet `1klRgT21U1TCZsGR9zxHUCtQLYnQEBO_8` (v2; the first versions are in the Drive trash) | 002, 005, 006, 007 remade with the new Hanuman. 003 edge crop. 009 odd pose, kept. |
 
 ## Drive file ids
 

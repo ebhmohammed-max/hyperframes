@@ -45,7 +45,7 @@ for k, v in names.items():
 json.dump(rows, open("shots/prompts.json", "w"), indent=1, ensure_ascii=False)
 md = [f"# EP13 Mandodari: shot list\n\n{len(rows)} images. File names carry the running number, narration clip and line.\n",
       "Rules: illustration of a story told in old texts, not history and not photographs. Ravana, Mandodari, Maya and Indrajit have invented faces, kept consistent with the reference pictures in shots/CAST.md (marked `refs`). Ravana is drawn with one head; the ten heads appear only as a shadow, a statue or a stone relief. "
-      "Rama, Sita, Lakshmana, Hanuman and Shiva are never shown by face: only from behind, far away, as a silhouette, or as a hand or a foot. No blood or wounds. Present-day people are seen from behind or as hands only. No readable writing (all text is set in the edit).\n",
+      "Rama, Sita, Lakshmana and Shiva are never shown by face: only from behind, far away, as a silhouette, or as a hand or a foot. Hanuman is shown in full as a mighty crowned figure, following the reference picture the channel owner supplied (cast key `hanuman`). No blood or wounds. Present-day people are seen from behind or as hands only. No readable writing (all text is set in the edit).\n",
       "Looks: " + "; ".join(f"**{k}** {v[0]}" for k, v in LOOK.items()) + ".\n"]
 cur = None
 for r_ in rows:

@@ -89,6 +89,6 @@ Left out on purpose: the story that she was a frog (or the apsara Madhura) in an
 
 ## Tone
 
-- Rama, Sita, Lakshmana, Hanuman and Shiva are never shown by face in the pictures.
+- Rama, Sita, Lakshmana and Shiva are never shown by face in the pictures. Hanuman is shown in full as a mighty crowned figure, as the channel owner asked.
 - The script calls Ravana's act wrong in Mandodari's own words, and does not judge any living tradition that honours him.
 - "அதிர்ச்சியான" is used twice for the Sita-as-daughter story. If that feels too strong for the channel, change both to "ஆச்சரியமான".

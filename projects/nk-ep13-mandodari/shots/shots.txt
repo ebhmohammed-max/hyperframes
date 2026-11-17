@@ -1,13 +1,13 @@
 # clip|line|name|look[@refs]|subject        (one row per image, in film order)
 # Ravana has ONE head in every scene; ten heads only as a shadow, statue or relief.
-# Rama, Sita, Lakshmana, Hanuman, Shiva: never a face. Behind, far away, silhouette, hand or foot only.
+# Rama, Sita, Lakshmana, Shiva: never a face. Behind, far away, silhouette, hand or foot only. Hanuman is shown in full, like the user's reference (cast key hanuman).
 N01|0|lanka_night_wide|G|wide night view of a golden hill city above a dark sea, hundreds of lamps on its towers and ramparts, a full moon, no people
-N01|1|hanuman_corridor_shadow|L|a long pillared palace corridor at night, the small dark silhouette of a monkey-shaped figure with a long tail slipping between the pillars, seen from behind, face not visible
+N01|1|hanuman_corridor_shadow|L@hanuman|Lord Hanuman, tall and mighty with a muscular body, a noble calm face, a tall gold crown, rudraksha bead garlands, gold armlets, a red silk dhoti and a long tail, walking watchfully down a long pillared palace corridor at night with his golden mace on his shoulder, looking into the rooms as he passes, no other people
 N01|2|royal_bed_wide|L|a great royal bedchamber at night, an ivory and gold bed under sheer curtains with a sleeping queen seen from a distance, lamps burning low
 N01|2|mandodari_asleep|L@mandodari|a queen asleep on silk cushions, calm noble face, gold jewellery catching the lamp light, covered to the shoulders in silk
-N01|3|hanuman_watching_pillar|L|the dark silhouette of a monkey-shaped figure seen from behind, perched at the base of a pillar and looking toward a curtained bed that glows with lamp light
-N01|3|hanuman_leap_joy|L|the dark silhouette of a monkey-shaped figure leaping high up a gold pillar in joy, tail curled, seen from behind against lamp glow
-N01|4|hanuman_still_thinking|L|the dark silhouette of a monkey-shaped figure seen from behind, sitting very still on a window ledge with head bowed in thought, the moon outside
+N01|3|hanuman_watching_pillar|L@hanuman|Lord Hanuman, tall and mighty with a muscular body, a noble calm face, a tall gold crown, rudraksha bead garlands, gold armlets, a red silk dhoti and a long tail, standing half hidden beside a great gold pillar in the foreground, seen from the side, looking toward a curtained royal bed that glows with lamp light in the distance
+N01|3|hanuman_leap_joy|L@hanuman|Lord Hanuman, tall and mighty with a muscular body, a noble calm face, a tall gold crown, rudraksha bead garlands, gold armlets, a red silk dhoti and a long tail, leaping up in joy beside a tall gold pillar with one arm raised high and a glad smile, his tail curled above him, no other people
+N01|4|hanuman_still_thinking|L@hanuman|Lord Hanuman, tall and mighty with a muscular body, a noble calm face, a tall gold crown, rudraksha bead garlands, gold armlets, a red silk dhoti and a long tail, seated on a stone window ledge with his head bowed in deep thought and one hand at his chin, his golden mace resting beside him, the moon outside, no other people
 N01|4|sita_grove_far|A|far away under a tree in a moonlit grove, a lone woman in a plain pale cloth sitting on the ground, seen from behind and small in the frame
 N01|5|curtain_face_half|L@mandodari|close view through a sheer curtain of a sleeping queen's face, half in shadow
 N01|6|mandodari_throne_portrait|L@mandodari|a queen seated upright on a low gold throne, calm and grave, looking straight ahead, small crown and pearl strings
