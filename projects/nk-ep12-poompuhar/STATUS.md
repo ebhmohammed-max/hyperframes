@@ -85,6 +85,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B20 | 190–199 | `1D5WWiPPGYrDBK6MEkDMkK-7SGzaaVUvv` | `1BB5zLZnmN5EZRQosmKFUG0gt-2V_KCOn` |
 | B21 | 200–209 | `1kLp2w1q3e9Xibuhpvl90hM-BBsPKNMfW` | `1NfPMOIIMuSH_SfKp1aF0E0XlKtoENJdr` |
 | B22 | 210–219 | `1T4dnP6-B9FNDrgLCOvG29qTPBgg7V3ee` | `1dA72nB2__MeeEemy5PHJlCpTh0nmuLJX` |
+| B23 | 220–229 | `1Ym01E3tdUHnBzELH28jz0t57kKKkYS6B` | `1wgEvpN3gt9Em7sh7U33miB6ciBM7ONvh` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -287,6 +288,15 @@ All ten made and kept. Looked at all ten at half size; the sketch in 210, the ca
 - Prompts used differ slightly from `prompts.json`: 213 added "his face not visible"; 219 said "fading dusk light" in place of "soft morning light".
 - Kept with a doubt: 213 the writer's bearded jaw shows in shadowed profile, and the boat is a small canoe on a backwater, not a sea boat; 210 the archaeologist is a woman (the script does not say); 211 big ships on the horizon; 212 hills behind.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209 (ten). Plan: B23 = 220–229 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+## B23 (220–229)
 
-Next: B23 = 220–229 (`tools/pack.py 220 229 23`).
+Ten made; nine kept, one for redo. Looked at all ten at half size; the screens in 222 and 228, the notebooks in 229 and the head in 223 at full size (screen menus and handwriting are scribbles, nothing readable).
+- Good: 220 (university building among rain trees, students from behind), 221 (press room from the back, speakers too small to recognise), 222 (lab with four seabed-map monitors), 224 (survey ship in cutaway with a fan of sound beams), 225 (relief map on a monitor), 226 (open sea, no land), 227 (deep, almost black seabed), 228 (straight-edged shapes on a seabed map, a finger tracing), 229 (pen outlining a long rectangle on a printed map).
+- **Redo 223**: the professor's face shows in clear profile; he stands for a real living person. New wording: seen from directly behind, no part of the face.
+- Film-copy crop added in `shots/crops.json`: 224 (3% inset; rounded film frame).
+- Prompt used for 226 dropped the "shore a flat low line of palms" sentence (the subject says no land in sight).
+- Kept with a doubt: 225 the relief map has round craters and looks like a planet's surface more than a seabed; 220 is in a flatter illustrated style; 229 has an old lantern on a modern lab desk; 224 the seabed under the ship is rocky canyon, not flat shelf.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223 (eleven). Plan: B24 = 230–239 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+
+Next: B24 = 230–239 (`tools/pack.py 230 239 24`).
