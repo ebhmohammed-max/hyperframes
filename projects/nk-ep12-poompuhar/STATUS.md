@@ -93,6 +93,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B28 | 270–279 | `1xPLyDrzmqbXZrAOYHLqmThuEPfxd-Kz_` | `1V3EpM5KTP-fmkXG1-yBOMtkxXZV8t48t` |
 | B29 | 280–289 | `1sVUW-5xR07E9hEuNChyZC8gpuEwbp752` | `1AdZ4dpns7k9WDGf6Et7dMZBPC_KDoVYY` |
 | B30 | 290–299 | `1afe9BtKCbcA2hhUI7bAoOcG22jLWzQly` | `1YE3SZ70jHc-Vbd5rEKQxW2m6-IDd2mfk` |
+| B31 | 300–308 | `1PNNhRdvwyjPdWrGUBqZ1VFtkwAu9D4B1` | `1KiCy5OjRZRfcQ4PkzmK8lbneOlMx7l2T` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -365,6 +366,14 @@ Ten made; all ten kept. Looked at all ten at half size, and 290, 291, 292, 294, 
 - Prompts used differ from `prompts.json`: 292 ("soft early dawn light", a long low platform of large flat bricks with post stumps), 293 (rows of small cells only knee high; visitor "seen from directly behind"), 294 ("Photorealistic", ox carts, flat coast), 295 (one-piece ring wording), 297 ("only a few courses high"), 298 ("low overgrown curved ridge" in place of "horseshoe ridge").
 - Kept with a doubt: 291 a steel tumbler stands at the right edge; 293 the monastery is a very large regular grid of cells; 294 the gateway is richly carved; 297 the wall is close to a metre high and the pot has handles like an amphora; 298 the growth on the ridge includes fan shapes like coral.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Plan: B31 = 300–309, B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other nine redos plus one doubtful picture (159). Any further redo needs a B35, which would also take the remaining doubtful pictures (263, 188, 213, 287, 151).
+## B31 (300–308; 309 not made)
 
-Next: B31 = 300–309 (`tools/pack.py 300 309 31`). No ring-well rows are left.
+Nine made, all nine kept. **309 was not made**: its generation call failed and the limit of ten image calls per turn was already used, so 309 moves to B32. Looked at all nine at half size; 301 after cropping and details of 303, 304, 308 at full size.
+- Good: 300 (an empty steel tray in a shaft of light), 301 (sketches pushed to the edge, a real sherd in the lamp light), 302 (the tide sliding up a flat beach at dusk), 303 (researchers at a tripod coring rig on the beach, faces turned away), 304 (split sediment core, dark mud against pale sand, a gloved hand at the boundary), 305 (tiny spiral shells through a microscope), 306 (a white wave line on the horizon beyond a low shore town, seen from inland), 307 (a dry abandoned river bed curving through rice fields, the living river beyond), 308 (close view of the mud and shell-sand boundary).
+- Film-copy crop added in `shots/crops.json`: 301 (x 0.18–1.00, y 0.08–0.90: the sketch sheets filled the left third; now they sit at the edge and the sherd is near the centre).
+- Prompts used differ from `prompts.json`: 301 ("ancient harbour wall and a tall beacon tower", sheets carry only drawings), 302 ("fading dusk light" in place of the morning-light setting), 303 ("seen from directly behind, no part of any face visible", no logos), 304 (hand only, no rulers), 305 (no scale bar), 306 ("Photorealistic", low brick and thatch houses, flat fields), 307 (pale sand bed through rice fields, flat delta), 309 prepared with "hands only … plain stone shore temple standing on dry sand well above the waterline, plain white border".
+- Kept with a doubt: 300 the tray is a canteen meal tray with compartments, and a bicycle stands in the dark behind; 301 the sketch shows a European-style lighthouse and fort, and the sherd is half a small pot; 303 a faint low headland on the horizon; 304 the boundary runs across the core but the pale part is coarse gravelly sand.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Left to make: 309–322 (fourteen) plus sixteen redos = thirty = three full turns. Plan: B32 = 309–318; B33 = 319–322 plus six redos (026, 028, 050, 166, 168, 169); B34 = the other ten redos (173, 198, 207, 209, 223, 245, 262, 272, 274, 280). No slot is left for doubtful pictures; any further redo or failed call needs a B35, which would also take the doubtful pictures (159, 263, 188, 213, 287, 151).
+
+Next: B32 = 309–318 (`tools/pack.py 309 318 32`).
