@@ -96,6 +96,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B31 | 300–308 | `1PNNhRdvwyjPdWrGUBqZ1VFtkwAu9D4B1` | `1KiCy5OjRZRfcQ4PkzmK8lbneOlMx7l2T` |
 | B32 | 309–318 | `1KhQfqrrUM5uEBTz55zm3bWP6mSXMLH4-` | `1peIqGK_ifPAQn6PdvophYo8s9sJ8kmby` |
 | B33 | 319–322 | `1MjX1GML-avH_xCzdJt1SPOdpTOgkSnu3` | `1RFSfr2sHQGKd67ik82dgyMy5izE_czWU` |
+| R1 (redo zip) | 166, 168, 169, 173, 198, 207, 209, 223, 245, 262 | `138jVF2GUbeX54jXheIaG6oPUfw4PFgGE` | `13U5Vc4NuHm8hMAkWq7_mxvT3P9AdS_vK` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -392,12 +393,30 @@ Ten made; all ten kept. **All 322 pictures now exist.** Looked at all ten at hal
 - The old versions are kept in `google_drive/ep12_pics/raw_old/` (untracked). The old film-copy crops for 166 and 168 were removed from `shots/crops.json`. Rows done are marked "# DONE in B33" in `shots/redo.txt`.
 - Prompts used: redo subject + the row's setting and style tail; added "Photorealistic" (028, 050, 320), "seen from directly behind" (028), the ridge sentence (166), "carry only the drawings: no labels, no words, no letters, no numbers" (168, 169); 321 "low overgrown U-shaped bank … seen from directly above" in place of "horseshoe ridge"; 322 "fading dusk light"; 319 hands only.
 - Kept with a doubt: 319 the brick is a rough slab; 321 the bank is a neat small U, about 15 m across by the diver's size (the real one is 85 m long); 166 a few of the stones are roughly squared; 169 the diver has no hood.
-- Drive: B33 zip and sheet uploaded. B03 and B05 zips and sheets replaced (old ones moved to trash). **B17 zip and sheet were rebuilt locally (`out/up/EP12_B17_*`) but not uploaded: the Drive upload rate limit was hit. Upload them next turn, then trash the old B17 zip `1031ch4Hb90hEyfgA21SIMO-yV575OSMa` and sheet `1LMNUqUCvW1Go4KiyHW1wj26b2m_TlVy8`.**
+- Drive: B33 zip and sheet uploaded. B03 and B05 zips and sheets replaced (old ones moved to trash). B17 zip and sheet were rebuilt locally but not uploaded (Drive upload rate limit), and were then lost in the workspace reset before R1 (see below).
 
-Redo list still open (ten): 173, 198, 207, 209, 223, 245, 262, 272, 274, 280. Plan: B34 = these ten. Then rebuild and replace the Drive zips and sheets of B17 (pending), B18, B20, B21, B23, B25, B27, B28, B29. Uploads are rate limited: about six files per turn went through, so the replacements need about three turns (or zips only, sheets later).
+## Fourth workspace reset (found at the start of R1) and the new way of storing redone pictures
+
+The workspace came back as a fresh clone at the base commit again: `google_drive/` (all 322 raw pictures, cast, narration, `raw_old`), `out/` and `/tmp` were gone. Fixed so far: `git fetch origin arena/d486087a-hyperframes && git merge --ff-only FETCH_HEAD`; `bash tools/setup.sh`; `out/raw` and `out/cast` links made by hand. **Lost for good: the redone 166, 168, 169 from B33** (their rebuilt B17 zip had not reached Drive); they were made again in R1. Everything else is on Drive.
+
+**The pictures, cast and narration have NOT been downloaded again yet.** Only the ten R1 pictures are in `google_drive/ep12_pics/raw/` now. Before the edge check, the film render or any batch-zip rebuild: Drive `download_file` on all batch zips B01–B33 (ids in the table above; B03 and B05 are already v2), then the redo zips R1, R2 …, `EP12_cast.zip` and the narration zip; move them into `<repo>/google_drive/` if they land elsewhere; unzip the narration into `google_drive/ep12_audio` and copy `N*.mp3` to `narration/`; `bash tools/restore.sh`.
+
+New rule: redone pictures no longer go into rebuilt batch zips. They go to Drive as **redo zips** `EP12_Rn_images_redo_*.zip` (same file names as in the batch zips) in the same turn they are made. `tools/restore.sh` now unpacks the redo zips after the batch zips, so the redone pictures win. The batch zips B17, B18, B20, B21, B23, B25, B27, B28, B29 on Drive stay as they are (old versions inside). At the end one zip of all 322 final pictures is uploaded, as for EP11. `tools/crops.py` now skips pictures that are not on disk.
+
+## R1 (redos 166, 168, 169, 173, 198, 207, 209, 223, 245, 262)
+
+Ten made. Looked at all ten at half size; details of 209 and 223 at full size. Eight are good; two are better than before but go round once more.
+- Good: 166 (a rough line of stones in the growth, gloved hand; no steps), 169 (diver drawing a small U-band plan on a slate), 173 (hand with a pencil above a U-band plan; no labels), 198 (dreamlike figures piling stones into a low bank on a misty palm shore; no snow, no furs, no standing stones), 207 (small figures round a fire by a rock shelter, hide shelters), 223 (grey-haired professor from directly behind pointing at a seabed map screen; no labels), 245 (two men paddling a dugout with a net and a wooden spear; no bag), 262 (diver over plain overgrown blocks; no mouldings).
+- **Again 168**: one notebook shows a short wide U, but the other shows a closed oval ring, not a U.
+- **Again 209**: the three men stand at the rail with their backs to the camera, but the two Indian men still show cheek and jaw in rear profile, and a cliffed headland stands on the horizon.
+- Film-copy crop added: 207 (black bars top and bottom; 3 % all round).
+- Kept with a doubt: 207 and 245 have an African-savanna look (flat-topped thorn trees; 207 has low hills far off); 245 the spear has a broad point; 262 the blocks are quite regular rectangles; 169 the plan is small in the frame.
+- Drive: `EP12_R1_images_redo_166-262.zip` and `EP12_R1_sheet.jpg` uploaded (ids in the table).
+
+Redo list still open (five): 168, 209, 272, 274, 280. Plan: R2 = these five plus five doubtful pictures: 159, 263, 188, 213, 287 (then 317, 151 if a slot is free). Upload `EP12_R2_images_redo_*.zip` in the same turn.
 
 Edge check over all 322 film copies (`tools/edges.py 1 322`) flags twenty pictures, most of them from the early batches made before the check existed: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105, 230, 236, 248. Look at each (thin black bars or rounded corners need a 2–3 % crop in `shots/crops.json`; dark night scenes are false alarms) before the film render.
 
-Doubtful pictures that could be redone if wanted: 159, 263, 188, 213, 287, 317, 151.
+After R2: download everything from Drive and restore (recipe above); run `tools/edges.py 1 322` and fix flagged film copies; then the film steps listed under "Still open" (title picture numbers, end card, listening to the narration, render, `tools/finish.sh`, upload of the film and of one zip with all 322 final pictures).
 
-Next: B34 = redos 173, 198, 207, 209, 223, 245, 262, 272, 274, 280; first upload the B17 zip and sheet.
+Next: R2 = redos 168, 209, 272, 274, 280 and doubtful 159, 263, 188, 213, 287.

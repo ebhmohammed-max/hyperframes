@@ -22,6 +22,17 @@ print("restored", sys.argv[1], len(z.namelist()))
 PY
   rm -f "$z"
 done
+# Redo zips (EP12_R1_..., EP12_R2_...) hold pictures made again later: unpack them after the batch zips so they win.
+for z in $(ls $GD/EP12_R*_images_*.zip 2>/dev/null | sort); do
+  python3 - "$z" "$ST" <<'PY'
+import sys, zipfile
+z = zipfile.ZipFile(sys.argv[1])
+for n in z.namelist():
+    open(f"{sys.argv[2]}/raw/{n.split('_')[1]}.jpg", "wb").write(z.read(n))
+print("restored redo", sys.argv[1], len(z.namelist()))
+PY
+  rm -f "$z"
+done
 if [ -f $GD/EP12_cast.zip ]; then python3 - "$GD/EP12_cast.zip" "$ST" <<'PY'
 import sys, zipfile, os
 z = zipfile.ZipFile(sys.argv[1])
