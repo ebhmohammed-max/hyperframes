@@ -89,6 +89,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B24 | 230–239 | `17aGptkdBsIDbWW3sQlK2wX__X4uMLzp-` | `1pYHV12_tLrkXHvNuQsuZZhP3Bm3siD3k` |
 | B25 | 240–249 | `1ow4JHPeYa0a1OLsS9uM9bsXz2xA0BOjc` | `1p_h6vKkedCBzrve37ATq9mzfl12nb0VK` |
 | B26 | 250–259 | `1Z_KtqT-NfirPyUQ0iqkaYeKxV_291y61` | `1IFjqgR-6dIh3RDsIaWKA4ryDWfI-tm8_` |
+| B27 | 260–269 | `1uGMV-Ocdj_ObMMpHnnLG3wFvgQmy8_-U` | `19R4CpUJVWj1sD3TiAsII1tINTQ_kjb8k` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -324,6 +325,15 @@ All ten made and kept. Looked at all ten at half size; the crews in 253, 256, 25
 - Prompts used differ slightly from `prompts.json`: 250 added "made of stacked one-piece fired-clay rings and not of bricks"; 256, 257, 258 added "no faces visible".
 - Kept with a doubt: 253 three boat crew face the camera at small size, and the divers seem to step onto the water; 256 heads are bent over the chart with faces in shadow; 259 one crewman's bearded cheek shows in shadow; 251 has a wheelbarrow and baskets left in the trench.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245 (twelve). Plan: B27 = 260–269 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+## B27 (260–269)
 
-Next: B27 = 260–269 (`tools/pack.py 260 269 27`). Before 264 (laptop sonar) check its prompt; ring-well rows still to come: 278, 279, 280, 295 (add the "stacked one-piece fired-clay rings and not of bricks" wording).
+Ten made; nine kept, one for redo. Looked at all ten at half size; the blocks in 262 and the cropped 261, 264, 266 at full size.
+- Good: 260 (yellow robot over the seabed), 261 (old chart with pencil crosses and a GPS unit; no labels), 263 (oval mound with a diver), 264 (laptop sonar with a U-shaped blotch and an oval blotch, a hand pointing; no labels), 265 (dive boat under monsoon clouds, flag buoy), 266 (coast with a temple tower from the boat), 267 (divers with a white grid frame), 268 (one broken jar piece in the sand, a gloved hand), 269 (a whole torpedo jar: tall, straight-sided, no neck, no handles; the wording works).
+- **Redo 262**: the "blocks found again" carry stepped carved mouldings like temple architecture. The script (N09 q4) only says the spots marked thirty years ago were found again. New wording: plain rough worn blocks, no carving.
+- Film-copy crops added in `shots/crops.json`: 261 (x 0.16–1, y 0.16–1; a man's nose and moustache showed at the top left), 264 (x 0.30–0.90, y 0.40–1.00; the operator's whole face showed; the film copy keeps the arm, hand and laptop), 266 (3% inset; black bar at the top).
+- Prompts used differ from `prompts.json`: 261 (blank GPS screen, chart with no words or numbers), 264 (screen with no labels, numbers or menus), 268 (one piece, not a whole jar), 269 (straight-sided, no neck, not an amphora; the "men in long plain tunics" part left out).
+- Kept with a doubt: 263 the oval mound looks like a low ring wall of stacked stones (like 159); 265 has film scratches and a flatter painted look; 268 the piece is large, close to half a pot.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262 (thirteen). Plan: B28 = 270–279 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other six redos plus four doubtful pictures (first choices: 159, 188, 263, 213; then 151). That fills both turns; any further redo needs a B35.
+
+Next: B28 = 270–279 (`tools/pack.py 270 279 28`). Ring-well rows still to come: 278, 279, 280, 295 (add the "stacked one-piece fired-clay rings and not of bricks" wording).
