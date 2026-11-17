@@ -65,9 +65,9 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 |---|---|---|---|
 | B01 | 001–010 | `1teEj2jR9A5Z-lW4kMXbl7aE2v7L1O2fi` | `1yBgJc_o4EJbGOyFVL_bSAvT7j4JJ9cxI` |
 | B02 | 011–020 | `10MfXidi9aX05YEEWfetCXIsCkKIbwWzy` | `1wLVofTvagFZMzYFJwF_tpKg8qyCP-_9I` |
-| B03 | 021–030 | `1uhbeJKvbOKlxG9-y9kVTzlQ-g1xhdZRY` | `1sj-z6cJK3aGIlbUVe9Ev6u2vcqfEqibz` |
+| B03 | 021–030 | `1DKuUhRETbEWrmIczDLzVj9R02lkGqH5d` (v2 with redone 026, 028; old zip trashed) | `1-PzSN0hU9-BzymOsxzh4TNzyaFmj9_BC` |
 | B04 | 031–040 | `1Y8gw05UTtuv2gGY-P8d9lH8KSP9C3iM2` | `1ES9wsABZWSCx0jlKG9VIp1De6c9jf_xY` |
-| B05 | 041–050 | `13_4gL2hzyi7-Mh48PYiW3js4ubHUvLuO` | `1NJCUIcPllvC60RSK_mw250fVhhtUSekN` |
+| B05 | 041–050 | `1Q5_qqCB9_OGXGZItkS7VIhwNGYOpI3zl` (v2 with redone 050; old zip trashed) | `1AFlF88jRTdpZZXJNhNBOWmNzDqVKrf_Z` |
 | B06 | 051–060 | `1TU3c0D2s7Nb8J4yZYxKWr_HzbV-gjHAk` | `1_MnoPYd3zORP7QWWKFfR_BEUzdmd_SPy` |
 | B07 | 061–070 | `1kVHMHlyxF80rFoZ4UnoDFuyDiHCyRLjo` | `1w5BK0KqNBSAT2jk0d1fo3hj6_qChvu9r` |
 | B08 | 071–080 | `19Q3tNy3OvYB_ieuKgzXtAqBEu5T7hk_D` | `16KZR8Y1aK2wnxgH0DRmKWIlKwuw34Q5m` |
@@ -95,6 +95,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B30 | 290–299 | `1afe9BtKCbcA2hhUI7bAoOcG22jLWzQly` | `1YE3SZ70jHc-Vbd5rEKQxW2m6-IDd2mfk` |
 | B31 | 300–308 | `1PNNhRdvwyjPdWrGUBqZ1VFtkwAu9D4B1` | `1KiCy5OjRZRfcQ4PkzmK8lbneOlMx7l2T` |
 | B32 | 309–318 | `1KhQfqrrUM5uEBTz55zm3bWP6mSXMLH4-` | `1peIqGK_ifPAQn6PdvophYo8s9sJ8kmby` |
+| B33 | 319–322 | `1MjX1GML-avH_xCzdJt1SPOdpTOgkSnu3` | `1RFSfr2sHQGKd67ik82dgyMy5izE_czWU` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -383,8 +384,20 @@ Ten made; all ten kept. Looked at all ten at half size; 312 after cropping and d
 - Prompts used differ from `prompts.json`: 309 (hands only, plain stone temple, white border without writing), 310 and 311 ("small plain stone" temple, flat shore; 311 "seen from directly behind"), 313 (plain hand-drawn coast outline, no labels, hand only), 315 (unmarked gear, wooden boat), 316 (hand only, "low overgrown ridge"), 317 ("one broken piece and not a whole pot"), 318 (tally strokes only, no words or numbers).
 - Kept with a doubt: 317 the glove is thick and caked with silt and the fingers point at the camera, so the hand reads as lumpy at first glance; 309–311 the temple looks like a small carved granite shrine in the Pallava style; 316 the growth on the ridge has some coral-like shapes.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Left to make: 319–322 (four) plus sixteen redos = twenty = two full turns. Plan: B33 = 319–322 plus six redos (026, 028, 050, 166, 168, 169); B34 = the other ten redos (173, 198, 207, 209, 223, 245, 262, 272, 274, 280). No slot is left for doubtful pictures; any further redo or failed call needs a B35, which would also take the doubtful pictures (159, 263, 188, 213, 287, 317, 151).
+## B33 (319–322 and redos 026, 028, 050, 166, 168, 169)
 
-Redo pictures: write to the same `raw/NNN.jpg` (keep the old one as `raw_old/NNN.jpg` outside the batch zips), prompt = new subject from `shots/redo.txt` + the setting and style tail of that row in `shots/prompts.json`. After B34 rebuild and replace the Drive zips of B03, B05, B17, B18, B20, B21, B23, B25, B27, B28, B29.
+Ten made; all ten kept. **All 322 pictures now exist.** Looked at all ten at half size; details of 166, 169, 320 at full size.
+- New, good: 319 (bare hands brushing an old brick), 320 (the port at sunset from high above, lamps, single-masted ships, flat coast), 321 (the U-shaped bank from directly above with a diver's torch at its centre), 322 (calm sea at dusk with one small boat).
+- Redone, good: 026 (diver kneeling on bare sand lifting one large curved pale shard; no amphora, no reef), 028 (rows of tall straight-sided torpedo jars leaning in racks, potter from behind), 050 (single-masted ship with a matting sail and steering oars entering the river mouth), 166 (a rough line of stones in the growth with a gloved hand; no steps), 168 (two notebooks, one long narrow U-band plan and one short wide one; no labels), 169 (diver drawing a U-band plan on a slate; no labels).
+- The old versions are kept in `google_drive/ep12_pics/raw_old/` (untracked). The old film-copy crops for 166 and 168 were removed from `shots/crops.json`. Rows done are marked "# DONE in B33" in `shots/redo.txt`.
+- Prompts used: redo subject + the row's setting and style tail; added "Photorealistic" (028, 050, 320), "seen from directly behind" (028), the ridge sentence (166), "carry only the drawings: no labels, no words, no letters, no numbers" (168, 169); 321 "low overgrown U-shaped bank … seen from directly above" in place of "horseshoe ridge"; 322 "fading dusk light"; 319 hands only.
+- Kept with a doubt: 319 the brick is a rough slab; 321 the bank is a neat small U, about 15 m across by the diver's size (the real one is 85 m long); 166 a few of the stones are roughly squared; 169 the diver has no hood.
+- Drive: B33 zip and sheet uploaded. B03 and B05 zips and sheets replaced (old ones moved to trash). **B17 zip and sheet were rebuilt locally (`out/up/EP12_B17_*`) but not uploaded: the Drive upload rate limit was hit. Upload them next turn, then trash the old B17 zip `1031ch4Hb90hEyfgA21SIMO-yV575OSMa` and sheet `1LMNUqUCvW1Go4KiyHW1wj26b2m_TlVy8`.**
 
-Next: B33 = 319–322 and redos 026, 028, 050, 166, 168, 169 (`tools/pack.py 319 322 33` for the new four; redone pictures go out in the rebuilt batch zips).
+Redo list still open (ten): 173, 198, 207, 209, 223, 245, 262, 272, 274, 280. Plan: B34 = these ten. Then rebuild and replace the Drive zips and sheets of B17 (pending), B18, B20, B21, B23, B25, B27, B28, B29. Uploads are rate limited: about six files per turn went through, so the replacements need about three turns (or zips only, sheets later).
+
+Edge check over all 322 film copies (`tools/edges.py 1 322`) flags twenty pictures, most of them from the early batches made before the check existed: 009, 016, 021, 024, 037, 038, 039, 041, 043, 045, 048, 051, 064, 071, 080, 084, 105, 230, 236, 248. Look at each (thin black bars or rounded corners need a 2–3 % crop in `shots/crops.json`; dark night scenes are false alarms) before the film render.
+
+Doubtful pictures that could be redone if wanted: 159, 263, 188, 213, 287, 317, 151.
+
+Next: B34 = redos 173, 198, 207, 209, 223, 245, 262, 272, 274, 280; first upload the B17 zip and sheet.
