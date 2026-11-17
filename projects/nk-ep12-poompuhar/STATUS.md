@@ -94,6 +94,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B29 | 280–289 | `1sVUW-5xR07E9hEuNChyZC8gpuEwbp752` | `1AdZ4dpns7k9WDGf6Et7dMZBPC_KDoVYY` |
 | B30 | 290–299 | `1afe9BtKCbcA2hhUI7bAoOcG22jLWzQly` | `1YE3SZ70jHc-Vbd5rEKQxW2m6-IDd2mfk` |
 | B31 | 300–308 | `1PNNhRdvwyjPdWrGUBqZ1VFtkwAu9D4B1` | `1KiCy5OjRZRfcQ4PkzmK8lbneOlMx7l2T` |
+| B32 | 309–318 | `1KhQfqrrUM5uEBTz55zm3bWP6mSXMLH4-` | `1peIqGK_ifPAQn6PdvophYo8s9sJ8kmby` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -374,6 +375,16 @@ Nine made, all nine kept. **309 was not made**: its generation call failed and t
 - Prompts used differ from `prompts.json`: 301 ("ancient harbour wall and a tall beacon tower", sheets carry only drawings), 302 ("fading dusk light" in place of the morning-light setting), 303 ("seen from directly behind, no part of any face visible", no logos), 304 (hand only, no rulers), 305 (no scale bar), 306 ("Photorealistic", low brick and thatch houses, flat fields), 307 (pale sand bed through rice fields, flat delta), 309 prepared with "hands only … plain stone shore temple standing on dry sand well above the waterline, plain white border".
 - Kept with a doubt: 300 the tray is a canteen meal tray with compartments, and a bicycle stands in the dark behind; 301 the sketch shows a European-style lighthouse and fort, and the sherd is half a small pot; 303 a faint low headland on the horizon; 304 the boundary runs across the core but the pale part is coarse gravelly sand.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Left to make: 309–322 (fourteen) plus sixteen redos = thirty = three full turns. Plan: B32 = 309–318; B33 = 319–322 plus six redos (026, 028, 050, 166, 168, 169); B34 = the other ten redos (173, 198, 207, 209, 223, 245, 262, 272, 274, 280). No slot is left for doubtful pictures; any further redo or failed call needs a B35, which would also take the doubtful pictures (159, 263, 188, 213, 287, 151).
+## B32 (309–318)
 
-Next: B32 = 309–318 (`tools/pack.py 309 318 32`).
+Ten made; all ten kept. Looked at all ten at half size; 312 after cropping and details of 313 and 317 at full size.
+- Good: 309 (old hands holding a faded photograph of a small shore temple on dry sand), 310 (the same kind of small temple standing in the surf), 311 (grey-haired archaeologist from behind watching a temple half in the water), 312 (a wave dragging old bricks down the beach), 313 (a plain coast chart with one small corner shaded, a hand on it), 314 (wide empty sea with one small buoy), 315 (tanks, ropes and cases ready on a jetty at dawn), 316 (a gloved hand reaching toward something reddish in a gap in the ridge), 317 (a sherd in a diver's open palm in torch light), 318 (notebook with a long and a short column of tally strokes).
+- Film-copy crop added in `shots/crops.json`: 312 (rounded film-frame corners; trimmed 2.5 % all round).
+- Prompts used differ from `prompts.json`: 309 (hands only, plain stone temple, white border without writing), 310 and 311 ("small plain stone" temple, flat shore; 311 "seen from directly behind"), 313 (plain hand-drawn coast outline, no labels, hand only), 315 (unmarked gear, wooden boat), 316 (hand only, "low overgrown ridge"), 317 ("one broken piece and not a whole pot"), 318 (tally strokes only, no words or numbers).
+- Kept with a doubt: 317 the glove is thick and caked with silt and the fingers point at the camera, so the hand reads as lumpy at first glance; 309–311 the temple looks like a small carved granite shrine in the Pallava style; 316 the growth on the ridge has some coral-like shapes.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245, 262, 272, 274, 280 (sixteen). Left to make: 319–322 (four) plus sixteen redos = twenty = two full turns. Plan: B33 = 319–322 plus six redos (026, 028, 050, 166, 168, 169); B34 = the other ten redos (173, 198, 207, 209, 223, 245, 262, 272, 274, 280). No slot is left for doubtful pictures; any further redo or failed call needs a B35, which would also take the doubtful pictures (159, 263, 188, 213, 287, 317, 151).
+
+Redo pictures: write to the same `raw/NNN.jpg` (keep the old one as `raw_old/NNN.jpg` outside the batch zips), prompt = new subject from `shots/redo.txt` + the setting and style tail of that row in `shots/prompts.json`. After B34 rebuild and replace the Drive zips of B03, B05, B17, B18, B20, B21, B23, B25, B27, B28, B29.
+
+Next: B33 = 319–322 and redos 026, 028, 050, 166, 168, 169 (`tools/pack.py 319 322 33` for the new four; redone pictures go out in the rebuilt batch zips).
