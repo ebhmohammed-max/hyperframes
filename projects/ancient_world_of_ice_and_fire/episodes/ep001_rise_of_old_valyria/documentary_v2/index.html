@@ -36,15 +36,12 @@ html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--g
 .tc .sub{font-family:var(--serif);font-size:30px;line-height:1.42;color:#e8dfcb;margin:14px 0 0;
   max-width:1150px;text-shadow:0 2px 20px rgba(0,0,0,.96)}
 
-/* the year / the place — an overline plaque, also transparent */
-.plaque{position:absolute;z-index:9;left:132px;top:104px;pointer-events:none;
-  padding:0 0 0 24px;border-left:3px solid var(--ember);max-width:1010px;
-  background:none}
-.plaque .pl{font-family:var(--mono);font-size:28px;letter-spacing:.30em;color:var(--ember-hot);
-  text-transform:uppercase;margin:0 0 9px}
-.plaque .pv{font-family:var(--display);font-size:46px;line-height:1.1;color:#fdf8ec;margin:0;
-  text-wrap:balance}
-.plaque .pn{font-family:var(--serif);font-size:28px;color:#cec5b1;margin:9px 0 0}
+/* the place: the name alone, on a small slab in the lower left, as it is spoken */
+.placard{position:absolute;z-index:9;left:132px;bottom:300px;pointer-events:none;
+  display:inline-flex;align-items:center;padding:16px 30px 18px;
+  background:rgba(5,5,8,.74);border-left:4px solid var(--ember)}
+.placard span{font-family:var(--display);font-size:50px;line-height:1.06;color:#fdf8ec;
+  text-transform:uppercase;letter-spacing:.10em}
 
 /* chapter card — type over the image, not a black frame */
 .chapter{position:absolute;inset:0;z-index:12;display:grid;place-items:center;pointer-events:none;
@@ -149,90 +146,91 @@ html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--g
   <audio id="mus-VII" src="assets/audio/bed/ch_VII.mp3" data-start="1830.0" data-duration="270.0" data-volume="1.3804" data-fade-in="3.0" data-fade-out="3.0" data-track-index="19"></audio>
   <audio id="sfx000" src="assets/audio/sfx/riser.mp3" data-start="1.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
   <audio id="sfx001" src="assets/audio/sfx/impact-bass-1.mp3" data-start="4.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx002" src="assets/audio/sfx/metalLatch.ogg" data-start="5.500" data-duration="0.261" data-volume="0.22" data-track-index="23"></audio>
-  <audio id="sfx003" src="assets/audio/sfx/metalLatch.ogg" data-start="12.050" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx004" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="18.600" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx005" src="assets/audio/sfx/whoosh-short.mp3" data-start="30.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx006" src="assets/audio/sfx/whoosh-short.mp3" data-start="44.250" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx007" src="assets/audio/sfx/metalLatch.ogg" data-start="60.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx008" src="assets/audio/sfx/impact-bass-1.mp3" data-start="66.710" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx009" src="assets/audio/sfx/whoosh-short.mp3" data-start="76.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx010" src="assets/audio/sfx/metalLatch.ogg" data-start="82.000" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx011" src="assets/audio/sfx/metalLatch.ogg" data-start="90.180" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx012" src="assets/audio/sfx/cloth1.ogg" data-start="96.730" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx013" src="assets/audio/sfx/metalLatch.ogg" data-start="102.080" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx014" src="assets/audio/sfx/metalLatch.ogg" data-start="120.260" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx015" src="assets/audio/sfx/impact-bass-2.mp3" data-start="126.810" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx016" src="assets/audio/sfx/metalLatch.ogg" data-start="132.560" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx017" src="assets/audio/sfx/whoosh-short.mp3" data-start="151.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx018" src="assets/audio/sfx/metalLatch.ogg" data-start="180.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx019" src="assets/audio/sfx/metalLatch.ogg" data-start="186.710" data-duration="0.261" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx020" src="assets/audio/sfx/metalLatch.ogg" data-start="210.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx021" src="assets/audio/sfx/cloth1.ogg" data-start="216.710" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx022" src="assets/audio/sfx/metalLatch.ogg" data-start="240.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx023" src="assets/audio/sfx/impact-bass-1.mp3" data-start="246.710" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx024" src="assets/audio/sfx/riser.mp3" data-start="301.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
-  <audio id="sfx025" src="assets/audio/sfx/impact-bass-1.mp3" data-start="304.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx026" src="assets/audio/sfx/whoosh-short.mp3" data-start="305.500" data-duration="0.575" data-volume="0.32" data-track-index="23"></audio>
-  <audio id="sfx027" src="assets/audio/sfx/metalLatch.ogg" data-start="314.170" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx028" src="assets/audio/sfx/metalLatch.ogg" data-start="330.140" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx029" src="assets/audio/sfx/cloth1.ogg" data-start="336.690" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx030" src="assets/audio/sfx/whoosh-short.mp3" data-start="391.250" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx031" src="assets/audio/sfx/impact-bass-2.mp3" data-start="421.050" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx032" src="assets/audio/sfx/whoosh-short.mp3" data-start="451.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx033" src="assets/audio/sfx/cloth1.ogg" data-start="481.250" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx034" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="571.250" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx035" src="assets/audio/sfx/riser.mp3" data-start="601.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
-  <audio id="sfx036" src="assets/audio/sfx/impact-bass-1.mp3" data-start="604.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx037" src="assets/audio/sfx/whoosh-short.mp3" data-start="630.850" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx038" src="assets/audio/sfx/impact-bass-1.mp3" data-start="690.850" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx039" src="assets/audio/sfx/whoosh-short.mp3" data-start="781.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx040" src="assets/audio/sfx/cloth1.ogg" data-start="811.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx041" src="assets/audio/sfx/metalLatch.ogg" data-start="840.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx042" src="assets/audio/sfx/whoosh-short.mp3" data-start="846.710" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx043" src="assets/audio/sfx/riser.mp3" data-start="901.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
-  <audio id="sfx044" src="assets/audio/sfx/impact-bass-1.mp3" data-start="904.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx045" src="assets/audio/sfx/impact-bass-1.mp3" data-start="905.500" data-duration="2.116" data-volume="0.32" data-track-index="23"></audio>
-  <audio id="sfx046" src="assets/audio/sfx/metalLatch.ogg" data-start="911.250" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx047" src="assets/audio/sfx/whoosh-short.mp3" data-start="991.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx048" src="assets/audio/sfx/metalLatch.ogg" data-start="1020.140" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx049" src="assets/audio/sfx/metalLatch.ogg" data-start="1026.690" data-duration="0.261" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx050" src="assets/audio/sfx/metalLatch.ogg" data-start="1050.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx051" src="assets/audio/sfx/cloth1.ogg" data-start="1081.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx052" src="assets/audio/sfx/metalLatch.ogg" data-start="1086.400" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx053" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="1141.050" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx054" src="assets/audio/sfx/metalLatch.ogg" data-start="1146.400" data-duration="0.261" data-volume="0.22" data-track-index="22"></audio>
-  <audio id="sfx055" src="assets/audio/sfx/impact-bass-2.mp3" data-start="1170.850" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx056" src="assets/audio/sfx/riser.mp3" data-start="1231.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
-  <audio id="sfx057" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1234.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx058" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1235.500" data-duration="2.116" data-volume="0.32" data-track-index="23"></audio>
-  <audio id="sfx059" src="assets/audio/sfx/metalLatch.ogg" data-start="1260.180" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx060" src="assets/audio/sfx/metalLatch.ogg" data-start="1290.120" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx061" src="assets/audio/sfx/cloth1.ogg" data-start="1296.670" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx062" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1351.050" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx063" src="assets/audio/sfx/metalLatch.ogg" data-start="1356.600" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx064" src="assets/audio/sfx/metalLatch.ogg" data-start="1440.180" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx065" src="assets/audio/sfx/whoosh-short.mp3" data-start="1446.730" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx066" src="assets/audio/sfx/metalLatch.ogg" data-start="1470.140" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx067" src="assets/audio/sfx/cloth1.ogg" data-start="1476.690" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx068" src="assets/audio/sfx/riser.mp3" data-start="1531.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
-  <audio id="sfx069" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1534.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx070" src="assets/audio/sfx/whoosh-short.mp3" data-start="1535.500" data-duration="0.575" data-volume="0.32" data-track-index="23"></audio>
-  <audio id="sfx071" src="assets/audio/sfx/cloth1.ogg" data-start="1561.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx072" src="assets/audio/sfx/whoosh-short.mp3" data-start="1651.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx073" src="assets/audio/sfx/metalLatch.ogg" data-start="1656.400" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx074" src="assets/audio/sfx/metalLatch.ogg" data-start="1710.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx075" src="assets/audio/sfx/impact-bass-2.mp3" data-start="1715.700" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx076" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1771.050" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx077" src="assets/audio/sfx/riser.mp3" data-start="1831.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
-  <audio id="sfx078" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1834.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
-  <audio id="sfx079" src="assets/audio/sfx/whoosh-short.mp3" data-start="1835.500" data-duration="0.575" data-volume="0.32" data-track-index="23"></audio>
-  <audio id="sfx080" src="assets/audio/sfx/metalLatch.ogg" data-start="1890.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx081" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1896.710" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx082" src="assets/audio/sfx/metalLatch.ogg" data-start="1950.120" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx083" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="2011.250" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
-  <audio id="sfx084" src="assets/audio/sfx/metalLatch.ogg" data-start="2070.160" data-duration="0.261" data-volume="0.22" data-track-index="21"></audio>
-  <audio id="sfx085" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="2076.710" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx002" src="assets/audio/sfx/metalLatch.ogg" data-start="5.500" data-duration="0.261" data-volume="0.3" data-track-index="23"></audio>
+  <audio id="sfx003" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="10.250" data-duration="5.544" data-volume="0.32" data-track-index="22"></audio>
+  <audio id="sfx004" src="assets/audio/sfx/metalLatch.ogg" data-start="15.800" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx005" src="assets/audio/sfx/metalLatch.ogg" data-start="20.550" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx006" src="assets/audio/sfx/whoosh-short.mp3" data-start="30.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx007" src="assets/audio/sfx/whoosh-short.mp3" data-start="44.250" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx008" src="assets/audio/sfx/impact-bass-1.mp3" data-start="60.850" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx009" src="assets/audio/sfx/metalLatch.ogg" data-start="66.800" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx010" src="assets/audio/sfx/whoosh-short.mp3" data-start="76.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx011" src="assets/audio/sfx/metalLatch.ogg" data-start="82.298" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx012" src="assets/audio/sfx/metalLatch.ogg" data-start="90.588" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx013" src="assets/audio/sfx/cloth1.ogg" data-start="95.338" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx014" src="assets/audio/sfx/metalLatch.ogg" data-start="102.202" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx015" src="assets/audio/sfx/metalLatch.ogg" data-start="121.213" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx016" src="assets/audio/sfx/impact-bass-2.mp3" data-start="125.963" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx017" src="assets/audio/sfx/metalLatch.ogg" data-start="131.713" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx018" src="assets/audio/sfx/whoosh-short.mp3" data-start="151.650" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx019" src="assets/audio/sfx/metalLatch.ogg" data-start="181.050" data-duration="0.261" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx020" src="assets/audio/sfx/metalLatch.ogg" data-start="186.400" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx021" src="assets/audio/sfx/cloth1.ogg" data-start="211.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx022" src="assets/audio/sfx/metalLatch.ogg" data-start="216.400" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx023" src="assets/audio/sfx/metalLatch.ogg" data-start="240.160" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx024" src="assets/audio/sfx/impact-bass-1.mp3" data-start="244.910" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx025" src="assets/audio/sfx/riser.mp3" data-start="301.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx026" src="assets/audio/sfx/impact-bass-1.mp3" data-start="304.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx027" src="assets/audio/sfx/whoosh-short.mp3" data-start="305.500" data-duration="0.575" data-volume="0.32" data-track-index="23"></audio>
+  <audio id="sfx028" src="assets/audio/sfx/metalLatch.ogg" data-start="314.170" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx029" src="assets/audio/sfx/metalLatch.ogg" data-start="330.140" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx030" src="assets/audio/sfx/cloth1.ogg" data-start="334.890" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx031" src="assets/audio/sfx/whoosh-short.mp3" data-start="391.250" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx032" src="assets/audio/sfx/impact-bass-2.mp3" data-start="421.050" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx033" src="assets/audio/sfx/whoosh-short.mp3" data-start="451.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx034" src="assets/audio/sfx/cloth1.ogg" data-start="481.250" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx035" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="571.250" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx036" src="assets/audio/sfx/riser.mp3" data-start="601.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx037" src="assets/audio/sfx/impact-bass-1.mp3" data-start="604.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx038" src="assets/audio/sfx/whoosh-short.mp3" data-start="630.850" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx039" src="assets/audio/sfx/impact-bass-1.mp3" data-start="690.850" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx040" src="assets/audio/sfx/whoosh-short.mp3" data-start="781.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx041" src="assets/audio/sfx/cloth1.ogg" data-start="811.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx042" src="assets/audio/sfx/whoosh-short.mp3" data-start="841.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx043" src="assets/audio/sfx/metalLatch.ogg" data-start="846.400" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx044" src="assets/audio/sfx/riser.mp3" data-start="901.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx045" src="assets/audio/sfx/impact-bass-1.mp3" data-start="904.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx046" src="assets/audio/sfx/impact-bass-1.mp3" data-start="905.500" data-duration="2.116" data-volume="0.32" data-track-index="23"></audio>
+  <audio id="sfx047" src="assets/audio/sfx/metalLatch.ogg" data-start="911.250" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx048" src="assets/audio/sfx/whoosh-short.mp3" data-start="991.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx049" src="assets/audio/sfx/metalLatch.ogg" data-start="1021.050" data-duration="0.261" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx050" src="assets/audio/sfx/metalLatch.ogg" data-start="1026.200" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx051" src="assets/audio/sfx/metalLatch.ogg" data-start="1052.066" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx052" src="assets/audio/sfx/cloth1.ogg" data-start="1081.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx053" src="assets/audio/sfx/metalLatch.ogg" data-start="1086.400" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx054" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="1141.050" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx055" src="assets/audio/sfx/metalLatch.ogg" data-start="1148.514" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx056" src="assets/audio/sfx/impact-bass-2.mp3" data-start="1170.850" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx057" src="assets/audio/sfx/riser.mp3" data-start="1231.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx058" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1234.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx059" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1235.500" data-duration="2.116" data-volume="0.32" data-track-index="23"></audio>
+  <audio id="sfx060" src="assets/audio/sfx/metalLatch.ogg" data-start="1260.180" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx061" src="assets/audio/sfx/metalLatch.ogg" data-start="1290.120" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx062" src="assets/audio/sfx/cloth1.ogg" data-start="1294.870" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx063" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1351.050" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx064" src="assets/audio/sfx/metalLatch.ogg" data-start="1356.600" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx065" src="assets/audio/sfx/metalLatch.ogg" data-start="1440.180" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx066" src="assets/audio/sfx/whoosh-short.mp3" data-start="1444.930" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx067" src="assets/audio/sfx/cloth1.ogg" data-start="1471.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx068" src="assets/audio/sfx/metalLatch.ogg" data-start="1476.600" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx069" src="assets/audio/sfx/riser.mp3" data-start="1531.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx070" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1534.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx071" src="assets/audio/sfx/whoosh-short.mp3" data-start="1535.500" data-duration="0.575" data-volume="0.32" data-track-index="23"></audio>
+  <audio id="sfx072" src="assets/audio/sfx/cloth1.ogg" data-start="1561.050" data-duration="0.661" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx073" src="assets/audio/sfx/whoosh-short.mp3" data-start="1651.050" data-duration="0.575" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx074" src="assets/audio/sfx/metalLatch.ogg" data-start="1656.400" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx075" src="assets/audio/sfx/metalLatch.ogg" data-start="1710.841" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx076" src="assets/audio/sfx/impact-bass-2.mp3" data-start="1715.591" data-duration="2.592" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx077" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1771.050" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx078" src="assets/audio/sfx/riser.mp3" data-start="1831.200" data-duration="10.032" data-volume="0.26" data-track-index="21"></audio>
+  <audio id="sfx079" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1834.600" data-duration="2.116" data-volume="0.34" data-track-index="22"></audio>
+  <audio id="sfx080" src="assets/audio/sfx/whoosh-short.mp3" data-start="1835.500" data-duration="0.575" data-volume="0.32" data-track-index="23"></audio>
+  <audio id="sfx081" src="assets/audio/sfx/metalLatch.ogg" data-start="1890.160" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx082" src="assets/audio/sfx/impact-bass-1.mp3" data-start="1894.910" data-duration="2.116" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx083" src="assets/audio/sfx/metalLatch.ogg" data-start="1950.392" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
+  <audio id="sfx084" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="2011.250" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx085" src="assets/audio/sfx/whoosh-cinematic.mp3" data-start="2075.850" data-duration="5.544" data-volume="0.32" data-track-index="21"></audio>
+  <audio id="sfx086" src="assets/audio/sfx/metalLatch.ogg" data-start="2084.200" data-duration="0.261" data-volume="0.3" data-track-index="21"></audio>
 </div>
 <script>
 window.__timelines = { "film": gsap.timeline({ paused: true }) };

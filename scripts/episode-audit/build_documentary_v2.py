@@ -219,15 +219,12 @@ html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--g
 .tc .sub{font-family:var(--serif);font-size:30px;line-height:1.42;color:#e8dfcb;margin:14px 0 0;
   max-width:1150px;text-shadow:0 2px 20px rgba(0,0,0,.96)}
 
-/* the year / the place — an overline plaque, also transparent */
-.plaque{position:absolute;z-index:9;left:132px;top:104px;pointer-events:none;
-  padding:0 0 0 24px;border-left:3px solid var(--ember);max-width:1010px;
-  background:none}
-.plaque .pl{font-family:var(--mono);font-size:28px;letter-spacing:.30em;color:var(--ember-hot);
-  text-transform:uppercase;margin:0 0 9px}
-.plaque .pv{font-family:var(--display);font-size:46px;line-height:1.1;color:#fdf8ec;margin:0;
-  text-wrap:balance}
-.plaque .pn{font-family:var(--serif);font-size:28px;color:#cec5b1;margin:9px 0 0}
+/* the place: the name alone, on a small slab in the lower left, as it is spoken */
+.placard{position:absolute;z-index:9;left:132px;bottom:300px;pointer-events:none;
+  display:inline-flex;align-items:center;padding:16px 30px 18px;
+  background:rgba(5,5,8,.74);border-left:4px solid var(--ember)}
+.placard span{font-family:var(--display);font-size:50px;line-height:1.06;color:#fdf8ec;
+  text-transform:uppercase;letter-spacing:.10em}
 
 /* chapter card — type over the image, not a black frame */
 .chapter{position:absolute;inset:0;z-index:12;display:grid;place-items:center;pointer-events:none;
@@ -280,6 +277,36 @@ def cut_music(src: Path, dst: Path, offset: float, dur: float) -> None:
          "-af", f"afade=t=in:st=0:d={fade},afade=t=out:st={dur - fade:.3f}:d={fade}",
          "-t", f"{dur:.3f}", "-c:a", "libmp3lame", "-b:a", "128k",
          "-ar", "48000", str(dst), "-y"], check=True, env=env)
+
+
+def speech_rate(timing: dict) -> float:
+    """Characters per second of speech, measured from the sentence map.
+
+    Used only to place a card on the word inside a sentence; sentence starts and ends
+    stay exactly as measured.
+    """
+    n_chars = 0
+    seconds = 0.0
+    for b in timing["blocks"]:
+        for sn in b["sentences"]:
+            n_chars += len(sn["text"])
+            seconds += max(0.2, sn["end"] - sn["start"])
+    return (n_chars / seconds) if seconds else 15.0
+
+
+def name_time(timing: dict, block: int, needle: str) -> tuple[float, float]:
+    """Where, in absolute seconds, the narrator actually says `needle`.
+
+    The sentence map gives the sentence; the name's position inside it is estimated at
+    the measured speech rate. Returns (name_start, sentence_end).
+    """
+    cps = speech_rate(timing)
+    for sn in timing["blocks"][block]["sentences"]:
+        i = sn["text"].lower().find(needle.lower())
+        if i >= 0:
+            at = sn["start"] + i / cps
+            return round(at, 3), sn["end"]
+    return -1.0, -1.0
 
 
 def sentences(text: str) -> list[str]:
@@ -449,19 +476,39 @@ def main() -> None:
         for (b, needle, place, note) in PLACES:
             if b != i:
                 continue
-            s_start, s_end = sentence_start(timing, i, needle)
-            if s_start < 0:
+            at_abs, s_end = name_time(timing, i, needle)
+            if at_abs < 0:
                 continue
-            at = s_start - t0
-            hold = max(3.4, min(6.2, (s_end - s_start) + 2.0))
-            msgs.append([at, hold, "place", dict(place=place, note=note)])
+            at = at_abs - t0                 # local seconds into the block
+            hold = 4.4
+            msgs.append([at, hold, "place", dict(place=place)])
 
         msgs.sort(key=lambda m: m[0])
-        floor = 5.5 if ch else 0.0
-        cursor = floor
+
+        # A place name is only useful under its own line, so it must never be pushed:
+        # if it would collide with anything already scheduled, it is dropped instead.
+        # Title cards keep their authored place and own the screen while they read.
+        cards = [m for m in msgs if m[2] == "card"]
+        places = [m for m in msgs if m[2] == "place"]
         kept = []
-        for at, hold, kind, payload in msgs:
+        cursor = 5.5 if ch else 0.0
+        for at, hold, kind, payload in cards:
             at = max(at, cursor)
+            if at > 24.0:
+                continue
+            hold = min(hold, 29.2 - at)
+            if hold < 2.6:
+                continue
+            kept.append((at, hold, kind, payload))
+            cursor = at + hold + 0.35
+        for at, hold, kind, payload in places:
+            clash = any(not (at + hold + 0.25 <= k_at or at >= k_at + k_hold + 0.25)
+                        for k_at, k_hold, _, _ in kept)
+            if clash or at < (5.5 if ch else 0.0) or at + hold > 29.2:
+                continue
+            kept.append((at, hold, kind, payload))
+        kept.sort(key=lambda m: m[0])
+        for at, hold, kind, payload in kept:
             if at > 24.0:                    # keep every message clear of the block edge
                 continue
             hold = min(hold, 29.2 - at)
@@ -488,14 +535,13 @@ def main() -> None:
                 sfx.append(dict(file=fx, start=t0 + at, vol=0.32))
             else:
                 pid = f"{sid}-pl{int(at * 10):04d}"
-                body.append(f'  <div id="{pid}" class="plaque" style="opacity:0">'
-                            f'<p class="pl">Place</p>'
-                            f'<p class="pv">{payload["place"]}</p>'
-                            f'<p class="pn">{payload["note"]}</p></div>')
-                js.append(f'  tl.fromTo("#{pid}",{{opacity:0,x:-22}},'
-                          f'{{opacity:1,x:0,duration:.55,ease:"power3.out",immediateRender:false}},{at:.2f});')
-                js.append(f'  tl.to("#{pid}",{{opacity:0,duration:.45}},{at + hold:.2f});')
-                sfx.append(dict(file="metalLatch.ogg", start=t0 + at, vol=0.22))
+                body.append(f'  <div id="{pid}" class="placard" style="opacity:0">'
+                            f'<span>{payload["place"]}</span></div>')
+                # the name is set as it is said: a short rise, no slide, no panel
+                js.append(f'  tl.fromTo("#{pid}",{{opacity:0,y:10}},'
+                          f'{{opacity:1,y:0,duration:.42,ease:"power2.out",immediateRender:false}},{at:.2f});')
+                js.append(f'  tl.to("#{pid}",{{opacity:0,duration:.4,ease:"power1.in"}},{at + hold:.2f});')
+                sfx.append(dict(file="metalLatch.ogg", start=t0 + at, vol=0.30))
 
         body.append('  </div>')
         (PROJ / "compositions" / f"{sid}.html").write_text(
