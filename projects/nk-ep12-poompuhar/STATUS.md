@@ -88,6 +88,7 @@ The image tool allows 10 pictures per turn, so one batch per "continue".
 | B23 | 220–229 | `1Ym01E3tdUHnBzELH28jz0t57kKKkYS6B` | `1wgEvpN3gt9Em7sh7U33miB6ciBM7ONvh` |
 | B24 | 230–239 | `17aGptkdBsIDbWW3sQlK2wX__X4uMLzp-` | `1pYHV12_tLrkXHvNuQsuZZhP3Bm3siD3k` |
 | B25 | 240–249 | `1ow4JHPeYa0a1OLsS9uM9bsXz2xA0BOjc` | `1p_h6vKkedCBzrve37ATq9mzfl12nb0VK` |
+| B26 | 250–259 | `1Z_KtqT-NfirPyUQ0iqkaYeKxV_291y61` | `1IFjqgR-6dIh3RDsIaWKA4ryDWfI-tm8_` |
 
 B01 looked at on the contact sheet, and 004, 006, 007, 008 at half size: all ten kept. No writing visible at that size; not inspected at full size.
 
@@ -315,6 +316,14 @@ Ten made; nine kept, one for redo. Looked at all ten at half size; the newspaper
 - Prompts used differ slightly from `prompts.json`: 240 said "seen from directly behind, no faces visible"; 249 said "warm sunset light" in place of "soft morning light".
 - Kept with a doubt: 240 the left man's face shows in shadowed part profile, and the newspaper is held open, not folded; 244 the dream harbour looks like a medieval European stone dock with chains; 243 is in a flatter illustrated style; 247 the hand wears a ring; 245 also has hills behind the lagoon.
 
-Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245 (twelve). Plan: B26 = 250–259 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+## B26 (250–259)
 
-Next: B26 = 250–259 (`tools/pack.py 250 259 26`).
+All ten made and kept. Looked at all ten at half size; the crews in 253, 256, 259 and the cropped 250 at full size.
+- 250–253 close N08: the ring well on the beach (stacked one-piece rings: the "not of bricks" wording works), the brick wharf with its posts, the dive boat, divers stepping off. 254–259 open N09 (the new dives): the red bound document, today's shore with a breakwater, the team over a chart, cadets carrying cases, ten divers on deck, the yellow robot lowered.
+- Film-copy crop added in `shots/crops.json`: 250 (x 0.31–1.00, y 0.22–0.91) because the child's face showed in profile; the film copy keeps the well and the child's arm on the rim.
+- Prompts used differ slightly from `prompts.json`: 250 added "made of stacked one-piece fired-clay rings and not of bricks"; 256, 257, 258 added "no faces visible".
+- Kept with a doubt: 253 three boat crew face the camera at small size, and the divers seem to step onto the water; 256 heads are bent over the chart with faces in shadow; 259 one crewman's bearded cheek shows in shadow; 251 has a wheelbarrow and baskets left in the trench.
+
+Redo list so far: 026, 028, 050, 166, 168, 169, 173, 198, 207, 209, 223, 245 (twelve). Plan: B27 = 260–269 … B32 = 310–319; B33 = 320–322 plus seven redos; B34 = the other redos plus doubtful pictures worth a second try (first choices: 159, 188, 151, 213).
+
+Next: B27 = 260–269 (`tools/pack.py 260 269 27`). Before 264 (laptop sonar) check its prompt; ring-well rows still to come: 278, 279, 280, 295 (add the "stacked one-piece fired-clay rings and not of bricks" wording).
