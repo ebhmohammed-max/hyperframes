@@ -75,6 +75,8 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B16 | 151–160 | `1RpRUyxu5QR0vPgn2gSLKQ-hGSvK0D6fH` | `1ShAhkxBFsGeA8FK8zXiG-E9WRqJHfm4g` | all kept. Board chapter (N06) complete except 138. 152: the guard sits inside the archway looking out over the ruins. |
 | B17 | 161–170 | `1BCKYRduzPOCyN2QRD450YYxdsExS04to` | `1XS2aKfQgfeBplgWmOdc5s5qX2F0d-GJx` | all kept. Boards in 167, 168 soft and unreadable. Palace in 162 matches the reference; in 169 it sits on a hilltop like a fort. |
 | B18 | 171–180 | `1MRItP06bc8aRM6ajzSv7IpMDYBNFiOfX` | `1-L1--aC7u6m3d1Y6VM4S3yP_3UF9ljoz` | all kept. 171: two children are seen in side view, small, in lamp light. Bazaar in 179 matches the reference. No suffering shown in 172–175. |
+| B19 | 181–185 | `1UiaZBFNiCV66ghKjmSzLkQdFWU7n73Ue` | **sheet not uploaded yet** (upload limit) | all kept. Closing pictures: terrace view, visitors leaving at sunset, leopard on the ridge, gateway under stars, the town under the Milky Way. |
+| R1 | 003, 026, 057, 119, 138 (remakes) | **not uploaded yet** (upload limit): `out/up/EP14_R1_images_redo_003_026_057_119_138.zip` | **not uploaded yet**: `out/up/EP14_R1_sheet.jpg` | all five kept and copied over `out/raw`. 003 board with soft lettering beside the gateway. 026 photographic night scrub with two small animal faces and eye-shine in a bush. 057 hermit from behind, empty valley. 119 bare hands, lime mortar; came with a rounded photo border, trimmed in `shots/crops.json`. 138 rusty frame edge sharp, lettering only blurred streaks. |
 
 ## Next
 
@@ -89,3 +91,9 @@ Everything untracked can vanish, `google_drive/` included. Recovery, about five 
 2. `bash tools/setup.sh` (toolchain in `/tmp`).
 3. Drive connector `download_file` for `EP14_cast.zip`, `EP14_narration_scratch_voice02.zip` and every batch zip listed in the Batches table (and redo zips `EP14_R*` once they exist); each lands in `<repo>/google_drive/`.
 4. Unzip the narration zip into `narration/`; `bash tools/restore.sh` unpacks the picture zips into `google_drive/ep14_pics/` and rebuilds `out/img` and the sheets.
+
+## Pictures complete (185 of 185)
+
+All 185 pictures exist in `out/raw` and `out/img`; the redo list is empty. Still to upload to the Drive `images` folder: `EP14_B19_sheet.jpg`, `EP14_R1_images_redo_003_026_057_119_138.zip`, `EP14_R1_sheet.jpg` (the upload limit was hit). Until the R1 zip is on Drive the five remakes exist only in this workspace; after a wipe they would have to be made again (wording in the R1 row and in git history of `shots/redo.txt`).
+
+Next: adapt `film/title.mjs` (name, subtitle, three plates) and `film/gen.mjs` (`HOOK_FX`, subscribe line), then build the film.
