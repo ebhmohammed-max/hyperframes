@@ -57,6 +57,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 
 | Batch | Pictures | Zip id | Sheet id | Notes |
 |---|---|---|---|---|
+| B01 | 001–010 | `1-axuM4wvc5GM3T2-i32ytP5LQbaJvqc3` | `16eslyo5DAhi1EBV46lLhIHiHIFD55FMy` | 003 to redo: the board came out as a smeared panel without lettering. Board wording in `shots/expand.py` strengthened after this. 004: lettering soft and unreadable, emblem invented (not the state emblem), kept. |
 
 ## Next
 

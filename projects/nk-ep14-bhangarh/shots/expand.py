@@ -18,7 +18,7 @@ LOOK = {
 REF = {
  "ratnavati": "The princess is the same young woman as in the reference picture: same face, deep red and gold ghagra skirt and long veil, gold forehead ornament.",
  "singhia": "The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces.",
- "board": "The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall.",
+ "board": "The notice board is the same as in the reference picture: a dark blue metal sign board with a thin white border, a small white emblem at the top and many rows of small white lettering in an Indian script, too small and soft to be read, standing against an old rubble-stone wall. The board is a plain lettered notice, not a painting and not blank.",
  "gate": "The gateway is the same as in the reference picture: same stone, same arch, same shape.",
  "bazaar": "The street is the same as in the reference picture: a straight paved lane between two rows of roofless stone shop cells.",
  "palace": "The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside.",
