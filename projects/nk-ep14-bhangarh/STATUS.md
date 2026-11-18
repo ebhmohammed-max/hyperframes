@@ -71,6 +71,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B12 | 111–120 | `1nHqKZVld_RPAo1GGIy5hyyTmSZO4Nvyj` | `11QOW8bexDf3yUnUf8J4orwx9YdpEZVrM` | nine kept; **119 to redo** (looks like a present-day photo: grey cement, buttoned shirt, modern trowel). 113 came with a rounded dark photo border, trimmed 3 % on each side in `shots/crops.json`; its stepwell is a larger, more intricate one than Bhangarh's. No suffering shown in the famine pictures. |
 | B13 | 121–130 | `14Q829myeeKbXRXEfhB4aGiEiL102bVEL` | `1T_NHOs0TCDQX3wtUqUPG-gGQ7Kan1QGD` | all kept. 130 board: lettering soft and unreadable, emblem at the top, as wanted. 121: three lamps burn and four are out, not an even fade. 122: the palace sits on the hilltop like a fort, higher than in the reference. 124 flagged by the edge check only for a dark top. |
 | B14 | 131–140 | `1DxAR10Wh_OP4eQ7CFfAsozqnS5BdbGfj` | `1cazxcU5NhGGJW2xKrmc5hOMQb5gZwH2i` | nine kept; **138 to redo** (close view of the board: the nearest rows are sharp nonsense Hindi words). 133 board lettering soft, fine; the visitor's cheek shows slightly. 134: the palace looks more whole than a ruin. 140 resembles Humayun's Tomb. 140 flagged by the edge check only for a dark gate post. |
+| B15 | 141–150 | `1gUl19QEbnFDNUxJRHwfOC3QUZk1wCXoL` | `1OfpyxVCeazNfB9p1-JxteLP86kle1y9x` | all kept. Wildlife (147–150) came out photographic with the wording "a real telephoto wildlife photograph taken at night … not an illustration"; use the same for the 026 remake. |
 
 ## Next
 
