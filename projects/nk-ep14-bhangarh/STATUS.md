@@ -75,8 +75,8 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B16 | 151–160 | `1RpRUyxu5QR0vPgn2gSLKQ-hGSvK0D6fH` | `1ShAhkxBFsGeA8FK8zXiG-E9WRqJHfm4g` | all kept. Board chapter (N06) complete except 138. 152: the guard sits inside the archway looking out over the ruins. |
 | B17 | 161–170 | `1BCKYRduzPOCyN2QRD450YYxdsExS04to` | `1XS2aKfQgfeBplgWmOdc5s5qX2F0d-GJx` | all kept. Boards in 167, 168 soft and unreadable. Palace in 162 matches the reference; in 169 it sits on a hilltop like a fort. |
 | B18 | 171–180 | `1MRItP06bc8aRM6ajzSv7IpMDYBNFiOfX` | `1-L1--aC7u6m3d1Y6VM4S3yP_3UF9ljoz` | all kept. 171: two children are seen in side view, small, in lamp light. Bazaar in 179 matches the reference. No suffering shown in 172–175. |
-| B19 | 181–185 | `1UiaZBFNiCV66ghKjmSzLkQdFWU7n73Ue` | **sheet not uploaded yet** (upload limit) | all kept. Closing pictures: terrace view, visitors leaving at sunset, leopard on the ridge, gateway under stars, the town under the Milky Way. |
-| R1 | 003, 026, 057, 119, 138 (remakes) | **not uploaded yet** (upload limit): `out/up/EP14_R1_images_redo_003_026_057_119_138.zip` | **not uploaded yet**: `out/up/EP14_R1_sheet.jpg` | all five kept and copied over `out/raw`. 003 board with soft lettering beside the gateway. 026 photographic night scrub with two small animal faces and eye-shine in a bush. 057 hermit from behind, empty valley. 119 bare hands, lime mortar; came with a rounded photo border, trimmed in `shots/crops.json`. 138 rusty frame edge sharp, lettering only blurred streaks. |
+| B19 | 181–185 | `1UiaZBFNiCV66ghKjmSzLkQdFWU7n73Ue` | `1M3Idwf_UCdmE9TNgFLCZb9nXKCaLDyGU` | all kept. Closing pictures: terrace view, visitors leaving at sunset, leopard on the ridge, gateway under stars, the town under the Milky Way. |
+| R1 | 003, 026, 057, 119, 138 (remakes) | `1LRIterLOyNI_-1XzGSlqzEUUDM5JQP0h` (`EP14_R1_images_redo_003_026_057_119_138.zip`) | `1LuqjIlyXcNv0dmH7QBU7YNEKJZHq1K9J` | all five kept and copied over `out/raw`. 003 board with soft lettering beside the gateway. 026 photographic night scrub with two small animal faces and eye-shine in a bush. 057 hermit from behind, empty valley. 119 bare hands, lime mortar; came with a rounded photo border, trimmed in `shots/crops.json`. 138 rusty frame edge sharp, lettering only blurred streaks. |
 
 ## Next
 
@@ -94,6 +94,11 @@ Everything untracked can vanish, `google_drive/` included. Recovery, about five 
 
 ## Pictures complete (185 of 185)
 
-All 185 pictures exist in `out/raw` and `out/img`; the redo list is empty. Still to upload to the Drive `images` folder: `EP14_B19_sheet.jpg`, `EP14_R1_images_redo_003_026_057_119_138.zip`, `EP14_R1_sheet.jpg` (the upload limit was hit). Until the R1 zip is on Drive the five remakes exist only in this workspace; after a wipe they would have to be made again (wording in the R1 row and in git history of `shots/redo.txt`).
+All 185 pictures exist in `out/raw` and `out/img`; the redo list is empty; every batch zip, the redo zip R1 and all contact sheets are in the Drive `images` folder. Upload files to Drive one at a time: four uploads in one go hit the limit once.
 
-Next: adapt `film/title.mjs` (name, subtitle, three plates) and `film/gen.mjs` (`HOOK_FX`, subscribe line), then build the film.
+## Film
+
+- `film/title.mjs`: name "பாங்கர்", subtitle "ராத்திரி யாரும் நுழையக்கூடாத கோட்டை" (draft, needs a native check), plates 009 (ruins under the moon) → 021 (board at dusk) → 010 (palace at night).
+- `film/gen.mjs`: `HOOK_FX` set for the 13 hook lines (q0–q12); the subscribe pop-up sits on N02 line q4 (the "where it is" line).
+- Lengths from `gen.mjs`: N01 75.8 s, N02 90.0, N03 76.3, N04 79.5, N05 96.3, N06 102.5, N07 87.5, title 12, end card 17: **636.9 s (10 min 37 s)**.
+- Build: `bash tools/render.sh` (background, about 50 min), `bash tools/finish.sh parts`, `VB=1000k bash tools/finish.sh 720`, check frames, upload each file on its own to the `EP14_Bhangarh` folder.

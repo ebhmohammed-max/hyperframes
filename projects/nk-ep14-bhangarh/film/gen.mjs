@@ -57,9 +57,10 @@ const MOVES = [
 
 // Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line)]
 const HOOK_FX = [
-  [0, "impact-bass-1", 0.34, "start"], [2, "whoosh", 0.2, "start"], [4, "impact-bass-2", 0.28, "start"],
-  [5, "whoosh-cinematic", 0.2, "start"], [6, "impact-bass-1", 0.3, "start"], [8, "whoosh", 0.18, "start"],
-  [10, "riser", 0.2, "start"], [10, "impact-bass-2", 0.36, "last"], [13, "whoosh", 0.18, "start"], [14, "impact-bass-1", 0.24, "start"],
+  // gate → board → "legal action" → the name → the empty town → two curses → "which is story, which is record?" → "it is not a ghost"
+  [0, "impact-bass-1", 0.34, "start"], [1, "whoosh", 0.2, "start"], [3, "impact-bass-2", 0.28, "start"],
+  [4, "whoosh-cinematic", 0.2, "start"], [5, "whoosh", 0.16, "start"], [7, "impact-bass-1", 0.3, "start"],
+  [9, "riser", 0.2, "start"], [9, "impact-bass-2", 0.36, "last"], [11, "whoosh", 0.16, "start"], [12, "impact-bass-1", 0.26, "last"],
 ];
 
 export function build(cid, opt = {}) {
@@ -199,7 +200,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   // ── subscribe pop-up (chapter 1 only): silent, 5 s, top right
   let sCss = "", sHtml = "", sJs = "";
   if (ci === 1 && !partial) {
-    const w5 = win.find((x) => x.q === 5) ?? win[Math.min(5, win.length - 1)];
+    const w5 = win.find((x) => x.q === 4) ?? win[Math.min(4, win.length - 1)]; // EP14: the "where it is" line, no source tag on screen
     const T0 = r(w5.t0), BX = 648, BY = 76;
     const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
     sCss = `
