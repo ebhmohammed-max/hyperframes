@@ -73,6 +73,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B14 | 131–140 | `1DxAR10Wh_OP4eQ7CFfAsozqnS5BdbGfj` | `1cazxcU5NhGGJW2xKrmc5hOMQb5gZwH2i` | nine kept; **138 to redo** (close view of the board: the nearest rows are sharp nonsense Hindi words). 133 board lettering soft, fine; the visitor's cheek shows slightly. 134: the palace looks more whole than a ruin. 140 resembles Humayun's Tomb. 140 flagged by the edge check only for a dark gate post. |
 | B15 | 141–150 | `1gUl19QEbnFDNUxJRHwfOC3QUZk1wCXoL` | `1OfpyxVCeazNfB9p1-JxteLP86kle1y9x` | all kept. Wildlife (147–150) came out photographic with the wording "a real telephoto wildlife photograph taken at night … not an illustration"; use the same for the 026 remake. |
 | B16 | 151–160 | `1RpRUyxu5QR0vPgn2gSLKQ-hGSvK0D6fH` | `1ShAhkxBFsGeA8FK8zXiG-E9WRqJHfm4g` | all kept. Board chapter (N06) complete except 138. 152: the guard sits inside the archway looking out over the ruins. |
+| B17 | 161–170 | `1BCKYRduzPOCyN2QRD450YYxdsExS04to` | `1XS2aKfQgfeBplgWmOdc5s5qX2F0d-GJx` | all kept. Boards in 167, 168 soft and unreadable. Palace in 162 matches the reference; in 169 it sits on a hilltop like a fort. |
 
 ## Next
 
