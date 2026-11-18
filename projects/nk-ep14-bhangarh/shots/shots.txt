@@ -1,0 +1,187 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# No ghost or apparition in any picture. Real rulers and Guru Balu Nath never by face. Board lettering always unreadable.
+N01|0|aravalli_dawn_wide|B|wide dawn view from a hillside down into a valley where the ruins of an old walled town lie in thin mist, no people
+N01|0|gate_front_path|B@gate|the old stone gateway of the ruined town seen from the front, a stone path leading through its arch, no people
+N01|1|board_on_wall|B@board|a dark blue notice board fixed to the rubble-stone wall beside the old gateway, seen at an angle, no people
+N01|1|board_top_emblem|B@board|close view of the top of the notice board with its small white emblem, the lettering soft and out of focus, no people
+N01|2|sunrise_behind_gate|B@gate|the sun just rising behind the old gateway, long shadows across the path, no people
+N01|2|sunset_over_ruins|N|the sun sinking behind the hills above the roofless ruins, the last orange light on the tops of the walls, no people
+N01|2|gate_shut_dusk|N@gate|the old gateway at dusk with a plain iron grille gate shut across its arch, no people
+N01|3|chain_lock_close|N|close view of a heavy chain and padlock on a plain iron grille gate at dusk, the ruins blurred behind, no people
+N01|4|ruins_moon_wide|N|wide moonlit view over the whole ruined town with a tall ruined palace on the hill slope at its far end, no people
+N01|4|palace_night_low|N@palace|the palace ruin seen from below under a moon and drifting cloud, no people
+N01|5|bazaar_empty_day|B@bazaar|the empty bazaar street of the ruined town in morning light, no people
+N01|5|temple_day|B@temple|the old stone temple standing whole among the ruins in morning light, no people
+N01|5|palace_day_far|B@palace|the palace ruin seen from far across the grass and banyan trees, no people
+N01|6|roofless_houses_above|B|looking down on rows of roofless stone rooms open to the sky, grass growing inside them, no people
+N01|6|roofless_room_sky|B|looking straight up from inside a roofless stone room, the four walls framing the open sky, no people
+N01|7|hermit_shadow_far|S|an old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind and far away, seated at the mouth of a small hill cave while a long dark shadow creeps across the ground toward him
+N01|7|princess_balcony_far|S@ratnavati|a young princess at a carved stone balcony looking down on the town at dusk
+N01|7|sorcerer_doorway|S@singhia|a sorcerer watching from a dark doorway, a small glass bottle in his hand
+N01|8|footprints_dark_doorway|N|footprints in the dust leading into the dark doorway of a ruin by moonlight, no people
+N01|9|lamp_and_ledger|X|a small clay oil lamp on the left and an old cloth-bound ledger on the right, on dark stone, no people
+N01|9|board_dusk_low|N@board|the notice board on its wall at dusk seen from low down, the sky deep blue behind, no people
+N01|10|table_map_glass|X|a folded old cloth map without lettering, a brass magnifying glass and loose ledger pages with faint illegible marks, on dark stone, no people
+N01|11|puppet_left_ledger_right|X|on a dark stone table, a Rajasthani string puppet of a king lying on the left and a stack of old ledgers on the right, a clear empty gap between them, no people
+N01|11|hands_keep_apart|X|two hands seen from above keeping a Rajasthani string puppet on one side of a dark stone table and a bundle of old ledgers on the other
+N01|12|ruins_forest_edge_dusk|N|the outer wall of the ruins at last light with a dark line of forest close behind it, no people
+N01|12|eyeshine_scrub|W|two small points of animal eye-shine in dark scrub beyond a broken stone wall at night, the animal itself not visible, no people
+N02|0|valley_surveyors_1573|P|wide view of an empty green valley under steep hills, a few surveyors far away with ropes and wooden stakes marking out the ground
+N02|1|mughal_court_far|O|a Mughal court hall of the 1570s seen from the far back, red sandstone pillars, courtiers in long jamas and turbans seen from behind, the emperor a tiny far figure under a canopy with no face visible
+N02|1|amber_hill_fort|O|the hill fort of Amber in Rajasthan in the 1570s, honey-coloured sandstone ramparts climbing a rocky ridge above a small lake, morning haze, no people
+N02|2|general_horse_behind|O|a Rajput general of the 1570s in a steel helmet with a turban cloth, mail and plate armour, on horseback seen from behind at the head of a cavalry column with banners on a dusty plain
+N02|2|young_prince_behind|O|a young Rajput prince of the 1570s seen from behind, long jama tunic, sash, turban and a sword at his waist, standing on a stone terrace looking out over a valley among hills
+N02|3|father_son_valley|P|an old king and a young prince, both seen from behind, standing on a rise and looking over a valley where masons are raising the first walls
+N02|3|masons_raise_wall|P|masons and labourers raising a rubble-stone wall with bamboo scaffolding, baskets of stone and a bullock cart
+N02|4|cloth_map_marker|X|an old hand-drawn cloth map of hills and rivers without any lettering, a small brass marker set on one spot, no people
+N02|4|road_to_hills|O|a narrow empty country road in Rajasthan running through mustard fields toward a line of rocky scrub-covered hills, morning light, present day, no vehicles, no people
+N02|4|forest_ridges_haze|W|wide view of dry forest ridges fading into haze, a ruined stone wall in the foreground, no people
+N02|5|town_birdseye_living|P|high bird's-eye view of a whole planned town in a valley: three rings of wall, one straight bazaar street, temple spires, and a tall palace on the hill slope at the far end, people tiny
+N02|5|masons_string_line|P|masons laying a straight paved street along a stretched string line, a master builder seen from behind holding a measuring rod
+N02|6|three_walls_gateways|P|view from the hillside of three lines of fortification wall one inside another, each with an arched gateway and guards small at the gates
+N02|7|bazaar_living|P@bazaar|the same bazaar street in its living days, flat-roofed stone shops with cloth awnings on both sides, a busy crowd seen from behind
+N02|7|jeweller_hands_scales|P|close view of a jeweller's hands weighing gold ornaments on small brass scales at a shop front, gems laid on red cloth
+N02|8|dancers_mansion_court|P|the courtyard of a mansion with carved balconies, seen from behind a pillar, dancers far across the court practising with seated musicians
+N02|8|temple_spires_dawn|P|several sandstone temple spires rising above the flat roofs of the town at dawn, birds in the sky, no people
+N02|8|worshippers_temple_steps|P@temple|worshippers seen from behind climbing the steps of the temple with trays of flowers
+N02|9|temple_plinth_below|B@temple|the temple on its high stone plinth seen from the foot of its steps, looking up, no people
+N02|9|stepwell_beside_temple|B|a small old stone stepwell with still green water beside a stone temple with a curved spire, no people
+N02|10|palace_slope_day|B@palace|the palace ruin on the hill slope at the far end of the town, seen from the path below, no people
+N02|10|palace_seven_storeys|P@palace|the same palace in its living days, taller, seven storeys with balconies, small domed pavilions and flags, against the same hillside, people tiny
+N02|11|house_walls_sea|B|wide high view of hundreds of low roofless house walls spreading across the valley floor, no people
+N02|11|flat_roofs_living|P|wide high view of hundreds of flat-roofed houses filling the valley, kitchen smoke rising, people tiny on the roofs
+N02|12|lane_water_pots|P|a town lane with women carrying brass water pots, a potter's stall and children running, all seen from behind
+N02|12|town_dusk_lamps|P|the town at dusk with small oil lamps in windows and at a temple door, people tiny
+N02|13|lane_empty_now|B|a narrow lane between roofless walls today, grass in the paving, completely empty, no people
+N03|0|elders_fire_story|O|village elders in Rajasthani turbans sitting round a small fire at night under a banyan tree, one elder's hands raised as he tells a story, all seen from behind or in shadow, present day
+N03|0|puppet_king_light|X|a Rajasthani string puppet of a king hanging in a shaft of light, no people
+N03|1|hill_cave_far|S|a small cave high on a rocky scrub-covered hill above an empty valley at dawn, a tiny seated figure at its mouth
+N03|1|hermit_meditating_behind|S|an old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind, seated cross-legged in meditation at the mouth of a cave looking out over an empty valley, a water pot and iron fire tongs beside him
+N03|2|king_climbs_path|S|a Rajput king seen from behind climbing a rocky hill path with two attendants toward a hermit's cave above
+N03|3|hermit_raised_finger|S|an old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind in the foreground, raising one finger, while a Rajput king kneels before him with folded hands and bowed head so that his turban hides his face
+N03|4|hermit_hand_points_ground|S|close view of an old hermit's hand with a bead bracelet and an ochre sleeve pointing at the bare sunlit ground before his cave
+N03|4|shadow_stops_short|S|seen from high above, the long shadow of a tall building lying across a valley floor, its tip stopping just short of a small hermit's hut at the foot of a hill, no people
+N03|5|king_walks_down|S|a Rajput king seen from behind walking down the hill path, the empty valley spread below him
+N03|5|town_low_roofs|S|a new town of deliberately low flat-roofed buildings in the valley, a small hut on the hill above it, afternoon light and short shadows, people tiny
+N03|6|town_grown_monsoon|S|the same town many years later, grown larger, rain clouds passing over, banyan trees grown tall, people tiny
+N03|6|young_ruler_model|S|a young Rajput ruler seen from behind on a balcony looking up at his palace, a builder beside him holding up a small wooden model of a taller building
+N03|7|palace_scaffold_rising|S@palace|the palace wrapped in bamboo scaffolding, masons adding new upper storeys, storey above storey
+N03|8|sunset_shadow_stretch|S|a low red sun behind a tall palace, its huge shadow stretching across the roofs of the town toward the hill, no people
+N03|8|shadow_touches_threshold|S|close view of the dark edge of a shadow reaching the stone threshold of a small hermit's hut where an ochre cloth and a water pot lie, no people
+N03|9|hermit_stands_dusk|S|an old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind, standing at the mouth of his cave at dusk with a staff, wind in his robe, looking down on the lamp-lit town
+N03|9|roofs_dust_far|S|seen from far away at dusk, clouds of dust rising over an old town as its flat roofs give way, no people
+N03|10|two_king_puppets|X|two different Rajasthani string puppets of kings hanging side by side in a shaft of light, no people
+N03|10|tellers_hands|O|close view of the gesturing hands of three village storytellers sitting in a row on a rope cot in a Rajasthani village courtyard, present day, faces not in frame
+N03|11|small_white_shrine|B|a small whitewashed domed shrine on a stone platform on the rocky hillside above the ruins, a faded saffron flag on a pole, no people
+N03|11|hands_lamp_marigold|T|a villager's hands placing a small clay lamp and marigold flowers at the step of a small whitewashed shrine
+N03|12|ruins_from_shrine|B|view from beside a small whitewashed shrine on the hill down over the ruined town, no people
+N03|12|perfume_bottle_light|X|a small old glass perfume bottle half full of golden oil, no people
+N04|0|puppet_princess_light|X|a Rajasthani string puppet of a princess in red and gold hanging in a shaft of light, no people
+N04|1|ratnavati_balcony_morning|S@ratnavati|the princess at a carved stone balcony window in morning light, calm and thoughtful
+N04|1|ratnavati_garden|S@ratnavati|the princess walking in a palace garden with fountains, two maids following behind her
+N04|2|ratnavati_gives_grain|S@ratnavati|the princess at the palace gate pouring grain into the cloth of an old woman seen from behind, a kind smile on her face
+N04|2|envoys_gift_trays|S|envoys from other kingdoms in different turbans waiting in a palace hall with covered trays of gifts, seen from behind
+N04|3|singhia_hut_fire|S@singhia|the sorcerer seated in a dark hut before a small fire, clay pots and bundles of dried herbs around him
+N04|3|singhia_hill_dusk|S@singhia|the sorcerer standing on a rocky hill at dusk looking down at a lamp-lit palace
+N04|4|singhia_face_shadow|S@singhia|close view of the sorcerer's face half in shadow, brooding, eyes lowered
+N04|5|maid_perfume_stall|S|a bazaar stall with rows of small coloured glass bottles, a young maid in a plain veil seen from behind choosing one from the perfume seller
+N04|5|singhia_behind_pillar|S@singhia|the sorcerer watching from behind a stone pillar in the bazaar crowd
+N04|6|hand_over_bottle_glow|S|close view of a man's hand with rings and bead bracelets held over a small glass bottle of oil, a faint green glow in the oil
+N04|6|maid_tray_steps|S|a maid seen from behind carrying a small glass bottle on a brass tray up the palace steps
+N04|7|ratnavati_bottle_window|S@ratnavati|the princess holding a small glass bottle up to the window light, her eyes narrowed and wary
+N04|7|oil_poured_boulder|S|a woman's hand with gold bangles pouring oil from a small bottle from a palace window onto a great round boulder below
+N04|8|boulder_rolls_slope|S|a great round boulder rolling down a rocky hill slope in a cloud of dust at dusk toward a small hut, no people
+N04|8|singhia_looks_up|S@singhia|the sorcerer looking up, startled, as a huge round shadow falls across him and the ground
+N04|9|boulder_rest_beads|S|dust settling round a great boulder at rest at the foot of the hill at dusk, a broken string of beads on the ground beside it, no people
+N04|9|storm_over_town|S|dark storm clouds gathering over the lamp-lit town at night, wind bending the trees, no people
+N04|10|two_armies_far|S|two Rajput armies far away drawn up facing each other across a dusty plain with banners, hills behind, the figures tiny
+N04|10|veil_on_balcony|S|an empty palace balcony, a red and gold veil left on the stone railing and stirring in the wind, no people
+N04|11|village_girl_dawn|O|a village girl in a red veil seen from behind walking along a field path toward distant ruins below rocky hills at dawn, Rajasthan, present day
+N04|11|lamp_palace_window|N|one small clay lamp burning in an empty window opening of the palace ruin at dusk, no people
+N04|12|story_scroll_rolled|X|an old Rajasthani painted cloth story scroll with small folk-style figures and no lettering, half rolled up, no people
+N04|12|hands_open_ledger_bundle|M|two hands untying a cloth-wrapped bundle of old ledgers
+N05|0|record_room_wide|M|wide view of the room, shelves of cloth bundles to the ceiling, no people
+N05|0|dry_field_one_tree|F|a wide cracked field with one bare tree, no people
+N05|1|throne_turban_sword|O|an empty Rajput throne seat with cushions in a pillared hall of the early 17th century, a turban and a sheathed sword laid on it, soft morning light, no people
+N05|1|white_clad_cenotaph|P|townspeople in white seen from behind gathered at a domed stone cenotaph beside a pond at dawn
+N05|2|bazaar_half_shut|P@bazaar|the same bazaar street with half of its shops closed with wooden shutters and only a few people, seen from behind
+N05|3|new_fort_ridge|O|a small Rajput hill fort of the 17th century, newly built of pale stone, on a rocky ridge above a village and a small lake in the Aravalli hills of Rajasthan, morning, people tiny
+N05|3|carts_leave_gate|P@gate|families with bullock carts loaded with household goods leaving the town through its gateway, seen from behind
+N05|4|mughal_hall_dust|O|an empty Mughal audience hall of red sandstone in the early 18th century, a bare marble throne balcony, a faded canopy, dust and pigeons, no people
+N05|4|army_at_gate_1720|P@gate|a Rajput army column of the 1720s with banners and two elephants arriving at the town gateway, seen from behind and far
+N05|4|keys_hand_to_hand|P|close view of one hand giving a ring of large iron keys to another hand that wears a gold ring, a stone gateway blurred behind
+N05|5|audience_hall_bare|P|the palace audience hall empty, its throne platform bare, dry leaves on the floor, no people
+N05|6|cracked_earth_sky|F|low view across cracked earth to a pale empty sky, no people
+N05|6|dry_stepwell|F|a dry stone stepwell, its steps going down to cracked mud, no people
+N05|7|farmer_behind_sky|F|a farmer seen from behind standing in a dead field looking up at a cloudless sky
+N05|7|mud_village_empty|F|an abandoned village of mud houses with doors standing open, dust blowing down the lane, no people
+N05|7|map_clay_tokens|X|an old hand-drawn cloth map without lettering covered with dozens of small clay discs, about a third of them taken away leaving pale rings, no people
+N05|8|last_families_leave|F|the last few families walking away from a stone town below hills with bundles on their heads, seen from behind and far, dust in the air
+N05|8|door_left_open|F|a wooden door left open on the empty courtyard of a stone house, a cracked clay pot on the ground, no people
+N05|9|foundation_stone_hands|P|close view of a mason's hands setting a foundation stone in lime mortar
+N05|9|banyan_over_wall|B|a giant old banyan tree whose roots have grown down over a ruined stone wall, no people
+N05|9|seven_lamps_row|X|seven small clay lamps in a row, the first burning bright and each one dimmer, the last one out, no people
+N05|10|town_few_lamps|P|the town at dusk with only a few lamps lit among many dark houses, no people
+N05|10|grass_through_floor|B|grass and a young tree growing up through the paved floor of a roofless room, no people
+N05|11|ledger_blank_page|M|hands turning the pages of an old ledger, one page blank under a brass magnifying glass
+N05|11|puppets_on_ledgers|X|a princess puppet and a dark-robed sorcerer puppet lying on top of a closed stack of old ledgers, no people
+N05|12|fallen_beams_room|B|a roofless room with the remains of rotten timber beams and lime plaster rubble on its floor while the stone walls stand firm, no people
+N05|12|beam_sockets_wall|B|close view of a thick rubble-stone wall with a row of empty square sockets where roof beams once sat, no people
+N05|13|temple_roof_whole|B@temple|the temple seen from the side with its stone roof and spire complete, roofless house walls in the foreground, no people
+N05|13|temple_stone_ceiling|B|looking up inside the porch of an old stone temple at its carved stone ceiling, whole and unbroken, no people
+N06|0|board_front|B@board|the notice board on its wall seen straight from the front, no people
+N06|1|lawn_railing_ruins|B|trimmed lawns, stone edging and low iron railings round the ruins, a cared-for protected monument, no people
+N06|1|hands_lime_trowel|T|the hands of a conservation worker repointing an old stone wall with lime mortar and a small trowel
+N06|2|visitor_reads_board|T@board|a visitor seen from behind standing before the notice board
+N06|2|first_light_palace_top|B|first sunlight touching the top of a ruined palace on the hill slope while the valley is still in blue shadow, no people
+N06|2|guard_shuts_gate|T|a guard in a plain khaki uniform seen from behind pulling an iron grille gate shut at sunset
+N06|3|cattle_outside_wall|T|cows and goats grazing outside the old stone boundary wall, a herdsman with a stick seen from behind
+N06|3|kewda_grove|B|a grove of kewda screw-pine trees with long spiky leaves and stilt roots beside a small stream below a ruined wall, no people
+N06|4|board_lines_angled|B@board|close view along the notice board at a steep angle, row after row of small white lettering all soft and unreadable, no people
+N06|4|kewda_leaves_close|B|close view of the long spiky leaves and a pale flower of a kewda screw-pine tree, a ruined wall blurred behind, no people
+N06|5|domed_tomb_gate_sunset|O|a different old Indian monument, a domed stone tomb in a garden at sunset, a guard seen from behind closing its iron gate, present day, no readable writing
+N06|5|ticket_window_shut|T|a small ticket window with its plain shutter down and an empty queue railing at dusk, no people
+N06|5|midday_paths_visitors|T|the ruins under a high midday sun, a few visitors small and seen from behind walking the paths
+N06|6|path_dusk_plain|N|a plain quiet view along a path between the ruins at dusk, nothing frightening in it, no people
+N06|7|broken_stair_moon|N|a broken stone staircase with missing steps and an open drop beside it inside the palace ruin by moonlight, no people
+N06|7|open_cellar_pit|N|an unfenced square opening into a dark cellar in the floor of a ruin, hard to see in the dark, no people
+N06|8|forest_beyond_wall|W|wide dusk view of dry forest hills rolling away beyond the outer wall of the ruins, no people
+N06|8|leopard_on_wall|W|a leopard walking along the top of a ruined stone wall by moonlight, no people
+N06|8|hyena_path|W|a striped hyena crossing a stony path between ruined walls at night, no people
+N06|9|langurs_on_walls|W|grey langur monkeys with black faces and long tails sitting along the tops of roofless walls at dusk, no people
+N06|9|peacock_roost_moon|W|a peacock roosting on a banyan branch above the ruins, dark against a bright moon, no people
+N06|9|banyan_roots_sway|N|banyan branches and hanging roots swaying above a ruined doorway by moonlight, leaves in the air, no people
+N06|10|guard_tea_dawn|T|a guard in a plain khaki uniform seen from behind sitting on a stool beside the old gateway at dawn with a small glass of tea, at ease
+N06|10|official_hands_files|T|an official's hands resting on a desk beside a pen and stacks of paper files tied with cloth tape, office shelves behind
+N06|10|reporter_notebook_hands|T|close view of a reporter's hands writing in a notebook while a guard's hand gestures calmly toward the ruins
+N06|11|team_night_tripod|T|a small team seen from behind among the ruins at night with a camera on a tripod showing one small red light and handheld instruments
+N06|11|meter_needle_rest|T|close view of a hand holding a small handheld meter whose needle rests at zero, dark ruins behind, the dial without numbers
+N06|12|empty_file_folder|X|an open empty cardboard file folder, no people
+N06|12|visitors_walk_out_morning|T@gate|visitors seen from behind walking out through the old gateway on an ordinary sunny morning
+N06|13|board_morning_flowers|B@board|the notice board in plain bright morning light with a flowering shrub beside it, quite harmless, no people
+N06|13|wall_wooden_props|B|a leaning ruined wall held up by wooden props and closed off with a rope, no people
+N07|0|ruins_mist_morning|B|morning mist lying among the roofless walls and banyan trees, the palace dim behind, no people
+N07|0|visitor_before_palace|T@palace|one visitor seen from behind standing still and looking up at the palace ruin
+N07|1|roofless_rows_long_shadows|B|hundreds of roofless walls seen from the hillside late in the day, long shadows, no people
+N07|1|bazaar_low_angle_dusk|N@bazaar|the empty bazaar street seen from low down at dusk, no people
+N07|2|visitor_passage_pause|T|a visitor seen from behind pausing in a narrow ruined passage, head half turned, the face in shadow
+N07|2|dry_leaves_doorway|B|dry leaves whirling in the wind in the doorway of a ruin, no people
+N07|3|phone_photo_board|T@board|a visitor's hands holding up a phone to photograph the notice board, the phone screen blurred
+N07|3|board_long_shadow|N@board|the notice board at dusk throwing a long shadow along the wall, no people
+N07|4|guide_points_group|T|a local guide seen from behind pointing toward the palace for a small group of visitors seen from behind
+N07|4|tea_stalls_outside|T|tea and snack stalls with plain awnings outside the old boundary wall, vendors and visitors seen from behind
+N07|5|grandmother_cot_story|O|a grandmother seen from behind telling a story to children sitting on a rope cot in a Rajasthani village courtyard at dusk, one oil lamp, present day
+N07|6|town_across_cracked_ground|F|a stone town below hills seen across wide cracked ground, its lanes empty, no people
+N07|6|empty_grain_jars|F|a row of empty clay grain jars in a dim stone house, dust in a shaft of light, no people
+N07|7|families_dusty_road|F|a long line of families far away walking a dusty road away from the hills with bundles and a few carts, seen from behind
+N07|7|adult_child_hands|F|close view from behind of an adult's hand holding a small child's hand as they walk a dusty road
+N07|8|house_niche_grindstone|B|inside a roofless house, a small lamp niche in the wall and an old grinding stone left on the floor, no people
+N07|9|lamp_lit_shrine_dusk|T|hands lighting a small clay lamp at a small whitewashed shrine on the hillside at dusk
+N07|9|scroll_princess_lamp|X|an old Rajasthani painted cloth story scroll showing a small folk-style figure of a princess, a clay lamp burning beside it, no lettering, no people
+N07|10|visitors_bazaar_sun|T@bazaar|visitors seen from behind walking up the bazaar street in bright daylight
+N07|10|temple_carving_close|B@temple|close view of the carved sandstone pillars and brackets of the temple porch, no people
+N07|10|view_from_palace_top|T|a visitor seen from behind at the parapet of a ruined palace terrace looking down over low ruined walls, paths and banyan trees to flat country and a far ridge
+N07|11|visitors_leave_low_sun|T@gate|visitors seen from behind walking out through the old gateway toward a low sun
+N07|11|leopard_ridge_dusk|W|the dark shape of a leopard on a rocky ridge above ruined walls at dusk, no people
+N07|12|gate_night_stars|N@gate|the old gateway at night under stars, its arch dark and open, no people
+N07|12|ruins_starry_wide|N|wide view of the ruined town under a sky full of stars, the palace dark on the slope, no people

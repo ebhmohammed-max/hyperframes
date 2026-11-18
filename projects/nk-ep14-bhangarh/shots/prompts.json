@@ -1,0 +1,1984 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "aravalli_dawn_wide",
+  "look": "B",
+  "file": "EP14_001_N01q00_aravalli_dawn_wide.jpg",
+  "prompt": "Wide dawn view from a hillside down into a valley where the ruins of an old walled town lie in thin mist, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "gate_front_path",
+  "look": "B",
+  "file": "EP14_002_N01q00_gate_front_path.jpg",
+  "prompt": "The old stone gateway of the ruined town seen from the front, a stone path leading through its arch, no people. The gateway is the same as in the reference picture: same stone, same arch, same shape. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "board_on_wall",
+  "look": "B",
+  "file": "EP14_003_N01q01_board_on_wall.jpg",
+  "prompt": "A dark blue notice board fixed to the rubble-stone wall beside the old gateway, seen at an angle, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "board_top_emblem",
+  "look": "B",
+  "file": "EP14_004_N01q01_board_top_emblem.jpg",
+  "prompt": "Close view of the top of the notice board with its small white emblem, the lettering soft and out of focus, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "sunrise_behind_gate",
+  "look": "B",
+  "file": "EP14_005_N01q02_sunrise_behind_gate.jpg",
+  "prompt": "The sun just rising behind the old gateway, long shadows across the path, no people. The gateway is the same as in the reference picture: same stone, same arch, same shape. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 2,
+  "k": 1,
+  "name": "sunset_over_ruins",
+  "look": "N",
+  "file": "EP14_006_N01q02_sunset_over_ruins.jpg",
+  "prompt": "The sun sinking behind the hills above the roofless ruins, the last orange light on the tops of the walls, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 2,
+  "k": 2,
+  "name": "gate_shut_dusk",
+  "look": "N",
+  "file": "EP14_007_N01q02_gate_shut_dusk.jpg",
+  "prompt": "The old gateway at dusk with a plain iron grille gate shut across its arch, no people. The gateway is the same as in the reference picture: same stone, same arch, same shape. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "chain_lock_close",
+  "look": "N",
+  "file": "EP14_008_N01q03_chain_lock_close.jpg",
+  "prompt": "Close view of a heavy chain and padlock on a plain iron grille gate at dusk, the ruins blurred behind, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "ruins_moon_wide",
+  "look": "N",
+  "file": "EP14_009_N01q04_ruins_moon_wide.jpg",
+  "prompt": "Wide moonlit view over the whole ruined town with a tall ruined palace on the hill slope at its far end, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "palace_night_low",
+  "look": "N",
+  "file": "EP14_010_N01q04_palace_night_low.jpg",
+  "prompt": "The palace ruin seen from below under a moon and drifting cloud, no people. The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "palace"
+  ]
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "bazaar_empty_day",
+  "look": "B",
+  "file": "EP14_011_N01q05_bazaar_empty_day.jpg",
+  "prompt": "The empty bazaar street of the ruined town in morning light, no people. The street is the same as in the reference picture: a straight paved lane between two rows of roofless stone shop cells. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "bazaar"
+  ]
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 5,
+  "k": 1,
+  "name": "temple_day",
+  "look": "B",
+  "file": "EP14_012_N01q05_temple_day.jpg",
+  "prompt": "The old stone temple standing whole among the ruins in morning light, no people. The temple is the same as in the reference picture: same honey-coloured sandstone, same curved spire and pillared porch on a high plinth. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 5,
+  "k": 2,
+  "name": "palace_day_far",
+  "look": "B",
+  "file": "EP14_013_N01q05_palace_day_far.jpg",
+  "prompt": "The palace ruin seen from far across the grass and banyan trees, no people. The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "palace"
+  ]
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "roofless_houses_above",
+  "look": "B",
+  "file": "EP14_014_N01q06_roofless_houses_above.jpg",
+  "prompt": "Looking down on rows of roofless stone rooms open to the sky, grass growing inside them, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 6,
+  "k": 1,
+  "name": "roofless_room_sky",
+  "look": "B",
+  "file": "EP14_015_N01q06_roofless_room_sky.jpg",
+  "prompt": "Looking straight up from inside a roofless stone room, the four walls framing the open sky, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "hermit_shadow_far",
+  "look": "S",
+  "file": "EP14_016_N01q07_hermit_shadow_far.jpg",
+  "prompt": "An old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind and far away, seated at the mouth of a small hill cave while a long dark shadow creeps across the ground toward him. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 7,
+  "k": 1,
+  "name": "princess_balcony_far",
+  "look": "S",
+  "file": "EP14_017_N01q07_princess_balcony_far.jpg",
+  "prompt": "A young princess at a carved stone balcony looking down on the town at dusk. The princess is the same young woman as in the reference picture: same face, deep red and gold ghagra skirt and long veil, gold forehead ornament. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ratnavati"
+  ]
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 7,
+  "k": 2,
+  "name": "sorcerer_doorway",
+  "look": "S",
+  "file": "EP14_018_N01q07_sorcerer_doorway.jpg",
+  "prompt": "A sorcerer watching from a dark doorway, a small glass bottle in his hand. The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "singhia"
+  ]
+ },
+ {
+  "n": 19,
+  "clip": "N01",
+  "q": 8,
+  "k": 0,
+  "name": "footprints_dark_doorway",
+  "look": "N",
+  "file": "EP14_019_N01q08_footprints_dark_doorway.jpg",
+  "prompt": "Footprints in the dust leading into the dark doorway of a ruin by moonlight, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "lamp_and_ledger",
+  "look": "X",
+  "file": "EP14_020_N01q09_lamp_and_ledger.jpg",
+  "prompt": "A small clay oil lamp on the left and an old cloth-bound ledger on the right, on dark stone, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "board_dusk_low",
+  "look": "N",
+  "file": "EP14_021_N01q09_board_dusk_low.jpg",
+  "prompt": "The notice board on its wall at dusk seen from low down, the sky deep blue behind, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 22,
+  "clip": "N01",
+  "q": 10,
+  "k": 0,
+  "name": "table_map_glass",
+  "look": "X",
+  "file": "EP14_022_N01q10_table_map_glass.jpg",
+  "prompt": "A folded old cloth map without lettering, a brass magnifying glass and loose ledger pages with faint illegible marks, on dark stone, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N01",
+  "q": 11,
+  "k": 0,
+  "name": "puppet_left_ledger_right",
+  "look": "X",
+  "file": "EP14_023_N01q11_puppet_left_ledger_right.jpg",
+  "prompt": "On a dark stone table, a Rajasthani string puppet of a king lying on the left and a stack of old ledgers on the right, a clear empty gap between them, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N01",
+  "q": 11,
+  "k": 1,
+  "name": "hands_keep_apart",
+  "look": "X",
+  "file": "EP14_024_N01q11_hands_keep_apart.jpg",
+  "prompt": "Two hands seen from above keeping a Rajasthani string puppet on one side of a dark stone table and a bundle of old ledgers on the other. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N01",
+  "q": 12,
+  "k": 0,
+  "name": "ruins_forest_edge_dusk",
+  "look": "N",
+  "file": "EP14_025_N01q12_ruins_forest_edge_dusk.jpg",
+  "prompt": "The outer wall of the ruins at last light with a dark line of forest close behind it, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N01",
+  "q": 12,
+  "k": 1,
+  "name": "eyeshine_scrub",
+  "look": "W",
+  "file": "EP14_026_N01q12_eyeshine_scrub.jpg",
+  "prompt": "Two small points of animal eye-shine in dark scrub beyond a broken stone wall at night, the animal itself not visible, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "valley_surveyors_1573",
+  "look": "P",
+  "file": "EP14_027_N02q00_valley_surveyors_1573.jpg",
+  "prompt": "Wide view of an empty green valley under steep hills, a few surveyors far away with ropes and wooden stakes marking out the ground. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "mughal_court_far",
+  "look": "O",
+  "file": "EP14_028_N02q01_mughal_court_far.jpg",
+  "prompt": "A Mughal court hall of the 1570s seen from the far back, red sandstone pillars, courtiers in long jamas and turbans seen from behind, the emperor a tiny far figure under a canopy with no face visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "amber_hill_fort",
+  "look": "O",
+  "file": "EP14_029_N02q01_amber_hill_fort.jpg",
+  "prompt": "The hill fort of Amber in Rajasthan in the 1570s, honey-coloured sandstone ramparts climbing a rocky ridge above a small lake, morning haze, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "general_horse_behind",
+  "look": "O",
+  "file": "EP14_030_N02q02_general_horse_behind.jpg",
+  "prompt": "A Rajput general of the 1570s in a steel helmet with a turban cloth, mail and plate armour, on horseback seen from behind at the head of a cavalry column with banners on a dusty plain. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "young_prince_behind",
+  "look": "O",
+  "file": "EP14_031_N02q02_young_prince_behind.jpg",
+  "prompt": "A young Rajput prince of the 1570s seen from behind, long jama tunic, sash, turban and a sword at his waist, standing on a stone terrace looking out over a valley among hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "father_son_valley",
+  "look": "P",
+  "file": "EP14_032_N02q03_father_son_valley.jpg",
+  "prompt": "An old king and a young prince, both seen from behind, standing on a rise and looking over a valley where masons are raising the first walls. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "masons_raise_wall",
+  "look": "P",
+  "file": "EP14_033_N02q03_masons_raise_wall.jpg",
+  "prompt": "Masons and labourers raising a rubble-stone wall with bamboo scaffolding, baskets of stone and a bullock cart. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "cloth_map_marker",
+  "look": "X",
+  "file": "EP14_034_N02q04_cloth_map_marker.jpg",
+  "prompt": "An old hand-drawn cloth map of hills and rivers without any lettering, a small brass marker set on one spot, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "road_to_hills",
+  "look": "O",
+  "file": "EP14_035_N02q04_road_to_hills.jpg",
+  "prompt": "A narrow empty country road in Rajasthan running through mustard fields toward a line of rocky scrub-covered hills, morning light, present day, no vehicles, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N02",
+  "q": 4,
+  "k": 2,
+  "name": "forest_ridges_haze",
+  "look": "W",
+  "file": "EP14_036_N02q04_forest_ridges_haze.jpg",
+  "prompt": "Wide view of dry forest ridges fading into haze, a ruined stone wall in the foreground, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "town_birdseye_living",
+  "look": "P",
+  "file": "EP14_037_N02q05_town_birdseye_living.jpg",
+  "prompt": "High bird's-eye view of a whole planned town in a valley: three rings of wall, one straight bazaar street, temple spires, and a tall palace on the hill slope at the far end, people tiny. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "masons_string_line",
+  "look": "P",
+  "file": "EP14_038_N02q05_masons_string_line.jpg",
+  "prompt": "Masons laying a straight paved street along a stretched string line, a master builder seen from behind holding a measuring rod. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "three_walls_gateways",
+  "look": "P",
+  "file": "EP14_039_N02q06_three_walls_gateways.jpg",
+  "prompt": "View from the hillside of three lines of fortification wall one inside another, each with an arched gateway and guards small at the gates. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 40,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "bazaar_living",
+  "look": "P",
+  "file": "EP14_040_N02q07_bazaar_living.jpg",
+  "prompt": "The same bazaar street in its living days, flat-roofed stone shops with cloth awnings on both sides, a busy crowd seen from behind. The street is the same as in the reference picture: a straight paved lane between two rows of roofless stone shop cells. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "bazaar"
+  ]
+ },
+ {
+  "n": 41,
+  "clip": "N02",
+  "q": 7,
+  "k": 1,
+  "name": "jeweller_hands_scales",
+  "look": "P",
+  "file": "EP14_041_N02q07_jeweller_hands_scales.jpg",
+  "prompt": "Close view of a jeweller's hands weighing gold ornaments on small brass scales at a shop front, gems laid on red cloth. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "dancers_mansion_court",
+  "look": "P",
+  "file": "EP14_042_N02q08_dancers_mansion_court.jpg",
+  "prompt": "The courtyard of a mansion with carved balconies, seen from behind a pillar, dancers far across the court practising with seated musicians. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N02",
+  "q": 8,
+  "k": 1,
+  "name": "temple_spires_dawn",
+  "look": "P",
+  "file": "EP14_043_N02q08_temple_spires_dawn.jpg",
+  "prompt": "Several sandstone temple spires rising above the flat roofs of the town at dawn, birds in the sky, no people. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N02",
+  "q": 8,
+  "k": 2,
+  "name": "worshippers_temple_steps",
+  "look": "P",
+  "file": "EP14_044_N02q08_worshippers_temple_steps.jpg",
+  "prompt": "Worshippers seen from behind climbing the steps of the temple with trays of flowers. The temple is the same as in the reference picture: same honey-coloured sandstone, same curved spire and pillared porch on a high plinth. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 45,
+  "clip": "N02",
+  "q": 9,
+  "k": 0,
+  "name": "temple_plinth_below",
+  "look": "B",
+  "file": "EP14_045_N02q09_temple_plinth_below.jpg",
+  "prompt": "The temple on its high stone plinth seen from the foot of its steps, looking up, no people. The temple is the same as in the reference picture: same honey-coloured sandstone, same curved spire and pillared porch on a high plinth. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 46,
+  "clip": "N02",
+  "q": 9,
+  "k": 1,
+  "name": "stepwell_beside_temple",
+  "look": "B",
+  "file": "EP14_046_N02q09_stepwell_beside_temple.jpg",
+  "prompt": "A small old stone stepwell with still green water beside a stone temple with a curved spire, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N02",
+  "q": 10,
+  "k": 0,
+  "name": "palace_slope_day",
+  "look": "B",
+  "file": "EP14_047_N02q10_palace_slope_day.jpg",
+  "prompt": "The palace ruin on the hill slope at the far end of the town, seen from the path below, no people. The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "palace"
+  ]
+ },
+ {
+  "n": 48,
+  "clip": "N02",
+  "q": 10,
+  "k": 1,
+  "name": "palace_seven_storeys",
+  "look": "P",
+  "file": "EP14_048_N02q10_palace_seven_storeys.jpg",
+  "prompt": "The same palace in its living days, taller, seven storeys with balconies, small domed pavilions and flags, against the same hillside, people tiny. The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "palace"
+  ]
+ },
+ {
+  "n": 49,
+  "clip": "N02",
+  "q": 11,
+  "k": 0,
+  "name": "house_walls_sea",
+  "look": "B",
+  "file": "EP14_049_N02q11_house_walls_sea.jpg",
+  "prompt": "Wide high view of hundreds of low roofless house walls spreading across the valley floor, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N02",
+  "q": 11,
+  "k": 1,
+  "name": "flat_roofs_living",
+  "look": "P",
+  "file": "EP14_050_N02q11_flat_roofs_living.jpg",
+  "prompt": "Wide high view of hundreds of flat-roofed houses filling the valley, kitchen smoke rising, people tiny on the roofs. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N02",
+  "q": 12,
+  "k": 0,
+  "name": "lane_water_pots",
+  "look": "P",
+  "file": "EP14_051_N02q12_lane_water_pots.jpg",
+  "prompt": "A town lane with women carrying brass water pots, a potter's stall and children running, all seen from behind. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N02",
+  "q": 12,
+  "k": 1,
+  "name": "town_dusk_lamps",
+  "look": "P",
+  "file": "EP14_052_N02q12_town_dusk_lamps.jpg",
+  "prompt": "The town at dusk with small oil lamps in windows and at a temple door, people tiny. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N02",
+  "q": 13,
+  "k": 0,
+  "name": "lane_empty_now",
+  "look": "B",
+  "file": "EP14_053_N02q13_lane_empty_now.jpg",
+  "prompt": "A narrow lane between roofless walls today, grass in the paving, completely empty, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "elders_fire_story",
+  "look": "O",
+  "file": "EP14_054_N03q00_elders_fire_story.jpg",
+  "prompt": "Village elders in Rajasthani turbans sitting round a small fire at night under a banyan tree, one elder's hands raised as he tells a story, all seen from behind or in shadow, present day. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "puppet_king_light",
+  "look": "X",
+  "file": "EP14_055_N03q00_puppet_king_light.jpg",
+  "prompt": "A Rajasthani string puppet of a king hanging in a shaft of light, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "hill_cave_far",
+  "look": "S",
+  "file": "EP14_056_N03q01_hill_cave_far.jpg",
+  "prompt": "A small cave high on a rocky scrub-covered hill above an empty valley at dawn, a tiny seated figure at its mouth. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "hermit_meditating_behind",
+  "look": "S",
+  "file": "EP14_057_N03q01_hermit_meditating_behind.jpg",
+  "prompt": "An old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind, seated cross-legged in meditation at the mouth of a cave looking out over an empty valley, a water pot and iron fire tongs beside him. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "king_climbs_path",
+  "look": "S",
+  "file": "EP14_058_N03q02_king_climbs_path.jpg",
+  "prompt": "A Rajput king seen from behind climbing a rocky hill path with two attendants toward a hermit's cave above. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "hermit_raised_finger",
+  "look": "S",
+  "file": "EP14_059_N03q03_hermit_raised_finger.jpg",
+  "prompt": "An old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind in the foreground, raising one finger, while a Rajput king kneels before him with folded hands and bowed head so that his turban hides his face. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "hermit_hand_points_ground",
+  "look": "S",
+  "file": "EP14_060_N03q04_hermit_hand_points_ground.jpg",
+  "prompt": "Close view of an old hermit's hand with a bead bracelet and an ochre sleeve pointing at the bare sunlit ground before his cave. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "shadow_stops_short",
+  "look": "S",
+  "file": "EP14_061_N03q04_shadow_stops_short.jpg",
+  "prompt": "Seen from high above, the long shadow of a tall building lying across a valley floor, its tip stopping just short of a small hermit's hut at the foot of a hill, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "king_walks_down",
+  "look": "S",
+  "file": "EP14_062_N03q05_king_walks_down.jpg",
+  "prompt": "A Rajput king seen from behind walking down the hill path, the empty valley spread below him. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "town_low_roofs",
+  "look": "S",
+  "file": "EP14_063_N03q05_town_low_roofs.jpg",
+  "prompt": "A new town of deliberately low flat-roofed buildings in the valley, a small hut on the hill above it, afternoon light and short shadows, people tiny. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "town_grown_monsoon",
+  "look": "S",
+  "file": "EP14_064_N03q06_town_grown_monsoon.jpg",
+  "prompt": "The same town many years later, grown larger, rain clouds passing over, banyan trees grown tall, people tiny. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "young_ruler_model",
+  "look": "S",
+  "file": "EP14_065_N03q06_young_ruler_model.jpg",
+  "prompt": "A young Rajput ruler seen from behind on a balcony looking up at his palace, a builder beside him holding up a small wooden model of a taller building. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "palace_scaffold_rising",
+  "look": "S",
+  "file": "EP14_066_N03q07_palace_scaffold_rising.jpg",
+  "prompt": "The palace wrapped in bamboo scaffolding, masons adding new upper storeys, storey above storey. The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "palace"
+  ]
+ },
+ {
+  "n": 67,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "sunset_shadow_stretch",
+  "look": "S",
+  "file": "EP14_067_N03q08_sunset_shadow_stretch.jpg",
+  "prompt": "A low red sun behind a tall palace, its huge shadow stretching across the roofs of the town toward the hill, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "shadow_touches_threshold",
+  "look": "S",
+  "file": "EP14_068_N03q08_shadow_touches_threshold.jpg",
+  "prompt": "Close view of the dark edge of a shadow reaching the stone threshold of a small hermit's hut where an ochre cloth and a water pot lie, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N03",
+  "q": 9,
+  "k": 0,
+  "name": "hermit_stands_dusk",
+  "look": "S",
+  "file": "EP14_069_N03q09_hermit_stands_dusk.jpg",
+  "prompt": "An old Nath hermit with grey matted hair coiled on his head, a long grey beard and an ochre robe, seen from behind, standing at the mouth of his cave at dusk with a staff, wind in his robe, looking down on the lamp-lit town. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N03",
+  "q": 9,
+  "k": 1,
+  "name": "roofs_dust_far",
+  "look": "S",
+  "file": "EP14_070_N03q09_roofs_dust_far.jpg",
+  "prompt": "Seen from far away at dusk, clouds of dust rising over an old town as its flat roofs give way, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N03",
+  "q": 10,
+  "k": 0,
+  "name": "two_king_puppets",
+  "look": "X",
+  "file": "EP14_071_N03q10_two_king_puppets.jpg",
+  "prompt": "Two different Rajasthani string puppets of kings hanging side by side in a shaft of light, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N03",
+  "q": 10,
+  "k": 1,
+  "name": "tellers_hands",
+  "look": "O",
+  "file": "EP14_072_N03q10_tellers_hands.jpg",
+  "prompt": "Close view of the gesturing hands of three village storytellers sitting in a row on a rope cot in a Rajasthani village courtyard, present day, faces not in frame. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N03",
+  "q": 11,
+  "k": 0,
+  "name": "small_white_shrine",
+  "look": "B",
+  "file": "EP14_073_N03q11_small_white_shrine.jpg",
+  "prompt": "A small whitewashed domed shrine on a stone platform on the rocky hillside above the ruins, a faded saffron flag on a pole, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N03",
+  "q": 11,
+  "k": 1,
+  "name": "hands_lamp_marigold",
+  "look": "T",
+  "file": "EP14_074_N03q11_hands_lamp_marigold.jpg",
+  "prompt": "A villager's hands placing a small clay lamp and marigold flowers at the step of a small whitewashed shrine. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N03",
+  "q": 12,
+  "k": 0,
+  "name": "ruins_from_shrine",
+  "look": "B",
+  "file": "EP14_075_N03q12_ruins_from_shrine.jpg",
+  "prompt": "View from beside a small whitewashed shrine on the hill down over the ruined town, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N03",
+  "q": 12,
+  "k": 1,
+  "name": "perfume_bottle_light",
+  "look": "X",
+  "file": "EP14_076_N03q12_perfume_bottle_light.jpg",
+  "prompt": "A small old glass perfume bottle half full of golden oil, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "puppet_princess_light",
+  "look": "X",
+  "file": "EP14_077_N04q00_puppet_princess_light.jpg",
+  "prompt": "A Rajasthani string puppet of a princess in red and gold hanging in a shaft of light, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "ratnavati_balcony_morning",
+  "look": "S",
+  "file": "EP14_078_N04q01_ratnavati_balcony_morning.jpg",
+  "prompt": "The princess at a carved stone balcony window in morning light, calm and thoughtful. The princess is the same young woman as in the reference picture: same face, deep red and gold ghagra skirt and long veil, gold forehead ornament. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ratnavati"
+  ]
+ },
+ {
+  "n": 79,
+  "clip": "N04",
+  "q": 1,
+  "k": 1,
+  "name": "ratnavati_garden",
+  "look": "S",
+  "file": "EP14_079_N04q01_ratnavati_garden.jpg",
+  "prompt": "The princess walking in a palace garden with fountains, two maids following behind her. The princess is the same young woman as in the reference picture: same face, deep red and gold ghagra skirt and long veil, gold forehead ornament. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ratnavati"
+  ]
+ },
+ {
+  "n": 80,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "ratnavati_gives_grain",
+  "look": "S",
+  "file": "EP14_080_N04q02_ratnavati_gives_grain.jpg",
+  "prompt": "The princess at the palace gate pouring grain into the cloth of an old woman seen from behind, a kind smile on her face. The princess is the same young woman as in the reference picture: same face, deep red and gold ghagra skirt and long veil, gold forehead ornament. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ratnavati"
+  ]
+ },
+ {
+  "n": 81,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "envoys_gift_trays",
+  "look": "S",
+  "file": "EP14_081_N04q02_envoys_gift_trays.jpg",
+  "prompt": "Envoys from other kingdoms in different turbans waiting in a palace hall with covered trays of gifts, seen from behind. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "singhia_hut_fire",
+  "look": "S",
+  "file": "EP14_082_N04q03_singhia_hut_fire.jpg",
+  "prompt": "The sorcerer seated in a dark hut before a small fire, clay pots and bundles of dried herbs around him. The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "singhia"
+  ]
+ },
+ {
+  "n": 83,
+  "clip": "N04",
+  "q": 3,
+  "k": 1,
+  "name": "singhia_hill_dusk",
+  "look": "S",
+  "file": "EP14_083_N04q03_singhia_hill_dusk.jpg",
+  "prompt": "The sorcerer standing on a rocky hill at dusk looking down at a lamp-lit palace. The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "singhia"
+  ]
+ },
+ {
+  "n": 84,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "singhia_face_shadow",
+  "look": "S",
+  "file": "EP14_084_N04q04_singhia_face_shadow.jpg",
+  "prompt": "Close view of the sorcerer's face half in shadow, brooding, eyes lowered. The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "singhia"
+  ]
+ },
+ {
+  "n": 85,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "maid_perfume_stall",
+  "look": "S",
+  "file": "EP14_085_N04q05_maid_perfume_stall.jpg",
+  "prompt": "A bazaar stall with rows of small coloured glass bottles, a young maid in a plain veil seen from behind choosing one from the perfume seller. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "singhia_behind_pillar",
+  "look": "S",
+  "file": "EP14_086_N04q05_singhia_behind_pillar.jpg",
+  "prompt": "The sorcerer watching from behind a stone pillar in the bazaar crowd. The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "singhia"
+  ]
+ },
+ {
+  "n": 87,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "hand_over_bottle_glow",
+  "look": "S",
+  "file": "EP14_087_N04q06_hand_over_bottle_glow.jpg",
+  "prompt": "Close view of a man's hand with rings and bead bracelets held over a small glass bottle of oil, a faint green glow in the oil. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 88,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "maid_tray_steps",
+  "look": "S",
+  "file": "EP14_088_N04q06_maid_tray_steps.jpg",
+  "prompt": "A maid seen from behind carrying a small glass bottle on a brass tray up the palace steps. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 89,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "ratnavati_bottle_window",
+  "look": "S",
+  "file": "EP14_089_N04q07_ratnavati_bottle_window.jpg",
+  "prompt": "The princess holding a small glass bottle up to the window light, her eyes narrowed and wary. The princess is the same young woman as in the reference picture: same face, deep red and gold ghagra skirt and long veil, gold forehead ornament. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "ratnavati"
+  ]
+ },
+ {
+  "n": 90,
+  "clip": "N04",
+  "q": 7,
+  "k": 1,
+  "name": "oil_poured_boulder",
+  "look": "S",
+  "file": "EP14_090_N04q07_oil_poured_boulder.jpg",
+  "prompt": "A woman's hand with gold bangles pouring oil from a small bottle from a palace window onto a great round boulder below. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 91,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "boulder_rolls_slope",
+  "look": "S",
+  "file": "EP14_091_N04q08_boulder_rolls_slope.jpg",
+  "prompt": "A great round boulder rolling down a rocky hill slope in a cloud of dust at dusk toward a small hut, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N04",
+  "q": 8,
+  "k": 1,
+  "name": "singhia_looks_up",
+  "look": "S",
+  "file": "EP14_092_N04q08_singhia_looks_up.jpg",
+  "prompt": "The sorcerer looking up, startled, as a huge round shadow falls across him and the ground. The sorcerer is the same man as in the reference picture: same gaunt face, matted black hair and long black beard, black and dark red robes, bead necklaces. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "singhia"
+  ]
+ },
+ {
+  "n": 93,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "boulder_rest_beads",
+  "look": "S",
+  "file": "EP14_093_N04q09_boulder_rest_beads.jpg",
+  "prompt": "Dust settling round a great boulder at rest at the foot of the hill at dusk, a broken string of beads on the ground beside it, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N04",
+  "q": 9,
+  "k": 1,
+  "name": "storm_over_town",
+  "look": "S",
+  "file": "EP14_094_N04q09_storm_over_town.jpg",
+  "prompt": "Dark storm clouds gathering over the lamp-lit town at night, wind bending the trees, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N04",
+  "q": 10,
+  "k": 0,
+  "name": "two_armies_far",
+  "look": "S",
+  "file": "EP14_095_N04q10_two_armies_far.jpg",
+  "prompt": "Two Rajput armies far away drawn up facing each other across a dusty plain with banners, hills behind, the figures tiny. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N04",
+  "q": 10,
+  "k": 1,
+  "name": "veil_on_balcony",
+  "look": "S",
+  "file": "EP14_096_N04q10_veil_on_balcony.jpg",
+  "prompt": "An empty palace balcony, a red and gold veil left on the stone railing and stirring in the wind, no people. A Rajasthani folk tale, storybook mood with lamp glow, long shadows and a touch of mist, an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 97,
+  "clip": "N04",
+  "q": 11,
+  "k": 0,
+  "name": "village_girl_dawn",
+  "look": "O",
+  "file": "EP14_097_N04q11_village_girl_dawn.jpg",
+  "prompt": "A village girl in a red veil seen from behind walking along a field path toward distant ruins below rocky hills at dawn, Rajasthan, present day. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N04",
+  "q": 11,
+  "k": 1,
+  "name": "lamp_palace_window",
+  "look": "N",
+  "file": "EP14_098_N04q11_lamp_palace_window.jpg",
+  "prompt": "One small clay lamp burning in an empty window opening of the palace ruin at dusk, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N04",
+  "q": 12,
+  "k": 0,
+  "name": "story_scroll_rolled",
+  "look": "X",
+  "file": "EP14_099_N04q12_story_scroll_rolled.jpg",
+  "prompt": "An old Rajasthani painted cloth story scroll with small folk-style figures and no lettering, half rolled up, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N04",
+  "q": 12,
+  "k": 1,
+  "name": "hands_open_ledger_bundle",
+  "look": "M",
+  "file": "EP14_100_N04q12_hands_open_ledger_bundle.jpg",
+  "prompt": "Two hands untying a cloth-wrapped bundle of old ledgers. An old Rajasthani record room, warm oil-lamp light, cloth-wrapped bundles and long narrow ledgers of handmade paper carrying only faint illegible marks. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "record_room_wide",
+  "look": "M",
+  "file": "EP14_101_N05q00_record_room_wide.jpg",
+  "prompt": "Wide view of the room, shelves of cloth bundles to the ceiling, no people. An old Rajasthani record room, warm oil-lamp light, cloth-wrapped bundles and long narrow ledgers of handmade paper carrying only faint illegible marks. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N05",
+  "q": 0,
+  "k": 1,
+  "name": "dry_field_one_tree",
+  "look": "F",
+  "file": "EP14_102_N05q00_dry_field_one_tree.jpg",
+  "prompt": "A wide cracked field with one bare tree, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "throne_turban_sword",
+  "look": "O",
+  "file": "EP14_103_N05q01_throne_turban_sword.jpg",
+  "prompt": "An empty Rajput throne seat with cushions in a pillared hall of the early 17th century, a turban and a sheathed sword laid on it, soft morning light, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N05",
+  "q": 1,
+  "k": 1,
+  "name": "white_clad_cenotaph",
+  "look": "P",
+  "file": "EP14_104_N05q01_white_clad_cenotaph.jpg",
+  "prompt": "Townspeople in white seen from behind gathered at a domed stone cenotaph beside a pond at dawn. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 105,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "bazaar_half_shut",
+  "look": "P",
+  "file": "EP14_105_N05q02_bazaar_half_shut.jpg",
+  "prompt": "The same bazaar street with half of its shops closed with wooden shutters and only a few people, seen from behind. The street is the same as in the reference picture: a straight paved lane between two rows of roofless stone shop cells. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "bazaar"
+  ]
+ },
+ {
+  "n": 106,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "new_fort_ridge",
+  "look": "O",
+  "file": "EP14_106_N05q03_new_fort_ridge.jpg",
+  "prompt": "A small Rajput hill fort of the 17th century, newly built of pale stone, on a rocky ridge above a village and a small lake in the Aravalli hills of Rajasthan, morning, people tiny. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 107,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "carts_leave_gate",
+  "look": "P",
+  "file": "EP14_107_N05q03_carts_leave_gate.jpg",
+  "prompt": "Families with bullock carts loaded with household goods leaving the town through its gateway, seen from behind. The gateway is the same as in the reference picture: same stone, same arch, same shape. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 108,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "mughal_hall_dust",
+  "look": "O",
+  "file": "EP14_108_N05q04_mughal_hall_dust.jpg",
+  "prompt": "An empty Mughal audience hall of red sandstone in the early 18th century, a bare marble throne balcony, a faded canopy, dust and pigeons, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 109,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "army_at_gate_1720",
+  "look": "P",
+  "file": "EP14_109_N05q04_army_at_gate_1720.jpg",
+  "prompt": "A Rajput army column of the 1720s with banners and two elephants arriving at the town gateway, seen from behind and far. The gateway is the same as in the reference picture: same stone, same arch, same shape. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 110,
+  "clip": "N05",
+  "q": 4,
+  "k": 2,
+  "name": "keys_hand_to_hand",
+  "look": "P",
+  "file": "EP14_110_N05q04_keys_hand_to_hand.jpg",
+  "prompt": "Close view of one hand giving a ring of large iron keys to another hand that wears a gold ring, a stone gateway blurred behind. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "audience_hall_bare",
+  "look": "P",
+  "file": "EP14_111_N05q05_audience_hall_bare.jpg",
+  "prompt": "The palace audience hall empty, its throne platform bare, dry leaves on the floor, no people. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "cracked_earth_sky",
+  "look": "F",
+  "file": "EP14_112_N05q06_cracked_earth_sky.jpg",
+  "prompt": "Low view across cracked earth to a pale empty sky, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "dry_stepwell",
+  "look": "F",
+  "file": "EP14_113_N05q06_dry_stepwell.jpg",
+  "prompt": "A dry stone stepwell, its steps going down to cracked mud, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "farmer_behind_sky",
+  "look": "F",
+  "file": "EP14_114_N05q07_farmer_behind_sky.jpg",
+  "prompt": "A farmer seen from behind standing in a dead field looking up at a cloudless sky. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky, nobody shown suffering, no bodies, any people only from behind or far away in plain cotton dhotis, turbans and veils. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N05",
+  "q": 7,
+  "k": 1,
+  "name": "mud_village_empty",
+  "look": "F",
+  "file": "EP14_115_N05q07_mud_village_empty.jpg",
+  "prompt": "An abandoned village of mud houses with doors standing open, dust blowing down the lane, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 116,
+  "clip": "N05",
+  "q": 7,
+  "k": 2,
+  "name": "map_clay_tokens",
+  "look": "X",
+  "file": "EP14_116_N05q07_map_clay_tokens.jpg",
+  "prompt": "An old hand-drawn cloth map without lettering covered with dozens of small clay discs, about a third of them taken away leaving pale rings, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "last_families_leave",
+  "look": "F",
+  "file": "EP14_117_N05q08_last_families_leave.jpg",
+  "prompt": "The last few families walking away from a stone town below hills with bundles on their heads, seen from behind and far, dust in the air. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky, nobody shown suffering, no bodies, any people only from behind or far away in plain cotton dhotis, turbans and veils. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "door_left_open",
+  "look": "F",
+  "file": "EP14_118_N05q08_door_left_open.jpg",
+  "prompt": "A wooden door left open on the empty courtyard of a stone house, a cracked clay pot on the ground, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "foundation_stone_hands",
+  "look": "P",
+  "file": "EP14_119_N05q09_foundation_stone_hands.jpg",
+  "prompt": "Close view of a mason's hands setting a foundation stone in lime mortar. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight, people in late 16th-century Rajput dress, men in long jama tunics with sashes and turbans, women in ghagra skirts, short blouses and long veils, modest, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N05",
+  "q": 9,
+  "k": 1,
+  "name": "banyan_over_wall",
+  "look": "B",
+  "file": "EP14_120_N05q09_banyan_over_wall.jpg",
+  "prompt": "A giant old banyan tree whose roots have grown down over a ruined stone wall, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N05",
+  "q": 9,
+  "k": 2,
+  "name": "seven_lamps_row",
+  "look": "X",
+  "file": "EP14_121_N05q09_seven_lamps_row.jpg",
+  "prompt": "Seven small clay lamps in a row, the first burning bright and each one dimmer, the last one out, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 122,
+  "clip": "N05",
+  "q": 10,
+  "k": 0,
+  "name": "town_few_lamps",
+  "look": "P",
+  "file": "EP14_122_N05q10_town_few_lamps.jpg",
+  "prompt": "The town at dusk with only a few lamps lit among many dark houses, no people. A Rajput town in Rajasthan in the late 16th and 17th centuries in its living days, sandstone and rubble-stone buildings with flat roofs and carved balconies, steep scrub-covered hills behind, warm daylight. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N05",
+  "q": 10,
+  "k": 1,
+  "name": "grass_through_floor",
+  "look": "B",
+  "file": "EP14_123_N05q10_grass_through_floor.jpg",
+  "prompt": "Grass and a young tree growing up through the paved floor of a roofless room, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N05",
+  "q": 11,
+  "k": 0,
+  "name": "ledger_blank_page",
+  "look": "M",
+  "file": "EP14_124_N05q11_ledger_blank_page.jpg",
+  "prompt": "Hands turning the pages of an old ledger, one page blank under a brass magnifying glass. An old Rajasthani record room, warm oil-lamp light, cloth-wrapped bundles and long narrow ledgers of handmade paper carrying only faint illegible marks. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N05",
+  "q": 11,
+  "k": 1,
+  "name": "puppets_on_ledgers",
+  "look": "X",
+  "file": "EP14_125_N05q11_puppets_on_ledgers.jpg",
+  "prompt": "A princess puppet and a dark-robed sorcerer puppet lying on top of a closed stack of old ledgers, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N05",
+  "q": 12,
+  "k": 0,
+  "name": "fallen_beams_room",
+  "look": "B",
+  "file": "EP14_126_N05q12_fallen_beams_room.jpg",
+  "prompt": "A roofless room with the remains of rotten timber beams and lime plaster rubble on its floor while the stone walls stand firm, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N05",
+  "q": 12,
+  "k": 1,
+  "name": "beam_sockets_wall",
+  "look": "B",
+  "file": "EP14_127_N05q12_beam_sockets_wall.jpg",
+  "prompt": "Close view of a thick rubble-stone wall with a row of empty square sockets where roof beams once sat, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 128,
+  "clip": "N05",
+  "q": 13,
+  "k": 0,
+  "name": "temple_roof_whole",
+  "look": "B",
+  "file": "EP14_128_N05q13_temple_roof_whole.jpg",
+  "prompt": "The temple seen from the side with its stone roof and spire complete, roofless house walls in the foreground, no people. The temple is the same as in the reference picture: same honey-coloured sandstone, same curved spire and pillared porch on a high plinth. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 129,
+  "clip": "N05",
+  "q": 13,
+  "k": 1,
+  "name": "temple_stone_ceiling",
+  "look": "B",
+  "file": "EP14_129_N05q13_temple_stone_ceiling.jpg",
+  "prompt": "Looking up inside the porch of an old stone temple at its carved stone ceiling, whole and unbroken, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 130,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "board_front",
+  "look": "B",
+  "file": "EP14_130_N06q00_board_front.jpg",
+  "prompt": "The notice board on its wall seen straight from the front, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 131,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "lawn_railing_ruins",
+  "look": "B",
+  "file": "EP14_131_N06q01_lawn_railing_ruins.jpg",
+  "prompt": "Trimmed lawns, stone edging and low iron railings round the ruins, a cared-for protected monument, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 132,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "hands_lime_trowel",
+  "look": "T",
+  "file": "EP14_132_N06q01_hands_lime_trowel.jpg",
+  "prompt": "The hands of a conservation worker repointing an old stone wall with lime mortar and a small trowel. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 133,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "visitor_reads_board",
+  "look": "T",
+  "file": "EP14_133_N06q02_visitor_reads_board.jpg",
+  "prompt": "A visitor seen from behind standing before the notice board. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 134,
+  "clip": "N06",
+  "q": 2,
+  "k": 1,
+  "name": "first_light_palace_top",
+  "look": "B",
+  "file": "EP14_134_N06q02_first_light_palace_top.jpg",
+  "prompt": "First sunlight touching the top of a ruined palace on the hill slope while the valley is still in blue shadow, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 135,
+  "clip": "N06",
+  "q": 2,
+  "k": 2,
+  "name": "guard_shuts_gate",
+  "look": "T",
+  "file": "EP14_135_N06q02_guard_shuts_gate.jpg",
+  "prompt": "A guard in a plain khaki uniform seen from behind pulling an iron grille gate shut at sunset. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 136,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "cattle_outside_wall",
+  "look": "T",
+  "file": "EP14_136_N06q03_cattle_outside_wall.jpg",
+  "prompt": "Cows and goats grazing outside the old stone boundary wall, a herdsman with a stick seen from behind. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 137,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "kewda_grove",
+  "look": "B",
+  "file": "EP14_137_N06q03_kewda_grove.jpg",
+  "prompt": "A grove of kewda screw-pine trees with long spiky leaves and stilt roots beside a small stream below a ruined wall, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 138,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "board_lines_angled",
+  "look": "B",
+  "file": "EP14_138_N06q04_board_lines_angled.jpg",
+  "prompt": "Close view along the notice board at a steep angle, row after row of small white lettering all soft and unreadable, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 139,
+  "clip": "N06",
+  "q": 4,
+  "k": 1,
+  "name": "kewda_leaves_close",
+  "look": "B",
+  "file": "EP14_139_N06q04_kewda_leaves_close.jpg",
+  "prompt": "Close view of the long spiky leaves and a pale flower of a kewda screw-pine tree, a ruined wall blurred behind, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 140,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "domed_tomb_gate_sunset",
+  "look": "O",
+  "file": "EP14_140_N06q05_domed_tomb_gate_sunset.jpg",
+  "prompt": "A different old Indian monument, a domed stone tomb in a garden at sunset, a guard seen from behind closing its iron gate, present day, no readable writing. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 141,
+  "clip": "N06",
+  "q": 5,
+  "k": 1,
+  "name": "ticket_window_shut",
+  "look": "T",
+  "file": "EP14_141_N06q05_ticket_window_shut.jpg",
+  "prompt": "A small ticket window with its plain shutter down and an empty queue railing at dusk, no people. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 142,
+  "clip": "N06",
+  "q": 5,
+  "k": 2,
+  "name": "midday_paths_visitors",
+  "look": "T",
+  "file": "EP14_142_N06q05_midday_paths_visitors.jpg",
+  "prompt": "The ruins under a high midday sun, a few visitors small and seen from behind walking the paths. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 143,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "path_dusk_plain",
+  "look": "N",
+  "file": "EP14_143_N06q06_path_dusk_plain.jpg",
+  "prompt": "A plain quiet view along a path between the ruins at dusk, nothing frightening in it, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 144,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "broken_stair_moon",
+  "look": "N",
+  "file": "EP14_144_N06q07_broken_stair_moon.jpg",
+  "prompt": "A broken stone staircase with missing steps and an open drop beside it inside the palace ruin by moonlight, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 145,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "open_cellar_pit",
+  "look": "N",
+  "file": "EP14_145_N06q07_open_cellar_pit.jpg",
+  "prompt": "An unfenced square opening into a dark cellar in the floor of a ruin, hard to see in the dark, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 146,
+  "clip": "N06",
+  "q": 8,
+  "k": 0,
+  "name": "forest_beyond_wall",
+  "look": "W",
+  "file": "EP14_146_N06q08_forest_beyond_wall.jpg",
+  "prompt": "Wide dusk view of dry forest hills rolling away beyond the outer wall of the ruins, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 147,
+  "clip": "N06",
+  "q": 8,
+  "k": 1,
+  "name": "leopard_on_wall",
+  "look": "W",
+  "file": "EP14_147_N06q08_leopard_on_wall.jpg",
+  "prompt": "A leopard walking along the top of a ruined stone wall by moonlight, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 148,
+  "clip": "N06",
+  "q": 8,
+  "k": 2,
+  "name": "hyena_path",
+  "look": "W",
+  "file": "EP14_148_N06q08_hyena_path.jpg",
+  "prompt": "A striped hyena crossing a stony path between ruined walls at night, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 149,
+  "clip": "N06",
+  "q": 9,
+  "k": 0,
+  "name": "langurs_on_walls",
+  "look": "W",
+  "file": "EP14_149_N06q09_langurs_on_walls.jpg",
+  "prompt": "Grey langur monkeys with black faces and long tails sitting along the tops of roofless walls at dusk, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 150,
+  "clip": "N06",
+  "q": 9,
+  "k": 1,
+  "name": "peacock_roost_moon",
+  "look": "W",
+  "file": "EP14_150_N06q09_peacock_roost_moon.jpg",
+  "prompt": "A peacock roosting on a banyan branch above the ruins, dark against a bright moon, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 151,
+  "clip": "N06",
+  "q": 9,
+  "k": 2,
+  "name": "banyan_roots_sway",
+  "look": "N",
+  "file": "EP14_151_N06q09_banyan_roots_sway.jpg",
+  "prompt": "Banyan branches and hanging roots swaying above a ruined doorway by moonlight, leaves in the air, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 152,
+  "clip": "N06",
+  "q": 10,
+  "k": 0,
+  "name": "guard_tea_dawn",
+  "look": "T",
+  "file": "EP14_152_N06q10_guard_tea_dawn.jpg",
+  "prompt": "A guard in a plain khaki uniform seen from behind sitting on a stool beside the old gateway at dawn with a small glass of tea, at ease. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 153,
+  "clip": "N06",
+  "q": 10,
+  "k": 1,
+  "name": "official_hands_files",
+  "look": "T",
+  "file": "EP14_153_N06q10_official_hands_files.jpg",
+  "prompt": "An official's hands resting on a desk beside a pen and stacks of paper files tied with cloth tape, office shelves behind. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 154,
+  "clip": "N06",
+  "q": 10,
+  "k": 2,
+  "name": "reporter_notebook_hands",
+  "look": "T",
+  "file": "EP14_154_N06q10_reporter_notebook_hands.jpg",
+  "prompt": "Close view of a reporter's hands writing in a notebook while a guard's hand gestures calmly toward the ruins. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 155,
+  "clip": "N06",
+  "q": 11,
+  "k": 0,
+  "name": "team_night_tripod",
+  "look": "T",
+  "file": "EP14_155_N06q11_team_night_tripod.jpg",
+  "prompt": "A small team seen from behind among the ruins at night with a camera on a tripod showing one small red light and handheld instruments. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 156,
+  "clip": "N06",
+  "q": 11,
+  "k": 1,
+  "name": "meter_needle_rest",
+  "look": "T",
+  "file": "EP14_156_N06q11_meter_needle_rest.jpg",
+  "prompt": "Close view of a hand holding a small handheld meter whose needle rests at zero, dark ruins behind, the dial without numbers. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 157,
+  "clip": "N06",
+  "q": 12,
+  "k": 0,
+  "name": "empty_file_folder",
+  "look": "X",
+  "file": "EP14_157_N06q12_empty_file_folder.jpg",
+  "prompt": "An open empty cardboard file folder, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 158,
+  "clip": "N06",
+  "q": 12,
+  "k": 1,
+  "name": "visitors_walk_out_morning",
+  "look": "T",
+  "file": "EP14_158_N06q12_visitors_walk_out_morning.jpg",
+  "prompt": "Visitors seen from behind walking out through the old gateway on an ordinary sunny morning. The gateway is the same as in the reference picture: same stone, same arch, same shape. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 159,
+  "clip": "N06",
+  "q": 13,
+  "k": 0,
+  "name": "board_morning_flowers",
+  "look": "B",
+  "file": "EP14_159_N06q13_board_morning_flowers.jpg",
+  "prompt": "The notice board in plain bright morning light with a flowering shrub beside it, quite harmless, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 160,
+  "clip": "N06",
+  "q": 13,
+  "k": 1,
+  "name": "wall_wooden_props",
+  "look": "B",
+  "file": "EP14_160_N06q13_wall_wooden_props.jpg",
+  "prompt": "A leaning ruined wall held up by wooden props and closed off with a rope, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 161,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "ruins_mist_morning",
+  "look": "B",
+  "file": "EP14_161_N07q00_ruins_mist_morning.jpg",
+  "prompt": "Morning mist lying among the roofless walls and banyan trees, the palace dim behind, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 162,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "visitor_before_palace",
+  "look": "T",
+  "file": "EP14_162_N07q00_visitor_before_palace.jpg",
+  "prompt": "One visitor seen from behind standing still and looking up at the palace ruin. The palace ruin is the same as in the reference picture: same stone, same shape, standing against the same scrub-covered hillside. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "palace"
+  ]
+ },
+ {
+  "n": 163,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "roofless_rows_long_shadows",
+  "look": "B",
+  "file": "EP14_163_N07q01_roofless_rows_long_shadows.jpg",
+  "prompt": "Hundreds of roofless walls seen from the hillside late in the day, long shadows, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 164,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "bazaar_low_angle_dusk",
+  "look": "N",
+  "file": "EP14_164_N07q01_bazaar_low_angle_dusk.jpg",
+  "prompt": "The empty bazaar street seen from low down at dusk, no people. The street is the same as in the reference picture: a straight paved lane between two rows of roofless stone shop cells. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "bazaar"
+  ]
+ },
+ {
+  "n": 165,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "visitor_passage_pause",
+  "look": "T",
+  "file": "EP14_165_N07q02_visitor_passage_pause.jpg",
+  "prompt": "A visitor seen from behind pausing in a narrow ruined passage, head half turned, the face in shadow. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 166,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "dry_leaves_doorway",
+  "look": "B",
+  "file": "EP14_166_N07q02_dry_leaves_doorway.jpg",
+  "prompt": "Dry leaves whirling in the wind in the doorway of a ruin, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 167,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "phone_photo_board",
+  "look": "T",
+  "file": "EP14_167_N07q03_phone_photo_board.jpg",
+  "prompt": "A visitor's hands holding up a phone to photograph the notice board, the phone screen blurred. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 168,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "board_long_shadow",
+  "look": "N",
+  "file": "EP14_168_N07q03_board_long_shadow.jpg",
+  "prompt": "The notice board at dusk throwing a long shadow along the wall, no people. The notice board is the same as in the reference picture: a dark blue metal board with a small white emblem and rows of small white lettering that stays soft and unreadable, fixed to an old rubble-stone wall. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "board"
+  ]
+ },
+ {
+  "n": 169,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "guide_points_group",
+  "look": "T",
+  "file": "EP14_169_N07q04_guide_points_group.jpg",
+  "prompt": "A local guide seen from behind pointing toward the palace for a small group of visitors seen from behind. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 170,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "tea_stalls_outside",
+  "look": "T",
+  "file": "EP14_170_N07q04_tea_stalls_outside.jpg",
+  "prompt": "Tea and snack stalls with plain awnings outside the old boundary wall, vendors and visitors seen from behind. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 171,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "grandmother_cot_story",
+  "look": "O",
+  "file": "EP14_171_N07q05_grandmother_cot_story.jpg",
+  "prompt": "A grandmother seen from behind telling a story to children sitting on a rope cot in a Rajasthani village courtyard at dusk, one oil lamp, present day. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 172,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "town_across_cracked_ground",
+  "look": "F",
+  "file": "EP14_172_N07q06_town_across_cracked_ground.jpg",
+  "prompt": "A stone town below hills seen across wide cracked ground, its lanes empty, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 173,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "empty_grain_jars",
+  "look": "F",
+  "file": "EP14_173_N07q06_empty_grain_jars.jpg",
+  "prompt": "A row of empty clay grain jars in a dim stone house, dust in a shaft of light, no people. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 174,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "families_dusty_road",
+  "look": "F",
+  "file": "EP14_174_N07q07_families_dusty_road.jpg",
+  "prompt": "A long line of families far away walking a dusty road away from the hills with bundles and a few carts, seen from behind. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky, nobody shown suffering, no bodies, any people only from behind or far away in plain cotton dhotis, turbans and veils. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 175,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "adult_child_hands",
+  "look": "F",
+  "file": "EP14_175_N07q07_adult_child_hands.jpg",
+  "prompt": "Close view from behind of an adult's hand holding a small child's hand as they walk a dusty road. North India in a great drought of the 1780s, cracked dry earth, bare trees, a pale dusty sky, nobody shown suffering, no bodies, any people only from behind or far away in plain cotton dhotis, turbans and veils. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 176,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "house_niche_grindstone",
+  "look": "B",
+  "file": "EP14_176_N07q08_house_niche_grindstone.jpg",
+  "prompt": "Inside a roofless house, a small lamp niche in the wall and an old grinding stone left on the floor, no people. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 177,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "lamp_lit_shrine_dusk",
+  "look": "T",
+  "file": "EP14_177_N07q09_lamp_lit_shrine_dusk.jpg",
+  "prompt": "Hands lighting a small clay lamp at a small whitewashed shrine on the hillside at dusk. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 178,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "scroll_princess_lamp",
+  "look": "X",
+  "file": "EP14_178_N07q09_scroll_princess_lamp.jpg",
+  "prompt": "An old Rajasthani painted cloth story scroll showing a small folk-style figure of a princess, a clay lamp burning beside it, no lettering, no people. Dark room, a single shaft of light on dark stone. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 179,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "visitors_bazaar_sun",
+  "look": "T",
+  "file": "EP14_179_N07q10_visitors_bazaar_sun.jpg",
+  "prompt": "Visitors seen from behind walking up the bazaar street in bright daylight. The street is the same as in the reference picture: a straight paved lane between two rows of roofless stone shop cells. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "bazaar"
+  ]
+ },
+ {
+  "n": 180,
+  "clip": "N07",
+  "q": 10,
+  "k": 1,
+  "name": "temple_carving_close",
+  "look": "B",
+  "file": "EP14_180_N07q10_temple_carving_close.jpg",
+  "prompt": "Close view of the carved sandstone pillars and brackets of the temple porch, no people. The temple is the same as in the reference picture: same honey-coloured sandstone, same curved spire and pillared porch on a high plinth. Present day, the ruins of a 16th-century Rajput town in a valley below steep scrub-covered Aravalli hills in Rajasthan, low roofless walls of grey-brown rubble stone, trimmed grass and old banyan trees, soft morning light, no signboards, no wires, no poles. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 181,
+  "clip": "N07",
+  "q": 10,
+  "k": 2,
+  "name": "view_from_palace_top",
+  "look": "T",
+  "file": "EP14_181_N07q10_view_from_palace_top.jpg",
+  "prompt": "A visitor seen from behind at the parapet of a ruined palace terrace looking down over low ruined walls, paths and banyan trees to flat country and a far ridge. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 182,
+  "clip": "N07",
+  "q": 11,
+  "k": 0,
+  "name": "visitors_leave_low_sun",
+  "look": "T",
+  "file": "EP14_182_N07q11_visitors_leave_low_sun.jpg",
+  "prompt": "Visitors seen from behind walking out through the old gateway toward a low sun. The gateway is the same as in the reference picture: same stone, same arch, same shape. Present day Rajasthan, at the ruins of an old Rajput town below scrub-covered hills, any people seen from behind or as hands only, ordinary present-day Indian clothes, no readable writing, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 183,
+  "clip": "N07",
+  "q": 11,
+  "k": 1,
+  "name": "leopard_ridge_dusk",
+  "look": "W",
+  "file": "EP14_183_N07q11_leopard_ridge_dusk.jpg",
+  "prompt": "The dark shape of a leopard on a rocky ridge above ruined walls at dusk, no people. Dry rocky forest and old stone ruins of the Aravalli hills in Rajasthan at dusk or by moonlight, the mood of a natural wildlife photograph. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 184,
+  "clip": "N07",
+  "q": 12,
+  "k": 0,
+  "name": "gate_night_stars",
+  "look": "N",
+  "file": "EP14_184_N07q12_gate_night_stars.jpg",
+  "prompt": "The old gateway at night under stars, its arch dark and open, no people. The gateway is the same as in the reference picture: same stone, same arch, same shape. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "gate"
+  ]
+ },
+ {
+  "n": 185,
+  "clip": "N07",
+  "q": 12,
+  "k": 1,
+  "name": "ruins_starry_wide",
+  "look": "N",
+  "file": "EP14_185_N07q12_ruins_starry_wide.jpg",
+  "prompt": "Wide view of the ruined town under a sky full of stars, the palace dark on the slope, no people. The ruins of a 16th-century Rajput town below scrub-covered Aravalli hills in Rajasthan at dusk or by moonlight, roofless rubble-stone walls, old banyan trees, deep blue shadows, no electric lights, no ghosts or apparitions. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ }
+]

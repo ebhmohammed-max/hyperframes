@@ -1,0 +1,64 @@
+# EP14 Bhangarh: status
+
+Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as EP13 (`../nk-ep13-mandodari/STATUS.md`; the full recipe and lessons are in `../nk-ep12-poompuhar/STATUS.md`).
+
+## Done on 18 Nov 2026
+
+- Research by web search (extracts only, no full pages); see `FACT_SHEET.md`, doubts marked **check**.
+- `script/script.mjs` v1.1: hook + 6 chapters, 94 lines, 8,756 characters. `node script/build.mjs` → `SCRIPT_TA.md`, `script/lines.json`, `narration/text/`.
+  - v1.1: chapter 5 (N06) rewritten after the board was read from a photograph. It has three rules (no entry before sunrise or after sunset; no cattle; do not harm the kewda trees), not the two that most websites quote.
+- Scratch narration `voice-02`: `narration/N01.mp3` … `N07.mp3` = 588.0 s (N06 recorded again for v1.1). `N08.mp3` is the channel end card audio (13.1 s, same file as EP13).
+- `script/align.py` → `narration/align.json`; no line flagged.
+- Shot list: `shots/shots.txt` (185 rows), `shots/counts.json` (under 4.2 s one picture, under 8.6 s two, else three), `python3 shots/expand.py` → `shots/prompts.json`, `SHOTLIST.md`.
+- Reference pictures (ratnavati, singhia, gate, bazaar, palace, temple, board) made and looked at on one sheet; `shots/CAST.md`.
+- Tools, kit and film generators copied from EP13 and renamed to EP14. **Still to adapt before the film:** `film/gen.mjs` (`HOOK_FX`, subscribe pop-up line), `film/title.mjs` (three plates, title and subtitle text, check the width).
+- Expected film length: 588 s narration + 12 s title + 17 s end card + 6 chapter cards of 2.3 s ≈ 10 min 31 s.
+
+## Chapters
+
+| Clip | Chapter | Lines | Seconds | Pictures |
+|---|---|---|---|---|
+| N01 | hook | 13 | 74.8 | 26 (001–026) |
+| N02 | 01 ஒரு முழு நகரம் | 14 | 86.9 | 27 (027–053) |
+| N03 | 02 நிழல் சாபம் | 13 | 73.1 | 23 (054–076) |
+| N04 | 03 ரத்னாவதி | 13 | 76.3 | 24 (077–100) |
+| N05 | 04 பதிவு சொல்றது | 14 | 93.1 | 29 (101–129) |
+| N06 | 05 அந்த பலகை | 14 | 99.4 | 31 (130–160) |
+| N07 | 06 கதை ஏன் சாகல | 13 | 84.4 | 25 (161–185) |
+
+## Picture rules for this episode
+
+- No ghost or apparition in any picture. The film's point is that there is none on record.
+- Guru Balu Nath (honoured at a shrine on the site) and all real rulers: never by face.
+- Ratnavati and Singhia are legend figures with invented faces.
+- The board's lettering is never readable in a picture; the real wording goes on screen as text in the edit.
+- Web photographs of the site (`<repo>/google_drive/ep14_pics/webref/`) were used only to see what the places look like. They are not in the film and were not given to the picture tool.
+
+## Open points
+
+- The script has had no native Tamil read-through; the title is a draft.
+- **check** items in `FACT_SHEET.md`, mainly: "80 km" (sources say 83–88), "9,000 houses" (one source), Sariska's area, the night animals, the ASI officer's statement, the 30 % famine figure, "டெல்லியில அக்பர் ஆட்சி".
+- The board wording was read from a small photograph.
+
+## Drive
+
+- Folder `EP14_Bhangarh`: `1TYhdz_IVwEkR7oLt5nHhZQXhdW5MKc8l`; subfolder `images`: `1B7qz5mFGGS2nxRrNIwISD0MFbql1jOtR`
+
+| File | Id |
+|---|---|
+| `EP14_SCRIPT_TA_v1.1.md` | `1NHF1I1Ax53GKqZ-_hWpfdLEC-f4DXLke` |
+| `EP14_FACT_SHEET.md` | `1CCpsKseSPKx7V9oKTp5Jz91eyb50YN6g` |
+| `EP14_SHOTLIST.md` | `1_Hju9gt-MYYW3kPSt8tPD2Jkr3IGl75O` |
+| `EP14_narration_scratch_voice02.zip` (N01–N08) | `1fLGT2pq4Y2YLC2MZMFxSiBFEuifTTztR` |
+| `images/EP14_cast.zip` | `1HqlManPTUV4dVNwURJkkIFI3ep4FH-QR` |
+| `images/EP14_cast_sheet.jpg` | `1xazMwa71ZuYo44pDyaCK4MWFKPJwOVxI` |
+
+## Batches
+
+| Batch | Pictures | Zip id | Sheet id | Notes |
+|---|---|---|---|---|
+
+## Next
+
+1. Pictures, ten per turn: `python3 tools/next.py 10` → `generate_image` to `google_drive/ep14_pics/raw/NNN.jpg` → `/tmp/nkvenv/bin/python tools/sheet.py a b`, `big.py a b` → look → `crops.py` → `python3 tools/pack.py a b` → upload zip and sheet to `images` → table above → commit.
+2. Film: adapt `film/gen.mjs`, `film/title.mjs`; `. /tmp/hfenv.sh`; generate, `bash tools/render.sh` (about an hour), `bash tools/finish.sh parts`, `VB=1000k bash tools/finish.sh 720`; upload in the same turn.
