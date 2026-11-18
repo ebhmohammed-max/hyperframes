@@ -101,4 +101,21 @@ All 185 pictures exist in `out/raw` and `out/img`; the redo list is empty; every
 - `film/title.mjs`: name "பாங்கர்", subtitle "ராத்திரி யாரும் நுழையக்கூடாத கோட்டை" (draft, needs a native check), plates 009 (ruins under the moon) → 021 (board at dusk) → 010 (palace at night).
 - `film/gen.mjs`: `HOOK_FX` set for the 13 hook lines (q0–q12); the subscribe pop-up sits on N02 line q4 (the "where it is" line).
 - Lengths from `gen.mjs`: N01 75.8 s, N02 90.0, N03 76.3, N04 79.5, N05 96.3, N06 102.5, N07 87.5, title 12, end card 17: **636.9 s (10 min 37 s)**.
-- Build: `bash tools/render.sh` (background, about 50 min), `bash tools/finish.sh parts`, `VB=1000k bash tools/finish.sh 720`, check frames, upload each file on its own to the `EP14_Bhangarh` folder.
+- Build: `bash tools/render.sh` (background; took 62 min on 2 CPUs, about 5.8 s per film second), `bash tools/finish.sh parts`, `VB=1000k bash tools/finish.sh 720`, check frames, upload each file on its own to the `EP14_Bhangarh` folder.
+
+## Delivered (film complete)
+
+Full film **10 min 37 s**; sound set to −14 LUFS with one gain for the whole film (+2.54 dB), peak −1.5 dB. Frames checked in every clip and at every join. Nobody has watched the whole film from start to end, and the Tamil has had no native read-through.
+
+| File (Drive folder `EP14_Bhangarh`) | Length | Size | Drive id |
+|---|---|---|---|
+| `EP14_Bhangarh_full_720p.mp4` | 10:37 | 88.1 MB | `1XxRWYVmKZuNwXG3953zOrYFs2TCvrsGD` |
+| `EP14_1080p_01_hook_title.mp4` | 1:28 | 89.4 MB | `1ZC3b5MGjgUOhU_raBvmPO4HwmTl7vO8j` |
+| `EP14_1080p_02_ch1.mp4` | 1:30 | 57.3 MB | `15fPpjH0TvM2GdtTLR2bJ4xG6v47IrZYy` |
+| `EP14_1080p_03_ch2.mp4` | 1:16 | 74.5 MB | `1HqzwDVumR2ECoy6d68m1L6tUoTPf04Ah` |
+| `EP14_1080p_04_ch3.mp4` | 1:20 | 69.1 MB | `1giU3hH_6RblyRuSOcsrKMdkhy0I3P9pD` |
+| `EP14_1080p_05_ch4.mp4` | 1:36 | 60.3 MB | `1zk1P81ntuZpfvRCAHQOTPaf5dVq-CVCs` |
+| `EP14_1080p_06_ch5.mp4` | 1:43 | 60.0 MB | `11aicUkDglCHcYX8wFkBLkOWgTp3VxVs3` |
+| `EP14_1080p_07_ch6_endcard.mp4` | 1:45 | 61.4 MB | `1QK2VMlwuQlSi2HeB9W5YT-kVxPmjDbkp` |
+
+The seven 1080p parts join in order into the full-quality film (same codec and sound settings, cut at chapter starts).
