@@ -68,6 +68,7 @@ The user sent a reference picture and said the first Hanuman "looks like small m
 | B15 | 141–150 | `142-EOsrI2nhAt0z2ZYEjXUl9wMlzeN7_`, sheet `1fMFLDoQQwdRPdMUzM0f5-UlAQukUmM8_` | All ten accepted, none blocked, no crops (150 edge trimmed by `sheet.py`). Kept with doubts: 141 the baby looks some months old, and the window has a glazed look; 150 the lamp looks like a later metal lantern. Babies in 141, 143, 148 with faces small or hidden. |
 | B16 | 151–160 | `1JGZi3ZimN73KlS8nB2Uw9F6q9QEKP_vW`, sheet `1V3dpVonNpjsRmyCm9V9v9m__rOf7uf2R` | All ten accepted, none blocked, no crops. Kept with doubts: 154 grove background is in the same storybook style as 087 (its reference), unlike the rest; 151 casket is a long open box with a glow; 157 leaves have script-like marks that cannot be read. Sita in 154 only from behind. |
 | B17 | 161–170 | `1UFKH5Z8w8-Re6GcQWyOPCOB4wijVJ_n1`, sheet `1Nlw3-S66Cq5euYP61Hz05EzNPWIn_YFu` | All ten accepted, none blocked. 170 right edge (dark tree trunk like a bar) cropped. Kept with a doubt: 167 the city is darker and more like a fairy-tale castle than the Lanka of 001. Chapter 5 (to 167) complete; 168 opens chapter 6. |
+| B18 | 171–180 | `1vxiWAvxXQ4UPNFfT3F8p9DkKyygtcXgq`, sheet `1ve4UuyNy8-BC76W9R4YKedSy9jbJKf_w` | All ten accepted, none blocked, no crops. Present-day places (Mandore, Mandsaur, Bisrakh) are imagined views, not photographs of the real sites; people only from behind or hands. 178: the statue's row of heads may count nine, not ten; kept. |
 
 ## Drive file ids
 
