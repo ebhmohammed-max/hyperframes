@@ -59,6 +59,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 |---|---|---|---|---|
 | B01 | 001–010 | `1-axuM4wvc5GM3T2-i32ytP5LQbaJvqc3` | `16eslyo5DAhi1EBV46lLhIHiHIFD55FMy` | 003 to redo: the board came out as a smeared panel without lettering. Board wording in `shots/expand.py` strengthened after this. 004: lettering soft and unreadable, emblem invented (not the state emblem), kept. |
 | B02 | 011–020 | `1Rtz2g0O1O-Z-gaCZuKUlEzWZ9hDZST2K` | `1fx1OzSafkqHVN7ncvNWQgWdAoyzgzkWx` | all kept. 015 flagged by the edge check only because the walls are dark. Ratnavati (017) and Singhia (018) match their reference pictures. |
+| B03 | 021–030 | `11RkHqTWGQySWUEsb4GFyZsUIznxvo82k` | `1zxdvsYFYm0g0Dqy58O5f6ZpDUzy69nmB` | 026 to redo (came out as a drawn illustration with outlines). 021: the board has lettering now. 023 flagged by the edge check only for dark corners. 028: courtiers sit in rows, kept. |
 
 ## Next
 
