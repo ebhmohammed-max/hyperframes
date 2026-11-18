@@ -69,6 +69,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B10 | 091–100 | `10T0qHUhOL6eKMTdKmDlLLQvhJfBMNSZP` | `1QuaJPmuKkd-3HIAyS4KiwJbMSDzEccfM` | all kept. 092: the boulder shows as a dark round shape at the top edge with its shadow on the ground; nobody is hurt in any picture. Chapters hook to 03 (N01–N04) are complete except 003, 026, 057. |
 | B11 | 101–110 | `1gN1IgtW24Il0dwrEErISwhufTxh7gNVF` | `1M29feugSs9PtFpEYBVd7mFBSRADArgv-` | all kept. Gateway in 107 and 109 matches the reference. 105: the palace far behind the half-shut bazaar already looks worn. 109: the elephants are hard to make out in the dust. |
 | B12 | 111–120 | `1nHqKZVld_RPAo1GGIy5hyyTmSZO4Nvyj` | `11QOW8bexDf3yUnUf8J4orwx9YdpEZVrM` | nine kept; **119 to redo** (looks like a present-day photo: grey cement, buttoned shirt, modern trowel). 113 came with a rounded dark photo border, trimmed 3 % on each side in `shots/crops.json`; its stepwell is a larger, more intricate one than Bhangarh's. No suffering shown in the famine pictures. |
+| B13 | 121–130 | `14Q829myeeKbXRXEfhB4aGiEiL102bVEL` | `1T_NHOs0TCDQX3wtUqUPG-gGQ7Kan1QGD` | all kept. 130 board: lettering soft and unreadable, emblem at the top, as wanted. 121: three lamps burn and four are out, not an even fade. 122: the palace sits on the hilltop like a fort, higher than in the reference. 124 flagged by the edge check only for a dark top. |
 
 ## Next
 
