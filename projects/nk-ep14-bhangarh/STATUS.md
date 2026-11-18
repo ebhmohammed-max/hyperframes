@@ -65,6 +65,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B06 | 051–060 (057 missing) | `1-cFLkjNz8OPRvmNvt0YlWA2qzbdjnah9` | `1MeCvMtCCEbtexDQ0Ilr8_fcxCpC9ycIM` | 057 not made: the picture tool failed once and the turn limit was used up; on the redo list. 054 (elders at the fire): some faces show in the firelight, small and invented; kept. Hermit in 059 from behind, king's face hidden. Prompts 056–060 written by hand (valley without a town). |
 | B07 | 061–070 | `1cv3QgWDC0fr5jsDvGRpJQfRzoxegxeMh` | `1Ohbr1k6y7p7LzKs7c4Kccv5dxe63Ny6N` | all kept. 069: the hermit's hair is wrapped in a cloth, not coiled (seen from behind, kept). 064, 065, 067: the palace sits higher on the hill than in the reference. All ten prompts written by hand from the shot list. |
 | B08 | 071–080 | `1HatR092Z_OxGmSdj_oWylxJkR4Bsjj9a` | `1PUZfAU0mPJUwmLJGvSYC0wqFyUy0c8Hq` | all kept. Ratnavati (078–080) matches her reference picture. 072: frame cut at chest height, one chin shows at the top edge. |
+| B09 | 081–090 | `1i_K_kAReDnmFwxnuKM5VQ0MiF3QyFffM` | `1VvZGbpR1A-MCha1a6NErlmiHGkeww6VL` | all kept. Singhia (082–084, 086) and Ratnavati (089) match their reference pictures. The bottle in 089 is rounder and larger than in 076 and 087. 081 flagged by the edge check only for a bright window corner. |
 
 ## Next
 
