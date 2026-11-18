@@ -72,8 +72,18 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B13 | 121–130 | `14Q829myeeKbXRXEfhB4aGiEiL102bVEL` | `1T_NHOs0TCDQX3wtUqUPG-gGQ7Kan1QGD` | all kept. 130 board: lettering soft and unreadable, emblem at the top, as wanted. 121: three lamps burn and four are out, not an even fade. 122: the palace sits on the hilltop like a fort, higher than in the reference. 124 flagged by the edge check only for a dark top. |
 | B14 | 131–140 | `1DxAR10Wh_OP4eQ7CFfAsozqnS5BdbGfj` | `1cazxcU5NhGGJW2xKrmc5hOMQb5gZwH2i` | nine kept; **138 to redo** (close view of the board: the nearest rows are sharp nonsense Hindi words). 133 board lettering soft, fine; the visitor's cheek shows slightly. 134: the palace looks more whole than a ruin. 140 resembles Humayun's Tomb. 140 flagged by the edge check only for a dark gate post. |
 | B15 | 141–150 | `1gUl19QEbnFDNUxJRHwfOC3QUZk1wCXoL` | `1OfpyxVCeazNfB9p1-JxteLP86kle1y9x` | all kept. Wildlife (147–150) came out photographic with the wording "a real telephoto wildlife photograph taken at night … not an illustration"; use the same for the 026 remake. |
+| B16 | 151–160 | `1RpRUyxu5QR0vPgn2gSLKQ-hGSvK0D6fH` | `1ShAhkxBFsGeA8FK8zXiG-E9WRqJHfm4g` | all kept. Board chapter (N06) complete except 138. 152: the guard sits inside the archway looking out over the ruins. |
 
 ## Next
 
 1. Pictures, ten per turn: `python3 tools/next.py 10` → `generate_image` to `google_drive/ep14_pics/raw/NNN.jpg` → `/tmp/nkvenv/bin/python tools/sheet.py a b`, `big.py a b` → look → `crops.py` → `python3 tools/pack.py a b` → upload zip and sheet to `images` → table above → commit.
 2. Film: adapt `film/gen.mjs`, `film/title.mjs`; `. /tmp/hfenv.sh`; generate, `bash tools/render.sh` (about an hour), `bash tools/finish.sh parts`, `VB=1000k bash tools/finish.sh 720`; upload in the same turn.
+
+## After a full wipe of the workspace (happened once, before B16)
+
+Everything untracked can vanish, `google_drive/` included. Recovery, about five minutes:
+
+1. `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD` (only when the tree holds nothing of value).
+2. `bash tools/setup.sh` (toolchain in `/tmp`).
+3. Drive connector `download_file` for `EP14_cast.zip`, `EP14_narration_scratch_voice02.zip` and every batch zip listed in the Batches table (and redo zips `EP14_R*` once they exist); each lands in `<repo>/google_drive/`.
+4. Unzip the narration zip into `narration/`; `bash tools/restore.sh` unpacks the picture zips into `google_drive/ep14_pics/` and rebuilds `out/img` and the sheets.
