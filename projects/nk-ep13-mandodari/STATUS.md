@@ -29,11 +29,30 @@ Topic in the user's words: "Untold story of ravaana and his wife". Shorter film:
 - Folder `EP13_Mandodari`: `1g9KaAHXx8aP1OlHJDtQP0ty4ZblHZ5qw`; subfolder `images`: `1LAGCCMejRgBeA0oPsteEccx84XnVHk0d`
 - File ids: see the table at the end of this file.
 
-## Next
+## Film: done on 18 Nov 2026
 
-1. Pictures in batches of ten: `python3 tools/next.py 10` prints the prompts; save to `<repo>/google_drive/ep13_pics/raw/NNN.jpg`; `python tools/sheet.py a b`; check; `python3 tools/pack.py a b`; upload the zip and the sheet to `images`; note the batch below; commit.
-2. After a workspace reset: `git fetch` + fast-forward, `bash tools/setup.sh`, download `EP13_cast.zip` and the batch zips from Drive, `bash tools/restore.sh`.
-3. Film stage, still to adapt from EP12: `film/gen.mjs` (`HOOK_FX` list for the new hook, subscribe pop-up timing in N02, `createdAt`), `film/title.mjs` (the three plates; the title text is already changed), `film/end.mjs` (uses `N08.mp3`; check the sentence timings comment). `tools/render.sh` and `tools/finish.sh` already list N01–N07.
+**EP13 is complete.** Film length 10 min 47 s (646.7 s): N01 hook 74.1 s, title 12 s, N02–N07 93.8 / 85.5 / 80.6 / 95.9 / 90.2 / 97.4 s, end card 17 s.
+
+- `film/title.mjs`: plates 001 (Lanka under the moon) → 011 (the king and his ten-head shadow) → 079 (Mandodari on the terrace, under the title). Subtitle size reduced from 74 to 60 px, because the longer EP13 subtitle ran to the frame edges.
+- `film/gen.mjs`: `HOOK_FX` rewritten for this hook (impact on line 0, 4, 6, 14; riser through line 10 with an impact on its last word; whooshes on 2, 5, 8, 13). Subscribe pop-up left on N02 line 5 (the ten-head relief).
+- `film/end.mjs`: unchanged (same end card audio as EP12).
+- Render: `bash tools/render.sh`, about 5.9 s of work per film second this time (68 minutes in all).
+- `bash tools/finish.sh parts` → seven 1080p parts; measured −16.54 LUFS, gain +2.54 dB (`out/deliver/gain.txt`). Part 7 was over 100 MB and was recompressed (x264 crf 20).
+- `VB=1000k bash tools/finish.sh 720` → `EP13_Mandodari_full_720p.mp4`, 89.4 MB, 1280×720, 30 fps, −14.3 LUFS, peak −0.9 dBTP.
+- Checked on frame sheets only (title, hook, chapter 1, chapter 6, end card, the joins). **Nobody has watched or listened to the whole film from start to end.**
+
+| File on Drive (folder `EP13_Mandodari`) | Id | Size |
+|---|---|---|
+| `EP13_Mandodari_full_720p.mp4` | `1t7YkkYqng6BMnnzWj_dYcj8wS9v3br_1` | 89.4 MB |
+| `EP13_1080p_01_hook_title.mp4` | `1SA-UoFIzwsRrFfoFVi_vM7VwLSnrcvt1` | 81.2 MB |
+| `EP13_1080p_02_ch1.mp4` | `1c84j831hOQBKzPGkIJFrwBTKEI54XNGn` | 88.6 MB |
+| `EP13_1080p_03_ch2.mp4` | `1oiMu4WdwDLHlLzhqxaZmS1d_GsKoTtQA` | 79.7 MB |
+| `EP13_1080p_04_ch3.mp4` | `12YQjvhGwAIZ9TXwu2IclfL4DnPD-Jg3X` | 73.1 MB |
+| `EP13_1080p_05_ch4.mp4` | `1gcQBm6zaAznzJcwj75tuDLXP-7VbJy5X` | 81.1 MB |
+| `EP13_1080p_06_ch5.mp4` | `1fDOR9bRh7cSN83gjMDmYNi9D89tn4vIz` | 78.7 MB |
+| `EP13_1080p_07_ch6_endcard.mp4` | `1K5gto9JFP8CGibrIjte_EwstKzGcZ2nU` | 62.0 MB |
+
+To rebuild after a workspace reset: `git fetch` + fast-forward, `bash tools/setup.sh`, download `EP13_cast.zip`, the batch zips and the narration zip from Drive into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration into `narration/`, then `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs && bash tools/render.sh && bash tools/finish.sh parts && VB=1000k bash tools/finish.sh 720`.
 
 ## User correction, 17 Nov
 

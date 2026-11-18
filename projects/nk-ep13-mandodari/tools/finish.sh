@@ -1,7 +1,7 @@
 #!/bin/bash
 # Join, level and package the film once every clip is in out/renders/.
-#   bash tools/finish.sh parts   → out/deliver/EP13_1080p_NN_<slug>.mp4, ten parts (picture untouched, sound levelled)
-#   VB=690k bash tools/finish.sh 720   → out/deliver/EP13_Mandodari_full_720p.mp4 (one file under 100 MB; 690k fits 16 min)
+#   bash tools/finish.sh parts   → out/deliver/EP13_1080p_NN_<slug>.mp4, seven parts (picture untouched, sound levelled)
+#   VB=1000k bash tools/finish.sh 720   → out/deliver/EP13_Mandodari_full_720p.mp4 (one file under 100 MB; 1000k fits this 10 min 47 s film, 690k fits 16 min)
 # One gain for the whole film (measured on the joined sound, target -14 LUFS, peaks limited), so every part matches.
 set -e
 . /tmp/hfenv.sh
@@ -24,7 +24,7 @@ G=$(cat out/deliver/gain.txt)
 AF="volume=${G}dB,alimiter=limit=0.8:attack=3:release=60:level=false"
 case "$1" in
 parts)
-  # ten parts in running order; the title rides with the hook and the end card with the last chapter
+  # seven parts in running order; the title rides with the hook and the end card with the last chapter
   rm -f out/deliver/EP13_1080p_*.mp4
   i=0
   for x in N01+TITLE:hook_title N02:ch1 N03:ch2 N04:ch3 N05:ch4 N06:ch5 N07+END:ch6_endcard; do

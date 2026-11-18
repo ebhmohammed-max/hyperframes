@@ -117,7 +117,7 @@ mkdirSync(join(dir, "compositions"), { recursive: true });
 writeFileSync(join(dir, "compositions/end.html"), scene({ id: "end", css, html, js }));
 writeFileSync(join(dir, "index.html"), index({ title: "EP13 end card", dur: D, bg: "#000", hosts: [{ id: "end" }], audio: [{ id: "vo", src: "assets/vo/N08.mp3", start: L, dur: 13.1, vol: 1 }] }));
 writeFileSync(join(dir, "hyperframes.json"), JSON.stringify({ $schema: "https://hyperframes.heygen.com/schema/hyperframes.json", registry: "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry", paths: { blocks: "compositions", components: "compositions/components", assets: "assets" }, media: { autoProxy: true } }, null, 2) + "\n");
-writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: "nk-ep13-end", name: "EP13 end card", createdAt: "2026-11-16T09:00:00.000Z" }, null, 2) + "\n");
+writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: "nk-ep13-end", name: "EP13 end card", createdAt: "2026-11-18T09:00:00.000Z" }, null, 2) + "\n");
 rmSync(join(dir, "assets"), { recursive: true, force: true });
 symlinkSync("../../shared", join(dir, "assets"));
 console.log("END:", D, "s");

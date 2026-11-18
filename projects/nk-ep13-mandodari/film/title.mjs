@@ -1,4 +1,4 @@
-// Title sequence (12 s, no voice, no numbers): the port at sunset → waves over the ruins → the diver's torch in the dark, with the title.
+// Title sequence (12 s, no voice, no numbers): Lanka under the moon → the king whose shadow has ten heads → the queen on her terrace at sunrise, with the title.
 //   node film/title.mjs → film/TITLE/
 import { mkdirSync, writeFileSync, symlinkSync, rmSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -11,9 +11,9 @@ const C = { gold: "#f3d48a", cream: "#f6efdc", ink: "#070a18" };
 const D = 12, T = 6.2; // length, title reveal
 // [plate, in, out, transform-origin, from [scale,x,y], to [scale,x,y]]
 const P = [
-  ["320", 0, 3.5, "40% 55%", [1.08, 0, 0], [1.2, 0, 0]],
-  ["009", 2.9, 6.3, "42% 58%", [1.2, 0, 10], [1.08, 0, 0]],
-  ["021", 5.7, D, "46% 50%", [1.05, 0, 0], [1.16, 0, 0]],
+  ["001", 0, 3.5, "55% 45%", [1.08, 0, 0], [1.2, 0, 0]],
+  ["011", 2.9, 6.3, "50% 38%", [1.2, 0, 8], [1.08, 0, 0]],
+  ["079", 5.7, D, "70% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
 
@@ -32,7 +32,7 @@ ${G.css}
     #t-r1 { position: absolute; left: 760px; top: 318px; width: 400px; height: 2px; background: ${C.gold}; opacity: 0; transform-origin: 50% 50%; }
     #t-name { position: absolute; left: 0; width: 1920px; top: 352px; text-align: center; font: 700 158px/1.42 "NK Serif Tamil", serif; color: ${C.gold}; opacity: 0; text-shadow: 0 6px 40px rgba(0,0,0,0.85), 0 0 90px rgba(243,212,138,0.18); white-space: nowrap; }
     #t-r2 { position: absolute; left: 860px; top: 604px; width: 200px; height: 3px; background: ${C.gold}; opacity: 0; transform-origin: 50% 50%; }
-    #t-sub { position: absolute; left: 0; width: 1920px; top: 640px; text-align: center; font: 600 74px/1.45 "NK Sans Tamil", sans-serif; color: ${C.cream}; opacity: 0; text-shadow: 0 3px 22px rgba(0,0,0,0.9); white-space: nowrap; }
+    #t-sub { position: absolute; left: 0; width: 1920px; top: 640px; text-align: center; font: 600 60px/1.45 "NK Sans Tamil", sans-serif; color: ${C.cream}; opacity: 0; text-shadow: 0 3px 22px rgba(0,0,0,0.9); white-space: nowrap; }
     #t-nk { position: absolute; left: 0; width: 1920px; top: 936px; text-align: center; font: 500 30px/1.3 "NK Oswald", sans-serif; letter-spacing: 0.42em; color: rgba(246,239,220,0.82); opacity: 0; white-space: nowrap; }
     #t-fade { position: absolute; inset: 0; z-index: 95; background: #000; }`;
 
@@ -72,7 +72,7 @@ mkdirSync(join(dir, "compositions"), { recursive: true });
 writeFileSync(join(dir, "compositions/ttl.html"), scene({ id: "ttl", css, html, js }));
 writeFileSync(join(dir, "index.html"), index({ title: "EP13 title", dur: D, bg: "#000", hosts: [{ id: "ttl" }], audio }));
 writeFileSync(join(dir, "hyperframes.json"), JSON.stringify({ $schema: "https://hyperframes.heygen.com/schema/hyperframes.json", registry: "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry", paths: { blocks: "compositions", components: "compositions/components", assets: "assets" }, media: { autoProxy: true } }, null, 2) + "\n");
-writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: "nk-ep13-title", name: "EP13 title", createdAt: "2026-11-16T09:00:00.000Z" }, null, 2) + "\n");
+writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: "nk-ep13-title", name: "EP13 title", createdAt: "2026-11-18T09:00:00.000Z" }, null, 2) + "\n");
 rmSync(join(dir, "assets"), { recursive: true, force: true });
 symlinkSync("../../shared", join(dir, "assets"));
 console.log("TITLE:", D, "s");

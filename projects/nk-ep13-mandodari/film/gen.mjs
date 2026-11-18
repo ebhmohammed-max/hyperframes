@@ -57,9 +57,9 @@ const MOVES = [
 
 // Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line)]
 const HOOK_FX = [
-  [0, "impact-bass-1", 0.34, "start"], [4, "whoosh", 0.22, "start"], [6, "whoosh-cinematic", 0.2, "start"],
-  [10, "riser", 0.2, "start"], [10, "impact-bass-2", 0.36, "start"], [11, "impact-bass-1", 0.26, "start"],
-  [13, "impact-bass-2", 0.3, "start"], [16, "whoosh", 0.2, "start"],
+  [0, "impact-bass-1", 0.34, "start"], [2, "whoosh", 0.2, "start"], [4, "impact-bass-2", 0.28, "start"],
+  [5, "whoosh-cinematic", 0.2, "start"], [6, "impact-bass-1", 0.3, "start"], [8, "whoosh", 0.18, "start"],
+  [10, "riser", 0.2, "start"], [10, "impact-bass-2", 0.36, "last"], [13, "whoosh", 0.18, "start"], [14, "impact-bass-1", 0.24, "start"],
 ];
 
 export function build(cid, opt = {}) {
@@ -266,7 +266,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   writeFileSync(join(dir, "compositions/cap.html"), cap);
   writeFileSync(join(dir, "compositions/ovl.html"), ovl);
   writeFileSync(join(dir, "hyperframes.json"), JSON.stringify({ $schema: "https://hyperframes.heygen.com/schema/hyperframes.json", registry: "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry", paths: { blocks: "compositions", components: "compositions/components", assets: "assets" }, media: { autoProxy: true } }, null, 2) + "\n");
-  writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: `nk-ep13-${cid}`, name: `EP13 ${cid}`, createdAt: "2026-11-16T09:00:00.000Z" }, null, 2) + "\n");
+  writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: `nk-ep13-${cid}`, name: `EP13 ${cid}`, createdAt: "2026-11-18T09:00:00.000Z" }, null, 2) + "\n");
   const link = join(dir, "assets");
   rmSync(link, { recursive: true, force: true });
   symlinkSync("../../shared", link);
