@@ -63,6 +63,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B04 | 031–040 | `1fdMGym1bK_mJEiXbiIb9kWnGBYTDJD89` | `1nCCW6Q5-1swSaDPuUgHKyG7usSw4GtZL` | all kept. 037 (bird's-eye view): the town sits on a rise with the palace at the top and shows one clear wall ring, not three; the three rings are clear in 039. Prompts for 032, 033, 038 written by hand as a town under construction. |
 | B05 | 041–050 | `1GK66gM3_1MizU-1hr7GxJbIPKDYcHDTs` | `15VSGJV57w9ixSfLdQVFhhyTpqlNFf1QL` | all kept. Temple (044, 045) and palace (047, 048) match their reference pictures; 048 shows the palace whole and taller. |
 | B06 | 051–060 (057 missing) | `1-cFLkjNz8OPRvmNvt0YlWA2qzbdjnah9` | `1MeCvMtCCEbtexDQ0Ilr8_fcxCpC9ycIM` | 057 not made: the picture tool failed once and the turn limit was used up; on the redo list. 054 (elders at the fire): some faces show in the firelight, small and invented; kept. Hermit in 059 from behind, king's face hidden. Prompts 056–060 written by hand (valley without a town). |
+| B07 | 061–070 | `1cv3QgWDC0fr5jsDvGRpJQfRzoxegxeMh` | `1Ohbr1k6y7p7LzKs7c4Kccv5dxe63Ny6N` | all kept. 069: the hermit's hair is wrapped in a cloth, not coiled (seen from behind, kept). 064, 065, 067: the palace sits higher on the hill than in the reference. All ten prompts written by hand from the shot list. |
 
 ## Next
 
