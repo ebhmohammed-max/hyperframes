@@ -62,6 +62,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B03 | 021–030 | `11RkHqTWGQySWUEsb4GFyZsUIznxvo82k` | `1zxdvsYFYm0g0Dqy58O5f6ZpDUzy69nmB` | 026 to redo (came out as a drawn illustration with outlines). 021: the board has lettering now. 023 flagged by the edge check only for dark corners. 028: courtiers sit in rows, kept. |
 | B04 | 031–040 | `1fdMGym1bK_mJEiXbiIb9kWnGBYTDJD89` | `1nCCW6Q5-1swSaDPuUgHKyG7usSw4GtZL` | all kept. 037 (bird's-eye view): the town sits on a rise with the palace at the top and shows one clear wall ring, not three; the three rings are clear in 039. Prompts for 032, 033, 038 written by hand as a town under construction. |
 | B05 | 041–050 | `1GK66gM3_1MizU-1hr7GxJbIPKDYcHDTs` | `15VSGJV57w9ixSfLdQVFhhyTpqlNFf1QL` | all kept. Temple (044, 045) and palace (047, 048) match their reference pictures; 048 shows the palace whole and taller. |
+| B06 | 051–060 (057 missing) | `1-cFLkjNz8OPRvmNvt0YlWA2qzbdjnah9` | `1MeCvMtCCEbtexDQ0Ilr8_fcxCpC9ycIM` | 057 not made: the picture tool failed once and the turn limit was used up; on the redo list. 054 (elders at the fire): some faces show in the firelight, small and invented; kept. Hermit in 059 from behind, king's face hidden. Prompts 056–060 written by hand (valley without a town). |
 
 ## Next
 
