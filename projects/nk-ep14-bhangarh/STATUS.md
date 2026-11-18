@@ -66,6 +66,7 @@ Topic in the user's words: "Bhangarh Fort", about 10 minutes. Same pipeline as E
 | B07 | 061–070 | `1cv3QgWDC0fr5jsDvGRpJQfRzoxegxeMh` | `1Ohbr1k6y7p7LzKs7c4Kccv5dxe63Ny6N` | all kept. 069: the hermit's hair is wrapped in a cloth, not coiled (seen from behind, kept). 064, 065, 067: the palace sits higher on the hill than in the reference. All ten prompts written by hand from the shot list. |
 | B08 | 071–080 | `1HatR092Z_OxGmSdj_oWylxJkR4Bsjj9a` | `1PUZfAU0mPJUwmLJGvSYC0wqFyUy0c8Hq` | all kept. Ratnavati (078–080) matches her reference picture. 072: frame cut at chest height, one chin shows at the top edge. |
 | B09 | 081–090 | `1i_K_kAReDnmFwxnuKM5VQ0MiF3QyFffM` | `1VvZGbpR1A-MCha1a6NErlmiHGkeww6VL` | all kept. Singhia (082–084, 086) and Ratnavati (089) match their reference pictures. The bottle in 089 is rounder and larger than in 076 and 087. 081 flagged by the edge check only for a bright window corner. |
+| B10 | 091–100 | `10T0qHUhOL6eKMTdKmDlLLQvhJfBMNSZP` | `1QuaJPmuKkd-3HIAyS4KiwJbMSDzEccfM` | all kept. 092: the boulder shows as a dark round shape at the top edge with its shadow on the ground; nobody is hurt in any picture. Chapters hook to 03 (N01–N04) are complete except 003, 026, 057. |
 
 ## Next
 
