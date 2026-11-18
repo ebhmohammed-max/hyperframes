@@ -3,3 +3,4 @@
 026|came out as a drawn illustration with black outlines; make again as a photographic night shot (ask for a telephoto wildlife photograph, soft focus, no outlines)
 057|the picture tool failed once (no picture yet); make with the prompt in prompts.json, hermit from behind, valley empty with no town
 119|looks like a present-day photo: grey cement mortar, a buttoned blue shirt, a modern trowel, oversaturated; make again with white lime mortar, a bare forearm or plain cotton sleeve, a hand-forged tool, muted colours
+138|close view of the board: the nearest rows are sharp, readable-looking nonsense Hindi words; make again with the focus on the rusty frame edge and every row of lettering out of focus
