@@ -106,6 +106,8 @@ Our coin gets moving here. It is in a pay chest on a cart going out from Ghis wi
 
 Seventeen years pass. You would not know it from the histories, which go quiet between one war and the next, as though nothing happens in peace. Everything happens in peace. A generation grows up in a city that reads its own coins and finds the word tribute worn into the edge. Their fathers remember winning on the shore. Their sons remember a line on a map.
 
+## Chapter III — Building the answer
+
 [10:00–10:30 | HAR-EP002-IMG0301–IMG0315]
 
 The second war did not begin with a battle. It began with a building. In the third year after the treaty, a Ghiscari engineer named nothing, remembered by no one, submitted a design. It survives in the shape of what was actually built: a tower, thickened, with a platform cut into the top, and on the platform a roof that could be opened. He was solving the right problem.
@@ -145,6 +147,8 @@ So the world settled into a shape that everyone hated and nobody changed. Ghis, 
 [14:30–15:00 | HAR-EP002-IMG0436–IMG0450]
 
 Then Ghis did the thing the coin's buried jar had been waiting for. It stopped sending the tribute. Not with a speech. In a season, quietly, the ships failed to sail. And a young officer of the dragonlords, on a wall in the west, received the news as a list of goods that had not arrived, and understood before anyone told him what the absence meant.
+
+## Chapter IV — The long exhale
 
 [15:00–15:30 | HAR-EP002-IMG0451–IMG0465]
 
@@ -190,6 +194,8 @@ The jar under that floor was never opened. That is what the ash tells us. Four w
 
 Four wars. Four victories. And the thing that ought to strike us as strange is not that Valyria won. It is that each win left exactly as much of Ghis to fight next time. A victory that does not end the argument is not a victory. It is a very expensive way of being right. Valyria knew how to break a fleet. It did not know how to end anything.
 
+## Chapter V — Salt, ash, and what was left
+
 [20:30–21:00 | HAR-EP002-IMG0616–IMG0630]
 
 That is not modesty in the dragonlords. It is arithmetic. To finish Ghis utterly would have meant an act so large that the houses of Valyria would have had to agree on it, permanently, and they could not agree on the height of a gate. The Freehold was a machine for winning arguments. It was never a machine for concluding them. The difference cost it a hundred years.
@@ -230,6 +236,8 @@ But here is what nobody counted on. A city is not a wall. A city is people, and 
 
 And that is how the harpy outlived the dragon. Not as an empire. As a stamp. As a temple on a side street in a smaller city. As a face on a coin that a ship's captain weighs in his hand without once thinking about the war that put it there. Empires die from the top. The things they taught the world die last, and sometimes they never die at all.
 
+## Chapter VI — The harpy looks up
+
 [25:30–26:00 | HAR-EP002-IMG0766–IMG0780]
 
 The dragonlords, meanwhile, went home with the idea that they had settled something. You can see how they arrived at it. Five times an enemy had come at them across the water, and five times the water had decided it. The lesson they took was not that they were lucky. It was that they were correct. Those are different sentences, and a great many people have died for the difference.
@@ -269,6 +277,8 @@ And that is why the coin matters more than the battles we cannot read. Battles h
 [30:00–30:30 | HAR-EP002-IMG0901–IMG0915]
 
 Next, the river. Because while the dragonlords were learning what they could do to a city, there was a people on the Rhoyne who had watched the whole of this and drawn a conclusion from it that was not fear. They had water, and numbers, and a great deal of patience, and their own idea of what a person is worth. Their turn is next.
+
+## Chapter VII — The night the harpy went out
 
 [30:30–31:00 | HAR-EP002-IMG0916–IMG0930]
 

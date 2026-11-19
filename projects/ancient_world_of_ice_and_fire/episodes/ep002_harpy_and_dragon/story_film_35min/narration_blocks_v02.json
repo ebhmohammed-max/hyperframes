@@ -1,8 +1,11 @@
 {
   "episode": "HAR-EP002",
   "title": "The Harpy and the Dragon",
-  "version": "v02 story-led paced",
-  "measured_wpm_source": "ep01 take01 mean 146.4 wpm",
+  "channel": "The Long Night",
+  "version": "v02 story-led",
+  "source": "projects/ancient_world_of_ice_and_fire/episodes/ep002_harpy_and_dragon/story_film_35min/01_COMPLETE_NARRATION_35MIN_v02.md",
+  "measured_wpm_source": "Ep01 take01 mean 146.4 wpm",
+  "planned_wpm": 146.4,
   "blocks": [
     {
       "n": 1,
@@ -10,7 +13,8 @@
       "end": "00:30",
       "img_from": 1,
       "img_to": 15,
-      "text": "In the ruin of a city on the Ghiscari coast, under a hand's depth of grey ash, a man with a shovel found a gold coin. It was worn nearly smooth. One face still read clearly: a woman's body, a bird's wings, a thunderbolt raised in her fist. A harpy. The city that struck it had been the greatest power in the known world."
+      "text": "In the ruin of a city on the Ghiscari coast, under a hand's depth of grey ash, a man with a shovel found a gold coin. It was worn nearly smooth. One face still read clearly: a woman's body, a bird's wings, a thunderbolt raised in her fist. A harpy. The city that struck it had been the greatest power in the known world.",
+      "words": 64
     },
     {
       "n": 2,
@@ -18,7 +22,8 @@
       "end": "01:00",
       "img_from": 16,
       "img_to": 30,
-      "text": "The coin should not be here. Men who believe they will last forever do not bury their money. They build, and they stamp their goddess on everything they own, and they die old in their beds surrounded by grandchildren. This coin went into the ground in a hurry, in the dark, by someone who never came back down the stairs for it."
+      "text": "The coin should not be here. Men who believe they will last forever do not bury their money. They build, and they stamp their goddess on everything they own, and they die old in their beds surrounded by grandchildren. This coin went into the ground in a hurry, in the dark, by someone who never came back down the stairs for it.",
+      "words": 62
     },
     {
       "n": 3,
@@ -26,7 +31,8 @@
       "end": "01:30",
       "img_from": 31,
       "img_to": 45,
-      "text": "Five times the greatest empire in the world went to war with a country of shepherds across the water. Five times it lost. Nobody wrote down how. What survives is the shape of it, and a coin, and one question that has been lying in that ash for two thousand years. How does the strongest thing in the world lose five times, and what does the winner become?"
+      "text": "Five times the greatest empire in the world went to war with a country of shepherds across the water. Five times it lost. Nobody wrote down how. What survives is the shape of it, and a coin, and one question that has been lying in that ash for two thousand years. How does the strongest thing in the world lose five times, and what does the winner become?",
+      "words": 68
     },
     {
       "n": 4,
@@ -34,7 +40,8 @@
       "end": "02:00",
       "img_from": 46,
       "img_to": 60,
-      "text": "Start with the ground, because the ground explains it. Ghis sat where a slow river crossed a plain of good clay. Clay for brick. Brick for walls. Walls for a city that could feed an army and keep it. The country was hot, dry, and generous in exactly the way that makes a people patient. Nothing here was built in a hurry."
+      "text": "Start with the ground, because the ground explains it. Ghis sat where a slow river crossed a plain of good clay. Clay for brick. Brick for walls. Walls for a city that could feed an army and keep it. The country was hot, dry, and generous in exactly the way that makes a people patient. Nothing here was built in a hurry.",
+      "words": 62
     },
     {
       "n": 5,
@@ -42,7 +49,8 @@
       "end": "02:30",
       "img_from": 61,
       "img_to": 75,
-      "text": "By the time our coin was struck, that patience had turned into something harder. Old Ghis owned the coast for a thousand miles in either direction. Its brick pyramids stood over the river like stepped hills, and on the tallest of them a bronze harpy caught the light, holding her thunderbolt out over the roofs. You could see her from a day's sail away."
+      "text": "By the time our coin was struck, that patience had turned into something harder. Old Ghis owned the coast for a thousand miles in either direction. Its brick pyramids stood over the river like stepped hills, and on the tallest of them a bronze harpy caught the light, holding her thunderbolt out over the roofs. You could see her from a day's sail away.",
+      "words": 64
     },
     {
       "n": 6,
@@ -50,7 +58,8 @@
       "end": "03:00",
       "img_from": 76,
       "img_to": 90,
-      "text": "A coin like ours bought a month of a man's life. Not his labour — him. That was the plain arithmetic underneath all the brick and bronze, and it is the part of this story that everyone would rather skip. Ghis was not great in spite of what it did. It was great because of it. Remember that, because it does not change."
+      "text": "A coin like ours bought a month of a man's life. Not his labour — him. That was the plain arithmetic underneath all the brick and bronze, and it is the part of this story that everyone would rather skip. Ghis was not great in spite of what it did. It was great because of it. Remember that, because it does not change.",
+      "words": 63
     },
     {
       "n": 7,
@@ -58,7 +67,8 @@
       "end": "03:30",
       "img_from": 91,
       "img_to": 105,
-      "text": "And the legions. You have to hear them before you can understand what went wrong. Not a charge. A walk. Ten thousand men in step on a dry road make a sound like a door closing, over and over, and the cities in front of them opened their gates rather than listen to it arrive. For three hundred years, that sound was the end of arguments."
+      "text": "And the legions. You have to hear them before you can understand what went wrong. Not a charge. A walk. Ten thousand men in step on a dry road make a sound like a door closing, over and over, and the cities in front of them opened their gates rather than listen to it arrive. For three hundred years, that sound was the end of arguments.",
+      "words": 66
     },
     {
       "n": 8,
@@ -66,7 +76,8 @@
       "end": "04:00",
       "img_from": 106,
       "img_to": 120,
-      "text": "Across the water, north and west, past the smoking mountains, there was a peninsula nobody in Ghis bothered to be afraid of. Shepherds. Goat tracks. A few families scratching a living out of black volcanic soil. If a Ghiscari merchant had been asked to name the powers of the world, he would have named his own city, and then he would have run out of names."
+      "text": "Across the water, north and west, past the smoking mountains, there was a peninsula nobody in Ghis bothered to be afraid of. Shepherds. Goat tracks. A few families scratching a living out of black volcanic soil. If a Ghiscari merchant had been asked to name the powers of the world, he would have named his own city, and then he would have run out of names.",
+      "words": 66
     },
     {
       "n": 9,
@@ -74,7 +85,8 @@
       "end": "04:30",
       "img_from": 121,
       "img_to": 135,
-      "text": "Here is the thing the Ghiscari could not make their minds hold. A shield wall is a brilliant answer to cavalry. It is a brilliant answer to another shield wall. It is a machine built for exactly one problem: the enemy must come across the ground. Take the ground away, and the machine does not break. Nobody in it is a coward. It simply becomes decoration."
+      "text": "Here is the thing the Ghiscari could not make their minds hold. A shield wall is a brilliant answer to cavalry. It is a brilliant answer to another shield wall. It is a machine built for exactly one problem: the enemy must come across the ground. Take the ground away, and the machine does not break. Nobody in it is a coward. It simply becomes decoration.",
+      "words": 66
     },
     {
       "n": 10,
@@ -82,7 +94,8 @@
       "end": "05:00",
       "img_from": 136,
       "img_to": 150,
-      "text": "The men in the brick halls did what powerful men always do with a new thing. They measured it against their own. We have ten thousand spears, they said. They have a rumour. The mistake was not stupidity. It was arithmetic done by people who had never once in their lives had to do arithmetic against something they could not see coming. ## Chapter II — The wrong tool for the sky"
+      "text": "The men in the brick halls did what powerful men always do with a new thing. They measured it against their own. We have ten thousand spears, they said. They have a rumour. The mistake was not stupidity. It was arithmetic done by people who had never once in their lives had to do arithmetic against something they could not see coming.",
+      "words": 62
     },
     {
       "n": 11,
@@ -90,7 +103,8 @@
       "end": "05:30",
       "img_from": 151,
       "img_to": 165,
-      "text": "The first war began, as these things do, over a harbour. Not the city behind it. The harbour. A pilot paid to bring ships in, a toll, a bad night, a ship that came in anyway. Within a month there were two fleets in the strait and neither government entirely sure how it had started, and by then it did not matter, because the ships were already there."
+      "text": "The first war began, as these things do, over a harbour. Not the city behind it. The harbour. A pilot paid to bring ships in, a toll, a bad night, a ship that came in anyway. Within a month there were two fleets in the strait and neither government entirely sure how it had started, and by then it did not matter, because the ships were already there.",
+      "words": 68
     },
     {
       "n": 12,
@@ -98,7 +112,8 @@
       "end": "06:00",
       "img_from": 166,
       "img_to": 180,
-      "text": "Picture the night before the first battle. Ashore, a Ghiscari officer walks his line and hears the usual sounds: men coughing, a whetstone, someone losing at dice. Then it comes. A noise from above the cloud, low and slow, like a sail tearing in a wind you cannot feel. He has no word for it. Nobody in that army does. They will invent one, and the word will be fear."
+      "text": "Picture the night before the first battle. Ashore, a Ghiscari officer walks his line and hears the usual sounds: men coughing, a whetstone, someone losing at dice. Then it comes. A noise from above the cloud, low and slow, like a sail tearing in a wind you cannot feel. He has no word for it. Nobody in that army does. They will invent one, and the word will be fear.",
+      "words": 70
     },
     {
       "n": 13,
@@ -106,7 +121,8 @@
       "end": "06:30",
       "img_from": 181,
       "img_to": 195,
-      "text": "The battle lasted less than an afternoon. The legions never broke. That is the detail to hold on to. Ten thousand men held their formation on an open shore while the sky came down on them, because holding formation was the only thing they had ever been trained to do, and it was useless, and they did it anyway. Discipline is not the same as a plan."
+      "text": "The battle lasted less than an afternoon. The legions never broke. That is the detail to hold on to. Ten thousand men held their formation on an open shore while the sky came down on them, because holding formation was the only thing they had ever been trained to do, and it was useless, and they did it anyway. Discipline is not the same as a plan.",
+      "words": 67
     },
     {
       "n": 14,
@@ -114,7 +130,8 @@
       "end": "07:00",
       "img_from": 196,
       "img_to": 210,
-      "text": "A legion is not only a way of fighting. It is a way of thinking about order, and every man in it has been taught since boyhood that the world is a line, and that a line holds. When the line fails, the institution does not learn. It repairs the line. That is the difference between an army that is beaten and an army that can be changed."
+      "text": "A legion is not only a way of fighting. It is a way of thinking about order, and every man in it has been taught since boyhood that the world is a line, and that a line holds. When the line fails, the institution does not learn. It repairs the line. That is the difference between an army that is beaten and an army that can be changed.",
+      "words": 68
     },
     {
       "n": 15,
@@ -122,7 +139,8 @@
       "end": "07:30",
       "img_from": 211,
       "img_to": 225,
-      "text": "Their engineers were not fools. They had towers built on the walls with engines on the towers, and the engines were aimed at a place in the sky where a large flying animal would have to pass. It was careful work. It was the best work anyone in the world could do at the time. It was designed for a siege that had already stopped existing."
+      "text": "Their engineers were not fools. They had towers built on the walls with engines on the towers, and the engines were aimed at a place in the sky where a large flying animal would have to pass. It was careful work. It was the best work anyone in the world could do at the time. It was designed for a siege that had already stopped existing.",
+      "words": 66
     },
     {
       "n": 16,
@@ -130,7 +148,8 @@
       "end": "08:00",
       "img_from": 226,
       "img_to": 240,
-      "text": "When the first war ended, the dragonlords did something nobody expected. They did not march on the pyramids. They made a treaty. Ghis would keep its walls, its river, its trade, and its pride, and in exchange it would pay, and obey, and stay behind a line that other men had drawn. The city lived. That was the point. A living city pays."
+      "text": "When the first war ended, the dragonlords did something nobody expected. They did not march on the pyramids. They made a treaty. Ghis would keep its walls, its river, its trade, and its pride, and in exchange it would pay, and obey, and stay behind a line that other men had drawn. The city lived. That was the point. A living city pays.",
+      "words": 63
     },
     {
       "n": 17,
@@ -138,7 +157,8 @@
       "end": "08:30",
       "img_from": 241,
       "img_to": 255,
-      "text": "And the men in the brick halls learned the worst possible thing from losing. They learned it had been a bad day. Weather. An accident of clouds. They looked at the evidence every one of us has just looked at and concluded that with more towers, more ships and less misfortune, the next attempt would go differently. It is very hard to think clearly when you are ashamed."
+      "text": "And the men in the brick halls learned the worst possible thing from losing. They learned it had been a bad day. Weather. An accident of clouds. They looked at the evidence every one of us has just looked at and concluded that with more towers, more ships and less misfortune, the next attempt would go differently. It is very hard to think clearly when you are ashamed.",
+      "words": 68
     },
     {
       "n": 18,
@@ -146,7 +166,8 @@
       "end": "09:00",
       "img_from": 256,
       "img_to": 270,
-      "text": "For Valyria, the first victory did something worse than it did to Ghis. It taught a mountain people that the world could be taken. They had been nobody. Now the sea in front of them had a name they had given it, and men who had owned nothing found themselves collecting a tax from a city older than their grandmother's grandmother. Nobody in that position becomes modest."
+      "text": "For Valyria, the first victory did something worse than it did to Ghis. It taught a mountain people that the world could be taken. They had been nobody. Now the sea in front of them had a name they had given it, and men who had owned nothing found themselves collecting a tax from a city older than their grandmother's grandmother. Nobody in that position becomes modest.",
+      "words": 67
     },
     {
       "n": 19,
@@ -154,7 +175,8 @@
       "end": "09:30",
       "img_from": 271,
       "img_to": 285,
-      "text": "Our coin gets moving here. It is in a pay chest on a cart going out from Ghis with the first instalment of whatever the treaty said. A soldier draws his month against it. Somewhere on the road a wheel breaks, the chest spills, and one man picks a coin out of the dust and puts it in his boot. His name is lost. The coin is the only record he leaves."
+      "text": "Our coin gets moving here. It is in a pay chest on a cart going out from Ghis with the first instalment of whatever the treaty said. A soldier draws his month against it. Somewhere on the road a wheel breaks, the chest spills, and one man picks a coin out of the dust and puts it in his boot. His name is lost. The coin is the only record he leaves.",
+      "words": 72
     },
     {
       "n": 20,
@@ -162,7 +184,8 @@
       "end": "10:00",
       "img_from": 286,
       "img_to": 300,
-      "text": "Seventeen years pass. You would not know it from the histories, which go quiet between one war and the next, as though nothing happens in peace. Everything happens in peace. A generation grows up in a city that reads its own coins and finds the word tribute worn into the edge. Their fathers remember winning on the shore. Their sons remember a line on a map."
+      "text": "Seventeen years pass. You would not know it from the histories, which go quiet between one war and the next, as though nothing happens in peace. Everything happens in peace. A generation grows up in a city that reads its own coins and finds the word tribute worn into the edge. Their fathers remember winning on the shore. Their sons remember a line on a map.",
+      "words": 66
     },
     {
       "n": 21,
@@ -170,7 +193,8 @@
       "end": "10:30",
       "img_from": 301,
       "img_to": 315,
-      "text": "The second war did not begin with a battle. It began with a building. In the third year after the treaty, a Ghiscari engineer named nothing, remembered by no one, submitted a design. It survives in the shape of what was actually built: a tower, thickened, with a platform cut into the top, and on the platform a roof that could be opened. He was solving the right problem."
+      "text": "The second war did not begin with a battle. It began with a building. In the third year after the treaty, a Ghiscari engineer named nothing, remembered by no one, submitted a design. It survives in the shape of what was actually built: a tower, thickened, with a platform cut into the top, and on the platform a roof that could be opened. He was solving the right problem.",
+      "words": 69
     },
     {
       "n": 22,
@@ -178,7 +202,8 @@
       "end": "11:00",
       "img_from": 316,
       "img_to": 330,
-      "text": "The problem was this. A dragon is devastating at the target and worthless on a road. It must eat, which means men, animals, water. It must sleep. And to cross a sea it has to go in a ship, and the ship is as slow and as flammable as any ship ever built. The mountains had one weapon, and it could not swim."
+      "text": "The problem was this. A dragon is devastating at the target and worthless on a road. It must eat, which means men, animals, water. It must sleep. And to cross a sea it has to go in a ship, and the ship is as slow and as flammable as any ship ever built. The mountains had one weapon, and it could not swim.",
+      "words": 63
     },
     {
       "n": 23,
@@ -186,7 +211,8 @@
       "end": "11:30",
       "img_from": 331,
       "img_to": 345,
-      "text": "So the war was fought at the waterline, in the least dramatic places imaginable. Rope. Iron. Grain. A harbour master's ledger. Somebody in a storehouse counting jars, all night, by lamp, deciding which ships sail tomorrow. The dragon decided battles. It never decided a war, because a war is won the night before, by a man with a list, who is not in any chronicle."
+      "text": "So the war was fought at the waterline, in the least dramatic places imaginable. Rope. Iron. Grain. A harbour master's ledger. Somebody in a storehouse counting jars, all night, by lamp, deciding which ships sail tomorrow. The dragon decided battles. It never decided a war, because a war is won the night before, by a man with a list, who is not in any chronicle.",
+      "words": 65
     },
     {
       "n": 24,
@@ -194,7 +220,8 @@
       "end": "12:00",
       "img_from": 346,
       "img_to": 360,
-      "text": "Fire does not hold a city. This is the hardness under the whole story. You can burn a place until it stops arguing, and then you have to live in the burnt place and collect from what is left, and the thing that collects is not a dragon. It is a man with a horse and a purse and a bad temper. Valyria discovered that on a quay, in the rain."
+      "text": "Fire does not hold a city. This is the hardness under the whole story. You can burn a place until it stops arguing, and then you have to live in the burnt place and collect from what is left, and the thing that collects is not a dragon. It is a man with a horse and a purse and a bad temper. Valyria discovered that on a quay, in the rain.",
+      "words": 71
     },
     {
       "n": 25,
@@ -202,7 +229,8 @@
       "end": "12:30",
       "img_from": 361,
       "img_to": 375,
-      "text": "The second war ended the way the first had. Ghis lost, paid, and kept the harpy on its walls. Only now the tribute had a harder edge, and the treaty ran to forty clauses instead of twelve, and there was a clause near the end that nobody in the brick halls could read without flinching. It forbade something. Which thing matters later."
+      "text": "The second war ended the way the first had. Ghis lost, paid, and kept the harpy on its walls. Only now the tribute had a harder edge, and the treaty ran to forty clauses instead of twelve, and there was a clause near the end that nobody in the brick halls could read without flinching. It forbade something. Which thing matters later.",
+      "words": 62
     },
     {
       "n": 26,
@@ -210,7 +238,8 @@
       "end": "13:00",
       "img_from": 376,
       "img_to": 390,
-      "text": "Our coin turns up again in a wholly unremarkable place: a jar, buried under the floor of a house in the lower city, with eleven of its brothers and a woman's ring. Somebody hid their savings. People do that when they have decided the threat is real. Not the government. Not the army. A household, that had watched the towers go up and understood what the towers were for."
+      "text": "Our coin turns up again in a wholly unremarkable place: a jar, buried under the floor of a house in the lower city, with eleven of its brothers and a woman's ring. Somebody hid their savings. People do that when they have decided the threat is real. Not the government. Not the army. A household, that had watched the towers go up and understood what the towers were for.",
+      "words": 69
     },
     {
       "n": 27,
@@ -218,7 +247,8 @@
       "end": "13:30",
       "img_from": 391,
       "img_to": 405,
-      "text": "And the third war came, and the third treaty, each one a little heavier than the last. You can feel the pattern building: a proud city, a talent for war, a refusal to accept that the age it was built for had ended in the first afternoon of the first battle. They were not stupid. They were brave, industrious and first-rate. And they were answering a question nobody was asking any more."
+      "text": "And the third war came, and the third treaty, each one a little heavier than the last. You can feel the pattern building: a proud city, a talent for war, a refusal to accept that the age it was built for had ended in the first afternoon of the first battle. They were not stupid. They were brave, industrious and first-rate. And they were answering a question nobody was asking any more.",
+      "words": 72
     },
     {
       "n": 28,
@@ -226,7 +256,8 @@
       "end": "14:00",
       "img_from": 406,
       "img_to": 420,
-      "text": "Now look at the other side, because the dragonlords were not building a country. They were building a family quarrel with a navy attached. Their dragons belonged to houses, not to a crown, and the houses bid for honour the way other men bid for land. A war abroad was useful. It settled disputes at home, too, by sending the ambitious ones somewhere they could not scheme."
+      "text": "Now look at the other side, because the dragonlords were not building a country. They were building a family quarrel with a navy attached. Their dragons belonged to houses, not to a crown, and the houses bid for honour the way other men bid for land. A war abroad was useful. It settled disputes at home, too, by sending the ambitious ones somewhere they could not scheme.",
+      "words": 67
     },
     {
       "n": 29,
@@ -234,7 +265,8 @@
       "end": "14:30",
       "img_from": 421,
       "img_to": 435,
-      "text": "So the world settled into a shape that everyone hated and nobody changed. Ghis, with the walls still standing and the harpy still on them. Valyria, collecting. The old cities of the coast, learning to sweep the street in front of two different masters. And between them, an entire generation who had never seen the plain, and who therefore believed the arrangement was permanent because it was old."
+      "text": "So the world settled into a shape that everyone hated and nobody changed. Ghis, with the walls still standing and the harpy still on them. Valyria, collecting. The old cities of the coast, learning to sweep the street in front of two different masters. And between them, an entire generation who had never seen the plain, and who therefore believed the arrangement was permanent because it was old.",
+      "words": 68
     },
     {
       "n": 30,
@@ -242,7 +274,8 @@
       "end": "15:00",
       "img_from": 436,
       "img_to": 450,
-      "text": "Then Ghis did the thing the coin's buried jar had been waiting for. It stopped sending the tribute. Not with a speech. In a season, quietly, the ships failed to sail. And a young officer of the dragonlords, on a wall in the west, received the news as a list of goods that had not arrived, and understood before anyone told him what the absence meant."
+      "text": "Then Ghis did the thing the coin's buried jar had been waiting for. It stopped sending the tribute. Not with a speech. In a season, quietly, the ships failed to sail. And a young officer of the dragonlords, on a wall in the west, received the news as a list of goods that had not arrived, and understood before anyone told him what the absence meant.",
+      "words": 66
     },
     {
       "n": 31,
@@ -250,7 +283,8 @@
       "end": "15:30",
       "img_from": 451,
       "img_to": 465,
-      "text": "The fourth war is short in the telling and long in the living. Four years, by the count we have. Think what four years is inside a city. A boy is apprenticed. A girl is married. A roof goes from new to needing work. A man who marched out with the second levy comes back heavier, quieter, with a limp. The war is in the household now, on every shelf."
+      "text": "The fourth war is short in the telling and long in the living. Four years, by the count we have. Think what four years is inside a city. A boy is apprenticed. A girl is married. A roof goes from new to needing work. A man who marched out with the second levy comes back heavier, quieter, with a limp. The war is in the household now, on every shelf.",
+      "words": 70
     },
     {
       "n": 32,
@@ -258,7 +292,8 @@
       "end": "16:00",
       "img_from": 466,
       "img_to": 480,
-      "text": "And in Valyria, four years of winning at sea bought something unexpected: taxes. Ledgers. Governors who had to be appointed because a man who lived in a mountain had to live somewhere else now, in a hot city with bad water, making decisions about grain. Nobody sang songs about the governors. Yet the empire that would last five thousand years was being invented in their ugly little offices."
+      "text": "And in Valyria, four years of winning at sea bought something unexpected: taxes. Ledgers. Governors who had to be appointed because a man who lived in a mountain had to live somewhere else now, in a hot city with bad water, making decisions about grain. Nobody sang songs about the governors. Yet the empire that would last five thousand years was being invented in their ugly little offices.",
+      "words": 68
     },
     {
       "n": 33,
@@ -266,7 +301,8 @@
       "end": "16:30",
       "img_from": 481,
       "img_to": 495,
-      "text": "The fourth settlement is the one that matters, because it did not merely forbid a thing. It removed the possibility of the thing. Ghis was given a line it could not cross and told the crossing would be answered with a fire that would go on until the city stopped existing. The dragonlords did not do this out of cruelty alone. They did it because they were tired of coming back."
+      "text": "The fourth settlement is the one that matters, because it did not merely forbid a thing. It removed the possibility of the thing. Ghis was given a line it could not cross and told the crossing would be answered with a fire that would go on until the city stopped existing. The dragonlords did not do this out of cruelty alone. They did it because they were tired of coming back.",
+      "words": 71
     },
     {
       "n": 34,
@@ -274,7 +310,8 @@
       "end": "17:00",
       "img_from": 496,
       "img_to": 510,
-      "text": "For a while, it worked. The coast grew fat and quiet. Trade went where trade goes. Our coin, in its jar, sat under a floor and was not needed. And in the lower cities the harpy went on being stamped on everything, because the people who run a market do not care whose statues are in the square. They care about the weight of the metal."
+      "text": "For a while, it worked. The coast grew fat and quiet. Trade went where trade goes. Our coin, in its jar, sat under a floor and was not needed. And in the lower cities the harpy went on being stamped on everything, because the people who run a market do not care whose statues are in the square. They care about the weight of the metal.",
+      "words": 66
     },
     {
       "n": 35,
@@ -282,7 +319,8 @@
       "end": "17:30",
       "img_from": 511,
       "img_to": 525,
-      "text": "Then Old Ghis did something the treaty had not anticipated, and it is the strangest act in this story. It waited. It obeyed. It was obedient the one way a proud people can be: it made the waiting itself into a kind of war. It bred a generation on the memory of the plain and taught them that the shape of the world was only a bad season."
+      "text": "Then Old Ghis did something the treaty had not anticipated, and it is the strangest act in this story. It waited. It obeyed. It was obedient the one way a proud people can be: it made the waiting itself into a kind of war. It bred a generation on the memory of the plain and taught them that the shape of the world was only a bad season.",
+      "words": 68
     },
     {
       "n": 36,
@@ -290,7 +328,8 @@
       "end": "18:00",
       "img_from": 526,
       "img_to": 540,
-      "text": "And Valyria, watching this, made the mistake that every empire makes when it is strong and comfortable. It stopped believing that anyone would be foolish enough to test it. There is a kind of confidence that is not a judgement but a habit. You stop counting the guard, and the guard stops counting back, and everyone agrees, without saying so, that the question is settled."
+      "text": "And Valyria, watching this, made the mistake that every empire makes when it is strong and comfortable. It stopped believing that anyone would be foolish enough to test it. There is a kind of confidence that is not a judgement but a habit. You stop counting the guard, and the guard stops counting back, and everyone agrees, without saying so, that the question is settled.",
+      "words": 65
     },
     {
       "n": 37,
@@ -298,7 +337,8 @@
       "end": "18:30",
       "img_from": 541,
       "img_to": 555,
-      "text": "Meanwhile, elsewhere on that coast, the thing that would outlast every dragonlord in this film was quietly happening in a shipyard. A people across the water were learning to build hulls that could take a sea the Ghiscari called closed. Not soldiers. Sailors. In the end, more of this story is decided in boats than anyone writing a heroic account would like."
+      "text": "Meanwhile, elsewhere on that coast, the thing that would outlast every dragonlord in this film was quietly happening in a shipyard. A people across the water were learning to build hulls that could take a sea the Ghiscari called closed. Not soldiers. Sailors. In the end, more of this story is decided in boats than anyone writing a heroic account would like.",
+      "words": 62
     },
     {
       "n": 38,
@@ -306,7 +346,8 @@
       "end": "19:00",
       "img_from": 556,
       "img_to": 570,
-      "text": "And the ordinary world went on being ordinary, which is the part the histories cannot hold. Bread. A quarrel over a boundary. A cow. Children throwing stones at a tethered goat. Nine tenths of the people in that century never saw a dragon, and thought about the wars roughly as often as you think about a road you have never travelled. That is the true weight of an empire: almost nothing."
+      "text": "And the ordinary world went on being ordinary, which is the part the histories cannot hold. Bread. A quarrel over a boundary. A cow. Children throwing stones at a tethered goat. Nine tenths of the people in that century never saw a dragon, and thought about the wars roughly as often as you think about a road you have never travelled. That is the true weight of an empire: almost nothing.",
+      "words": 71
     },
     {
       "n": 39,
@@ -314,7 +355,8 @@
       "end": "19:30",
       "img_from": 571,
       "img_to": 585,
-      "text": "The fifth war, when it came, was not a surprise to the men on the wall. It was a surprise to the men in the counting house. That is always the way. The people who keep the maps are the last to know the maps are wrong. By the time the word reached the capital the thing was already loose, and no clause covered it."
+      "text": "The fifth war, when it came, was not a surprise to the men on the wall. It was a surprise to the men in the counting house. That is always the way. The people who keep the maps are the last to know the maps are wrong. By the time the word reached the capital the thing was already loose, and no clause covered it.",
+      "words": 65
     },
     {
       "n": 40,
@@ -322,7 +364,8 @@
       "end": "20:00",
       "img_from": 586,
       "img_to": 600,
-      "text": "The jar under that floor was never opened. That is what the ash tells us. Four wars had gone past overhead by then, and the coin was still sitting in the dark with the ring and the eleven brothers, and whoever owned it did not come down, on the last day, to get it. The ash was laid on top while the jar was still closed."
+      "text": "The jar under that floor was never opened. That is what the ash tells us. Four wars had gone past overhead by then, and the coin was still sitting in the dark with the ring and the eleven brothers, and whoever owned it did not come down, on the last day, to get it. The ash was laid on top while the jar was still closed.",
+      "words": 66
     },
     {
       "n": 41,
@@ -330,7 +373,8 @@
       "end": "20:30",
       "img_from": 601,
       "img_to": 615,
-      "text": "Four wars. Four victories. And the thing that ought to strike us as strange is not that Valyria won. It is that each win left exactly as much of Ghis to fight next time. A victory that does not end the argument is not a victory. It is a very expensive way of being right. Valyria knew how to break a fleet. It did not know how to end anything."
+      "text": "Four wars. Four victories. And the thing that ought to strike us as strange is not that Valyria won. It is that each win left exactly as much of Ghis to fight next time. A victory that does not end the argument is not a victory. It is a very expensive way of being right. Valyria knew how to break a fleet. It did not know how to end anything.",
+      "words": 70
     },
     {
       "n": 42,
@@ -338,7 +382,8 @@
       "end": "21:00",
       "img_from": 616,
       "img_to": 630,
-      "text": "That is not modesty in the dragonlords. It is arithmetic. To finish Ghis utterly would have meant an act so large that the houses of Valyria would have had to agree on it, permanently, and they could not agree on the height of a gate. The Freehold was a machine for winning arguments. It was never a machine for concluding them. The difference cost it a hundred years."
+      "text": "That is not modesty in the dragonlords. It is arithmetic. To finish Ghis utterly would have meant an act so large that the houses of Valyria would have had to agree on it, permanently, and they could not agree on the height of a gate. The Freehold was a machine for winning arguments. It was never a machine for concluding them. The difference cost it a hundred years.",
+      "words": 68
     },
     {
       "n": 43,
@@ -346,7 +391,8 @@
       "end": "21:30",
       "img_from": 631,
       "img_to": 645,
-      "text": "And here is a scene I would give a great deal to have watched. A Ghiscari negotiator, between the third war and the fourth, crossing the water with an escort and a scroll, coming to ask for better terms. He is treated well. He is fed well. He is shown the city. Every one of those courtesies is a sentence in a language he understands."
+      "text": "And here is a scene I would give a great deal to have watched. A Ghiscari negotiator, between the third war and the fourth, crossing the water with an escort and a scroll, coming to ask for better terms. He is treated well. He is fed well. He is shown the city. Every one of those courtesies is a sentence in a language he understands.",
+      "words": 65
     },
     {
       "n": 44,
@@ -354,7 +400,8 @@
       "end": "22:00",
       "img_from": 646,
       "img_to": 660,
-      "text": "The scroll he carried is in no archive. But the shape of the answer is not hard to guess, because the same answer is on record in every century since. Yes to the tribute. No to the ships. No to the tall walls. No to the engines. The dragonlords were not interested in what Ghis wanted. They were interested in making sure Ghis could never want anything they could act on."
+      "text": "The scroll he carried is in no archive. But the shape of the answer is not hard to guess, because the same answer is on record in every century since. Yes to the tribute. No to the ships. No to the tall walls. No to the engines. The dragonlords were not interested in what Ghis wanted. They were interested in making sure Ghis could never want anything they could act on.",
+      "words": 71
     },
     {
       "n": 45,
@@ -362,7 +409,8 @@
       "end": "22:30",
       "img_from": 661,
       "img_to": 675,
-      "text": "Then the fifth war began, and this one did not go like the others. The Ghiscari did not send a fleet to be broken. They sent everything, in one throw, at the thing the dragonlords loved. It was not clever. It was the only act left to a proud people who had run out of cleverness. And for a few months it may genuinely have worked."
+      "text": "Then the fifth war began, and this one did not go like the others. The Ghiscari did not send a fleet to be broken. They sent everything, in one throw, at the thing the dragonlords loved. It was not clever. It was the only act left to a proud people who had run out of cleverness. And for a few months it may genuinely have worked.",
+      "words": 66
     },
     {
       "n": 46,
@@ -370,7 +418,8 @@
       "end": "23:00",
       "img_from": 676,
       "img_to": 690,
-      "text": "We cannot know. That is the honest centre of this film, and having said it once, I will not keep saying it. What we know is what came after, and what came after is one of the most complete erasures in this history. Not a defeat. Not a tribute. Not a line on a map. The city that had taught the world to fear a name was taken off the earth."
+      "text": "We cannot know. That is the honest centre of this film, and having said it once, I will not keep saying it. What we know is what came after, and what came after is one of the most complete erasures in this history. Not a defeat. Not a tribute. Not a line on a map. The city that had taught the world to fear a name was taken off the earth.",
+      "words": 71
     },
     {
       "n": 47,
@@ -378,7 +427,8 @@
       "end": "23:30",
       "img_from": 691,
       "img_to": 705,
-      "text": "And that is where the coin comes back, because a coin in a jar under a floor is not destroyed by soldiers. It is buried by them. The house falls in. The ash comes down. The floorboards rot. And what was hidden becomes archaeology, sitting in the dark, keeping a face that nobody on the surface will see again for a very long time."
+      "text": "And that is where the coin comes back, because a coin in a jar under a floor is not destroyed by soldiers. It is buried by them. The house falls in. The ash comes down. The floorboards rot. And what was hidden becomes archaeology, sitting in the dark, keeping a face that nobody on the surface will see again for a very long time.",
+      "words": 64
     },
     {
       "n": 48,
@@ -386,7 +436,8 @@
       "end": "24:00",
       "img_from": 706,
       "img_to": 720,
-      "text": "Now think what the dragonlords did with what they had won. They took the coast. They took the trade. They took, in the end, the people, because a war of that size does not leave its captives on the ground and there was a whole world built to receive them. The victory was complete. It was also, in a way nobody standing there could see, ordinary."
+      "text": "Now think what the dragonlords did with what they had won. They took the coast. They took the trade. They took, in the end, the people, because a war of that size does not leave its captives on the ground and there was a whole world built to receive them. The victory was complete. It was also, in a way nobody standing there could see, ordinary.",
+      "words": 66
     },
     {
       "n": 49,
@@ -394,7 +445,8 @@
       "end": "24:30",
       "img_from": 721,
       "img_to": 735,
-      "text": "The accounts say salt. Whether they sowed it or it is a word for the way a place dies, the meaning is the same: the ground was made into a thing that would not carry a city again. For a generation this was the most impressive object lesson in the world. A ruined pyramid is a sentence that reads itself aloud every time a ship passes."
+      "text": "The accounts say salt. Whether they sowed it or it is a word for the way a place dies, the meaning is the same: the ground was made into a thing that would not carry a city again. For a generation this was the most impressive object lesson in the world. A ruined pyramid is a sentence that reads itself aloud every time a ship passes.",
+      "words": 66
     },
     {
       "n": 50,
@@ -402,7 +454,8 @@
       "end": "25:00",
       "img_from": 736,
       "img_to": 750,
-      "text": "But here is what nobody counted on. A city is not a wall. A city is people, and people move. The survivors did not evaporate. They went down the coast to the older towns, where the harpy was already on every coin, and they carried the thing that cannot be burned: the habit of being Ghiscari. The name. The food. The way a certain man says a price."
+      "text": "But here is what nobody counted on. A city is not a wall. A city is people, and people move. The survivors did not evaporate. They went down the coast to the older towns, where the harpy was already on every coin, and they carried the thing that cannot be burned: the habit of being Ghiscari. The name. The food. The way a certain man says a price.",
+      "words": 68
     },
     {
       "n": 51,
@@ -410,7 +463,8 @@
       "end": "25:30",
       "img_from": 751,
       "img_to": 765,
-      "text": "And that is how the harpy outlived the dragon. Not as an empire. As a stamp. As a temple on a side street in a smaller city. As a face on a coin that a ship's captain weighs in his hand without once thinking about the war that put it there. Empires die from the top. The things they taught the world die last, and sometimes they never die at all."
+      "text": "And that is how the harpy outlived the dragon. Not as an empire. As a stamp. As a temple on a side street in a smaller city. As a face on a coin that a ship's captain weighs in his hand without once thinking about the war that put it there. Empires die from the top. The things they taught the world die last, and sometimes they never die at all.",
+      "words": 71
     },
     {
       "n": 52,
@@ -418,7 +472,8 @@
       "end": "26:00",
       "img_from": 766,
       "img_to": 780,
-      "text": "The dragonlords, meanwhile, went home with the idea that they had settled something. You can see how they arrived at it. Five times an enemy had come at them across the water, and five times the water had decided it. The lesson they took was not that they were lucky. It was that they were correct. Those are different sentences, and a great many people have died for the difference."
+      "text": "The dragonlords, meanwhile, went home with the idea that they had settled something. You can see how they arrived at it. Five times an enemy had come at them across the water, and five times the water had decided it. The lesson they took was not that they were lucky. It was that they were correct. Those are different sentences, and a great many people have died for the difference.",
+      "words": 70
     },
     {
       "n": 53,
@@ -426,7 +481,8 @@
       "end": "26:30",
       "img_from": 781,
       "img_to": 795,
-      "text": "For a century after, the coasts of Essos were quieter than they had been in a thousand years, and this is usually told as a golden age. It was. It was also a century in which the only power that could burn a city had learned that burning cities worked. That is not something a world can unlearn. It can only wait to find out who else has noticed."
+      "text": "For a century after, the coasts of Essos were quieter than they had been in a thousand years, and this is usually told as a golden age. It was. It was also a century in which the only power that could burn a city had learned that burning cities worked. That is not something a world can unlearn. It can only wait to find out who else has noticed.",
+      "words": 69
     },
     {
       "n": 54,
@@ -434,7 +490,8 @@
       "end": "27:00",
       "img_from": 796,
       "img_to": 810,
-      "text": "Look at the shape of the thing, and then look at the shape of what came after. A harpy with a thunderbolt, an empire confident of the future, a coin buried in the ash of the last day. Two thousand years later, the harpy is on the coins of three cities that have never heard of the war. Valyria is a shape in the water where a peninsula used to be."
+      "text": "Look at the shape of the thing, and then look at the shape of what came after. A harpy with a thunderbolt, an empire confident of the future, a coin buried in the ash of the last day. Two thousand years later, the harpy is on the coins of three cities that have never heard of the war. Valyria is a shape in the water where a peninsula used to be.",
+      "words": 71
     },
     {
       "n": 55,
@@ -442,7 +499,8 @@
       "end": "27:30",
       "img_from": 811,
       "img_to": 825,
-      "text": "Because here is the thing that outlives every army. The dragonlords had five victories, a fleet and a century of peace, and none of it put a picture in anybody's pocket. Ghis lost everything and is still being passed from hand to hand, in the market, in the dark, without anyone knowing they are carrying it. That is not a lesson. It is just what happened."
+      "text": "Because here is the thing that outlives every army. The dragonlords had five victories, a fleet and a century of peace, and none of it put a picture in anybody's pocket. Ghis lost everything and is still being passed from hand to hand, in the market, in the dark, without anyone knowing they are carrying it. That is not a lesson. It is just what happened.",
+      "words": 66
     },
     {
       "n": 56,
@@ -450,7 +508,8 @@
       "end": "28:00",
       "img_from": 826,
       "img_to": 840,
-      "text": "So let us go back down into that dark. In the last hundred years a man with a shovel and a good ear for where floors used to be opened the ground and found a jar, and inside it eleven coins and a woman's ring. He would have sold them by weight. But first he turned one over in his fingers, because you always do."
+      "text": "So let us go back down into that dark. In the last hundred years a man with a shovel and a good ear for where floors used to be opened the ground and found a jar, and inside it eleven coins and a woman's ring. He would have sold them by weight. But first he turned one over in his fingers, because you always do.",
+      "words": 65
     },
     {
       "n": 57,
@@ -458,7 +517,8 @@
       "end": "28:30",
       "img_from": 841,
       "img_to": 855,
-      "text": "And there she is. Wings. A raised fist. A thunderbolt. A city that has been ash for two thousand years, still introducing itself to strangers, still saying what it believed about itself in the only language that survives a fire. Not a chronicle. Not a boast. A coin in a collector's tray, worn nearly smooth, and no longer worth a month of anyone's life."
+      "text": "And there she is. Wings. A raised fist. A thunderbolt. A city that has been ash for two thousand years, still introducing itself to strangers, still saying what it believed about itself in the only language that survives a fire. Not a chronicle. Not a boast. A coin in a collector's tray, worn nearly smooth, and no longer worth a month of anyone's life.",
+      "words": 64
     },
     {
       "n": 58,
@@ -466,7 +526,8 @@
       "end": "29:00",
       "img_from": 856,
       "img_to": 870,
-      "text": "There is a second part to the answer, and it is the part that makes this more than a war story. The dragonlords did not merely outfight an empire. They outlasted the idea of one, and then they spent the rest of their history becoming the thing they had beaten: certain, comfortable, and unable to imagine an end. The coin is the only witness still available."
+      "text": "There is a second part to the answer, and it is the part that makes this more than a war story. The dragonlords did not merely outfight an empire. They outlasted the idea of one, and then they spent the rest of their history becoming the thing they had beaten: certain, comfortable, and unable to imagine an end. The coin is the only witness still available.",
+      "words": 66
     },
     {
       "n": 59,
@@ -474,7 +535,8 @@
       "end": "29:30",
       "img_from": 871,
       "img_to": 885,
-      "text": "He would not have known what he was holding. The wings. The fist. The thunderbolt. To him it was weighed metal, and he had a family, and there was a buyer in the next street who paid by the grain. Somewhere in that transaction a city that had been ash for two thousand years stopped being a place and became an object."
+      "text": "He would not have known what he was holding. The wings. The fist. The thunderbolt. To him it was weighed metal, and he had a family, and there was a buyer in the next street who paid by the grain. Somewhere in that transaction a city that had been ash for two thousand years stopped being a place and became an object.",
+      "words": 62
     },
     {
       "n": 60,
@@ -482,7 +544,8 @@
       "end": "30:00",
       "img_from": 886,
       "img_to": 900,
-      "text": "And that is why the coin matters more than the battles we cannot read. Battles happen once. A picture in a pocket happens a thousand times a day, to people who will never hear of the war, in cities that were not built yet. That is how a world is actually carried forward: not in the histories, but in the small worn things people hand each other without looking."
+      "text": "And that is why the coin matters more than the battles we cannot read. Battles happen once. A picture in a pocket happens a thousand times a day, to people who will never hear of the war, in cities that were not built yet. That is how a world is actually carried forward: not in the histories, but in the small worn things people hand each other without looking.",
+      "words": 69
     },
     {
       "n": 61,
@@ -490,7 +553,8 @@
       "end": "30:30",
       "img_from": 901,
       "img_to": 915,
-      "text": "Next, the river. Because while the dragonlords were learning what they could do to a city, there was a people on the Rhoyne who had watched the whole of this and drawn a conclusion from it that was not fear. They had water, and numbers, and a great deal of patience, and their own idea of what a person is worth. Their turn is next."
+      "text": "Next, the river. Because while the dragonlords were learning what they could do to a city, there was a people on the Rhoyne who had watched the whole of this and drawn a conclusion from it that was not fear. They had water, and numbers, and a great deal of patience, and their own idea of what a person is worth. Their turn is next.",
+      "words": 65
     },
     {
       "n": 62,
@@ -498,7 +562,8 @@
       "end": "31:00",
       "img_from": 916,
       "img_to": 930,
-      "text": "But before we leave the coast, one more thing about the dragonlords, because they are the ones the story is really about, whatever the coin says. They won five times. They were braver than their enemies. They were better led. And every single thing that made them win was a thing that later made them unable to stop."
+      "text": "But before we leave the coast, one more thing about the dragonlords, because they are the ones the story is really about, whatever the coin says. They won five times. They were braver than their enemies. They were better led. And every single thing that made them win was a thing that later made them unable to stop.",
+      "words": 58
     },
     {
       "n": 63,
@@ -506,7 +571,8 @@
       "end": "31:30",
       "img_from": 931,
       "img_to": 945,
-      "text": "You can watch it in the way they treated the sea. They had a weapon that could not be answered, and they used it, and each use made the next easier and the possibility of not using it harder to imagine. By the end of the century no dragonlord alive had seen the world work any other way. That is how a civilisation loses the ability to be surprised."
+      "text": "You can watch it in the way they treated the sea. They had a weapon that could not be answered, and they used it, and each use made the next easier and the possibility of not using it harder to imagine. By the end of the century no dragonlord alive had seen the world work any other way. That is how a civilisation loses the ability to be surprised.",
+      "words": 69
     },
     {
       "n": 64,
@@ -514,7 +580,8 @@
       "end": "32:00",
       "img_from": 946,
       "img_to": 960,
-      "text": "And the surprise, when it came, did not come from Ghis, or from the Rhoyne, or from any of the enemies they spent a century defeating. It came from the ground. Which is the only genuinely funny thing in this film, and it is not funny at all. The mountains that had made them had been watching the entire time, and had never once been consulted about the plan."
+      "text": "And the surprise, when it came, did not come from Ghis, or from the Rhoyne, or from any of the enemies they spent a century defeating. It came from the ground. Which is the only genuinely funny thing in this film, and it is not funny at all. The mountains that had made them had been watching the entire time, and had never once been consulted about the plan.",
+      "words": 69
     },
     {
       "n": 65,
@@ -522,7 +589,8 @@
       "end": "32:30",
       "img_from": 961,
       "img_to": 975,
-      "text": "That is the ending of Valyria, and this film is not going to tell it, because it belongs to another one. But knowing how it ends changes how you watch this. Every proud sentence in those brick halls, every treaty, every coat of gold on the harpy, is happening in a story that has already decided against them. They do not know. That is the pleasure of watching it now."
+      "text": "That is the ending of Valyria, and this film is not going to tell it, because it belongs to another one. But knowing how it ends changes how you watch this. Every proud sentence in those brick halls, every treaty, every coat of gold on the harpy, is happening in a story that has already decided against them. They do not know. That is the pleasure of watching it now.",
+      "words": 70
     },
     {
       "n": 66,
@@ -530,7 +598,8 @@
       "end": "33:00",
       "img_from": 976,
       "img_to": 990,
-      "text": "Which is why the battles we cannot read and the coin we can are not really in the same story. A battle happens once, and to a few thousand people, and then it is an argument between scholars. A coin happens every day, in the hand of a stranger who never heard of the war, in a city that did not exist when it was struck."
+      "text": "Which is why the battles we cannot read and the coin we can are not really in the same story. A battle happens once, and to a few thousand people, and then it is an argument between scholars. A coin happens every day, in the hand of a stranger who never heard of the war, in a city that did not exist when it was struck.",
+      "words": 66
     },
     {
       "n": 67,
@@ -538,7 +607,8 @@
       "end": "33:30",
       "img_from": 991,
       "img_to": 1005,
-      "text": "And what did the winner become? A peninsula. A rumour. A name that later people use without quite knowing what it means. The dragonlords of Valyria became the most famous country in the world and then, in a single night, a shape in the water. The harpy became a picture on a coin. Of the two, it is not obvious which one is still here."
+      "text": "And what did the winner become? A peninsula. A rumour. A name that later people use without quite knowing what it means. The dragonlords of Valyria became the most famous country in the world and then, in a single night, a shape in the water. The harpy became a picture on a coin. Of the two, it is not obvious which one is still here.",
+      "words": 65
     },
     {
       "n": 68,
@@ -546,7 +616,8 @@
       "end": "34:00",
       "img_from": 1006,
       "img_to": 1020,
-      "text": "The world did not teach Valyria anything, and if it did, it taught the wrong thing. The ability to end a city and the wisdom to have one are not the same hand, and you cannot bolt the second onto the first later. You build it into the thing that wins, at the beginning, or you spend your history finding out what you left out."
+      "text": "The world did not teach Valyria anything, and if it did, it taught the wrong thing. The ability to end a city and the wisdom to have one are not the same hand, and you cannot bolt the second onto the first later. You build it into the thing that wins, at the beginning, or you spend your history finding out what you left out.",
+      "words": 65
     },
     {
       "n": 69,
@@ -554,7 +625,8 @@
       "end": "34:30",
       "img_from": 1021,
       "img_to": 1035,
-      "text": "And that is the film. Five wars. One coin. A city that was certain, a people who were right, and a picture of a woman with wings that outlasted both. It is not a lesson. It is a story that happened, more than two thousand years ago, to people who did not know that this is how it would read. Which is exactly how every story reads afterwards."
+      "text": "And that is the film. Five wars. One coin. A city that was certain, a people who were right, and a picture of a woman with wings that outlasted both. It is not a lesson. It is a story that happened, more than two thousand years ago, to people who did not know that this is how it would read. Which is exactly how every story reads afterwards.",
+      "words": 68
     },
     {
       "n": 70,
@@ -562,11 +634,57 @@
       "end": "35:00",
       "img_from": 1036,
       "img_to": 1050,
-      "text": "So the last thing to do is put the coin back. It belongs in a drawer, or a tray, or a museum case, with a small card under it that the man turning it over will not read. The card says a place name, a date, and that the city was destroyed. It does not say what anyone hoped. It is still saying it. Next: the river."
+      "text": "So the last thing to do is put the coin back. It belongs in a drawer, or a tray, or a museum case, with a small card under it that the man turning it over will not read. The card says a place name, a date, and that the city was destroyed. It does not say what anyone hoped. It is still saying it. Next: the river.",
+      "words": 67
     }
   ],
-  "total_words": 4682,
+  "chapters": [
+    {
+      "title": "Chapter I — The coin in the ash",
+      "block": 1,
+      "start": "00:00"
+    },
+    {
+      "title": "Chapter II — The wrong tool for the sky",
+      "block": 11,
+      "start": "05:00"
+    },
+    {
+      "title": "Chapter III — Building the answer",
+      "block": 21,
+      "start": "10:00"
+    },
+    {
+      "title": "Chapter IV — The long exhale",
+      "block": 31,
+      "start": "15:00"
+    },
+    {
+      "title": "Chapter V — Salt, ash, and what was left",
+      "block": 42,
+      "start": "20:30"
+    },
+    {
+      "title": "Chapter VI — The harpy looks up",
+      "block": 52,
+      "start": "25:30"
+    },
+    {
+      "title": "Chapter VII — The night the harpy went out",
+      "block": 62,
+      "start": "30:30"
+    }
+  ],
+  "total_words": 4672,
+  "words_per_block": {
+    "min": 58,
+    "max": 72,
+    "mean": 66.7
+  },
+  "estimated_speech_seconds": 1915,
+  "film_seconds": 2100,
+  "headroom_seconds": 185,
   "image_slots": 1050,
   "seconds_per_slot": 2,
-  "total_seconds": 2100
+  "duplicate_pairs": []
 }
