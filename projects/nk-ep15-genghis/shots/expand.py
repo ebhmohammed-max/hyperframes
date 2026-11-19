@@ -10,7 +10,7 @@ LOOK = {
  "C": ("the cities of Khwarazm, about 1220", "Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies"),
  "J": ("northern China, about 1211 to 1215", "Northern China in the early 13th century, grey brick city walls with timber gate towers and curved tiled roofs, dry winter hills, nobody shown being hurt, no blood, no bodies"),
  "T": ("Mongolia today", "Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards, any people seen from behind"),
- "X": ("symbolic still life", "Dark room, a single shaft of light on dark felt and old wood"),
+ "X": ("symbolic still life", "Inside a dim felt tent of the 13th century, a single shaft of light on dark felt and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves"),
  "O": ("setting given in the subject", ""),
 }
 REF = {
