@@ -9,7 +9,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 - Timings: `narration/align.json`. Two lines of N04 (q01, q02) were set by hand from the pause list, because "கீழ மேகம். கையில பூ." came out as one breath; not listened to.
 - Shot list: `shots/shots.txt` → `SHOTLIST.md`, 144 pictures (`shots/counts.json`). Looks and reference texts are in `shots/expand.py`.
 - Reference faces: `kashyapa`, `dhatusena`, `moggallana`, `migara` (`shots/CAST.md`), all invented.
-- Pictures 001–056 made and checked (batches B01–B06). Next: 057–066 (B07).
+- Pictures 001–066 made and checked (batches B01–B07; hook, chapters 1 and 2 complete). Next: 067–076 (B08).
 
 ## Next
 1. Pictures 007–144 in batches of 10 per turn: `generate_image` into `google_drive/ep16_pics/raw/NNN.jpg` (prompts from `shots/prompts.json`, adjusted by hand where the look text does not fit), then
@@ -65,6 +65,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 | B04 | 027–036 | `1tJqXowUexE55E71a7iyoNejquE663KEl` | `1jbCfJQeuPl7PphFiKhzk5MrYfaqxG8hl` | all usable. 032: the crown is a low diadem, not the tall crown of 034 (on the redo list as optional). 036: the embankment looks like a stone wall and the reservoir a little like a river. 035 came with a black bar on the left, trimmed by `sheet.py`. 031 (night, many figures) stayed photographic with the "film still shot on location at night" tail. |
 | B05 | 037–046 | `192Jq1X0bztl0Z0WOsKjkeEz8P2tbuiFd` | `1COL8Wfgx84KCS3TbbzkiBzjO8Qua6-95` | 038: the old man's wrists are in dark knitted sleeves like a jumper (on the redo list; for hands of that age say "bare arms, no sleeves, no cloth on the arms"). 045: the king looks down on the rock from above, not up at it. 040 came with a black bar on top, trimmed by `sheet.py`. The rest good. |
 | B06 | 047–056 | `1VPR3rB_KIfztgkjCghNB_JbW-fFDupw_` | `1SND3admR_NGSxe9m6ktyOQ3MeWYhaiUW` | all good. 048 shows the drip ledge and lichen but no carved marks. 053: the fountain is a large round stone ring, not the small pierced slab of the real site. A workspace wipe before this batch was repaired (reset to the pushed branch, `setup.sh`, narration zip downloaded again, `restore.sh`); the pictures in `google_drive/ep16_pics` had survived. |
+| B07 | 057–066 | `1VACR7-hp7vf1BUJILW0BCLTulfVfClH7` | `1vauxL7x6RFs4KomxmW0SBcEYq5ci5Unh` | all good; the tall crown held in 062, 063 and 064 (the wording "tall tapering gold crown set with red stones" works better than "tall gold crown"). 064: part of the parasol bearer's face shows behind the king. |
 
 ## After a full wipe of the workspace
 As in EP15: `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
