@@ -20,7 +20,10 @@ RISK = {
     42: "council of rival noble houses - produced generic Westeros with fur "
         "cloaks in take one; must be Valyrian black stone and firelight",
     44: "hand writing a refusal on a scroll - produced legible English text "
-        "inside the image in take one; must have no readable characters",
+        "inside the image in take one; fixed with a blank sealed scroll",
+    51: "lesser city, markets going on around it - produced a real modern "
+        "Kathmandu street with cycle rickshaws in take one; must be Ghiscari",
+    56: "modern excavation trench - intentionally modern, keep the excavators",
 }
 
 STYLE_BAN = (

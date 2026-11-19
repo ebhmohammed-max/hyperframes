@@ -6,6 +6,31 @@ hide it. These are the ones found so far.
 
 ## OPEN
 
+### 051 — a real modern street in a fictional ancient one
+
+**Wrong:** cycle rickshaws, a modern wristwatch on the near hand, a Western
+jacket sleeve, modern shirts and shop signage. This is a contemporary Nepali
+bazaar, photographed. It is not merely anachronistic, it is a real place.
+
+**Why it happened:** the direction asked for a "lesser city" with "markets
+going on around it" and a hand weighing a coin. That is a stock photograph
+brief, and the model went to the strongest real reference it had.
+
+**Fix:** anchor the city explicitly — small Ghiscari coastal town, brick and
+ochre, and no modern clothing or vehicles anywhere in frame. Keep the bronze
+harpy above the door and the hand with the coin, which were right.
+
+**Blast radius:** 15 plates (0751–0765), built but not in any render.
+
+### 044 — FIXED
+
+Regenerated as a wax seal on blank parchment. Verified: no lettering at all.
+
+### 042 — FIXED
+
+Regenerated as a Valyrian council in black volcanic rock. Verified: silver
+hair, braziers, no fur.
+
 ### 044 — English text burned into the picture
 
 **Wrong:** the scroll reads "Refusal to Sign" and "I must firmly refuse" in clear
