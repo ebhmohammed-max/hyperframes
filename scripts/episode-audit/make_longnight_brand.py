@@ -61,6 +61,12 @@ def tracked(d, xy, text, f, fill, tracking=0.0):
     return x
 
 
+def ink_bottom(d: ImageDraw.ImageDraw, text: str, f, xy) -> int:
+    """Bottom of the actual inked glyphs, so rules sit under the letters and not on them."""
+    box = d.textbbox(xy, text, font=f)
+    return box[3]
+
+
 def plate(name: str, size, dark: float = 1.0, desat: float = 1.0) -> Image.Image:
     im = Image.open(IMAGES / f"{name}.jpg").convert("RGB")
     sw, sh = im.size
@@ -144,13 +150,14 @@ def draw_mark(im: Image.Image, cx: int, cy: int, size: int,
     w2 = tracked_w(d, "NIGHT", f, tr)
     block_w = max(w1, w2)
 
-    y1 = cy - size * 1.06
+    y1 = cy - size * 1.02
     tracked(d, (cx - w1 / 2, y1), "THE LONG", f, GLACIAL, tr)
-    y2 = y1 + size * 1.16
+    foot = ink_bottom(d, "THE LONG", f, (0, y1))
+    hy = foot + int(size * 0.17)
+    y2 = hy + int(size * 0.22)
     tracked(d, (cx - w2 / 2, y2), "NIGHT", f, EMBER_HOT, tr)
 
     if hairline:
-        hy = y1 + size * 1.02
         d.rectangle([cx - block_w * 0.62, hy, cx + block_w * 0.62, hy + max(2, size // 90)],
                     fill=EMBER)
 
@@ -272,9 +279,12 @@ def wordmarks() -> None:
         w2 = tracked_w(d, "NIGHT", f, tr)
         y1 = 150
         tracked(d, ((W - w1) / 2, y1), "THE LONG", f, cold, tr)
-        tracked(d, ((W - w2) / 2, y1 + 172), "NIGHT", f, warm, tr)
+        foot = ink_bottom(d, "THE LONG", f, (0, y1))
+        ry = foot + 26
+        y2 = ry + 34
+        tracked(d, ((W - w2) / 2, y2), "NIGHT", f, warm, tr)
         bw = max(w1, w2)
-        d.rectangle([W / 2 - bw * 0.62, y1 + 152, W / 2 + bw * 0.62, y1 + 156],
+        d.rectangle([W / 2 - bw * 0.62, ry, W / 2 + bw * 0.62, ry + 4],
                     fill=EMBER if ground == BASALT else (196, 118, 52))
         im.save(OUT / name)
 
@@ -293,6 +303,14 @@ def _thumb(canvas: Image.Image, kicker: str, lines: list[tuple[str, str]],
     for i in range(W):
         sd.line([(i, 0), (i, H)], fill=int(214 * max(0.0, 1 - i / (W * 0.78)) ** 1.1))
     canvas = Image.composite(Image.new("RGB", (W, H), (5, 5, 8)), canvas, scrim)
+
+    # foot scrim: the footer sits over whatever the plate happens to do down there
+    foot_mask = Image.new("L", (W, H), 0)
+    fd = ImageDraw.Draw(foot_mask)
+    for j in range(H):
+        t = max(0.0, (j - H * 0.72) / (H * 0.28))
+        fd.line([(0, j), (W, j)], fill=int(190 * t ** 1.3))
+    canvas = Image.composite(Image.new("RGB", (W, H), (4, 4, 7)), canvas, foot_mask)
     d = ImageDraw.Draw(canvas)
 
     x = 76
@@ -309,10 +327,14 @@ def _thumb(canvas: Image.Image, kicker: str, lines: list[tuple[str, str]],
     ff = font(32, MONO)
     tracked(d, (x, H - 104), foot, ff, (176, 184, 194), 4)
 
-    # corner tag: ICE or FIRE, which is the channel's own grammar
+    # corner tag: ICE or FIRE, which is the channel's own grammar. Set on a chip, so it
+    # never has to compete with a bright plate.
     ft = font(30, MONO)
     tw = tracked_w(d, tag, ft, 5)
-    tracked(d, (W - 76 - tw, 70), tag, ft, EMBER if tag == "FIRE" else FROST, 5)
+    tx = W - 76 - tw
+    d.rounded_rectangle([tx - 20, 58, tx + tw + 20, 112], radius=4, fill=(10, 10, 14))
+    d.rectangle([tx - 20, 58, tx + tw + 20, 60], fill=EMBER if tag == "FIRE" else FROST)
+    tracked(d, (tx, 70), tag, ft, EMBER if tag == "FIRE" else FROST, 5)
     return canvas
 
 
