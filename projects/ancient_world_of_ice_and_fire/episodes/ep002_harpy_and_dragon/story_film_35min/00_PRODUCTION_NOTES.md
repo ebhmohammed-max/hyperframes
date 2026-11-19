@@ -2,8 +2,26 @@
 
 ## Status
 
-**Script: complete.** 70 narration blocks, 5,168 spoken words, 35:00, 1,050 image slots at
-2 seconds each. **No audio recorded. No images built.** The next film after Episode 01.
+**Script: complete — v02, story-led rewrite.** 70 narration blocks, 4,939 spoken words, 35:00,
+1,050 image slots at 2 seconds each. **No audio recorded. No images built.**
+
+**v01 is superseded.** It was a well-argued essay that a viewer could leave at any chapter
+break, which is exactly the problem the user named. v02 is written to `docs/STORYTELLING_CRAFT.md`.
+Read the v02 files only; v01 is kept as a record of the mistake.
+
+## What v02 changes, and why
+
+| v01                                                   | v02                                                                                                              |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Opened on Ghis's self-image                           | Opens on a coin in the ash, in a hurry, by someone who never came back                                           |
+| Protagonists were "Valyria" and "Ghis" — abstractions | One coin is the through-line; it can be lost, which is what a story needs                                        |
+| Narrator explained the sources a dozen times          | The honesty is one line at 01:00, turned into the film's central question, then never repeated                   |
+| Every chapter ended on a lesson                       | No lessons. The coin's fate answers the question                                                                 |
+| Uniform 63–83 word blocks                             | 62–85, varied deliberately, short punch blocks after long ones                                                   |
+| No dramatised moment in 35 minutes                    | Scenes: the night before the battle, the officer on the wall, the negotiator's scroll, the man opening the floor |
+
+**Central dramatic question:** how does the strongest thing in the world lose five times, and
+what does the winner become? It is stated in block 3 and answered in block 67, not before.
 
 ## What it is
 
@@ -45,7 +63,7 @@ equal is willing to do. Ghis's capital died. The harpy did not.
 
 ## Budget and measurement
 
-Spoken words per block: **63–83, mean 73.8** (Episode 01: 64–74, 4,883 total). At a measured
+Spoken words per block: **62–85, mean 70.6** (Episode 01: 64–74, 4,883 total). At a measured
 140 wpm this is 35:07 of speech before pauses — deliberately at the ceiling, because the
 Episode 01 pilot showed the selected voice runs faster than the script asks for. **Every block
 must be measured after synthesis, not assumed.** If blocks overrun, trim at the sentence
