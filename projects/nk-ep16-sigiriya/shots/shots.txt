@@ -1,0 +1,146 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# No blood, no bodies, nobody shown being hurt. All faces invented (refs kashyapa, dhatusena, moggallana, migara). Painted women shown clothed. Monks from behind. No readable writing.
+N01|0|rock_aerial|T|aerial view of one huge flat-topped rock rising sheer and alone out of an endless green jungle plain, thin morning mist around its foot, no people
+N01|0|rock_from_below|T|looking straight up from the forest floor at a sheer rock wall streaked orange and black that towers far overhead, tree branches at the edges of the frame, no people
+N01|1|summit_ruins_wide|T|the flat top of the great rock seen from the air: stepped terraces of old brick foundations, a square pond cut into the rock, green jungle plain far below, no people
+N01|1|summit_palace_then|K|the flat summit of the great rock as it may have looked in the year 480: white plastered palace halls with red tiled roofs on stepped brick terraces, a pond, small gardens, tiny figures, cloud shadows on the plain far below
+N01|2|king_intro|K@kashyapa|the king standing at the edge of the summit terrace, half-length, wind in his waist cloth, the jungle plain far below behind him
+N01|3|wall_fresh_brick|O|a patch of fresh brick and wet clay closing a niche in an old brick wall, a mason's trowel and a basket of clay left on the ground, dim torchlight, 5th century Sri Lanka, no people
+N01|3|palm_leaf_book|X|an old palm-leaf manuscript lying open on a low wooden stand, every row of lettering out of focus
+N01|4|king_watches_horizon|K@kashyapa|the king looking back over his shoulder toward the far horizon with a wary face, dusk light, the rock parapet beside him
+N01|4|boats_far_dawn|O|a distant line of small ancient sailing boats on a calm sea at dawn, seen from an empty palm-fringed shore, 5th century, no people
+N01|5|stone_throne_empty|T|an empty throne seat carved out of living rock on the summit at first light, mist over the plain beyond, no people
+N01|5|elephant_turns|B|a war elephant with a wooden howdah seen from behind, turning aside at the edge of a dark marsh, soldiers only as small shapes far away in the dust
+N01|6|maidens_on_rock|P|a row of painted women rising from clouds, painted on the rough orange surface of a rock overhang
+N01|6|maiden_close_flower|P|close view of one painted woman rising from clouds with a lotus flower in her raised hand, fine cracks in the old plaster
+N01|7|legend_palace_storm|N|the great rock at night under storm clouds with a golden palace of legend glowing on its top
+N01|7|monks_walk_to_rock|M|a line of monks walking along a forest path toward the great rock at dawn
+N01|8|three_proofs|X|three things side by side on a stone slab: a palm-leaf manuscript, a broken piece of carved stone, a small clay oil lamp
+N01|8|researcher_hands|O|present day, a researcher's hands holding a magnifying glass over an old black-and-white photograph of a great rock on a wooden desk, no readable writing, hands only
+N01|9|mirror_wall_glow|T|a long high wall of smooth polished ochre plaster running along a narrow gallery on the side of the rock, glowing in low sun, no people
+N01|9|hand_scratches_wall|O|about a thousand years ago, close view of a traveller's brown hand scratching fine lines into smooth polished plaster with a thin iron stylus, every scratched line out of focus, hand only
+N01|10|lion_paws_stair|T|two giant lion paws built of brick with huge claws, flanking a stone staircase that climbs the rock face above, soft morning light, no people
+N02|0|anuradhapura_wide|A|wide view of the royal city of Anuradhapura: enormous white dome-shaped stupas rising above the trees, a broad reservoir, tiled roofs, morning haze, tiny figures
+N02|0|old_king_throne|A@dhatusena|the old king seated on a carved throne in a hall of stone pillars, calm and proud
+N02|1|two_princes|A@kashyapa,moggallana|two princes standing apart in a pillared hall, not looking at each other: the elder is about thirty with a short black beard and wears no crown, only a plain gold band; the younger is about twenty and clean-shaven
+N02|1|mother_behind_pillar|A|a woman in a plain draped cloth with few ornaments, seen from behind, watching the court from behind a stone pillar, no face visible
+N02|1|heir_diadem|A@moggallana|the younger prince bowing his head as an attendant's hands hold out a small gold diadem on a red cushion, pillared hall
+N02|2|stylus_on_leaf|X|close view of an old hand writing on a strip of palm leaf with an iron stylus, every row of lettering out of focus, hand only
+N02|2|monk_scribe_cell|M|13th century, an old monk seated writing at a low desk in a bare monastery cell, a window of soft light
+N02|2|manuscript_bundles|X|bundles of palm-leaf manuscripts wrapped in faded cloth, stacked on a stone shelf under dust
+N02|3|commander_stern|A@migara|the army commander standing in a pillared hall with his hand on his sword hilt, stern and silent
+N02|3|commander_walks_away|A@migara|the army commander walking away down a long colonnade at dusk, seen from behind, long shadow
+N02|4|palace_gate_night|A|a palace gate at night, soldiers with spears and torches filing in through it, seen from far away across a courtyard, nobody hurt
+N02|4|new_king_throne|A@kashyapa|the new king seated on the carved throne wearing his tall gold crown, alone in the big hall, wary eyes
+N02|4|prince_boat_leaves|O@moggallana|the young prince in a small wooden sailing boat leaving a palm-fringed shore at dawn, looking back toward the land, 5th century
+N02|5|whisper_to_king|A@migara,kashyapa|the army commander, about forty-five with a thick moustache, leaning close to speak into the ear of the seated king, who is about thirty with a short black beard and a tall gold crown
+N02|5|empty_chest|X|an open and empty bronze treasure chest
+N02|6|reservoir_bund|A|a vast ancient reservoir like an inland sea with a long earthen embankment, calm water at dawn, a small group of figures walking along the embankment far away
+N02|6|old_king_in_water|A@dhatusena|the old king standing waist-deep in the calm reservoir with both hands cupped full of water, looking down at it, bare-headed with no crown
+N02|6|water_through_hands|O|close view of an old man's cupped hands with clear water running through the fingers in golden evening light, a wide lake behind, hands only
+N02|7|king_turns_away|A@kashyapa|the king turning away with one arm thrown out in a sharp order, his face half in shadow, dusk
+N02|7|wall_sealed|O|a blank brick wall with one newly built and plastered section, wet clay still dark, torchlight, a trowel on the ground, 5th century Sri Lanka, no people
+N02|8|scales_one_side|X|old bronze balance scales with a palm-leaf manuscript on one pan and the other pan empty
+N02|8|empty_book_stand|X|an empty wooden manuscript stand beside an unlit clay lamp
+N02|9|rock_sunrise_pond|T|the great rock at sunrise seen across a still lotus pond, its reflection in the water, no people
+N03|0|procession_to_rock|K|a royal procession of elephants, ox carts and porters moving along a jungle road toward a great bare rock on the horizon, seen from behind
+N03|0|king_sees_rock|K@kashyapa|the king seen from behind over his shoulder, looking up at the bare great rock rising out of the jungle, no buildings on it yet
+N03|1|cave_drip_ledge|T|a rock shelter under a huge leaning boulder at the foot of the great rock, a carved drip ledge line cut along the boulder's brow, leaf shadows, no people
+N03|1|monks_in_cave|M|3rd century BCE, three monks seated in meditation on the bare floor of a rock shelter under a boulder
+N03|1|worn_letters_ledge|T|close view of weathered ancient letters cut into rock just below a drip ledge, worn almost smooth and not readable, lichen, no people
+N03|2|moat_rampart|T|a broad moat with still water and an old earth-and-brick rampart, the great rock beyond the trees, no people
+N03|2|water_garden_axis|T|symmetrical water gardens seen from above: square pools, straight channels and brick walks laid out on one axis that leads straight to the great rock, no people
+N03|2|water_garden_then|K|the water gardens as they may have looked in the year 480: full pools with small pavilions, flowering trees, straight paved walks leading to the rock, tiny figures
+N03|3|clay_pipe_trench|T|an old terracotta water pipe exposed in a neat excavation trench in red earth, no people
+N03|3|fountain_after_rain|T|a low fountain bubbling up through the round holes of a flat limestone slab set in a shallow channel, wet grass after rain, no people
+N03|4|lion_whole_then|K|the lion gate as it may have looked in the year 480: a colossal lion's head, chest and front paws built of brick and white plaster against the rock face on a high terrace, a staircase climbing between the paws into its open jaws, tiny figures on the stair
+N03|4|builders_plaster_paw|K|builders on bamboo scaffolding laying brick and smoothing white plaster on a giant lion paw, baskets of lime, seen from a distance
+N03|4|stair_between_paws|T|the stone staircase between the two giant brick lion paws seen from its foot looking up the rock, no people
+N03|5|paw_claws_close|T|close view of the huge claws of a brick lion paw, weathered brick and patches of old plaster, no people
+N03|5|rock_north_terrace|T|the great rock seen from the north with its broad terrace half way up, clouds passing the summit, no people
+N03|6|summit_from_above|T|looking straight down from the air on the summit ruins: brick terraces, stairs and a pond, the edge of the rock dropping away on all sides, no people
+N03|6|summit_pond|T|the big square pond cut into the rock of the summit, sky reflected in the water, brick foundations around it, no people
+N03|7|palace_in_clouds|K|the summit palace as it may have looked in the year 480, at dusk: white halls lit by many oil lamps, low cloud drifting past below the rock's edge
+N03|7|king_above_clouds|K@kashyapa|the king seated on a stone seat on a high terrace with clouds below him, calm, evening light
+N03|8|king_night_watch|K@kashyapa|the king at night at the parapet, watching the dark plain, one small bronze oil lamp beside him, no glass lamps, uneasy
+N03|8|king_parasol|K@kashyapa|the king in full regalia walking in daylight under a white parasol held by an attendant seen from behind, proud
+N03|9|west_face_gallery|T|the sheer west face of the great rock seen from the gardens below, a thin gallery line crossing it half way up, no people
+N03|9|rock_hollow_shade|T|a long shallow hollow under an overhang high on the rock face, in deep shade, the plain far below, no people
+N04|0|west_face_look_up|T|looking up the sheer west face of the rock to a sheltered hollow high above, an old iron spiral stair clinging to the rock, no people
+N04|0|painted_hollow|P|a shallow rock hollow under an overhang with painted women rising from clouds on its sloping surface, seen from the side in soft shade
+N04|1|maiden_lotus|P|one painted woman rising from clouds, holding a lotus bud between her fingers, turned three-quarters
+N04|1|maidens_pair_tray|P|two painted women rising from clouds, one darker-skinned holding a tray of flowers toward the other
+N04|2|maidens_few_left|P|wide view of the rock surface with only a handful of painted women left and large bare patches of weathered rock between them
+N04|2|maidens_whole_face|K|the west face of the great rock as it may have looked in the year 480: a broad band of hundreds of painted figures on white plaster running right across the cliff, seen from the gardens far below
+N04|3|maiden_eyes|P|very close view of one painted woman's face with long eyes looking down, fine cracks across the old plaster
+N04|4|sky_maidens|P|painted women of the sky drifting among clouds and scattering flowers, as in an old wall painting
+N04|4|storm_lightning|O|monsoon storm clouds with a fork of lightning behind the dark shape of the great rock at dusk, no people
+N04|5|gallery_walk|T|a narrow walkway along the rock face with the tall smooth ochre plaster wall on its outer side, no people
+N04|5|craftsman_polishes|K|a craftsman seen from behind rubbing a freshly plastered white wall to a mirror shine with a smooth stone, his dim reflection in the wall
+N04|6|visitors_9th_century|O|about the 9th century, a small group of Sri Lankan travellers in plain draped cloth standing on the rock gallery and looking up at the paintings, seen from behind
+N04|6|woman_hand_stylus|O|about the 9th century, close view of a woman's hand with thin bangles scratching a line into smooth plaster with an iron stylus, every scratched line out of focus, hand only
+N04|6|scratches_raking_light|T|low raking light across a smooth old plaster wall showing a dense web of very fine scratched lines, all of them out of focus, no people
+N04|7|scholar_copies|V|1950s, a Sri Lankan scholar in a white shirt seen from behind, copying from the old plaster wall into a notebook
+N04|7|rubbings_table|V|1950s, paper rubbings, notebooks and a magnifying glass spread on a wooden table, all writing out of focus, no people
+N04|7|two_thick_books|X|two thick old scholarly books with blank cloth covers lying closed on a wooden desk
+N04|8|gallery_night_empty|T|the rock gallery at night, empty, moonlight on the old iron stair, no people
+N04|8|paint_tin|O|an overturned tin of green paint and a wet brush left on a bare rock floor at night, 1960s, no people
+N04|8|conservator|V|1960s, a conservator in a white coat seen from behind on a wooden scaffold, cleaning a painted rock wall with a small cotton swab
+N05|0|king_older|K@kashyapa|the king eighteen years older, now in his fifties with grey in his beard, standing on the summit looking north
+N05|0|prince_in_exile|O@moggallana|the prince eighteen years older, now about forty with a short beard, standing on a South Indian shore beside a stone temple tower, looking across the sea, 5th century
+N05|1|army_lands|B@moggallana|the prince, now about forty with a short beard, wading ashore from a wooden boat at dawn at the head of his soldiers
+N05|2|army_leaves_rock|K|an army with elephants and banners filing down from the gate of the great rock onto the open plain, seen from far away
+N05|2|two_armies_far|B|two armies drawn up far apart on an open plain, dust and banners, no fighting
+N05|3|king_on_elephant|B@kashyapa|the king, in his fifties with grey in his beard, riding a war elephant in a wooden howdah, seen from the side
+N05|3|elephant_feet_marsh|B|close view of an elephant's forefeet stopping at the edge of dark marsh water and reeds and turning aside
+N05|4|soldiers_look_back|B|foot soldiers seen from behind, turning their heads to look at a royal elephant moving away in the dust
+N05|4|army_scatters|B|far view of an army breaking up and streaming away across the plain in clouds of dust, tiny figures
+N05|5|king_alone|B@kashyapa|the king, in his fifties with grey in his beard, alone in the howdah of his elephant on an empty dusty plain, calm and upright
+N05|5|dagger_crown_grass|O|a jewelled dagger in its sheath lying in dry grass beside a fallen gold crown, evening light, 5th century Sri Lanka, no people
+N05|6|brother_crowned|A@moggallana|the prince, now about forty with a short beard, seated on the carved throne wearing a gold crown
+N05|6|monks_climb_lion|M|a line of monks climbing the staircase between two giant lion paws
+N05|7|monastery_summit|M|monks walking among simple thatched cells and a small white stupa on the summit of the great rock
+N05|7|lamp_flower_offering|M|clay oil lamps and white flowers laid on a stone ledge before a small white stupa at dusk, no people
+N05|8|palace_bright_brief|K|the summit palace in bright fresh colour under a clear sky, banners flying, tiny figures
+N05|8|worn_steps_feet|M|stone steps worn hollow by centuries of feet, the bare feet and robe hem of one monk climbing them
+N05|9|jungle_covers_paws|O|the giant brick lion paws half buried in earth and tree roots, jungle growing over the ruins, green gloom, no people
+N06|0|ravana_palace_legend|N|a vast golden palace of legend with many towers standing on top of the great rock
+N06|0|elder_tells_story|O|present day, an elderly Sri Lankan villager seen from behind pointing toward the great rock while two children beside him look at it, all seen from behind
+N06|1|city_of_gold|N|a city of gold of the god of wealth among clouds on a mountain top
+N06|1|flying_chariot|N|a golden flying chariot of legend shaped like a small pavilion with carved swans, coming down through clouds toward the flat top of the great rock
+N06|2|dig_trench_layers|T|an archaeological trench showing layers of old brick wall, a measuring rod and a trowel, hands of an archaeologist only
+N06|2|brick_plaster_close|T|close view of old flat bricks with layers of white lime plaster peeling from them, no people
+N06|3|offering_at_rock|O|present day, a small clay lamp and fresh flowers left on a stone at the foot of the great rock, no people
+N06|3|field_notebook|O|present day, a field notebook, a pencil and a trowel resting on an old brick wall, all writing out of focus, no people
+N06|4|two_researchers|O|present day, two researchers seen from behind standing in the gardens, looking up at the great rock and talking
+N06|5|old_scholar_desk|V|1990s, an elderly Sri Lankan scholar in a white shirt seen from behind at a desk piled with books and photographs of a great rock, all writing out of focus
+N06|5|summit_monk_cells|M|the summit of the great rock imagined with no palace at all: rows of simple thatched monks' cells and monks seated in meditation
+N06|6|monks_library|M|13th century, monks seated in a pillared library hall with palm-leaf manuscripts on low desks
+N06|6|crown_shadow_page|X|the shadow of a crowned head falling across an open palm-leaf manuscript, every row of lettering out of focus
+N06|7|great_building_work|K|thousands of workers building ramparts, pools and brick walks around the great rock, bamboo scaffolding on the rock face, seen from far above
+N06|7|whole_plan_aerial|T|high aerial view of the whole planned site: moats and ramparts in rectangles, gardens on one axis, the great rock at the centre, no people
+N06|8|monks_first|M|monks seated in a rock shelter at the foot of the great rock, the bare rock above with no buildings
+N06|8|king_between|K@kashyapa|the king walking up the stair between the plastered lion paws with attendants seen from behind
+N06|9|rock_in_mist|T|the great rock half hidden in morning mist, only its top clear, no people
+N07|0|officer_rides|V|1831, a British army officer in a period coat on horseback seen from behind, riding along a jungle track with two Sri Lankan guides on foot, the great rock rising ahead
+N07|0|journal_sketch|V|1830s, an open leather journal with a pencil sketch of a great rock and a quill pen beside it, all writing out of focus, no people
+N07|1|villagers_tank|V|19th century, Sri Lankan villagers seen from behind at the edge of a village reservoir, the great rock on the horizon
+N07|1|paddy_field_rock|T|a green paddy field with a farmer seen from behind, the great rock beyond the palms
+N07|2|dig_1890s|V|1890s, workers with baskets and hoes clearing earth on a terrace under the rock, a supervisor in a pith helmet seen from behind
+N07|2|paw_out_of_earth|V|1890s, a giant brick lion paw coming out of a mound of red earth, workers standing around it seen from behind
+N07|2|rock_above_paws|T|the bare rock face above the two brick paws where the lion's head once stood, grooves and holes cut in the rock, no people
+N07|3|site_golden_hour|T|wide golden-hour view of the gardens and the great rock, no people
+N07|3|visitors_path|T|visitors seen from behind walking along the straight garden path toward the great rock
+N07|4|mirror_wall_today|T|the smooth ochre plaster wall today behind a low protective rail, soft light, no people
+N07|4|traveller_at_wall|O|about the 9th century, a lone Sri Lankan traveller in plain draped cloth with a cloth bundle on his shoulder, seen from behind, standing at the smooth plaster wall with a stylus in his hand
+N07|4|one_short_line|T|very close view of old plaster with one short scratched line standing a little apart from a crowd of others, all of it out of focus, no people
+N07|5|light_on_wall|T|a band of sunlight sliding along the old plaster wall, dust in the air, no people
+N07|5|visitors_climb|T|visitors seen from behind climbing the staircase between the giant brick paws
+N07|6|king_last_look|K@kashyapa|the king looking down from the summit at his gardens at sunset, seen in profile, thoughtful
+N07|6|gardens_sunset|T|the water gardens at sunset, pools reflecting an orange sky, the rock dark behind, no people
+N07|6|world_visitors|T|a crowd of visitors from many countries seen from behind, looking up at the great rock from the gardens
+N07|7|blank_stone_slab|X|a blank weathered stone slab standing upright where a carved portrait could have been
+N07|7|unfinished_sketch|O|present day, an artist's hand with a pencil over an unfinished sketch of a crowned head whose face is left blank, hand only
+N07|8|king_light_shadow|K@kashyapa|close portrait of the king, one half of his face in warm light and the other half in deep shadow
+N07|8|manuscript_and_crown|X|a palm-leaf manuscript lying on top of a gold crown, every row of lettering out of focus
+N07|9|rock_under_stars|T|the great rock as a dark shape under a sky full of stars, no people

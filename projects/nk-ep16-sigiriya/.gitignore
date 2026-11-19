@@ -1,0 +1,15 @@
+# heavy or throwaway: kept on Drive, not in git
+out/
+images/
+film/*/renders/
+film/*/snapshots/
+film/*/assets
+deliver/
+tmp/
+*.mp4
+*.mov
+*.wav
+*.zip
+narration/*.mp3
+shared/plates
+shared/vo

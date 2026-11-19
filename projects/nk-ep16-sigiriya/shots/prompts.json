@@ -1,0 +1,1519 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "rock_aerial",
+  "look": "T",
+  "file": "EP16_001_N01q00_rock_aerial.jpg",
+  "prompt": "Aerial view of one huge flat-topped rock rising sheer and alone out of an endless green jungle plain, thin morning mist around its foot, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "rock_from_below",
+  "look": "T",
+  "file": "EP16_002_N01q00_rock_from_below.jpg",
+  "prompt": "Looking straight up from the forest floor at a sheer rock wall streaked orange and black that towers far overhead, tree branches at the edges of the frame, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "summit_ruins_wide",
+  "look": "T",
+  "file": "EP16_003_N01q01_summit_ruins_wide.jpg",
+  "prompt": "The flat top of the great rock seen from the air: stepped terraces of old brick foundations, a square pond cut into the rock, green jungle plain far below, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "summit_palace_then",
+  "look": "K",
+  "file": "EP16_004_N01q01_summit_palace_then.jpg",
+  "prompt": "The flat summit of the great rock as it may have looked in the year 480: white plastered palace halls with red tiled roofs on stepped brick terraces, a pond, small gardens, tiny figures, cloud shadows on the plain far below. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "king_intro",
+  "look": "K",
+  "file": "EP16_005_N01q02_king_intro.jpg",
+  "prompt": "The king standing at the edge of the summit terrace, half-length, wind in his waist cloth, the jungle plain far below behind him. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "wall_fresh_brick",
+  "look": "O",
+  "file": "EP16_006_N01q03_wall_fresh_brick.jpg",
+  "prompt": "A patch of fresh brick and wet clay closing a niche in an old brick wall, a mason's trowel and a basket of clay left on the ground, dim torchlight, 5th century Sri Lanka, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "palm_leaf_book",
+  "look": "X",
+  "file": "EP16_007_N01q03_palm_leaf_book.jpg",
+  "prompt": "An old palm-leaf manuscript lying open on a low wooden stand, every row of lettering out of focus. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "king_watches_horizon",
+  "look": "K",
+  "file": "EP16_008_N01q04_king_watches_horizon.jpg",
+  "prompt": "The king looking back over his shoulder toward the far horizon with a wary face, dusk light, the rock parapet beside him. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "boats_far_dawn",
+  "look": "O",
+  "file": "EP16_009_N01q04_boats_far_dawn.jpg",
+  "prompt": "A distant line of small ancient sailing boats on a calm sea at dawn, seen from an empty palm-fringed shore, 5th century, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "stone_throne_empty",
+  "look": "T",
+  "file": "EP16_010_N01q05_stone_throne_empty.jpg",
+  "prompt": "An empty throne seat carved out of living rock on the summit at first light, mist over the plain beyond, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 5,
+  "k": 1,
+  "name": "elephant_turns",
+  "look": "B",
+  "file": "EP16_011_N01q05_elephant_turns.jpg",
+  "prompt": "A war elephant with a wooden howdah seen from behind, turning aside at the edge of a dark marsh, soldiers only as small shapes far away in the dust. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "maidens_on_rock",
+  "look": "P",
+  "file": "EP16_012_N01q06_maidens_on_rock.jpg",
+  "prompt": "A row of painted women rising from clouds, painted on the rough orange surface of a rock overhang. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 6,
+  "k": 1,
+  "name": "maiden_close_flower",
+  "look": "P",
+  "file": "EP16_013_N01q06_maiden_close_flower.jpg",
+  "prompt": "Close view of one painted woman rising from clouds with a lotus flower in her raised hand, fine cracks in the old plaster. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "legend_palace_storm",
+  "look": "N",
+  "file": "EP16_014_N01q07_legend_palace_storm.jpg",
+  "prompt": "The great rock at night under storm clouds with a golden palace of legend glowing on its top. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, shown as in a legend: glowing gold light, heavy clouds, a dreamlike mood, clearly a vision and not a record, any figures tiny and far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 7,
+  "k": 1,
+  "name": "monks_walk_to_rock",
+  "look": "M",
+  "file": "EP16_015_N01q07_monks_walk_to_rock.jpg",
+  "prompt": "A line of monks walking along a forest path toward the great rock at dawn. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 8,
+  "k": 0,
+  "name": "three_proofs",
+  "look": "X",
+  "file": "EP16_016_N01q08_three_proofs.jpg",
+  "prompt": "Three things side by side on a stone slab: a palm-leaf manuscript, a broken piece of carved stone, a small clay oil lamp. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 8,
+  "k": 1,
+  "name": "researcher_hands",
+  "look": "O",
+  "file": "EP16_017_N01q08_researcher_hands.jpg",
+  "prompt": "Present day, a researcher's hands holding a magnifying glass over an old black-and-white photograph of a great rock on a wooden desk, no readable writing, hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "mirror_wall_glow",
+  "look": "T",
+  "file": "EP16_018_N01q09_mirror_wall_glow.jpg",
+  "prompt": "A long high wall of smooth polished ochre plaster running along a narrow gallery on the side of the rock, glowing in low sun, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "hand_scratches_wall",
+  "look": "O",
+  "file": "EP16_019_N01q09_hand_scratches_wall.jpg",
+  "prompt": "About a thousand years ago, close view of a traveller's brown hand scratching fine lines into smooth polished plaster with a thin iron stylus, every scratched line out of focus, hand only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N01",
+  "q": 10,
+  "k": 0,
+  "name": "lion_paws_stair",
+  "look": "T",
+  "file": "EP16_020_N01q10_lion_paws_stair.jpg",
+  "prompt": "Two giant lion paws built of brick with huge claws, flanking a stone staircase that climbs the rock face above, soft morning light, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "anuradhapura_wide",
+  "look": "A",
+  "file": "EP16_021_N02q00_anuradhapura_wide.jpg",
+  "prompt": "Wide view of the royal city of Anuradhapura: enormous white dome-shaped stupas rising above the trees, a broad reservoir, tiled roofs, morning haze, tiny figures. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N02",
+  "q": 0,
+  "k": 1,
+  "name": "old_king_throne",
+  "look": "A",
+  "file": "EP16_022_N02q00_old_king_throne.jpg",
+  "prompt": "The old king seated on a carved throne in a hall of stone pillars, calm and proud. The old king is the same man as in the reference picture: same lined dark-brown face, white beard, white hair in a topknot with a low gold diadem, bare chest with heavy gold necklaces, a dark shawl over one shoulder, white waist cloth with a gold border. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "dhatusena"
+  ]
+ },
+ {
+  "n": 23,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "two_princes",
+  "look": "A",
+  "file": "EP16_023_N02q01_two_princes.jpg",
+  "prompt": "Two princes standing apart in a pillared hall, not looking at each other: the elder is about thirty with a short black beard and wears no crown, only a plain gold band; the younger is about twenty and clean-shaven. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. The prince is the same man as in the reference picture: same open dark-brown face, long black hair in a topknot, thin gold circlet, bare chest with a single gold chain, deep blue waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa",
+   "moggallana"
+  ]
+ },
+ {
+  "n": 24,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "mother_behind_pillar",
+  "look": "A",
+  "file": "EP16_024_N02q01_mother_behind_pillar.jpg",
+  "prompt": "A woman in a plain draped cloth with few ornaments, seen from behind, watching the court from behind a stone pillar, no face visible. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N02",
+  "q": 1,
+  "k": 2,
+  "name": "heir_diadem",
+  "look": "A",
+  "file": "EP16_025_N02q01_heir_diadem.jpg",
+  "prompt": "The younger prince bowing his head as an attendant's hands hold out a small gold diadem on a red cushion, pillared hall. The prince is the same man as in the reference picture: same open dark-brown face, long black hair in a topknot, thin gold circlet, bare chest with a single gold chain, deep blue waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "moggallana"
+  ]
+ },
+ {
+  "n": 26,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "stylus_on_leaf",
+  "look": "X",
+  "file": "EP16_026_N02q02_stylus_on_leaf.jpg",
+  "prompt": "Close view of an old hand writing on a strip of palm leaf with an iron stylus, every row of lettering out of focus, hand only. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "monk_scribe_cell",
+  "look": "M",
+  "file": "EP16_027_N02q02_monk_scribe_cell.jpg",
+  "prompt": "13th century, an old monk seated writing at a low desk in a bare monastery cell, a window of soft light. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 2,
+  "k": 2,
+  "name": "manuscript_bundles",
+  "look": "X",
+  "file": "EP16_028_N02q02_manuscript_bundles.jpg",
+  "prompt": "Bundles of palm-leaf manuscripts wrapped in faded cloth, stacked on a stone shelf under dust. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "commander_stern",
+  "look": "A",
+  "file": "EP16_029_N02q03_commander_stern.jpg",
+  "prompt": "The army commander standing in a pillared hall with his hand on his sword hilt, stern and silent. The army commander is the same man as in the reference picture: same heavy square dark-brown face, thick black moustache and no beard, hair tied back, crossed leather chest straps with bronze discs, a sword at his hip, dark green waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "migara"
+  ]
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "commander_walks_away",
+  "look": "A",
+  "file": "EP16_030_N02q03_commander_walks_away.jpg",
+  "prompt": "The army commander walking away down a long colonnade at dusk, seen from behind, long shadow. The army commander is the same man as in the reference picture: same heavy square dark-brown face, thick black moustache and no beard, hair tied back, crossed leather chest straps with bronze discs, a sword at his hip, dark green waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "migara"
+  ]
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "palace_gate_night",
+  "look": "A",
+  "file": "EP16_031_N02q04_palace_gate_night.jpg",
+  "prompt": "A palace gate at night, soldiers with spears and torches filing in through it, seen from far away across a courtyard, nobody hurt. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "new_king_throne",
+  "look": "A",
+  "file": "EP16_032_N02q04_new_king_throne.jpg",
+  "prompt": "The new king seated on the carved throne wearing his tall gold crown, alone in the big hall, wary eyes. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 4,
+  "k": 2,
+  "name": "prince_boat_leaves",
+  "look": "O",
+  "file": "EP16_033_N02q04_prince_boat_leaves.jpg",
+  "prompt": "The young prince in a small wooden sailing boat leaving a palm-fringed shore at dawn, looking back toward the land, 5th century. The prince is the same man as in the reference picture: same open dark-brown face, long black hair in a topknot, thin gold circlet, bare chest with a single gold chain, deep blue waist cloth. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "moggallana"
+  ]
+ },
+ {
+  "n": 34,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "whisper_to_king",
+  "look": "A",
+  "file": "EP16_034_N02q05_whisper_to_king.jpg",
+  "prompt": "The army commander, about forty-five with a thick moustache, leaning close to speak into the ear of the seated king, who is about thirty with a short black beard and a tall gold crown. The army commander is the same man as in the reference picture: same heavy square dark-brown face, thick black moustache and no beard, hair tied back, crossed leather chest straps with bronze discs, a sword at his hip, dark green waist cloth. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "migara",
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 35,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "empty_chest",
+  "look": "X",
+  "file": "EP16_035_N02q05_empty_chest.jpg",
+  "prompt": "An open and empty bronze treasure chest. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "reservoir_bund",
+  "look": "A",
+  "file": "EP16_036_N02q06_reservoir_bund.jpg",
+  "prompt": "A vast ancient reservoir like an inland sea with a long earthen embankment, calm water at dawn, a small group of figures walking along the embankment far away. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "old_king_in_water",
+  "look": "A",
+  "file": "EP16_037_N02q06_old_king_in_water.jpg",
+  "prompt": "The old king standing waist-deep in the calm reservoir with both hands cupped full of water, looking down at it, bare-headed with no crown. The old king is the same man as in the reference picture: same lined dark-brown face, white beard, white hair in a topknot with a low gold diadem, bare chest with heavy gold necklaces, a dark shawl over one shoulder, white waist cloth with a gold border. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "dhatusena"
+  ]
+ },
+ {
+  "n": 38,
+  "clip": "N02",
+  "q": 6,
+  "k": 2,
+  "name": "water_through_hands",
+  "look": "O",
+  "file": "EP16_038_N02q06_water_through_hands.jpg",
+  "prompt": "Close view of an old man's cupped hands with clear water running through the fingers in golden evening light, a wide lake behind, hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "king_turns_away",
+  "look": "A",
+  "file": "EP16_039_N02q07_king_turns_away.jpg",
+  "prompt": "The king turning away with one arm thrown out in a sharp order, his face half in shadow, dusk. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 40,
+  "clip": "N02",
+  "q": 7,
+  "k": 1,
+  "name": "wall_sealed",
+  "look": "O",
+  "file": "EP16_040_N02q07_wall_sealed.jpg",
+  "prompt": "A blank brick wall with one newly built and plastered section, wet clay still dark, torchlight, a trowel on the ground, 5th century Sri Lanka, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "scales_one_side",
+  "look": "X",
+  "file": "EP16_041_N02q08_scales_one_side.jpg",
+  "prompt": "Old bronze balance scales with a palm-leaf manuscript on one pan and the other pan empty. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N02",
+  "q": 8,
+  "k": 1,
+  "name": "empty_book_stand",
+  "look": "X",
+  "file": "EP16_042_N02q08_empty_book_stand.jpg",
+  "prompt": "An empty wooden manuscript stand beside an unlit clay lamp. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N02",
+  "q": 9,
+  "k": 0,
+  "name": "rock_sunrise_pond",
+  "look": "T",
+  "file": "EP16_043_N02q09_rock_sunrise_pond.jpg",
+  "prompt": "The great rock at sunrise seen across a still lotus pond, its reflection in the water, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "procession_to_rock",
+  "look": "K",
+  "file": "EP16_044_N03q00_procession_to_rock.jpg",
+  "prompt": "A royal procession of elephants, ox carts and porters moving along a jungle road toward a great bare rock on the horizon, seen from behind. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "king_sees_rock",
+  "look": "K",
+  "file": "EP16_045_N03q00_king_sees_rock.jpg",
+  "prompt": "The king seen from behind over his shoulder, looking up at the bare great rock rising out of the jungle, no buildings on it yet. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 46,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "cave_drip_ledge",
+  "look": "T",
+  "file": "EP16_046_N03q01_cave_drip_ledge.jpg",
+  "prompt": "A rock shelter under a huge leaning boulder at the foot of the great rock, a carved drip ledge line cut along the boulder's brow, leaf shadows, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "monks_in_cave",
+  "look": "M",
+  "file": "EP16_047_N03q01_monks_in_cave.jpg",
+  "prompt": "3rd century BCE, three monks seated in meditation on the bare floor of a rock shelter under a boulder. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 48,
+  "clip": "N03",
+  "q": 1,
+  "k": 2,
+  "name": "worn_letters_ledge",
+  "look": "T",
+  "file": "EP16_048_N03q01_worn_letters_ledge.jpg",
+  "prompt": "Close view of weathered ancient letters cut into rock just below a drip ledge, worn almost smooth and not readable, lichen, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "moat_rampart",
+  "look": "T",
+  "file": "EP16_049_N03q02_moat_rampart.jpg",
+  "prompt": "A broad moat with still water and an old earth-and-brick rampart, the great rock beyond the trees, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N03",
+  "q": 2,
+  "k": 1,
+  "name": "water_garden_axis",
+  "look": "T",
+  "file": "EP16_050_N03q02_water_garden_axis.jpg",
+  "prompt": "Symmetrical water gardens seen from above: square pools, straight channels and brick walks laid out on one axis that leads straight to the great rock, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N03",
+  "q": 2,
+  "k": 2,
+  "name": "water_garden_then",
+  "look": "K",
+  "file": "EP16_051_N03q02_water_garden_then.jpg",
+  "prompt": "The water gardens as they may have looked in the year 480: full pools with small pavilions, flowering trees, straight paved walks leading to the rock, tiny figures. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "clay_pipe_trench",
+  "look": "T",
+  "file": "EP16_052_N03q03_clay_pipe_trench.jpg",
+  "prompt": "An old terracotta water pipe exposed in a neat excavation trench in red earth, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "fountain_after_rain",
+  "look": "T",
+  "file": "EP16_053_N03q03_fountain_after_rain.jpg",
+  "prompt": "A low fountain bubbling up through the round holes of a flat limestone slab set in a shallow channel, wet grass after rain, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "lion_whole_then",
+  "look": "K",
+  "file": "EP16_054_N03q04_lion_whole_then.jpg",
+  "prompt": "The lion gate as it may have looked in the year 480: a colossal lion's head, chest and front paws built of brick and white plaster against the rock face on a high terrace, a staircase climbing between the paws into its open jaws, tiny figures on the stair. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "builders_plaster_paw",
+  "look": "K",
+  "file": "EP16_055_N03q04_builders_plaster_paw.jpg",
+  "prompt": "Builders on bamboo scaffolding laying brick and smoothing white plaster on a giant lion paw, baskets of lime, seen from a distance. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N03",
+  "q": 4,
+  "k": 2,
+  "name": "stair_between_paws",
+  "look": "T",
+  "file": "EP16_056_N03q04_stair_between_paws.jpg",
+  "prompt": "The stone staircase between the two giant brick lion paws seen from its foot looking up the rock, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "paw_claws_close",
+  "look": "T",
+  "file": "EP16_057_N03q05_paw_claws_close.jpg",
+  "prompt": "Close view of the huge claws of a brick lion paw, weathered brick and patches of old plaster, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "rock_north_terrace",
+  "look": "T",
+  "file": "EP16_058_N03q05_rock_north_terrace.jpg",
+  "prompt": "The great rock seen from the north with its broad terrace half way up, clouds passing the summit, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "summit_from_above",
+  "look": "T",
+  "file": "EP16_059_N03q06_summit_from_above.jpg",
+  "prompt": "Looking straight down from the air on the summit ruins: brick terraces, stairs and a pond, the edge of the rock dropping away on all sides, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "summit_pond",
+  "look": "T",
+  "file": "EP16_060_N03q06_summit_pond.jpg",
+  "prompt": "The big square pond cut into the rock of the summit, sky reflected in the water, brick foundations around it, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "palace_in_clouds",
+  "look": "K",
+  "file": "EP16_061_N03q07_palace_in_clouds.jpg",
+  "prompt": "The summit palace as it may have looked in the year 480, at dusk: white halls lit by many oil lamps, low cloud drifting past below the rock's edge. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "king_above_clouds",
+  "look": "K",
+  "file": "EP16_062_N03q07_king_above_clouds.jpg",
+  "prompt": "The king seated on a stone seat on a high terrace with clouds below him, calm, evening light. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 63,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "king_night_watch",
+  "look": "K",
+  "file": "EP16_063_N03q08_king_night_watch.jpg",
+  "prompt": "The king at night at the parapet, watching the dark plain, one small bronze oil lamp beside him, no glass lamps, uneasy. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 64,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "king_parasol",
+  "look": "K",
+  "file": "EP16_064_N03q08_king_parasol.jpg",
+  "prompt": "The king in full regalia walking in daylight under a white parasol held by an attendant seen from behind, proud. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 65,
+  "clip": "N03",
+  "q": 9,
+  "k": 0,
+  "name": "west_face_gallery",
+  "look": "T",
+  "file": "EP16_065_N03q09_west_face_gallery.jpg",
+  "prompt": "The sheer west face of the great rock seen from the gardens below, a thin gallery line crossing it half way up, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N03",
+  "q": 9,
+  "k": 1,
+  "name": "rock_hollow_shade",
+  "look": "T",
+  "file": "EP16_066_N03q09_rock_hollow_shade.jpg",
+  "prompt": "A long shallow hollow under an overhang high on the rock face, in deep shade, the plain far below, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "west_face_look_up",
+  "look": "T",
+  "file": "EP16_067_N04q00_west_face_look_up.jpg",
+  "prompt": "Looking up the sheer west face of the rock to a sheltered hollow high above, an old iron spiral stair clinging to the rock, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N04",
+  "q": 0,
+  "k": 1,
+  "name": "painted_hollow",
+  "look": "P",
+  "file": "EP16_068_N04q00_painted_hollow.jpg",
+  "prompt": "A shallow rock hollow under an overhang with painted women rising from clouds on its sloping surface, seen from the side in soft shade. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "maiden_lotus",
+  "look": "P",
+  "file": "EP16_069_N04q01_maiden_lotus.jpg",
+  "prompt": "One painted woman rising from clouds, holding a lotus bud between her fingers, turned three-quarters. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N04",
+  "q": 1,
+  "k": 1,
+  "name": "maidens_pair_tray",
+  "look": "P",
+  "file": "EP16_070_N04q01_maidens_pair_tray.jpg",
+  "prompt": "Two painted women rising from clouds, one darker-skinned holding a tray of flowers toward the other. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "maidens_few_left",
+  "look": "P",
+  "file": "EP16_071_N04q02_maidens_few_left.jpg",
+  "prompt": "Wide view of the rock surface with only a handful of painted women left and large bare patches of weathered rock between them. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "maidens_whole_face",
+  "look": "K",
+  "file": "EP16_072_N04q02_maidens_whole_face.jpg",
+  "prompt": "The west face of the great rock as it may have looked in the year 480: a broad band of hundreds of painted figures on white plaster running right across the cliff, seen from the gardens far below. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "maiden_eyes",
+  "look": "P",
+  "file": "EP16_073_N04q03_maiden_eyes.jpg",
+  "prompt": "Very close view of one painted woman's face with long eyes looking down, fine cracks across the old plaster. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "sky_maidens",
+  "look": "P",
+  "file": "EP16_074_N04q04_sky_maidens.jpg",
+  "prompt": "Painted women of the sky drifting among clouds and scattering flowers, as in an old wall painting. Painted in the manner of 5th century Sri Lankan rock painting on old lime plaster: warm reds, ochre yellow and soft green, fine dark outlines, each woman shown from the waist up above a band of cloud, wearing a fitted blouse, a tall jewelled headdress, necklaces and bangles, fully and modestly clothed, the rough rock visible around the plaster. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N04",
+  "q": 4,
+  "k": 1,
+  "name": "storm_lightning",
+  "look": "O",
+  "file": "EP16_075_N04q04_storm_lightning.jpg",
+  "prompt": "Monsoon storm clouds with a fork of lightning behind the dark shape of the great rock at dusk, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "gallery_walk",
+  "look": "T",
+  "file": "EP16_076_N04q05_gallery_walk.jpg",
+  "prompt": "A narrow walkway along the rock face with the tall smooth ochre plaster wall on its outer side, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "craftsman_polishes",
+  "look": "K",
+  "file": "EP16_077_N04q05_craftsman_polishes.jpg",
+  "prompt": "A craftsman seen from behind rubbing a freshly plastered white wall to a mirror shine with a smooth stone, his dim reflection in the wall. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "visitors_9th_century",
+  "look": "O",
+  "file": "EP16_078_N04q06_visitors_9th_century.jpg",
+  "prompt": "About the 9th century, a small group of Sri Lankan travellers in plain draped cloth standing on the rock gallery and looking up at the paintings, seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 79,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "woman_hand_stylus",
+  "look": "O",
+  "file": "EP16_079_N04q06_woman_hand_stylus.jpg",
+  "prompt": "About the 9th century, close view of a woman's hand with thin bangles scratching a line into smooth plaster with an iron stylus, every scratched line out of focus, hand only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N04",
+  "q": 6,
+  "k": 2,
+  "name": "scratches_raking_light",
+  "look": "T",
+  "file": "EP16_080_N04q06_scratches_raking_light.jpg",
+  "prompt": "Low raking light across a smooth old plaster wall showing a dense web of very fine scratched lines, all of them out of focus, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "scholar_copies",
+  "look": "V",
+  "file": "EP16_081_N04q07_scholar_copies.jpg",
+  "prompt": "1950s, a Sri Lankan scholar in a white shirt seen from behind, copying from the old plaster wall into a notebook. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N04",
+  "q": 7,
+  "k": 1,
+  "name": "rubbings_table",
+  "look": "V",
+  "file": "EP16_082_N04q07_rubbings_table.jpg",
+  "prompt": "1950s, paper rubbings, notebooks and a magnifying glass spread on a wooden table, all writing out of focus, no people. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N04",
+  "q": 7,
+  "k": 2,
+  "name": "two_thick_books",
+  "look": "X",
+  "file": "EP16_083_N04q07_two_thick_books.jpg",
+  "prompt": "Two thick old scholarly books with blank cloth covers lying closed on a wooden desk. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 84,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "gallery_night_empty",
+  "look": "T",
+  "file": "EP16_084_N04q08_gallery_night_empty.jpg",
+  "prompt": "The rock gallery at night, empty, moonlight on the old iron stair, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N04",
+  "q": 8,
+  "k": 1,
+  "name": "paint_tin",
+  "look": "O",
+  "file": "EP16_085_N04q08_paint_tin.jpg",
+  "prompt": "An overturned tin of green paint and a wet brush left on a bare rock floor at night, 1960s, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N04",
+  "q": 8,
+  "k": 2,
+  "name": "conservator",
+  "look": "V",
+  "file": "EP16_086_N04q08_conservator.jpg",
+  "prompt": "1960s, a conservator in a white coat seen from behind on a wooden scaffold, cleaning a painted rock wall with a small cotton swab. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "king_older",
+  "look": "K",
+  "file": "EP16_087_N05q00_king_older.jpg",
+  "prompt": "The king eighteen years older, now in his fifties with grey in his beard, standing on the summit looking north. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 88,
+  "clip": "N05",
+  "q": 0,
+  "k": 1,
+  "name": "prince_in_exile",
+  "look": "O",
+  "file": "EP16_088_N05q00_prince_in_exile.jpg",
+  "prompt": "The prince eighteen years older, now about forty with a short beard, standing on a South Indian shore beside a stone temple tower, looking across the sea, 5th century. The prince is the same man as in the reference picture: same open dark-brown face, long black hair in a topknot, thin gold circlet, bare chest with a single gold chain, deep blue waist cloth. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "moggallana"
+  ]
+ },
+ {
+  "n": 89,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "army_lands",
+  "look": "B",
+  "file": "EP16_089_N05q01_army_lands.jpg",
+  "prompt": "The prince, now about forty with a short beard, wading ashore from a wooden boat at dawn at the head of his soldiers. The prince is the same man as in the reference picture: same open dark-brown face, long black hair in a topknot, thin gold circlet, bare chest with a single gold chain, deep blue waist cloth. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "moggallana"
+  ]
+ },
+ {
+  "n": 90,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "army_leaves_rock",
+  "look": "K",
+  "file": "EP16_090_N05q02_army_leaves_rock.jpg",
+  "prompt": "An army with elephants and banners filing down from the gate of the great rock onto the open plain, seen from far away. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 91,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "two_armies_far",
+  "look": "B",
+  "file": "EP16_091_N05q02_two_armies_far.jpg",
+  "prompt": "Two armies drawn up far apart on an open plain, dust and banners, no fighting. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "king_on_elephant",
+  "look": "B",
+  "file": "EP16_092_N05q03_king_on_elephant.jpg",
+  "prompt": "The king, in his fifties with grey in his beard, riding a war elephant in a wooden howdah, seen from the side. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 93,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "elephant_feet_marsh",
+  "look": "B",
+  "file": "EP16_093_N05q03_elephant_feet_marsh.jpg",
+  "prompt": "Close view of an elephant's forefeet stopping at the edge of dark marsh water and reeds and turning aside. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "soldiers_look_back",
+  "look": "B",
+  "file": "EP16_094_N05q04_soldiers_look_back.jpg",
+  "prompt": "Foot soldiers seen from behind, turning their heads to look at a royal elephant moving away in the dust. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "army_scatters",
+  "look": "B",
+  "file": "EP16_095_N05q04_army_scatters.jpg",
+  "prompt": "Far view of an army breaking up and streaming away across the plain in clouds of dust, tiny figures. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "king_alone",
+  "look": "B",
+  "file": "EP16_096_N05q05_king_alone.jpg",
+  "prompt": "The king, in his fifties with grey in his beard, alone in the howdah of his elephant on an empty dusty plain, calm and upright. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. A wide open plain in northern Sri Lanka in the year 495, dry grass, reeds and scattered trees, dust in the air, soldiers bare-chested in waist cloths with spears and round shields, war elephants, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 97,
+  "clip": "N05",
+  "q": 5,
+  "k": 1,
+  "name": "dagger_crown_grass",
+  "look": "O",
+  "file": "EP16_097_N05q05_dagger_crown_grass.jpg",
+  "prompt": "A jewelled dagger in its sheath lying in dry grass beside a fallen gold crown, evening light, 5th century Sri Lanka, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "brother_crowned",
+  "look": "A",
+  "file": "EP16_098_N05q06_brother_crowned.jpg",
+  "prompt": "The prince, now about forty with a short beard, seated on the carved throne wearing a gold crown. The prince is the same man as in the reference picture: same open dark-brown face, long black hair in a topknot, thin gold circlet, bare chest with a single gold chain, deep blue waist cloth. Sri Lanka in the 5th century, the royal city of Anuradhapura, halls of plain stone pillars with timber beams and red tiled roofs, white dome-shaped stupas far away, warm dusty light, small clay or bronze oil lamps only, no glass, men bare-chested in white or coloured waist cloths with gold necklaces and armlets, long hair tied in a topknot, no turbans, no stitched coats. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "moggallana"
+  ]
+ },
+ {
+  "n": 99,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "monks_climb_lion",
+  "look": "M",
+  "file": "EP16_099_N05q06_monks_climb_lion.jpg",
+  "prompt": "A line of monks climbing the staircase between two giant lion paws. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "monastery_summit",
+  "look": "M",
+  "file": "EP16_100_N05q07_monastery_summit.jpg",
+  "prompt": "Monks walking among simple thatched cells and a small white stupa on the summit of the great rock. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N05",
+  "q": 7,
+  "k": 1,
+  "name": "lamp_flower_offering",
+  "look": "M",
+  "file": "EP16_101_N05q07_lamp_flower_offering.jpg",
+  "prompt": "Clay oil lamps and white flowers laid on a stone ledge before a small white stupa at dusk, no people. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "palace_bright_brief",
+  "look": "K",
+  "file": "EP16_102_N05q08_palace_bright_brief.jpg",
+  "prompt": "The summit palace in bright fresh colour under a clear sky, banners flying, tiny figures. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "worn_steps_feet",
+  "look": "M",
+  "file": "EP16_103_N05q08_worn_steps_feet.jpg",
+  "prompt": "Stone steps worn hollow by centuries of feet, the bare feet and robe hem of one monk climbing them. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "jungle_covers_paws",
+  "look": "O",
+  "file": "EP16_104_N05q09_jungle_covers_paws.jpg",
+  "prompt": "The giant brick lion paws half buried in earth and tree roots, jungle growing over the ruins, green gloom, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 105,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "ravana_palace_legend",
+  "look": "N",
+  "file": "EP16_105_N06q00_ravana_palace_legend.jpg",
+  "prompt": "A vast golden palace of legend with many towers standing on top of the great rock. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, shown as in a legend: glowing gold light, heavy clouds, a dreamlike mood, clearly a vision and not a record, any figures tiny and far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 106,
+  "clip": "N06",
+  "q": 0,
+  "k": 1,
+  "name": "elder_tells_story",
+  "look": "O",
+  "file": "EP16_106_N06q00_elder_tells_story.jpg",
+  "prompt": "Present day, an elderly Sri Lankan villager seen from behind pointing toward the great rock while two children beside him look at it, all seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 107,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "city_of_gold",
+  "look": "N",
+  "file": "EP16_107_N06q01_city_of_gold.jpg",
+  "prompt": "A city of gold of the god of wealth among clouds on a mountain top. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, shown as in a legend: glowing gold light, heavy clouds, a dreamlike mood, clearly a vision and not a record, any figures tiny and far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 108,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "flying_chariot",
+  "look": "N",
+  "file": "EP16_108_N06q01_flying_chariot.jpg",
+  "prompt": "A golden flying chariot of legend shaped like a small pavilion with carved swans, coming down through clouds toward the flat top of the great rock. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, shown as in a legend: glowing gold light, heavy clouds, a dreamlike mood, clearly a vision and not a record, any figures tiny and far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 109,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "dig_trench_layers",
+  "look": "T",
+  "file": "EP16_109_N06q02_dig_trench_layers.jpg",
+  "prompt": "An archaeological trench showing layers of old brick wall, a measuring rod and a trowel, hands of an archaeologist only. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars, any people seen from behind in plain present-day clothes. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 110,
+  "clip": "N06",
+  "q": 2,
+  "k": 1,
+  "name": "brick_plaster_close",
+  "look": "T",
+  "file": "EP16_110_N06q02_brick_plaster_close.jpg",
+  "prompt": "Close view of old flat bricks with layers of white lime plaster peeling from them, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "offering_at_rock",
+  "look": "O",
+  "file": "EP16_111_N06q03_offering_at_rock.jpg",
+  "prompt": "Present day, a small clay lamp and fresh flowers left on a stone at the foot of the great rock, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "field_notebook",
+  "look": "O",
+  "file": "EP16_112_N06q03_field_notebook.jpg",
+  "prompt": "Present day, a field notebook, a pencil and a trowel resting on an old brick wall, all writing out of focus, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "two_researchers",
+  "look": "O",
+  "file": "EP16_113_N06q04_two_researchers.jpg",
+  "prompt": "Present day, two researchers seen from behind standing in the gardens, looking up at the great rock and talking. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "old_scholar_desk",
+  "look": "V",
+  "file": "EP16_114_N06q05_old_scholar_desk.jpg",
+  "prompt": "1990s, an elderly Sri Lankan scholar in a white shirt seen from behind at a desk piled with books and photographs of a great rock, all writing out of focus. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N06",
+  "q": 5,
+  "k": 1,
+  "name": "summit_monk_cells",
+  "look": "M",
+  "file": "EP16_115_N06q05_summit_monk_cells.jpg",
+  "prompt": "The summit of the great rock imagined with no palace at all: rows of simple thatched monks' cells and monks seated in meditation. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 116,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "monks_library",
+  "look": "M",
+  "file": "EP16_116_N06q06_monks_library.jpg",
+  "prompt": "13th century, monks seated in a pillared library hall with palm-leaf manuscripts on low desks. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "crown_shadow_page",
+  "look": "X",
+  "file": "EP16_117_N06q06_crown_shadow_page.jpg",
+  "prompt": "The shadow of a crowned head falling across an open palm-leaf manuscript, every row of lettering out of focus. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "great_building_work",
+  "look": "K",
+  "file": "EP16_118_N06q07_great_building_work.jpg",
+  "prompt": "Thousands of workers building ramparts, pools and brick walks around the great rock, bamboo scaffolding on the rock face, seen from far above. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "whole_plan_aerial",
+  "look": "T",
+  "file": "EP16_119_N06q07_whole_plan_aerial.jpg",
+  "prompt": "High aerial view of the whole planned site: moats and ramparts in rectangles, gardens on one axis, the great rock at the centre, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N06",
+  "q": 8,
+  "k": 0,
+  "name": "monks_first",
+  "look": "M",
+  "file": "EP16_120_N06q08_monks_first.jpg",
+  "prompt": "Monks seated in a rock shelter at the foot of the great rock, the bare rock above with no buildings. Sri Lanka, old stone and brick, soft early light, a calm and respectful mood, the monks are Buddhist monks with shaven heads in plain saffron robes, always seen from behind or far away, no faces visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N06",
+  "q": 8,
+  "k": 1,
+  "name": "king_between",
+  "look": "K",
+  "file": "EP16_121_N06q08_king_between.jpg",
+  "prompt": "The king walking up the stair between the plastered lion paws with attendants seen from behind. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 122,
+  "clip": "N06",
+  "q": 9,
+  "k": 0,
+  "name": "rock_in_mist",
+  "look": "T",
+  "file": "EP16_122_N06q09_rock_in_mist.jpg",
+  "prompt": "The great rock half hidden in morning mist, only its top clear, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "officer_rides",
+  "look": "V",
+  "file": "EP16_123_N07q00_officer_rides.jpg",
+  "prompt": "1831, a British army officer in a period coat on horseback seen from behind, riding along a jungle track with two Sri Lankan guides on foot, the great rock rising ahead. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "journal_sketch",
+  "look": "V",
+  "file": "EP16_124_N07q00_journal_sketch.jpg",
+  "prompt": "1830s, an open leather journal with a pencil sketch of a great rock and a quill pen beside it, all writing out of focus, no people. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "villagers_tank",
+  "look": "V",
+  "file": "EP16_125_N07q01_villagers_tank.jpg",
+  "prompt": "19th century, Sri Lankan villagers seen from behind at the edge of a village reservoir, the great rock on the horizon. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "paddy_field_rock",
+  "look": "T",
+  "file": "EP16_126_N07q01_paddy_field_rock.jpg",
+  "prompt": "A green paddy field with a farmer seen from behind, the great rock beyond the palms. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars, any people seen from behind in plain present-day clothes. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "dig_1890s",
+  "look": "V",
+  "file": "EP16_127_N07q02_dig_1890s.jpg",
+  "prompt": "1890s, workers with baskets and hoes clearing earth on a terrace under the rock, a supervisor in a pith helmet seen from behind. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 128,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "paw_out_of_earth",
+  "look": "V",
+  "file": "EP16_128_N07q02_paw_out_of_earth.jpg",
+  "prompt": "1890s, a giant brick lion paw coming out of a mound of red earth, workers standing around it seen from behind. Sri Lanka, with the look of an old photograph of that time, faded and slightly warm, real people and real places, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 129,
+  "clip": "N07",
+  "q": 2,
+  "k": 2,
+  "name": "rock_above_paws",
+  "look": "T",
+  "file": "EP16_129_N07q02_rock_above_paws.jpg",
+  "prompt": "The bare rock face above the two brick paws where the lion's head once stood, grooves and holes cut in the rock, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 130,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "site_golden_hour",
+  "look": "T",
+  "file": "EP16_130_N07q03_site_golden_hour.jpg",
+  "prompt": "Wide golden-hour view of the gardens and the great rock, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 131,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "visitors_path",
+  "look": "T",
+  "file": "EP16_131_N07q03_visitors_path.jpg",
+  "prompt": "Visitors seen from behind walking along the straight garden path toward the great rock. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars, any people seen from behind in plain present-day clothes. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 132,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "mirror_wall_today",
+  "look": "T",
+  "file": "EP16_132_N07q04_mirror_wall_today.jpg",
+  "prompt": "The smooth ochre plaster wall today behind a low protective rail, soft light, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 133,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "traveller_at_wall",
+  "look": "O",
+  "file": "EP16_133_N07q04_traveller_at_wall.jpg",
+  "prompt": "About the 9th century, a lone Sri Lankan traveller in plain draped cloth with a cloth bundle on his shoulder, seen from behind, standing at the smooth plaster wall with a stylus in his hand. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 134,
+  "clip": "N07",
+  "q": 4,
+  "k": 2,
+  "name": "one_short_line",
+  "look": "T",
+  "file": "EP16_134_N07q04_one_short_line.jpg",
+  "prompt": "Very close view of old plaster with one short scratched line standing a little apart from a crowd of others, all of it out of focus, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 135,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "light_on_wall",
+  "look": "T",
+  "file": "EP16_135_N07q05_light_on_wall.jpg",
+  "prompt": "A band of sunlight sliding along the old plaster wall, dust in the air, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 136,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "visitors_climb",
+  "look": "T",
+  "file": "EP16_136_N07q05_visitors_climb.jpg",
+  "prompt": "Visitors seen from behind climbing the staircase between the giant brick paws. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars, any people seen from behind in plain present-day clothes. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 137,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "king_last_look",
+  "look": "K",
+  "file": "EP16_137_N07q06_king_last_look.jpg",
+  "prompt": "The king looking down from the summit at his gardens at sunset, seen in profile, thoughtful. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 138,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "gardens_sunset",
+  "look": "T",
+  "file": "EP16_138_N07q06_gardens_sunset.jpg",
+  "prompt": "The water gardens at sunset, pools reflecting an orange sky, the rock dark behind, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 139,
+  "clip": "N07",
+  "q": 6,
+  "k": 2,
+  "name": "world_visitors",
+  "look": "T",
+  "file": "EP16_139_N07q06_world_visitors.jpg",
+  "prompt": "A crowd of visitors from many countries seen from behind, looking up at the great rock from the gardens. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars, any people seen from behind in plain present-day clothes. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 140,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "blank_stone_slab",
+  "look": "X",
+  "file": "EP16_140_N07q07_blank_stone_slab.jpg",
+  "prompt": "A blank weathered stone slab standing upright where a carved portrait could have been. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 141,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "unfinished_sketch",
+  "look": "O",
+  "file": "EP16_141_N07q07_unfinished_sketch.jpg",
+  "prompt": "Present day, an artist's hand with a pencil over an unfinished sketch of a crowned head whose face is left blank, hand only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 142,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "king_light_shadow",
+  "look": "K",
+  "file": "EP16_142_N07q08_king_light_shadow.jpg",
+  "prompt": "Close portrait of the king, one half of his face in warm light and the other half in deep shadow. The king is the same man as in the reference picture: same lean dark-brown face with sharp watchful eyes, short black beard and moustache, long black hair in a topknot, tall gold crown, bare chest with heavy gold necklaces and armlets, deep red silk waist cloth. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it was about the year 480, white lime plaster and red tiled roofs on brick terraces, nothing modern, people of 5th century Sri Lanka, bare-chested men in waist cloths, hair in topknots, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "kashyapa"
+  ]
+ },
+ {
+  "n": 143,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "manuscript_and_crown",
+  "look": "X",
+  "file": "EP16_143_N07q08_manuscript_and_crown.jpg",
+  "prompt": "A palm-leaf manuscript lying on top of a gold crown, every row of lettering out of focus. A dim stone room in old Sri Lanka, a single shaft of light on dark stone and old wood, only a small clay oil lamp if any lamp, no glass, no bookshelves, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 144,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "rock_under_stars",
+  "look": "T",
+  "file": "EP16_144_N07q09_rock_under_stars.jpg",
+  "prompt": "The great rock as a dark shape under a sky full of stars, no people. Sigiriya in central Sri Lanka: one huge flat-topped rock of dark orange-streaked stone rising sheer about 180 metres out of a green jungle plain, as it is today, old weathered brick ruins, clipped grass and tall trees, soft daylight, no signboards, no wires, no cars. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ }
+]
