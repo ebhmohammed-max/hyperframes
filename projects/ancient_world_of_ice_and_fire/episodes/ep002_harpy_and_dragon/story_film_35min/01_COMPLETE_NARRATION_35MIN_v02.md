@@ -58,7 +58,7 @@ Across the water, north and west, past the smoking mountains, there was a penins
 
 [04:00–04:30 | HAR-EP002-IMG0121–IMG0135]
 
-Here is the thing the Ghiscari could not make their minds hold. A shield wall is a brilliant answer to cavalry. It is a brilliant answer to another shield wall. It is a machine built to solve exactly one problem: the enemy has to come across the ground to reach you. Take the ground away. Take the crossing. The machine does not break, and nobody in it is a coward. It simply becomes decoration.
+Here is the thing the Ghiscari could not make their minds hold. A shield wall is a brilliant answer to cavalry. It is a brilliant answer to another shield wall. It is a machine built for exactly one problem: the enemy must come across the ground. Take the ground away, and the machine does not break. Nobody in it is a coward. It simply becomes decoration.
 
 [04:30–05:00 | HAR-EP002-IMG0136–IMG0150]
 
@@ -72,7 +72,7 @@ The first war began, as these things do, over a harbour. Not the city behind it.
 
 [05:30–06:00 | HAR-EP002-IMG0166–IMG0180]
 
-Picture the night before the first battle. Ashore, a Ghiscari officer walks his line and hears the usual sounds: men coughing, a whetstone, someone losing at dice. Then it comes. A noise from above the cloud, low and slow, like a sail tearing in a wind you cannot feel. He has never been taught a word for it. Neither has anyone in that army. They will invent one later, and the word will be fear.
+Picture the night before the first battle. Ashore, a Ghiscari officer walks his line and hears the usual sounds: men coughing, a whetstone, someone losing at dice. Then it comes. A noise from above the cloud, low and slow, like a sail tearing in a wind you cannot feel. He has no word for it. Nobody in that army does. They will invent one, and the word will be fear.
 
 [06:00–06:30 | HAR-EP002-IMG0181–IMG0195]
 
@@ -80,7 +80,7 @@ The battle lasted less than an afternoon. The legions never broke. That is the d
 
 [06:30–07:00 | HAR-EP002-IMG0196–IMG0210]
 
-Here is the thing the Ghiscari could not make their minds hold. A shield wall is a brilliant answer to cavalry. It is a brilliant answer to another shield wall. It is a machine built to solve one problem: the enemy has to come across the ground to reach you. Take the ground away. Take the crossing. The machine does not break. It simply becomes decoration.
+A legion is not only a way of fighting. It is a way of thinking about order, and every man in it has been taught since boyhood that the world is a line, and that a line holds. When the line fails, the institution does not learn. It repairs the line. That is the difference between an army that is beaten and an army that can be changed.
 
 [07:00–07:30 | HAR-EP002-IMG0211–IMG0225]
 
@@ -92,7 +92,7 @@ When the first war ended, the dragonlords did something nobody expected. They di
 
 [08:00–08:30 | HAR-EP002-IMG0241–IMG0255]
 
-And the men in the brick halls learned the worst possible lesson from losing. They learned that it had been a bad day. Weather. An accident of clouds. They looked at the same evidence every one of us has just looked at and concluded that with more towers, more engines, more ships, and a little less misfortune, the next attempt would go differently. It is very hard to think clearly when you are ashamed.
+And the men in the brick halls learned the worst possible thing from losing. They learned it had been a bad day. Weather. An accident of clouds. They looked at the evidence every one of us has just looked at and concluded that with more towers, more ships and less misfortune, the next attempt would go differently. It is very hard to think clearly when you are ashamed.
 
 [08:30–09:00 | HAR-EP002-IMG0256–IMG0270]
 
@@ -100,13 +100,11 @@ For Valyria, the first victory did something worse than it did to Ghis. It taugh
 
 [09:00–09:30 | HAR-EP002-IMG0271–IMG0285]
 
-Our coin gets moving here. It is in a pay chest on a cart, going out from Ghis with the first instalment of whatever the treaty said. A clerk counts it. A soldier draws his month against it. Somewhere on the road a wheel breaks, the chest is spilled, and one man picks a coin out of the dust and puts it in his boot because no one is watching him. That man's name is lost. The coin's journey is the only record he leaves.
+Our coin gets moving here. It is in a pay chest on a cart going out from Ghis with the first instalment of whatever the treaty said. A soldier draws his month against it. Somewhere on the road a wheel breaks, the chest spills, and one man picks a coin out of the dust and puts it in his boot. His name is lost. The coin is the only record he leaves.
 
 [09:30–10:00 | HAR-EP002-IMG0286–IMG0300]
 
-Seventeen years pass. You would not know it from the histories, which go quiet between one war and the next, as though nothing happens in peace. Everything happens in peace. A generation grows up in a city that reads its own coins and finds the word "tribute" worn into the edge. Their fathers remember winning on the shore. Their sons remember a line on a map.
-
-## Chapter III — Building the answer
+Seventeen years pass. You would not know it from the histories, which go quiet between one war and the next, as though nothing happens in peace. Everything happens in peace. A generation grows up in a city that reads its own coins and finds the word tribute worn into the edge. Their fathers remember winning on the shore. Their sons remember a line on a map.
 
 [10:00–10:30 | HAR-EP002-IMG0301–IMG0315]
 
@@ -114,7 +112,7 @@ The second war did not begin with a battle. It began with a building. In the thi
 
 [10:30–11:00 | HAR-EP002-IMG0316–IMG0330]
 
-The problem was this. A dragon is devastating at the target. It is worthless on a road. It must eat — which means men, which means animals, which means water. It must sleep. And to get across a sea it has to go in a ship, and the ship is as slow and as stupid and as flammable as any other ship ever built. The mountains had one weapon, and it could not swim.
+The problem was this. A dragon is devastating at the target and worthless on a road. It must eat, which means men, animals, water. It must sleep. And to cross a sea it has to go in a ship, and the ship is as slow and as flammable as any ship ever built. The mountains had one weapon, and it could not swim.
 
 [11:00–11:30 | HAR-EP002-IMG0331–IMG0345]
 
@@ -122,7 +120,7 @@ So the war was fought at the waterline, in the least dramatic places imaginable.
 
 [11:30–12:00 | HAR-EP002-IMG0346–IMG0360]
 
-Fire does not hold a city. This is the hardness under the whole story. You can burn a place until it stops arguing, and then you have to live in the burnt place and collect from what is left, and the thing that collects is not a dragon. It is a man with a horse and a purse and a bad temper. Every empire discovers this eventually. Valyria discovered it in the second year, on a quay, in the rain.
+Fire does not hold a city. This is the hardness under the whole story. You can burn a place until it stops arguing, and then you have to live in the burnt place and collect from what is left, and the thing that collects is not a dragon. It is a man with a horse and a purse and a bad temper. Valyria discovered that on a quay, in the rain.
 
 [12:00–12:30 | HAR-EP002-IMG0361–IMG0375]
 
@@ -134,7 +132,7 @@ Our coin turns up again in a wholly unremarkable place: a jar, buried under the 
 
 [13:00–13:30 | HAR-EP002-IMG0391–IMG0405]
 
-And the third war came, and the third treaty, each one a little heavier than the last. You can feel the pattern building even at this distance: a proud city, a talent for war, a refusal to accept that the age it was built for had ended somewhere in the first afternoon of the first battle. They were not stupid. They were brave, industrious, and first-rate. And they were answering a question that had stopped being asked.
+And the third war came, and the third treaty, each one a little heavier than the last. You can feel the pattern building: a proud city, a talent for war, a refusal to accept that the age it was built for had ended in the first afternoon of the first battle. They were not stupid. They were brave, industrious and first-rate. And they were answering a question nobody was asking any more.
 
 [13:30–14:00 | HAR-EP002-IMG0406–IMG0420]
 
@@ -146,13 +144,11 @@ So the world settled into a shape that everyone hated and nobody changed. Ghis, 
 
 [14:30–15:00 | HAR-EP002-IMG0436–IMG0450]
 
-Then Ghis did the thing that the coin's buried jar had been waiting for. It stopped sending the tribute. Not with a speech. In a season, quietly, the ships simply failed to sail. And a young officer of the dragonlords, on a wall in the west, received the news in the form of a list of goods that had not arrived, and understood, before anyone told him, what the absence would mean.
-
-## Chapter IV — The long exhale
+Then Ghis did the thing the coin's buried jar had been waiting for. It stopped sending the tribute. Not with a speech. In a season, quietly, the ships failed to sail. And a young officer of the dragonlords, on a wall in the west, received the news as a list of goods that had not arrived, and understood before anyone told him what the absence meant.
 
 [15:00–15:30 | HAR-EP002-IMG0451–IMG0465]
 
-The fourth war is the short one in the telling and the long one in the living. Four years, by the count we have. Think of what four years is inside a city. A boy is apprenticed. A girl is married. A roof goes from new to needing work. A man who marched out with the second levy comes back heavier, quieter, with a limp. The war is in the household now, on every shelf.
+The fourth war is short in the telling and long in the living. Four years, by the count we have. Think what four years is inside a city. A boy is apprenticed. A girl is married. A roof goes from new to needing work. A man who marched out with the second levy comes back heavier, quieter, with a limp. The war is in the household now, on every shelf.
 
 [15:30–16:00 | HAR-EP002-IMG0466–IMG0480]
 
@@ -160,7 +156,7 @@ And in Valyria, four years of winning at sea bought something unexpected: taxes.
 
 [16:00–16:30 | HAR-EP002-IMG0481–IMG0495]
 
-The fourth settlement is the one that matters, because it did not merely forbid a thing. It removed the possibility of the thing. Ghis was given a line it could not cross and told that the crossing would be answered with a fire that would go on until the city stopped existing. It is worth noticing that the dragonlords did not do this out of cruelty alone. They did it because they were tired of coming back.
+The fourth settlement is the one that matters, because it did not merely forbid a thing. It removed the possibility of the thing. Ghis was given a line it could not cross and told the crossing would be answered with a fire that would go on until the city stopped existing. The dragonlords did not do this out of cruelty alone. They did it because they were tired of coming back.
 
 [16:30–17:00 | HAR-EP002-IMG0496–IMG0510]
 
@@ -168,7 +164,7 @@ For a while, it worked. The coast grew fat and quiet. Trade went where trade goe
 
 [17:00–17:30 | HAR-EP002-IMG0511–IMG0525]
 
-Then Old Ghis did something the treaty had not anticipated, and it is the strangest act in this whole story. It waited. It obeyed. It was obedient in the one way a proud people can be: it made the waiting itself into a kind of war. It bred a generation on the memory of the plain, and taught them that the current shape of the world was not the world, only a bad season in it.
+Then Old Ghis did something the treaty had not anticipated, and it is the strangest act in this story. It waited. It obeyed. It was obedient the one way a proud people can be: it made the waiting itself into a kind of war. It bred a generation on the memory of the plain and taught them that the shape of the world was only a bad season.
 
 [17:30–18:00 | HAR-EP002-IMG0526–IMG0540]
 
@@ -184,13 +180,11 @@ And the ordinary world went on being ordinary, which is the part the histories c
 
 [19:00–19:30 | HAR-EP002-IMG0571–IMG0585]
 
-The fifth war, when it came, was not a surprise to the men on the wall. It was a surprise to the men in the counting house. That is always the way. The people who keep the maps are the last to know that the maps are wrong. And by the time the word reached the capital, the thing was already loose, and there was no clause in any treaty that covered it.
+The fifth war, when it came, was not a surprise to the men on the wall. It was a surprise to the men in the counting house. That is always the way. The people who keep the maps are the last to know the maps are wrong. By the time the word reached the capital the thing was already loose, and no clause covered it.
 
 [19:30–20:00 | HAR-EP002-IMG0586–IMG0600]
 
-The jar under the floor on the lower city street was never opened. That is what the ash tells us. Four wars had gone past overhead by then, and the coin was still sitting in the dark with the ring and the eleven brothers, and whoever owned it did not come down, on the last day, to get it. The ash was laid on top of the floor while the jar was still closed.
-
-## Chapter V — Four times nothing
+The jar under that floor was never opened. That is what the ash tells us. Four wars had gone past overhead by then, and the coin was still sitting in the dark with the ring and the eleven brothers, and whoever owned it did not come down, on the last day, to get it. The ash was laid on top while the jar was still closed.
 
 [20:00–20:30 | HAR-EP002-IMG0601–IMG0615]
 
@@ -202,7 +196,7 @@ That is not modesty in the dragonlords. It is arithmetic. To finish Ghis utterly
 
 [21:00–21:30 | HAR-EP002-IMG0631–IMG0645]
 
-And here is a scene I would give a great deal to have watched. A Ghiscari negotiator, sometime between the third war and the fourth, crossing the water with an escort and a scroll, coming to ask for better terms. He is treated well. He is fed well. He is shown the city. And every one of those courtesies is a sentence in a language he understands: we can afford to be gracious.
+And here is a scene I would give a great deal to have watched. A Ghiscari negotiator, between the third war and the fourth, crossing the water with an escort and a scroll, coming to ask for better terms. He is treated well. He is fed well. He is shown the city. Every one of those courtesies is a sentence in a language he understands.
 
 [21:30–22:00 | HAR-EP002-IMG0646–IMG0660]
 
@@ -210,7 +204,7 @@ The scroll he carried is in no archive. But the shape of the answer is not hard 
 
 [22:00–22:30 | HAR-EP002-IMG0661–IMG0675]
 
-Then the fifth war began, and this one did not go like the others. The Ghiscari did not send a fleet to be broken. They sent everything, in one throw, at the thing the dragonlords loved. It was not clever. It was the only act left a proud people who had run out of cleverness. And for a few months — a few months that no one wrote down — it may genuinely have worked.
+Then the fifth war began, and this one did not go like the others. The Ghiscari did not send a fleet to be broken. They sent everything, in one throw, at the thing the dragonlords loved. It was not clever. It was the only act left to a proud people who had run out of cleverness. And for a few months it may genuinely have worked.
 
 [22:30–23:00 | HAR-EP002-IMG0676–IMG0690]
 
@@ -222,9 +216,7 @@ And that is where the coin comes back, because a coin in a jar under a floor is 
 
 [23:30–24:00 | HAR-EP002-IMG0706–IMG0720]
 
-Now think about what the dragonlords did with the thing they had won. They took the coast. They took the trade. They took, in the end, the people — a war of that size does not leave its captives on the ground, and there was a whole world built to receive them. The victory was complete. It was also, in a way that nobody standing there could see, ordinary. Empires had done this before.
-
-## Chapter VI — Salt, ash, and what was left
+Now think what the dragonlords did with what they had won. They took the coast. They took the trade. They took, in the end, the people, because a war of that size does not leave its captives on the ground and there was a whole world built to receive them. The victory was complete. It was also, in a way nobody standing there could see, ordinary.
 
 [24:00–24:30 | HAR-EP002-IMG0721–IMG0735]
 
@@ -232,7 +224,7 @@ The accounts say salt. Whether they sowed it or it is a word for the way a place
 
 [24:30–25:00 | HAR-EP002-IMG0736–IMG0750]
 
-But here is what no one counted on. A city is not a wall. A city is people, and people move. The survivors did not evaporate. They went down the coast, to the older towns, where the harpy was already on every coin, and they carried the thing with them that cannot be burned: the habit of being Ghiscari. The name. The food. The way a certain kind of man says a price.
+But here is what nobody counted on. A city is not a wall. A city is people, and people move. The survivors did not evaporate. They went down the coast to the older towns, where the harpy was already on every coin, and they carried the thing that cannot be burned: the habit of being Ghiscari. The name. The food. The way a certain man says a price.
 
 [25:00–25:30 | HAR-EP002-IMG0751–IMG0765]
 
@@ -252,13 +244,11 @@ Look at the shape of the thing, and then look at the shape of what came after. A
 
 [27:00–27:30 | HAR-EP002-IMG0811–IMG0825]
 
-That is the trade this film has been leading you toward, and it does not have a moral, only a fact. The thing the dragonlords destroyed outlasted them. Not in power. In memory, in custom, in the small stubborn furniture of ordinary life. The harpy was stamped on a coin to say "we are forever", and it turns out that "forever" was right, and the dragonlords were the part that did not last.
-
-## Chapter VII — The harpy looks up
+Because here is the thing that outlives every army. The dragonlords had five victories, a fleet and a century of peace, and none of it put a picture in anybody's pocket. Ghis lost everything and is still being passed from hand to hand, in the market, in the dark, without anyone knowing they are carrying it. That is not a lesson. It is just what happened.
 
 [27:30–28:00 | HAR-EP002-IMG0826–IMG0840]
 
-So let us go back down into the dark under that floor. Sometime in the last hundred years, a man with a shovel and a good ear for where floors used to be opened the ground and found a jar, and inside the jar, eleven coins and a woman's ring. He would have sold them by weight. But before he did, he would have turned one over, because you always turn it over.
+So let us go back down into that dark. In the last hundred years a man with a shovel and a good ear for where floors used to be opened the ground and found a jar, and inside it eleven coins and a woman's ring. He would have sold them by weight. But first he turned one over in his fingers, because you always do.
 
 [28:00–28:30 | HAR-EP002-IMG0841–IMG0855]
 
@@ -266,11 +256,11 @@ And there she is. Wings. A raised fist. A thunderbolt. A city that has been ash 
 
 [28:30–29:00 | HAR-EP002-IMG0856–IMG0870]
 
-That is the trade this film has been leading you toward, and it does not have a moral, only a fact. The thing the dragonlords destroyed outlasted them. Not in power. In memory, in custom, in the small stubborn furniture of ordinary life. The harpy was stamped on a coin to say we are forever. Forever turned out to be correct. The dragonlords were the part that did not last.
+There is a second part to the answer, and it is the part that makes this more than a war story. The dragonlords did not merely outfight an empire. They outlasted the idea of one, and then they spent the rest of their history becoming the thing they had beaten: certain, comfortable, and unable to imagine an end. The coin is the only witness still available.
 
 [29:00–29:30 | HAR-EP002-IMG0871–IMG0885]
 
-So let us go back down into the dark under that floor. Sometime in the last hundred years, a man with a shovel and a good ear for where floors used to be opened the ground and found a jar, and inside the jar, eleven coins and a woman's ring. He would have sold them by weight. But before he did, he would have turned one over, because you always turn it over.
+He would not have known what he was holding. The wings. The fist. The thunderbolt. To him it was weighed metal, and he had a family, and there was a buyer in the next street who paid by the grain. Somewhere in that transaction a city that had been ash for two thousand years stopped being a place and became an object.
 
 [29:30–30:00 | HAR-EP002-IMG0886–IMG0900]
 
@@ -282,11 +272,11 @@ Next, the river. Because while the dragonlords were learning what they could do 
 
 [30:30–31:00 | HAR-EP002-IMG0916–IMG0930]
 
-But before we leave the coast, one more thing about the dragonlords, because they are the ones the story is really about, whatever the coin says. They won five times. They were braver than their enemies. They were better led. And every single thing that made them win was a thing that made them, later, unable to stop. There is a kind of success that removes the machinery with which a people corrects itself.
+But before we leave the coast, one more thing about the dragonlords, because they are the ones the story is really about, whatever the coin says. They won five times. They were braver than their enemies. They were better led. And every single thing that made them win was a thing that later made them unable to stop.
 
 [31:00–31:30 | HAR-EP002-IMG0931–IMG0945]
 
-You can watch it in the way they treated the sea. They had a weapon that could not be answered, and they used it, and used it, and each use made the next one easier and the possibility of not using it harder to imagine. By the end of the century there was no dragonlord alive who had ever seen the world work any other way. That is how a civilisation loses the ability to be surprised.
+You can watch it in the way they treated the sea. They had a weapon that could not be answered, and they used it, and each use made the next easier and the possibility of not using it harder to imagine. By the end of the century no dragonlord alive had seen the world work any other way. That is how a civilisation loses the ability to be surprised.
 
 [31:30–32:00 | HAR-EP002-IMG0946–IMG0960]
 
@@ -294,11 +284,11 @@ And the surprise, when it came, did not come from Ghis, or from the Rhoyne, or f
 
 [32:00–32:30 | HAR-EP002-IMG0961–IMG0975]
 
-That is the ending of Valyria, and this film is not going to tell it, because it belongs to another one. But knowing how it ends changes the way you watch this. Every proud sentence in those brick halls, every treaty, every tribute, every coat of gold on the harpy — all of it is happening in a story that has already decided against them. They do not know. That is the whole pleasure of watching it now.
+That is the ending of Valyria, and this film is not going to tell it, because it belongs to another one. But knowing how it ends changes how you watch this. Every proud sentence in those brick halls, every treaty, every coat of gold on the harpy, is happening in a story that has already decided against them. They do not know. That is the pleasure of watching it now.
 
 [32:30–33:00 | HAR-EP002-IMG0976–IMG0990]
 
-And that is why the coin matters more than the battles we cannot read. Battles happen once. A picture in a pocket happens a thousand times a day, to people who will never hear of the war, in cities that were not built yet. That is how a world is actually carried forward. Not in the histories. In the small worn things people hand each other without looking.
+Which is why the battles we cannot read and the coin we can are not really in the same story. A battle happens once, and to a few thousand people, and then it is an argument between scholars. A coin happens every day, in the hand of a stranger who never heard of the war, in a city that did not exist when it was struck.
 
 [33:00–33:30 | HAR-EP002-IMG0991–IMG1005]
 
@@ -306,7 +296,7 @@ And what did the winner become? A peninsula. A rumour. A name that later people 
 
 [33:30–34:00 | HAR-EP002-IMG1006–IMG1020]
 
-The world did not teach Valyria anything, and if it did, it taught the wrong thing. The ability to end a city and the wisdom to have one are not the same hand, and you cannot bolt the second onto the first later. You either build it into the thing that wins, at the beginning, in the years when nobody is afraid of anything, or you spend the rest of your history finding out what you left out.
+The world did not teach Valyria anything, and if it did, it taught the wrong thing. The ability to end a city and the wisdom to have one are not the same hand, and you cannot bolt the second onto the first later. You build it into the thing that wins, at the beginning, or you spend your history finding out what you left out.
 
 [34:00–34:30 | HAR-EP002-IMG1021–IMG1035]
 
@@ -314,7 +304,7 @@ And that is the film. Five wars. One coin. A city that was certain, a people who
 
 [34:30–35:00 | HAR-EP002-IMG1036–IMG1050]
 
-So the last thing to do is put the coin back. It belongs in a drawer, or a tray, or a museum case, with a small card under it that the man turning it over will not read. The card says a place name, and a date, and that the city was destroyed. It does not say what anyone hoped. It does not have to. It is still saying it, in a raised fist and a thunderbolt, worn smooth. Next: the river.
+So the last thing to do is put the coin back. It belongs in a drawer, or a tray, or a museum case, with a small card under it that the man turning it over will not read. The card says a place name, a date, and that the city was destroyed. It does not say what anyone hoped. It is still saying it. Next: the river.
 
 ---
 
