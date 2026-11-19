@@ -32,11 +32,35 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 - Other real people from behind or far away; clergy from behind.
 - No readable writing; maps only as props without lettering.
 
+## Film: finished and delivered
+
+All 178 pictures are final (first pass B01–B18, redo zips R1 and R2; the redo list is empty). The film was rendered, levelled and uploaded in one turn.
+
+- `node film/gen.mjs N01 … N07 && node film/title.mjs && node film/end.mjs`, `bash tools/render.sh` (about 61 minutes on 2 CPUs), `bash tools/finish.sh parts`, `VB=1000k bash tools/finish.sh 720`.
+- Length **10 min 13 s** (613.0 s). Sound: one gain of +2.56 dB for the whole film, measured −14.3 LUFS, peak −1.3 dB.
+- Frames looked at from the title, every chapter and the end card: captions, source tags, chapter pictures and the end card are in place. The title sits across the rider's shoulders, below his head, and reads clearly; left as it is.
+- Rendered clips and `out/deliver/` are not in git. After a wipe they must be rendered again; the Drive copies are the deliverables.
+
+| File (Drive folder `EP15_GenghisKhan`) | Id | Length |
+|---|---|---|
+| `EP15_GenghisKhan_full_720p.mp4` (84.8 MB) | `1ZWuaNjCXx50S9E9ChxZZdG4ozfiFgGdD` | 613.0 s |
+| `EP15_1080p_01_hook_title.mp4` | `190JLfkEewVwKvR_iUzzF3NVHmzCSsbOQ` | 77.4 s |
+| `EP15_1080p_02_ch1.mp4` | `1iQt33PCrvaee3HzZAZQ_3zFdiDtrdf-n` | 93.9 s |
+| `EP15_1080p_03_ch2.mp4` | `16b3rbonGh5YMNN6rWav3uJMc27sXFEJE` | 80.4 s |
+| `EP15_1080p_04_ch3.mp4` | `1Lc2DM20DqaiD-HKZMGl3tOChs5eFEkrg` | 74.9 s |
+| `EP15_1080p_05_ch4.mp4` | `1YP7bmnIf1h0OU0pWjagxmPoAxsz4vJSK` | 74.4 s |
+| `EP15_1080p_06_ch5.mp4` | `1_n96IsDV7v0_hPnBjdsu1Zef2kkJZ55X` | 94.1 s |
+| `EP15_1080p_07_ch6_endcard.mp4` | `1eq33eDLB-MTLVTnNS-MPn5P-39fPYNDi` | 118.2 s |
+
+Known flaws left in the film: the narration is the scratch voice `voice-02`; 050 (wedding crowd in present-day festival dress), 045 (full head of hair), 016 (invented pen marks), 026 and 031 (a later-age library, kept as symbolic "sources" pictures), 092 and 093 (pen marks run across the page), 099 (later Ming-style wall), 140 (later Mughal-style fort), 175 (the statue faces the camera, tiny), 096 and 173 (the khan's beard is longer and greyer in close-ups than on the reference), 058 (a little painted).
+
 ## Open points
 
 - The script has had no native Tamil read-through; the title and the name spellings are drafts. The subtitle carries a question mark because the film answers "no, not the world".
 - **check** items in `FACT_SHEET.md`, mainly: that Temüjin punished Jamukha's betrayers first (N03 line 11, from memory only), the three Yassa rules (N04 line 9), "he could not read", Nishapur's year, Behter as the *elder* brother and Qasar's part, "for centuries nobody could enter" Burkhan Khaldun.
 - Pictures can be made only 10 per turn.
+- All faces are invented (N07 says so in the film). Nothing was read first-hand: the research is from web search extracts.
+- 042 was made from a guessed prompt; 067 shows bows laid on the grass, not kneeling chiefs (moderation block); 098 shows standing envoys.
 
 ## Drive
 
