@@ -9,15 +9,13 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 - Timings: `narration/align.json`. Two lines of N04 (q01, q02) were set by hand from the pause list, because "கீழ மேகம். கையில பூ." came out as one breath; not listened to.
 - Shot list: `shots/shots.txt` → `SHOTLIST.md`, 144 pictures (`shots/counts.json`). Looks and reference texts are in `shots/expand.py`.
 - Reference faces: `kashyapa`, `dhatusena`, `moggallana`, `migara` (`shots/CAST.md`), all invented.
-- All 144 pictures made and checked (batches B01–B15); twelve made again (R1: 098, 133; R2: 019, 032, 086, 096, 099, 105, 140, 142, 143). One left on the redo list: 038 (the R2 try failed). Film settings are done for EP16: title plates 001 → 020 → 122 in `film/title.mjs`; `HOOK_FX` for the eleven hook lines and the subscribe pop-up on N02 line 2 (the Culavamsa line) in `film/gen.mjs`; `node film/gen.mjs N01 … N07`, `title.mjs` and `end.mjs` run with no MISSING (N01 59.05, N02 77.53, N03 76.94, N04 73.45, N05 59.27, N06 63.21, N07 72.53, TITLE 12, END 17 = 511.0 s). Next, in one turn: make 038 again, pack it as R3, run the generators again, render (`tools/render.sh`, about 50 minutes), `tools/finish.sh parts`, `VB=1000k tools/finish.sh 720`, frame checks, upload.
+- All 144 pictures made and checked (batches B01–B15); thirteen made again (R1: 098, 133; R2: 019, 032, 086, 096, 099, 105, 140, 142, 143; R3: 038). The redo list is empty.
+- Film settings for EP16: title plates 001 → 020 → 122 in `film/title.mjs`; `HOOK_FX` for the eleven hook lines and the subscribe pop-up on N02 line 2 (the Culavamsa line) in `film/gen.mjs`.
+- **Film rendered, levelled and uploaded in one turn.** Render times on 2 CPUs: TITLE 79 s, N01 355, END 86, N02 467, N03 460, N04 457, N05 341, N06 375, N07 435 (about 6 s of work per film second, 51 minutes in all). `tools/finish.sh parts` (measured -16.57 LUFS, gain +2.57 dB), `VB=1350k tools/finish.sh 720` → 511.13 s (8 min 31 s), 93.1 MB, measured -14.3 LUFS, peak -1.4 dBTP. Frames checked: title, hook, chapter card, subscribe pop-up, one frame in each chapter, end card. Not listened to.
 
 ## Next
-1. Pictures 007–144 in batches of 10 per turn: `generate_image` into `google_drive/ep16_pics/raw/NNN.jpg` (prompts from `shots/prompts.json`, adjusted by hand where the look text does not fit), then
-   `tools/sheet.py a b` → look → `tools/crops.py` → `tools/pack.py a b <batch number>` → upload zip, then sheet → row below → commit and push.
-   Batch numbers must be passed to `pack.py` by hand, because B01 holds only six pictures (B02 = 007–016, B03 = 017–026, …, B15 = 137–144).
-2. Redo pass (`shots/redo.txt`).
-3. Film: `film/title.mjs` still names EP15 picture numbers for its background plates and `film/gen.mjs` still has the EP15 `HOOK_FX` list and the EP15 line for the subscribe pop-up (line 3 of N02). Both must be set for EP16 before rendering. `tools/finish.sh` needs no change (hook, title, six chapters, end card).
-4. Render, level, upload the 1080p parts and the full 720p file in one turn.
+- Nothing open in the making. Before publishing: a native read-through of the script and a listen to the narration (scratch voice `voice-02`), and the **check** items in `FACT_SHEET.md`, first of all the closing Budal quotation.
+- Known small flaws kept: 008 crown low; 009 boats in an even row; 036 embankment like a stone wall; 048 no carved marks; 053 fountain a large stone ring; 064 part of the parasol bearer's face; 078 a modern-looking rail; 092 the king looks back over the howdah; 095 dust close to smoke; 119 garden plan tidier than the real site; 143 the crown lies round the manuscript.
 
 ## Chapters
 | Clip | Chapter | Lines | Seconds | Pictures |
@@ -55,6 +53,20 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 | `EP16_Sigiriya_SHOTLIST.md` | `1qnSlIDSY8muRTxoVMIAfQNz_z-sGmbsp` |
 | `EP16_narration_scratch_voice02.zip` (N01–N08) | `1-Z9aNx1XM7sLF9JR2GkNik30lnsbyvUP` |
 | `images/EP16_cast.zip` | `1Z1KEUzJkrsxl1sRgS_C2aYa_zcl1DQ2k` |
+
+### Film (folder `EP16_Sigiriya`)
+| File | Drive id | Size, length |
+|---|---|---|
+| `EP16_Sigiriya_full_720p.mp4` | `1X8eWBMYwn_HR828ZPLxG_ne-cT4fboIV` | 93.1 MB, 511.1 s |
+| `EP16_1080p_01_hook_title.mp4` | `1rMbuYBWp1c81N0nJb19AF3ZVjMPw0oEx` | 84.1 MB, 71.1 s |
+| `EP16_1080p_02_ch1.mp4` | `1VvrJJGW1InOYfo3q4Tjn3u5k748RopJ-` | 63.8 MB, 77.6 s |
+| `EP16_1080p_03_ch2.mp4` | `1A0r2cvUEUQc9B7m0LPDC7Zz9hn6nbftf` | 95.7 MB, 77.0 s |
+| `EP16_1080p_04_ch3.mp4` | `1z-cYLPYcEDFF81b19wqKJKElC8T53-pm` | 88.9 MB, 73.5 s |
+| `EP16_1080p_05_ch4.mp4` | `1fgmwRDgnFjvQEf-ygxRM7d2oKGEqhda1` | 65.6 MB, 59.3 s |
+| `EP16_1080p_06_ch5.mp4` | `1pOg9YVQVZrmu-C6sxb_wEDaCnNSA3A2I` | 62.8 MB, 63.3 s |
+| `EP16_1080p_07_ch6_endcard.mp4` | `1c6zCT3XLEgl56DZW5dtpAx3-Sitf9trA` | 93.3 MB, 89.6 s |
+
+The seven 1080p parts join without re-encoding: `ffmpeg -f concat -safe 0 -i list.txt -c copy EP16_1080p_full.mp4`.
 
 ## Picture batches
 | Batch | Pictures | Zip id | Sheet id | Notes |
