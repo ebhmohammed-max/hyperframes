@@ -45,13 +45,16 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 | File | Id |
 |---|---|
 | `EP15_narration_scratch_voice02.zip` (N01–N08) | `1PRIHZrmmoM3zDFF2mI-El7QrWsTTBWu4` |
+| `EP15_SCRIPT_TA_v1.md` | `130yXA6nK0oljQSYMVljmPs-QXSNPauVX` |
+| `EP15_FACT_SHEET.md` | `1VKY7snINfLh2GS-IbnsXaSBnqbrUmVML` |
+| `EP15_SHOTLIST.md` | `1J54sVl7352b3Wkk1Nxiy1RNjpgnDzvue` |
 | `images/EP15_cast.zip` | `1ZdNerNVq_6LGZfChZkgrF_4QiKIVntj9` |
 
 ## Batches
 
 | Batch | Pictures | Zip id | Sheet id | Notes |
 |---|---|---|---|---|
-| (B01 open) | 001–002 made, not yet packed | | | made 19 Nov; 003–010 next |
+| B01a | 001–002 | `1APuH6LVIAT_DFe_luSsl7XZT3Dlyg4jb` | | made 19 Nov, looked at as thumbnails only; 003 onward next |
 
 ## After a full wipe of the workspace
 
