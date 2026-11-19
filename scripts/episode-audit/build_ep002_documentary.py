@@ -413,9 +413,11 @@ def main() -> None:
         gap = float(form[i + 1]["gap_seconds"])
         if gap >= 2.6:
             last = f"{sid}-p{len(plates) - 1:02d}"
+            # overwrite:auto kills the plate's own 2 s scale tween at this point, so the
+            # hold is one continuous drift instead of two tweens fighting over `scale`.
             js.append(f'  tl.set("#{last}",{{opacity:1}},{(len(plates) - 1) * PLATE:.3f});')
             js.append(f'  tl.to("#{last}-i",{{scale:1.012,duration:{(gap + PLATE):.3f},'
-                      f'ease:"none"}},{(len(plates) - 1) * PLATE:.3f});')
+                      f'ease:"none",overwrite:"auto"}},{(len(plates) - 1) * PLATE:.3f});')
             held.append({"block": i + 1, "hold_seconds": round(gap + PLATE, 2)})
 
         body.append('    <div class="grade"></div>')
@@ -429,7 +431,7 @@ def main() -> None:
         if ch:
             num, label, title, blurb = ch[0], ch[1], ch[2], ch[3]
             cid = f"{sid}-ch"
-            body.append(f'  <div id="{cid}" class="chapter"><div class="inner">'
+            body.append(f'  <div id="{cid}" class="chapter" style="opacity:0"><div class="inner">'
                         f'<p class="num">{num}</p><p class="lbl">{label}</p>'
                         f'<h1>{title}</h1><p>{blurb}</p><div class="rule"></div></div></div>')
             js.append(f'  tl.fromTo("#{cid}",{{opacity:0}},{{opacity:1,duration:.7,'
