@@ -36,7 +36,7 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 
 - The script has had no native Tamil read-through; the title and the name spellings are drafts. The subtitle carries a question mark because the film answers "no, not the world".
 - **check** items in `FACT_SHEET.md`, mainly: that Temüjin punished Jamukha's betrayers first (N03 line 11, from memory only), the three Yassa rules (N04 line 9), "he could not read", Nishapur's year, Behter as the *elder* brother and Qasar's part, "for centuries nobody could enter" Burkhan Khaldun.
-- Pictures can be made only 10 per turn; this turn the six reference pictures (with two repeats) used eight of them.
+- Pictures can be made only 10 per turn.
 
 ## Drive
 
@@ -54,7 +54,7 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 
 | Batch | Pictures | Zip id | Sheet id | Notes |
 |---|---|---|---|---|
-| B01a | 001–002 | `1APuH6LVIAT_DFe_luSsl7XZT3Dlyg4jb` | | made 19 Nov, looked at as thumbnails only; 003 onward next |
+| B01 | 001–012 | `1yqwpHF9MSrOxiuyPZ2miXKHv1LS039x4` | `1qhf97XCt5byK7XO52gQ23Ufqt-FGWusI` | 011 and 012 came with a thin black bar on top: cropped in `shots/crops.json`. An earlier zip of 001–002 only (`1APuH6LVIAT_DFe_luSsl7XZT3Dlyg4jb`) is still in the folder and can be deleted |
 
 ## After a full wipe of the workspace
 
