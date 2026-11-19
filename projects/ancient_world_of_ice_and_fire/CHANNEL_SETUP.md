@@ -204,14 +204,14 @@ The channel alternates. One hot film, one cold film, and the two long arcs are t
 **Arc A — Fire: the Freehold and its neighbours**
 **Arc B — Ice: the North and the Long Night**
 
-| #   | Title                      | Arc  | Scope                                                           | Status                  |
-| --- | -------------------------- | ---- | --------------------------------------------------------------- | ----------------------- |
-| 01  | The Rise of Old Valyria    | Fire | Shepherds → dragonlords; ends at the five wars                  | **Rendered, 35:00**     |
-| 02  | The Harpy and the Dragon   | Fire | The five Ghiscari wars, told as a war documentary               | Written, needs pictures |
-| 03  | The Wall That Wasn't There | Ice  | What the North actually built, and when the stories say it was  | Research                |
-| 04  | The Rhoyne                 | Fire | River civilisation, water magic, and the conquest that ended it | Research                |
-| 05  | The Long Night             | both | What each culture kept of it — the channel's namesake film      | Research                |
-| 06  | The Doom                   | Fire | The Fourteen Flames, one night, and the century after           | Research                |
+| #   | Title                      | Arc  | Scope                                                           | Status                          |
+| --- | -------------------------- | ---- | --------------------------------------------------------------- | ------------------------------- |
+| 01  | The Rise of Old Valyria    | Fire | Shepherds → dragonlords; ends at the five wars                  | **Rendered, 35:00**             |
+| 02  | The Harpy and the Dragon   | Fire | The five Ghiscari wars, told as a war documentary               | **Scripted 35:00, 5,168 words** |
+| 03  | The Wall That Wasn't There | Ice  | What the North actually built, and when the stories say it was  | Research                        |
+| 04  | The Rhoyne                 | Fire | River civilisation, water magic, and the conquest that ended it | Research                        |
+| 05  | The Long Night             | both | What each culture kept of it — the channel's namesake film      | Research                        |
+| 06  | The Doom                   | Fire | The Fourteen Flames, one night, and the century after           | Research                        |
 
 **Why 03 sits where it does:** it is the first cold-side film and it must arrive early,
 or the channel will be read as a Valyria channel with a northern name. It is also the
