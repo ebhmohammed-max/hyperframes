@@ -522,10 +522,100 @@
       "gap_seconds": 1.14,
       "samples": 1440000,
       "tempo": 0.84
+    },
+    {
+      "block": 59,
+      "words": 62,
+      "raw_seconds": 21.76,
+      "speech_seconds": 25.83,
+      "gap_seconds": 4.17,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 60,
+      "words": 69,
+      "raw_seconds": 23.12,
+      "speech_seconds": 27.45,
+      "gap_seconds": 2.55,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 61,
+      "words": 65,
+      "raw_seconds": 20.32,
+      "speech_seconds": 24.15,
+      "gap_seconds": 5.85,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 62,
+      "words": 58,
+      "raw_seconds": 20.3,
+      "speech_seconds": 24.09,
+      "gap_seconds": 5.91,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 63,
+      "words": 69,
+      "raw_seconds": 22.44,
+      "speech_seconds": 26.64,
+      "gap_seconds": 3.36,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 64,
+      "words": 69,
+      "raw_seconds": 21.45,
+      "speech_seconds": 25.47,
+      "gap_seconds": 4.53,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 65,
+      "words": 70,
+      "raw_seconds": 25.21,
+      "speech_seconds": 29.42,
+      "gap_seconds": 0.58,
+      "samples": 1440000,
+      "tempo": 0.8545
+    },
+    {
+      "block": 66,
+      "words": 66,
+      "raw_seconds": 20.64,
+      "speech_seconds": 24.5,
+      "gap_seconds": 5.5,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 67,
+      "words": 65,
+      "raw_seconds": 25.18,
+      "speech_seconds": 29.43,
+      "gap_seconds": 0.57,
+      "samples": 1440000,
+      "tempo": 0.8536
+    },
+    {
+      "block": 68,
+      "words": 65,
+      "raw_seconds": 20.09,
+      "speech_seconds": 23.85,
+      "gap_seconds": 6.15,
+      "samples": 1440000,
+      "tempo": 0.84
     }
   ],
-  "conformed_blocks": 58,
-  "mean_speech_seconds": 28.16,
-  "mean_gap_seconds": 1.84,
-  "max_gap_seconds": 4.94
+  "conformed_blocks": 68,
+  "mean_speech_seconds": 27.85,
+  "mean_gap_seconds": 2.15,
+  "max_gap_seconds": 6.15
 }
