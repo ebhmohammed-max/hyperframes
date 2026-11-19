@@ -60,7 +60,8 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 | B04 | 033–042 | `1bI9bd1jHFtTMNckX5Qw5gQ9ZeL-VDN4y` | `1ja9vz4jfBLjZYXXCnROUSt-tIq3sZ--_` | all kept. The Behter scene is told with a quarrel (041) and a bow left in the grass (042); no violence shown |
 | B05 | 043–052 without 044 | `1YNd2XXj8bUpPsw3fS8KWArxLZBwmecDS` | `1vLRU-N-6J5hulWYcL6V6DIMhy-pT_Lzp` | 044 failed once; made in the next turn from behind with the board as a yoke on the shoulders (`EP15_B05_images_044-044.zip`, `1kJgYIR-hDu301UPftcSlddFXNVihdRje`). 045: the head in the river has a full head of hair, not the shaved crown (seen from behind at night, kept). 050: the wedding guests wear present-day festival dress, kept for now, a candidate for the redo pass |
 | B06 | 053–061 | `1IbeT4ezV2bPfxQtY0xDvuTA_J5SyWKGk` | `1447gWsY6R4mB9gLU8zIw40RVT_Sypli-` | to redo: 054 (glass lamps), 058 and 059 (came out as drawn illustrations). The rest kept |
-| B07 | 062–071 without 067 | `1DtxItqohvZP2aBulVd4PU4XenbdwHOu7` | `1dJd9_3Hz_eY9tCwK2IY_BlPk8b_H9ZEA` | **067 was blocked by content moderation (chiefs kneeling before a rider). The shot is rewritten in `shots/shots.txt` as bows laid on the grass; make it first in the next batch.** 069 to redo (ages wrong). 071 cropped to remove a lantern at the left edge |
+| B07 | 062–071 without 067 | `1DtxItqohvZP2aBulVd4PU4XenbdwHOu7` | `1dJd9_3Hz_eY9tCwK2IY_BlPk8b_H9ZEA` | 067 was blocked by content moderation (chiefs kneeling before a rider); rewritten in `shots/shots.txt` as bows laid on the grass and made in the next turn (`EP15_B07_images_067-067.zip`, `1B0FDj66WVerhoBNomUpTzJhxm9NDC1xr`). 069 to redo (ages wrong). 071 cropped to remove a lantern at the left edge |
+| B08 | 072–080 without 078 | `13-UT3FpV4edIbfzRYIGI4Cu7uceXImRm` | `1cJFTvfRqbpwqnsKZMo5T93POuoh1y1Nc` | **078 (squad of ten riders) failed once and is missing: make it first in the next batch.** The rest kept. Chapters 1 and 2 are complete apart from the redo list |
 
 ## Picture lessons so far
 
@@ -69,6 +70,7 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 - Crowds drift to present-day festival dress (050): name plain undyed wool and felt, no brocade, no bright sashes.
 - A thin black bar on the top edge (011, 012): crop entry in `shots/crops.json`.
 - One failed call counts against the limit of 10 pictures per turn.
+- `tools/sheet.py` rebuilds `out/img` without the crops: always run `tools/crops.py` after it.
 - Kneeling captives before an armed rider get blocked (067): show laid-down weapons instead.
 - With two reference faces in one picture the ages drift (069): state each man's age and beard colour.
 
