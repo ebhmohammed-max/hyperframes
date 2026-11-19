@@ -104,11 +104,16 @@ that the name alone cannot.
 Built to serve the whole world, not one episode. The mark contains **no dragon, no
 pyramid, no person** — nothing that belongs to only one side of it.
 
-**The mark — two crescents, one night.** A cold disc and a warm disc of equal size,
-offset so their overlap is nothing. What survives is a crescent of **ice** on the left
-limb and a crescent of **fire** on the right, both opening around the same dark centre.
-It is three shapes, so it still reads at 24 px, and it says "two worlds, one night"
-without illustrating either.
+**The mark — an eclipse, rendered as 3D.** A dark planet-like sphere, its upper-left
+crusted with glacial ice and its right limb wrapped in a molten ember ring that flares
+into cinders. Cold blue key light from the left, warm rim fire from the right: the whole
+channel thesis in one object, and nothing that belongs to only one side of the world.
+It is a photographic render, not a drawn logo, so it sits beside the film's own plates.
+
+**The banner — one landscape, two climates.** A frozen ice valley on the left, volcanic
+basalt and lava on the right, meeting in a fog basin at the centre. The title is rendered
+**into** the scene as bevelled 3D lettering, lit cold on the left and hot on the right, so
+the words themselves are half ice and half fire. No flat type sits on top of it.
 
 **Palette** — locked, and already used in the films:
 
@@ -130,26 +135,24 @@ through the cut, and the words `ICE` (frost) and `FIRE` (ember) set small above 
 ends. The stacked version is the channel lockup; the single-line version is for
 end cards.
 
-**Files, all in `renders/channel_ln/`:**
+**Files — the ones to actually upload, in `renders/channel_ln/gen/`:**
 
-| file                                 | size      | use                                       |
-| ------------------------------------ | --------- | ----------------------------------------- |
-| `logo_800x800.png`                   | 800×800   | channel profile picture                   |
-| `logo_preview_sizes.png`             | —         | proof: the avatar at 98 / 64 / 40 / 24 px |
-| `banner_thelongnight_2048x1152.jpg`  | 2048×1152 | channel banner                            |
-| `banner_safe_area_check.png`         | 2048×1152 | proof: the 1546×423 safe strip drawn on   |
-| `banner_mobile_crop.jpg`             | 1235×338  | proof: what a phone actually shows        |
-| `mark_dark.png` / `mark_light.png`   | 1600×620  | lockup for dark grounds / light grounds   |
-| `thumb_ep01_rise_of_old_valyria.jpg` | 1280×720  | Episode 01 thumbnail                      |
-| `thumb_template_who_paid.jpg`        | 1280×720  | Episode 02 placeholder                    |
-| `thumb_template_missing_secret.jpg`  | 1280×720  | chapter-cutdown placeholder               |
-| `PREVIEW_thumbs_400px.png`           | —         | proof: all three at 400 px                |
+| file                            | size      | use                                     |
+| ------------------------------- | --------- | --------------------------------------- |
+| `logo_youtube_800x800.png`      | 800×800   | **channel profile picture — use this**  |
+| `banner_youtube_2048x1152.jpg`  | 2048×1152 | **channel banner — use this**           |
+| `logo_circle_98.png`            | 98×98     | proof: the avatar as YouTube masks it   |
+| `logo_youtube_sizes.png`        | —         | proof: 98 / 64 / 40 / 24 px             |
+| `banner_youtube_safe_check.png` | 2048×1152 | proof: the 1546×423 safe strip drawn on |
+| `banner_youtube_mobile.jpg`     | 1235×338  | proof: what a phone shows               |
+| `banner_youtube_tv.jpg`         | 1920×1080 | proof: what a TV shows                  |
 
-**Banner construction, so it can be rebuilt:** a frozen valley at night on the left
-(plate `0049`), a fire mountain at dusk on the right (plate `0176`), both reduced to
-weather, meeting at a hairline seam down the centre. Neither is a scene — no figure, no
-monument — so the banner does not tie the channel to Episode 01. All type sits inside
-the central 1546×423 strip, and the mobile crop keeps the full lockup.
+Both are regenerated and conformed by `scripts/episode-audit/conform_3d_art.py`, which
+crops the raw renders to YouTube's exact specs and writes the proofs.
+
+**Banner check:** all type sits inside the central 1546×423 strip, and the mobile crop
+(1235×338) keeps the whole title plus the `ICE` / `FIRE` labels. The banner carries no
+figure, monument or prop, so it does not tie the channel to Episode 01.
 
 ---
 
@@ -376,5 +379,9 @@ and Fire". All of it is now dead:
 - `renders/channel/` — old banner, avatar, three thumbnails, trio preview.
 - Google Drive folder **"Channel art - Ancient World of Ice and Fire"**
   (`1QuKBtMvI6i6HgAGRJZpDyVZ9vphHisYb`) — six files uploaded under the old name.
+
+A second, drawn version of the identity — flat vector crescents and a composited banner
+from Episode 01 plates — also existed briefly. **The user rejected it: the channel art is
+3D cinematic renders, not code-drawn artwork.** The drawn sets are kept only as a record.
 
 Kept only as a record of what was tried. Do not upload any of it.
