@@ -34,8 +34,8 @@ RATE = 48000
 SLOT_SAMPLES = 30 * RATE
 
 # Episode 01 delivered reference
-EP01_ARTICULATION = 161.5
-EP01_PAUSE_SHARE = 0.168
+EP01_ARTICULATION = 165.3   # raw Ep01 takes, same silencedetect method as here
+EP01_PAUSE_SHARE = 0.156
 TARGET_SPEECH = 28.8
 FACTOR_MIN, FACTOR_MAX = 0.82, 1.00     # never stretch faster than natural, never slower than 18 %
 ARTICULATION_TOLERANCE = 0.15
