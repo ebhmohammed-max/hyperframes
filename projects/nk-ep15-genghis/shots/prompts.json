@@ -1,0 +1,1926 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "funeral_cart_steppe",
+  "look": "N",
+  "file": "EP15_001_N01q00_funeral_cart_steppe.jpg",
+  "prompt": "Wide view of a silent funeral procession crossing the empty steppe: an ox-drawn cart covered in white felt, escorted by riders carrying horsehair standards, seen from far away. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "riderless_horse",
+  "look": "N",
+  "file": "EP15_002_N01q00_riderless_horse.jpg",
+  "prompt": "A saddled horse with no rider led by its reins behind a felt-covered funeral cart, seen from behind. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "trampled_track_empty",
+  "look": "N",
+  "file": "EP15_003_N01q01_trampled_track_empty.jpg",
+  "prompt": "A broad track of hoof prints and cart ruts across the misty grassland after a procession has passed, a herdsman's wooden staff lying forgotten in the grass, no people. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "unmarked_grass_dawn",
+  "look": "N",
+  "file": "EP15_004_N01q02_unmarked_grass_dawn.jpg",
+  "prompt": "A wide stretch of plain grassland with nothing at all to mark it, low mist, dark forested mountains far behind, no people. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 2,
+  "k": 1,
+  "name": "forest_ridges_cloud",
+  "look": "T",
+  "file": "EP15_005_N01q02_forest_ridges_cloud.jpg",
+  "prompt": "Forested mountain ridges under drifting cloud with a river winding through the valley below, no people. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "blank_silk_frame",
+  "look": "X",
+  "file": "EP15_006_N01q03_blank_silk_frame.jpg",
+  "prompt": "A blank sheet of old yellowed silk stretched on a wooden frame, ink brushes and an ink stone beside it, nothing painted on the silk, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "ruler_silhouette_back",
+  "look": "R",
+  "file": "EP15_007_N01q03_ruler_silhouette_back.jpg",
+  "prompt": "A broad-shouldered ruler on horseback seen from behind as a dark silhouette against a bright sky, his face not visible. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "inland_sea_west",
+  "look": "O",
+  "file": "EP15_008_N01q04_inland_sea_west.jpg",
+  "prompt": "The reedy shore of a vast calm inland sea at sunset, dry steppe coast, a few riders as tiny far figures on the beach, early 13th century, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "ocean_coast_east",
+  "look": "O",
+  "file": "EP15_009_N01q04_ocean_coast_east.jpg",
+  "prompt": "A rocky coast with wind-bent pine trees facing an open grey sea at sunrise, a few riders as tiny far figures on the cliff top, early 13th century, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "khan_on_throne",
+  "look": "R",
+  "file": "EP15_010_N01q05_khan_on_throne.jpg",
+  "prompt": "The khan seated on a low wooden throne inside a great felt tent, looking straight ahead, standards behind him. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "boy_alone_steppe",
+  "look": "S",
+  "file": "EP15_011_N01q06_boy_alone_steppe.jpg",
+  "prompt": "A boy of about nine standing alone on the open steppe with wind in the grass, one small worn ger far behind him. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 6,
+  "k": 1,
+  "name": "clan_moving_away",
+  "look": "S",
+  "file": "EP15_012_N01q06_clan_moving_away.jpg",
+  "prompt": "A long line of carts, herds and riders moving away across the steppe, leaving a single small ger behind in the foreground, seen from far. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 6,
+  "k": 2,
+  "name": "boy_digging_roots",
+  "look": "S",
+  "file": "EP15_013_N01q06_boy_digging_roots.jpg",
+  "prompt": "A boy of about nine kneeling on a river bank digging up wild roots with a pointed wooden stick. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "boy_faces_horizon",
+  "look": "S",
+  "file": "EP15_014_N01q07_boy_faces_horizon.jpg",
+  "prompt": "A boy of about nine seen from behind, standing on a low rise and looking at an endless horizon under a huge sky. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 8,
+  "k": 0,
+  "name": "smoke_over_city_far",
+  "look": "C",
+  "file": "EP15_015_N01q08_smoke_over_city_far.jpg",
+  "prompt": "A walled city far away on a plain with thin columns of smoke rising above it, a few riders as small dark shapes on a ridge in the foreground. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 8,
+  "k": 1,
+  "name": "hand_writing_law",
+  "look": "X",
+  "file": "EP15_016_N01q08_hand_writing_law.jpg",
+  "prompt": "A hand with a reed pen writing vertical lines of illegible script on paper by lamp light, a carved seal beside it. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "riders_to_horizon",
+  "look": "R",
+  "file": "EP15_017_N01q09_riders_to_horizon.jpg",
+  "prompt": "A column of riders stretching all the way to the horizon across a vast plain, seen from a hill. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "blank_map_horsemen",
+  "look": "X",
+  "file": "EP15_018_N01q09_blank_map_horsemen.jpg",
+  "prompt": "An old parchment map with only faint coastlines and no lettering, a few small carved wooden horse figures standing on it, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N01",
+  "q": 10,
+  "k": 0,
+  "name": "book_left_scroll_right",
+  "look": "X",
+  "file": "EP15_019_N01q10_book_left_scroll_right.jpg",
+  "prompt": "On a dark wooden table, an old thread-bound chronicle on the left and a rolled painted story scroll on the right, a clear empty gap between them, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N01",
+  "q": 10,
+  "k": 1,
+  "name": "hands_keep_apart",
+  "look": "X",
+  "file": "EP15_020_N01q10_hands_keep_apart.jpg",
+  "prompt": "Two hands seen from above keeping an old thread-bound book on one side of a dark table and a rolled scroll on the other. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N01",
+  "q": 11,
+  "k": 0,
+  "name": "khan_faces_mountain",
+  "look": "R",
+  "file": "EP15_021_N01q11_khan_faces_mountain.jpg",
+  "prompt": "The khan standing on a hillside, seen in three-quarter view from behind, looking toward a dark forested mountain in the distance. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 22,
+  "clip": "N01",
+  "q": 11,
+  "k": 1,
+  "name": "hoofprints_bare_earth",
+  "look": "N",
+  "file": "EP15_022_N01q11_hoofprints_bare_earth.jpg",
+  "prompt": "A patch of bare earth in the grassland covered all over with hoof prints, mist drifting over it, no people. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "onon_valley_wide",
+  "look": "S",
+  "file": "EP15_023_N02q00_onon_valley_wide.jpg",
+  "prompt": "Wide view of a river winding through a green steppe valley, a small camp of white felt gers on its bank, morning light, people tiny and far. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N02",
+  "q": 0,
+  "k": 1,
+  "name": "newborn_by_hearth",
+  "look": "S",
+  "file": "EP15_024_N02q00_newborn_by_hearth.jpg",
+  "prompt": "Inside a ger, the mother holding a newborn wrapped in fur beside the hearth fire, warm firelight. The mother is the same woman as in the reference picture: same strong lined face, hair bound under a plain felt cap, grey-green deel robe. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "hoelun"
+  ]
+ },
+ {
+  "n": 25,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "three_tally_sticks",
+  "look": "X",
+  "file": "EP15_025_N02q01_three_tally_sticks.jpg",
+  "prompt": "Three old wooden tally sticks of different lengths with different numbers of notches, laid side by side on dark felt, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "three_chronicles_open",
+  "look": "X",
+  "file": "EP15_026_N02q01_three_chronicles_open.jpg",
+  "prompt": "Three old chronicles lying open side by side, each from a different land, a bound paper book, a manuscript with painted borders and a long scroll, all writing faint and illegible, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "chief_back_hawk",
+  "look": "S",
+  "file": "EP15_027_N02q02_chief_back_hawk.jpg",
+  "prompt": "A Mongol clan chief in a fur-trimmed hat on horseback, seen from behind with a hunting falcon on his wrist, looking down at his camp. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "mother_at_ger_door",
+  "look": "S",
+  "file": "EP15_028_N02q02_mother_at_ger_door.jpg",
+  "prompt": "The mother standing at the door of a ger holding her baby wrapped in fur, looking out over the steppe. The mother is the same woman as in the reference picture: same strong lined face, hair bound under a plain felt cap, grey-green deel robe. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "hoelun"
+  ]
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "old_bound_book",
+  "look": "X",
+  "file": "EP15_029_N02q03_old_bound_book.jpg",
+  "prompt": "One old thread-bound book with a plain dark cover lying on dark felt in lamp light, no title on it, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "mongol_scribe_back",
+  "look": "O",
+  "file": "EP15_030_N02q03_mongol_scribe_back.jpg",
+  "prompt": "Inside a felt ger in the 13th century, a Mongol scribe seen from behind writing vertical lines of illegible script with a brush by lamp light. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 3,
+  "k": 2,
+  "name": "pages_two_piles",
+  "look": "X",
+  "file": "EP15_031_N02q03_pages_two_piles.jpg",
+  "prompt": "Loose old manuscript pages with faint illegible vertical script being sorted into two separate piles on a dark table, one hand placing a page. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "baby_fist_close",
+  "look": "S",
+  "file": "EP15_032_N02q04_baby_fist_close.jpg",
+  "prompt": "Close view of a newborn's tiny closed fist resting in a mother's hand, warm firelight, nothing else in the picture. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "elders_at_door",
+  "look": "S",
+  "file": "EP15_033_N02q04_elders_at_door.jpg",
+  "prompt": "A few old men and women of the camp gathered at the door of a ger and looking in, seen from behind. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "father_son_riding",
+  "look": "S",
+  "file": "EP15_034_N02q05_father_son_riding.jpg",
+  "prompt": "A boy of about nine riding a small horse beside his father across the steppe toward a distant camp, the father seen from behind. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 35,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "boy_meets_girl",
+  "look": "S",
+  "file": "EP15_035_N02q05_boy_meets_girl.jpg",
+  "prompt": "A boy of about nine standing shyly facing a girl of about ten in a red deel robe in front of a ger, two fathers seen from behind beside them. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 36,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "bowl_offered_fire",
+  "look": "S",
+  "file": "EP15_036_N02q06_bowl_offered_fire.jpg",
+  "prompt": "A stranger's hands offering a wooden bowl of food across a camp fire on the steppe at dusk, the guest seen from behind. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "rider_slumped_home",
+  "look": "S",
+  "file": "EP15_037_N02q06_rider_slumped_home.jpg",
+  "prompt": "A lone rider slumped forward in the saddle, riding slowly across the empty steppe at dusk, seen from far behind. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "family_left_behind",
+  "look": "S",
+  "file": "EP15_038_N02q07_family_left_behind.jpg",
+  "prompt": "The mother and several small children standing beside one ger, watching the carts and herds of their clan leave across the steppe. The mother is the same woman as in the reference picture: same strong lined face, hair bound under a plain felt cap, grey-green deel robe. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "hoelun"
+  ]
+ },
+ {
+  "n": 39,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "mother_gathering",
+  "look": "S",
+  "file": "EP15_039_N02q08_mother_gathering.jpg",
+  "prompt": "The mother gathering wild berries and roots into a leather bag with a pointed digging stick in her hand, small children helping her, a river behind. The mother is the same woman as in the reference picture: same strong lined face, hair bound under a plain felt cap, grey-green deel robe. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "hoelun"
+  ]
+ },
+ {
+  "n": 40,
+  "clip": "N02",
+  "q": 8,
+  "k": 1,
+  "name": "boys_fishing",
+  "look": "S",
+  "file": "EP15_040_N02q08_boys_fishing.jpg",
+  "prompt": "A boy of about eleven and a smaller brother fishing with a line and a bent hook from a grassy river bank. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 41,
+  "clip": "N02",
+  "q": 9,
+  "k": 0,
+  "name": "brothers_quarrel",
+  "look": "S",
+  "file": "EP15_041_N02q09_brothers_quarrel.jpg",
+  "prompt": "A boy of about thirteen facing an older, taller boy in anger on a river bank, a small fish on the grass between them, the older boy seen from behind. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 42,
+  "clip": "N02",
+  "q": 9,
+  "k": 1,
+  "name": "bow_left_in_grass",
+  "look": "S",
+  "file": "EP15_042_N02q09_bow_left_in_grass.jpg",
+  "prompt": "A boy's small bow lying in the grass on a bare hillside under a grey sky, a lone small figure walking away far off, nobody hurt in the picture. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N02",
+  "q": 9,
+  "k": 2,
+  "name": "mother_scolds_son",
+  "look": "S",
+  "file": "EP15_043_N02q09_mother_scolds_son.jpg",
+  "prompt": "Inside a ger, the mother speaking sternly with one hand raised to her son of about thirteen, who stands with his head lowered. The mother is the same woman as in the reference picture: same strong lined face, hair bound under a plain felt cap, grey-green deel robe. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "hoelun",
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 44,
+  "clip": "N02",
+  "q": 10,
+  "k": 0,
+  "name": "captive_wooden_collar",
+  "look": "S",
+  "file": "EP15_044_N02q10_captive_wooden_collar.jpg",
+  "prompt": "A youth of about fifteen held captive in a strange camp, a heavy flat wooden board locked around his neck and wrists, a guard seen from behind beside him. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 45,
+  "clip": "N02",
+  "q": 11,
+  "k": 0,
+  "name": "hiding_in_river",
+  "look": "N",
+  "file": "EP15_045_N02q11_hiding_in_river.jpg",
+  "prompt": "A youth hiding in a dark river at night, only the flat wooden board around his neck and the top of his head above the water among the reeds, torches of searchers far away on the bank. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 46,
+  "clip": "N02",
+  "q": 11,
+  "k": 1,
+  "name": "herdsman_torch_bank",
+  "look": "N",
+  "file": "EP15_046_N02q11_herdsman_torch_bank.jpg",
+  "prompt": "An older herdsman with a torch on a river bank at night, turning his head away from the water as if he has seen nothing, seen from the side and behind. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N02",
+  "q": 11,
+  "k": 2,
+  "name": "hidden_in_ger_wool",
+  "look": "S",
+  "file": "EP15_047_N02q11_hidden_in_ger_wool.jpg",
+  "prompt": "Inside a ger, a youth hiding behind heaped raw sheep's wool and stacked felt, only one hand and a little of his face visible in the shadow. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 48,
+  "clip": "N02",
+  "q": 12,
+  "k": 0,
+  "name": "forearms_clasped",
+  "look": "S",
+  "file": "EP15_048_N02q12_forearms_clasped.jpg",
+  "prompt": "Two hands clasping each other's forearms in thanks, a ger and a tethered horse soft in the background. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N02",
+  "q": 12,
+  "k": 1,
+  "name": "young_man_rides_off",
+  "look": "S",
+  "file": "EP15_049_N02q12_young_man_rides_off.jpg",
+  "prompt": "The young man riding away across the steppe at dawn, looking back over his shoulder. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 50,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "wedding_before_ger",
+  "look": "S",
+  "file": "EP15_050_N03q00_wedding_before_ger.jpg",
+  "prompt": "The young man and his bride standing side by side before a ger on their wedding day, kinsfolk seen from behind around them. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The young woman is the same woman as in the reference picture: same calm round face, long black braids, deep red deel robe with blue trim. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin",
+   "borte"
+  ]
+ },
+ {
+  "n": 51,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "raid_at_dawn",
+  "look": "S",
+  "file": "EP15_051_N03q01_raid_at_dawn.jpg",
+  "prompt": "Riders galloping toward a small camp of gers at dawn with dust rising, people running far away, nobody shown being hurt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "bride_taken_cart",
+  "look": "S",
+  "file": "EP15_052_N03q01_bride_taken_cart.jpg",
+  "prompt": "The young woman looking back from a moving ox cart with strange riders around it, the riders seen from behind. The young woman is the same woman as in the reference picture: same calm round face, long black braids, deep red deel robe with blue trim. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "borte"
+  ]
+ },
+ {
+  "n": 53,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "alone_above_camp",
+  "look": "S",
+  "file": "EP15_053_N03q02_alone_above_camp.jpg",
+  "prompt": "The young man alone on a forested mountainside looking down at an emptied camp on the plain below. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 54,
+  "clip": "N03",
+  "q": 2,
+  "k": 1,
+  "name": "asking_old_khan",
+  "look": "S",
+  "file": "EP15_054_N03q02_asking_old_khan.jpg",
+  "prompt": "The young man kneeling on one knee and speaking to an older khan seated in a rich felt tent, the older khan seen from behind. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 55,
+  "clip": "N03",
+  "q": 2,
+  "k": 2,
+  "name": "rival_before_riders",
+  "look": "S",
+  "file": "EP15_055_N03q02_rival_before_riders.jpg",
+  "prompt": "The rival chief as a young man standing in front of his mounted followers with his arms folded, sure of himself. The rival chief is the same man as in the reference picture: same lean sharp face, short black beard, black fur hat, dark brown deel robe with a silver belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "jamukha"
+  ]
+ },
+ {
+  "n": 56,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "two_boys_on_ice",
+  "look": "S",
+  "file": "EP15_056_N03q03_two_boys_on_ice.jpg",
+  "prompt": "Two boys of about eleven exchanging small gifts on the ice of a frozen river in winter, seen from the side, faces small. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "sworn_brothers_clasp",
+  "look": "S",
+  "file": "EP15_057_N03q03_sworn_brothers_clasp.jpg",
+  "prompt": "The young man and the rival chief, both young, clasping each other's forearms as sworn brothers, facing each other. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The rival chief is the same man as in the reference picture: same lean sharp face, short black beard, black fur hat, dark brown deel robe with a silver belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin",
+   "jamukha"
+  ]
+ },
+ {
+  "n": 58,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "night_ride_valley",
+  "look": "R",
+  "file": "EP15_058_N03q04_night_ride_valley.jpg",
+  "prompt": "A great force of riders sweeping down a forested valley at night toward distant camp fires. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "found_in_moonlight",
+  "look": "N",
+  "file": "EP15_059_N03q04_found_in_moonlight.jpg",
+  "prompt": "The young man and the young woman finding each other in moonlight among running people and carts, holding each other's arms, their two faces lit. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The young woman is the same woman as in the reference picture: same calm round face, long black braids, deep red deel robe with blue trim. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin",
+   "borte"
+  ]
+ },
+ {
+  "n": 60,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "column_splits_two",
+  "look": "S",
+  "file": "EP15_060_N03q05_column_splits_two.jpg",
+  "prompt": "Seen from high above at dawn, one long line of carts and herds dividing into two columns that move apart across the steppe. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "rival_on_ridge",
+  "look": "S",
+  "file": "EP15_061_N03q05_rival_on_ridge.jpg",
+  "prompt": "The rival chief on horseback on a ridge, watching something far away with a hard face. The rival chief is the same man as in the reference picture: same lean sharp face, short black beard, black fur hat, dark brown deel robe with a silver belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "jamukha"
+  ]
+ },
+ {
+  "n": 62,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "two_hosts_dust",
+  "look": "R",
+  "file": "EP15_062_N03q06_two_hosts_dust.jpg",
+  "prompt": "Two large bodies of riders charging toward each other across the steppe in a great cloud of dust, seen from far away. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "retreat_into_gorge",
+  "look": "R",
+  "file": "EP15_063_N03q06_retreat_into_gorge.jpg",
+  "prompt": "The young man leading a few tired riders into a narrow rocky gorge, looking back over his shoulder. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 64,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "snow_single_track",
+  "look": "S",
+  "file": "EP15_064_N03q07_snow_single_track.jpg",
+  "prompt": "The empty steppe under snow with a single line of hoof prints leading away to the horizon, no people. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "return_with_riders",
+  "look": "R",
+  "file": "EP15_065_N03q07_return_with_riders.jpg",
+  "prompt": "The same man, now in his thirties with a weathered face, riding at the head of a column of riders with a horsehair standard. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 66,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "four_standards_row",
+  "look": "R",
+  "file": "EP15_066_N03q08_four_standards_row.jpg",
+  "prompt": "Four different captured horsehair standards planted in the ground in a row before a great camp of gers, no people. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "chiefs_lay_down_bows",
+  "look": "R",
+  "file": "EP15_067_N03q08_chiefs_lay_down_bows.jpg",
+  "prompt": "Chiefs of a defeated tribe kneeling and laying their bows on the grass before a mounted leader who is seen from behind. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N03",
+  "q": 9,
+  "k": 0,
+  "name": "rival_led_bound",
+  "look": "S",
+  "file": "EP15_068_N03q09_rival_led_bound.jpg",
+  "prompt": "The rival chief, older, with his wrists bound, led on foot by five of his own men toward a great camp. The rival chief is the same man as in the reference picture: same lean sharp face, short black beard, black fur hat, dark brown deel robe with a silver belt. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "jamukha"
+  ]
+ },
+ {
+  "n": 69,
+  "clip": "N03",
+  "q": 9,
+  "k": 1,
+  "name": "rival_before_leader",
+  "look": "R",
+  "file": "EP15_069_N03q09_rival_before_leader.jpg",
+  "prompt": "Inside a great tent, the rival chief standing with bound wrists before the seated leader, who is the man from the first reference picture. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The rival chief is the same man as in the reference picture: same lean sharp face, short black beard, black fur hat, dark brown deel robe with a silver belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin",
+   "jamukha"
+  ]
+ },
+ {
+  "n": 70,
+  "clip": "N03",
+  "q": 10,
+  "k": 0,
+  "name": "five_men_led_away",
+  "look": "R",
+  "file": "EP15_070_N03q10_five_men_led_away.jpg",
+  "prompt": "Five men being led away from a great tent by guards, all seen from behind, no violence shown. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N03",
+  "q": 10,
+  "k": 1,
+  "name": "leader_stern_close",
+  "look": "R",
+  "file": "EP15_071_N03q10_leader_stern_close.jpg",
+  "prompt": "Close view of the leader's stern face, now a man in his forties, in the warm light of a tent. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 72,
+  "clip": "N03",
+  "q": 11,
+  "k": 0,
+  "name": "last_talk_two_cups",
+  "look": "R",
+  "file": "EP15_072_N03q11_last_talk_two_cups.jpg",
+  "prompt": "The leader and the rival chief seated facing each other in a quiet tent, a low table with two cups between them. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The rival chief is the same man as in the reference picture: same lean sharp face, short black beard, black fur hat, dark brown deel robe with a silver belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin",
+   "jamukha"
+  ]
+ },
+ {
+  "n": 73,
+  "clip": "N03",
+  "q": 11,
+  "k": 1,
+  "name": "sash_on_cairn",
+  "look": "N",
+  "file": "EP15_073_N03q11_sash_on_cairn.jpg",
+  "prompt": "A folded sash and a leather belt laid on a small stone cairn on a hilltop, wind in the grass, no people. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N03",
+  "q": 12,
+  "k": 0,
+  "name": "great_assembly_river",
+  "look": "R",
+  "file": "EP15_074_N03q12_great_assembly_river.jpg",
+  "prompt": "Seen from above, a vast gathering of thousands of people and horses beside a river on the steppe, a great white felt tent in the centre and a tall white standard of nine horse-tails. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N03",
+  "q": 12,
+  "k": 1,
+  "name": "khan_proclaimed",
+  "look": "R",
+  "file": "EP15_075_N03q12_khan_proclaimed.jpg",
+  "prompt": "The khan standing before the tall white standard of nine horse-tails while chiefs bow their heads around him. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 76,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "khan_alone_lamp",
+  "look": "R",
+  "file": "EP15_076_N04q00_khan_alone_lamp.jpg",
+  "prompt": "The khan seated alone in his tent at night beside a single lamp, deep in thought. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 77,
+  "clip": "N04",
+  "q": 0,
+  "k": 1,
+  "name": "ordered_camp_dawn",
+  "look": "R",
+  "file": "EP15_077_N04q00_ordered_camp_dawn.jpg",
+  "prompt": "Seen from above at dawn, a huge camp of white gers laid out in straight orderly rows on the steppe. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "squad_of_ten",
+  "look": "R",
+  "file": "EP15_078_N04q01_squad_of_ten.jpg",
+  "prompt": "A single squad of ten riders standing in one line abreast on the grass, seen from the front and a little above. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 79,
+  "clip": "N04",
+  "q": 1,
+  "k": 1,
+  "name": "army_in_blocks",
+  "look": "R",
+  "file": "EP15_079_N04q01_army_in_blocks.jpg",
+  "prompt": "A vast army drawn up in neat square blocks of riders across a plain, seen from a hill. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "mixed_squad_fire",
+  "look": "R",
+  "file": "EP15_080_N04q02_mixed_squad_fire.jpg",
+  "prompt": "Men from different tribes, with different hats and gear, sharing one camp fire and one cooking pot at dusk. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "old_standards_aside",
+  "look": "X",
+  "file": "EP15_081_N04q02_old_standards_aside.jpg",
+  "prompt": "Several different old horsehair standards leaning unused against a felt wall, one tall white standard standing upright in front of them, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "herdsman_raised",
+  "look": "R",
+  "file": "EP15_082_N04q03_herdsman_raised.jpg",
+  "prompt": "The khan handing a horsehair standard to a plainly dressed young herdsman who kneels before him, other commanders watching. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 83,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "archer_on_ridge",
+  "look": "R",
+  "file": "EP15_083_N04q04_archer_on_ridge.jpg",
+  "prompt": "An archer in dark clothes drawing a composite bow on a ridge, seen from behind, riders in dust on the plain far below. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 84,
+  "clip": "N04",
+  "q": 4,
+  "k": 1,
+  "name": "horse_stumbles_dust",
+  "look": "R",
+  "file": "EP15_084_N04q04_horse_stumbles_dust.jpg",
+  "prompt": "Seen from far away, a pale horse stumbling in a cloud of dust while its rider leaps clear, no wound shown. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "leader_asks_captives",
+  "look": "R",
+  "file": "EP15_085_N04q05_leader_asks_captives.jpg",
+  "prompt": "The leader, a man in his forties, standing before a line of captured warriors with one hand raised as he asks them a question. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 86,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "one_steps_forward",
+  "look": "R",
+  "file": "EP15_086_N04q05_one_steps_forward.jpg",
+  "prompt": "One lean young warrior in dark clothes stepping forward out of a line of captives with his head held up and a hand on his chest. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "arrow_held_out",
+  "look": "R",
+  "file": "EP15_087_N04q06_arrow_held_out.jpg",
+  "prompt": "The leader, a man in his forties, holding out a single arrow to a lean young warrior in dark clothes who is seen from behind. The young man is the same man as in the reference picture: same face, black hair in braided loops behind the ears, thin moustache, dark blue deel robe with a leather belt. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin"
+  ]
+ },
+ {
+  "n": 88,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "new_rider_mounts",
+  "look": "R",
+  "file": "EP15_088_N04q06_new_rider_mounts.jpg",
+  "prompt": "A lean young warrior, now in leather lamellar armour, mounting his horse among other riders. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 89,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "general_on_pass",
+  "look": "R",
+  "file": "EP15_089_N04q07_general_on_pass.jpg",
+  "prompt": "A lean commander in fine lamellar armour at the head of a long column of riders on a high mountain pass, seen from the side and far enough that his face is small. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "khan_speaks_chiefs",
+  "look": "R",
+  "file": "EP15_090_N04q08_khan_speaks_chiefs.jpg",
+  "prompt": "The khan speaking with one hand raised to chiefs seated in a wide circle on the grass, a scribe seated at his side. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 91,
+  "clip": "N04",
+  "q": 8,
+  "k": 1,
+  "name": "doe_and_fawn_spring",
+  "look": "S",
+  "file": "EP15_091_N04q08_doe_and_fawn_spring.jpg",
+  "prompt": "A doe and her fawn grazing on the spring steppe while two hunters with unstrung bows ride past far away. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "uyghur_scribe_writes",
+  "look": "O",
+  "file": "EP15_092_N04q09_uyghur_scribe_writes.jpg",
+  "prompt": "Inside a felt tent in the early 13th century, a scribe in a tall cap and long robe seated at a low table writing vertical lines of illegible script with a reed pen, a Mongol ruler watching him, seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 93,
+  "clip": "N04",
+  "q": 9,
+  "k": 1,
+  "name": "boys_learn_letters",
+  "look": "O",
+  "file": "EP15_093_N04q09_boys_learn_letters.jpg",
+  "prompt": "Inside a felt tent in the early 13th century, Mongol boys seated on felt mats copying vertical lines of illegible script onto wooden boards, their teacher in a tall cap seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N04",
+  "q": 10,
+  "k": 0,
+  "name": "three_clergy_back",
+  "look": "O",
+  "file": "EP15_094_N04q10_three_clergy_back.jpg",
+  "prompt": "A Buddhist monk in a robe, a Christian priest of the eastern church with a plain cross and a Muslim scholar in a turban standing side by side before a great felt tent on the steppe, all three seen from behind, early 13th century. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N04",
+  "q": 10,
+  "k": 1,
+  "name": "three_shrines_near",
+  "look": "O",
+  "file": "EP15_095_N04q10_three_shrines_near.jpg",
+  "prompt": "In a small steppe town of the 13th century, a small Buddhist temple, a small church with a plain cross and a small mosque with a low dome standing near one another, quiet morning, people tiny. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N04",
+  "q": 11,
+  "k": 0,
+  "name": "khan_half_in_shadow",
+  "look": "R",
+  "file": "EP15_096_N04q11_khan_half_in_shadow.jpg",
+  "prompt": "Close portrait of the khan, half of his face lit warm by firelight and the other half in deep shadow. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 97,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "desert_city_riders",
+  "look": "O",
+  "file": "EP15_097_N05q00_desert_city_riders.jpg",
+  "prompt": "Early 13th century, riders approaching the mud-brick walls of a city at the edge of a desert, a pagoda rising behind the walls and bare mountains beyond, nobody shown being hurt. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N05",
+  "q": 0,
+  "k": 1,
+  "name": "tribute_camels_kneel",
+  "look": "O",
+  "file": "EP15_098_N05q00_tribute_camels_kneel.jpg",
+  "prompt": "Early 13th century, envoys in long robes kneeling with camels and bolts of cloth as tribute before a mounted Mongol ruler who is seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N05",
+  "q": 0,
+  "k": 2,
+  "name": "pass_frontier_wall",
+  "look": "J",
+  "file": "EP15_099_N05q00_pass_frontier_wall.jpg",
+  "prompt": "Mongol riders streaming through a mountain pass below an old rammed-earth frontier wall and a watch tower. Northern China in the early 13th century, grey brick city walls with timber gate towers and curved tiled roofs, dry winter hills, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "capital_walls_siege",
+  "look": "J",
+  "file": "EP15_100_N05q01_capital_walls_siege.jpg",
+  "prompt": "The huge grey brick walls and gate towers of a great northern Chinese capital with a besieging camp of felt gers spread before it, thin smoke. Northern China in the early 13th century, grey brick city walls with timber gate towers and curved tiled roofs, dry winter hills, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N05",
+  "q": 1,
+  "k": 1,
+  "name": "gate_stands_open",
+  "look": "J",
+  "file": "EP15_101_N05q01_gate_stands_open.jpg",
+  "prompt": "A great city gate standing open with a column of riders entering, seen from far behind. Northern China in the early 13th century, grey brick city walls with timber gate towers and curved tiled roofs, dry winter hills, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "rich_city_wide",
+  "look": "C",
+  "file": "EP15_102_N05q02_rich_city_wide.jpg",
+  "prompt": "Wide view of a rich city in its living days, turquoise domes, minarets, gardens and canals, caravans arriving along the road. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "covered_bazaar",
+  "look": "C",
+  "file": "EP15_103_N05q02_covered_bazaar.jpg",
+  "prompt": "A crowded covered bazaar lane with silk, spices and metalwork on the stalls. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "goods_on_carpet",
+  "look": "X",
+  "file": "EP15_104_N05q03_goods_on_carpet.jpg",
+  "prompt": "Gold and silver ingots, dark sable furs and rolls of silk laid out on a carpet beside a merchant's hand scale, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 105,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "camel_caravan_road",
+  "look": "C",
+  "file": "EP15_105_N05q04_camel_caravan_road.jpg",
+  "prompt": "A very long caravan of loaded camels and merchants crossing a dry plain toward a walled city on a river. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 106,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "caravan_at_gate",
+  "look": "C",
+  "file": "EP15_106_N05q04_caravan_at_gate.jpg",
+  "prompt": "A caravan of camels and merchants arriving before the gate of a mud-brick city, guards looking down from the wall. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 107,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "governor_points_down",
+  "look": "C",
+  "file": "EP15_107_N05q05_governor_points_down.jpg",
+  "prompt": "A governor in a rich robe and turban on a citadel balcony, seen from behind, pointing down at a caravan in the courtyard below while guards wait beside him. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 108,
+  "clip": "N05",
+  "q": 5,
+  "k": 1,
+  "name": "bales_carried_off",
+  "look": "C",
+  "file": "EP15_108_N05q05_bales_carried_off.jpg",
+  "prompt": "Soldiers carrying bales and chests away from a courtyard where camels kneel, the merchants nowhere to be seen, no violence shown. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 109,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "three_envoys_ride",
+  "look": "R",
+  "file": "EP15_109_N05q06_three_envoys_ride.jpg",
+  "prompt": "Three envoys riding across a dry plain toward a distant city, one in a turban and long robe and two in Mongol fur hats. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 110,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "envoys_in_hall",
+  "look": "C",
+  "file": "EP15_110_N05q06_envoys_in_hall.jpg",
+  "prompt": "Three envoys standing in a grand tiled audience hall before a far throne, the ruler on the throne tiny and without a visible face under a canopy. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "ruler_waves_away",
+  "look": "C",
+  "file": "EP15_111_N05q07_ruler_waves_away.jpg",
+  "prompt": "A ruler on a throne seen from behind raising one hand in dismissal while guards step forward in a tiled hall, no violence shown. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N05",
+  "q": 7,
+  "k": 1,
+  "name": "two_return_alone",
+  "look": "R",
+  "file": "EP15_112_N05q07_two_return_alone.jpg",
+  "prompt": "Two Mongol envoys with freshly shaven chins riding back across a dry plain with their heads lowered, a third horse without a rider beside them. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "torn_letter_seal",
+  "look": "X",
+  "file": "EP15_113_N05q08_torn_letter_seal.jpg",
+  "prompt": "A torn letter with illegible writing and a broken wax seal lying on a dark carpet, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "army_through_pass",
+  "look": "R",
+  "file": "EP15_114_N05q09_army_through_pass.jpg",
+  "prompt": "An immense army with thousands of spare horses moving westward through a wide mountain pass. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N05",
+  "q": 9,
+  "k": 1,
+  "name": "khan_at_the_head",
+  "look": "R",
+  "file": "EP15_115_N05q09_khan_at_the_head.jpg",
+  "prompt": "The khan riding at the head of his army. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 116,
+  "clip": "N05",
+  "q": 10,
+  "k": 0,
+  "name": "city_under_siege",
+  "look": "C",
+  "file": "EP15_116_N05q10_city_under_siege.jpg",
+  "prompt": "A mud-brick walled city under siege seen from far away, camps and wooden stone-throwing engines around it, thin smoke. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N05",
+  "q": 10,
+  "k": 1,
+  "name": "great_city_approach",
+  "look": "C",
+  "file": "EP15_117_N05q10_great_city_approach.jpg",
+  "prompt": "A great city of turquoise domes seen across a hazy plain while a long column of riders moves toward it. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N05",
+  "q": 11,
+  "k": 0,
+  "name": "flight_to_the_sea",
+  "look": "C",
+  "file": "EP15_118_N05q11_flight_to_the_sea.jpg",
+  "prompt": "A small group of riders fleeing across pale salt flats toward a sea shore, seen from far behind. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N05",
+  "q": 11,
+  "k": 1,
+  "name": "bare_island_tent",
+  "look": "O",
+  "file": "EP15_119_N05q11_bare_island_tent.jpg",
+  "prompt": "A small bare island in a grey inland sea with one small boat drawn up on the beach and a single plain tent, early 13th century, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N05",
+  "q": 12,
+  "k": 0,
+  "name": "silk_bale_broken_gate",
+  "look": "X",
+  "file": "EP15_120_N05q12_silk_bale_broken_gate.jpg",
+  "prompt": "A single torn bale of silk lying in the dust before the broken gate of an empty mud-brick city, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "khan_against_red_sky",
+  "look": "R",
+  "file": "EP15_121_N06q00_khan_against_red_sky.jpg",
+  "prompt": "The khan on horseback on a hill at dusk, a dark figure against a red sky, a walled city on the plain far below. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 122,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "elders_bring_keys",
+  "look": "C",
+  "file": "EP15_122_N06q01_elders_bring_keys.jpg",
+  "prompt": "City elders walking out through an open gate carrying keys and gifts toward waiting riders. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "gates_shut_engines",
+  "look": "C",
+  "file": "EP15_123_N06q01_gates_shut_engines.jpg",
+  "prompt": "A city with its gates shut and defenders small on the walls, wooden siege engines being hauled up in front. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "rider_ahead_next_city",
+  "look": "C",
+  "file": "EP15_124_N06q02_rider_ahead_next_city.jpg",
+  "prompt": "A single rider galloping toward the next city while people watch from its walls. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N06",
+  "q": 2,
+  "k": 1,
+  "name": "keys_on_tray",
+  "look": "X",
+  "file": "EP15_125_N06q02_keys_on_tray.jpg",
+  "prompt": "A ring of large iron city keys on a brass tray held out by two hands. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "oasis_city_sunrise",
+  "look": "C",
+  "file": "EP15_126_N06q03_oasis_city_sunrise.jpg",
+  "prompt": "A great oasis city in its living days at sunrise, immense mud-brick walls, domes and a library courtyard, people small. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "city_below_snow_peaks",
+  "look": "C",
+  "file": "EP15_127_N06q03_city_below_snow_peaks.jpg",
+  "prompt": "A rich city with gardens and potters' workshops below snow-capped mountains in its living days, people small. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 128,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "chronicler_at_desk",
+  "look": "C",
+  "file": "EP15_128_N06q04_chronicler_at_desk.jpg",
+  "prompt": "A chronicler in a turban seen from behind, writing at a low desk by a window with piles of manuscripts around him. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets, people in long robes and turbans with faces small or turned away, dusty warm light, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 129,
+  "clip": "N06",
+  "q": 4,
+  "k": 1,
+  "name": "silent_street_smoke",
+  "look": "C",
+  "file": "EP15_129_N06q04_silent_street_smoke.jpg",
+  "prompt": "An empty street in a silent mud-brick city, doors standing open, a few belongings in the dust, smoke in the sky, no people. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 130,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "historian_hands_today",
+  "look": "O",
+  "file": "EP15_130_N06q05_historian_hands_today.jpg",
+  "prompt": "Present day, a historian's hands turning the pages of an old manuscript facsimile on a library desk beside a pencil and a notebook, all writing illegible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 131,
+  "clip": "N06",
+  "q": 5,
+  "k": 1,
+  "name": "mudbrick_ruins_today",
+  "look": "O",
+  "file": "EP15_131_N06q05_mudbrick_ruins_today.jpg",
+  "prompt": "Present day, the eroded mud-brick ruins of an ancient city wall in a desert at sunset, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 132,
+  "clip": "N06",
+  "q": 5,
+  "k": 2,
+  "name": "dry_canal_fields",
+  "look": "C",
+  "file": "EP15_132_N06q05_dry_canal_fields.jpg",
+  "prompt": "Abandoned fields and a dry irrigation canal outside ruined mud-brick walls, no people. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 133,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "chase_to_great_river",
+  "look": "R",
+  "file": "EP15_133_N06q06_chase_to_great_river.jpg",
+  "prompt": "Mongol riders pursuing a small band of horsemen toward a very wide river between high banks. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 134,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "rider_leaps_river",
+  "look": "O",
+  "file": "EP15_134_N06q06_rider_leaps_river.jpg",
+  "prompt": "Early 13th century, a lone rider on horseback leaping from a high bank into a very wide river, seen from far behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 135,
+  "clip": "N06",
+  "q": 6,
+  "k": 2,
+  "name": "khan_at_river_bank",
+  "look": "R",
+  "file": "EP15_135_N06q06_khan_at_river_bank.jpg",
+  "prompt": "The khan on horseback at the bank of a very wide river, looking across the water at the far shore. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 136,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "two_generals_ride",
+  "look": "R",
+  "file": "EP15_136_N06q07_two_generals_ride.jpg",
+  "prompt": "Two Mongol commanders riding side by side at the head of a column, one lean and one broad, seen from the side with small faces. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 137,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "snow_pass_crossing",
+  "look": "R",
+  "file": "EP15_137_N06q07_snow_pass_crossing.jpg",
+  "prompt": "A column of riders crossing a snowy pass between high rocky mountains. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 138,
+  "clip": "N06",
+  "q": 7,
+  "k": 2,
+  "name": "two_hosts_at_river",
+  "look": "R",
+  "file": "EP15_138_N06q07_two_hosts_at_river.jpg",
+  "prompt": "A river in the grassy steppe before a battle, Mongol riders on the near bank and a large host of horsemen with tall pointed shields and conical helmets on the far bank. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 139,
+  "clip": "N06",
+  "q": 8,
+  "k": 0,
+  "name": "khan_profile_height",
+  "look": "R",
+  "file": "EP15_139_N06q08_khan_profile_height.jpg",
+  "prompt": "The khan in profile looking out over a vast plain from a height. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 140,
+  "clip": "N06",
+  "q": 9,
+  "k": 0,
+  "name": "indian_fort_city",
+  "look": "O",
+  "file": "EP15_140_N06q09_indian_fort_city.jpg",
+  "prompt": "Early 13th century, a north Indian fort city of sandstone walls and domes beyond a wide river, peaceful in morning light, seen from across the water, people tiny. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 141,
+  "clip": "N06",
+  "q": 9,
+  "k": 1,
+  "name": "european_walled_town",
+  "look": "O",
+  "file": "EP15_141_N06q09_european_walled_town.jpg",
+  "prompt": "Early 13th century, a walled town in western Europe with a stone church tower and timber houses among green fields, peaceful, people tiny. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 142,
+  "clip": "N06",
+  "q": 9,
+  "k": 2,
+  "name": "south_china_town",
+  "look": "O",
+  "file": "EP15_142_N06q09_south_china_town.jpg",
+  "prompt": "Early 13th century, a walled town of southern China with curved tiled roofs among rice terraces and misty green hills, peaceful, people tiny. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 143,
+  "clip": "N06",
+  "q": 10,
+  "k": 0,
+  "name": "four_princes_back",
+  "look": "R",
+  "file": "EP15_143_N06q10_four_princes_back.jpg",
+  "prompt": "Four Mongol princes standing before a great tent, seen from behind, looking toward the horizon. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 144,
+  "clip": "N06",
+  "q": 10,
+  "k": 1,
+  "name": "post_rider_long_road",
+  "look": "O",
+  "file": "EP15_144_N06q10_post_rider_long_road.jpg",
+  "prompt": "Later 13th century, a Mongol post rider galloping past a camel caravan on a long road across grassland, a small relay station with fresh horses ahead. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 145,
+  "clip": "N06",
+  "q": 11,
+  "k": 0,
+  "name": "brush_redraws_map",
+  "look": "X",
+  "file": "EP15_145_N06q11_brush_redraws_map.jpg",
+  "prompt": "A hand with a brush drawing a new line across an old parchment map that has only faint coastlines and no lettering. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 146,
+  "clip": "N06",
+  "q": 11,
+  "k": 1,
+  "name": "khan_small_vast_land",
+  "look": "R",
+  "file": "EP15_146_N06q11_khan_small_vast_land.jpg",
+  "prompt": "The khan as a small figure on horseback on a ridge with an immense landscape of plains and rivers below at sunrise. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 147,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "old_khan_last_ride",
+  "look": "R",
+  "file": "EP15_147_N07q00_old_khan_last_ride.jpg",
+  "prompt": "The khan, now old and greyer and wrapped in furs, riding slowly with his army past desert dunes toward a distant walled city. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 148,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "great_tent_night_guards",
+  "look": "N",
+  "file": "EP15_148_N07q00_great_tent_night_guards.jpg",
+  "prompt": "The khan's great white tent at night with guards standing still outside and a single lamp glowing within. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 149,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "empty_saddle_dusk",
+  "look": "N",
+  "file": "EP15_149_N07q01_empty_saddle_dusk.jpg",
+  "prompt": "A saddled horse standing alone with an empty saddle in the grass, no people. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 150,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "healer_bowl_furs",
+  "look": "N",
+  "file": "EP15_150_N07q01_healer_bowl_furs.jpg",
+  "prompt": "Inside a tent, a healer's bowl, dried herbs and a folded cloth beside a low bed covered with furs, the bed's occupant not shown. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 151,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "cart_at_river_ford",
+  "look": "N",
+  "file": "EP15_151_N07q02_cart_at_river_ford.jpg",
+  "prompt": "An ox-drawn cart covered in white felt crossing a shallow river ford with a mounted escort, seen from far. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 152,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "thin_line_to_mountains",
+  "look": "N",
+  "file": "EP15_152_N07q02_thin_line_to_mountains.jpg",
+  "prompt": "A funeral procession seen as a thin dark line moving across the steppe toward forested mountains. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 153,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "herd_driven_over_ground",
+  "look": "N",
+  "file": "EP15_153_N07q03_herd_driven_over_ground.jpg",
+  "prompt": "A great herd of horses being driven back and forth over one patch of ground, dust rising, herdsmen as far small figures. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 154,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "river_being_turned",
+  "look": "N",
+  "file": "EP15_154_N07q03_river_being_turned.jpg",
+  "prompt": "Men with wooden spades digging a channel to turn a small river across a meadow, seen from far. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 155,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "later_writer_candle",
+  "look": "O",
+  "file": "EP15_155_N07q04_later_writer_candle.jpg",
+  "prompt": "A writer of a much later century in a faraway land, seen from behind, writing by candle light while a traveller beside him tells a tale, all writing illegible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 156,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "chronicles_under_lens",
+  "look": "X",
+  "file": "EP15_156_N07q04_chronicles_under_lens.jpg",
+  "prompt": "Pages from several different old chronicles laid side by side on a table under a glass lens, all writing faint and illegible, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 157,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "grass_no_marker",
+  "look": "T",
+  "file": "EP15_157_N07q05_grass_no_marker.jpg",
+  "prompt": "Plain open grass moving in the wind with no stone and no mark of any kind, forested hills behind, no people. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 158,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "riders_leave_forest",
+  "look": "N",
+  "file": "EP15_158_N07q05_riders_leave_forest.jpg",
+  "prompt": "A small group of riders leaving a clearing in a forest without looking back, seen from behind. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 159,
+  "clip": "N07",
+  "q": 5,
+  "k": 2,
+  "name": "other_tomb_broken_open",
+  "look": "O",
+  "file": "EP15_159_N07q05_other_tomb_broken_open.jpg",
+  "prompt": "An ancient stone tomb chamber of some other forgotten ruler in a desert, broken open long ago and empty, sand drifting in, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 160,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "sacred_mountain_cairn",
+  "look": "T",
+  "file": "EP15_160_N07q06_sacred_mountain_cairn.jpg",
+  "prompt": "A broad forested sacred mountain rising above river valleys, a stone cairn hung with blue silk scarves in the foreground, no people. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 161,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "old_guards_forest_edge",
+  "look": "N",
+  "file": "EP15_161_N07q06_old_guards_forest_edge.jpg",
+  "prompt": "Mounted guards of an old century keeping watch at the edge of a forested valley. The Mongolian steppe of the 13th century at dusk or before dawn, low mist, cold blue light with a little torch glow, the mood of a legend, nobody shown being hurt, no blood, no bodies, faces not visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 162,
+  "clip": "N07",
+  "q": 6,
+  "k": 2,
+  "name": "untouched_valley",
+  "look": "T",
+  "file": "EP15_162_N07q06_untouched_valley.jpg",
+  "prompt": "An untouched river valley among forested mountains, no people. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 163,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "herder_back_mountain",
+  "look": "T",
+  "file": "EP15_163_N07q07_herder_back_mountain.jpg",
+  "prompt": "A present-day Mongolian herder in a deel robe on horseback, seen from behind, looking toward a forested mountain. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 164,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "scarf_on_cairn_hands",
+  "look": "T",
+  "file": "EP15_164_N07q07_scarf_on_cairn_hands.jpg",
+  "prompt": "Two hands tying a blue silk scarf onto a stone cairn. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 165,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "lab_bench_tubes",
+  "look": "O",
+  "file": "EP15_165_N07q08_lab_bench_tubes.jpg",
+  "prompt": "Present day, a genetics laboratory bench with racks of small sample tubes and a gloved hand holding one, no logos, no readable writing. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 166,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "crowd_from_above",
+  "look": "O",
+  "file": "EP15_166_N07q08_crowd_from_above.jpg",
+  "prompt": "Present day, a large crowd of men walking in a Central Asian city square, seen from high above and behind so that no face is visible, no readable writing. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 167,
+  "clip": "N07",
+  "q": 8,
+  "k": 2,
+  "name": "helix_and_horseman",
+  "look": "X",
+  "file": "EP15_167_N07q08_helix_and_horseman.jpg",
+  "prompt": "A glass model of a double helix on a dark table beside a small old bronze figure of a horseman, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 168,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "one_empty_tube",
+  "look": "X",
+  "file": "EP15_168_N07q09_one_empty_tube.jpg",
+  "prompt": "A rack of glass sample tubes in which one tube stands empty among full ones, no labels, no people. Dark room, a single shaft of light on dark felt and old wood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 169,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "researchers_screen_back",
+  "look": "O",
+  "file": "EP15_169_N07q09_researchers_screen_back.jpg",
+  "prompt": "Present day, two researchers seen from behind looking at a screen that shows only abstract coloured bands, no readable writing. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 170,
+  "clip": "N07",
+  "q": 9,
+  "k": 2,
+  "name": "older_nomads_ride",
+  "look": "O",
+  "file": "EP15_170_N07q09_older_nomads_ride.jpg",
+  "prompt": "Horse nomads of a far earlier age, long before the 13th century, riding across the steppe in felt caps and simple tunics, seen from far. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 171,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "silk_portrait_in_case",
+  "look": "O",
+  "file": "EP15_171_N07q10_silk_portrait_in_case.jpg",
+  "prompt": "Present day, an old silk album leaf with a painted portrait of a ruler in a pale robe and pale cap lying in a dim museum case, seen at a steep angle and softly out of focus so that the face cannot be made out, no readable writing. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 172,
+  "clip": "N07",
+  "q": 10,
+  "k": 1,
+  "name": "court_painter_back",
+  "look": "O",
+  "file": "EP15_172_N07q10_court_painter_back.jpg",
+  "prompt": "Late 13th century China, a court painter seen from behind painting a ruler's portrait on silk while a very old man seated beside him describes the face from memory. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 173,
+  "clip": "N07",
+  "q": 10,
+  "k": 2,
+  "name": "khan_face_in_mist",
+  "look": "R",
+  "file": "EP15_173_N07q10_khan_face_in_mist.jpg",
+  "prompt": "The khan's face seen through drifting mist so that half of it dissolves into the grey. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ },
+ {
+  "n": 174,
+  "clip": "N07",
+  "q": 11,
+  "k": 0,
+  "name": "ruined_walls_dusk",
+  "look": "C",
+  "file": "EP15_174_N07q11_ruined_walls_dusk.jpg",
+  "prompt": "The ruined walls of an empty city at dusk, no people. Central Asia in the early 13th century, mud-brick city walls, turquoise glazed domes, tall brick minarets. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 175,
+  "clip": "N07",
+  "q": 11,
+  "k": 1,
+  "name": "family_before_statue",
+  "look": "T",
+  "file": "EP15_175_N07q11_family_before_statue.jpg",
+  "prompt": "A present-day Mongolian family seen from behind, looking up at a very large modern statue of a horseman far away on the steppe, the statue seen from behind. Present-day north-eastern Mongolia, forested mountain ridges, river valleys and open grassland, soft daylight, no roads, no wires, no signboards, any people seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 176,
+  "clip": "N07",
+  "q": 12,
+  "k": 0,
+  "name": "boy_back_sunrise",
+  "look": "S",
+  "file": "EP15_176_N07q12_boy_back_sunrise.jpg",
+  "prompt": "A boy of about nine seen from behind, alone on the steppe, facing the sunrise. The boy is the same boy as in the reference picture: same face, head shaved on top with a short forelock and two small braided loops by the ears, plain worn brown deel robe tied with a cord. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light, people in Mongol dress of that age, long wrap-over deel robes tied with sashes, felt boots, fur-trimmed hats, men with their hair in braided loops behind the ears, faces small or turned away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temujin_boy"
+  ]
+ },
+ {
+  "n": 177,
+  "clip": "N07",
+  "q": 12,
+  "k": 1,
+  "name": "hoofprints_to_horizon",
+  "look": "S",
+  "file": "EP15_177_N07q12_hoofprints_to_horizon.jpg",
+  "prompt": "A line of hoof prints leading to the horizon across endless grass at sunrise, no people. The Mongolian steppe in the late 12th century, wide rolling grassland under a huge sky, round white felt gers, small sturdy horses, soft natural light. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 178,
+  "clip": "N07",
+  "q": 13,
+  "k": 0,
+  "name": "khan_looks_at_viewer",
+  "look": "R",
+  "file": "EP15_178_N07q13_khan_looks_at_viewer.jpg",
+  "prompt": "The khan on horseback looking calmly straight at the viewer, steppe and horsehair standards behind him in golden light. The khan is the same man as in the reference picture: same broad weathered face, long moustache and pointed beard streaked with grey, hair in braided loops behind the ears, white fur-trimmed hat, cream deel robe with a dark fur collar. The Mongol world of the early 13th century, riders on small sturdy steppe horses, leather lamellar armour, fur-trimmed helmets, composite bows and quivers, horsehair standards, wide open land, nobody shown being hurt, no blood, no bodies. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "khan"
+  ]
+ }
+]

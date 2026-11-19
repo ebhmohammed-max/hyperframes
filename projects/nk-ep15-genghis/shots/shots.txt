@@ -1,0 +1,180 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# No blood, no bodies, nobody shown being hurt. Genghis Khan's face is invented (refs temujin_boy, temujin, khan). Other real people from behind or far away. No readable writing.
+N01|0|funeral_cart_steppe|N|wide view of a silent funeral procession crossing the empty steppe: an ox-drawn cart covered in white felt, escorted by riders carrying horsehair standards, seen from far away
+N01|0|riderless_horse|N|a saddled horse with no rider led by its reins behind a felt-covered funeral cart, seen from behind
+N01|1|trampled_track_empty|N|a broad track of hoof prints and cart ruts across the misty grassland after a procession has passed, a herdsman's wooden staff lying forgotten in the grass, no people
+N01|2|unmarked_grass_dawn|N|a wide stretch of plain grassland with nothing at all to mark it, low mist, dark forested mountains far behind, no people
+N01|2|forest_ridges_cloud|T|forested mountain ridges under drifting cloud with a river winding through the valley below, no people
+N01|3|blank_silk_frame|X|a blank sheet of old yellowed silk stretched on a wooden frame, ink brushes and an ink stone beside it, nothing painted on the silk, no people
+N01|3|ruler_silhouette_back|R|a broad-shouldered ruler on horseback seen from behind as a dark silhouette against a bright sky, his face not visible
+N01|4|inland_sea_west|O|the reedy shore of a vast calm inland sea at sunset, dry steppe coast, a few riders as tiny far figures on the beach, early 13th century, no blood, no bodies
+N01|4|ocean_coast_east|O|a rocky coast with wind-bent pine trees facing an open grey sea at sunrise, a few riders as tiny far figures on the cliff top, early 13th century, no blood, no bodies
+N01|5|khan_on_throne|R@khan|the khan seated on a low wooden throne inside a great felt tent, looking straight ahead, standards behind him
+N01|6|boy_alone_steppe|S@temujin_boy|a boy of about nine standing alone on the open steppe with wind in the grass, one small worn ger far behind him
+N01|6|clan_moving_away|S|a long line of carts, herds and riders moving away across the steppe, leaving a single small ger behind in the foreground, seen from far
+N01|6|boy_digging_roots|S@temujin_boy|a boy of about nine kneeling on a river bank digging up wild roots with a pointed wooden stick
+N01|7|boy_faces_horizon|S@temujin_boy|a boy of about nine seen from behind, standing on a low rise and looking at an endless horizon under a huge sky
+N01|8|smoke_over_city_far|C|a walled city far away on a plain with thin columns of smoke rising above it, a few riders as small dark shapes on a ridge in the foreground
+N01|8|hand_writing_law|X|a hand with a reed pen writing vertical lines of illegible script on paper by lamp light, a carved seal beside it
+N01|9|riders_to_horizon|R|a column of riders stretching all the way to the horizon across a vast plain, seen from a hill
+N01|9|blank_map_horsemen|X|an old parchment map with only faint coastlines and no lettering, a few small carved wooden horse figures standing on it, no people
+N01|10|book_left_scroll_right|X|on a dark wooden table, an old thread-bound chronicle on the left and a rolled painted story scroll on the right, a clear empty gap between them, no people
+N01|10|hands_keep_apart|X|two hands seen from above keeping an old thread-bound book on one side of a dark table and a rolled scroll on the other
+N01|11|khan_faces_mountain|R@khan|the khan standing on a hillside, seen in three-quarter view from behind, looking toward a dark forested mountain in the distance
+N01|11|hoofprints_bare_earth|N|a patch of bare earth in the grassland covered all over with hoof prints, mist drifting over it, no people
+N02|0|onon_valley_wide|S|wide view of a river winding through a green steppe valley, a small camp of white felt gers on its bank, morning light, people tiny and far
+N02|0|newborn_by_hearth|S@hoelun|inside a ger, the mother holding a newborn wrapped in fur beside the hearth fire, warm firelight
+N02|1|three_tally_sticks|X|three old wooden tally sticks of different lengths with different numbers of notches, laid side by side on dark felt, no people
+N02|1|three_chronicles_open|X|three old chronicles lying open side by side, each from a different land, a bound paper book, a manuscript with painted borders and a long scroll, all writing faint and illegible, no people
+N02|2|chief_back_hawk|S|a Mongol clan chief in a fur-trimmed hat on horseback, seen from behind with a hunting falcon on his wrist, looking down at his camp
+N02|2|mother_at_ger_door|S@hoelun|the mother standing at the door of a ger holding her baby wrapped in fur, looking out over the steppe
+N02|3|old_bound_book|X|one old thread-bound book with a plain dark cover lying on dark felt in lamp light, no title on it, no people
+N02|3|mongol_scribe_back|O|inside a felt ger in the 13th century, a Mongol scribe seen from behind writing vertical lines of illegible script with a brush by lamp light
+N02|3|pages_two_piles|X|loose old manuscript pages with faint illegible vertical script being sorted into two separate piles on a dark table, one hand placing a page
+N02|4|baby_fist_close|S|close view of a newborn's tiny closed fist resting in a mother's hand, warm firelight, nothing else in the picture
+N02|4|elders_at_door|S|a few old men and women of the camp gathered at the door of a ger and looking in, seen from behind
+N02|5|father_son_riding|S@temujin_boy|a boy of about nine riding a small horse beside his father across the steppe toward a distant camp, the father seen from behind
+N02|5|boy_meets_girl|S@temujin_boy|a boy of about nine standing shyly facing a girl of about ten in a red deel robe in front of a ger, two fathers seen from behind beside them
+N02|6|bowl_offered_fire|S|a stranger's hands offering a wooden bowl of food across a camp fire on the steppe at dusk, the guest seen from behind
+N02|6|rider_slumped_home|S|a lone rider slumped forward in the saddle, riding slowly across the empty steppe at dusk, seen from far behind
+N02|7|family_left_behind|S@hoelun|the mother and several small children standing beside one ger, watching the carts and herds of their clan leave across the steppe
+N02|8|mother_gathering|S@hoelun|the mother gathering wild berries and roots into a leather bag with a pointed digging stick in her hand, small children helping her, a river behind
+N02|8|boys_fishing|S@temujin_boy|a boy of about eleven and a smaller brother fishing with a line and a bent hook from a grassy river bank
+N02|9|brothers_quarrel|S@temujin_boy|a boy of about thirteen facing an older, taller boy in anger on a river bank, a small fish on the grass between them, the older boy seen from behind
+N02|9|bow_left_in_grass|S|a boy's small bow lying in the grass on a bare hillside under a grey sky, a lone small figure walking away far off, nobody hurt in the picture
+N02|9|mother_scolds_son|S@hoelun,temujin_boy|inside a ger, the mother speaking sternly with one hand raised to her son of about thirteen, who stands with his head lowered
+N02|10|captive_wooden_collar|S@temujin_boy|a youth of about fifteen held captive in a strange camp, a heavy flat wooden board locked around his neck and wrists, a guard seen from behind beside him
+N02|11|hiding_in_river|N|a youth hiding in a dark river at night, only the flat wooden board around his neck and the top of his head above the water among the reeds, torches of searchers far away on the bank
+N02|11|herdsman_torch_bank|N|an older herdsman with a torch on a river bank at night, turning his head away from the water as if he has seen nothing, seen from the side and behind
+N02|11|hidden_in_ger_wool|S|inside a ger, a youth hiding behind heaped raw sheep's wool and stacked felt, only one hand and a little of his face visible in the shadow
+N02|12|forearms_clasped|S|two hands clasping each other's forearms in thanks, a ger and a tethered horse soft in the background
+N02|12|young_man_rides_off|S@temujin|the young man riding away across the steppe at dawn, looking back over his shoulder
+N03|0|wedding_before_ger|S@temujin,borte|the young man and his bride standing side by side before a ger on their wedding day, kinsfolk seen from behind around them
+N03|1|raid_at_dawn|S|riders galloping toward a small camp of gers at dawn with dust rising, people running far away, nobody shown being hurt
+N03|1|bride_taken_cart|S@borte|the young woman looking back from a moving ox cart with strange riders around it, the riders seen from behind
+N03|2|alone_above_camp|S@temujin|the young man alone on a forested mountainside looking down at an emptied camp on the plain below
+N03|2|asking_old_khan|S@temujin|the young man kneeling on one knee and speaking to an older khan seated in a rich felt tent, the older khan seen from behind
+N03|2|rival_before_riders|S@jamukha|the rival chief as a young man standing in front of his mounted followers with his arms folded, sure of himself
+N03|3|two_boys_on_ice|S|two boys of about eleven exchanging small gifts on the ice of a frozen river in winter, seen from the side, faces small
+N03|3|sworn_brothers_clasp|S@temujin,jamukha|the young man and the rival chief, both young, clasping each other's forearms as sworn brothers, facing each other
+N03|4|night_ride_valley|R|a great force of riders sweeping down a forested valley at night toward distant camp fires
+N03|4|found_in_moonlight|N@temujin,borte|the young man and the young woman finding each other in moonlight among running people and carts, holding each other's arms, their two faces lit
+N03|5|column_splits_two|S|seen from high above at dawn, one long line of carts and herds dividing into two columns that move apart across the steppe
+N03|5|rival_on_ridge|S@jamukha|the rival chief on horseback on a ridge, watching something far away with a hard face
+N03|6|two_hosts_dust|R|two large bodies of riders charging toward each other across the steppe in a great cloud of dust, seen from far away
+N03|6|retreat_into_gorge|R@temujin|the young man leading a few tired riders into a narrow rocky gorge, looking back over his shoulder
+N03|7|snow_single_track|S|the empty steppe under snow with a single line of hoof prints leading away to the horizon, no people
+N03|7|return_with_riders|R@temujin|the same man, now in his thirties with a weathered face, riding at the head of a column of riders with a horsehair standard
+N03|8|four_standards_row|R|four different captured horsehair standards planted in the ground in a row before a great camp of gers, no people
+N03|8|chiefs_lay_down_bows|R|chiefs of a defeated tribe kneeling and laying their bows on the grass before a mounted leader who is seen from behind
+N03|9|rival_led_bound|S@jamukha|the rival chief, older, with his wrists bound, led on foot by five of his own men toward a great camp
+N03|9|rival_before_leader|R@temujin,jamukha|inside a great tent, the rival chief standing with bound wrists before the seated leader, who is the man from the first reference picture
+N03|10|five_men_led_away|R|five men being led away from a great tent by guards, all seen from behind, no violence shown
+N03|10|leader_stern_close|R@temujin|close view of the leader's stern face, now a man in his forties, in the warm light of a tent
+N03|11|last_talk_two_cups|R@temujin,jamukha|the leader and the rival chief seated facing each other in a quiet tent, a low table with two cups between them
+N03|11|sash_on_cairn|N|a folded sash and a leather belt laid on a small stone cairn on a hilltop, wind in the grass, no people
+N03|12|great_assembly_river|R|seen from above, a vast gathering of thousands of people and horses beside a river on the steppe, a great white felt tent in the centre and a tall white standard of nine horse-tails
+N03|12|khan_proclaimed|R@khan|the khan standing before the tall white standard of nine horse-tails while chiefs bow their heads around him
+N04|0|khan_alone_lamp|R@khan|the khan seated alone in his tent at night beside a single lamp, deep in thought
+N04|0|ordered_camp_dawn|R|seen from above at dawn, a huge camp of white gers laid out in straight orderly rows on the steppe
+N04|1|squad_of_ten|R|a single squad of ten riders standing in one line abreast on the grass, seen from the front and a little above
+N04|1|army_in_blocks|R|a vast army drawn up in neat square blocks of riders across a plain, seen from a hill
+N04|2|mixed_squad_fire|R|men from different tribes, with different hats and gear, sharing one camp fire and one cooking pot at dusk
+N04|2|old_standards_aside|X|several different old horsehair standards leaning unused against a felt wall, one tall white standard standing upright in front of them, no people
+N04|3|herdsman_raised|R@khan|the khan handing a horsehair standard to a plainly dressed young herdsman who kneels before him, other commanders watching
+N04|4|archer_on_ridge|R|an archer in dark clothes drawing a composite bow on a ridge, seen from behind, riders in dust on the plain far below
+N04|4|horse_stumbles_dust|R|seen from far away, a pale horse stumbling in a cloud of dust while its rider leaps clear, no wound shown
+N04|5|leader_asks_captives|R@temujin|the leader, a man in his forties, standing before a line of captured warriors with one hand raised as he asks them a question
+N04|5|one_steps_forward|R|one lean young warrior in dark clothes stepping forward out of a line of captives with his head held up and a hand on his chest
+N04|6|arrow_held_out|R@temujin|the leader, a man in his forties, holding out a single arrow to a lean young warrior in dark clothes who is seen from behind
+N04|6|new_rider_mounts|R|a lean young warrior, now in leather lamellar armour, mounting his horse among other riders
+N04|7|general_on_pass|R|a lean commander in fine lamellar armour at the head of a long column of riders on a high mountain pass, seen from the side and far enough that his face is small
+N04|8|khan_speaks_chiefs|R@khan|the khan speaking with one hand raised to chiefs seated in a wide circle on the grass, a scribe seated at his side
+N04|8|doe_and_fawn_spring|S|a doe and her fawn grazing on the spring steppe while two hunters with unstrung bows ride past far away
+N04|9|uyghur_scribe_writes|O|inside a felt tent in the early 13th century, a scribe in a tall cap and long robe seated at a low table writing vertical lines of illegible script with a reed pen, a Mongol ruler watching him, seen from behind
+N04|9|boys_learn_letters|O|inside a felt tent in the early 13th century, Mongol boys seated on felt mats copying vertical lines of illegible script onto wooden boards, their teacher in a tall cap seen from behind
+N04|10|three_clergy_back|O|a Buddhist monk in a robe, a Christian priest of the eastern church with a plain cross and a Muslim scholar in a turban standing side by side before a great felt tent on the steppe, all three seen from behind, early 13th century
+N04|10|three_shrines_near|O|in a small steppe town of the 13th century, a small Buddhist temple, a small church with a plain cross and a small mosque with a low dome standing near one another, quiet morning, people tiny
+N04|11|khan_half_in_shadow|R@khan|close portrait of the khan, half of his face lit warm by firelight and the other half in deep shadow
+N05|0|desert_city_riders|O|early 13th century, riders approaching the mud-brick walls of a city at the edge of a desert, a pagoda rising behind the walls and bare mountains beyond, nobody shown being hurt
+N05|0|tribute_camels_kneel|O|early 13th century, envoys in long robes kneeling with camels and bolts of cloth as tribute before a mounted Mongol ruler who is seen from behind
+N05|0|pass_frontier_wall|J|Mongol riders streaming through a mountain pass below an old rammed-earth frontier wall and a watch tower
+N05|1|capital_walls_siege|J|the huge grey brick walls and gate towers of a great northern Chinese capital with a besieging camp of felt gers spread before it, thin smoke
+N05|1|gate_stands_open|J|a great city gate standing open with a column of riders entering, seen from far behind
+N05|2|rich_city_wide|C|wide view of a rich city in its living days, turquoise domes, minarets, gardens and canals, caravans arriving along the road
+N05|2|covered_bazaar|C|a crowded covered bazaar lane with silk, spices and metalwork on the stalls
+N05|3|goods_on_carpet|X|gold and silver ingots, dark sable furs and rolls of silk laid out on a carpet beside a merchant's hand scale, no people
+N05|4|camel_caravan_road|C|a very long caravan of loaded camels and merchants crossing a dry plain toward a walled city on a river
+N05|4|caravan_at_gate|C|a caravan of camels and merchants arriving before the gate of a mud-brick city, guards looking down from the wall
+N05|5|governor_points_down|C|a governor in a rich robe and turban on a citadel balcony, seen from behind, pointing down at a caravan in the courtyard below while guards wait beside him
+N05|5|bales_carried_off|C|soldiers carrying bales and chests away from a courtyard where camels kneel, the merchants nowhere to be seen, no violence shown
+N05|6|three_envoys_ride|R|three envoys riding across a dry plain toward a distant city, one in a turban and long robe and two in Mongol fur hats
+N05|6|envoys_in_hall|C|three envoys standing in a grand tiled audience hall before a far throne, the ruler on the throne tiny and without a visible face under a canopy
+N05|7|ruler_waves_away|C|a ruler on a throne seen from behind raising one hand in dismissal while guards step forward in a tiled hall, no violence shown
+N05|7|two_return_alone|R|two Mongol envoys with freshly shaven chins riding back across a dry plain with their heads lowered, a third horse without a rider beside them
+N05|8|torn_letter_seal|X|a torn letter with illegible writing and a broken wax seal lying on a dark carpet, no people
+N05|9|army_through_pass|R|an immense army with thousands of spare horses moving westward through a wide mountain pass
+N05|9|khan_at_the_head|R@khan|the khan riding at the head of his army
+N05|10|city_under_siege|C|a mud-brick walled city under siege seen from far away, camps and wooden stone-throwing engines around it, thin smoke
+N05|10|great_city_approach|C|a great city of turquoise domes seen across a hazy plain while a long column of riders moves toward it
+N05|11|flight_to_the_sea|C|a small group of riders fleeing across pale salt flats toward a sea shore, seen from far behind
+N05|11|bare_island_tent|O|a small bare island in a grey inland sea with one small boat drawn up on the beach and a single plain tent, early 13th century, no people
+N05|12|silk_bale_broken_gate|X|a single torn bale of silk lying in the dust before the broken gate of an empty mud-brick city, no people
+N06|0|khan_against_red_sky|R@khan|the khan on horseback on a hill at dusk, a dark figure against a red sky, a walled city on the plain far below
+N06|1|elders_bring_keys|C|city elders walking out through an open gate carrying keys and gifts toward waiting riders
+N06|1|gates_shut_engines|C|a city with its gates shut and defenders small on the walls, wooden siege engines being hauled up in front
+N06|2|rider_ahead_next_city|C|a single rider galloping toward the next city while people watch from its walls
+N06|2|keys_on_tray|X|a ring of large iron city keys on a brass tray held out by two hands
+N06|3|oasis_city_sunrise|C|a great oasis city in its living days at sunrise, immense mud-brick walls, domes and a library courtyard, people small
+N06|3|city_below_snow_peaks|C|a rich city with gardens and potters' workshops below snow-capped mountains in its living days, people small
+N06|4|chronicler_at_desk|C|a chronicler in a turban seen from behind, writing at a low desk by a window with piles of manuscripts around him
+N06|4|silent_street_smoke|C|an empty street in a silent mud-brick city, doors standing open, a few belongings in the dust, smoke in the sky, no people
+N06|5|historian_hands_today|O|present day, a historian's hands turning the pages of an old manuscript facsimile on a library desk beside a pencil and a notebook, all writing illegible
+N06|5|mudbrick_ruins_today|O|present day, the eroded mud-brick ruins of an ancient city wall in a desert at sunset, no people
+N06|5|dry_canal_fields|C|abandoned fields and a dry irrigation canal outside ruined mud-brick walls, no people
+N06|6|chase_to_great_river|R|Mongol riders pursuing a small band of horsemen toward a very wide river between high banks
+N06|6|rider_leaps_river|O|early 13th century, a lone rider on horseback leaping from a high bank into a very wide river, seen from far behind
+N06|6|khan_at_river_bank|R@khan|the khan on horseback at the bank of a very wide river, looking across the water at the far shore
+N06|7|two_generals_ride|R|two Mongol commanders riding side by side at the head of a column, one lean and one broad, seen from the side with small faces
+N06|7|snow_pass_crossing|R|a column of riders crossing a snowy pass between high rocky mountains
+N06|7|two_hosts_at_river|R|a river in the grassy steppe before a battle, Mongol riders on the near bank and a large host of horsemen with tall pointed shields and conical helmets on the far bank
+N06|8|khan_profile_height|R@khan|the khan in profile looking out over a vast plain from a height
+N06|9|indian_fort_city|O|early 13th century, a north Indian fort city of sandstone walls and domes beyond a wide river, peaceful in morning light, seen from across the water, people tiny
+N06|9|european_walled_town|O|early 13th century, a walled town in western Europe with a stone church tower and timber houses among green fields, peaceful, people tiny
+N06|9|south_china_town|O|early 13th century, a walled town of southern China with curved tiled roofs among rice terraces and misty green hills, peaceful, people tiny
+N06|10|four_princes_back|R|four Mongol princes standing before a great tent, seen from behind, looking toward the horizon
+N06|10|post_rider_long_road|O|later 13th century, a Mongol post rider galloping past a camel caravan on a long road across grassland, a small relay station with fresh horses ahead
+N06|11|brush_redraws_map|X|a hand with a brush drawing a new line across an old parchment map that has only faint coastlines and no lettering
+N06|11|khan_small_vast_land|R@khan|the khan as a small figure on horseback on a ridge with an immense landscape of plains and rivers below at sunrise
+N07|0|old_khan_last_ride|R@khan|the khan, now old and greyer and wrapped in furs, riding slowly with his army past desert dunes toward a distant walled city
+N07|0|great_tent_night_guards|N|the khan's great white tent at night with guards standing still outside and a single lamp glowing within
+N07|1|empty_saddle_dusk|N|a saddled horse standing alone with an empty saddle in the grass, no people
+N07|1|healer_bowl_furs|N|inside a tent, a healer's bowl, dried herbs and a folded cloth beside a low bed covered with furs, the bed's occupant not shown
+N07|2|cart_at_river_ford|N|an ox-drawn cart covered in white felt crossing a shallow river ford with a mounted escort, seen from far
+N07|2|thin_line_to_mountains|N|a funeral procession seen as a thin dark line moving across the steppe toward forested mountains
+N07|3|herd_driven_over_ground|N|a great herd of horses being driven back and forth over one patch of ground, dust rising, herdsmen as far small figures
+N07|3|river_being_turned|N|men with wooden spades digging a channel to turn a small river across a meadow, seen from far
+N07|4|later_writer_candle|O|a writer of a much later century in a faraway land, seen from behind, writing by candle light while a traveller beside him tells a tale, all writing illegible
+N07|4|chronicles_under_lens|X|pages from several different old chronicles laid side by side on a table under a glass lens, all writing faint and illegible, no people
+N07|5|grass_no_marker|T|plain open grass moving in the wind with no stone and no mark of any kind, forested hills behind, no people
+N07|5|riders_leave_forest|N|a small group of riders leaving a clearing in a forest without looking back, seen from behind
+N07|5|other_tomb_broken_open|O|an ancient stone tomb chamber of some other forgotten ruler in a desert, broken open long ago and empty, sand drifting in, no people
+N07|6|sacred_mountain_cairn|T|a broad forested sacred mountain rising above river valleys, a stone cairn hung with blue silk scarves in the foreground, no people
+N07|6|old_guards_forest_edge|N|mounted guards of an old century keeping watch at the edge of a forested valley
+N07|6|untouched_valley|T|an untouched river valley among forested mountains, no people
+N07|7|herder_back_mountain|T|a present-day Mongolian herder in a deel robe on horseback, seen from behind, looking toward a forested mountain
+N07|7|scarf_on_cairn_hands|T|two hands tying a blue silk scarf onto a stone cairn
+N07|8|lab_bench_tubes|O|present day, a genetics laboratory bench with racks of small sample tubes and a gloved hand holding one, no logos, no readable writing
+N07|8|crowd_from_above|O|present day, a large crowd of men walking in a Central Asian city square, seen from high above and behind so that no face is visible, no readable writing
+N07|8|helix_and_horseman|X|a glass model of a double helix on a dark table beside a small old bronze figure of a horseman, no people
+N07|9|one_empty_tube|X|a rack of glass sample tubes in which one tube stands empty among full ones, no labels, no people
+N07|9|researchers_screen_back|O|present day, two researchers seen from behind looking at a screen that shows only abstract coloured bands, no readable writing
+N07|9|older_nomads_ride|O|horse nomads of a far earlier age, long before the 13th century, riding across the steppe in felt caps and simple tunics, seen from far
+N07|10|silk_portrait_in_case|O|present day, an old silk album leaf with a painted portrait of a ruler in a pale robe and pale cap lying in a dim museum case, seen at a steep angle and softly out of focus so that the face cannot be made out, no readable writing
+N07|10|court_painter_back|O|late 13th century China, a court painter seen from behind painting a ruler's portrait on silk while a very old man seated beside him describes the face from memory
+N07|10|khan_face_in_mist|R@khan|the khan's face seen through drifting mist so that half of it dissolves into the grey
+N07|11|ruined_walls_dusk|C|the ruined walls of an empty city at dusk, no people
+N07|11|family_before_statue|T|a present-day Mongolian family seen from behind, looking up at a very large modern statue of a horseman far away on the steppe, the statue seen from behind
+N07|12|boy_back_sunrise|S@temujin_boy|a boy of about nine seen from behind, alone on the steppe, facing the sunrise
+N07|12|hoofprints_to_horizon|S|a line of hoof prints leading to the horizon across endless grass at sunrise, no people
+N07|13|khan_looks_at_viewer|R@khan|the khan on horseback looking calmly straight at the viewer, steppe and horsehair standards behind him in golden light
