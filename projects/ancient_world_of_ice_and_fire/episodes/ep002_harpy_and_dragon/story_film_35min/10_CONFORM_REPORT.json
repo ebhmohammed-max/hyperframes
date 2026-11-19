@@ -279,10 +279,91 @@
       "gap_seconds": 0.93,
       "samples": 1440000,
       "tempo": 0.84
+    },
+    {
+      "block": 32,
+      "words": 68,
+      "raw_seconds": 26.41,
+      "speech_seconds": 29.44,
+      "gap_seconds": 0.56,
+      "samples": 1440000,
+      "tempo": 0.8952
+    },
+    {
+      "block": 33,
+      "words": 71,
+      "raw_seconds": 22.73,
+      "speech_seconds": 26.98,
+      "gap_seconds": 3.02,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 34,
+      "words": 66,
+      "raw_seconds": 22.78,
+      "speech_seconds": 27.05,
+      "gap_seconds": 2.95,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 35,
+      "words": 68,
+      "raw_seconds": 23.43,
+      "speech_seconds": 27.84,
+      "gap_seconds": 2.16,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 36,
+      "words": 65,
+      "raw_seconds": 22.94,
+      "speech_seconds": 27.23,
+      "gap_seconds": 2.77,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 37,
+      "words": 62,
+      "raw_seconds": 24.14,
+      "speech_seconds": 28.66,
+      "gap_seconds": 1.34,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 38,
+      "words": 71,
+      "raw_seconds": 24.89,
+      "speech_seconds": 29.46,
+      "gap_seconds": 0.54,
+      "samples": 1440000,
+      "tempo": 0.8439
+    },
+    {
+      "block": 39,
+      "words": 65,
+      "raw_seconds": 24.27,
+      "speech_seconds": 28.82,
+      "gap_seconds": 1.18,
+      "samples": 1440000,
+      "tempo": 0.84
+    },
+    {
+      "block": 40,
+      "words": 66,
+      "raw_seconds": 19.98,
+      "speech_seconds": 23.74,
+      "gap_seconds": 6.26,
+      "samples": 1440000,
+      "tempo": 0.84
     }
   ],
-  "conformed_blocks": 31,
-  "mean_speech_seconds": 28.05,
-  "mean_gap_seconds": 1.95,
-  "max_gap_seconds": 5.05
+  "conformed_blocks": 40,
+  "mean_speech_seconds": 27.97,
+  "mean_gap_seconds": 2.03,
+  "max_gap_seconds": 6.26
 }
