@@ -9,7 +9,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 - Timings: `narration/align.json`. Two lines of N04 (q01, q02) were set by hand from the pause list, because "கீழ மேகம். கையில பூ." came out as one breath; not listened to.
 - Shot list: `shots/shots.txt` → `SHOTLIST.md`, 144 pictures (`shots/counts.json`). Looks and reference texts are in `shots/expand.py`.
 - Reference faces: `kashyapa`, `dhatusena`, `moggallana`, `migara` (`shots/CAST.md`), all invented.
-- Pictures 001–006 made and checked (batch B01).
+- Pictures 001–016 made and checked (batches B01, B02). Next: 017–026 (B03).
 
 ## Next
 1. Pictures 007–144 in batches of 10 per turn: `generate_image` into `google_drive/ep16_pics/raw/NNN.jpg` (prompts from `shots/prompts.json`, adjusted by hand where the look text does not fit), then
@@ -60,6 +60,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 | Batch | Pictures | Zip id | Sheet id | Notes |
 |---|---|---|---|---|
 | B01 | 001–006 | `1ZfqAutzFryj4L1437ymnfWTBU4LtqwkQ` | `1LNWq9njN2QxDZe6NzPm4edervIlar472` | all good. 005: the king stands at the right edge of the frame. |
+| B02 | 007–016 | `1J46Logvqf5D9yyxdvY_tKx5jNix0IfwZ` | `1IpaSShNcaH4pQXn2iTD3TKQqVLNiS-QI` | all usable. 008: the crown came out lower than in the reference. 009: the boats stand in a very even row. 012, 013: the paintings were asked for as "a photograph of an ancient wall painting" with their own tail (no "no drawn outlines"), which worked; keep that wording for all look P pictures. |
 
 ## After a full wipe of the workspace
 As in EP15: `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
