@@ -44,9 +44,10 @@ def cover(im: Image.Image, size: tuple[int, int], focus_y: float = 0.5) -> Image
 
 
 def logo() -> Image.Image:
-    im = Image.open(SRC / "logo_3d.png").convert("RGB")
-    # the sphere sits a touch high in the frame; crop low so it centres in the circle
-    out = cover(im, (800, 800), focus_y=0.46)
+    im = Image.open(SRC / "logo_fantasy_v3.png").convert("RGB")
+    # v3 is composed for the circular mask YouTube applies: the emblem is inset and the
+    # wordmark is narrower than the ring, so a straight resize keeps everything inside it.
+    out = im.resize((800, 800), Image.LANCZOS)
     out.save(OUT / "logo_youtube_800x800.png")
 
     sizes = [98, 64, 40, 24]
@@ -69,7 +70,7 @@ def logo() -> Image.Image:
 
 
 def banner() -> Image.Image:
-    im = Image.open(SRC / "banner_3d_title.jpg").convert("RGB")
+    im = Image.open(SRC / "banner_fantasy_v2.jpg").convert("RGB")
     W, H = 2048, 1152
     out = cover(im, (W, H), focus_y=0.5)
 
