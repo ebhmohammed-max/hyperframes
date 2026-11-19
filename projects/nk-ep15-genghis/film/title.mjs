@@ -1,4 +1,4 @@
-// Title sequence (12 s, no voice, no numbers): the ruined town under the moon → the notice board at dusk → the palace at night, with the title.
+// Title sequence (12 s, no voice, no numbers): the boy alone facing the horizon → the riders reaching the horizon → the ruler's silhouette, with the title.
 //   node film/title.mjs → film/TITLE/
 import { mkdirSync, writeFileSync, symlinkSync, rmSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -11,9 +11,9 @@ const C = { gold: "#f3d48a", cream: "#f6efdc", ink: "#070a18" };
 const D = 12, T = 6.2; // length, title reveal
 // [plate, in, out, transform-origin, from [scale,x,y], to [scale,x,y]]
 const P = [
-  ["009", 0, 3.5, "55% 45%", [1.08, 0, 0], [1.2, 0, 0]],
-  ["021", 2.9, 6.3, "30% 45%", [1.22, 0, 6], [1.08, 0, 0]],
-  ["010", 5.7, D, "55% 42%", [1.05, 0, 0], [1.15, 0, 0]],
+  ["014", 0, 3.5, "50% 55%", [1.08, 0, 0], [1.2, 0, 0]],
+  ["017", 2.9, 6.3, "50% 45%", [1.22, 0, 6], [1.08, 0, 0]],
+  ["007", 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
 
@@ -42,9 +42,9 @@ const html = `${P.map(([n, a, b], i) => `    <div id="t-p${i}" class="t-pl clip"
 ${G.html}    <div id="t-pre" class="clip" data-start="0.7" data-duration="2.6" data-track-index="5"><div id="t-pre-in"><b>நிலவன் கதைகள்</b> வழங்கும்</div></div>
     <div id="t-ttl" class="clip" data-start="${r(T - 0.3)}" data-duration="${r(D - T + 0.3)}" data-track-index="6">
       <div id="t-r1"></div>
-      <div id="t-name">பாங்கர்</div>
+      <div id="t-name">செங்கிஸ் கான்</div>
       <div id="t-r2"></div>
-      <div id="t-sub">ராத்திரி யாரும் நுழையக்கூடாத கோட்டை</div>
+      <div id="t-sub">உலகத்தை ஜெயிச்ச மனிதன்?</div>
       <div id="t-nk">NK DOCUMENTARIES</div>
     </div>
     <div id="t-fade" class="clip" data-start="0" data-duration="${D}" data-track-index="7" data-layout-ignore></div>`;
