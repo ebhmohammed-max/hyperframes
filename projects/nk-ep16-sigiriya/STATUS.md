@@ -9,7 +9,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 - Timings: `narration/align.json`. Two lines of N04 (q01, q02) were set by hand from the pause list, because "கீழ மேகம். கையில பூ." came out as one breath; not listened to.
 - Shot list: `shots/shots.txt` → `SHOTLIST.md`, 144 pictures (`shots/counts.json`). Looks and reference texts are in `shots/expand.py`.
 - Reference faces: `kashyapa`, `dhatusena`, `moggallana`, `migara` (`shots/CAST.md`), all invented.
-- Pictures 001–026 made and checked (batches B01–B03). Next: 027–036 (B04).
+- Pictures 001–036 made and checked (batches B01–B04). Next: 037–046 (B05).
 
 ## Next
 1. Pictures 007–144 in batches of 10 per turn: `generate_image` into `google_drive/ep16_pics/raw/NNN.jpg` (prompts from `shots/prompts.json`, adjusted by hand where the look text does not fit), then
@@ -62,6 +62,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 | B01 | 001–006 | `1ZfqAutzFryj4L1437ymnfWTBU4LtqwkQ` | `1LNWq9njN2QxDZe6NzPm4edervIlar472` | all good. 005: the king stands at the right edge of the frame. |
 | B02 | 007–016 | `1J46Logvqf5D9yyxdvY_tKx5jNix0IfwZ` | `1IpaSShNcaH4pQXn2iTD3TKQqVLNiS-QI` | all usable. 008: the crown came out lower than in the reference. 009: the boats stand in a very even row. 012, 013: the paintings were asked for as "a photograph of an ancient wall painting" with their own tail (no "no drawn outlines"), which worked; keep that wording for all look P pictures. |
 | B03 | 017–026 | `1-13DqjuVaPym-Kfy-SWm34y__LtOshPx` | `1atzfV1da_91u7sCz2tObjCuotOk9Oe8l` | all usable. 019: the sleeve looks like a rolled shirt cuff and the scratches are sharp, though not real letters (on the redo list as optional). 022 came with black bars left and right, trimmed by `sheet.py`. 023: both princes hold their reference faces with the ages stated. |
+| B04 | 027–036 | `1tJqXowUexE55E71a7iyoNejquE663KEl` | `1jbCfJQeuPl7PphFiKhzk5MrYfaqxG8hl` | all usable. 032: the crown is a low diadem, not the tall crown of 034 (on the redo list as optional). 036: the embankment looks like a stone wall and the reservoir a little like a river. 035 came with a black bar on the left, trimmed by `sheet.py`. 031 (night, many figures) stayed photographic with the "film still shot on location at night" tail. |
 
 ## After a full wipe of the workspace
 As in EP15: `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
