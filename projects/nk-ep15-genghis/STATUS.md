@@ -67,6 +67,7 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 | B11 | 100–109 | `1eQm0UO5HZMG9FMqmX62bwqXj_UboTbAP` | `1IGITBo88BcgsUxiYiQBETl2eXVH7_P6N` | All ten kept on the first try. 104 (goods on the carpet) had a present-day glass window in the top left corner: crop entry in `shots/crops.json`. Next: 110–119 |
 | B12 | 110–119 | `1bwxgxhKAHKHrfu_4P_JPk0huFeabplXW` | `1nTFRuvNOxxFs7XRtebvZgwTDyhnL1Zmf` | All ten made on the first try. **113 → redo** (torn letter: sharp Latin-looking handwriting with near-readable words; next time show the paper folded or face down). The rest kept (115 with the khan reference). Next: 120–129 |
 | B13 | 120–129 | `1Ntoga1qQVqqZrvOrmygDOQB_eFo_7efD` | `1VJqGNyaNbe6aZ70RK9z2fsCZvspqnzLz` | All ten made on the first try. **125 → redo** (keys on a tray: sleeves are a present-day knitted jumper). 129 had a baked-in dark border with rounded corners: crop entry. 121 was made without the khan reference (a pure silhouette from behind). Chapter 4 is complete apart from the redo list. Next: 130–139 |
+| B14 | 130–139 | `1GsPMniAO65ANpLslPiDUmt1-lufATi3p` | `11LPV5kuli4Jwx44V4AuYplGCMCJpXFhe` | All ten kept on the first try (135, 139 with the khan reference). 130: the manuscript writing is an unreadable blur, checked at full size; it looks like an old original, not a facsimile. Next: 140–149 |
 
 ## Picture lessons so far
 
