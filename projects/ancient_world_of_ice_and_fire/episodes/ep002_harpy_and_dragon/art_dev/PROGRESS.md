@@ -29,3 +29,20 @@ only generation.
 Generate ten, upload ten, confirm they landed, keep going. Plates are derived
 locally from masters (about 104 MB for the full set) and are reproducible, so
 they never go to Drive. Drive holds masters only, about 14 MB for all seventy.
+
+## State after batch 03
+
+**29 of 70 masters — 435 of 1,050 plates.**
+
+Scenes 001–019 exist locally. Scenes 020–029 were uploaded to Drive and then
+deleted locally, so **their plates are built but their source masters are
+Drive-only.** That is fine as long as nothing needs re-deriving, and it is a
+real gap if something does.
+
+The rule that caused it was too aggressive. Deleting a master after upload
+saves 200 KB and costs the ability to rebuild a plate. From batch 04 on, the
+masters stay: seventy masters total about 14 MB, which is nothing next to the
+104 MB of plates they generate or the 840 MB of render segments.
+
+Recovery path if a Drive-only master is ever needed: it is in the Drive folder
+named in DRIVE_INDEX.md, file `0NN_master.jpg`.
