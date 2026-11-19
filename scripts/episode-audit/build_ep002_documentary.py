@@ -67,11 +67,14 @@ CHAPTERS = [
     ("IV",  "Chapter Four",  "The long exhale",
      "A treaty, forty clauses, and a generation that reads tribute on its own money.",
      30, "ancient-winds-part-1.mp3", 120.0),
-    ("V",   "Chapter Five",  "Four times nothing",
-     "Four wars, four victories, and an empire that never once learned how to end anything.",
-     41, "ancient-rite.mp3", 1.0),
-    ("VI",  "Chapter Six",   "Salt, ash, and what was left",
+    # Titles follow the narration document, which is the authority. An earlier pass
+    # here had V carrying Chapter Four's subject and had dropped "The harpy looks up"
+    # entirely, so the card and the words disagreed for two chapters.
+    ("V",   "Chapter Five",  "Salt, ash, and what was left",
      "The plain goes into the fire, and the people carry out the only thing that cannot burn.",
+     41, "ancient-rite.mp3", 1.0),
+    ("VI",  "Chapter Six",   "The harpy looks up",
+     "Five victories, a fleet, a century of peace - and nothing anyone could put in a pocket.",
      51, "night-vigil.mp3", 4.0),
     ("VII", "Chapter Seven", "The night the harpy went out",
      "What the winner became, and what the coin was still saying two thousand years later.",
