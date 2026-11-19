@@ -58,7 +58,16 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 | B02 | 013–022 | `1YtYtVs9E_zxTqsTKbn_ilPCPrXAufUYz` | `1QLm2rgrsFA6mqJ4O_G2e2D8UCwfwIsyS` | hook complete. 016: the pen lines are invented marks, not a real script |
 | B03 | 023–032 | `1WXdNmjK6oLrCm6GYhyJFUsmreWbrmzN8` | `16NfkOoMLaeBzNI0bMMOQptv2ocfrFddk` | 029 to redo (glass kerosene lamp and bookshelves; listed in `shots/redo.txt`). 026 and 031 sit in a library of a later age, kept as symbolic. Still-life wording in `shots/expand.py` tightened after this |
 | B04 | 033–042 | `1bI9bd1jHFtTMNckX5Qw5gQ9ZeL-VDN4y` | `1ja9vz4jfBLjZYXXCnROUSt-tIq3sZ--_` | all kept. The Behter scene is told with a quarrel (041) and a bow left in the grass (042); no violence shown |
-| B05 | 043–052 without 044 | `1YNd2XXj8bUpPsw3fS8KWArxLZBwmecDS` | `1vLRU-N-6J5hulWYcL6V6DIMhy-pT_Lzp` | **044 (captive in the wooden collar) failed once and is still missing: make it first in the next batch**, from behind, with the board as a yoke on the shoulders. 045: the head in the river has a full head of hair, not the shaved crown (seen from behind at night, kept). 050: the wedding guests wear present-day festival dress, kept for now, a candidate for the redo pass |
+| B05 | 043–052 without 044 | `1YNd2XXj8bUpPsw3fS8KWArxLZBwmecDS` | `1vLRU-N-6J5hulWYcL6V6DIMhy-pT_Lzp` | 044 failed once; made in the next turn from behind with the board as a yoke on the shoulders (`EP15_B05_images_044-044.zip`, `1kJgYIR-hDu301UPftcSlddFXNVihdRje`). 045: the head in the river has a full head of hair, not the shaved crown (seen from behind at night, kept). 050: the wedding guests wear present-day festival dress, kept for now, a candidate for the redo pass |
+| B06 | 053–061 | `1IbeT4ezV2bPfxQtY0xDvuTA_J5SyWKGk` | `1447gWsY6R4mB9gLU8zIw40RVT_Sypli-` | to redo: 054 (glass lamps), 058 and 059 (came out as drawn illustrations). The rest kept |
+
+## Picture lessons so far
+
+- Interiors and still lifes: say "small clay or bronze oil lamps only, no glass lamps, no bookshelves", or a 19th-century kerosene lamp appears (029, 054).
+- Night scenes with many figures turn into drawn illustrations (058, 059). For those, drop "Painted-realism concept art" and write "a photographic film still shot on location at night, real people and real horses, not an illustration, not a painting".
+- Crowds drift to present-day festival dress (050): name plain undyed wool and felt, no brocade, no bright sashes.
+- A thin black bar on the top edge (011, 012): crop entry in `shots/crops.json`.
+- One failed call counts against the limit of 10 pictures per turn.
 
 ## After a full wipe of the workspace
 
