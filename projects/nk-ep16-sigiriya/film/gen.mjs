@@ -57,10 +57,10 @@ const MOVES = [
 
 // Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line)]
 const HOOK_FX = [
-  // 1227, the funeral → "nobody left alive" → the grave never found → the empire → the name → the abandoned boy → "destroyer or lawgiver?" → "did he conquer the world?" → "why hide the grave?"
-  [0, "impact-bass-1", 0.34, "start"], [1, "whoosh", 0.2, "start"], [2, "impact-bass-2", 0.28, "last"],
-  [4, "whoosh-cinematic", 0.2, "start"], [5, "impact-bass-1", 0.32, "start"], [6, "whoosh", 0.16, "start"],
-  [8, "riser", 0.2, "start"], [9, "impact-bass-2", 0.34, "last"], [11, "whoosh", 0.16, "start"], [11, "impact-bass-1", 0.26, "last"],
+  // the rock → the palace on top → the king's name → the father in the wall → the brother → the elephant turns → the painted women → Ravana or monastery? → "watch to the end" → "this is Sigiriya"
+  [0, "impact-bass-1", 0.34, "start"], [1, "whoosh", 0.2, "start"], [2, "impact-bass-2", 0.26, "start"],
+  [3, "impact-bass-1", 0.3, "start"], [4, "whoosh-cinematic", 0.2, "start"], [5, "riser", 0.18, "start"], [5, "impact-bass-2", 0.32, "last"],
+  [6, "whoosh", 0.16, "start"], [7, "whoosh-cinematic", 0.18, "start"], [9, "riser", 0.2, "start"], [10, "impact-bass-1", 0.34, "start"],
 ];
 
 export function build(cid, opt = {}) {
@@ -200,7 +200,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   // ── subscribe pop-up (chapter 1 only): silent, 5 s, top right
   let sCss = "", sHtml = "", sJs = "";
   if (ci === 1 && !partial) {
-    const w5 = win.find((x) => x.q === 3) ?? win[Math.min(3, win.length - 1)]; // EP16: the line that introduces the Secret History; long, and no source tag on screen
+    const w5 = win.find((x) => x.q === 2) ?? win[Math.min(2, win.length - 1)]; // EP16: the line that introduces the Culavamsa (8.6 s, calm; the source tag sits top left, the pop-up top right)
     const T0 = r(w5.t0), BX = 648, BY = 76;
     const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
     sCss = `

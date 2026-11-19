@@ -1,10 +1,2 @@
 # pictures to make again later: number|reason
-019|optional: the sleeve looks like a rolled shirt cuff and the scratches are sharp (not real letters); wanted a bare wrist and blurred lines
-032|optional: the crown came out as a low diadem; the tall crown of 034 was wanted
-038|the old man's wrists are in dark knitted sleeves like a jumper; wanted bare wet forearms
-086|the wall painting behind the conservator looks like a European church fresco of a veiled woman; wanted the Sigiriya manner (headdress, jewellery, clouds) as in 069
-096|optional: a second, riderless elephant stands behind the king, so he is not alone on the plain; the howdah reads like a chair
-099|optional: a modern iron rail in front of the lion stair, and only one paw is in view
-140|the blank stone stands before a northern conifer forest in autumn colours; wanted Sri Lankan dry-zone trees and old flat-brick ruins
-142|close portrait: the crown is a wide low diadem, not the tall tapering crown of the other pictures; the light and shadow split is weak
-143|the crown under the manuscript is a European spiked crown and the lamp is a spouted 'Aladdin' lamp; wanted the tall tapering crown and a small open bronze oil lamp
+038|the old man's wrists are in dark knitted sleeves like a jumper; wanted bare wet forearms (the R2 try failed with a plain 'generation failed'; try again)

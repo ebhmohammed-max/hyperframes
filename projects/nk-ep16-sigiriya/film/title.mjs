@@ -1,4 +1,4 @@
-// Title sequence (12 s, no voice, no numbers): the boy alone facing the horizon → the riders reaching the horizon → the ruler's silhouette, with the title.
+// Title sequence (12 s, no voice, no numbers): the rock from the air → the stair between the lion paws → the rock in the morning mist, with the title.
 //   node film/title.mjs → film/TITLE/
 import { mkdirSync, writeFileSync, symlinkSync, rmSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -11,9 +11,9 @@ const C = { gold: "#f3d48a", cream: "#f6efdc", ink: "#070a18" };
 const D = 12, T = 6.2; // length, title reveal
 // [plate, in, out, transform-origin, from [scale,x,y], to [scale,x,y]]
 const P = [
-  ["014", 0, 3.5, "50% 55%", [1.08, 0, 0], [1.2, 0, 0]],
-  ["017", 2.9, 6.3, "50% 45%", [1.22, 0, 6], [1.08, 0, 0]],
-  ["007", 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
+  ["001", 0, 3.5, "50% 55%", [1.08, 0, 0], [1.2, 0, 0]],
+  ["020", 2.9, 6.3, "50% 45%", [1.22, 0, 6], [1.08, 0, 0]],
+  ["122", 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
 

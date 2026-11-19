@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ta">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>EP16 N05 elephant</title>
+    <script src="assets/vendor/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+      #root { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="59.273" data-width="1920" data-height="1080">
+      <div
+        id="pic"
+        data-composition-id="pic"
+        data-composition-src="compositions/pic.html"
+        data-start="0"
+        data-duration="59.273"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 1"
+      ></div>
+      <div
+        id="ovl"
+        data-composition-id="ovl"
+        data-composition-src="compositions/ovl.html"
+        data-start="0"
+        data-duration="59.273"
+        data-track-index="2"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 2"
+      ></div>
+      <div
+        id="cap"
+        data-composition-id="cap"
+        data-composition-src="compositions/cap.html"
+        data-start="0"
+        data-duration="59.273"
+        data-track-index="3"
+        data-track-kind="captions"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 3"
+      ></div>
+      <audio id="vo" class="clip" src="assets/vo/N05.mp3" data-start="2.55" data-duration="56.123" data-track-index="4" data-volume="1"></audio>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = gsap.timeline({ paused: true });
+    </script>
+  </body>
+</html>
