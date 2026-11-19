@@ -9,7 +9,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 - Timings: `narration/align.json`. Two lines of N04 (q01, q02) were set by hand from the pause list, because "கீழ மேகம். கையில பூ." came out as one breath; not listened to.
 - Shot list: `shots/shots.txt` → `SHOTLIST.md`, 144 pictures (`shots/counts.json`). Looks and reference texts are in `shots/expand.py`.
 - Reference faces: `kashyapa`, `dhatusena`, `moggallana`, `migara` (`shots/CAST.md`), all invented.
-- Pictures 001–086 made and checked (batches B01–B09; hook, chapters 1 to 3 complete). Next: 087–096 (B10). Redo list so far: 038, 086 (needed); 019, 032 (optional).
+- Pictures 001–096 made and checked (batches B01–B10; hook, chapters 1 to 3 complete, chapter 4 up to 096). Next: 097–106 (B11). Redo list so far: 038, 086 (needed); 019, 032, 096 (optional).
 
 ## Next
 1. Pictures 007–144 in batches of 10 per turn: `generate_image` into `google_drive/ep16_pics/raw/NNN.jpg` (prompts from `shots/prompts.json`, adjusted by hand where the look text does not fit), then
@@ -68,6 +68,7 @@ Tamil title: சிகிரியா / பாறை மேல ஒரு அர�
 | B07 | 057–066 | `1VACR7-hp7vf1BUJILW0BCLTulfVfClH7` | `1vauxL7x6RFs4KomxmW0SBcEYq5ci5Unh` | all good; the tall crown held in 062, 063 and 064 (the wording "tall tapering gold crown set with red stones" works better than "tall gold crown"). 064: part of the parasol bearer's face shows behind the king. |
 | B08 | 067–076 | `1Aa5hcNQJE-QVX42HNC8sX2KVSVhEkhvD` | `1Z6g5JJQf6-oGn1_Xa2p4IBS0P6ii7Zwz` | all good; every painted woman came out clothed (069, 070, 073 and 074 checked at full size or on the sheet). 074 shows the sky women at full length lying on the clouds, not from the waist up. 072: the painted band on the cliff is smaller than "right across the cliff". |
 | B09 | 077–086 | `1O6KE9MUMPKTuelcE0bpSXEFb9ZacWiM3` | `1458KDe4GWhkPyK6Qf0L9PI-JmBPcGave` | 086: the painting behind the conservator looks like a European church fresco of a veiled woman (on the redo list; in pictures with a person, the painting needs the full Sigiriya wording). 078: a modern-looking rail on the walkway. 082: the notes are scribble, not readable. 079: bare forearm, as asked. The rest good. |
+| B10 | 087–096 | `1ELAvY1_Pm9WOM_8TOwnQS0jjM1yenEer` | `1Wppno_235XYCIXwQOsRS94EjxZQhMSJn` | references: 087, 092, 096 `kashyapa` (aged, grey beard; crown held), 088, 089 `moggallana` (aged, bearded). 096: a second riderless elephant behind the king, howdah reads like a chair (optional redo). 092: the king looks back over the howdah toward his army. 095: the dust clouds are heavy, close to smoke. No fighting in any picture. |
 
 ## After a full wipe of the workspace
 As in EP15: `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
