@@ -70,6 +70,7 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 | B14 | 130–139 | `1GsPMniAO65ANpLslPiDUmt1-lufATi3p` | `11LPV5kuli4Jwx44V4AuYplGCMCJpXFhe` | All ten kept on the first try (135, 139 with the khan reference). 130: the manuscript writing is an unreadable blur, checked at full size; it looks like an old original, not a facsimile. Next: 140–149 |
 | B15 | 140–149 | `1M5ddwNE0C8NU9HDM5g0hJeF47lBiGvCm` | `1gU80fjCwVRtoP8ukyu_eMG-ksdhuRUHr` | All ten made on the first try. **149 → redo** (empty saddle: a present-day western saddle with a horn). Kept with a small flaw: 140 (the Indian fort looks like a later Mughal red fort). 145: the map has no lettering, checked at full size. 146 made without the khan reference (tiny figure from behind); 147 with it, aged. Chapter 5 is complete apart from the redo list. Next: 150–159 |
 | B16 | 150–159 | `12cNZPSrXwlllwvbaYUAn12y6zqIvFKzk` | `1rgbXgX7RsaGibGCq14utTD99i57QPK0V` | All ten kept on the first try. 156: the chronicle pages are unreadable smudges, checked at full size. 159: the dark right edge is a wall in shadow, not a bar. Next: 160–169 |
+| B17 | 160–169 | `1SEinDBp6NtWIVwZZp3qNLuANHxIeq3ET` | `1LwwOxI_HOAswVgo0RV8PdhiWfpshnwvE` | All ten kept on the first try. No lettering on the scarves, tubes or screen. 167: the dark strip at the bottom is the table front in shadow. Next: 170–178 (the last nine), then the redo pass |
 
 ## Picture lessons so far
 
