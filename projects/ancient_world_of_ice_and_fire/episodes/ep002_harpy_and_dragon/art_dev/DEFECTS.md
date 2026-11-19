@@ -6,6 +6,37 @@ hide it. These are the ones found so far.
 
 ## OPEN
 
+### 044 — English text burned into the picture
+
+**Wrong:** the scroll reads "Refusal to Sign" and "I must firmly refuse" in clear
+English, with further legible fragments above it. The film's rule is no text in
+any plate, and this text cannot be removed by cropping because it sits in the
+centre of the frame.
+
+**Why it happened:** the direction said a hand writing "a firm refusal on a
+parchment scroll". The model drew the words it was told about.
+
+**Fix:** regenerate with no writing surface visible at reading distance —
+show the seal, the hand, the struck-through clauses, but no legible characters,
+or scratch-like marks only.
+
+**Blast radius:** 15 plates (0631–0645), built but not in any render.
+
+### 042 — style drift: generic medieval Westeros
+
+**Wrong:** a torchlit stone hall, fur-shouldered lords, a painted cloth map.
+This is Game of Thrones iconography. Valyria in this episode is black volcanic
+rock, fire, and silver-haired dragonlords; the scene also sits against a film
+whose Ghiscari world is ochre brick and dust.
+
+**Why it happened:** the direction asked for "a council of rival noble houses",
+which is a Westerosi cue more than a Valyrian one.
+
+**Fix:** regenerate as a Valyrian council — black stone, bronze and firelight,
+dragonlords, no fur, no heraldic cloth.
+
+**Blast radius:** 15 plates (0616–0630), built but not in any render.
+
 ### 032 — modern office in antiquity
 
 **Wrong:** electric oscillating desk fan, ballpoint pen, wristwatch, short-sleeved
@@ -24,6 +55,11 @@ full-size look before it goes into the plate set.
 not in the film yet.
 
 ## CLOSED
+
+### 032 — FIXED
+
+Regenerated as a clay-tablet room: reed stylus, oil lamp, wooden shutter, linen
+tunic. Verified at full size. No fan, no watch, no glass.
 
 ### 034 — suspected modern market, checked, clean
 

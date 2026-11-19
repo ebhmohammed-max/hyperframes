@@ -16,7 +16,11 @@ MA = ("projects/ancient_world_of_ice_and_fire/episodes/ep002_harpy_and_dragon/ar
 # Directions that historically pulled the model toward a modern interior.
 RISK = {
     32: "cramped office, exhausted man writing - produced an electric fan, "
-        "ballpoint and wristwatch in take one; must be a clay-tablet interior",
+        "ballpoint and wristwatch in take one; fixed with clay tablets",
+    42: "council of rival noble houses - produced generic Westeros with fur "
+        "cloaks in take one; must be Valyrian black stone and firelight",
+    44: "hand writing a refusal on a scroll - produced legible English text "
+        "inside the image in take one; must have no readable characters",
 }
 
 STYLE_BAN = (
