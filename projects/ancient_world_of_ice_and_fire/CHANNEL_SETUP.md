@@ -104,16 +104,24 @@ that the name alone cannot.
 Built to serve the whole world, not one episode. The mark contains **no dragon, no
 pyramid, no person** — nothing that belongs to only one side of it.
 
-**The mark — an eclipse, rendered as 3D.** A dark planet-like sphere, its upper-left
-crusted with glacial ice and its right limb wrapped in a molten ember ring that flares
-into cinders. Cold blue key light from the left, warm rim fire from the right: the whole
-channel thesis in one object, and nothing that belongs to only one side of the world.
-It is a photographic render, not a drawn logo, so it sits beside the film's own plates.
+**The mark — a fantasy crest.** An ancient longsword driven point-down, the blade split
+down its centre: the left half frozen in pale glacial ice, the right half molten forge-fire
+with runes burning along the fuller. Behind it hangs a broken iron ring — a shattered halo,
+deliberately incomplete — over black basalt dusted with ash and frost, embers drifting. The
+name is **engraved into the artwork** below the sword in ornate bevelled gold serif: `THE`
+over `LONG NIGHT`.
 
-**The banner — one landscape, two climates.** A frozen ice valley on the left, volcanic
-basalt and lava on the right, meeting in a fog basin at the centre. The title is rendered
-**into** the scene as bevelled 3D lettering, lit cold on the left and hot on the right, so
-the words themselves are half ice and half fire. No flat type sits on top of it.
+This is the correction that mattered: the first mark was an eclipse sphere, which reads as
+science fiction, not fantasy. A split sword through a broken ring, named on the crest
+itself, is unmistakably the genre in one glance — and it still carries the whole idea (one
+blade, both worlds) without a dragon or a pyramid tying it to a single episode.
+
+**The banner — one landscape, two climates.** A colossal wall of blue glacial ice on the
+left, a lone cloaked figure with a torch at its foot; a dark citadel on black volcanic rock
+on the right, lava rivers and embers below it; the two meeting in a pool of night mist at
+the centre. The title is **rendered into the scene** as engraved gold 3D lettering, lit cold
+on the left and hot on the right, with a bar of ember light beneath it and the words `ICE`
+and `FIRE` set small at the far edges.
 
 **Palette** — locked, and already used in the films:
 
@@ -137,15 +145,16 @@ end cards.
 
 **Files — the ones to actually upload, in `renders/channel_ln/gen/`:**
 
-| file                            | size      | use                                     |
-| ------------------------------- | --------- | --------------------------------------- |
-| `logo_youtube_800x800.png`      | 800×800   | **channel profile picture — use this**  |
-| `banner_youtube_2048x1152.jpg`  | 2048×1152 | **channel banner — use this**           |
-| `logo_circle_98.png`            | 98×98     | proof: the avatar as YouTube masks it   |
-| `logo_youtube_sizes.png`        | —         | proof: 98 / 64 / 40 / 24 px             |
-| `banner_youtube_safe_check.png` | 2048×1152 | proof: the 1546×423 safe strip drawn on |
-| `banner_youtube_mobile.jpg`     | 1235×338  | proof: what a phone shows               |
-| `banner_youtube_tv.jpg`         | 1920×1080 | proof: what a TV shows                  |
+| file                            | size      | use                                              |
+| ------------------------------- | --------- | ------------------------------------------------ |
+| `logo_youtube_800x800.png`      | 800×800   | **channel profile picture — use this**           |
+| `banner_youtube_2048x1152.jpg`  | 2048×1152 | **channel banner — use this**                    |
+| `logo_circle_160.png`           | 160×160   | proof: avatar circle-masked, as YouTube shows it |
+| `logo_circle_98.png`            | 98×98     | proof: the mask edge case at sidebar size        |
+| `logo_youtube_sizes.png`        | —         | proof: 98 / 64 / 40 / 24 px                      |
+| `banner_youtube_safe_check.png` | 2048×1152 | proof: the 1546×423 safe strip drawn on          |
+| `banner_youtube_mobile.jpg`     | 1235×338  | proof: what a phone shows                        |
+| `banner_youtube_tv.jpg`         | 1920×1080 | proof: what a TV shows                           |
 
 Both are regenerated and conformed by `scripts/episode-audit/conform_3d_art.py`, which
 crops the raw renders to YouTube's exact specs and writes the proofs.
@@ -380,8 +389,16 @@ and Fire". All of it is now dead:
 - Google Drive folder **"Channel art - Ancient World of Ice and Fire"**
   (`1QuKBtMvI6i6HgAGRJZpDyVZ9vphHisYb`) — six files uploaded under the old name.
 
-A second, drawn version of the identity — flat vector crescents and a composited banner
-from Episode 01 plates — also existed briefly. **The user rejected it: the channel art is
-3D cinematic renders, not code-drawn artwork.** The drawn sets are kept only as a record.
+Two earlier identities were rejected by the user and must not come back:
+
+1. **Drawn vector art** — flat crescents and a composited banner from Episode 01 plates.
+   Rejected: the art must be rendered imagery, not code-drawn shapes.
+2. **An eclipse sphere** — a cinematic 3D planet with an ice crust and an ember ring.
+   Rejected: _"this is a fantasy channel, your logo and banner doesn't spike me as fantasy
+   channel"_. It read as science fiction.
+
+Lesson worth keeping: for this channel, genre legibility beats abstraction. A viewer must
+know it is fantasy at a glance, and the channel name must be **in** the artwork, not only in
+the channel-title field.
 
 Kept only as a record of what was tried. Do not upload any of it.
