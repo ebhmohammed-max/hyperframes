@@ -1,15 +1,31 @@
-# Channel setup — Ancient World of Ice and Fire
+# Channel setup — The Long Night
 
-Everything below is ready to paste. Nothing here is a placeholder; every timecode, name
-and credit was taken from the finished film or from the production record.
+Everything below is ready to paste. Every timecode, chapter title and credit was taken
+from the finished film or from the production record.
+
+**This replaces the earlier setup written under the working name "Ancient World of Ice and
+Fire".** That name is dead. The channel is **The Long Night**, and it is a **hybrid
+channel** — the world's cold half and its fire half get equal weight. Nothing in the
+identity, the copy or the episode plan is allowed to be Valyria-only.
 
 ---
 
 ## 1. Positioning
 
 **One sentence:** A quiet, archive-styled documentary channel about the deep past of the
-world of Ice and Fire — the Freehold, the empires before it, and the people who paid for
-both.
+world of Ice and Fire — the cold north and the fire south, the empires, and the people
+who paid for both.
+
+**Why the name works, and the one risk.** "The Long Night" is the single event both halves
+of this world remember. The First Men remember it in the north; the peoples of Essos
+remember it in their own way. A channel named after it can hold Valyria, Old Ghis, the
+Rhoyne _and_ the Wall without ever changing its name. That is the whole reason to use it
+instead of a Valyria title.
+
+The risk: it is the most-used phrase in the fandom, and it is also an astronomy term. You
+will not win search on the phrase itself. **You win on the format** — 35-minute
+single-film documentaries with on-screen sourcing, which almost nobody in this niche
+makes. The name is a flag, not a keyword.
 
 **Who it is for:** readers of the books who want the history treated like history, not
 like a lore recap; and viewers who have never read a page but like ancient-world
@@ -19,8 +35,7 @@ documentaries.
 
 - It reads primary-style material sceptically. Where the record is thin it says so on
   screen (`APPROXIMATE`, `TRADITION`, `RECONSTRUCTION`) instead of inventing precision.
-- It is visually restrained. No jump cuts, no stinger sound on every edit, no shouting
-  thumbnail.
+- It is visually restrained. No jump cuts, no stinger on every edit, no shouting thumbnail.
 - The dates and place names are shown **on the word**, not flashed on a black card.
 
 **Three rules for every future video.** They are what makes it a channel rather than a
@@ -28,127 +43,184 @@ pile of uploads:
 
 1. Start on the narrator's first word. No cold open, no trailer, no "coming up".
 2. One message on screen at a time, and it earns its own sound effect.
-3. Every claim that the surviving record cannot carry is marked in the narration **and**
-   on the board.
+3. Every claim the surviving record cannot carry is marked in the narration **and** on the
+   screen.
 
 ---
 
 ## 2. Name and handle
 
-**Channel name:** `Ancient World of Ice and Fire` (22 characters, fits YouTube's 100-char
-limit and shows in full on mobile).
+**Channel name:** `The Long Night` (13 characters — short enough to show in full
+everywhere, including the mobile shelf).
 
-Rejected alternatives, so the choice is on the record:
+**Handle — read this before you pick.** `@thelongnight` is almost certainly gone, and so
+are the obvious variants. YouTube handles are unique across all of YouTube, so the plan
+is: try in this order, take the first that is free.
 
-- `The Long Night` — collides with astronomy and with a million lore videos.
-- `Before the Dragons` — too close to existing titles, and it narrows the channel to one
-  subject.
-- `Old Valyria` — a topic, not a channel; blocks you from doing Ghis, the Rhoynar, Yi Ti.
+| order | handle                   | notes                                                      |
+| ----- | ------------------------ | ---------------------------------------------------------- |
+| 1     | `@thelongnight`          | try it; expect it taken                                    |
+| 2     | `@thelongnightfilm`      | keeps the name intact, adds the format — the good fallback |
+| 3     | `@longnightarchive`      | "archive" carries the channel's whole method               |
+| 4     | `@thelongnightdocs`      | plain, searchable                                          |
+| 5     | `@thelongnightchronicle` | long, but unambiguous                                      |
 
-**Handle:** `@ancientworldiceandfire` (25 chars, within the 30-char limit).
-Backups if taken: `@ancientworldiaf`, `@beforethedragons`, `@thefreeholdarchive`.
+**Do not** dodge the collision by changing the channel name to something like "Long Night
+History". The name the user chose is the name; only the handle flexes.
 
-**Channel URL:** `youtube.com/@ancientworldiceandfire`
+**Channel URL:** `youtube.com/@<handle you got>`
+
+If every option is taken, add your own distinguishing word rather than a number. Numbers
+read as a spam channel.
 
 ---
 
-## 3. Channel description (paste as-is, 728 characters)
+## 3. Channel description (paste as-is)
 
 ```
 The deep past of the world of Ice and Fire, told like history.
 
-Old Valyria, Old Ghis, the Rhoynar, the Long Night — what the surviving accounts
-actually say, what they leave out, and who paid for the world that was built.
+Valyria and Old Ghis. The Rhoyne and the Rhoynar. The Long Night itself, and what the
+north kept that the south forgot.
 
-Each film is an illustrated reconstruction built from the texts and the traditions
-they preserve. Where the record is thin, the film says so: dates marked approximate,
-stories marked tradition, scenes marked reconstruction.
+Each film is an illustrated reconstruction built from the texts and the traditions they
+preserve. Where the record is thin, the film says so: dates marked approximate, stories
+marked tradition, scenes marked reconstruction.
 
-Episode 01 — Rise of Old Valyria. 35 minutes. New episodes when the research holds up,
-not on a schedule.
+These are long films. One subject, told properly, in about thirty-five minutes. New
+episodes when the research holds up, not on a schedule.
+
+Episode 01 — The Rise of Old Valyria — is out now.
 ```
+
+_Character count: 601. Well inside the 1000 limit._ Note the second paragraph names two
+cold-side subjects and two hot-side ones on purpose: the description does the hybrid work
+that the name alone cannot.
 
 ---
 
 ## 4. Visual identity
 
-**Palette** — already locked in the films, reuse it everywhere so a viewer recognises a
-frame of yours in a crowded feed:
+Built to serve the whole world, not one episode. The mark contains **no dragon, no
+pyramid, no person** — nothing that belongs to only one side of it.
 
-| role      | hex       | use                                                       |
-| --------- | --------- | --------------------------------------------------------- |
-| basalt    | `#07070A` | grounds, end cards, thumbnail field                       |
-| parchment | `#F2EAD9` | primary type                                              |
-| ember     | `#D78A3C` | the one accent: rules, place-name edges, the channel mark |
-| ember hot | `#F0B063` | eyebrows only, never body text                            |
-| paper     | `#E8DCC2` | archive-board paper, if you bring boards back             |
+**The mark — two crescents, one night.** A cold disc and a warm disc of equal size,
+offset so their overlap is nothing. What survives is a crescent of **ice** on the left
+limb and a crescent of **fire** on the right, both opening around the same dark centre.
+It is three shapes, so it still reads at 24 px, and it says "two worlds, one night"
+without illustrating either.
 
-**Type** — Playfair Display for titles, Georgia for body, JetBrains Mono for labels.
-These are bundled with the renderer, so every frame is deterministic.
+**Palette** — locked, and already used in the films:
 
-**Logo mark:** the numeral of the chapter set in Playfair Display italic, in parchment at
-12% opacity, crossed by a single 2px ember rule. It reads at 24px in a sidebar and it is
-the same graphic used in the film's chapter cards, so there is no separate brand to
-maintain.
+| role        | hex       | use                                                        |
+| ----------- | --------- | ---------------------------------------------------------- |
+| basalt      | `#07070A` | grounds, end cards, thumbnail field                        |
+| basalt soft | `#0E0F14` | panels, gradient floors                                    |
+| glacial     | `#D8E4EC` | the cold half of the wordmark                              |
+| parchment   | `#F2EAD9` | primary type on dark                                       |
+| ember       | `#D78A3C` | the one accent: rules, the fire crescent, place-name edges |
+| ember hot   | `#F0B063` | "NIGHT", eyebrows — never body text                        |
+| frost       | `#A8C6D8` | labels on the cold side                                    |
 
-**Banner (2048×1152):** basalt field, a smoke-and-basalt plate from the film desaturated
-to 60% on the right third, the channel name set in Playfair Display parchment at the
-left, and one ember rule under it. Safe area: keep all type inside the central
-1546×423 strip, because YouTube crops the banner three ways.
+**Type** — Playfair Display for all display type, DejaVu Sans Mono for labels and
+eyebrows. Both are bundled with the renderer, so every frame is deterministic.
+
+**Wordmark** — `THE LONG` in glacial over `NIGHT` in ember-hot, one ember hairline
+through the cut, and the words `ICE` (frost) and `FIRE` (ember) set small above the two
+ends. The stacked version is the channel lockup; the single-line version is for
+end cards.
+
+**Files, all in `renders/channel_ln/`:**
+
+| file                                 | size      | use                                       |
+| ------------------------------------ | --------- | ----------------------------------------- |
+| `logo_800x800.png`                   | 800×800   | channel profile picture                   |
+| `logo_preview_sizes.png`             | —         | proof: the avatar at 98 / 64 / 40 / 24 px |
+| `banner_thelongnight_2048x1152.jpg`  | 2048×1152 | channel banner                            |
+| `banner_safe_area_check.png`         | 2048×1152 | proof: the 1546×423 safe strip drawn on   |
+| `banner_mobile_crop.jpg`             | 1235×338  | proof: what a phone actually shows        |
+| `mark_dark.png` / `mark_light.png`   | 1600×620  | lockup for dark grounds / light grounds   |
+| `thumb_ep01_rise_of_old_valyria.jpg` | 1280×720  | Episode 01 thumbnail                      |
+| `thumb_template_who_paid.jpg`        | 1280×720  | Episode 02 placeholder                    |
+| `thumb_template_missing_secret.jpg`  | 1280×720  | chapter-cutdown placeholder               |
+| `PREVIEW_thumbs_400px.png`           | —         | proof: all three at 400 px                |
+
+**Banner construction, so it can be rebuilt:** a frozen valley at night on the left
+(plate `0049`), a fire mountain at dusk on the right (plate `0176`), both reduced to
+weather, meeting at a hairline seam down the centre. Neither is a scene — no figure, no
+monument — so the banner does not tie the channel to Episode 01. All type sits inside
+the central 1546×423 strip, and the mobile crop keeps the full lockup.
 
 ---
 
 ## 5. Thumbnail system
 
-Not one design — three, used in a fixed rotation, so the channel page has rhythm without
-looking random.
+One design language, three content types. The language is fixed; only the plate changes.
 
-| template           | when                                        | composition                                                                              |
-| ------------------ | ------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **A — The Figure** | character-led episodes                      | one person, off-centre, looking out of frame; 3-word title top-left, ember rule under it |
-| **B — The Land**   | place-led episodes                          | landscape plate full-bleed, darkened 40%, title bottom-left on the basalt field          |
-| **C — The Object** | artefact-led episodes (horns, roads, steel) | macro of the object, title centred small, ember hairline frame inset 40px                |
+**Fixed elements, every thumbnail:**
 
-Rules that stay fixed across all three:
+- `EPISODE <n>` or `CHAPTER <n>` in mono at top-left, over a short ember rule.
+- A two-line title: first line **glacial**, second line **ember-hot**.
+- A bottom line in mono, one clause, selling the size of the film.
+- A corner tag, `ICE` or `FIRE` — the channel's own grammar, and a quiet signal that the
+  series is a hybrid.
+- A left scrim, so type never has to fight a plate.
 
-- **Three words maximum.** The film is 35 minutes; the thumbnail is a door, not a summary.
-- **One ember element per thumbnail.** That is the recognisable constant.
-- **No faces with open mouths, no arrows, no red circles.** Restraint is the brand.
-- **Type at 90px or larger** at 1280×720, so it survives the mobile crop.
-- Test every thumbnail at **168×94 px**. If the title is unreadable there, it is wrong.
+**Rules:**
 
-First five thumbnails, specified:
+- **Two lines maximum, five words maximum.** The film is 35 minutes; the thumbnail is a
+  door, not a summary.
+- **One ember element besides the second title line.** Restraint is the brand.
+- No faces with open mouths, no arrows, no red circles.
+- Type at 90px or larger at 1280×720, so it survives the mobile crop.
+- Test at **168×94 px**. If the title is unreadable there, it is wrong.
 
-1. `Rise of Old Valyria` — template B, the Fourteen Flames plate, title bottom-left.
-2. `Who Paid` — template A, the mine worker from 1600 s, title top-left.
-3. `The Missing Secret` — template C, the dragon horn, title centred.
-4. `Old Ghis` — template B, the brick pyramid and harpy plate.
-5. `The Long Night` — template B, the frozen river plate from 97 s.
+**The rotation, so the channel page has rhythm:**
+
+| tag    | when                       | plate                                       |
+| ------ | -------------------------- | ------------------------------------------- |
+| `ICE`  | northern / cold-side films | snowfield, frozen coast, bone, dark volcano |
+| `FIRE` | southern / hot-side films  | brick pyramids, phalanx, bronze, amber      |
+| both   | the hybrid films           | one of each, split at the rule              |
 
 ---
 
-## 6. Episode plan
+## 6. Episode plan — the hybrid, stated plainly
 
-| #   | Title                    | Scope                                                           | Status                  |
-| --- | ------------------------ | --------------------------------------------------------------- | ----------------------- |
-| 01  | Rise of Old Valyria      | Shepherds → dragonlords; ends at the five wars                  | **Rendered, 35:00**     |
-| 02  | The Harpy and the Dragon | The five Ghiscari wars, told as a war documentary               | Written, needs pictures |
-| 03  | The Rhoyne               | River civilisation, water magic, and the conquest that ended it | Research                |
-| 04  | The Long Night           | Comparative memory across Essos; what each culture kept         | Research                |
-| 05  | The Doom                 | The Fourteen Flames, one night, and the century after           | Research                |
+The channel alternates. One hot film, one cold film, and the two long arcs are the spine.
 
-Naming pattern: `Rise of Old Valyria | Ancient World of Ice and Fire`. The channel name
-suffix is deliberate — it makes search results look like a series.
+**Arc A — Fire: the Freehold and its neighbours**
+**Arc B — Ice: the North and the Long Night**
+
+| #   | Title                      | Arc  | Scope                                                           | Status                  |
+| --- | -------------------------- | ---- | --------------------------------------------------------------- | ----------------------- |
+| 01  | The Rise of Old Valyria    | Fire | Shepherds → dragonlords; ends at the five wars                  | **Rendered, 35:00**     |
+| 02  | The Harpy and the Dragon   | Fire | The five Ghiscari wars, told as a war documentary               | Written, needs pictures |
+| 03  | The Wall That Wasn't There | Ice  | What the North actually built, and when the stories say it was  | Research                |
+| 04  | The Rhoyne                 | Fire | River civilisation, water magic, and the conquest that ended it | Research                |
+| 05  | The Long Night             | both | What each culture kept of it — the channel's namesake film      | Research                |
+| 06  | The Doom                   | Fire | The Fourteen Flames, one night, and the century after           | Research                |
+
+**Why 03 sits where it does:** it is the first cold-side film and it must arrive early,
+or the channel will be read as a Valyria channel with a northern name. It is also the
+cheapest to make — the 1050 Episode 01 plates already contain snowfield, frozen coast,
+bone-rib and dark-volcano material (plates `0049`, `0175`, `0176`, `0422` are the
+coldest in the set).
+
+**Naming pattern:** `Rise of Old Valyria | The Long Night`. The channel suffix makes
+search results look like a series.
 
 ---
 
 ## 7. Upload package — Episode 01, ready to paste
 
-### Title (92 characters)
+### Title
 
 ```
-Rise of Old Valyria: From Shepherds to Dragonlords | Ancient World of Ice and Fire
+The Rise of Old Valyria: Shepherds to Dragonlords | The Long Night
 ```
+
+_66 characters._
 
 ### Description
 
@@ -174,9 +246,10 @@ CHAPTERS
 25:30 The beautiful surface, the darkness below
 30:30 The harpy looks west
 
-ANCIENT WORLD OF ICE AND FIRE
+THE LONG NIGHT
 A documentary channel about the deep past of the world of Ice and Fire.
-Episode 02 — The Harpy and the Dragon — is in production.
+The fire half and the cold half, told the same way.
+Next: The Harpy and the Dragon.
 
 CREDITS
 Music: "Ancient Rite", "Night Vigil", "Mana Two — Part 1" and "Ancient Winds" by
@@ -200,22 +273,25 @@ underlying setting and characters belong to their respective rights holders. Thi
 notice is not a claim of permission or a legal determination.
 ```
 
-### Tags (492 characters, under YouTube's 500 limit)
+### Tags
 
 ```
-old valyria, rise of old valyria, valyrian freehold, ancient world of ice and fire,
-dragonlords, old ghis, valyria explained, game of thrones lore, house of the dragon
-lore, asoiaf history, fourteen flames, doom of valyria, targaryen origins, valyrian
-steel, harpy of ghis, essos history, long night, documentary, lore documentary,
-fantasy history
+old valyria, rise of old valyria, valyrian freehold, the long night, dragonlords,
+old ghis, valyria explained, game of thrones lore, house of the dragon lore, asoiaf
+history, fourteen flames, doom of valyria, targaryen origins, valyrian steel, harpy of
+ghis, essos history, long night lore, westeros history, documentary, lore documentary,
+fantasy history, deep dive
 ```
+
+_366 characters, under YouTube's 500 limit. Note that the tag list still leans Valyria —
+that is correct for this film. The **channel** keywords carry the hybrid._
 
 ### Pinned comment
 
 ```
 Chapter timestamps are in the description. If you want the sourcing for any specific
-claim — the five thousand years, the Blood Betrayal, the eastern teachers — ask and
-I will point to where it comes from and where the record runs out.
+claim — the five thousand years, the Blood Betrayal, the eastern teachers — ask and I
+will point to where it comes from and where the record runs out.
 ```
 
 ---
@@ -224,19 +300,23 @@ I will point to where it comes from and where the record runs out.
 
 **Branding tab**
 
-- Profile picture: the numeral mark, 800×800 PNG on basalt.
-- Banner: 2048×1152, safe area 1546×423.
-- Watermark: the ember rule only, display "entire video", 150×150 PNG.
-- Video watermark is the one piece of branding that should be nearly invisible.
+- Profile picture: `logo_800x800.png`. Check it in the sidebar at 98 px before you
+  commit — that is the size most viewers ever see.
+- Banner: `banner_thelongnight_2048x1152.jpg`. Confirm against
+  `banner_safe_area_check.png`; all type is inside 1546×423.
+- Watermark: the mark at 150×150 PNG, display **entire video**. It should be nearly
+  invisible — build it from `mark_dark.png` at low opacity, not from the avatar.
 
 **Basic info**
 
 - Country: your own.
-- Keywords: `old valyria, asoiaf lore, fantasy documentary`.
+- Channel keywords: `the long night, ice and fire history, fantasy documentary, asoiaf
+lore, valyria, westeros, essos, documentary`. **This is where the hybrid lives** — it
+  is a channel-level field, so it should name both halves.
 - **Altered content disclosure: yes.** The illustrations are synthetic and the narration
   is synthetic. Disclose it in the upload flow, not only in the description. This is a
   platform-settings question that exists independently of whether the video itself
-  mentions it — you can keep the film free of any mention and still tick the box.
+  mentions it — the film can stay free of any mention and you still tick the box.
 
 **Upload defaults**
 
@@ -247,37 +327,54 @@ I will point to where it comes from and where the record runs out.
   do not label estimated timings as exact subtitles.
 - Comments: on, with "hold potentially inappropriate comments for review" enabled.
 - License: Standard YouTube licence. Do not pick Creative Commons — it would let others
-  reuse your films commercially.
+  reuse the films commercially.
 
 **Playlists**
 
-- `The Deep Past — full documentaries` (everything, in order)
-- `Before the Doom` (Valyria series)
-- `How the films are made` (optional; process videos build trust cheaply)
+- `The Long Night — full documentaries` (everything, in order)
+- `Fire: the Freehold` (Arc A)
+- `Ice: the North` (Arc B)
 
 **About tab**
 
 - Paste the description from section 3.
-- Add the business email only if you want sponsorship enquiries.
+- Business email only if you want sponsorship enquiries.
 - Links: keep to two. More looks like a directory, not a channel.
 
 ---
 
 ## 9. Publishing cadence and the honest limits
 
-- **Do not promise weekly.** The channel description says "new episodes when the research
-  holds up, not on a schedule". That is a promise you can keep, and it is itself part of
-  the positioning: slow, careful, unhurried.
-- **One 35-minute film is enough to launch.** Two is better. Three makes the channel look
-  established.
-- **Reuse ruthlessly.** The 1050 plates for Episode 01 already contain Ghis, the Rhoyne
-  and the Long Night material. Episode 02 and 04 can be built from pictures you own.
+- **Do not promise weekly.** The description says "new episodes when the research holds
+  up, not on a schedule". That is a promise you can keep, and it is part of the
+  positioning: slow, careful, unhurried.
+- **Ship the cold film early.** Episode 01 proves the format; Episode 03's northern film
+  proves the name. If the second upload is another Valyria film, the channel reads as a
+  Valyria channel and the name looks like a costume.
+- **Reuse ruthlessly.** The 1050 Episode 01 plates already contain snowfield, frozen
+  coast, bone-rib, dark-volcano, Ghis, and Rhoyne material. Episodes 02, 03 and 04 can be
+  built largely from pictures you already own.
 
 What this setup cannot do, so nobody assumes otherwise:
 
+- It **cannot** get you the `@thelongnight` handle if it is taken. See section 2's ladder
+  and flex the handle, never the name.
 - It cannot guarantee monetisation or the absence of Content ID claims. The music is CC BY
-  and allows commercial adaptation, but that clears the music only, not the fan-documentary
-  question as a whole.
+  and allows commercial adaptation, but that clears the music only, not the
+  fan-documentary question as a whole.
 - It cannot promise 4K. The plates are 1376×768, so 1080p is the honest ceiling.
 - It cannot substitute for a lawyer's read if you ever intend to monetise the fan-work
   category seriously.
+
+---
+
+## 10. Superseded material
+
+The earlier setup and artwork were built around the working name "Ancient World of Ice
+and Fire". All of it is now dead:
+
+- `renders/channel/` — old banner, avatar, three thumbnails, trio preview.
+- Google Drive folder **"Channel art - Ancient World of Ice and Fire"**
+  (`1QuKBtMvI6i6HgAGRJZpDyVZ9vphHisYb`) — six files uploaded under the old name.
+
+Kept only as a record of what was tried. Do not upload any of it.
