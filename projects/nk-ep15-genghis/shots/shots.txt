@@ -66,7 +66,7 @@ N03|6|retreat_into_gorge|R@temujin|the young man leading a few tired riders into
 N03|7|snow_single_track|S|the empty steppe under snow with a single line of hoof prints leading away to the horizon, no people
 N03|7|return_with_riders|R@temujin|the same man, now in his thirties with a weathered face, riding at the head of a column of riders with a horsehair standard
 N03|8|four_standards_row|R|four different captured horsehair standards planted in the ground in a row before a great camp of gers, no people
-N03|8|chiefs_lay_down_bows|R|chiefs of a defeated tribe kneeling and laying their bows on the grass before a mounted leader who is seen from behind
+N03|8|bows_laid_down|R|a long row of bows and quivers laid down on the grass in front of a waiting line of horses' legs, their owners standing far behind with heads bowed, seen from low down, no people close
 N03|9|rival_led_bound|S@jamukha|the rival chief, older, with his wrists bound, led on foot by five of his own men toward a great camp
 N03|9|rival_before_leader|R@temujin,jamukha|inside a great tent, the rival chief standing with bound wrists before the seated leader, who is the man from the first reference picture
 N03|10|five_men_led_away|R|five men being led away from a great tent by guards, all seen from behind, no violence shown
