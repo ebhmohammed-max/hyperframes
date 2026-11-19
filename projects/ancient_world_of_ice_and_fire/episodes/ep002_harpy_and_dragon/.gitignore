@@ -1,0 +1,11 @@
+# Generated media: reproducible from the build scripts, too large for git.
+documentary_v2/assets/images/
+documentary_v2/assets/audio/
+documentary_v2/assets/gsap.min.js
+documentary_v2/compositions/
+documentary_v2/index.html
+documentary_v2/production/BED_LEVELS.json
+documentary_v2/production/SHOT_LIST.json
+documentary_v2/production/NARRATION_TIMING.json
+documentary_v2/production/MIX_REPORT.json
+story_film_35min/audio/

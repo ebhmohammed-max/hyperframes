@@ -136,7 +136,8 @@ def align(ss: list[str], segs: list[tuple[float, float]]) -> list[dict]:
             if best_d is None or d < best_d:
                 best, best_d = (g, k), d
         if best is None:                      # no gap in reach: cut proportionally
-            best = (t, min(lo, len(segs) - 1))
+            # k must index a real gap; len(segs)-1 is the last run and has no gap after it
+            best = (t, min(lo, max(len(gaps) - 1, 0)) if gaps else 0)
         chosen.append(best)
         lo = best[1] + 1
 
