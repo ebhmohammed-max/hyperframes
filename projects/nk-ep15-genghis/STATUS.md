@@ -55,6 +55,7 @@ Topic in the user's words: "Genghis Khan: The Man Who Conquered the World", abou
 | Batch | Pictures | Zip id | Sheet id | Notes |
 |---|---|---|---|---|
 | B01 | 001–012 | `1yqwpHF9MSrOxiuyPZ2miXKHv1LS039x4` | `1qhf97XCt5byK7XO52gQ23Ufqt-FGWusI` | 011 and 012 came with a thin black bar on top: cropped in `shots/crops.json`. An earlier zip of 001–002 only (`1APuH6LVIAT_DFe_luSsl7XZT3Dlyg4jb`) is still in the folder and can be deleted |
+| B02 | 013–022 | `1YtYtVs9E_zxTqsTKbn_ilPCPrXAufUYz` | `1QLm2rgrsFA6mqJ4O_G2e2D8UCwfwIsyS` | hook complete. 016: the pen lines are invented marks, not a real script |
 
 ## After a full wipe of the workspace
 
