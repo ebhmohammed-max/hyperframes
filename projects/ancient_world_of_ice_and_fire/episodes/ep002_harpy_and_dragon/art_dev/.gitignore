@@ -1,4 +1,5 @@
+# derived from the masters; regenerate with build_ep002_plates.py
+plates/
 f2/
-frames_contact.jpg
-f2_contact.jpg
+*_contact.jpg
 frame_*.jpg

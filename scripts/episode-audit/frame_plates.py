@@ -14,13 +14,15 @@ AR = W_OUT / H_OUT
 # (zoom, focus_x, focus_y). zoom 1.0 = whole frame; higher = tighter.
 # focus is the point of interest in 0..1 master coordinates.
 SHOTS = [
-    (1.00, 0.50, 0.50), (1.08, 0.45, 0.52), (1.16, 0.58, 0.48),
-    (1.06, 0.35, 0.55), (1.10, 0.68, 0.50), (1.28, 0.52, 0.46),
-    (1.35, 0.40, 0.52), (1.20, 0.30, 0.58), (1.14, 0.62, 0.54),
-    (1.05, 0.50, 0.38), (1.45, 0.55, 0.50), (1.30, 0.35, 0.62),
-    (1.22, 0.65, 0.58), (1.12, 0.45, 0.66), (1.18, 0.50, 0.50),
+    # wide establishing, then drift: establishes in, pushes, crosses the frame,
+    # finds detail, then returns. No two consecutive shots share a focal point,
+    # which is what stops fifteen plates reading as one photograph.
+    (1.00, 0.50, 0.50), (1.06, 0.32, 0.54), (1.12, 0.68, 0.46),
+    (1.20, 0.45, 0.62), (1.32, 0.60, 0.50), (1.45, 0.34, 0.42),
+    (1.24, 0.72, 0.58), (1.10, 0.50, 0.70), (1.38, 0.42, 0.36),
+    (1.16, 0.66, 0.66), (1.30, 0.28, 0.60), (1.52, 0.55, 0.44),
+    (1.18, 0.40, 0.50), (1.08, 0.62, 0.38), (1.26, 0.50, 0.55),
 ]
-
 def frame(im, zoom, fx, fy, out=W_OUT, h_out=H_OUT):
     W, H = im.size
     # largest 16:9 window at this zoom that fits the master
