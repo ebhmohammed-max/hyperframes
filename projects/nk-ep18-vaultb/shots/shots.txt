@@ -95,8 +95,8 @@ N06|1|lamp_at_doorstep|T@temple|a small brass lamp burning beside a marigold gar
 N06|2|tea_shop_whispers|T|men at a small roadside tea shop seen from behind, heads close together in talk, one of them pointing down the lane toward the temple
 N06|3|astrologers_circle|D|seen from directly above: several elderly priests sitting on the floor in a circle around a tall brass lamp and a low wooden board, only the tops of their heads and their shoulders visible
 N06|3|cowries_on_board|X|a handful of white cowrie shells spread on a low wooden board marked with a simple grid of chalk squares, beside a brass lamp, flowers and a heap of rice
-N06|3|palm_raised_stop|D|an old priest's open palm raised in a firm gesture of refusal, dark against the glow of a tall brass lamp, hand and forearm only
-N06|4|cobra_door_legend|L|a tall door carved with two great cobras rising face to face, hoods spread, glowing faintly in a dark vault, no people
+N06|3|palm_raised_stop|D|close view of an old priest's arm reaching in from the right edge of the frame at shoulder height, the open palm held up flat toward the left in a firm gesture of refusal, large in the frame and dark against the soft glow of a tall brass lamp behind it, the arm leaving the frame at the right edge, hand and forearm only
+N06|4|cobra_door_legend|L|a tall door carved with two great cobras rising face to face, hoods spread, glowing faintly in a dark vault, the door set in a straight South Indian frame of plain granite posts and one flat granite lintel, with no arches and no vaulting anywhere, no people
 N06|4|sage_chant_legend|L|an old sage seen from behind seated cross-legged before a sealed door, and above him in the dark the huge shape of an eagle made of pale light with its wings spread
 N06|5|sea_behind_door_legend|L|a closed door in a stone wall seen as if the wall were cut open: behind it, dark sea water pressing against the stone and waves rolling in the blackness, no people
 N06|6|old_travel_book|X|a cloth-bound travel guide of the 1930s lying open on a table with round spectacles, a pressed leaf and a steel pen, the print only fine blurred lines

@@ -12,7 +12,7 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026 (topic bank
 - All nine clips generate (`film/gen.mjs`, `title.mjs`, `end.mjs`); film length 546.5 s (9 min 7 s).
 
 ## Next
-1. Pictures (87 of 127 made; next is 088): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
+1. Pictures (97 of 127 made; next is 098): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
 2. When all 127 are in: `node film/gen.mjs N01` … `N07`, `node film/title.mjs`, `node film/end.mjs`; look at stills; `bash tools/render.sh` (background process, about 75 minutes on 2 CPUs).
 3. `bash tools/finish.sh parts`, then `VB=1300k bash tools/finish.sh 720` (the film is 13 s longer than EP17, so a little lower than EP17's 1350k); frame sheets; upload the eight files; final status.
 
@@ -60,6 +60,7 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → folder `EP18_Pad
 | B07 | 058–067 | `EP18_B07_images_058-067.zip` `1L31ULSZM5qcAEDsW8AeQ20y__OfEHB9g` | 058, 059, 062–067 usable (the firemen in 064 are seen partly in profile; invented faces). **060 and 061 to be made again**: 060 is an awkward row of five men bent over, seen from low behind; 061 has carved pillars behind the slab and a thin black strip along the top edge |
 | B08 | 068–077 | `EP18_B08_images_068-077.zip` `14PHZoBIolK-fwCdc5ikphGOcx4VDqJ8h` | 069–075, 077 usable (074: the chain lies doubled and the corridor has plain pilasters; kept). **068 and 076 to be made again**: 068 is bright and over-sharpened, not "gold like stars in the dark" (it is also the N05 chapter-card background); 076, the cloth-wrapped figure, reads as a bandaged child with a face-shaped hollow |
 | B09 | 078–087 | `EP18_B09_images_078-087.zip` `1eab9IECWuoWf-89JDwU7iDvEmrLORqi3` | All usable. 079: the bowl rims show little of the gem setting; 080: the diamond is nearer egg size than thumb-top size; 083: newspaper print is blurred bars, unreadable; 085: the three doorways hold only lamp glow (the model for remaking 022) |
+| B10 | 088–097 | `EP18_B10_images_088-097.zip` `1ieYq9GnHi6EVCWVXK9dmJ2yfqzgBnWKn` | 088–095 usable (094 shows eight priests with bowed heads, no clear faces). **096 and 097 to be made again**: 096 is a forearm standing upright from the floor like a cut-off arm; 097, the cobra door of the legend (also the N06 chapter-card background), stands in round European crypt arches |
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep18-vaultb/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
