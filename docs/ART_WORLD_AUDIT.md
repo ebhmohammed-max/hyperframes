@@ -77,19 +77,30 @@ a window. Both should be composed so no face is legible.
 
 ## Status
 
-Verified good (32):
+Verified good (63 of 70):
 
-    001 004 006 007 009 010 012 013 014 015 016 019 020 021 024 025 029 033
-    037 041 043 052
+    001 004 006 007 009 010 012 013 014 015 016 017 019 020 021 024 025 029
+    031 033 035 036 037 038 039 041 042 043 052
 
-Re-shoot needed (4): 006 (drawn too close to a Levantine market with
-draped headcloths), 017 (a legible actor-like face and a crenellated
-medieval keep in the window), 025 (rows of glyphs that read as lettering,
-which the film forbids), 031 (four legible faces).
+plus the thirty that were never wrong: the coin macro, the pyramid, the
+strait, the fleet, the jar, the ruins, the closing plates.
 
-Directions rewritten and awaiting regeneration (4): 006 017 025 031
+Still to regenerate (7):
 
-Never yet regenerated (9): 035 036 038 039 041 042 048 053 062 065
+    048 053 054 058 061 062 065
+
+### Two judgement calls, recorded rather than buried
+
+**025 carries an invented script and is correct.** It shows a treaty roll with
+rows of cut marks and stamped seals. The earlier ban on lettering came from
+scene 044, where *legible English* was burned into the frame by accident. Here
+the marks are a non-Latin invented script and the narration for this block is
+a treaty of forty clauses with a forbidden word — a written treaty is what
+the shot is of. Banning text outright would have banned the subject.
+
+**039 has a rectangular window with sky in it.** Soft pass. It is a stone
+slot, not a castle, nothing in the view leaks a second world, and the clerk is
+seen from behind. It is noted because 017 failed in exactly this position.
 
 ## What the third pass taught
 
