@@ -13,7 +13,7 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - **All 128 pictures** generated, looked at and uploaded (batches B01–B13; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
 
 ## Next
-1. The three remakes (072, 074, 061) listed under "Picture batches", zipped as `EP17_B14_remakes.zip` (`$PY tools/batch.py <batch> <first> <last> [big …]` zips a batch and builds the review sheet), then the remakes listed under "Picture batches" (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
+1. The three remakes (072, 074, 061) with the changed wording in the "Remakes" table under "Picture batches": save to `google_drive/ep17_pics/raw/NNN.jpg`, `bash tools/restore.sh` (delete `out/img/NNN.jpg` first so the film copy is rebuilt), look at them, zip as `EP17_B14_remakes.zip`, upload to the Drive `images` folder, log it.
 2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
 3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
 4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
