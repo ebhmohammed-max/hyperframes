@@ -55,7 +55,7 @@ SCENES = {
 5: ("A colossal stepped brick pyramid rising over a desert city, a bronze harpy statue "
     "with spread wings and raised thunderbolt on its summit catching the last light, "
     "roofs of the lower city beyond, seen from a day's sail away.", GHIS),
-6: ('A crowded slave market beneath high ochre mud-brick walls: a line of bound captives with shaved heads, a Ghiscari clerk pressing marks into a wet clay tablet with a bone stylus, bronze coins changing hands, faces in shadow, dusty air, harsh noon.',
+6: ('A crowded Ghiscari slave market beneath high ochre mud-brick walls, seen from behind a clerk at a low table: a line of bound captives with shaved heads and lowered faces, a hand pressing marks into a wet clay tablet with a bone stylus, bronze coins changing hands, dusty air, harsh noon, no legible faces.',
     GHIS),
 7: ('Ghiscari heavy infantry in perfect lockstep on a dry desert road seen from the side: tall crested bronze helmets, scale and leather armour, long iron spears and wicker shields, dust rising in a long plume, ochre hills beyond, unfamiliar soldiers of no earthly nation.',
     GHIS),
@@ -63,12 +63,12 @@ SCENES = {
     VALYRIA),
 9: ('An abandoned shield wall on an empty shore: large oval wicker-and-hide shields, painted in ochre and black, standing overlapping in a neat line, intact and undamaged, scorched ground beyond them, no soldiers.',
     GHIS),
-10: ('Ghiscari generals in a lamplit hall of ochre brick and carved cedar around a table spread with clay models of towers, walls and ships, one man pointing with a stylus, the others sceptical, braziers burning, no glass lamps.',
+10: ('Ghiscari generals around a table of clay models of towers, walls and ships, seen from over the shoulder of one man in a dark cloak, the others leaning in as backs and hooded heads, no face legible, a hand with a bronze stylus pointing, braziers burning in a carved cedar hall of ochre brick, lamplight, no glass.',
     GHIS),
 11: ("Two war fleets in a narrow strait at dusk, hundreds of oars, a harbour with a "
      "stone mole and a lighthouse, tension in the still water.", "grey-green sea, amber sky"),
-12: ('A Ghiscari officer walking his line at night, torchlight on tall crested bronze helmets and scaled armour, men coughing and casting knucklebones on the ground, and high above the cloud a vast slow wing-shadow crossing the moonlit ground.',
-    'night, torch amber, cold blue moon'),
+12: ("A Ghiscari officer's back as he walks his line at night, torchlight along a rank of plain iron helmets and scaled armour, men sitting on the ground coughing and casting knucklebones, all heads turned away or down, and high above the cloud a vast slow wing-shadow crossing the moonlit ground, no horns, no ornament.",
+    GHIS),
 13: ('Ghiscari infantry holding formation on an open shore while enormous wing-shadows sweep across them, iron spears still upright, oval wicker shields raised, faces upturned and unfamiliar, no enemy visible on the ground, smoke and firelight falling from above.',
     'grey smoke, orange firelight from above'),
 14: ("A single large oval wicker-and-hide shield lying flat in the sand, painted ochre and black, its owner's formation gone, footprints leading away in perfect order, ash haze in the air.",
@@ -133,7 +133,7 @@ SCENES = {
     'faded crimson and ochre'),
 42: ('A Valyrian council of rival dragonlord houses deadlocked: men and women in black robes with ember-coloured embroidery, silver hair, hands raised against each other, a carved stone map of a city between them nobody can agree to finish, firelight, black stone hall, faces unfamiliar and invented.',
     VALYRIA),
-43: ('A Valyrian table set for a Ghiscari negotiator: a bronze plate of fine food, an unopened hide scroll and a cup, watched from across the table by two dragonlords seen in silhouette against firelight, faces indistinct, black stone and ember light, warm interior, cold courtesy.',
+43: ("A Valyrian table set for a Ghiscari negotiator, seen from behind and above the visitor's shoulder: a bronze plate of fine food, an unopened hide scroll, a cup, and across the table two dragonlords in silhouette against a fire pit, their faces entirely in shadow, black stone and ember light, cold courtesy.",
     VALYRIA),
 44: ('A hand striking out a line of tally notches on a cured hide scroll with a bronze awl, a second line cut away, a lump of wax ready for sealing, candlelight, no lettering of any kind, no paper.',
     'candlelight, parchment'),
@@ -152,8 +152,8 @@ SCENES = {
 51: ("A small side-street temple in a lesser city with a bronze harpy above the door, "
      "markets going on around it, coin weighed in a hand in the foreground.",
      GHIS + ", ordinary afternoon"),
-52: ("A Valyrian dragonlord at a window above the sea, confident, wine in hand, the water "
-     "outside entirely calm.", VALYRIA + ", golden hour"),
+52: ('A Valyrian dragonlord seen from behind at a tall unglazed window above a calm black sea, one hand resting on the sill with a bronze wine cup, silver hair and a long black cloak, face turned to the water and not visible, black stone sill, golden hour on the horizon, the sea entirely still.',
+    VALYRIA),
 53: ('A golden age Ghiscari coastline: busy harbours of flat-roofed ochre warehouses, fishing boats, full granaries, a dragon a distant speck in the sky, everything peaceful and slightly too quiet, no domes, no church towers.',
     'warm gold, blue sea'),
 54: ("A single harpy-stamped gold coin on a rough wooden counter in a Ghiscari market, the same coin repeated in two more counters in the blurred background, honest beam balance of twisted cord and a pan of grain beside it, merchants' hands, no modern instruments, no glass.",

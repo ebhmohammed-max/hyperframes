@@ -77,14 +77,31 @@ a window. Both should be composed so no face is legible.
 
 ## Status
 
-Regenerated and verified: **007, 009, 013, 015, 024, 033, 037** — seven good.
+Verified good after regeneration (13):
 
-Directions rewritten, image not yet regenerated: **001, 004, 006, 010, 012, 014,
-016, 017, 019, 020, 021, 025, 029, 031, 035, 036, 038, 039, 041, 042, 043, 048,
-052, 053, 054, 058, 061, 062, 065.**
+    001 004 007 009 013 014 015 016 019 024 033 037 052
 
-The image tool caps at ten per turn, so this proceeds ten at a time. Nothing
-renders until the set is clean.
+Directions rewritten and awaiting regeneration (4):
+
+    006 010 012 043
+
+Never yet regenerated (19):
+
+    017 020 021 025 029 031 035 036 038 039 041 042 048 053 054 058 061 062 065
+
+The image tool caps at ten per turn, so this proceeds ten at a time and a
+turn's budget is spent in one go. Nothing renders until the set is clean.
+
+## What the second pass taught
+
+The negative list alone does not stop a wrong face. Scenes 043, 010 and 012
+were regenerated with the full world anchor and still came back with legible,
+actor-like faces, and 012 additionally grew horned fantasy-game helmets.
+
+The lever that works is **camera**, not prose. Every scene with people is now
+written as one of: from behind, over the shoulder, in silhouette, heads
+turned away or down, or faces hidden in shadow. 019 and 052 are the proof —
+both full of people, neither with a face you could mistake for someone.
 
 ## The rule that follows
 
