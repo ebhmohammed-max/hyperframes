@@ -55,7 +55,7 @@ SCENES = {
 5: ("A colossal stepped brick pyramid rising over a desert city, a bronze harpy statue "
     "with spread wings and raised thunderbolt on its summit catching the last light, "
     "roofs of the lower city beyond, seen from a day's sail away.", GHIS),
-6: ('A crowded Ghiscari slave market beneath high ochre mud-brick walls, seen from behind a clerk at a low table: a line of bound captives with shaved heads and lowered faces, a hand pressing marks into a wet clay tablet with a bone stylus, bronze coins changing hands, dusty air, harsh noon, no legible faces.',
+6: ('A Ghiscari slave market seen from above and behind the buyers: a crowd of men with shaved heads in ochre tunics standing in loose lines in a walled dust yard, buyers in robes with their backs to the camera, one hand pressing a bone stylus into a wet clay tablet, bronze coins on a low table, harsh noon, no face legible, no turbans, no draped headcloths.',
     GHIS),
 7: ('Ghiscari heavy infantry in perfect lockstep on a dry desert road seen from the side: tall crested bronze helmets, scale and leather armour, long iron spears and wicker shields, dust rising in a long plume, ochre hills beyond, unfamiliar soldiers of no earthly nation.',
     GHIS),
@@ -77,8 +77,8 @@ SCENES = {
     GHIS),
 16: ('A treaty being sealed in a high cool hall of ochre brick and carved cedar: two seated envoys in heavy robes seen from behind and in profile, their faces hidden in shadow, a clay tablet of clauses between them, two seal stones, hands not quite touching, plain spearmen standing back in the half-light, shafts of dusty light, no paper, no lettering.',
     GHIS),
-17: ('An ashamed Ghiscari officer alone at a low table with a clay cup and a scratched map on hide, grey-blue dawn light through a narrow brick window, the city wall visible outside entirely unchanged, a sheathed bronze sword on the bench.',
-    'grey-blue interior, thin light'),
+17: ('The abandoned desk of a Ghiscari officer at dawn: a low table with a clay cup, a scratched map on hide weighed down with a stone, and a sheathed bronze sword on the bench, the seat empty and pushed back, thin grey-blue light from a high narrow slot in the mud-brick wall, no window view, no castle, nobody present.',
+    GHIS),
 18: ("Valyrian dragonlords on a black volcanic terrace above the sea, a dragon's wing "
      "folded in frame, silver hair, looking down at a harbour far below.",
      VALYRIA + ", cold dawn"),
@@ -96,7 +96,7 @@ SCENES = {
      "lamp amber, deep brown shadow"),
 24: ('A Valyrian tax official in a hooded oiled-wool cloak standing on a wet grey quay with a short desert horse, a purse at his belt and a bad expression, a dragon a distant black speck in the overcast, burnt brick rooflines behind, flat-roofed warehouses, no gables, no timber framing.',
     'rain, grey slate, cold'),
-25: ('A treaty written on a long roll of cured hide, laid open with rows of tally notches and clay seal impressions down its length, a hand resting over the place where a forbidden word is cut, a clay lamp burning, no lettering, no parchment paper.',
+25: ('A treaty written on a long roll of cured hide laid open on a low table, rows of tally notches and stamped clay seal impressions down its length, a hand resting over the place where a clause has been cut away, a clay oil lamp burning, no letters, no words, no letterforms of any alphabet, no parchment paper.',
     GHIS),
 26: ("A clay jar in a cavity under a floor of a humble brick house, lid off, eleven gold "
      "coins and a plain woman's ring inside, the floorboards above pushed aside.",
@@ -109,7 +109,7 @@ SCENES = {
     'grey-blue, overcast, weary'),
 30: ("An empty harbour at dawn with no tribute ships, water flat, a single official "
      "standing on the mole watching for sails that are not coming.", "grey water, pale sky"),
-31: ('An ordinary Ghiscari household over four years: a boy at a small bronze furnace, a bride, a flat mud roof being patched, a limping veteran at the door, the same ochre-brick room four times, clay pots and a loom, no glass, no furniture of later centuries.',
+31: ("The same ordinary Ghiscari room across four years, four narrow panels: a boy's hands at a small bronze furnace, a bride's hands on a loom with her face turned down, two men's hands patching a flat mud roof seen from below, and a limping veteran's stick and sandalled feet at the threshold, faces out of frame throughout, clay pots and a loom, ochre brick, no glass.",
     GHIS),
 32: ("A cramped Valyrian governor's office in a hot Ghiscari city: a cracked clay water jug, stacked clay tablets of grain tallies, an exhausted man in a plain linen tunic writing with a reed stylus, no grandeur at all, no paper, no glass windows.",
     'hot ochre, harsh window light'),

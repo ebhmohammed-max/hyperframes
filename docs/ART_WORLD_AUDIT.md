@@ -77,20 +77,33 @@ a window. Both should be composed so no face is legible.
 
 ## Status
 
-Verified good after regeneration (13):
+Verified good (32):
 
-    001 004 007 009 013 014 015 016 019 024 033 037 052
+    001 004 006 007 009 010 012 013 014 015 016 019 020 021 024 025 029 033
+    037 041 043 052
 
-Directions rewritten and awaiting regeneration (4):
+Re-shoot needed (4): 006 (drawn too close to a Levantine market with
+draped headcloths), 017 (a legible actor-like face and a crenellated
+medieval keep in the window), 025 (rows of glyphs that read as lettering,
+which the film forbids), 031 (four legible faces).
 
-    006 010 012 043
+Directions rewritten and awaiting regeneration (4): 006 017 025 031
 
-Never yet regenerated (19):
+Never yet regenerated (9): 035 036 038 039 041 042 048 053 062 065
 
-    017 020 021 025 029 031 035 036 038 039 041 042 048 053 054 058 061 062 065
+## What the third pass taught
 
-The image tool caps at ten per turn, so this proceeds ten at a time and a
-turn's budget is spent in one go. Nothing renders until the set is clean.
+Two failure modes recur and neither is about style words.
+
+**A window with a view is a world leak.** Scene 017 put a crenellated
+medieval castle outside a Ghiscari window. The fix is to take the window
+out, not to ask for a different castle.
+
+**An instruction not to write becomes an instruction to write.** Told "no
+lettering", scene 025 produced rows of invented glyphs that still read as
+text across the frame, and scene 021 produced cut tally marks, which read
+as a counting system and work. The difference is texture versus text: many
+small marks pass, a row of distinct signs does not.
 
 ## What the second pass taught
 
