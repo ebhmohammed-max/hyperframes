@@ -12,7 +12,7 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026 (topic bank
 - All nine clips generate (`film/gen.mjs`, `title.mjs`, `end.mjs`); film length 546.5 s (9 min 7 s).
 
 ## Next
-1. Pictures (107 of 127 made; next is 108): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
+1. Pictures (117 of 127 made; next is 118): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
 2. When all 127 are in: `node film/gen.mjs N01` … `N07`, `node film/title.mjs`, `node film/end.mjs`; look at stills; `bash tools/render.sh` (background process, about 75 minutes on 2 CPUs).
 3. `bash tools/finish.sh parts`, then `VB=1300k bash tools/finish.sh 720` (the film is 13 s longer than EP17, so a little lower than EP17's 1350k); frame sheets; upload the eight files; final status.
 
@@ -62,6 +62,7 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → folder `EP18_Pad
 | B09 | 078–087 | `EP18_B09_images_078-087.zip` `1eab9IECWuoWf-89JDwU7iDvEmrLORqi3` | All usable. 079: the bowl rims show little of the gem setting; 080: the diamond is nearer egg size than thumb-top size; 083: newspaper print is blurred bars, unreadable; 085: the three doorways hold only lamp glow (the model for remaking 022) |
 | B10 | 088–097 | `EP18_B10_images_088-097.zip` `1ieYq9GnHi6EVCWVXK9dmJ2yfqzgBnWKn` | 088–095 usable (094 shows eight priests with bowed heads, no clear faces). **096 and 097 to be made again**: 096 is a forearm standing upright from the floor like a cut-off arm; 097, the cobra door of the legend (also the N06 chapter-card background), stands in round European crypt arches |
 | B11 | 098–107 | `EP18_B11_images_098-107.zip` `1qbclPI8rcv1wHcGCUgaa2y5coqUQ28Vo` | 098, 100–107 usable (101: the men climb steps toward the doorway rather than going down; 104: the door plates form a grid of panels, a little unlike the reference). **099 to be made again**: the "sea behind the door" legend came out as a rubble-stone tower beside an open sea, which does not read |
+| B12 | 108–117 | `EP18_B12_images_108-117.zip` `1IKIwZPgaE1WhffbOTcEbPkUDgPZeLQOt` | All usable. 112 shows exactly seven slips (the N07 chapter-card background); register and inventory writing is unreadable scribble; 115 is more a corridor with plain pilasters than a small room, the door small at its end. Checked by `grep`: all six `CARD_BG` names exist in `shots/shots.txt` |
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep18-vaultb/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
