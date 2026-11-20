@@ -10,10 +10,10 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Map data `film/geo.json` (Natural Earth, cut to South India and Sri Lanka).
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
-- Pictures 001–108 generated, looked at and uploaded (batches B01–B11; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
+- Pictures 001–118 generated, looked at and uploaded (batches B01–B12; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
 
 ## Next
-1. Pictures 109–128 (`$PY tools/batch.py <batch> <first> <last> [big …]` zips a batch and builds the review sheet), then the remakes listed under "Picture batches" (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
+1. Pictures 119–128 (120 and 123 take all three cast references) (`$PY tools/batch.py <batch> <first> <last> [big …]` zips a batch and builds the review sheet), then the remakes listed under "Picture batches" (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
 2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
 3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
 4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
@@ -72,6 +72,7 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | B09 | 079–088 | `1rSzofRyz8GWc2SkMnJm26UsImORjkCGx` | all usable. 080: the wireless box stands beside the cloth (the cloth covers the horn). 083: the steamer is a small launch with a blue ensign. 085: the wing shape is a little odd. 088 (father, ref) matches |
 | B10 | 089–098 | `1b1F6Ob3tzLXJusUjHi6UDl7SH7QQri_U` | all fine (090, the N06 card plate, is good). 092 was generated with the reworded head-cloth text instead of "turban" and came out right. 094: the crowd stands facing the projector, in its beam |
 | B11 | 099–108 | `1Qtk1XP9Rpsx_VWqVZXc5XT21yZJSTobP` | all usable (107, the N07 card plate, is good). 108 (mother, ref) matches; the child is covered to the neck with only the hair showing, as the sensitive-scene rule asks, and three relatives sit in the background. 099 shows two people behind the gramophone |
+| B12 | 109–118 | `1lzCgjxDnDzxWlAgimUB1RD1WLonXnkkF` | all usable. 111: the mould in the dish is faint (pale patches), bottle labels are blurred. 110: three people sit in the background. 116: the handwriting is unreadable scribble, as wanted |
 
 ### Remakes (do them in the turn after picture 128, then go straight on to the render)
 
