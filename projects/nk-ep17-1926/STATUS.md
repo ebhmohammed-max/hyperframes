@@ -10,13 +10,11 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Map data `film/geo.json` (Natural Earth, cut to South India and Sri Lanka).
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
-- **All 128 pictures** generated, looked at and uploaded (batches B01–B13; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
+- **All 128 pictures** generated, looked at and uploaded (batches B01–B14; 048 remade in B06; 061, 072, 074 remade in B14).
+- Clips regenerated with the real pictures (no MISSING); stills of the title, hook, every chapter card, maps, mock-ups, number cards and the end card looked at: all fine. 072, 074 and perhaps 061 are to be remade at the end.
 
 ## Next
-1. The three remakes (072, 074, 061) with the changed wording in the "Remakes" table under "Picture batches": save to `google_drive/ep17_pics/raw/NNN.jpg`, `bash tools/restore.sh` (delete `out/img/NNN.jpg` first so the film copy is rebuilt), look at them, zip as `EP17_B14_remakes.zip`, upload to the Drive `images` folder, log it.
-2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
-3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
-4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
+1. `bash tools/render.sh` (skips clips already in `out/renders/`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; look at frames of the result; upload to the EP17 Drive folder; update this file; commit and push.
 
 ## Chapters
 | Clip | Card | Lines | Seconds | Pictures | Added graphics |
@@ -74,6 +72,7 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | B11 | 099–108 | `1Qtk1XP9Rpsx_VWqVZXc5XT21yZJSTobP` | all usable (107, the N07 card plate, is good). 108 (mother, ref) matches; the child is covered to the neck with only the hair showing, as the sensitive-scene rule asks, and three relatives sit in the background. 099 shows two people behind the gramophone |
 | B12 | 109–118 | `1lzCgjxDnDzxWlAgimUB1RD1WLonXnkkF` | all usable. 111: the mould in the dish is faint (pale patches), bottle labels are blurred. 110: three people sit in the background. 116: the handwriting is unreadable scribble, as wanted |
 | B13 | 119–128 | `1hhe2CfnKSIQcvacyzBOOVhmskEciScYo` | all usable. 120 and 123 (family, three refs) match the cast; 120 shows two steel cans at the right edge that look later than 1926 (crop or leave) |
+| B14 | remakes 061, 072, 074 | `1Qm9r_dOba2hhbP2nP28YfU3VJ6KFcN0B` | all three now right (Tamil council chamber, Tamil farm worker, a 1920s bus). In 074 the signboard came with pseudo-lettering, so the board face was blurred with PIL (polygon 284,14 / 535,104 / 515,226 / 268,156 on the 1376×768 original, Gaussian 11); the zip holds the blurred file. Unzip this batch last |
 
 ### Remakes (do them in the turn after picture 128, then go straight on to the render)
 
