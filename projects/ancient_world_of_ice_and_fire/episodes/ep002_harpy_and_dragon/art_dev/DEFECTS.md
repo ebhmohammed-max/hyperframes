@@ -6,6 +6,11 @@ hide it. These are the ones found so far.
 
 ## OPEN
 
+### 059 — FIXED
+
+Regenerated as a bronze beam on a leather cord, pan of stones and barley.
+Verified at full size.
+
 ### 059 — a Victorian counter scale
 
 **Wrong:** a cast-iron and brass shop counter scale with a curved base and
@@ -20,6 +25,10 @@ each end, weighed against stones or marked bronze pieces. No cast base, no
 counter-body, no stacked metric weights.
 
 **Blast radius:** plates 0871-0885.
+
+### 062 — FIXED
+
+Regenerated on black basalt with open lava and dry scrub. No ice. Verified.
 
 ### 062 — Nordic glaciers in the Fourteen Flames
 
