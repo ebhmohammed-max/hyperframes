@@ -38,3 +38,25 @@ Masters are 1376×768 JPEG at roughly 200 KB, so a full batch of ten is about 2 
 and the entire seventy-master set is about 14 MB. The workspace cost of holding them
 is trivial; the real space is in plates (about 104 MB) and render segments
 (about 840 MB), which is why those two are the ones to keep moving.
+
+## Reconciliation after the art-world audit (2026-11-20)
+
+The audit replaced or re-authored 47 masters. Drive still held the pre-audit
+versions of 36 of them, so the folder contents no longer matched the set that
+actually built the plates. Both sides were brought back into agreement:
+
+- **Uploaded 36 current masters** — 001, 004, 006, 007, 009, 010, 012, 013, 014,
+  015, 016, 017, 019, 020, 021, 024, 025, 029, 031, 033, 035, 036, 037, 038, 039,
+  041, 042, 043, 048, 052, 053, 054, 058, 061, 062, 065.
+- **Trashed 36 superseded copies** — the same numbers, plus duplicate entries that
+  had accumulated under 032, 042, 044, 051, 059 and 062.
+- **Verified:** exactly one `NNN_master.jpg` per scene, 70 files, and every size
+  matches the local master byte count. 34 masters already matched and were left
+  untouched.
+
+One stray file, `ARAL_300_Final_Orbital_Pullback_..._Closing_Master_Shot.jpg`,
+belongs to episode 01 and happens to match the `_master.jpg` search; it is not
+part of this set.
+
+Rule going forward: a regenerated master is uploaded in the same turn it is made,
+and the copy it replaces is trashed then — not left for a later reconciliation.
