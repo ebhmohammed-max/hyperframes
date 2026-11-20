@@ -70,7 +70,7 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → folder `EP18_Pad
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep18-vaultb/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
 
-## Film rendered (20 Nov 2026) — uploads of the video files still owed
+## Film rendered and delivered (20 Nov 2026) — EP18 IS FINISHED
 
 All nine clips rendered (`tools/render.sh`: about 6 to 7.5 s of work per film second this time, 58 minutes in all), joined and levelled
 (`tools/finish.sh parts`, then `VB=1300k tools/finish.sh 720`). Measured sound of the joined film: −16.88 LUFS before, gain +2.88 dB;
@@ -79,16 +79,21 @@ tags, chapter cards 01–06, map, vault row, door counter, figure panels, timeli
 
 | File (in `google_drive/ep18_up/` and `out/deliver/`) | Bytes | Seconds | On Drive |
 |---|---|---|---|
-| `EP18_1080p_01_hook_title.mp4` | 65,014,506 | 75.85 | not yet |
-| `EP18_1080p_02_ch1.mp4` | 58,543,217 | 76.55 | not yet |
-| `EP18_1080p_03_ch2.mp4` | 67,160,371 | 68.29 | not yet |
-| `EP18_1080p_04_ch3.mp4` | 55,938,978 | 63.89 | not yet |
-| `EP18_1080p_05_ch4.mp4` | 69,220,774 | 75.92 | not yet |
-| `EP18_1080p_06_ch5.mp4` | 62,886,040 | 81.99 | not yet |
-| `EP18_1080p_07_ch6_endcard.mp4` | 82,231,881 | 104.25 | not yet |
-| `EP18_VaultB_full_720p.mp4` | 95,998,177 | 546.63 | not yet |
-| `EP18_SHOTLIST.md` (final; upload as `EP18_SHOTLIST_final.md`) | 164,742 | | not yet |
+| `EP18_1080p_01_hook_title.mp4` | 65,014,506 | 75.85 | `1sF_aERQQYNXymFZn79TrjnCpUIZPsgoX` |
+| `EP18_1080p_02_ch1.mp4` | 58,543,217 | 76.55 | `1cbiAzdU9hnwkLv7iEdwcnxSnLXB6vBdH` |
+| `EP18_1080p_03_ch2.mp4` | 67,160,371 | 68.29 | `19yYnNfjCwrIIbLNF99jhS2AbNNPbL5-6` |
+| `EP18_1080p_04_ch3.mp4` | 55,938,978 | 63.89 | `1XpdSOLhh_fB6FwjwVulqbrv-XgrUfRrL` |
+| `EP18_1080p_05_ch4.mp4` | 69,220,774 | 75.92 | `1GAW9c1InmtVViNmY6bHcBsWkua4PqjMw` |
+| `EP18_1080p_06_ch5.mp4` | 62,886,040 | 81.99 | `1wra9etxnRyoxjIZGOPhN1NPbjfRczS1s` |
+| `EP18_1080p_07_ch6_endcard.mp4` | 82,231,881 | 104.25 | `1DHvdsJo8eKTxRDDXfoKBAH2hZaIB29M5` |
+| `EP18_VaultB_full_720p.mp4` | 95,998,177 | 546.63 | `1NIeQd_2B-2Ebt1AN3yhBpx3XbuyMg9qo` |
+| `EP18_SHOTLIST.md` (final; upload as `EP18_SHOTLIST_final.md`) | 164,742 | | `1Pfk5zP2PRjOjjDcMAFyNxoN87FjN1kDn` |
 
-The first upload attempt (eight calls at once) was refused by the connector's upload rate limit; nothing was sent. Upload them a few at
-a time into the episode folder `1AWPWp9D67uhUGpXjGYwdB4rGpxa16ClN` (`content_mime_type: video/mp4`), then fill in this table.
+All nine files are on Drive in the episode folder `1AWPWp9D67uhUGpXjGYwdB4rGpxa16ClN`; `list_files` confirmed every size. Upload one file per call, one after another: eight calls at once are refused by the upload rate limit.
 The mp4 files are not in git. `out/` is lost in a wipe; the copies in `google_drive/ep18_up/` have survived wipes so far, like the pictures.
+
+Left for the channel owner (none of it blocks publishing, all of it was raised and not answered):
+- two narration phrases are unverified: "ஏழு பேர் கொண்ட குழு" (N03; picture 045 shows seven men) and "பல சாவி போட்டு" (N04; picture 052 shows a bunch of keys). Changing either means new narration for that chapter and a new picture;
+- the description should say that the vault and treasure pictures are illustrations, and that the audit page on screen is a mock-up;
+- the sound was measured, not heard;
+- the narration is the scratch voice (voice-02).
