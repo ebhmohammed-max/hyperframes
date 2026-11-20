@@ -21,7 +21,7 @@ N01|7|audit_report_desk|C|a thick bound report lying closed on a plain wooden of
 N01|7|old_register_open|X|an old cloth-bound temple register lying open, its pages filled with close handwriting that is only fine blurred lines, a few entries marked with small slips of paper
 N01|9|gopuram_low_angle|T@temple|the temple tower seen from low down close to its base at dusk, rising against a heavy monsoon sky, a few birds, the last light on its upper tiers, no people
 N01|9|door_end_corridor|V@irondoor|the closed iron door seen from far down the long low corridor, one hurricane lamp burning on the floor before it, the walls closing in toward it, no people
-N02|1|sanctum_three_doors|D|three doorways in a row in a dark granite wall, golden lamp light glowing inside each, worshippers seen from behind standing before them with joined palms
+N02|1|sanctum_three_doors|D|three doorways in a row in a dark granite wall, each filled only with golden lamp glow, rows of small flames and drifting incense smoke so that nothing inside can be made out and no figure or statue shows in any doorway, worshippers seen from behind standing before them with joined palms
 N02|1|serpent_hoods_glimpse|D|a glimpse through one doorway of great serpent hoods carved in dark stone, rising above rows of small lamp flames and mostly lost in shadow and incense smoke, no people
 N02|1|devotees_three_views|D|a line of worshippers seen from behind on a raised granite platform, each leaning to look through a different one of three lamp-lit doorways
 N02|2|palm_leaf_hymns|X|a bundle of old palm-leaf manuscript strips tied with cord, an iron stylus, a string of dried basil-wood beads and a small brass lamp, the scratched lines far too fine to read

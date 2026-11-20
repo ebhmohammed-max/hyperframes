@@ -3,3 +3,4 @@
 006|carved walls, small god figures and a flaming torch; the vault must be plain granite, lit by a hand torch. Look G changed.
 007|flaming torch and carved pillars. Look G changed.
 009|the chain looks like a pale iron ship chain; it must read as gold. Subject changed.
+022|a dark standing figure in each of the three doorways; wrong for this temple (one reclining image seen in three parts). Subject changed: lamp glow only.
