@@ -143,8 +143,8 @@ SCENES = {
      "of smoke, the shore black.", "orange fire, black smoke, grey sea"),
 47: ("A collapsed brick house interior seen from above through the fallen roof, the floor "
      "broken, the jar below still sealed in the dark under it.", "grey ash, deep shadow"),
-48: ('Long columns of Ghiscari captives on a desert road, barefoot in ochre tunics, watched by Valyrian riders on short desert horses with silver hair and black cloaks, dust, the road going on past the horizon.',
-    GHIS),
+48: ('A long column of Ghiscari captives on a desert road seen from behind and above: barefoot figures in ochre tunics with bundles on their heads, a dust plume, and further back a line of Valyrian riders on short desert horses, dark cloaks and pale silver hair, the road going on past the horizon, no faces legible.',
+    VALYRIA),
 49: ("A ruined brick pyramid with salt crusted into the ground around its base, the "
      "plain white, a passing ship in the distance for scale.", "white salt, pale dust"),
 50: ("Survivors walking down a coast road away from a ruin, carrying bundles and children, "
@@ -156,7 +156,7 @@ SCENES = {
     VALYRIA),
 53: ('A golden age Ghiscari coastline: busy harbours of flat-roofed ochre warehouses, fishing boats, full granaries, a dragon a distant speck in the sky, everything peaceful and slightly too quiet, no domes, no church towers.',
     'warm gold, blue sea'),
-54: ("A single harpy-stamped gold coin on a rough wooden counter in a Ghiscari market, the same coin repeated in two more counters in the blurred background, honest beam balance of twisted cord and a pan of grain beside it, merchants' hands, no modern instruments, no glass.",
+54: ("A harpy-stamped gold coin lying flat on a scarred wooden market counter in close focus, a second and third identical coin further along the same counter as it recedes into the blurred distance, a shallow pan of grain beside them, a merchant's hands resting at the edge of frame, no faces, awnings above, everything resting solidly on the wood, no free-floating objects.",
     'mixed warm light'),
 55: ("A coin passing from one hand to another in a dark market, neither face visible, "
      "only the exchange.", "dark, single warm light"),
@@ -164,21 +164,21 @@ SCENES = {
      "exposed, a shovel, careful brushes, daylight above.", "grey ash, clean daylight"),
 57: ("Extreme close-up of the harpy face of the coin, wings, raised fist, thunderbolt, "
      "worn nearly smooth, held between two fingers against black.", "gold on black"),
-58: ("A Valyrian dragonlord in full confidence standing on a captured wall, the conquered "
-     "city below, his posture exactly that of the men he defeated.", VALYRIA + ", cold light"),
+58: ('A Valyrian dragonlord seen from behind standing on a captured mud-brick wall, black cloak and silver hair, one hand resting on the parapet, the conquered ochre city spread below under flat roofs and thin smoke, his posture exactly that of the men he defeated, face not visible, cold light.',
+    VALYRIA),
 59: ("A coin on a merchant's scale beside grain weights, a hand adding weights, the coin "
      "just a lump of metal, no reverence.", "brown and gold, market light"),
 60: ("Many hands over time passing the same small coin, a composite: soldier, fishwife, "
      "child, sailor, all in different light, the coin always the same.", "warm varied light"),
-61: ('A wide slow river at dawn, willows on the muddy bank, flat-bottomed reed-and-timber boats, a distant city of many slim towers and domes on the far shore, entirely different country, green-grey water, dawn gold, no European architecture.',
+61: ('A wide slow river at dawn, willows on the muddy bank and flat-bottomed boats of lashed reed and timber pulled up on it, and far across the water a low foreign city of flat-topped brick towers and long walls rising out of the river mist, no domes, no minarets, no spires, no battlements, an entirely different country, green-grey water, dawn gold.',
     'green-grey water, dawn gold'),
-62: ('A Valyrian dragonlord standing very still on black basalt above a field of fast-moving lava, wearing close-fitting dark steel-and-bronze scale with no fantasy ornament, silver hair, no helmet, the calm of someone who has never lost, faces unfamiliar and invented, ember glow on the ash below.',
+62: ('A Valyrian dragonlord standing very still on black basalt at the rim of a lava field, seen small in the frame from a distance and slightly behind, a black-cloaked figure with silver hair against the ember glow, close-fitting dark scale armour with no ornament and no helmet, the calm of someone who has never lost, no face visible at this distance, ash and smoke drifting.',
     VALYRIA),
 63: ("A fleet seen from directly above, a dragon's shadow crossing it, no enemy anywhere, "
      "the sea empty for a thousand miles.", "blue-green, high sun"),
 64: ("The Fourteen Flames: a black volcanic range with smoke and a faint red glow in the "
      "fissures, no people, no city, simply enormous and indifferent.", VALYRIA + ", storm light"),
-65: ('A proud Valyrian hall in its full confidence: black stone columns and a shallow domed ceiling, gold on everything, a bronze harpy statue with spread wings, and through the high unglazed window the smoking mountain behind, no gothic arches, no stained glass.',
+65: ('A proud Valyrian hall in its full confidence, seen down its length: black stone columns and a shallow domed ceiling, gold on everything, a bronze harpy statue with spread wings at the far end, and beyond the unglazed opening the smoking mountain, a few robed figures at a distance, no gothic arches, no stained glass, no lettering.',
     VALYRIA),
 66: ("Split impression: a battle plain empty of anyone, and in the foreground a single coin "
      "in a stranger's palm, the two scales of history.", "grey and gold"),
