@@ -11,21 +11,23 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
 - **All 128 pictures** generated, looked at and uploaded (batches B01–B14; 048 remade in B06; 061, 072, 074 remade in B14).
-- Clips regenerated with the real pictures (no MISSING); stills of the title, hook, every chapter card, maps, mock-ups, number cards and the end card looked at: all fine. 072, 074 and perhaps 061 are to be remade at the end.
+- Clips regenerated with the real pictures (no MISSING); stills of the title, hook, every chapter card, maps, mock-ups, number cards and the end card looked at: all fine.
+- **Render (15 Nov 2026 session):** nine clips with `tools/render.sh` (TITLE 87 s, N01 337 s, END 99 s, N02 457 s, N03 474 s, N04 510 s, N05 576 s, N06 471 s, N07 525 s on 2 CPUs); frame sheets of every clip looked at.
+- **Final files:** `tools/finish.sh parts` (gain +2.51 dB to -14 LUFS) → seven 1080p parts, 42.8 to 77.3 MB each; `VB=1350k tools/finish.sh 720` → `EP17_1926_full_720p.mp4`, 533.13 s (8 min 53 s), 96.98 MB, 1280×720, 30 fps, -14.3 LUFS, peak -1.3 dB. All eight uploaded to the EP17 Drive folder.
 
 ## Next
-1. `bash tools/render.sh` (skips clips already in `out/renders/`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; look at frames of the result; upload to the EP17 Drive folder; update this file; commit and push.
+Nothing is open in the build. The film is finished and on Drive. What remains is for the user: confirm the **check** facts below (a change to a spoken figure means new narration for that chapter and a new render of that clip), and listen to the sound once, which was measured but not heard.
 
 ## Chapters
 | Clip | Card | Lines | Seconds | Pictures | Added graphics |
 |---|---|---|---|---|---|
-| N01 | (hook) | 10 | 51.4 | 22 | clock, four struck-out words, split screen 2026/1926, big "27", six chapter words |
-| N02 | அலாரம் இல்லாத காலை | 10 | 67.1 | 23 | clock, number card (8,300 lamps), then-and-now bars (population) |
-| N03 | ஒரு அணா பயணம் | 11 | 70.1 | 18 | clock, number cards, tram ticket, coins (1 rupee = 16 annas = 192 pies) |
-| N04 | பள்ளிக்கூடம் யாருக்கு? | 8 | 68.4 | 12 | 100-dot literacy grids, Presidency map, number card (14) |
-| N05 | செய்தி வர நாள் ஆகும் | 10 | 75.5 | 13 | clock, newspaper, post card, telegram, number card (5 miles), Boat Mail route map over four lines |
-| N06 | பேசாத சினிமா | 9 | 72.8 | 19 | clock, silent film title card, number card (1931), timeline 1926 → 1975 |
-| N07 | இருபத்தேழு வயசு | 11 | 79.0 | 21 | clock, timeline (penicillin), disease words, number card, big "27", infant mortality grid, split screen 2026/2126 |
+| N01 | (hook) | 10 | 52.4 | 26 | clock, four struck-out words, split screen 2026/1926, big "27", six chapter words |
+| N02 | அலாரம் இல்லாத காலை | 10 | 70.2 | 23 | clock, number card (8,300 lamps), then-and-now bars (population) |
+| N03 | ஒரு அணா பயணம் | 11 | 73.2 | 18 | clock, number cards, tram ticket, coins (1 rupee = 16 annas = 192 pies) |
+| N04 | பள்ளிக்கூடம் யாருக்கு? | 8 | 71.5 | 12 | 100-dot literacy grids, Presidency map, number card (14) |
+| N05 | செய்தி வர நாள் ஆகும் | 10 | 78.6 | 7 | clock, newspaper, post card, telegram, number card (5 miles), Boat Mail route map over four lines |
+| N06 | பேசாத சினிமா | 9 | 75.9 | 19 | clock, silent film title card, number card (1931), timeline 1926 → 1975 |
+| N07 | இருபத்தேழு வயசு | 11 | 82.1 | 20 | clock, timeline (penicillin), disease words, number card, big "27", infant mortality grid, split screen 2026/2126 |
 
 Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` (039), N03 `tram_mount_road` (049), N04 `thinnai_school` (065), N05 `reader_shop_front` (076), N06 `audience_backs_screen` (090), N07 `lamp_turned_down` (107). Title: plates 001, 012, 049.
 
@@ -40,6 +42,7 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 - See `shots/CAST.md`. No sick or dead child; child marriage only as still life; real people from behind; no readable writing.
 
 ## Open points
+- Known small flaws left in the film: picture 074's shop sign is blurred, not remade; tram numbers "54" (049, also behind the title) and "24" (053); two steel cans at the edge of 120; in chapter 4 at about 61 s a label chip covers the "வங்கக் கடல்" map label.
 - Decided without asking: year 1926, city Madras, an invented family, "life expectancy 27" planted in the hook and paid off in the last chapter.
 - `FACT_SHEET.md` lines marked **check**, above all: rice price, wages (figures are from about 1920), Boat Mail timing, tram fare, women's literacy in the Presidency.
 - The Presidency outline and the rail route on the maps are hand-drawn and labelled approximate.
@@ -55,6 +58,14 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | `EP17_1926_SHOTLIST.md` | `1lqct2aqnLGRe-R3BE9dAk0JPodUNU49g` |
 | `EP17_narration_scratch_voice02.zip` (N01–N08) | `1zISq7AY7-RUMdD5JafCBiNjarIHw2cb9` |
 | `images/EP17_cast.zip` | `1ei7-lg5HWbN9sbFa4HouD4QkcbW8w-go` |
+| **`EP17_1926_full_720p.mp4`** (whole film) | `15LtA19sbx_zfj-ceXYZenptDp4FrGHfO` |
+| `EP17_1080p_01_hook_title.mp4` | `1SoaU1saBetVJCIhQQTdgdlEplpIB4Yef` |
+| `EP17_1080p_02_ch1.mp4` | `1izgCJTqhhw0ZswF9rj587UrlqBwXb0Z3` |
+| `EP17_1080p_03_ch2.mp4` | `1eddkcgJfgcPTYzAFeiSWrREWThm1L1J_` |
+| `EP17_1080p_04_ch3.mp4` | `1ORhzxnXC6NGqEJRvQqd9HJ8l2Ptpo0Rm` |
+| `EP17_1080p_05_ch4.mp4` | `1ckSwqczPj9cjE_QTJ8t2S8h8DKvtBTg7` |
+| `EP17_1080p_06_ch5.mp4` | `1W6VzyZf_djCaDW5t11kSGmqeZLqmGKJn` |
+| `EP17_1080p_07_ch6_endcard.mp4` | `1Znt6G1JNaYxy7Sd9ijU0htfxCC9CigPP` |
 
 ## Picture batches
 | Batch | Pictures | Drive id | Notes |
