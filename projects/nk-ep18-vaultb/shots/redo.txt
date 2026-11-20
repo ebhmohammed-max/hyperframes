@@ -11,3 +11,5 @@
 096|forearm rises upright from the floor like a cut-off arm. Subject changed: arm enters from the right edge.
 097|round European crypt arches around the cobra door. Subject changed: straight granite post-and-lintel frame, no arches.
 099|rubble tower beside an open sea; the idea (sea behind the door) does not read. Subject changed: sealed door with ghostly waves seen through it.
+124|gold bars look like grey-brown bricks. Subject changed: warm yellow gold. Make AFTER 125 and pass the new 125 as reference (same chamber).
+125|barrel-vaulted brick cellar; must be a flat-ceilinged plain granite chamber matching 124. Subject changed.

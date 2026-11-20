@@ -123,7 +123,7 @@ N07|7|committee_table_empty|C|a plain meeting room in a temple office: a long ta
 N07|7|key_alone_table|X|one large old iron key lying alone in a shaft of light on a dark wooden table, no people
 N07|8|meeting_backs_2025|C|members of a committee seen from behind seated along a meeting table, one chair at the table standing empty
 N07|8|priest_hands_lamp|D|an old priest's hands lighting the wicks of a tall brass lamp with a small flame, wrists and forearms bare, hands only
-N07|9|imagine_gold_bars|L|as people imagine it: stacks of plain gold bars in a dark stone chamber, a single shaft of light across them, no people
-N07|9|imagine_empty_room|L|as it may equally be: a completely empty stone chamber, bare floor and bare walls, a single shaft of light falling on nothing, no people
+N07|9|imagine_gold_bars|L|as people imagine it: a square chamber of large plain granite blocks with a flat stone ceiling, filled with tall neat stacks of plain bars of rich warm yellow gold that shine softly, a single shaft of light falling across them from the upper left, the gold clearly yellow metal and not brick or stone, no arches, no people
+N07|9|imagine_empty_room|L|as it may equally be: a completely empty square chamber of large plain granite blocks with a flat stone ceiling, bare floor and bare walls, a single shaft of light from the upper left falling on nothing but dust, no arches, no vaulting, no brick, no people
 N07|10|scales_ledger_lamp|X|a brass balance scale holding a closed account ledger on one pan and a small lit brass lamp with flowers on the other, the two pans level
 N07|10|door_last_frame|V@irondoor|the closed iron door at the end of the corridor, one hurricane lamp burning low on the floor before it, everything still, no people
