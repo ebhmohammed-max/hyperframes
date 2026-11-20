@@ -10,10 +10,10 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Map data `film/geo.json` (Natural Earth, cut to South India and Sri Lanka).
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
-- Pictures 001–068 generated, looked at and uploaded (batches B01–B07; 048 remade in B06).
+- Pictures 001–078 generated, looked at and uploaded (batches B01–B08; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
 
 ## Next
-1. Pictures 069–128 (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
+1. Pictures 079–128 (`$PY tools/batch.py <batch> <first> <last> [big …]` zips a batch and builds the review sheet), then the remakes listed under "Picture batches" (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
 2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
 3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
 4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
@@ -68,6 +68,19 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | B05 | 036, 041–049 | `15SpmNLj7AVQAO9m9dhef9cQB7j70vwWY` | 036 now made (it is in this zip, not in B04). **048 to redo**: readable shop signs ("Sri Rama Stores", "Ceylon Tea House") and a flatter, illustrated look; remake it first next turn with the same prompt plus "the shop fronts are plain, with no signboards, no name boards and no lettering of any kind" and put the new file in the B06 zip. 049 (title and N03 card plate) fine, the tram carries a small number. 036 shows a man sitting in the background |
 | B06 | 048 (remake), 050–058 | `1CHTCvm9TKpGgk0BIfrNChEs9naP6TvAf` | all fine. The 048 here replaces the one in the B05 zip (when restoring, unzip the batches in order so this one wins). Batches from here on run 059–068, 069–078 … 119–128 |
 | B07 | 059–068 | `1giWdS48vSoEAOagB9jJtkaOqj--YJ0tg` | all usable. 061 (bus): the body looks later than 1926 (more like the 1940s) and it carries a small number plate "T401"; kept, remake only if there is a spare slot or the user asks. 067 (girl, ref) matches; three adults stand in the background. 065 (N04 card plate) fine |
+| B08 | 069–078 | `1x4I-u_LPlw9AGg4Hv87Hkbeh7Uo_zqq6` | eight fine (076, the N05 card plate, is good). **072 and 074 to redo: the turbans came out in the Punjabi style** (coloured turbans in the council, a bearded man in a dark turban at the signboard; the woman in 072 has her head covered). See "Remakes" below |
+
+### Remakes (do them in the turn after picture 128, then go straight on to the render)
+
+The word "turban" as the main feature of a figure pulls the picture towards North India. In a remake, and in any coming prompt where the main figure wears one, write "a white cloth wound loosely round the head in the Tamil way, moustache, no beard" instead.
+
+| Picture | Why | Change to the prompt |
+|---|---|---|
+| 072 | council chamber full of coloured Punjabi turbans; the woman's head is covered | "Madras in South India, 1926 … Tamil men in black coats, most with white head-cloths or bare-headed with oiled hair, no beards, no coloured turbans … one Tamil woman in a white sari with her hair in a bun, head uncovered" |
+| 074 | the farm worker looks Sikh (dark turban, beard) | "a Tamil farm worker, bare-chested, in a short veshti with a white cloth wound round his head, moustache, no beard" |
+| 061 | bus body looks 1940s, number plate "T401" | optional, since the turn is needed anyway: "a small motor bus of the early 1920s built on a lorry chassis, spoked wheels, upright radiator, open wooden sides, canvas roof, no number plate" |
+
+The remade files go into one more zip (`EP17_B14_remakes.zip`); when restoring from Drive unzip it last.
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep17-1926/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`. Map data can be rebuilt from Natural Earth (`world-atlas` countries 10m and the 50m admin-1 GeoJSON), but `film/geo.json` is in git.
