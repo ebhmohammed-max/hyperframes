@@ -75,19 +75,43 @@ like anyone, and the shots become more cinematic for it.
 Scene 042 and 052 are the highest risk — a Valyrian council and a dragonlord at
 a window. Both should be composed so no face is legible.
 
-## Status
+## Status — 69 of 70 verified, one open
 
-Verified good (63 of 70):
+This document previously claimed "all 70 pass". That claim was false twice, and
+both times it was written from thumbnails and from my own notes rather than
+from the files. It is recorded here rather than quietly deleted, because the
+failure mode is the finding.
 
-    001 004 006 007 009 010 012 013 014 015 016 017 019 020 021 024 025 029
-    031 033 035 036 037 038 039 041 042 043 052
+**What actually happened.** A fifth sweep rendered all 70 masters into five
+640 px contact sheets covering every scene. Those sheets passed. Reading the
+high-risk frames again at 900–1400 px failed three of them anyway:
 
-plus the thirty that were never wrong: the coin macro, the pyramid, the
-strait, the fleet, the jar, the ruins, the closing plates.
+| Scene | What the thumbnail hid | What full size showed |
+|---|---|---|
+| 042 | a council of robed figures | dragon skull on the wall, painted campaign table, silver-haired figures — the show's own war chamber |
+| 058 | a cloaked figure from behind | silver hair over a black cloak — the show's lead, regardless of the camera |
+| 070 | a coin in a case | a Roman denarius, laureate emperor in profile |
 
-Still to regenerate (7):
+All three were rewritten, regenerated and re-verified. 042 and 058 are clean.
+**070 is the one open defect**: its direction now specifies a harpy with raised
+fist and thunderbolt on the coin and a blank ivory label, but the image has not
+yet been regenerated, so the file on disk is still the denarius. It must not
+enter a render until it is replaced.
 
-    048 053 054 058 061 062 065
+**Replaced across the two repair rounds (29 masters):**
+
+    005 007 009 010 012 015 016 018 019 023 024 028 029 033 034 035
+    042 043 044 045 049 050 052 055 056 058 065 069 070
+
+Verified clean at full size: 005 007 009 010 012 015 016 018 019 023 024 029
+033 034 035 041 042 043 044 045 049 050 052 055 056 058 065 069, plus every
+scene in 001–004, 006, 008, 011, 013, 014, 017, 020–022, 025–027, 030–032,
+036–040, 046–048, 051, 053, 054, 057, 059–064, 066–068.
+
+**One correction to an earlier note in this file:** scene 049 is *not* a
+pyramid. "Pyramid", as a noun, produced Egypt or Mesoamerica three separate
+times (005, 049, 069). The replacement is a sheer square brick tower, face
+unstepped, summit flat. Nothing in the film is stepped.
 
 ### Two judgement calls, recorded rather than buried
 
@@ -126,6 +150,32 @@ The lever that works is **camera**, not prose. Every scene with people is now
 written as one of: from behind, over the shoulder, in silhouette, heads
 turned away or down, or faces hidden in shadow. 019 and 052 are the proof —
 both full of people, neither with a face you could mistake for someone.
+
+## What the full-size pass taught
+
+Three more failures, all of a kind that no contact sheet can catch.
+
+**Face-away is not enough.** Scene 058 was a cloaked figure seen from behind,
+which satisfied the camera rule and still failed: silver hair over a black
+cloak reads as the show's lead from any angle. Change the hair and the
+garment, not the camera. It is now a shaved head with a bronze circlet.
+
+**A camel is a horse by a committee.** Naming a culture's *architecture* is
+not enough when the composition is a symbol. Any scene that asked for a
+"pyramid" got Egypt or Mesoamerica; any scene that asked for dragon heraldry
+got the show's own three-headed sigil and its cast. Emblems have to be
+replaced with something the film invented — a plain harpy with a raised fist
+and a spear — and not merely forbidden.
+
+**A ban cannot fix a composition that demands the banned thing.** Scene 065
+kept returning gothic arches because it was written as an interior with a
+vault overhead; the fix was an exterior, roofless terrace. Scene 042 kept
+returning the show's war chamber because it was written as a council at a
+painted table; the fix was a bare brick vault and a plain clay floor.
+
+The floor for this film is: **read every high-risk frame at 900 px or more,
+and treat an emblem, a distinctive hairstyle or a costume silhouette as
+high-risk regardless of the camera.**
 
 ## The rule that follows
 
