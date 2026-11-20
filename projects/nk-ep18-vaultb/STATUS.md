@@ -45,12 +45,13 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → folder `EP18_Pad
 | `EP18_narration_scratch_voice02.zip` (N01–N08) | `1k1niWSfD489oe_3Z0c0GDzt10c5RoQqu` |
 | `EP18_SCRIPT_TA.md` | `1ZA1A4f0EplAZzyRDFpFgGTtV6BDshJDM` |
 | `EP18_FACT_SHEET.md` | `1RQYtaiw7E6mPCqJbUeTpu7UxZWsq4MWU` |
-| `EP18_SHOTLIST.md` | `1OCNLJW5HzC42kORveijWyWykfbOhkIxP` |
+| `EP18_SHOTLIST.md` (first version; prompts for looks V and G changed after B01, upload again at the end) | `1OCNLJW5HzC42kORveijWyWykfbOhkIxP` |
 | `images/EP18_cast.zip` (three reference pictures) | `1ZKnS6SVWAAyKUsi9noKyKIb_W0IIK2KN` |
 
 ## Picture batches
 | Batch | Pictures | Zip on Drive | Notes |
 |---|---|---|---|
+| B01 | 001–007 | `EP18_B01_images_001-007.zip` `1XehplgHRQxkeW1W69qsUtlqWk4JPJ0rS` | 002–005 fine. **001, 006, 007 to be made again** (`shots/redo.txt`): faces showing in 001; carved walls, god figures and flaming torches in 006 and 007. Looks V and G tightened after this batch |
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep18-vaultb/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.

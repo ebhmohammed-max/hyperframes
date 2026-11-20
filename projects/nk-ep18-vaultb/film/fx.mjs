@@ -352,7 +352,7 @@ export function buildFx({ cid, win, lead, D, shotsOf, plateOf }) {
     #${id}-p .rt { margin-top: 14px; font: 700 34px/1.4 "NK Sans Tamil", sans-serif; }
     #${id}-p .rr { display: flex; gap: 30px; margin-top: 6px; font: 600 32px/1.5 "NK Sans Tamil", sans-serif; } #${id}-p .rr b { font: 600 38px/1.3 "NK Oswald", sans-serif; }
     #${id} .ln { height: 9px; margin: 13px 0; background: rgba(42,33,24,0.38); border-radius: 2px; }
-    #${id}-p .hl { position: relative; margin: 12px -14px 0; padding: 8px 14px; white-space: nowrap; font: 700 29px/1.5 "NK Serif Tamil", serif; }
+    #${id}-p .hl { position: relative; margin: 12px -14px 0; padding: 8px 14px; white-space: nowrap; font: 700 28px/1.5 "NK Serif Tamil", serif; }
     #${id}-p .hl i { position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: rgba(243,190,60,0.55); transform-origin: 0% 50%; }
     #${id}-p .hl span { position: relative; }
     #${id}-q { position: absolute; left: 1250px; top: 560px; width: 600px; opacity: 0; }
@@ -365,7 +365,7 @@ export function buildFx({ cid, win, lead, D, shotsOf, plateOf }) {
       blk(id, a0, a1, `      <div id="${id}-in" class="fx-full"><div id="${id}-p"><div class="rh">சிறப்பு தணிக்கை அறிக்கை</div><div class="rs"><span>சுப்ரீம் கோர்ட்டுக்கு</span><span>2014</span></div>
         <div class="rt">B நிலவறை · பதிவேட்டுக் குறிப்புகள்</div><div class="rr"><span><b>1990</b> · 2 தடவை</span><span><b>2002</b> · 5 தடவை</span></div>${bars(2, 800)}
         <div class="hl"><i id="${id}-h1"></i><span>வெள்ளிக் கட்டிகள்: வெளிய எடுக்கப்பட்டது</span></div>${bars(2, 760)}
-        <div class="hl"><i id="${id}-h2"></i><span>தங்கப் பாத்திரங்கள்: உள்ள வச்சு, மறுபடி எடுக்கப்பட்டது</span></div>${bars(8, 800)}</div>
+        <div class="hl"><i id="${id}-h2"></i><span>தங்கப் பாத்திரங்கள்: உள்ள வச்சு, மறுபடி எடுத்தது</span></div>${bars(8, 800)}</div>
         <div id="${id}-7"><div class="n7">7<span>தடவை</span></div><div class="s7">1990ல 2 · 2002ல 5</div></div>
         <div id="${id}-q"><div class="q1">தணிக்கை அறிக்கை சொல்றது</div><div class="q2">பதிவேட்டுல இருக்கற குறிப்பு</div><div class="q3">அறிக்கை பத்தி 2014ல வந்த செய்திகள்படி</div></div>
         <div class="fx-sh"></div><div id="${id}-n">மாதிரி வடிவம் · அசல் பக்கம் இல்ல</div></div>`, 2);

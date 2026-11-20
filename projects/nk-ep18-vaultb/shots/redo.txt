@@ -1,0 +1,4 @@
+# pictures to make again after the first pass: number|reason  (tools/next.py holds these back; delete a line when its picture has been remade)
+001|faces of three men show; the rule is backs only. Prompt changed.
+006|carved walls, small god figures and a flaming torch; the vault must be plain granite, lit by a hand torch. Look G changed.
+007|flaming torch and carved pillars. Look G changed.
