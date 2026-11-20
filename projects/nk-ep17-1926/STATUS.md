@@ -10,10 +10,10 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Map data `film/geo.json` (Natural Earth, cut to South India and Sri Lanka).
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
-- Pictures 001–058 generated, looked at and uploaded (batches B01–B06; 048 remade in B06).
+- Pictures 001–068 generated, looked at and uploaded (batches B01–B07; 048 remade in B06).
 
 ## Next
-1. Pictures 059–128 (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
+1. Pictures 069–128 (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
 2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
 3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
 4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
@@ -67,6 +67,7 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | B04 | 031–040 without 036 | `1q6X5_4RH09wM6buXC2OltYNtBzIHboNG` | 036 failed once ("Image generation failed") and the turn limit stopped the retry: make it first next turn and put it in the B05 zip; the other nine fine (035 shows the whole woman, not hands only) |
 | B05 | 036, 041–049 | `15SpmNLj7AVQAO9m9dhef9cQB7j70vwWY` | 036 now made (it is in this zip, not in B04). **048 to redo**: readable shop signs ("Sri Rama Stores", "Ceylon Tea House") and a flatter, illustrated look; remake it first next turn with the same prompt plus "the shop fronts are plain, with no signboards, no name boards and no lettering of any kind" and put the new file in the B06 zip. 049 (title and N03 card plate) fine, the tram carries a small number. 036 shows a man sitting in the background |
 | B06 | 048 (remake), 050–058 | `1CHTCvm9TKpGgk0BIfrNChEs9naP6TvAf` | all fine. The 048 here replaces the one in the B05 zip (when restoring, unzip the batches in order so this one wins). Batches from here on run 059–068, 069–078 … 119–128 |
+| B07 | 059–068 | `1giWdS48vSoEAOagB9jJtkaOqj--YJ0tg` | all usable. 061 (bus): the body looks later than 1926 (more like the 1940s) and it carries a small number plate "T401"; kept, remake only if there is a spare slot or the user asks. 067 (girl, ref) matches; three adults stand in the background. 065 (N04 card plate) fine |
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep17-1926/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`. Map data can be rebuilt from Natural Earth (`world-atlas` countries 10m and the 50m admin-1 GeoJSON), but `film/geo.json` is in git.
