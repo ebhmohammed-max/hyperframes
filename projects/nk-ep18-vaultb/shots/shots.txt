@@ -8,7 +8,7 @@ N01|1|torch_beam_dust|V|a single torch beam cutting through thick dusty darkness
 N01|1|vault_stars_gold|G|a low stone chamber seen from the foot of narrow steps, the darkness filled with hundreds of tiny golden glints like stars in a moonless night sky, heaps of gold objects only half made out, no people
 N01|2|coins_spill_sack|G|old gold coins spilling out of a rotted cloth sack across a granite floor, the nearest coins sharp and the rest fading into darkness, no people
 N01|2|gems_brass_dish|G|loose cut diamonds and dark red rubies lying in a shallow old brass dish, catching one hard point of torch light, no people
-N01|2|long_chain_floor|G|a very long, heavy gold chain laid in slow loops across a granite floor and running away into the dark, far longer than a man is tall, no people
+N01|2|long_chain_floor|G|a very long ornamental chain of rich yellow gold, made of thick finely worked links like a giant necklace, laid in slow loops across a granite floor and running away into the dark, far longer than a man is tall, gleaming deep yellow in the torch beam, clearly gold and not iron, no people
 N01|3|two_grilles_corridor|V|a low granite corridor with two iron-grille doorways side by side in one wall, the left one standing open with warm light inside, the right one closed and completely dark, no people
 N01|3|iron_door_torch|V@irondoor|the closed iron door filling the frame, lit from the side by one torch beam, its three bolts shut, dust hanging in the light, no people
 N01|4|door_cobweb_years|V@irondoor|close view of the three heavy bolts of the closed iron door under thick grey dust and old cobwebs, untouched for years, no people

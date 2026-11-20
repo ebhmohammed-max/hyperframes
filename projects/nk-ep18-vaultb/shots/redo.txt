@@ -2,3 +2,4 @@
 001|faces of three men show; the rule is backs only. Prompt changed.
 006|carved walls, small god figures and a flaming torch; the vault must be plain granite, lit by a hand torch. Look G changed.
 007|flaming torch and carved pillars. Look G changed.
+009|the chain looks like a pale iron ship chain; it must read as gold. Subject changed.

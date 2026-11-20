@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Zip a picture batch for Drive and build a review sheet.
   $PY tools/batch.py <batch no> <first> <last> [big picture numbers ...]
-Writes google_drive/ep18_up/EP18_Bnn_images_aaa-bbb.zip (and a copy in out/up/) and google_drive/_sheet.jpg
+Writes google_drive/ep18_up/EP18_Bnn_images_aaa-bbb.zip (and a copy in out/up/) and google_drive/_sheet_Bnn.jpg
 (4 thumbnails per row, the 'big' pictures at half size underneath). Run tools/restore.sh first."""
 import json, zipfile, os, shutil, sys
 from PIL import Image, ImageDraw
@@ -19,4 +19,4 @@ for i, n in enumerate(ns):
     S.paste(Image.open(f"out/img/{n:03d}.jpg").resize((480, 270)), (x, y))
     d.rectangle([x, y, x + 34, y + 14], fill=(0, 0, 0)); d.text((x + 4, y + 1), f"{n:03d}", fill=(255, 255, 255))
 for i, n in enumerate(big[:2]): S.paste(Image.open(f"out/img/{n:03d}.jpg").resize((960, 540)), (i * 960, rows * 270))
-S.save(f"{G}/_sheet.jpg", quality=88)
+S.save(f"{G}/_sheet_B{B:02d}.jpg", quality=88)  # a new name per batch: the viewer can show an old copy of a reused name
