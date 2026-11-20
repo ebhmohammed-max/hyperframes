@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ta">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>EP17 N01 hook</title>
+    <script src="assets/vendor/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+      #root { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="52.377" data-width="1920" data-height="1080">
+      <div
+        id="pic"
+        data-composition-id="pic"
+        data-composition-src="compositions/pic.html"
+        data-start="0"
+        data-duration="52.377"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 1"
+      ></div>
+      <div
+        id="gfx"
+        data-composition-id="gfx"
+        data-composition-src="compositions/gfx.html"
+        data-start="0"
+        data-duration="52.377"
+        data-track-index="2"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 2"
+      ></div>
+      <div
+        id="ovl"
+        data-composition-id="ovl"
+        data-composition-src="compositions/ovl.html"
+        data-start="0"
+        data-duration="52.377"
+        data-track-index="3"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 3"
+      ></div>
+      <div
+        id="cap"
+        data-composition-id="cap"
+        data-composition-src="compositions/cap.html"
+        data-start="0"
+        data-duration="52.377"
+        data-track-index="4"
+        data-track-kind="captions"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 4"
+      ></div>
+      <audio id="vo" class="clip" src="assets/vo/N01.mp3" data-start="0.4" data-duration="51.377" data-track-index="5" data-volume="1"></audio>
+      <audio id="fx1-impact-bass-1" class="clip" src="assets/sfx/impact-bass-1.mp3" data-start="0.06" data-duration="2.1" data-track-index="6" data-volume="0.34"></audio>
+      <audio id="fx2-whoosh" class="clip" src="assets/sfx/whoosh.mp3" data-start="13.613" data-duration="0.57" data-track-index="7" data-volume="0.18"></audio>
+      <audio id="fx3-impact-bass-2" class="clip" src="assets/sfx/impact-bass-2.mp3" data-start="18.02" data-duration="2.59" data-track-index="8" data-volume="0.3"></audio>
+      <audio id="fx4-whoosh" class="clip" src="assets/sfx/whoosh.mp3" data-start="24.043" data-duration="0.57" data-track-index="9" data-volume="0.16"></audio>
+      <audio id="fx5-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="26.768" data-duration="0.57" data-track-index="10" data-volume="0.14"></audio>
+      <audio id="fx6-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="28.228" data-duration="0.57" data-track-index="11" data-volume="0.14"></audio>
+      <audio id="fx7-riser" class="clip" src="assets/sfx/riser.mp3" data-start="27.035" data-duration="4.3" data-track-index="12" data-volume="0.2"></audio>
+      <audio id="fx8-impact-bass-1" class="clip" src="assets/sfx/impact-bass-1.mp3" data-start="33.292" data-duration="2.1" data-track-index="13" data-volume="0.36"></audio>
+      <audio id="fx9-whoosh-cinematic" class="clip" src="assets/sfx/whoosh-cinematic.mp3" data-start="32.75" data-duration="4.4" data-track-index="14" data-volume="0.16"></audio>
+      <audio id="fx10-riser" class="clip" src="assets/sfx/riser.mp3" data-start="43.345" data-duration="4.3" data-track-index="15" data-volume="0.18"></audio>
+      <audio id="fx11-impact-bass-2" class="clip" src="assets/sfx/impact-bass-2.mp3" data-start="49.5" data-duration="2.59" data-track-index="16" data-volume="0.32"></audio>
+      <audio id="fx12-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="6.869" data-duration="0.57" data-track-index="17" data-volume="0.16"></audio>
+      <audio id="fx13-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="7.993" data-duration="0.57" data-track-index="18" data-volume="0.16"></audio>
+      <audio id="fx14-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="9.151" data-duration="0.57" data-track-index="19" data-volume="0.16"></audio>
+      <audio id="fx15-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="10.278" data-duration="0.57" data-track-index="20" data-volume="0.16"></audio>
+      <audio id="fx16-whoosh-cinematic" class="clip" src="assets/sfx/whoosh-cinematic.mp3" data-start="19.215" data-duration="4.4" data-track-index="21" data-volume="0.2"></audio>
+      <audio id="fx17-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="40.983" data-duration="0.57" data-track-index="22" data-volume="0.14"></audio>
+      <audio id="fx18-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="41.878" data-duration="0.57" data-track-index="23" data-volume="0.14"></audio>
+      <audio id="fx19-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="42.833" data-duration="0.57" data-track-index="24" data-volume="0.14"></audio>
+      <audio id="fx20-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="43.868" data-duration="0.57" data-track-index="25" data-volume="0.14"></audio>
+      <audio id="fx21-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="44.868" data-duration="0.57" data-track-index="26" data-volume="0.14"></audio>
+      <audio id="fx22-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="45.818" data-duration="0.57" data-track-index="27" data-volume="0.14"></audio>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = gsap.timeline({ paused: true });
+    </script>
+  </body>
+</html>

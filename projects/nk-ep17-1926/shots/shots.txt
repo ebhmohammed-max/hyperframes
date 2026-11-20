@@ -1,0 +1,130 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# The family is invented (refs father, mother, girl). No blood, no bodies, nobody shown being hurt, no sick or dead child shown. Real people (Dr Muthulakshmi Reddy, Baird) only from behind. No readable writing. Lines that carry a full-screen graphic (coins, dots, map without card, mock-up) have no rows.
+N01|0|dark_room_sleepers|H|a dark room before dawn, a family asleep on reed mats on the floor under thin cotton sheets, faces hidden, the faintest blue light at a small barred window
+N01|0|rooster_roof|S|a rooster crowing on the ridge of a clay-tiled roof against a deep blue sky just before sunrise, a coconut palm behind, no people
+N01|0|bare_wall_nail|H|a bare lime-washed wall with one empty iron nail and its long shadow in weak dawn light, a brass pot on the floor below, no clock anywhere, no people
+N01|1|no_switch_lamp|H|a woman's hand holding a burning matchstick to the wick of a small kerosene chimney lamp in a dark room, hand only
+N01|1|no_tap_well|S|a rope running over a wooden pulley down into a deep round stone well, a brass pot hanging on the rope, first light, no people
+N01|1|no_gas_stove|H|a low clay stove with burning firewood and a blackened clay pot on it, smoke rising in a dim kitchen, no people
+N01|1|no_phone_postbox|S|a red cast-iron pillar post box standing alone at the corner of a dusty street of tiled houses, early morning, no people
+N01|2|phone_alarm_hand|T|present day, a hand reaching from under a blanket toward a glowing smartphone on a bedside table in a dark bedroom, the screen only a blur of light, hand only
+N01|3|old_portrait_frame|X|an old faded sepia studio portrait of a South Indian couple of the 1920s in a carved wooden frame hanging on a wall, he seated in a coat and veshti, she standing in a sari, a dried flower garland around the frame
+N01|3|elder_hands|O|close view of the wrinkled dark-brown hands of a very old South Indian woman resting on her lap over a faded cotton sari, soft window light, hands only
+N01|4|chennai_today_street|T|present-day Chennai in South India seen from a high window: a wide busy road full of cars, motorbikes and yellow auto-rickshaws, glass towers, evening light, people tiny
+N01|4|madras_1926_street|S|wide view from a high window of a broad street in Madras in 1926: one small electric tram on rails in the middle of the road, bullock carts, a horse cart, men walking, low arcaded buildings, banyan trees
+N01|4|madras_harbour_wide|S|wide aerial view of Madras in 1926: a sea of low red-tiled roofs and palm trees, the red domes of a big court building, the harbour with steamers and the Bay of Bengal beyond, morning haze
+N01|5|anna_in_palm|X|one small worn nickel coin with a wavy scalloped edge lying in the open dark-brown palm of a working man, the design on the coin rubbed smooth, hand only
+N01|5|silent_screen_audience|E|rows of people seen from behind sitting in the dark of a small cinema hall of the 1920s, looking up at a bright black-and-white picture of two figures on the screen
+N01|5|postman_long_road|S|a village postman in a khaki uniform and turban, seen from behind, walking away down a long empty red-earth road between palmyra palms with a canvas bag on his shoulder, midday heat
+N01|6|newborn_hand|H|close view of a newborn baby's tiny hand gripping the forefinger of its mother, soft lamp light, hands only
+N01|6|cloth_cradle|H|an empty cloth cradle made of an old cotton sari hanging from a wooden ceiling beam, gently swaying, one oil lamp, no people
+N01|7|door_light_leak|H|a heavy old wooden door, closed, with warm light leaking through the crack beneath it into a dark corridor, no people
+N01|7|census_ledgers|X|a tall stack of thick old government ledgers bound in faded red cloth on a dusty wooden shelf, a shaft of light, every spine blank or out of focus
+N01|9|family_thinnai_dawn|S@father,mother,girl|the family standing together on the raised front veranda of their tiled house at dawn, looking toward the camera: father, mother, the girl, a younger boy of about eight in shorts, and a white-haired grandmother seated
+N01|9|madras_sunrise_roofs|S|sunrise over the tiled roofs of Madras in 1926, a tall carved temple tower in the middle distance, smoke from kitchen fires, crows in the sky, no people
+N02|0|rooster_yard|S|a rooster crowing on a low mud wall in the back yard of a tiled house at first light, a neem tree, a string cot, no people
+N02|0|temple_bell_dawn|S|a big bronze temple bell hanging in a stone gateway, swinging, a carved temple tower behind it against the pink dawn sky, no people
+N02|0|mill_chimney_whistle|S|far across the rooftops, the tall brick chimney of a cotton mill with a plume of white steam from its whistle against the sunrise, palm trees
+N02|1|chimney_lamp_lit|H|a small kerosene chimney lamp with a glass chimney burning on a wooden shelf, its warm circle of light on a lime-washed wall, no people
+N02|1|agal_niche|H|a small clay oil lamp, a shallow open dish with one wick, no spout and no handle, burning in a niche in a mud wall, no people
+N02|2|electric_lamps_row|S|a long straight street in Madras at night in 1926, a row of new electric lamps on tall cast-iron posts glowing all the way into the distance, a horse cart far away
+N02|2|lamplighter_ladder|S|a lamplighter in a turban, seen from behind, carrying a short ladder and an oil can past an old kerosene street lantern on a wooden post at dusk
+N02|2|bulb_close_moths|S|close view from below of one electric street lamp with a clear glass bulb under an enamel shade on an iron bracket, moths circling, night sky
+N02|3|bungalow_lit_windows|S|a large colonial garden bungalow at night behind an iron gate, steady electric light in its windows and veranda, the street outside dark, no people
+N02|4|well_draw_water|S@mother|the mother drawing water from a round stone well at dawn, pulling a rope over a wooden pulley, a brass pot at her feet
+N02|4|street_tap_queue|S|women in cotton saris, seen from behind, waiting in a line with brass and clay pots at a single iron street tap in a lane of tiled houses, early morning
+N02|5|wood_stove_pot|H|a clay stove with firewood burning under a brass pot, steam rising, firewood stacked beside it, soot on the wall, no people
+N02|5|aattukal_hands|H|a woman's hands turning the heavy stone pestle of a round granite wet grinder set in the floor, white rice batter around it, wrists and forearms are bare, wet skin, with no sleeves and no cloth on the arms at all, hands only
+N02|5|ammi_masala|H|a woman's hands rolling a long stone roller over a flat granite grinding slab with red chillies and coconut, hands only
+N02|6|coffee_tumbler|H|steaming milk coffee being poured in a long stream from a brass tumbler into a wide brass cup, hands only, morning light from a window
+N02|6|pazhaya_soru|H|a clay bowl of rice soaked overnight in water with two small onions and a green chilli beside it on a banana leaf on the floor, no people
+N02|7|mother_kolam_lamp|S@mother|the mother bending to draw a white rice-flour pattern on the swept ground in front of her doorstep before sunrise, a small lamp beside her, the sky still dark blue
+N02|7|mother_pots_behind|S|a woman in a cotton sari seen from behind walking down a lane at dawn with one brass pot on her hip and another on her head
+N02|8|madras_wide_1926|S|a high wide view over Madras in 1926 toward the sea: low red-tiled roofs, palm trees, church spires, a long straight road with a tram, the harbour cranes far away
+N02|8|high_court_domes|S|the red brick domes and towers of the big court building in Madras in 1926, bullock carts and men in turbans on the road in front, clear morning light
+N02|8|chennai_skyline_dusk|T|the skyline of present-day Chennai at dusk: tall glass and concrete towers, flyovers with streams of headlights, the sea far beyond, no people close
+N02|9|father_leaves_door|S@father|the father stepping out of the front door of his tiled house in the morning with a brass tiffin carrier in one hand and a black umbrella under his arm
+N02|9|lane_morning|S|a narrow lane of tiled houses with raised front verandas in Madras in the morning, men in veshtis walking away from the camera toward a main road, a cow, long shadows
+N03|0|bare_feet_road|S|low close view of many bare feet and the hems of white veshtis walking along a dusty road in the morning, seen from behind
+N03|1|jutka_cart|S|a small two-wheeled horse cart with an arched mat cover, the driver seen from behind, trotting along a tree-lined road in Madras
+N03|1|hand_rickshaw|S|a hand-pulled rickshaw with two big wheels, the puller a thin man in a turban seen from behind between the shafts, a passenger's umbrella just visible, a street of arcaded shops
+N03|2|tram_mount_road|S|a single-deck electric tram of the 1920s with open sides and a pole to the overhead wire, running down the middle of a broad road in Madras, bullock carts on each side, big rain trees
+N03|2|tram_rails_close|S|low close view of steel tram rails set in a stone-paved road curving away, a tram small in the distance, overhead wires, morning light, no people close
+N03|2|tram_inside_benches|S|inside an electric tram of the 1920s: polished wooden bench seats, passengers in turbans and veshtis seen from behind, a conductor in khaki pulling a bell cord
+N03|3|tram_depot_rows|W|a tram depot shed in Madras with rows of single-deck electric trams standing side by side under an iron roof, workmen small in the distance
+N03|3|tram_footboard_crowd|S|a crowded electric tram of the 1920s passing close, men in veshtis standing on the footboard and holding the rails, seen from the side and behind
+N03|6|rupee_in_palm|X|one large old silver coin lying in an open dark-brown palm, the king's portrait on it worn almost smooth and turned away from the light, hand only
+N03|6|flag_fort_building|S|a white colonial fort building with a tall flagstaff by the sea in Madras in 1926, a British flag small and far away at the top, sentries tiny, palm trees
+N03|7|mill_looms_workers|W|inside a huge cotton mill of the 1920s: long rows of iron power looms with belts running up to shafts in the roof, workers in veshtis seen from behind, dusty light from high windows
+N03|7|paddy_field_workers|S|a line of farm workers, women in saris tucked up and men in loincloths, bending to plant rice seedlings in a flooded field, seen from behind, palmyra palms on the bund
+N03|8|rice_measure_shop|S|a shopkeeper's hands pouring rice from a round iron measuring pot onto a cloth in a small grain shop, open sacks of rice around, hands only
+N03|8|coins_counted_hands|X|a tired working man's rough hands counting a few small copper and nickel coins on a wooden plank by lamp light, every coin worn smooth, hands only
+N03|9|motor_car_stares|S|one tall black motor car of the 1920s with spoked wheels and a canvas hood driving down a dusty street in Madras, people on the roadside turning to stare, seen from behind them
+N03|9|early_bus|S|an early motor bus of the 1920s with a wooden body and open windows standing on a road in Madras, passengers climbing in at the back, seen from behind
+N03|10|empty_courtyard|H|the empty inner courtyard of a tiled house at mid-morning, a tulsi plant on a pedestal, washed vessels drying, a child's wooden toy cart left on the floor, no people
+N03|10|boy_shop_work|S|a boy of about nine in shorts, seen from behind, carrying a heavy sack on his back into a grain shop in a bazaar lane
+N04|3|boy_slate|C|a boy of about eight sitting cross-legged on the floor writing on a wooden-framed slate with a slate pencil, the slate turned so its surface is only a grey blur
+N04|3|thinnai_school|C|a small veranda school: an old teacher with a cane sitting on the raised front veranda of a house, six small boys cross-legged on the floor before him with slates, seen from the street
+N04|3|boy_field_cattle|S|a boy of about ten with a stick, seen from behind, driving two cows along a field bund in the hot midday sun, palmyra palms
+N04|3|girl_vessels_watching|H@girl|the girl scrubbing brass vessels with ash at the back doorstep, looking up and away toward the lane where small boys with slates are walking
+N04|4|slate_and_silk|X|a child's wooden-framed slate and slate pencil lying on a reed mat beside a folded red silk sari, a coil of jasmine and a small pair of silver anklets, no people
+N04|4|wedding_pandal_far|S|a house front decorated for a wedding with banana stems and mango leaves and a thatched canopy, pipers and guests seen small and from far down the street
+N04|5|law_book_desk|X|a thick bound law book lying closed on a dark wooden desk beside a brass inkstand and a steel-nib pen, a shaft of window light, the cover blank
+N04|6|doctor_steps_behind|O|Madras 1926, a woman of about forty in a plain white sari with her hair in a bun, seen only from behind, a doctor's leather bag in her hand, climbing the wide stone steps of a domed government building
+N04|6|council_chamber|O|Madras 1926, a council chamber with curved rows of wooden benches full of men in turbans and coats seen from behind, and among them one woman in a white sari, also seen from behind
+N04|6|girls_classroom|C|a classroom of girls in long skirts and blouses with oiled plaits, seen from behind, sitting on the floor in rows before a woman teacher in a sari who is seen small at the far wall
+N04|7|man_signboard_blur|S|a farm worker in a turban, seen from behind, standing in a bazaar street looking up at a painted shop signboard whose lettering is only a soft blur
+N04|7|crowd_gathers|S|a small crowd of men in veshtis and turbans gathering around something at a street corner in Madras, seen from behind
+N05|0|reader_shop_front|S|a man in spectacles sitting on the front step of a small shop holding an open newspaper and reading it aloud, a ring of men in veshtis sitting and standing around him listening, the newspaper turned away so its print is a grey blur
+N05|0|listeners_close|S|close view of three working men of different ages listening hard, heads tilted, late afternoon light on their faces, a folded newspaper edge out of focus in the foreground
+N05|4|radio_horn_men|E|a wireless set of the 1920s, a wooden box with dials and a tall curved horn speaker, on a table in a club room, men in coats and turbans seen from behind leaning in to listen
+N05|4|aerial_mast_garden|S|a tall thin wooden radio mast with wire aerials stretched above the roof of a garden house in Madras in 1926, evening sky, crows, no people
+N05|4|radio_dust_cover|X|a wireless set of the 1920s with its horn speaker standing silent under a dusty cotton cloth in a locked dim room, no people
+N05|5|egmore_station|S|the red brick front of a big railway station in Madras in 1926 with domes and arches, horse carts and porters with trunks on their heads in the forecourt, evening light
+N05|6|train_sea_bridge|S|a metre-gauge steam train crossing a long low iron bridge over blue-green sea between the Indian mainland and an island, 1926, seen from the air, smoke trailing
+N05|6|steamer_pier|S|a small passenger steamer with one funnel tied up at a wooden pier on a sandy spit, a train standing on the pier beside it, passengers with bundles walking across, 1926
+N05|6|colombo_harbour|O|Colombo in Ceylon in 1926: a harbour with steamers and sailing craft, colonial buildings with arcades and a clock tower on the waterfront, coconut palms, clear morning light
+N05|7|plane_wing_sea|T|present day, the view from an airliner window: the wing over a blue sea with a long green coastline below and small clouds, no people
+N05|8|dhanushkodi_1926|S|a small peaceful town on a narrow sand spit between two seas in South India in 1926: a little railway station, a church, tiled houses, fishing boats, calm evening light, tiny figures
+N05|9|workers_evening_gate|S|a stream of mill workers in veshtis, seen from behind, walking out through a big factory gate into a street at sunset, long shadows
+N05|9|thinnai_dusk_idle|S@father|the father sitting on the raised front veranda of his house at dusk with nothing to do, leaning against a wooden pillar, looking out at the lane
+N06|0|cinema_front_dusk|E|the front of a small cinema hall in Madras in 1926 at dusk: a plain hall with a tiled roof and an arched entrance lit by a few bulbs, a crowd of men in veshtis at the entrance, blank painted boards
+N06|0|audience_backs_screen|E|inside a cinema hall of the 1920s, the audience seen from behind sitting on benches and on the floor, the bright screen showing a black-and-white picture of a king and a queen in costume, the beam of the projector overhead in the smoky air
+N06|1|silent_figures_screen|E|a cinema screen of the 1920s filling the picture, on it a grainy black-and-white scene of a man and a woman in mythological costume with their mouths open in speech, heads of the audience dark along the bottom edge
+N06|2|narrator_beside_screen|E|a man in a coat and turban standing beside the cinema screen holding a long thin stick, his mouth open as he tells the story aloud, lit by the glow of the screen, audience heads dark in the foreground
+N06|2|harmonium_tabla|E|two musicians sitting on the floor below a glowing cinema screen, one playing a harmonium and one a pair of tabla drums, seen from the side in the flicker of the projector
+N06|3|projector_beam|E|a hand-cranked film projector of the 1920s in a small booth, a man's hand turning its crank, a bright beam of light shooting through the smoky dark, hand only
+N06|4|drama_stage_backdrop|E|a company drama stage at night in the 1920s: a painted palace backdrop, a row of footlights, actors in bright mythological costume with crowns, seen from the back of a big crowd
+N06|4|actor_singing|E|a stage actor in the costume of a mythological king, gold paper crown and garlands, singing with his head thrown back and one arm raised, lit from below by footlights
+N06|4|audience_ground_night|E|hundreds of people sitting on the ground at night watching a lit stage far away, seen from behind, children asleep on laps, petromax lanterns on poles
+N06|5|gramophone_horn|H|a wind-up gramophone with a big brass horn on a carved table in a well-to-do Tamil house, a black disc on the turntable, evening light through a window, no people
+N06|5|gramophone_crank_hand|H|close view of a man's hand winding the crank handle on the side of a wooden gramophone box, the brass horn above out of focus, hand only
+N06|6|thinnai_neighbours|S|neighbours sitting on the raised front verandas on both sides of a narrow lane at dusk talking across to each other, men in veshtis, women in saris, a hanging lantern
+N06|6|paati_story_lamp|H|a white-haired grandmother in a plain sari sitting on the floor by a small lamp telling a story with her hands raised, four small children around her seen from behind
+N06|6|street_children_play|S|children playing a game with pebbles and a spinning top in a dusty lane at sunset, seen from behind and far, tiled houses, a banyan tree
+N06|7|london_workshop_disc|O|London in 1926, a cluttered attic workshop: a man in a tweed jacket seen only from behind, bending over a strange home-made machine with a big spinning cardboard disc, lenses and bare bulbs
+N06|7|tiny_screen_flicker|O|1926, a very small glowing glass screen set in a wooden box in a dark workshop, on it only a faint blurred shape made of flickering orange lines, no people
+N06|7|tv_home_1975|O|Madras in 1975, a family seen from behind sitting on the floor of a small living room watching a black-and-white television set in a wooden cabinet with doors, a neighbour's children crowding at the window
+N06|8|sleeping_town_night|S|a street of tiled houses in Madras at night, every door shut, one electric street lamp, a sleeping dog, a night watchman with a stick and a lantern seen from behind far away
+N06|8|lamp_turned_down|H|a hand turning down the small brass wheel of a kerosene chimney lamp so that the flame shrinks, the room going dark, hand only
+N07|0|hand_on_forehead|N@mother|the mother sitting on the floor beside a child who lies under a cotton sheet with only the hair visible, her palm resting on the child's forehead, one kerosene lamp, her face worried
+N07|1|tablets_today|T|present day, a hand holding a strip of white tablets and a small bottle of syrup over a kitchen counter in bright daylight, labels blank, hand only
+N07|1|kashayam_herbs|N|a brass bowl of dark herbal brew steaming beside dried roots, pepper and tulsi leaves on a stone slab by lamp light, a woman's hand stirring it, hand only
+N07|1|mould_dish_lab|O|1928, a round glass dish on a laboratory bench with a patch of pale blue-green mould growing on it, a brass microscope behind, window light, no people
+N07|2|hospital_ward_empty|O|South India in the 1920s, a long plain hospital ward with high windows and a row of empty iron beds with white sheets, a nurse in a white sari seen small and from behind at the far end
+N07|2|vaccinator_kit|X|a vaccinator's small open tin case of the 1920s with glass tubes, a lancet and cotton wool on a wooden table, a register beside it closed, no people
+N07|3|closed_doors_1918|S|an empty street of tiled houses in a South Indian town in 1918 at midday, every door and window shut, a single crow on a wall, dry leaves blowing, no people
+N07|3|unlit_lamps_row|X|a row of small clay oil lamps on a stone ledge, all unlit and cold except one still burning at the end, dusk, no people
+N07|4|birth_register|X|an old thick register lying open on a clerk's desk with a steel-nib pen and an inkpot, every line of handwriting out of focus, lamp light, no people
+N07|4|people_all_ages|S|a busy bazaar street in Madras in 1926 full of people of every age, old men with sticks, mothers with babies on their hips, children, seen from slightly above and from behind
+N07|6|grandparents_thinnai|S|a white-haired grandfather and grandmother of about sixty-five sitting side by side on the raised front veranda of a tiled house, straight-backed and smiling, a grandchild leaning on the old man's knee
+N07|6|old_hand_child_hand|O|close view of an old man's wrinkled dark-brown hand on a walking stick and a small child's hand resting on top of it, warm evening light, hands only
+N07|7|family_meal_floor|H@father,mother,girl|the family eating together sitting in a row on the floor with banana leaves before them by lamp light, the mother serving rice, an ordinary happy evening
+N07|7|portrait_wall_today|T|present day, the same kind of old faded sepia portrait of a 1920s couple in a carved wooden frame, now hanging on a painted wall in a modern flat above a switched-on lamp, a fresh flower garland around it
+N07|7|phone_video_hands|T|present day, two hands holding a smartphone sideways on which a video glows as a warm blur, a sofa and evening light behind, hands only
+N07|8|family_doorstep_warm|S@father,mother,girl|the family standing at their doorstep at sunset looking toward the camera with calm faces, the mother's hand on the girl's shoulder, a younger boy beside them
+N07|8|ledgers_shelf_light|X|rows of thick old cloth-bound government volumes on archive shelves with a shaft of dusty light falling on them, every spine blank, no people
+N07|9|today_person_phone|T|present day, a young person seen from behind sitting on a city balcony at night looking at a glowing phone, the lights of Chennai spread out below
+N07|9|future_museum_phone|O|a hundred years in the future, a child seen from behind in a quiet museum hall looking into a lit glass case in which an old cracked smartphone lies on a stand like an ancient relic
+N07|9|future_city_dawn|O|a hundred years in the future, a calm green coastal city in South India at dawn with slender towers, trees on every roof and silent craft in the sky, the same sea and the same sunrise
+N07|10|sunrise_coast|S|sunrise over the long sand beach of Madras with fishing catamarans drawn up on the sand and the first light on the water, no people
