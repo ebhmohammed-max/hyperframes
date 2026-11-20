@@ -82,6 +82,57 @@ CHAPTERS = [
 ]
 CHAPTER_AT_BLOCK = {c[4]: c for c in CHAPTERS}
 
+# Each chapter card gets the image that belongs to that chapter, held behind the
+# existing card and slowly pushing. The card itself - type, colour, spacing, its
+# riser and impact - is untouched; this is a plate added underneath it.
+# Every pick is the chapter's own subject, not a texture: the coin for the opening
+# chapter, the sea-wall for the war that was fought at the waterline, the ash
+# plain for the last one.
+# ---------------------------------------------------------------- the hook
+# Published data: 30-45 % leave inside the first minute, and everyone who
+# survives that minute stays to the end. The body is not the problem.
+#
+# The opening block was cutting fifteen times in thirty seconds - one image every
+# two seconds - which gives the eye nothing to land on and makes the episode's
+# single best object, the coin, a two-second flash. A hook is the opposite: one
+# thing, held, while the voice builds.
+#
+# So block 1 stops churning. The coin is held from the first word until the
+# narrator names the harpy, then cuts once, on the name. Two shots in thirty
+# seconds instead of fifteen. The narration and the plate images are unchanged;
+# only how long each is allowed to stay on screen.
+#
+# (plate index, start, end, motion)
+# The film used to announce "Chapter One" at 0.35 s and its own title at 5.5 s.
+# A viewer landing cold was given a chapter heading for a film they had not been
+# told the name of. The title now leads and the chapter card follows it.
+#
+# This is a re-sequencing, not a redesign: both cards keep their exact type,
+# colour, spacing, animation and sound. Only the order and the start second
+# change. The chapter's own two cues move with it, because a card and its sound
+# are one unit - moving the unit is not altering it.
+OPENING_BEATS = {
+    # chapter index -> start second for the chapter card (default 0.35)
+    "I": 5.40,
+}
+# and the opening title card gets a shorter hold so it clears the chapter card
+TITLE_HOLD_BLOCK1 = 4.30
+
+HOOK_HOLD = {
+    1: [(0, 0.000, 21.100, "push"),
+        (10, 21.100, 30.000, "push")],
+}
+
+CHAPTER_BACKDROP = {
+    "I":   "0002.jpg",   # the coin turned between fingers
+    "II":  "0128.jpg",   # the shield wall standing intact and useless
+    "III": "0221.jpg",   # the engineering drawing on the wall
+    "IV":  "0348.jpg",   # the fleet in the strait
+    "V":   "0666.jpg",   # the jar under the floor
+    "VI":  "0771.jpg",   # the temple with the harpy above the door
+    "VII": "1031.jpg",   # the ash plain and the broken pyramid
+}
+
 # ------------------------------------------------------------------ on-screen messages
 # Title cards. Every line is either the narrator's own words or a statement the
 # narration supports; nothing on screen is invented for effect.
@@ -257,6 +308,10 @@ html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--g
   background:rgba(5,5,8,.74);border-left:4px solid var(--ember)}
 .placard span{font-family:var(--display);font-size:50px;line-height:1.06;color:#fdf8ec;
   text-transform:uppercase;letter-spacing:.10em}
+.chbg{position:absolute;inset:0;z-index:11;overflow:hidden;pointer-events:none}
+.chbg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform-origin:50% 50%}
+.chbg .chscrim{position:absolute;inset:0;background:
+  radial-gradient(60% 60% at 50% 48%,rgba(4,4,6,.80),rgba(4,4,6,.55) 60%,rgba(4,4,6,.30))}
 .chapter{position:absolute;inset:0;z-index:12;display:grid;place-items:center;pointer-events:none;
   background:radial-gradient(60% 60% at 50% 48%,rgba(4,4,6,.72),rgba(4,4,6,.28) 60%,rgba(4,4,6,0))}
 .chapter .inner{text-align:center;max-width:1320px}
@@ -392,11 +447,28 @@ def main() -> None:
 
         body, js = [], []
         body.append('  <div class="stage">')
+        hook = HOOK_HOLD.get(i + 1)
         for k, p in enumerate(plates):
             pid = f"{sid}-p{k:02d}"
             img = p["scene_id"].replace("HAR-EP002-IMG", "") + ".jpg"
             body.append(f'    <div id="{pid}" class="plate" style="opacity:0">'
                         f'<img id="{pid}-i" src="assets/images/{img}" alt="" draggable="false"></div>')
+            if hook:
+                # the opening block is driven by the hold table, not the 2 s grid
+                spec = next((h for h in hook if h[0] == k), None)
+                if spec:
+                    _, hs, he, mot = spec
+                    dur = he - hs
+                    js.append(f'  tl.set("#{pid}",{{opacity:1}},{hs:.3f});')
+                    js.append(f'  tl.set("#{pid}",{{opacity:0}},{he:.3f});')
+                    kind, a, b = MOTION[mot]
+                    if kind == "s":
+                        js.append(f'  tl.fromTo("#{pid}-i",{{scale:{a:g}}},'
+                                  f'{{scale:{b:g},duration:{dur:.3f},ease:"none"}},{hs:.3f});')
+                    else:
+                        js.append(f'  tl.fromTo("#{pid}-i",{{xPercent:{a:g},scale:1.05}},'
+                                  f'{{xPercent:{b:g},scale:1.05,duration:{dur:.3f},ease:"none"}},{hs:.3f});')
+                continue
             t = k * PLATE
             js.append(f'  tl.set("#{pid}",{{opacity:1}},{t:.3f});')
             if k < len(plates) - 1:
@@ -414,7 +486,7 @@ def main() -> None:
         # remaining silence instead of two more cuts playing over nothing, so the gap
         # is a beat with a picture on it rather than a hole.
         gap = float(form[i + 1]["gap_seconds"])
-        if gap >= 2.6:
+        if gap >= 2.6 and not HOOK_HOLD.get(i + 1):
             last = f"{sid}-p{len(plates) - 1:02d}"
             # overwrite:auto kills the plate's own 2 s scale tween at this point, so the
             # hold is one continuous drift instead of two tweens fighting over `scale`.
@@ -434,21 +506,49 @@ def main() -> None:
         if ch:
             num, label, title, blurb = ch[0], ch[1], ch[2], ch[3]
             cid = f"{sid}-ch"
+            # A plate behind the card, under the same plate motion language as the
+            # rest of the film, with a scrim over it. The scrim is deliberately as
+            # dark as the card's own radial was, so the type sits on the same
+            # contrast it always did. The card design does not change.
+            bg = CHAPTER_BACKDROP.get(num)
+            bg_markup, bg_js = "", []
+            if bg:
+                bid = f"{sid}-chbg"
+                body.append(f'  <div id="{bid}" class="chbg" style="opacity:0">'
+                            f'<img id="{bid}-i" src="assets/images/{bg}" alt="" draggable="false">'
+                            f'<div class="chscrim"></div></div>')
+                cstart = OPENING_BEATS.get(num, 0.35)
+                bg_js.append(f'  tl.set("#{bid}",{{opacity:1}},{cstart:.2f});')
+                bg_js.append(f'  tl.fromTo("#{bid}-i",{{scale:1.055}},'
+                             f'{{scale:1.000,duration:5.6,ease:"none"}},{cstart:.2f});')
+                bg_js.append(f'  tl.to("#{bid}",{{opacity:0,duration:.8,ease:"power2.in"}},'
+                             f'{cstart + 4.05:.2f});')
             body.append(f'  <div id="{cid}" class="chapter" style="opacity:0"><div class="inner">'
                         f'<p class="num">{num}</p><p class="lbl">{label}</p>'
                         f'<h1>{title}</h1><p>{blurb}</p><div class="rule"></div></div></div>')
+            js.extend(bg_js)
+            ch_at = OPENING_BEATS.get(num, 0.35)
             js.append(f'  tl.fromTo("#{cid}",{{opacity:0}},{{opacity:1,duration:.7,'
-                      f'ease:"power2.out",immediateRender:false}},0.35);')
-            js.append(f'  tl.to("#{cid}",{{opacity:0,duration:.8,ease:"power2.in"}},4.4);')
-            sfx.append(dict(file="riser.mp3", start=t0 + 1.2, vol=0.26))
-            sfx.append(dict(file="impact-bass-1.mp3", start=t0 + 4.6, vol=0.34))
+                      f'ease:"power2.out",immediateRender:false}},{ch_at:.2f});')
+            js.append(f'  tl.to("#{cid}",{{opacity:0,duration:.8,ease:"power2.in"}},'
+                      f'{ch_at + 4.05:.2f});')
+            sfx.append(dict(file="riser.mp3", start=t0 + ch_at + 0.85, vol=0.26))
+            sfx.append(dict(file="impact-bass-1.mp3", start=t0 + ch_at + 4.25, vol=0.34))
 
         msgs = []
         for c in CARDS:
             if c[0] != i:
                 continue
             _, off, eyebrow, line, sub, hold, fx = c
-            msgs.append([max(0.35, off), hold, "card",
+            if i == 0:
+                # The film's title card leads the film. It used to sit at 5.5 s,
+                # behind a chapter card announcing chapter one of a film the
+                # viewer had not been told the name of yet. It now opens, holds
+                # through the narrator's "worn nearly smooth", and hands over to
+                # the chapter card at 5.40.
+                off = 0.90
+                hold = TITLE_HOLD_BLOCK1
+            msgs.append([max(0.35, off) if i else off, hold, "card",
                          dict(eyebrow=eyebrow, line=line, sub=sub, fx=fx)])
         for (b, needle, place) in PLACES:
             if b != i:
@@ -461,7 +561,12 @@ def main() -> None:
         cards = [m for m in msgs if m[2] == "card"]
         places = [m for m in msgs if m[2] == "place"]
         kept = []
-        cursor = 5.5 if ch else 0.0
+        # Cards are sequenced by a cursor so two never land on top of each other.
+        # On a chapter block that cursor starts after the chapter card. The
+        # opening block is the exception: its title card has to come before the
+        # chapter card, so the cursor starts at zero and the card is timed
+        # explicitly at 0.90.
+        cursor = 0.0 if i == 0 else ((OPENING_BEATS.get(ch[0], 0.35) + 4.55) if ch else 0.0)
         for at, hold, kind, payload in cards:
             at = max(at, cursor)
             if at > 24.0:
