@@ -91,5 +91,4 @@ tags, chapter cards 01–06, map, vault row, door counter, figure panels, timeli
 
 The first upload attempt (eight calls at once) was refused by the connector's upload rate limit; nothing was sent. Upload them a few at
 a time into the episode folder `1AWPWp9D67uhUGpXjGYwdB4rGpxa16ClN` (`content_mime_type: video/mp4`), then fill in this table.
-The mp4 files are not in git and vanish in a wipe of ignored files only from `out/`; the copies in `google_drive/ep18_up/` are untracked
-but not ignored... (`*.mp4` is ignored inside the project only), so they should survive like the pictures did.
+The mp4 files are not in git. `out/` is lost in a wipe; the copies in `google_drive/ep18_up/` have survived wipes so far, like the pictures.
