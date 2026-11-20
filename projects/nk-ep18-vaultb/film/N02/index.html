@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ta">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>EP18 N02 kingdom</title>
+    <script src="assets/vendor/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+      #root { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #000; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="76.507" data-width="1920" data-height="1080">
+      <div
+        id="pic"
+        data-composition-id="pic"
+        data-composition-src="compositions/pic.html"
+        data-start="0"
+        data-duration="76.507"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 1"
+      ></div>
+      <div
+        id="gfx"
+        data-composition-id="gfx"
+        data-composition-src="compositions/gfx.html"
+        data-start="0"
+        data-duration="76.507"
+        data-track-index="2"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 2"
+      ></div>
+      <div
+        id="ovl"
+        data-composition-id="ovl"
+        data-composition-src="compositions/ovl.html"
+        data-start="0"
+        data-duration="76.507"
+        data-track-index="3"
+        data-track-kind="graphics"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 3"
+      ></div>
+      <div
+        id="cap"
+        data-composition-id="cap"
+        data-composition-src="compositions/cap.html"
+        data-start="0"
+        data-duration="76.507"
+        data-track-index="4"
+        data-track-kind="captions"
+        data-width="1920"
+        data-height="1080"
+        style="z-index: 4"
+      ></div>
+      <audio id="vo" class="clip" src="assets/vo/N02.mp3" data-start="2.55" data-duration="73.357" data-track-index="5" data-volume="1"></audio>
+      <audio id="fx1-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="2.588" data-duration="0.57" data-track-index="6" data-volume="0.14"></audio>
+      <audio id="fx2-pop" class="clip" src="assets/sfx/pop.mp3" data-start="12.19" data-duration="0.7" data-track-index="7" data-volume="0.1"></audio>
+      <audio id="fx3-pop" class="clip" src="assets/sfx/pop.mp3" data-start="26.76" data-duration="0.7" data-track-index="8" data-volume="0.1"></audio>
+      <audio id="fx4-pop" class="clip" src="assets/sfx/pop.mp3" data-start="59.02" data-duration="0.7" data-track-index="9" data-volume="0.08"></audio>
+      <audio id="fx5-pop" class="clip" src="assets/sfx/pop.mp3" data-start="60.425" data-duration="0.7" data-track-index="10" data-volume="0.08"></audio>
+      <audio id="fx6-pop" class="clip" src="assets/sfx/pop.mp3" data-start="61.22" data-duration="0.7" data-track-index="11" data-volume="0.08"></audio>
+      <audio id="fx7-pop" class="clip" src="assets/sfx/pop.mp3" data-start="61.955" data-duration="0.7" data-track-index="12" data-volume="0.08"></audio>
+      <audio id="fx8-pop" class="clip" src="assets/sfx/pop.mp3" data-start="62.505" data-duration="0.7" data-track-index="13" data-volume="0.08"></audio>
+      <audio id="fx9-pop" class="clip" src="assets/sfx/pop.mp3" data-start="63.17" data-duration="0.7" data-track-index="14" data-volume="0.08"></audio>
+      <audio id="fx10-impact-bass-2" class="clip" src="assets/sfx/impact-bass-2.mp3" data-start="66.825" data-duration="2.59" data-track-index="15" data-volume="0.16"></audio>
+      <audio id="fx11-impact-bass-2" class="clip" src="assets/sfx/impact-bass-2.mp3" data-start="67.325" data-duration="2.59" data-track-index="16" data-volume="0.16"></audio>
+      <audio id="fx12-whoosh-short" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="56.633" data-duration="0.57" data-track-index="17" data-volume="0.14"></audio>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = gsap.timeline({ paused: true });
+    </script>
+  </body>
+</html>

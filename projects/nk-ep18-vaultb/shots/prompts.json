@@ -1,0 +1,1357 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "slab_five_men",
+  "look": "V",
+  "file": "EP18_001_N01q00_slab_five_men.jpg",
+  "prompt": "Five men seen from above and behind straining with wooden poles and ropes to shift a huge rectangular granite slab lying in the floor of a small bare stone room, dust rising in the torch beams. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "gopuram_night_guard",
+  "look": "T",
+  "file": "EP18_002_N01q00_gopuram_night_guard.jpg",
+  "prompt": "The temple tower at night under a dark sky, a few policemen in khaki standing as small silhouettes at metal barricades before the gateway, yellow street light, the tank black and still. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 0,
+  "k": 2,
+  "name": "slab_gap_dark",
+  "look": "V",
+  "file": "EP18_003_N01q00_slab_gap_dark.jpg",
+  "prompt": "Close view of the granite slab pushed aside, a narrow black opening in the floor with the first worn stone step showing, a torch beam falling into it, only two hands gripping the edge of the slab. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "steps_down_dark",
+  "look": "V",
+  "file": "EP18_004_N01q01_steps_down_dark.jpg",
+  "prompt": "Looking down a very narrow, steep flight of worn granite steps that drops into total darkness between rough stone walls, a single torch beam reaching only the first few steps, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "torch_beam_dust",
+  "look": "V",
+  "file": "EP18_005_N01q01_torch_beam_dust.jpg",
+  "prompt": "A single torch beam cutting through thick dusty darkness in a low stone chamber, the far end still black, one man as a dark silhouette seen from behind at the edge of the frame. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 1,
+  "k": 2,
+  "name": "vault_stars_gold",
+  "look": "G",
+  "file": "EP18_006_N01q01_vault_stars_gold.jpg",
+  "prompt": "A low stone chamber seen from the foot of narrow steps, the darkness filled with hundreds of tiny golden glints like stars in a moonless night sky, heaps of gold objects only half made out, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "coins_spill_sack",
+  "look": "G",
+  "file": "EP18_007_N01q02_coins_spill_sack.jpg",
+  "prompt": "Old gold coins spilling out of a rotted cloth sack across a granite floor, the nearest coins sharp and the rest fading into darkness, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 2,
+  "k": 1,
+  "name": "gems_brass_dish",
+  "look": "G",
+  "file": "EP18_008_N01q02_gems_brass_dish.jpg",
+  "prompt": "Loose cut diamonds and dark red rubies lying in a shallow old brass dish, catching one hard point of torch light, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 2,
+  "k": 2,
+  "name": "long_chain_floor",
+  "look": "G",
+  "file": "EP18_009_N01q02_long_chain_floor.jpg",
+  "prompt": "A very long, heavy gold chain laid in slow loops across a granite floor and running away into the dark, far longer than a man is tall, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "two_grilles_corridor",
+  "look": "V",
+  "file": "EP18_010_N01q03_two_grilles_corridor.jpg",
+  "prompt": "A low granite corridor with two iron-grille doorways side by side in one wall, the left one standing open with warm light inside, the right one closed and completely dark, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "iron_door_torch",
+  "look": "V",
+  "file": "EP18_011_N01q03_iron_door_torch.jpg",
+  "prompt": "The closed iron door filling the frame, lit from the side by one torch beam, its three bolts shut, dust hanging in the light, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "door_cobweb_years",
+  "look": "V",
+  "file": "EP18_012_N01q04_door_cobweb_years.jpg",
+  "prompt": "Close view of the three heavy bolts of the closed iron door under thick grey dust and old cobwebs, untouched for years, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "door_edge_black",
+  "look": "V",
+  "file": "EP18_013_N01q05_door_edge_black.jpg",
+  "prompt": "Extreme close view of the thin black gap where the edge of the iron door meets its granite frame, nothing visible beyond, fine dust drifting in a faint draught, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 5,
+  "k": 1,
+  "name": "lone_figure_door",
+  "look": "V",
+  "file": "EP18_014_N01q05_lone_figure_door.jpg",
+  "prompt": "A lone man seen from behind, small in the frame, standing in the corridor before the closed iron door and holding up a hurricane lamp. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "snake_guard_legend",
+  "look": "L",
+  "file": "EP18_015_N01q06_snake_guard_legend.jpg",
+  "prompt": "A great king cobra with its hood spread wide, raised in front of a closed door in a dark stone vault, its scales catching a cold glow. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 6,
+  "k": 1,
+  "name": "mantra_lock_legend",
+  "look": "L",
+  "file": "EP18_016_N01q06_mantra_lock_legend.jpg",
+  "prompt": "A closed stone door in a dark vault with a faint ring of pale golden light sealed around its edge like a spell, motes of light drifting, no people. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 6,
+  "k": 2,
+  "name": "town_flood_legend",
+  "look": "L",
+  "file": "EP18_017_N01q06_town_flood_legend.jpg",
+  "prompt": "A South Indian temple town of tiled roofs and coconut palms at night with an enormous dark sea wave rising behind it, the temple tower small against the water, no people. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "audit_report_desk",
+  "look": "C",
+  "file": "EP18_018_N01q07_audit_report_desk.jpg",
+  "prompt": "A thick bound report lying closed on a plain wooden office desk under a desk lamp, an elderly man's hand resting flat on its cover, hand and forearm only. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N01",
+  "q": 7,
+  "k": 1,
+  "name": "old_register_open",
+  "look": "X",
+  "file": "EP18_019_N01q07_old_register_open.jpg",
+  "prompt": "An old cloth-bound temple register lying open, its pages filled with close handwriting that is only fine blurred lines, a few entries marked with small slips of paper. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "gopuram_low_angle",
+  "look": "T",
+  "file": "EP18_020_N01q09_gopuram_low_angle.jpg",
+  "prompt": "The temple tower seen from low down close to its base at dusk, rising against a heavy monsoon sky, a few birds, the last light on its upper tiers, no people. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 21,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "door_end_corridor",
+  "look": "V",
+  "file": "EP18_021_N01q09_door_end_corridor.jpg",
+  "prompt": "The closed iron door seen from far down the long low corridor, one hurricane lamp burning on the floor before it, the walls closing in toward it, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 22,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "sanctum_three_doors",
+  "look": "D",
+  "file": "EP18_022_N02q01_sanctum_three_doors.jpg",
+  "prompt": "Three doorways in a row in a dark granite wall, golden lamp light glowing inside each, worshippers seen from behind standing before them with joined palms. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood, worshippers seen from behind: men bare-chested in white mundus with a white cloth over one shoulder, women in cream Kerala saris with a gold border and hair in a bun. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "serpent_hoods_glimpse",
+  "look": "D",
+  "file": "EP18_023_N02q01_serpent_hoods_glimpse.jpg",
+  "prompt": "A glimpse through one doorway of great serpent hoods carved in dark stone, rising above rows of small lamp flames and mostly lost in shadow and incense smoke, no people. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N02",
+  "q": 1,
+  "k": 2,
+  "name": "devotees_three_views",
+  "look": "D",
+  "file": "EP18_024_N02q01_devotees_three_views.jpg",
+  "prompt": "A line of worshippers seen from behind on a raised granite platform, each leaning to look through a different one of three lamp-lit doorways. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood, worshippers seen from behind: men bare-chested in white mundus with a white cloth over one shoulder, women in cream Kerala saris with a gold border and hair in a bun. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "palm_leaf_hymns",
+  "look": "X",
+  "file": "EP18_025_N02q02_palm_leaf_hymns.jpg",
+  "prompt": "A bundle of old palm-leaf manuscript strips tied with cord, an iron stylus, a string of dried basil-wood beads and a small brass lamp, the scratched lines far too fine to read. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "king_sword_kneel",
+  "look": "K",
+  "file": "EP18_026_N02q03_king_sword_kneel.jpg",
+  "prompt": "A king of Travancore in 1750, seen from behind, kneeling bare-chested in a white cloth on a great single slab of granite before lamp-lit sanctum doors and laying his sword down on the step in front of him. Travancore in Kerala, South India, in the 18th century: temple and palace buildings of granite, carved dark wood and steep clay-tiled roofs, brass oil lamps, coconut palms, nothing modern, men of old Kerala bare-chested in white mundus with a white shoulder cloth and their hair tied in a knot above the forehead, no turbans, no beards, no crowns. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "sword_on_step",
+  "look": "K",
+  "file": "EP18_027_N02q03_sword_on_step.jpg",
+  "prompt": "Close view of a straight steel sword with a gold hilt lying on a granite step among flower petals, the reflections of many small lamp flames along the blade, no people. Travancore in Kerala, South India, in the 18th century: temple and palace buildings of granite, carved dark wood and steep clay-tiled roofs, brass oil lamps, coconut palms, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 3,
+  "k": 2,
+  "name": "travancore_wide_view",
+  "look": "K",
+  "file": "EP18_028_N02q03_travancore_wide_view.jpg",
+  "prompt": "Wide morning view over Travancore in the 18th century: backwaters, endless coconut palms, tiled roofs of a small town and a temple tower far away under tall clouds, no people. Travancore in Kerala, South India, in the 18th century: temple and palace buildings of granite, carved dark wood and steep clay-tiled roofs, brass oil lamps, coconut palms, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "king_walks_as_servant",
+  "look": "K",
+  "file": "EP18_029_N02q04_king_walks_as_servant.jpg",
+  "prompt": "The king seen from behind walking barefoot and bare-chested in a plain white cloth behind a small temple procession of lamp bearers along a granite colonnade. Travancore in Kerala, South India, in the 18th century: temple and palace buildings of granite, carved dark wood and steep clay-tiled roofs, brass oil lamps, coconut palms, nothing modern, men of old Kerala bare-chested in white mundus with a white shoulder cloth and their hair tied in a knot above the forehead, no turbans, no beards, no crowns. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "gopuram_tank_dawn",
+  "look": "T",
+  "file": "EP18_030_N02q04_gopuram_tank_dawn.jpg",
+  "prompt": "The temple tower and its mirror image in the still tank at dawn, pink and gold sky, mist on the water, no people and no vehicles. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "offerings_gold_tray",
+  "look": "K",
+  "file": "EP18_031_N02q05_offerings_gold_tray.jpg",
+  "prompt": "Hands laying gold ornaments and gold coins on a wide brass tray at a lamp-lit temple doorway, wrists and forearms bare, hands only. Travancore in Kerala, South India, in the 18th century: temple and palace buildings of granite, carved dark wood and steep clay-tiled roofs, brass oil lamps, coconut palms, nothing modern, men of old Kerala bare-chested in white mundus with a white shoulder cloth and their hair tied in a knot above the forehead, no turbans, no beards, no crowns. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "chest_carried_down",
+  "look": "K",
+  "file": "EP18_032_N02q05_chest_carried_down.jpg",
+  "prompt": "Two temple servants seen from behind carrying a heavy brass-bound wooden chest on a pole down a flight of granite steps into a cellar, one small lamp lighting the way. Travancore in Kerala, South India, in the 18th century: temple and palace buildings of granite, carved dark wood and steep clay-tiled roofs, brass oil lamps, coconut palms, nothing modern, men of old Kerala bare-chested in white mundus with a white shoulder cloth and their hair tied in a knot above the forehead, no turbans, no beards, no crowns. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "pepper_sacks_port",
+  "look": "S",
+  "file": "EP18_033_N02q06_pepper_sacks_port.jpg",
+  "prompt": "Heaps of black peppercorns and open sacks on the sand of a Malabar river port, a trader's hands pouring pepper into a brass measure, small boats and palms behind. The Malabar coast of Kerala, South India, about two thousand years ago: a river-mouth port under coconut palms, wooden boats, heaps of spice, bright sea light, nothing modern, dark-skinned South Indian traders in white waist cloths, bare-chested, and a few foreign merchants in plain tunics, all small in the scene. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "roman_ship_coast",
+  "look": "S",
+  "file": "EP18_034_N02q06_roman_ship_coast.jpg",
+  "prompt": "A Roman merchant sailing ship with one square sail and two Arab dhows with slanting sails anchored off a long palm-fringed coast, small boats ferrying sacks out to them. The Malabar coast of Kerala, South India, about two thousand years ago: a river-mouth port under coconut palms, wooden boats, heaps of spice, bright sea light, nothing modern, dark-skinned South Indian traders in white waist cloths, bare-chested, and a few foreign merchants in plain tunics, all small in the scene. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N02",
+  "q": 9,
+  "k": 0,
+  "name": "petitioner_gate_back",
+  "look": "T",
+  "file": "EP18_035_N02q09_petitioner_gate_back.jpg",
+  "prompt": "The old man seen from behind standing alone on the road before the temple tower in early morning light, looking up at it. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. The old man is the same as in the reference picture and is seen only from behind: about seventy, thin and a little stooped, white hair reaching his collar and the edge of a long white beard just visible past his shoulder, bare-chested with a white cloth over his left shoulder, a white mundu to the ankles, a cloth bag on one shoulder. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple",
+   "petitioner"
+  ]
+ },
+ {
+  "n": 36,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "petitioner_walk_lane",
+  "look": "T",
+  "file": "EP18_036_N03q00_petitioner_walk_lane.jpg",
+  "prompt": "The old man seen from behind walking slowly along a narrow lane of old tiled-roof houses in the morning, a few neighbours far off. The old man is the same as in the reference picture and is seen only from behind: about seventy, thin and a little stooped, white hair reaching his collar and the edge of a long white beard just visible past his shoulder, bare-chested with a white cloth over his left shoulder, a white mundu to the ankles, a cloth bag on one shoulder. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "petitioner"
+  ]
+ },
+ {
+  "n": 37,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "cap_and_gown",
+  "look": "X",
+  "file": "EP18_037_N03q00_cap_and_gown.jpg",
+  "prompt": "A police officer's old khaki peaked cap resting on a wooden chair and a lawyer's black gown with white neck bands hanging over the chair back, no badge and no lettering. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "house_near_tower",
+  "look": "T",
+  "file": "EP18_038_N03q01_house_near_tower.jpg",
+  "prompt": "An old single-storey house with a clay-tiled roof and a pillared veranda in a quiet lane, the temple tower rising very close behind it, no people. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 39,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "petitioner_prayer_back",
+  "look": "D",
+  "file": "EP18_039_N03q01_petitioner_prayer_back.jpg",
+  "prompt": "The old man seen from behind standing with joined palms before a lamp-lit temple doorway among other worshippers. The old man is the same as in the reference picture and is seen only from behind: about seventy, thin and a little stooped, white hair reaching his collar and the edge of a long white beard just visible past his shoulder, bare-chested with a white cloth over his left shoulder, a white mundu to the ankles, a cloth bag on one shoulder. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood, worshippers seen from behind: men bare-chested in white mundus with a white cloth over one shoulder, women in cream Kerala saris with a gold border and hair in a bun. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "petitioner"
+  ]
+ },
+ {
+  "n": 40,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "scales_coins_ledger",
+  "look": "X",
+  "file": "EP18_040_N03q02_scales_coins_ledger.jpg",
+  "prompt": "A small brass balance scale with a few old gold coins on one pan, standing beside a closed account ledger and a steel pen. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "high_court_steps",
+  "look": "C",
+  "file": "EP18_041_N03q03_high_court_steps.jpg",
+  "prompt": "A large court building in Kerala with broad front steps and tall palms, lawyers in black gowns seen from behind going up the steps, bright January light. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "judgment_bundle_tape",
+  "look": "C",
+  "file": "EP18_042_N03q03_judgment_bundle_tape.jpg",
+  "prompt": "A thick bundle of judgment papers tied with red cloth tape lying on a judge's wooden desk beside a fountain pen, the shadow of a ceiling fan across it, no people. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "supreme_court_dome",
+  "look": "C",
+  "file": "EP18_043_N03q04_supreme_court_dome.jpg",
+  "prompt": "The Supreme Court of India in New Delhi: a long red and cream sandstone building with a colonnade and a central dome, a wide lawn in front, people tiny. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "court_steps_file",
+  "look": "C",
+  "file": "EP18_044_N03q04_court_steps_file.jpg",
+  "prompt": "A lawyer in a black gown seen from behind climbing wide stone steps toward tall doors, carrying thick files tied with tape under one arm. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "observers_seven_back",
+  "look": "T",
+  "file": "EP18_045_N03q05_observers_seven_back.jpg",
+  "prompt": "Seven elderly men seen from behind walking together toward the temple gateway, most in white shirts and white mundus, two carrying document cases. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 46,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "gem_tools_cloth",
+  "look": "X",
+  "file": "EP18_046_N03q05_gem_tools_cloth.jpg",
+  "prompt": "A jeweller's folding magnifier, fine tweezers, a small balance with weights and a blank notebook laid out on a white cloth. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "police_cordon_temple",
+  "look": "T",
+  "file": "EP18_047_N03q06_police_cordon_temple.jpg",
+  "prompt": "Policemen in khaki at metal barricades across the road before the temple gateway, a crowd and press photographers held back, all seen from behind. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 48,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "puja_vessels_shelf",
+  "look": "G",
+  "file": "EP18_048_N03q07_puja_vessels_shelf.jpg",
+  "prompt": "Brass and silver ritual vessels, lamps, plates and bells standing in rows on stone shelves in a small chamber, lit by one electric work lamp, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "ornaments_listed",
+  "look": "G",
+  "file": "EP18_049_N03q07_ornaments_listed.jpg",
+  "prompt": "Temple ornaments laid out in neat rows on a red cloth, a hand with a pen ticking a list on a clipboard beside them, the writing only blurred lines, hand only. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "corridor_approach",
+  "look": "V",
+  "file": "EP18_050_N03q08_corridor_approach.jpg",
+  "prompt": "The group of observers seen from behind walking with torches down the low granite corridor toward two iron-grille doors at its end. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "grille_b_locked",
+  "look": "V",
+  "file": "EP18_051_N03q08_grille_b_locked.jpg",
+  "prompt": "A heavy iron-grille door hung with several large old padlocks, a torch beam showing only darkness behind its bars, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "keys_at_padlock",
+  "look": "V",
+  "file": "EP18_052_N04q00_keys_at_padlock.jpg",
+  "prompt": "A hand holding a bunch of large old iron keys and fitting one into a heavy old padlock on an iron-grille door, wrist and forearm bare, hand only. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N04",
+  "q": 0,
+  "k": 1,
+  "name": "grille_swings_open",
+  "look": "V",
+  "file": "EP18_053_N04q00_grille_swings_open.jpg",
+  "prompt": "The iron-grille door swung open on its hinges, a torch beam now falling on a massive dark wooden door standing just behind it, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "wooden_door_studs",
+  "look": "V",
+  "file": "EP18_054_N04q01_wooden_door_studs.jpg",
+  "prompt": "A massive dark wooden door banded and studded with iron in a granite frame, pushed half open, pure darkness in the gap beyond, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "iron_door_first_sight",
+  "look": "V",
+  "file": "EP18_055_N04q02_iron_door_first_sight.jpg",
+  "prompt": "The closed iron door caught for the first time in several torch beams, three men as dark silhouettes seen from behind in front of it. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 56,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "jammed_bolt_hand",
+  "look": "V",
+  "file": "EP18_056_N04q02_jammed_bolt_hand.jpg",
+  "prompt": "Close view of a hand straining to pull back one rusted bolt on the iron door, the bolt not moving, flakes of rust on the fingers, hand only. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 57,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "observers_confer",
+  "look": "V",
+  "file": "EP18_057_N04q03_observers_confer.jpg",
+  "prompt": "The observers standing in a close group in the corridor around one hurricane lamp, seen from behind, heads bent toward each other. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "second_doorway_open",
+  "look": "V",
+  "file": "EP18_058_N04q04_second_doorway_open.jpg",
+  "prompt": "Another doorway further along the same corridor, its iron grille and its wooden door both standing open, a small stone room visible inside, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N04",
+  "q": 4,
+  "k": 1,
+  "name": "empty_room_slab",
+  "look": "V",
+  "file": "EP18_059_N04q04_empty_room_slab.jpg",
+  "prompt": "A small bare granite room, completely empty except for one huge rectangular granite slab lying flat in the floor like a fallen gravestone, a torch beam resting on it, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "men_lever_slab",
+  "look": "V",
+  "file": "EP18_060_N04q05_men_lever_slab.jpg",
+  "prompt": "Five men seen from behind bending their weight on iron crowbars and wooden poles to shift the great floor slab, sweat on their backs, dust in the lamp light. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "slab_edge_lifts",
+  "look": "V",
+  "file": "EP18_061_N04q05_slab_edge_lifts.jpg",
+  "prompt": "Close view of the edge of the granite slab lifting a hand's width on an iron bar, a black gap opening under it, dust pouring over the edge, hands only. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "narrow_opening_step",
+  "look": "V",
+  "file": "EP18_062_N04q06_narrow_opening_step.jpg",
+  "prompt": "A rectangular opening in the stone floor barely wide enough for one man, worn steps going down into blackness, a torch lying beside it, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "lamp_flame_shrinks",
+  "look": "V",
+  "file": "EP18_063_N04q06_lamp_flame_shrinks.jpg",
+  "prompt": "A hand lowering a hurricane lamp into the opening in the floor, its flame shrinking and turning blue in the stale air, hand only. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "firemen_air_hose",
+  "look": "V",
+  "file": "EP18_064_N04q07_firemen_air_hose.jpg",
+  "prompt": "Two firemen in dark uniforms and helmets seen from behind feeding a thick air hose down the opening in the floor, a portable blower and a cylinder beside them. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "dust_on_steps",
+  "look": "V",
+  "file": "EP18_065_N04q08_dust_on_steps.jpg",
+  "prompt": "Worn granite steps under a thick, even layer of grey dust with no footprints at all, lit low from the side by a torch, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N04",
+  "q": 8,
+  "k": 1,
+  "name": "blank_ledger_page",
+  "look": "X",
+  "file": "EP18_066_N04q08_blank_ledger_page.jpg",
+  "prompt": "An old ledger lying open at a page ruled with columns and left completely empty, a pen resting across it, no people. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "torch_turns_in",
+  "look": "V",
+  "file": "EP18_067_N04q09_torch_turns_in.jpg",
+  "prompt": "A hand turning a torch into a dark doorway, the edge of the beam just beginning to catch points of gold deep inside, hand only. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "star_field_gold",
+  "look": "G",
+  "file": "EP18_068_N05q00_star_field_gold.jpg",
+  "prompt": "The whole low chamber in darkness, gold glinting everywhere from floor to ceiling like a field of stars, shapes of pots, chests and heaps just visible, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N05",
+  "q": 0,
+  "k": 1,
+  "name": "silhouette_awe",
+  "look": "V",
+  "file": "EP18_069_N05q00_silhouette_awe.jpg",
+  "prompt": "One man as a silhouette seen from behind at the foot of the narrow steps, his torch lowered, facing a darkness full of golden glints. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "carriers_up_steps",
+  "look": "V",
+  "file": "EP18_070_N05q01_carriers_up_steps.jpg",
+  "prompt": "A chain of men seen from behind passing brass pots and loaded baskets from hand to hand up the narrow stone steps, lamps hung on the wall. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "coin_sacks_heap",
+  "look": "G",
+  "file": "EP18_071_N05q02_coin_sacks_heap.jpg",
+  "prompt": "Rows of old cloth sacks and clay pots brimming with gold coins against a granite wall, some sacks split and spilling, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "coins_many_lands",
+  "look": "G",
+  "file": "EP18_072_N05q02_coins_many_lands.jpg",
+  "prompt": "Close view of antique gold coins of many sizes and makes lying mixed together, small thin ones and broad heavy ones, the heads and marks on them worn almost smooth, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N05",
+  "q": 2,
+  "k": 2,
+  "name": "coins_sorted_cloth",
+  "look": "G",
+  "file": "EP18_073_N05q02_coins_sorted_cloth.jpg",
+  "prompt": "Gold coins sorted into small groups on a white cloth under a bright lamp, a hand holding a magnifying glass over one of them, hand only. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "chain_measured",
+  "look": "G",
+  "file": "EP18_074_N05q03_chain_measured.jpg",
+  "prompt": "A heavy gold chain stretched out dead straight along the corridor floor beside a long measuring tape, running the whole length of the frame, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "chain_links_close",
+  "look": "G",
+  "file": "EP18_075_N05q03_chain_links_close.jpg",
+  "prompt": "Close view of thick old gold chain links set with small rubies and emeralds, lying across a man's open palms, hands only. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "small_idol_veiled",
+  "look": "G",
+  "file": "EP18_076_N05q04_small_idol_veiled.jpg",
+  "prompt": "A small golden figure about three and a half feet tall standing on a stone ledge, almost wholly wrapped in old cloth so that only a jewelled crown and a soft golden outline show, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "gems_in_gold",
+  "look": "G",
+  "file": "EP18_077_N05q04_gems_in_gold.jpg",
+  "prompt": "Close view of an old gold surface thickly set with diamonds, rubies and emeralds in a flower pattern, dust in the hollows, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "gold_rice_sheaf",
+  "look": "G",
+  "file": "EP18_078_N05q05_gold_rice_sheaf.jpg",
+  "prompt": "A sheaf of rice stalks made entirely of gold, each grain and blade worked in metal, lying on dark stone, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 79,
+  "clip": "N05",
+  "q": 5,
+  "k": 1,
+  "name": "gold_coconut_shells",
+  "look": "G",
+  "file": "EP18_079_N05q05_gold_coconut_shells.jpg",
+  "prompt": "Three bowls of gold shaped like halves of coconut shell, their rims set with rubies and emeralds, standing on a granite ledge, no people. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N05",
+  "q": 5,
+  "k": 2,
+  "name": "thumb_size_diamond",
+  "look": "G",
+  "file": "EP18_080_N05q05_thumb_size_diamond.jpg",
+  "prompt": "A large old-cut diamond the size of the top of a thumb held between a man's thumb and finger against the dark, hand only. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "inventory_long_table",
+  "look": "V",
+  "file": "EP18_081_N05q06_inventory_long_table.jpg",
+  "prompt": "A long table covered with white cloth under bright work lamps, gold objects laid out in rows, men seen from behind weighing and listing them. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "scale_gold_weighing",
+  "look": "G",
+  "file": "EP18_082_N05q06_scale_gold_weighing.jpg",
+  "prompt": "A brass balance scale with a heap of gold ornaments on one pan and iron weights on the other, a gloved hand steadying it, hand only. Antique gold in darkness on rough granite under an old South Indian temple, lit by a single torch beam: old unpolished gold with a soft worn glow, dust on everything, deep black shadows, not shiny new jewellery, no display cases. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N05",
+  "q": 6,
+  "k": 2,
+  "name": "newspapers_doorstep",
+  "look": "X",
+  "file": "EP18_083_N05q06_newspapers_doorstep.jpg",
+  "prompt": "A stack of morning newspapers on a doorstep, the headlines only thick blurred grey bars and the front-page picture a soft blur of a temple tower. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 84,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "tv_vans_tower",
+  "look": "T",
+  "file": "EP18_084_N05q07_tv_vans_tower.jpg",
+  "prompt": "Television vans with dish aerials and a row of reporters seen from behind in front of the temple tower in the evening, bright camera lights. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 85,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "offerings_at_doors",
+  "look": "D",
+  "file": "EP18_085_N05q08_offerings_at_doors.jpg",
+  "prompt": "Trays of flowers, fruit and lit lamps set on the granite step before three lamp-lit doorways, no people. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "law_book_lamp",
+  "look": "X",
+  "file": "EP18_086_N05q08_law_book_lamp.jpg",
+  "prompt": "A thick worn law book lying beside a small brass temple lamp with one flame on a wooden table, no title on the book. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "eyes_back_to_door",
+  "look": "V",
+  "file": "EP18_087_N05q09_eyes_back_to_door.jpg",
+  "prompt": "Seen over the shoulders of two observers from behind: the closed iron door a few steps further along the corridor, waiting in half darkness. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 88,
+  "clip": "N05",
+  "q": 9,
+  "k": 1,
+  "name": "open_and_shut",
+  "look": "V",
+  "file": "EP18_088_N05q09_open_and_shut.jpg",
+  "prompt": "The corridor with an open doorway on the left pouring out warm golden light and the closed iron door on the right dark and cold, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 89,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "locksmith_tools",
+  "look": "X",
+  "file": "EP18_089_N06q00_locksmith_tools.jpg",
+  "prompt": "A locksmith's cloth roll opened on a granite floor: files, picks, a small hammer, an oil can and a ring of blank keys, no people. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N06",
+  "q": 0,
+  "k": 1,
+  "name": "sealed_papers_counter",
+  "look": "C",
+  "file": "EP18_090_N06q00_sealed_papers_counter.jpg",
+  "prompt": "A hand placing a bundle of legal papers tied with tape on the worn wooden counter of a court registry, hand and black sleeve only. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 91,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "empty_cane_chair",
+  "look": "T",
+  "file": "EP18_091_N06q01_empty_cane_chair.jpg",
+  "prompt": "An empty cane chair on the veranda of an old tiled-roof house in the early morning, a folded white cloth and a walking stick laid across it, no people. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "lamp_at_doorstep",
+  "look": "T",
+  "file": "EP18_092_N06q01_lamp_at_doorstep.jpg",
+  "prompt": "A small brass lamp burning beside a marigold garland on the doorstep of an old house, the temple tower soft and out of focus behind, no people. The temple tower is the same as in the reference picture: a broad seven-tiered South Indian gateway tower of pale cream-grey stone that narrows toward the top, covered in rows of small carved niches, with a line of seven small golden finials along its top ridge, standing behind a large rectangular tank with granite steps, low tiled-roof buildings and coconut palms on both sides. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "temple"
+  ]
+ },
+ {
+  "n": 93,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "tea_shop_whispers",
+  "look": "T",
+  "file": "EP18_093_N06q02_tea_shop_whispers.jpg",
+  "prompt": "Men at a small roadside tea shop seen from behind, heads close together in talk, one of them pointing down the lane toward the temple. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "astrologers_circle",
+  "look": "D",
+  "file": "EP18_094_N06q03_astrologers_circle.jpg",
+  "prompt": "Seen from directly above: several elderly priests sitting on the floor in a circle around a tall brass lamp and a low wooden board, only the tops of their heads and their shoulders visible. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood, worshippers seen from behind: men bare-chested in white mundus with a white cloth over one shoulder, women in cream Kerala saris with a gold border and hair in a bun. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "cowries_on_board",
+  "look": "X",
+  "file": "EP18_095_N06q03_cowries_on_board.jpg",
+  "prompt": "A handful of white cowrie shells spread on a low wooden board marked with a simple grid of chalk squares, beside a brass lamp, flowers and a heap of rice. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N06",
+  "q": 3,
+  "k": 2,
+  "name": "palm_raised_stop",
+  "look": "D",
+  "file": "EP18_096_N06q03_palm_raised_stop.jpg",
+  "prompt": "An old priest's open palm raised in a firm gesture of refusal, dark against the glow of a tall brass lamp, hand and forearm only. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood, worshippers seen from behind: men bare-chested in white mundus with a white cloth over one shoulder, women in cream Kerala saris with a gold border and hair in a bun. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 97,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "cobra_door_legend",
+  "look": "L",
+  "file": "EP18_097_N06q04_cobra_door_legend.jpg",
+  "prompt": "A tall door carved with two great cobras rising face to face, hoods spread, glowing faintly in a dark vault, no people. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N06",
+  "q": 4,
+  "k": 1,
+  "name": "sage_chant_legend",
+  "look": "L",
+  "file": "EP18_098_N06q04_sage_chant_legend.jpg",
+  "prompt": "An old sage seen from behind seated cross-legged before a sealed door, and above him in the dark the huge shape of an eagle made of pale light with its wings spread. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "sea_behind_door_legend",
+  "look": "L",
+  "file": "EP18_099_N06q05_sea_behind_door_legend.jpg",
+  "prompt": "A closed door in a stone wall seen as if the wall were cut open: behind it, dark sea water pressing against the stone and waves rolling in the blackness, no people. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "old_travel_book",
+  "look": "X",
+  "file": "EP18_100_N06q06_old_travel_book.jpg",
+  "prompt": "A cloth-bound travel guide of the 1930s lying open on a table with round spectacles, a pressed leaf and a steel pen, the print only fine blurred lines. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "torches_enter_cellar",
+  "look": "O",
+  "file": "EP18_101_N06q06_torches_enter_cellar.jpg",
+  "prompt": "Travancore in Kerala, South India, about 1908: a small group of men in white mundus seen from behind carrying flaming torches of wrapped cloth down granite steps into a black cellar doorway under an old temple, sparks and smoke. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N06",
+  "q": 6,
+  "k": 2,
+  "name": "cobras_in_torchlight",
+  "look": "O",
+  "file": "EP18_102_N06q06_cobras_in_torchlight.jpg",
+  "prompt": "Under an old temple in Kerala, South India, about 1908: several cobras with raised hoods on the dusty floor of a stone cellar among old brass-bound chests, lit by flaring torchlight from the doorway, long shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "committee_before_door",
+  "look": "V",
+  "file": "EP18_103_N06q07_committee_before_door.jpg",
+  "prompt": "The observers of 2011 seen from behind standing with torches in front of the closed iron door. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, elderly, seen only from behind or as dark silhouettes, faces never visible. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 104,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "plain_iron_surface",
+  "look": "V",
+  "file": "EP18_104_N06q07_plain_iron_surface.jpg",
+  "prompt": "Close view of the plain surface of the iron door: flat riveted plates, rust and dust, no carving and no marks of any kind, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 105,
+  "clip": "N06",
+  "q": 7,
+  "k": 2,
+  "name": "bare_floor_no_snake",
+  "look": "V",
+  "file": "EP18_105_N06q07_bare_floor_no_snake.jpg",
+  "prompt": "The bare dusty granite floor at the foot of the iron door under a torch beam, nothing there but dust and a few fallen flakes of rust, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 106,
+  "clip": "N06",
+  "q": 7,
+  "k": 3,
+  "name": "rusted_bolt_macro",
+  "look": "V",
+  "file": "EP18_106_N06q07_rusted_bolt_macro.jpg",
+  "prompt": "Extreme close view of one thick iron bolt rusted solid into its bracket on the iron door, orange rust and grey dust, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 107,
+  "clip": "N06",
+  "q": 8,
+  "k": 0,
+  "name": "phone_blurred_door",
+  "look": "T",
+  "file": "EP18_107_N06q08_phone_blurred_door.jpg",
+  "prompt": "A hand holding a smartphone whose screen shows only a soft blurred picture of an ornate door and blurred thumbnails beneath it, hand only. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names, South Indian men of Kerala in white mundus (a white cloth wrapped at the waist and reaching the ankles), in white shirts or bare-chested with a white cloth over one shoulder, short hair, moustaches, no beards unless named, no turbans and no head cloths, women in saris; all people seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 108,
+  "clip": "N06",
+  "q": 9,
+  "k": 0,
+  "name": "door_frame_shadow",
+  "look": "V",
+  "file": "EP18_108_N06q09_door_frame_shadow.jpg",
+  "prompt": "The closed iron door seen at a slight angle so that the shadow line between door and granite frame runs down the middle of the picture, one lamp low on the floor, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 109,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "auditor_back_ledgers",
+  "look": "C",
+  "file": "EP18_109_N07q00_auditor_back_ledgers.jpg",
+  "prompt": "An elderly official in a dark suit seen from behind seated at a long table piled with old ledgers and files, a window with strong daylight in front of him. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 110,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "record_room_stacks",
+  "look": "C",
+  "file": "EP18_110_N07q00_record_room_stacks.jpg",
+  "prompt": "A small temple record room with shelves and stacks of old cloth-bound registers from floor to ceiling, two clerks seen from behind sorting them. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "register_page_turn",
+  "look": "X",
+  "file": "EP18_111_N07q01_register_page_turn.jpg",
+  "prompt": "A hand turning a brittle page of an old cloth-bound register, the entries only fine blurred lines in faded ink, hand only. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "seven_slips_register",
+  "look": "X",
+  "file": "EP18_112_N07q02_seven_slips_register.jpg",
+  "prompt": "An old register lying open with seven small paper slips marking seven separate lines, a pencil beside it, the writing only blurred lines. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "antechamber_lantern",
+  "look": "V",
+  "file": "EP18_113_N07q02_antechamber_lantern.jpg",
+  "prompt": "The iron grille and the wooden door of the vault both standing open, a lantern burning on the floor of the small bare room inside and the back of that room lost in shadow, no people. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "palace_tiled_roofs",
+  "look": "T",
+  "file": "EP18_114_N07q04_palace_tiled_roofs.jpg",
+  "prompt": "A long two-storey Kerala palace with white walls, carved wooden gables and steep clay-tiled roofs behind a closed iron gate and tall palms, no people. Thiruvananthapuram in Kerala, South India: old houses with steep clay-tiled roofs and pillared verandas, white lime-washed walls, coconut palms, jackfruit and mango trees, humid tropical light, the present day, ordinary street life, no signboards, no name boards and no lettering of any kind, no brand names. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "inside_looking_at_door",
+  "look": "V",
+  "file": "EP18_115_N07q04_inside_looking_at_door.jpg",
+  "prompt": "Seen from inside the small bare outer room: the closed iron door in the far wall, lantern light on the stone floor, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 116,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "door_dust_untouched",
+  "look": "V",
+  "file": "EP18_116_N07q05_door_dust_untouched.jpg",
+  "prompt": "The foot of the closed iron door under an unbroken layer of dust, a thick cobweb running from the lowest bolt to the floor, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ },
+ {
+  "n": 117,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "inventory_blank_row",
+  "look": "X",
+  "file": "EP18_117_N07q05_inventory_blank_row.jpg",
+  "prompt": "A long inventory sheet with rows of blurred entries and one row left completely empty, a pen lying across the empty row. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "supreme_court_monsoon",
+  "look": "C",
+  "file": "EP18_118_N07q06_supreme_court_monsoon.jpg",
+  "prompt": "The Supreme Court of India in New Delhi under dark monsoon clouds, its dome and colonnade wet with rain, the lawn empty, no people. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "verdict_closed",
+  "look": "C",
+  "file": "EP18_119_N07q06_verdict_closed.jpg",
+  "prompt": "A hand closing the cover of a very thick bound judgment on a polished desk, hand and black sleeve only. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "committee_table_empty",
+  "look": "C",
+  "file": "EP18_120_N07q07_committee_table_empty.jpg",
+  "prompt": "A plain meeting room in a temple office: a long table with files, water glasses and empty chairs, a ceiling fan, afternoon light, no people. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "key_alone_table",
+  "look": "X",
+  "file": "EP18_121_N07q07_key_alone_table.jpg",
+  "prompt": "One large old iron key lying alone in a shaft of light on a dark wooden table, no people. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 122,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "meeting_backs_2025",
+  "look": "C",
+  "file": "EP18_122_N07q08_meeting_backs_2025.jpg",
+  "prompt": "Members of a committee seen from behind seated along a meeting table, one chair at the table standing empty. India between 2011 and 2025: a sober court or government office setting, wooden furniture, files tied with cloth tape, ceiling fans, plain daylight, no readable writing, no emblems, no flags, no logos, no judge's hammer, any people seen from behind or as hands only. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "priest_hands_lamp",
+  "look": "D",
+  "file": "EP18_123_N07q08_priest_hands_lamp.jpg",
+  "prompt": "An old priest's hands lighting the wicks of a tall brass lamp with a small flame, wrists and forearms bare, hands only. Inside an old temple in Kerala, South India: dark granite walls and pillars, rows of small oil lamps in brass holders, tall brass standing lamps, incense smoke, a deep warm glow and heavy shadows; the image of the god is never shown clearly, at most an indistinct dark shape behind lamp flames; a quiet, reverent mood, worshippers seen from behind: men bare-chested in white mundus with a white cloth over one shoulder, women in cream Kerala saris with a gold border and hair in a bun. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "imagine_gold_bars",
+  "look": "L",
+  "file": "EP18_124_N07q09_imagine_gold_bars.jpg",
+  "prompt": "As people imagine it: stacks of plain gold bars in a dark stone chamber, a single shaft of light across them, no people. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "imagine_empty_room",
+  "look": "L",
+  "file": "EP18_125_N07q09_imagine_empty_room.jpg",
+  "prompt": "As it may equally be: a completely empty stone chamber, bare floor and bare walls, a single shaft of light falling on nothing, no people. A legend as people tell it, painted like a dream and clearly imagined: a dark stone vault in deep blue-green night tones with a cold unearthly glow, drifting mist, soft edges. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "scales_ledger_lamp",
+  "look": "X",
+  "file": "EP18_126_N07q10_scales_ledger_lamp.jpg",
+  "prompt": "A brass balance scale holding a closed account ledger on one pan and a small lit brass lamp with flowers on the other, the two pans level. A still life on old dark wood or stone in South India, a single shaft of warm light, deep shadows, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N07",
+  "q": 10,
+  "k": 1,
+  "name": "door_last_frame",
+  "look": "V",
+  "file": "EP18_127_N07q10_door_last_frame.jpg",
+  "prompt": "The closed iron door at the end of the corridor, one hurricane lamp burning low on the floor before it, everything still, no people. The door is the same as in the reference picture: one tall leaf of dark iron plates held by rows of round rivets, set in a frame of rough granite blocks, three thick sliding bolts down its right side, rust and dust, completely plain with no carving, no figures, no symbols and no writing. Under an old South Indian temple in Kerala in 2011: a low corridor and small chambers built of large rough-dressed granite blocks, walls black with age, no windows, light only from hand torches and a hurricane lamp, dust hanging in the beams, deep shadows, nothing carved and nothing written on the walls. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "irondoor"
+  ]
+ }
+]

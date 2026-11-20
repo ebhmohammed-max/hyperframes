@@ -12,7 +12,7 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
 - **All 128 pictures** generated, looked at and uploaded (batches B01–B14; 048 remade in B06; 061, 072, 074 remade in B14).
 - Clips regenerated with the real pictures (no MISSING); stills of the title, hook, every chapter card, maps, mock-ups, number cards and the end card looked at: all fine.
-- **Render (15 Nov 2026 session):** nine clips with `tools/render.sh` (TITLE 87 s, N01 337 s, END 99 s, N02 457 s, N03 474 s, N04 510 s, N05 576 s, N06 471 s, N07 525 s on 2 CPUs); frame sheets of every clip looked at.
+- **Render (20 Nov 2026 session):** nine clips with `tools/render.sh` (TITLE 87 s, N01 337 s, END 99 s, N02 457 s, N03 474 s, N04 510 s, N05 576 s, N06 471 s, N07 525 s on 2 CPUs); frame sheets of every clip looked at.
 - **Final files:** `tools/finish.sh parts` (gain +2.51 dB to -14 LUFS) → seven 1080p parts, 42.8 to 77.3 MB each; `VB=1350k tools/finish.sh 720` → `EP17_1926_full_720p.mp4`, 533.13 s (8 min 53 s), 96.98 MB, 1280×720, 30 fps, -14.3 LUFS, peak -1.3 dB. All eight uploaded to the EP17 Drive folder.
 
 ## Next

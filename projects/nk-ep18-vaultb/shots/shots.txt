@@ -1,0 +1,129 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# No photograph of the vaults or of the treasure has been published, so every picture is an illustration. The image of the god is never shown clearly. Real people (the petitioner, the observers, the auditor, judges, the royal family) only from behind, as hands or not at all. No readable writing. Legends are painted as legends (look L). Lines that carry a full-screen graphic (map, vault plan, report page) have no rows.
+N01|0|slab_five_men|V|five men seen from above and behind straining with wooden poles and ropes to shift a huge rectangular granite slab lying in the floor of a small bare stone room, dust rising in the torch beams
+N01|0|gopuram_night_guard|T@temple|the temple tower at night under a dark sky, a few policemen in khaki standing as small silhouettes at metal barricades before the gateway, yellow street light, the tank black and still
+N01|0|slab_gap_dark|V|close view of the granite slab pushed aside, a narrow black opening in the floor with the first worn stone step showing, a torch beam falling into it, only two hands gripping the edge of the slab
+N01|1|steps_down_dark|V|looking down a very narrow, steep flight of worn granite steps that drops into total darkness between rough stone walls, a single torch beam reaching only the first few steps, no people
+N01|1|torch_beam_dust|V|a single torch beam cutting through thick dusty darkness in a low stone chamber, the far end still black, one man as a dark silhouette seen from behind at the edge of the frame
+N01|1|vault_stars_gold|G|a low stone chamber seen from the foot of narrow steps, the darkness filled with hundreds of tiny golden glints like stars in a moonless night sky, heaps of gold objects only half made out, no people
+N01|2|coins_spill_sack|G|old gold coins spilling out of a rotted cloth sack across a granite floor, the nearest coins sharp and the rest fading into darkness, no people
+N01|2|gems_brass_dish|G|loose cut diamonds and dark red rubies lying in a shallow old brass dish, catching one hard point of torch light, no people
+N01|2|long_chain_floor|G|a very long, heavy gold chain laid in slow loops across a granite floor and running away into the dark, far longer than a man is tall, no people
+N01|3|two_grilles_corridor|V|a low granite corridor with two iron-grille doorways side by side in one wall, the left one standing open with warm light inside, the right one closed and completely dark, no people
+N01|3|iron_door_torch|V@irondoor|the closed iron door filling the frame, lit from the side by one torch beam, its three bolts shut, dust hanging in the light, no people
+N01|4|door_cobweb_years|V@irondoor|close view of the three heavy bolts of the closed iron door under thick grey dust and old cobwebs, untouched for years, no people
+N01|5|door_edge_black|V@irondoor|extreme close view of the thin black gap where the edge of the iron door meets its granite frame, nothing visible beyond, fine dust drifting in a faint draught, no people
+N01|5|lone_figure_door|V@irondoor|a lone man seen from behind, small in the frame, standing in the corridor before the closed iron door and holding up a hurricane lamp
+N01|6|snake_guard_legend|L|a great king cobra with its hood spread wide, raised in front of a closed door in a dark stone vault, its scales catching a cold glow
+N01|6|mantra_lock_legend|L|a closed stone door in a dark vault with a faint ring of pale golden light sealed around its edge like a spell, motes of light drifting, no people
+N01|6|town_flood_legend|L|a South Indian temple town of tiled roofs and coconut palms at night with an enormous dark sea wave rising behind it, the temple tower small against the water, no people
+N01|7|audit_report_desk|C|a thick bound report lying closed on a plain wooden office desk under a desk lamp, an elderly man's hand resting flat on its cover, hand and forearm only
+N01|7|old_register_open|X|an old cloth-bound temple register lying open, its pages filled with close handwriting that is only fine blurred lines, a few entries marked with small slips of paper
+N01|9|gopuram_low_angle|T@temple|the temple tower seen from low down close to its base at dusk, rising against a heavy monsoon sky, a few birds, the last light on its upper tiers, no people
+N01|9|door_end_corridor|V@irondoor|the closed iron door seen from far down the long low corridor, one hurricane lamp burning on the floor before it, the walls closing in toward it, no people
+N02|1|sanctum_three_doors|D|three doorways in a row in a dark granite wall, golden lamp light glowing inside each, worshippers seen from behind standing before them with joined palms
+N02|1|serpent_hoods_glimpse|D|a glimpse through one doorway of great serpent hoods carved in dark stone, rising above rows of small lamp flames and mostly lost in shadow and incense smoke, no people
+N02|1|devotees_three_views|D|a line of worshippers seen from behind on a raised granite platform, each leaning to look through a different one of three lamp-lit doorways
+N02|2|palm_leaf_hymns|X|a bundle of old palm-leaf manuscript strips tied with cord, an iron stylus, a string of dried basil-wood beads and a small brass lamp, the scratched lines far too fine to read
+N02|3|king_sword_kneel|K|a king of Travancore in 1750, seen from behind, kneeling bare-chested in a white cloth on a great single slab of granite before lamp-lit sanctum doors and laying his sword down on the step in front of him
+N02|3|sword_on_step|K|close view of a straight steel sword with a gold hilt lying on a granite step among flower petals, the reflections of many small lamp flames along the blade, no people
+N02|3|travancore_wide_view|K|wide morning view over Travancore in the 18th century: backwaters, endless coconut palms, tiled roofs of a small town and a temple tower far away under tall clouds, no people
+N02|4|king_walks_as_servant|K|the king seen from behind walking barefoot and bare-chested in a plain white cloth behind a small temple procession of lamp bearers along a granite colonnade
+N02|4|gopuram_tank_dawn|T@temple|the temple tower and its mirror image in the still tank at dawn, pink and gold sky, mist on the water, no people and no vehicles
+N02|5|offerings_gold_tray|K|hands laying gold ornaments and gold coins on a wide brass tray at a lamp-lit temple doorway, wrists and forearms bare, hands only
+N02|5|chest_carried_down|K|two temple servants seen from behind carrying a heavy brass-bound wooden chest on a pole down a flight of granite steps into a cellar, one small lamp lighting the way
+N02|6|pepper_sacks_port|S|heaps of black peppercorns and open sacks on the sand of a Malabar river port, a trader's hands pouring pepper into a brass measure, small boats and palms behind
+N02|6|roman_ship_coast|S|a Roman merchant sailing ship with one square sail and two Arab dhows with slanting sails anchored off a long palm-fringed coast, small boats ferrying sacks out to them
+N02|9|petitioner_gate_back|T@temple,petitioner|the old man seen from behind standing alone on the road before the temple tower in early morning light, looking up at it
+N03|0|petitioner_walk_lane|T@petitioner|the old man seen from behind walking slowly along a narrow lane of old tiled-roof houses in the morning, a few neighbours far off
+N03|0|cap_and_gown|X|a police officer's old khaki peaked cap resting on a wooden chair and a lawyer's black gown with white neck bands hanging over the chair back, no badge and no lettering
+N03|1|house_near_tower|T@temple|an old single-storey house with a clay-tiled roof and a pillared veranda in a quiet lane, the temple tower rising very close behind it, no people
+N03|1|petitioner_prayer_back|D@petitioner|the old man seen from behind standing with joined palms before a lamp-lit temple doorway among other worshippers
+N03|2|scales_coins_ledger|X|a small brass balance scale with a few old gold coins on one pan, standing beside a closed account ledger and a steel pen
+N03|3|high_court_steps|C|a large court building in Kerala with broad front steps and tall palms, lawyers in black gowns seen from behind going up the steps, bright January light
+N03|3|judgment_bundle_tape|C|a thick bundle of judgment papers tied with red cloth tape lying on a judge's wooden desk beside a fountain pen, the shadow of a ceiling fan across it, no people
+N03|4|supreme_court_dome|C|the Supreme Court of India in New Delhi: a long red and cream sandstone building with a colonnade and a central dome, a wide lawn in front, people tiny
+N03|4|court_steps_file|C|a lawyer in a black gown seen from behind climbing wide stone steps toward tall doors, carrying thick files tied with tape under one arm
+N03|5|observers_seven_back|T@temple|seven elderly men seen from behind walking together toward the temple gateway, most in white shirts and white mundus, two carrying document cases
+N03|5|gem_tools_cloth|X|a jeweller's folding magnifier, fine tweezers, a small balance with weights and a blank notebook laid out on a white cloth
+N03|6|police_cordon_temple|T@temple|policemen in khaki at metal barricades across the road before the temple gateway, a crowd and press photographers held back, all seen from behind
+N03|7|puja_vessels_shelf|G|brass and silver ritual vessels, lamps, plates and bells standing in rows on stone shelves in a small chamber, lit by one electric work lamp, no people
+N03|7|ornaments_listed|G|temple ornaments laid out in neat rows on a red cloth, a hand with a pen ticking a list on a clipboard beside them, the writing only blurred lines, hand only
+N03|8|corridor_approach|V|the group of observers seen from behind walking with torches down the low granite corridor toward two iron-grille doors at its end
+N03|8|grille_b_locked|V|a heavy iron-grille door hung with several large old padlocks, a torch beam showing only darkness behind its bars, no people
+N04|0|keys_at_padlock|V|a hand holding a bunch of large old iron keys and fitting one into a heavy old padlock on an iron-grille door, wrist and forearm bare, hand only
+N04|0|grille_swings_open|V|the iron-grille door swung open on its hinges, a torch beam now falling on a massive dark wooden door standing just behind it, no people
+N04|1|wooden_door_studs|V|a massive dark wooden door banded and studded with iron in a granite frame, pushed half open, pure darkness in the gap beyond, no people
+N04|2|iron_door_first_sight|V@irondoor|the closed iron door caught for the first time in several torch beams, three men as dark silhouettes seen from behind in front of it
+N04|2|jammed_bolt_hand|V@irondoor|close view of a hand straining to pull back one rusted bolt on the iron door, the bolt not moving, flakes of rust on the fingers, hand only
+N04|3|observers_confer|V|the observers standing in a close group in the corridor around one hurricane lamp, seen from behind, heads bent toward each other
+N04|4|second_doorway_open|V|another doorway further along the same corridor, its iron grille and its wooden door both standing open, a small stone room visible inside, no people
+N04|4|empty_room_slab|V|a small bare granite room, completely empty except for one huge rectangular granite slab lying flat in the floor like a fallen gravestone, a torch beam resting on it, no people
+N04|5|men_lever_slab|V|five men seen from behind bending their weight on iron crowbars and wooden poles to shift the great floor slab, sweat on their backs, dust in the lamp light
+N04|5|slab_edge_lifts|V|close view of the edge of the granite slab lifting a hand's width on an iron bar, a black gap opening under it, dust pouring over the edge, hands only
+N04|6|narrow_opening_step|V|a rectangular opening in the stone floor barely wide enough for one man, worn steps going down into blackness, a torch lying beside it, no people
+N04|6|lamp_flame_shrinks|V|a hand lowering a hurricane lamp into the opening in the floor, its flame shrinking and turning blue in the stale air, hand only
+N04|7|firemen_air_hose|V|two firemen in dark uniforms and helmets seen from behind feeding a thick air hose down the opening in the floor, a portable blower and a cylinder beside them
+N04|8|dust_on_steps|V|worn granite steps under a thick, even layer of grey dust with no footprints at all, lit low from the side by a torch, no people
+N04|8|blank_ledger_page|X|an old ledger lying open at a page ruled with columns and left completely empty, a pen resting across it, no people
+N04|9|torch_turns_in|V|a hand turning a torch into a dark doorway, the edge of the beam just beginning to catch points of gold deep inside, hand only
+N05|0|star_field_gold|G|the whole low chamber in darkness, gold glinting everywhere from floor to ceiling like a field of stars, shapes of pots, chests and heaps just visible, no people
+N05|0|silhouette_awe|V|one man as a silhouette seen from behind at the foot of the narrow steps, his torch lowered, facing a darkness full of golden glints
+N05|1|carriers_up_steps|V|a chain of men seen from behind passing brass pots and loaded baskets from hand to hand up the narrow stone steps, lamps hung on the wall
+N05|2|coin_sacks_heap|G|rows of old cloth sacks and clay pots brimming with gold coins against a granite wall, some sacks split and spilling, no people
+N05|2|coins_many_lands|G|close view of antique gold coins of many sizes and makes lying mixed together, small thin ones and broad heavy ones, the heads and marks on them worn almost smooth, no people
+N05|2|coins_sorted_cloth|G|gold coins sorted into small groups on a white cloth under a bright lamp, a hand holding a magnifying glass over one of them, hand only
+N05|3|chain_measured|G|a heavy gold chain stretched out dead straight along the corridor floor beside a long measuring tape, running the whole length of the frame, no people
+N05|3|chain_links_close|G|close view of thick old gold chain links set with small rubies and emeralds, lying across a man's open palms, hands only
+N05|4|small_idol_veiled|G|a small golden figure about three and a half feet tall standing on a stone ledge, almost wholly wrapped in old cloth so that only a jewelled crown and a soft golden outline show, no people
+N05|4|gems_in_gold|G|close view of an old gold surface thickly set with diamonds, rubies and emeralds in a flower pattern, dust in the hollows, no people
+N05|5|gold_rice_sheaf|G|a sheaf of rice stalks made entirely of gold, each grain and blade worked in metal, lying on dark stone, no people
+N05|5|gold_coconut_shells|G|three bowls of gold shaped like halves of coconut shell, their rims set with rubies and emeralds, standing on a granite ledge, no people
+N05|5|thumb_size_diamond|G|a large old-cut diamond the size of the top of a thumb held between a man's thumb and finger against the dark, hand only
+N05|6|inventory_long_table|V|a long table covered with white cloth under bright work lamps, gold objects laid out in rows, men seen from behind weighing and listing them
+N05|6|scale_gold_weighing|G|a brass balance scale with a heap of gold ornaments on one pan and iron weights on the other, a gloved hand steadying it, hand only
+N05|6|newspapers_doorstep|X|a stack of morning newspapers on a doorstep, the headlines only thick blurred grey bars and the front-page picture a soft blur of a temple tower
+N05|7|tv_vans_tower|T@temple|television vans with dish aerials and a row of reporters seen from behind in front of the temple tower in the evening, bright camera lights
+N05|8|offerings_at_doors|D|trays of flowers, fruit and lit lamps set on the granite step before three lamp-lit doorways, no people
+N05|8|law_book_lamp|X|a thick worn law book lying beside a small brass temple lamp with one flame on a wooden table, no title on the book
+N05|9|eyes_back_to_door|V@irondoor|seen over the shoulders of two observers from behind: the closed iron door a few steps further along the corridor, waiting in half darkness
+N05|9|open_and_shut|V@irondoor|the corridor with an open doorway on the left pouring out warm golden light and the closed iron door on the right dark and cold, no people
+N06|0|locksmith_tools|X|a locksmith's cloth roll opened on a granite floor: files, picks, a small hammer, an oil can and a ring of blank keys, no people
+N06|0|sealed_papers_counter|C|a hand placing a bundle of legal papers tied with tape on the worn wooden counter of a court registry, hand and black sleeve only
+N06|1|empty_cane_chair|T|an empty cane chair on the veranda of an old tiled-roof house in the early morning, a folded white cloth and a walking stick laid across it, no people
+N06|1|lamp_at_doorstep|T@temple|a small brass lamp burning beside a marigold garland on the doorstep of an old house, the temple tower soft and out of focus behind, no people
+N06|2|tea_shop_whispers|T|men at a small roadside tea shop seen from behind, heads close together in talk, one of them pointing down the lane toward the temple
+N06|3|astrologers_circle|D|seen from directly above: several elderly priests sitting on the floor in a circle around a tall brass lamp and a low wooden board, only the tops of their heads and their shoulders visible
+N06|3|cowries_on_board|X|a handful of white cowrie shells spread on a low wooden board marked with a simple grid of chalk squares, beside a brass lamp, flowers and a heap of rice
+N06|3|palm_raised_stop|D|an old priest's open palm raised in a firm gesture of refusal, dark against the glow of a tall brass lamp, hand and forearm only
+N06|4|cobra_door_legend|L|a tall door carved with two great cobras rising face to face, hoods spread, glowing faintly in a dark vault, no people
+N06|4|sage_chant_legend|L|an old sage seen from behind seated cross-legged before a sealed door, and above him in the dark the huge shape of an eagle made of pale light with its wings spread
+N06|5|sea_behind_door_legend|L|a closed door in a stone wall seen as if the wall were cut open: behind it, dark sea water pressing against the stone and waves rolling in the blackness, no people
+N06|6|old_travel_book|X|a cloth-bound travel guide of the 1930s lying open on a table with round spectacles, a pressed leaf and a steel pen, the print only fine blurred lines
+N06|6|torches_enter_cellar|O|Travancore in Kerala, South India, about 1908: a small group of men in white mundus seen from behind carrying flaming torches of wrapped cloth down granite steps into a black cellar doorway under an old temple, sparks and smoke
+N06|6|cobras_in_torchlight|O|Under an old temple in Kerala, South India, about 1908: several cobras with raised hoods on the dusty floor of a stone cellar among old brass-bound chests, lit by flaring torchlight from the doorway, long shadows, no people
+N06|7|committee_before_door|V@irondoor|the observers of 2011 seen from behind standing with torches in front of the closed iron door
+N06|7|plain_iron_surface|V@irondoor|close view of the plain surface of the iron door: flat riveted plates, rust and dust, no carving and no marks of any kind, no people
+N06|7|bare_floor_no_snake|V@irondoor|the bare dusty granite floor at the foot of the iron door under a torch beam, nothing there but dust and a few fallen flakes of rust, no people
+N06|7|rusted_bolt_macro|V@irondoor|extreme close view of one thick iron bolt rusted solid into its bracket on the iron door, orange rust and grey dust, no people
+N06|8|phone_blurred_door|T|a hand holding a smartphone whose screen shows only a soft blurred picture of an ornate door and blurred thumbnails beneath it, hand only
+N06|9|door_frame_shadow|V@irondoor|the closed iron door seen at a slight angle so that the shadow line between door and granite frame runs down the middle of the picture, one lamp low on the floor, no people
+N07|0|auditor_back_ledgers|C|an elderly official in a dark suit seen from behind seated at a long table piled with old ledgers and files, a window with strong daylight in front of him
+N07|0|record_room_stacks|C|a small temple record room with shelves and stacks of old cloth-bound registers from floor to ceiling, two clerks seen from behind sorting them
+N07|1|register_page_turn|X|a hand turning a brittle page of an old cloth-bound register, the entries only fine blurred lines in faded ink, hand only
+N07|2|seven_slips_register|X|an old register lying open with seven small paper slips marking seven separate lines, a pencil beside it, the writing only blurred lines
+N07|2|antechamber_lantern|V|the iron grille and the wooden door of the vault both standing open, a lantern burning on the floor of the small bare room inside and the back of that room lost in shadow, no people
+N07|4|palace_tiled_roofs|T|a long two-storey Kerala palace with white walls, carved wooden gables and steep clay-tiled roofs behind a closed iron gate and tall palms, no people
+N07|4|inside_looking_at_door|V@irondoor|seen from inside the small bare outer room: the closed iron door in the far wall, lantern light on the stone floor, no people
+N07|5|door_dust_untouched|V@irondoor|the foot of the closed iron door under an unbroken layer of dust, a thick cobweb running from the lowest bolt to the floor, no people
+N07|5|inventory_blank_row|X|a long inventory sheet with rows of blurred entries and one row left completely empty, a pen lying across the empty row
+N07|6|supreme_court_monsoon|C|the Supreme Court of India in New Delhi under dark monsoon clouds, its dome and colonnade wet with rain, the lawn empty, no people
+N07|6|verdict_closed|C|a hand closing the cover of a very thick bound judgment on a polished desk, hand and black sleeve only
+N07|7|committee_table_empty|C|a plain meeting room in a temple office: a long table with files, water glasses and empty chairs, a ceiling fan, afternoon light, no people
+N07|7|key_alone_table|X|one large old iron key lying alone in a shaft of light on a dark wooden table, no people
+N07|8|meeting_backs_2025|C|members of a committee seen from behind seated along a meeting table, one chair at the table standing empty
+N07|8|priest_hands_lamp|D|an old priest's hands lighting the wicks of a tall brass lamp with a small flame, wrists and forearms bare, hands only
+N07|9|imagine_gold_bars|L|as people imagine it: stacks of plain gold bars in a dark stone chamber, a single shaft of light across them, no people
+N07|9|imagine_empty_room|L|as it may equally be: a completely empty stone chamber, bare floor and bare walls, a single shaft of light falling on nothing, no people
+N07|10|scales_ledger_lamp|X|a brass balance scale holding a closed account ledger on one pan and a small lit brass lamp with flowers on the other, the two pans level
+N07|10|door_last_frame|V@irondoor|the closed iron door at the end of the corridor, one hurricane lamp burning low on the floor before it, everything still, no people
