@@ -60,3 +60,43 @@ part of this set.
 
 Rule going forward: a regenerated master is uploaded in the same turn it is made,
 and the copy it replaces is trashed then — not left for a later reconciliation.
+
+## Round-2 replacement — 2026-11-20
+
+Twenty-nine masters were replaced after the full-size audit (see
+`docs/ART_WORLD_AUDIT.md`). Each new file was uploaded and the copy it replaced
+trashed in the same pass, so every folder again holds exactly one master per
+scene. 070 is the exception: its image is still the pre-repair denarius and
+must be re-uploaded when regenerated.
+
+| Scene | New Drive ID                        | Folder |
+| ----- | ----------------------------------- | ------ |
+| 005   | `1GKDximm_OdfA43fgsoIyWeLp6iToY0ax` | 01     |
+| 007   | `1DV9jl8hCkoUnGWw08hjXO7MYm2Eg-h8t` | 01     |
+| 009   | `1FEyV0ijF1EL898zIA50UtoThuD-0mOCA` | 01     |
+| 010   | `12XNUlmMa9UeBAuN6WpU4HapTs1HB72lF` | 01     |
+| 012   | `1kfZH4tFDRQzaSnp63KxoR86wyJsfOtLB` | 02     |
+| 015   | `1ezxb-XRzPS7EGVM8_IU1wrbSvMwoL_19` | 02     |
+| 016   | `1l2kefnDlWaM50l_pl9k_kT_hh86120F9` | 02     |
+| 018   | `1BJtnVAVImZqKc74L6Hn7R5uih9i1FvNV` | 02     |
+| 019   | `1fGGRkkktFmVFsE5NuyMq1z4Kys_iCbVs` | 02     |
+| 023   | `1E5p-c0kXgz7na4G3lBbMbZU9_TI_FWh7` | 03     |
+| 024   | `1bn6sFLzen2pCaw6jebD65GF5Aj7r6AR1` | 03     |
+| 028   | `1q-6ZlYvvCse6moEb-33nXxqz-b_h17jq` | 03     |
+| 029   | `1AwM64BDjtcI0ajIOfP88LY-RvRr_fv81` | 03     |
+| 033   | `1ItWVbAnB-diISdc7FmNIx7IxuGkxrXRH` | 04     |
+| 034   | `1vzzlOVbCXU8M09HL3uvNcAg7le0YXSk_` | 04     |
+| 035   | `13NLNgB5DMUshmoZAItuTNoXybVU73Uba` | 04     |
+| 042   | `1qMl5zGxhwg5ewDH5Y_jrDviFS3t1Zw1L` | 05     |
+| 043   | `1pXRz9y5IT0RHDKOB95PdZNGNUbLzsXwk` | 05     |
+| 044   | `1r9hQoZKtRZ-X1QU97snXlOdzYCJYKx-c` | 05     |
+| 045   | `18UjFxdFCgGmnZHOp-eecRx-dgNIDoQDC` | 05     |
+| 049   | `1L6uiVswNV1m6igpdckMUpuTwMPWdoonv` | 05     |
+| 050   | `1_SlRnCZo7kLix5RCtI-rv9Yj0axn9okd` | 05     |
+| 052   | `120AepTPjv4f8u_b7fCV78UIn1yM9T1Hk` | 06     |
+| 055   | `1Ctqi6xNBadvUqKQ4Jt2OtNcKzBbH9rva` | 06     |
+| 056   | `1yoxtDJ7CMoC3DvcK3EvHVUB6kIDPswrk` | 06     |
+| 058   | `1WB04Y1_dQVD0A3rQqt-rUapYIa4dm9lY` | 06     |
+| 065   | `1P8QRxCLtruLqq_pHutXG6ubxbqcPnwig` | 07     |
+| 069   | `16VpdE3uR3RqL-I2SwoJhtc8SUIM9Xliy` | 07     |
+| 070   | **pending regeneration**            | 07     |
