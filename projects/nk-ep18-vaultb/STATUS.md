@@ -12,7 +12,7 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026 (topic bank
 - All nine clips generate (`film/gen.mjs`, `title.mjs`, `end.mjs`); film length 546.5 s (9 min 7 s).
 
 ## Next
-1. Pictures (47 of 127 made; next is 048): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
+1. Pictures (57 of 127 made; next is 058): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
 2. When all 127 are in: `node film/gen.mjs N01` … `N07`, `node film/title.mjs`, `node film/end.mjs`; look at stills; `bash tools/render.sh` (background process, about 75 minutes on 2 CPUs).
 3. `bash tools/finish.sh parts`, then `VB=1300k bash tools/finish.sh 720` (the film is 13 s longer than EP17, so a little lower than EP17's 1350k); frame sheets; upload the eight files; final status.
 
@@ -56,6 +56,7 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → folder `EP18_Pad
 | B03 | 018–027 | `EP18_B03_images_018-027.zip` `1jB_d0JnDJOWEdVQmlW0YZZjAWmVo9h_j` | All usable. **022 to be made again**: a dark standing figure shows in each doorway, but the image in this temple is one reclining figure seen in three parts; the doorways should hold lamp glow only |
 | B04 | 028–037 | `EP18_B04_images_028-037.zip` `1FeWeIZbpf26jfX1Ijfd0gOp_MfJKkXqz` | All usable; the petitioner matches his reference in 035 and 036 |
 | B05 | 038–047 | `EP18_B05_images_038-047.zip` `119tQ2PrpDLcNsTurS-jtYwARiJ1IqMDn` | All usable. 044 has a small wall plate (not readable). 045 shows seven men, in step with the unverified "seven-member team" of the narration |
+| B06 | 048–057 | `EP18_B06_images_048-057.zip` `1Lqh__2CDb48jjcqV_2gwW_hodo5bM71Q` | All usable. 048 and 049 were written by hand (a lit store room, not the dark-vault look). 052 shows a bunch of keys, in step with the unverified "many keys" of the narration |
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep18-vaultb/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
