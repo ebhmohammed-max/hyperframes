@@ -6,6 +6,39 @@ hide it. These are the ones found so far.
 
 ## OPEN
 
+### 059 — a Victorian counter scale
+
+**Wrong:** a cast-iron and brass shop counter scale with a curved base and
+stacked cast weights. That is a nineteenth-century instrument, not a beam
+balance. It reads as a modern object the moment it is noticed.
+
+**Why it happened:** the direction said "a bronze merchant's balance scale" and
+the strongest reference for a balance on a shop counter is a Victorian one.
+
+**Fix:** a hand-held or simple beam balance — a bronze arm on a cord, a pan at
+each end, weighed against stones or marked bronze pieces. No cast base, no
+counter-body, no stacked metric weights.
+
+**Blast radius:** plates 0871-0885.
+
+### 062 — Nordic glaciers in the Fourteen Flames
+
+**Wrong:** snowfields, glaciers and black peaks shot like Iceland. Valyria is a
+subtropical volcanic peninsula. There is no ice anywhere in this world.
+
+**Why it happened:** "black volcanic rock" plus "cold clear light" is a
+photographer's brief for Iceland.
+
+**Fix:** black basalt and ash, ember glow, hot dry air, no snow, no glacier, no
+overcast cold. The indifference should come from the heat, not the cold.
+
+**Blast radius:** plates 0916-0930.
+
+### 051 — FIXED
+
+Regenerated as a Ghiscari side-street temple with a bronze harpy and a bronze
+balance. Verified: no vehicles, no modern clothing.
+
 ### 051 — a real modern street in a fictional ancient one
 
 **Wrong:** cycle rickshaws, a modern wristwatch on the near hand, a Western
