@@ -67,6 +67,11 @@ MIN_FREE_MB=1200    # streaming needs almost nothing; this only guards the outpu
 probe() { ffprobe -v error -show_entries format=duration -of csv=p=0 "$1" 2>/dev/null | head -1; }
 
 sweep() {  # only ever remove render scratch and finished temp output
+  # NEVER call this while a chunk is capturing. The renderer writes live frames
+  # into /tmp/hf-render-span-*, and deleting that directory mid-chunk leaves the
+  # capture loop waiting on frames that no longer exist: heartbeats stop, nothing
+  # errors, and the job hangs forever. It happened once, by hand, from outside
+  # this script. Only sweep between chunks, or with no render running at all.
   rm -rf /tmp/hf-render-span-* /tmp/.org.chromium.* 2>/dev/null
   rm -rf "$PROJ/.hyperframes/artifacts" 2>/dev/null
 }
