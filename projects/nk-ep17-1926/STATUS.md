@@ -10,10 +10,10 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Map data `film/geo.json` (Natural Earth, cut to South India and Sri Lanka).
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
-- Pictures 001–078 generated, looked at and uploaded (batches B01–B08; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
+- Pictures 001–088 generated, looked at and uploaded (batches B01–B09; 048 remade in B06). 072, 074 and perhaps 061 are to be remade at the end.
 
 ## Next
-1. Pictures 079–128 (`$PY tools/batch.py <batch> <first> <last> [big …]` zips a batch and builds the review sheet), then the remakes listed under "Picture batches" (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
+1. Pictures 089–128 (`$PY tools/batch.py <batch> <first> <last> [big …]` zips a batch and builds the review sheet), then the remakes listed under "Picture batches" (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
 2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
 3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
 4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
@@ -69,6 +69,7 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | B06 | 048 (remake), 050–058 | `1CHTCvm9TKpGgk0BIfrNChEs9naP6TvAf` | all fine. The 048 here replaces the one in the B05 zip (when restoring, unzip the batches in order so this one wins). Batches from here on run 059–068, 069–078 … 119–128 |
 | B07 | 059–068 | `1giWdS48vSoEAOagB9jJtkaOqj--YJ0tg` | all usable. 061 (bus): the body looks later than 1926 (more like the 1940s) and it carries a small number plate "T401"; kept, remake only if there is a spare slot or the user asks. 067 (girl, ref) matches; three adults stand in the background. 065 (N04 card plate) fine |
 | B08 | 069–078 | `1x4I-u_LPlw9AGg4Hv87Hkbeh7Uo_zqq6` | eight fine (076, the N05 card plate, is good). **072 and 074 to redo: the turbans came out in the Punjabi style** (coloured turbans in the council, a bearded man in a dark turban at the signboard; the woman in 072 has her head covered). See "Remakes" below |
+| B09 | 079–088 | `1rSzofRyz8GWc2SkMnJm26UsImORjkCGx` | all usable. 080: the wireless box stands beside the cloth (the cloth covers the horn). 083: the steamer is a small launch with a blue ensign. 085: the wing shape is a little odd. 088 (father, ref) matches |
 
 ### Remakes (do them in the turn after picture 128, then go straight on to the render)
 
