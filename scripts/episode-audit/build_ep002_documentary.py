@@ -88,6 +88,37 @@ CHAPTER_AT_BLOCK = {c[4]: c for c in CHAPTERS}
 # Every pick is the chapter's own subject, not a texture: the coin for the opening
 # chapter, the sea-wall for the war that was fought at the waterline, the ash
 # plain for the last one.
+# ------------------------------------------------------------------- maps
+# One map, one continuous camera move, labels in HTML and never baked into a
+# generated image. It appears only while the narrator is talking about place.
+#
+# The direction is set up by a clause the voice already says: a war "with a
+# country of shepherds across the water". That phrase is the film's whole
+# thesis, so it is the cue.
+#
+# All times are seconds inside the block and are placed by measured sentence
+# boundaries, not guessed.
+MAPS = {
+    # block index -> spec
+    2: dict(
+        base="base_essos_strait.jpg",
+        img="0001.jpg",                 # fallback plate while the map fades in
+        at=10.28,                       # start of "What survives is the shape of it"
+        hold=11.3,
+        # the animated water margin that shows the sea between the two powers
+        margin=dict(x=1395, y=330, w=39, h=470),   # % of frame, left/top
+        labels=[
+            # (text, x%, y%, t_in, t_out, kind)
+            # both names sit on open ground, not on the drawn mountains, because
+            # a name over high-detail terrain is unreadable however it is styled
+            ("GHIS",      63.0, 41.0,  0.9, 10.4, "power"),
+            ("VALYRIA",   23.0, 84.0,  1.9, 10.4, "power"),
+            ("the water", 41.5, 50.0,  3.6,  9.6, "note"),
+        ],
+        pan=dict(x0=1.5, y0=1.0, x1=-1.5, y1=-1.0, scale0=1.06, scale1=1.00),
+    ),
+}
+
 # ---------------------------------------------------------------- the hook
 # Published data: 30-45 % leave inside the first minute, and everyone who
 # survives that minute stays to the end. The body is not the problem.
@@ -308,6 +339,34 @@ html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--g
   background:rgba(5,5,8,.74);border-left:4px solid var(--ember)}
 .placard span{font-family:var(--display);font-size:50px;line-height:1.06;color:#fdf8ec;
   text-transform:uppercase;letter-spacing:.10em}
+.map{position:absolute;inset:0;z-index:6;overflow:hidden;pointer-events:none;opacity:0}
+.map .frame{position:absolute;inset:0;
+  background:radial-gradient(118% 118% at 50% 46%,rgba(6,5,4,.06) 26%,rgba(6,5,4,.94) 100%)}
+.map img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  transform-origin:50% 50%;filter:saturate(.82) contrast(1.06) brightness(.86)}
+.map .margin{position:absolute;background:rgba(12,32,38,.0);
+  border:2px solid rgba(168,198,216,0);border-radius:50%;
+  box-shadow:0 0 0 1px rgba(168,198,216,.0) inset}
+.map .lab{position:absolute;transform:translate(-50%,-50%);opacity:0;
+  font-family:var(--mono);letter-spacing:.26em;text-transform:uppercase;
+  white-space:nowrap;padding:12px 22px 13px;
+  background:rgba(6,6,9,.82);border:1px solid rgba(215,138,60,.42);
+  /* parchment is a high-detail ground and it eats thin type; the plate is what
+     makes the name readable, not the shadow */
+  box-shadow:0 10px 34px rgba(0,0,0,.75)}
+.map .lab.power{font-size:34px;color:#fdf9ee}
+.map .lab.note{font-size:26px;color:#eef6fb;font-style:italic;
+  letter-spacing:.18em;text-transform:none;
+  /* the note sits over pale sea; a translucent plate and a cool tint both
+     disappear into it, so it gets the same solid treatment and keeps only its
+     colour as the difference */
+  background:rgba(6,6,9,.88);border-color:rgba(168,198,216,.55)}
+.map .lab .dot{position:absolute;left:50%;top:-7px;width:8px;height:8px;
+  margin-left:-4px;border-radius:50%;background:var(--ember-hot);
+  box-shadow:0 0 14px rgba(240,176,99,.9)}
+.map .cap{position:absolute;left:132px;bottom:96px;opacity:0;
+  font-family:var(--mono);font-size:20px;letter-spacing:.22em;color:var(--ink-dim);
+  text-transform:uppercase;text-shadow:0 2px 14px rgba(0,0,0,.95)}
 .chbg{position:absolute;inset:0;z-index:11;overflow:hidden;pointer-events:none}
 .chbg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform-origin:50% 50%}
 .chbg .chscrim{position:absolute;inset:0;background:
@@ -608,6 +667,50 @@ def main() -> None:
                           f'{{opacity:1,y:0,duration:.42,ease:"power2.out",immediateRender:false}},{at:.2f});')
                 js.append(f'  tl.to("#{pid}",{{opacity:0,duration:.4,ease:"power1.in"}},{at + hold:.2f});')
                 sfx.append(dict(file="metalLatch.ogg", start=t0 + at, vol=0.30))
+
+        # ---- the map layer -------------------------------------------------
+        m = MAPS.get(i)
+        if m:
+            mid = f"{sid}-map"
+            body.append(f'  <div id="{mid}" class="map" style="opacity:0">')
+            body.append(f'    <img id="{mid}-i" src="assets/maps/{m["base"]}" alt="" draggable="false">')
+            body.append('    <div class="frame"></div>')
+            for (text, lx, ly, tin, tout, kind) in m["labels"]:
+                lid = f"{mid}-l{int(lx)}{int(ly)}"
+                dot = '<i class="dot"></i>' if kind == "power" else ""
+                body.append(f'    <div id="{lid}" class="lab {kind}" '
+                            f'style="left:{lx}%;top:{ly}%">{dot}{text}</div>')
+            body.append(f'    <div id="{mid}-cap" class="cap">'
+                        f'{m.get("caption","the known world, and the water between")}</div>')
+            body.append('  </div>')
+
+            at, hold = m["at"], m["hold"]
+            pn = m["pan"]
+            # continuous camera move: the map never cuts, it drifts
+            js.append(f'  tl.set("#{mid}",{{opacity:1}},{at:.3f});')
+            js.append(f'  tl.fromTo("#{mid}-i",'
+                      f'{{scale:{pn["scale0"]:g},xPercent:{pn["x0"]:g},yPercent:{pn["y0"]:g}}},'
+                      f'{{scale:{pn["scale1"]:g},xPercent:{pn["x1"]:g},yPercent:{pn["y1"]:g},'
+                      f'duration:{hold:.3f},ease:"none"}},{at:.3f});')
+            js.append(f'  tl.fromTo("#{mid}",{{opacity:0}},'
+                      f'{{opacity:1,duration:.85,ease:"power2.out",immediateRender:false}},{at:.3f});')
+            js.append(f'  tl.to("#{mid}",{{opacity:0,duration:.75,ease:"power2.in"}},'
+                      f'{at + hold - 0.75:.3f});')
+            js.append(f'  tl.fromTo("#{mid}-cap",{{opacity:0}},'
+                      f'{{opacity:1,duration:.7,ease:"power2.out",immediateRender:false}},'
+                      f'{at + 1.1:.3f});')
+            js.append(f'  tl.to("#{mid}-cap",{{opacity:0,duration:.6,ease:"power2.in"}},'
+                      f'{at + hold - 1.5:.3f});')
+            # each label is a one-line fact: it arrives on the beat and leaves
+            # before it becomes wallpaper
+            for (text, lx, ly, tin, tout, kind) in m["labels"]:
+                lid = f"{mid}-l{int(lx)}{int(ly)}"
+                js.append(f'  tl.fromTo("#{lid}",{{opacity:0,y:10}},'
+                          f'{{opacity:1,y:0,duration:.55,ease:"power2.out",'
+                          f'immediateRender:false}},{at + tin:.3f});')
+                js.append(f'  tl.to("#{lid}",{{opacity:0,duration:.5,ease:"power2.in"}},'
+                          f'{at + tout:.3f});')
+            sfx.append(dict(file="whoosh-short.mp3", start=t0 + at + 0.1, vol=0.24))
 
         body.append('  </div>')
         (PROJ / "compositions" / f"{sid}.html").write_text(
