@@ -12,7 +12,7 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026 (topic bank
 - All nine clips generate (`film/gen.mjs`, `title.mjs`, `end.mjs`); film length 546.5 s (9 min 7 s).
 
 ## Next
-1. Pictures (127 of 127 made and accepted, 14 of them remade; clips regenerated with no missing picture; stills of title, hook flashes, chapter cards 01–05, timeline, steps, both stat panels and the report mock-up viewed and correct; render started): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
+1. Pictures (127 of 127 made and accepted, 14 of them remade; clips regenerated with no missing picture; film rendered and packaged; see "Film rendered" at the end): `python3 tools/next.py 10` prints the next ten prompts; after each ten, `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last>`, look at `google_drive/_sheet_Bnn.jpg`, upload the zip to the Drive `images` folder, add a row below, commit and push.
 2. When all 127 are in: `node film/gen.mjs N01` … `N07`, `node film/title.mjs`, `node film/end.mjs`; look at stills; `bash tools/render.sh` (background process, about 75 minutes on 2 CPUs).
 3. `bash tools/finish.sh parts`, then `VB=1300k bash tools/finish.sh 720` (the film is 13 s longer than EP17, so a little lower than EP17's 1350k); frame sheets; upload the eight files; final status.
 
@@ -69,3 +69,27 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → folder `EP18_Pad
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep18-vaultb/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`.
+
+## Film rendered (20 Nov 2026) — uploads of the video files still owed
+
+All nine clips rendered (`tools/render.sh`: about 6 to 7.5 s of work per film second this time, 58 minutes in all), joined and levelled
+(`tools/finish.sh parts`, then `VB=1300k tools/finish.sh 720`). Measured sound of the joined film: −16.88 LUFS before, gain +2.88 dB;
+the 720p file measures −14.34 LUFS, peak −1.47 dBTP. Frame sheets of every part and of the 720p file were viewed: pictures, captions,
+tags, chapter cards 01–06, map, vault row, door counter, figure panels, timelines, report mock-up and end card are all correct.
+
+| File (in `google_drive/ep18_up/` and `out/deliver/`) | Bytes | Seconds | On Drive |
+|---|---|---|---|
+| `EP18_1080p_01_hook_title.mp4` | 65,014,506 | 75.85 | not yet |
+| `EP18_1080p_02_ch1.mp4` | 58,543,217 | 76.55 | not yet |
+| `EP18_1080p_03_ch2.mp4` | 67,160,371 | 68.29 | not yet |
+| `EP18_1080p_04_ch3.mp4` | 55,938,978 | 63.89 | not yet |
+| `EP18_1080p_05_ch4.mp4` | 69,220,774 | 75.92 | not yet |
+| `EP18_1080p_06_ch5.mp4` | 62,886,040 | 81.99 | not yet |
+| `EP18_1080p_07_ch6_endcard.mp4` | 82,231,881 | 104.25 | not yet |
+| `EP18_VaultB_full_720p.mp4` | 95,998,177 | 546.63 | not yet |
+| `EP18_SHOTLIST.md` (final; upload as `EP18_SHOTLIST_final.md`) | 164,742 | | not yet |
+
+The first upload attempt (eight calls at once) was refused by the connector's upload rate limit; nothing was sent. Upload them a few at
+a time into the episode folder `1AWPWp9D67uhUGpXjGYwdB4rGpxa16ClN` (`content_mime_type: video/mp4`), then fill in this table.
+The mp4 files are not in git and vanish in a wipe of ignored files only from `out/`; the copies in `google_drive/ep18_up/` are untracked
+but not ignored... (`*.mp4` is ignored inside the project only), so they should survive like the pictures did.
