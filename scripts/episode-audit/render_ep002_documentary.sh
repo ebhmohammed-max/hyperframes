@@ -37,15 +37,27 @@ SEG=renders/segments_ep002
 LOG=.cache/render-ep002
 mkdir -p "$SEG" "$LOG"
 
-# name      start  end   (end exclusive; the two-second lead is trimmed at assembly)
+# Chunk boundaries come from plan_ep002_chunks.py, which refuses to place a seam
+# within 3 s of a chapter start, a chapter card's reveal, or its exit.
+#
+# The previous plan used 300/600/900/1200/1500/1800 — and chapters II, III and IV
+# begin at exactly 300, 600 and 900. The join cut through a transition still in
+# flight, so the outgoing chunk's last frames were captured half-faded and the
+# incoming chunk snapped back. That is the hitch the viewer saw as lag.
+#
+# Each chunk also carries its own preroll: capture starts PREROLL seconds before
+# the first wanted frame so every animation already running has settled, and
+# assembly trims exactly that amount rather than assuming 2 s.
+#
+# name      start    end      preroll
 CHUNKS=(
-  "ch01:0:300"
-  "ch02:298:600"
-  "ch03:598:900"
-  "ch04:898:1200"
-  "ch05:1198:1500"
-  "ch06:1498:1800"
-  "ch07:1798:2100"
+  "ch01:0.0:296.5:0.0"
+  "ch02:296.5:596.5:3.0"
+  "ch03:596.5:896.5:3.0"
+  "ch04:896.5:1200.0:3.0"
+  "ch05:1200.0:1500.0:3.0"
+  "ch06:1500.0:1800.0:3.0"
+  "ch07:1800.0:2100.0:3.0"
 )
 WORKERS="${WORKERS:-1}"
 
@@ -60,10 +72,12 @@ sweep() {  # only ever remove render scratch and finished temp output
 }
 
 for spec in "${CHUNKS[@]}"; do
-  IFS=: read -r name a b <<<"$spec"
+  IFS=: read -r name a b pre <<<"$spec"
   [[ "$name" < "$START_AT" ]] && continue
   out="$SEG/$name.mp4"
   want=$(python3 -c "print(f'{$b-$a:.1f}')")
+  cap_start=$(python3 -c "print(f'{max(0.0, $a-$pre):.3f}')")
+  lead=$(python3 -c "print(f'{$a-$cap_start:.3f}')")
 
   if [ -f "$out" ]; then
     got=$(probe "$out")
@@ -85,17 +99,23 @@ for spec in "${CHUNKS[@]}"; do
   echo "== $name  [$a -> $b]  ${want}s  ${avail} MB free" >> "$LOG/job.log"
 
   node packages/cli/bin/hyperframes.mjs render "$PROJ" -o "$out" \
-      --start "$a" --end "$b" -q "${QUALITY:-draft}" --workers "$WORKERS" 2>&1 \
+      --start "$cap_start" --end "$b" -q "${QUALITY:-draft}" --workers "$WORKERS" 2>&1 \
       | tee "$LOG/$name.log" | grep -E "rendered in|Render failed|Disk capture|✗|◇" | tail -4
 
   got=$(probe "$out")
+  want_cap=$(python3 -c "print(f'{$b-$cap_start:.1f}')")
+  if [ -n "${got:-}" ] && python3 -c "import sys; sys.exit(0 if abs(float('${got}')-$want_cap)<0.6 else 1)"; then
+    echo "== $name captured ${got}s (incl. ${lead}s preroll)"
+  fi
   if [ -z "${got:-}" ]; then
     echo "!! $name produced nothing — see $LOG/$name.log"
     echo "!! $name FAILED $(date -u +%H:%M:%SZ)" >> "$LOG/job.log"
     exit 1
   fi
-  echo "== $name done ${got}s  $(du -h "$out" | cut -f1)  $(date -u +%H:%M:%SZ)"
-  echo "== $name done ${got}s  $(du -h "$out" | cut -f1)  $(date -u +%H:%M:%SZ)" >> "$LOG/job.log"
+  echo "${lead}" > "$SEG/$name.lead"
+  echo "== $name done ${got}s  lead ${lead}s  $(du -h "$out" | cut -f1)  $(date -u +%H:%M:%SZ)"
+  echo "${lead}" > "$SEG/$name.lead"
+  echo "== $name done ${got}s  lead ${lead}s  $(du -h "$out" | cut -f1)  $(date -u +%H:%M:%SZ)" >> "$LOG/job.log"
   rm -rf /tmp/hf-render-span-* 2>/dev/null
 done
 
