@@ -59,8 +59,8 @@ N04|2|jammed_bolt_hand|V@irondoor|close view of a hand straining to pull back on
 N04|3|observers_confer|V|the observers standing in a close group in the corridor around one hurricane lamp, seen from behind, heads bent toward each other
 N04|4|second_doorway_open|V|another doorway further along the same corridor, its iron grille and its wooden door both standing open, a small stone room visible inside, no people
 N04|4|empty_room_slab|V|a small bare granite room, completely empty except for one huge rectangular granite slab lying flat in the floor like a fallen gravestone, a torch beam resting on it, no people
-N04|5|men_lever_slab|V|five men seen from behind bending their weight on iron crowbars and wooden poles to shift the great floor slab, sweat on their backs, dust in the lamp light
-N04|5|slab_edge_lifts|V|close view of the edge of the granite slab lifting a hand's width on an iron bar, a black gap opening under it, dust pouring over the edge, hands only
+N04|5|men_lever_slab|V|seen from high above, looking straight down into a small bare stone room: five bare-chested workmen gathered around a great granite floor slab, leaning on iron crowbars and wooden poles to shift it, only the tops of their heads, their shoulders and their arms visible, sweat on their backs, dust in the lamp light
+N04|5|slab_edge_lifts|V|close view of the edge of the granite slab lifting a hand's width on an iron crowbar, a black gap opening under it, dust pouring over the edge, two men's hands on the bar and nothing else of them, a plain bare granite wall behind
 N04|6|narrow_opening_step|V|a rectangular opening in the stone floor barely wide enough for one man, worn steps going down into blackness, a torch lying beside it, no people
 N04|6|lamp_flame_shrinks|V|a hand lowering a hurricane lamp into the opening in the floor, its flame shrinking and turning blue in the stale air, hand only
 N04|7|firemen_air_hose|V|two firemen in dark uniforms and helmets seen from behind feeding a thick air hose down the opening in the floor, a portable blower and a cylinder beside them
