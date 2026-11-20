@@ -67,7 +67,7 @@ N04|7|firemen_air_hose|V|two firemen in dark uniforms and helmets seen from behi
 N04|8|dust_on_steps|V|worn granite steps under a thick, even layer of grey dust with no footprints at all, lit low from the side by a torch, no people
 N04|8|blank_ledger_page|X|an old ledger lying open at a page ruled with columns and left completely empty, a pen resting across it, no people
 N04|9|torch_turns_in|V|a hand turning a torch into a dark doorway, the edge of the beam just beginning to catch points of gold deep inside, hand only
-N05|0|star_field_gold|G|the whole low chamber in darkness, gold glinting everywhere from floor to ceiling like a field of stars, shapes of pots, chests and heaps just visible, no people
+N05|0|star_field_gold|G|an almost completely black frame: a low chamber in deep darkness in which hundreds of tiny points of gold glint like stars in a night sky, from floor to ceiling, the outlines of pots, chests and heaps barely guessed at, nine tenths of the picture black, soft and dim, no bright light, no people
 N05|0|silhouette_awe|V|one man as a silhouette seen from behind at the foot of the narrow steps, his torch lowered, facing a darkness full of golden glints
 N05|1|carriers_up_steps|V|a chain of men seen from behind passing brass pots and loaded baskets from hand to hand up the narrow stone steps, lamps hung on the wall
 N05|2|coin_sacks_heap|G|rows of old cloth sacks and clay pots brimming with gold coins against a granite wall, some sacks split and spilling, no people
@@ -75,7 +75,7 @@ N05|2|coins_many_lands|G|close view of antique gold coins of many sizes and make
 N05|2|coins_sorted_cloth|G|gold coins sorted into small groups on a white cloth under a bright lamp, a hand holding a magnifying glass over one of them, hand only
 N05|3|chain_measured|G|a heavy gold chain stretched out dead straight along the corridor floor beside a long measuring tape, running the whole length of the frame, no people
 N05|3|chain_links_close|G|close view of thick old gold chain links set with small rubies and emeralds, lying across a man's open palms, hands only
-N05|4|small_idol_veiled|G|a small golden figure about three and a half feet tall standing on a stone ledge, almost wholly wrapped in old cloth so that only a jewelled crown and a soft golden outline show, no people
+N05|4|small_idol_veiled|G|a tall narrow object about a metre high standing on a stone ledge, covered completely by one loose old dust-grey cloth that hangs straight down like a dust sheet over furniture, no head, no face, no arms and no human shape to it at all, only the small pointed tip of a jewelled gold crown lifting the cloth at the top and a line of gold showing at its hem, no people
 N05|4|gems_in_gold|G|close view of an old gold surface thickly set with diamonds, rubies and emeralds in a flower pattern, dust in the hollows, no people
 N05|5|gold_rice_sheaf|G|a sheaf of rice stalks made entirely of gold, each grain and blade worked in metal, lying on dark stone, no people
 N05|5|gold_coconut_shells|G|three bowls of gold shaped like halves of coconut shell, their rims set with rubies and emeralds, standing on a granite ledge, no people
