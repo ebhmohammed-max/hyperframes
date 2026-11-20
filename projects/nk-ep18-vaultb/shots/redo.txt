@@ -1,14 +1,5 @@
 # pictures to make again after the first pass: number|reason  (tools/next.py holds these back; delete a line when its picture has been remade)
-001|faces of three men show; the rule is backs only. Prompt changed.
-006|carved walls, small god figures and a flaming torch; the vault must be plain granite, lit by a hand torch. Look G changed.
-007|flaming torch and carved pillars. Look G changed.
-009|the chain looks like a pale iron ship chain; it must read as gold. Subject changed.
-022|a dark standing figure in each of the three doorways; wrong for this temple (one reclining image seen in three parts). Subject changed: lamp glow only.
-060|five men bent over in a row seen from low behind: awkward. Subject changed: seen from above.
-061|carved pillars behind the slab; black strip along the top edge. Subject changed: plain wall.
-068|bright, over-sharpened, treasure plainly lit; must be near-black with points of gold like stars. Subject changed.
-076|wrapped figure looks like a bandaged child with a face hollow. Subject changed: a draped shape under one loose cloth, no human form.
-096|forearm rises upright from the floor like a cut-off arm. Subject changed: arm enters from the right edge.
+001|second try shows six men and the slab looks like an upright block; the narration says five men and a floor slab. Third try: pass the new 060 (five men, seen from above) as reference.
 097|round European crypt arches around the cobra door. Subject changed: straight granite post-and-lintel frame, no arches.
 099|rubble tower beside an open sea; the idea (sea behind the door) does not read. Subject changed: sealed door with ghostly waves seen through it.
 124|gold bars look like grey-brown bricks. Subject changed: warm yellow gold. Make AFTER 125 and pass the new 125 as reference (same chamber).
