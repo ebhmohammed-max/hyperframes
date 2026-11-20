@@ -124,3 +124,60 @@ t=6.00  corner 64.3      t=10.20 corner 34.9
 The card arrives over about 0.4 s and leaves over about 0.6 s, with no step
 larger than the fade itself. **No snap.** ch01 cadence: 8,895 frames, median
 inter-frame delta 0.0333 s, **max 0.0333 s, zero gaps**.
+
+## Second render, after the art repair (2026-11-20 16:00–18:15 UTC)
+
+All seven chunks were re-rendered from ch01. Resuming at ch02 was not an option:
+the earlier ch01 and ch02 were captured against art that has since been
+replaced, so they were deleted rather than kept.
+
+Measured chunk lengths, all matching `end - start` to the frame:
+
+| Chunk | Span (s) | Rendered | Preroll lead |
+|---|---|---|---|
+| ch01 | 0 → 296.5 | 296.512 | 0.000 |
+| ch02 | 296.5 → 596.5 | 303.000 | 3.000 |
+| ch03 | 596.5 → 896.5 | 303.000 | 3.000 |
+| ch04 | 896.5 → 1200.0 | 306.500 | 3.000 |
+| ch05 | 1200.0 → 1500.0 | 303.000 | 3.000 |
+| ch06 | 1500.0 → 1800.0 | 303.000 | 3.000 |
+| ch07 | 1800.0 → 2100.0 | pending | 3.000 |
+
+Throughput held at **22–24 minutes per 300 s chunk**, consistent with the
+0.13 s/frame capture and 0.015 s/frame encode measured on the first render.
+
+### Seam and cadence audit on ch01–ch06
+
+Assembled to a partial master of 1,800.03 s and audited before ch07 existed:
+
+```
+cadence: frames=54450 median=0.0333s max=0.0333s gaps=0  PASS
+   seam   d_mean  d_corner  verdict
+  296.5      0.4      -0.2  pass
+  596.5     -1.5      -2.5  pass
+  896.5     -0.5      -0.6  pass
+ 1200.0     25.1      -1.0  pass
+ 1500.0     25.1      12.4  pass
+worst corner jump: 12.4
+```
+
+Fifty-four thousand four hundred and fifty frames with **zero gaps** and a worst
+corner jump of 12.4 against a 25 threshold. The chapter-lag defect stays fixed.
+
+### Silence at the joins is content, not loss
+
+Four seams showed windows of digital silence, which is exactly what a bad
+`-c copy` concat looks like. It was checked against the source mix rather than
+assumed either way:
+
+| Seam | Silent window | In `mix.m4a`? |
+|---|---|---|
+| 596.5 | 595.85 → 598.00 | yes, same window |
+| 1200.0 | 1198.50 → 1200.10 | yes, same window |
+| 1500.0 | 1499.35 → 1500.05 | yes, same window |
+
+The narration itself pauses across those chapter breaks. Each chunk's own audio
+matches the mix within 0.1 s of the join, so nothing is being dropped by the
+assembly. The one thing worth doing differently next time is padding the mix so
+no drop lands within 1 s of a seam, which would make the audit unambiguous
+instead of requiring this comparison.
