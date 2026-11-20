@@ -10,10 +10,10 @@ Topic and length (about 8 minutes) chosen by the user on 20 Nov 2026. Same recip
 - Map data `film/geo.json` (Natural Earth, cut to South India and Sri Lanka).
 - Graphics layer `film/fx.mjs`, wired into `film/gen.mjs`, and checked on still frames of all seven clips with placeholder pictures.
 - Cast reference pictures: father, mother, girl (`shots/CAST.md`).
-- Pictures 001–010 generated, looked at (all fine) and uploaded (batch B01).
+- Pictures 001–020 generated, looked at and uploaded (batches B01, B02).
 
 ## Next
-1. Pictures 011–128 (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
+1. Pictures 021–128 (upload every batch in the turn it is made; the workspace can be wiped between turns): `python3 tools/next.py 10` prints the next prompts; save to `out/raw/NNN.jpg` (pass `out/cast/<key>.jpg` for rows with refs). Ten per turn. After each ten: `bash tools/restore.sh` (sheets and film copies), look at the sheet, `python3 tools/pack.py a b`, upload the zip to the Drive `images` folder, log it below.
 2. `node film/gen.mjs N01 N02 N03 N04 N05 N06 N07 && node film/title.mjs && node film/end.mjs`; every clip must report no MISSING pictures.
 3. Look at frames of the hook and of each graphic with the real pictures (`hyperframes snapshot --no-end --at … -o /tmp/x .` inside `film/Nxx`).
 4. `bash tools/render.sh` (it relinks `shared/plates` to `out/img`), then `bash tools/finish.sh parts` and `VB=1350k bash tools/finish.sh 720`; upload; update this file; commit and push.
@@ -62,6 +62,7 @@ Chapter card backgrounds (`CARD_BG` in `film/gen.mjs`): N02 `mother_kolam_lamp` 
 | Batch | Pictures | Drive id | Notes |
 |---|---|---|---|
 | B01 | 001–010 | `16xGDScGvfxRA0gUeC2y1Q7Q4AQ1F4o-U` | made twice: the first seven were lost in a workspace wipe before upload; all ten fine |
+| B02 | 011–020 | `1Px2QIFfCGfB4bMZl9RK1bJD3LEolydbi` | all fine; 012 has dark window shutters down both edges (crop if it shows in the split screen); 017 shows the baby out of focus behind the hands |
 
 ## After a full wipe of the workspace
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`, `bash projects/nk-ep17-1926/tools/setup.sh`, download the Drive zips above into `<repo>/google_drive/`, `bash tools/restore.sh`, unzip the narration zip into `narration/`, recreate the links `shared/vo` → `../narration` and `shared/plates` → `../out/img`. Map data can be rebuilt from Natural Earth (`world-atlas` countries 10m and the 50m admin-1 GeoJSON), but `film/geo.json` is in git.
