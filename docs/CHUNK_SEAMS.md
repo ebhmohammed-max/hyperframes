@@ -88,3 +88,39 @@ chapter start, which puts the join in the middle of an ordinary plate.
 4. **Frame cadence.** Constant inter-frame delta, no gaps over 1.5 frames.
 
 Scripts: `scripts/episode-audit/audit_ep002_seams.py`.
+
+## Actual render of episode 02 (2026-11-20)
+
+The planned seams were kept to one decimal place in the end:
+**296.5 / 596.5 / 896.5 / 1200 / 1500 / 1800**, with 3.0 s of preroll on
+chunks 2–7 and each chunk's `<name>.lead` recording it for the assembler.
+
+Structure worth knowing before the next long render: the renderer splits each
+chunk into **parts** of about 132 s (3,938 frames) each. Frames are captured to
+`part-NNNN.mp4.work.<pid>.<hash>/captured-frames/`, encoded, and the frame
+directory is deleted the moment that part's mp4 exists. So a chunk's peak disk
+cost is one part's frames — about 1 GB — not the whole chunk's. Peak observed
+usage never exceeded 2.3 GB on a 7 GB budget.
+
+Per part, capture runs at roughly **0.13 s per frame** and encode at roughly
+0.015 s per frame; a 132 s part costs about 9.5 minutes, so a 300 s chunk is
+about 22 minutes and the whole 2,100 s film about **3 h 15 m**.
+
+### Chapter-lag check, measured
+
+This is the defect the user reported on the previous film, so it was measured
+rather than assumed. On the old master, corner luminance across the 300 s
+chapter change went 5.4 → 14.6 → **82.6 within 0.2 s** — a visible snap.
+
+On the new master, across the chapter I card (reveal 5.40, exit 9.45):
+
+```
+t=5.20  corner 27.6      t=7.00  corner 66.3
+t=5.40  corner 63.3      t=9.30  corner 67.4
+t=5.60  corner 63.3      t=9.80  corner 64.1
+t=6.00  corner 64.3      t=10.20 corner 34.9
+```
+
+The card arrives over about 0.4 s and leaves over about 0.6 s, with no step
+larger than the fade itself. **No snap.** ch01 cadence: 8,895 frames, median
+inter-frame delta 0.0333 s, **max 0.0333 s, zero gaps**.
