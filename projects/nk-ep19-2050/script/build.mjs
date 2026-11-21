@@ -3,7 +3,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { CLIPS, TAGS } from "./script.mjs";
 mkdirSync("narration/text", { recursive: true });
 const lines = [];
-let md = "# EP19 — 2050-ல் உலகம் எப்படி இருக்கும்?\n\nNarration script v1 (15 Nov 2026). Spoken Tamil. Labels in brackets are the on-screen source tags: " +
+let md = "# EP19 — 2050-ல் உலகம் எப்படி இருக்கும்?\n\nNarration script v2 (21 Nov 2026). Spoken Tamil. Labels in brackets are the on-screen source tags: " +
   Object.values(TAGS).join(" · ") + ". Captions show digits; the voice reads numbers as words. Every 2050 figure is a projection.\n";
 let total = 0;
 for (const c of CLIPS) {

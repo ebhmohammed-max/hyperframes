@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 119 of 127 made.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 126 of 127 made (only 123 missing); remakes done.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -49,6 +49,8 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 | B10 | 090–099 | `EP19_B10_images_090-099.zip` `1XcwBUP_d8ry1_nhA5keJ3-klALQSYjP_` | all usable; 092 remake (eye chart letters readable) |
 | B11 | 100–109 | `EP19_B11_images_100-109.zip` `15WijqiuINaex2o1XPvZg89NVdUOG6FhU` | all usable |
 | B12 | 110–119 | `EP19_B12_images_110-119.zip` `1eYJSDjpCYN7INTFttRRzRbH7ibV5_bpB` | all usable; 114 shows four people, not five (the voice gives no count; kept) |
+| B13 | 120–127 without 123 | `EP19_B13_images_120-127_no123.zip` `1kVz6Ksj-jJFt2BglmQ9Bu4unj4oeskxM` | all usable; 123 (grey window) still to make, with 122 as reference |
+| R1 | remakes 004, 019, 043, 092 | `EP19_R1_images_004-019-043-092.zip` `1hvTKw3kXO_IoCAJa1Pd5pxR0HpBpMpBN` | 004 woman's hands with bangles; 019 packed crossing; 043 plain frame, no garland; 092 the same picture with the eye chart blurred locally (no new generation) |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
@@ -66,6 +68,7 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → **`EP19_2050_Ula
 ## Changes after the first upload
 
 - 21 Nov: N03 line 4 was split in two (Tamil Nadu, then Sri Lanka) so that each has its own number card; the narration audio is unchanged. The script is now 70 lines; N03 lines after it moved up by one. Picture numbers did not change, but the file names inside the zips B04–B06 still carry the old line numbers for 041–051 (the number at the front is what counts). `EP19_SCRIPT_TA_v2.md` on Drive replaces `EP19_SCRIPT_TA.md`.
+- 21 Nov: N07 graphics checked on stills (chapter card, 10–25 செ.மீ, 19.7 செ.மீ, 76%, big 21.6 கோடி, 80% வரை, the three flash words, the two-window split with its left half): all correct; the right half of the split waits for 123.
 - 21 Nov: N06 graphics checked on stills (chapter card, hundred dots, sugar bars, big 3.9 கோடி, 9.2 கோடி card): all correct.
 - 21 Nov: N05 graphics checked on stills. Two fixes: the 2035/2050 timeline labels ran into each other (now three short points: 2020, 2035, 2050); the IEA card now reads "~90%" because the report says "almost 90%" (the voice says 90%).
 - Graphics checked on stills for N01–N04, all pictures in place (chapter cards, bars incl. the water bars, number cards, timeline, hundred dots incl. the growing 55 → 68, big numbers, subscribe pop-up): all correct. Note for stills: film time in N02–N07 = voice time + 2.3 s (chapter card).

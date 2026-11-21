@@ -1,4 +1,4 @@
-// EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? Narration script v1 (15 Nov 2026). Source of truth.
+// EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? Narration script v2 (21 Nov 2026). Source of truth.
 // One entry per spoken line: [say, tag?, cap?, fx?]
 //   say = what the voice reads (numbers spelled out, abbreviations as Tamil sounds, no dots inside abbreviations)
 //   tag = source label on screen: U ஐ.நா. கணிப்பு · R ஆய்வு கணிப்பு · S ஒரு பாதை (கணிப்பு இல்ல) · F பதிவான உண்மை · O கருத்து · I கற்பனை காட்சி

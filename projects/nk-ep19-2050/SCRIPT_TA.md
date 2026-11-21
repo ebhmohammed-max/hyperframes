@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்?
 
-Narration script v1 (15 Nov 2026). Spoken Tamil. Labels in brackets are the on-screen source tags: ஐ.நா. கணிப்பு · ஆய்வு கணிப்பு · ஒரு பாதை · கணிப்பு இல்ல · பதிவான உண்மை · கருத்து · கற்பனை காட்சி. Captions show digits; the voice reads numbers as words. Every 2050 figure is a projection.
+Narration script v2 (21 Nov 2026). Spoken Tamil. Labels in brackets are the on-screen source tags: ஐ.நா. கணிப்பு · ஆய்வு கணிப்பு · ஒரு பாதை · கணிப்பு இல்ல · பதிவான உண்மை · கருத்து · கற்பனை காட்சி. Captions show digits; the voice reads numbers as words. Every 2050 figure is a projection.
 
 ## HOOK — cold open and promise  (N01)
 
