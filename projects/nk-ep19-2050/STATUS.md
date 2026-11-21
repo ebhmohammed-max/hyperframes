@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 69 of 127 made.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 79 of 127 made.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -44,6 +44,7 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 | B05 | 040–049 | `EP19_B05_images_040-049.zip` `1jkAZPKlPmPa1_pREzlW2-6SPO7gTmbxC` | all usable; 043 the garland on the school photograph reads as a memorial picture in a Tamil home: remake without it |
 | B06 | 050–059 | `EP19_B06_images_050-059.zip` `1HKbUbQxusDiJ6YJ7z3kLiDR4IwhJnLjq` | all usable; 050 made with `nila` and 034 as references |
 | B07 | 060–069 | `EP19_B07_images_060-069.zip` `1GdF-46QUNxaiQ6IRO2drqks9iclMPOW9` | all usable |
+| B08 | 070–079 | `EP19_B08_images_070-079.zip` `1ytz9CvwLi2p6KRvNR8dxnxcFCVdt7FgL` | all usable; 070 shows a sliver of Nila's cheek in shadow (kept) |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
