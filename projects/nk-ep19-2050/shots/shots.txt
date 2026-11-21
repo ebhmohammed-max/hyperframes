@@ -42,7 +42,7 @@ N03|4|temple_steps_elders_evening|N|old men and women sitting together on the gr
 N03|4|thinnai_couple_alone|N|an elderly couple sitting alone on the raised front veranda of a big old ancestral house in a Tamil village, the street empty, the old man holding a phone whose glow lights his hands, seen from across the street
 N03|4|lagoon_elder_fisherman|O|the west coast of Sri Lanka at dawn: an old fisherman with white hair, seen from behind, mending a net beside narrow wooden outrigger canoes pulled up on a lagoon shore under coconut palms, calm water. No signboards and no lettering
 N03|5|ledger_shelves_office|D|tall shelves in an old records office packed with thick cloth-bound ledgers tied with tape, dust in a shaft of light, the spines blank
-N03|5|school_photo_1990_wall|P|a framed school group photograph hanging on a lime-washed wall: four rows of children in uniform with two teachers, every face too small and soft to make out, a dried garland on the frame
+N03|5|school_photo_1990_wall|P|a framed school group photograph hanging on a lime-washed wall: four rows of children in uniform with two teachers, every face too small and soft to make out, a plain wooden frame with nothing hung on it
 N03|6|man_mirror_first_grey|N|a man in his late thirties in a shirt, seen from behind at a bathroom mirror, touching the first grey hairs at his temple, his reflected face soft in the dim mirror
 N03|6|phone_dark_reflection|N|a hand holding a phone whose screen has just gone dark, the black glass showing only the faint soft outline of a head reflected in it, seen from the holder's own point of view
 N03|7|grandmother_brisk_walk|F|a fit silver-haired woman in a sari and sports shoes walking briskly along a tree-lined seafront path at sunrise, seen from behind
