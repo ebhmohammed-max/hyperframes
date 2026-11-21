@@ -104,8 +104,8 @@ SCENES = {
 26: ("A clay jar in a cavity under a floor of a humble brick house, lid off, eleven gold "
      "coins and a plain woman's ring inside, the floorboards above pushed aside.",
      "dark earth, one candle"),
-27: ("Aerial of a desert city with its walls still standing, siege camps and burned "
-     "districts outside, harpy statues intact on the gate towers.", GHIS + ", dust haze"),
+27: ("High aerial of a walled desert city at dawn, its walls still standing, siege camps and burned districts spreading outside the gate, dust haze over everything, and on the two gate towers plain bronze harpy statues with spread wings and a raised fist, seen from a distance so the faces are only silhouette, no domes anywhere, no minarets, no animal-bodied sphinx, no Greek or Egyptian temple forms, no colonnades.",
+     GHIS + ", dust haze"),
 28: ("A torch-lit night street of ochre brick in a Ghiscari city, seen low and level: empty, no crowd, no assembly, a worn sandstone doorway with a bronze harpy's head knocked from its bracket lying in the dust, one dog asleep on the step, distant temple fires beyond the rooftops, no people in robes, no banners, no throne, no gathering of nobles.",
     GHIS),
 29: ('Ghiscari street-sweepers in undyed tunics brushing dust from brick paving between flat-roofed houses, and hanging from a wall bracket a single faded ochre cloth with a plain sewn harpy outline and no heraldry and no three-headed beast, a broom leaned against the wall, overcast morning light.',
@@ -175,7 +175,7 @@ SCENES = {
     "warm varied light"),
 61: ('A wide slow river at dawn, willows on the muddy bank and flat-bottomed boats of lashed reed and timber pulled up on it, and far across the water a low foreign city of flat-topped brick towers and long walls rising out of the river mist, no domes, no minarets, no spires, no battlements, an entirely different country, green-grey water, dawn gold.',
     'green-grey water, dawn gold'),
-62: ('A Valyrian dragonlord standing very still on black basalt at the rim of a lava field, seen small in the frame from a distance and slightly behind, a black-cloaked figure with silver hair against the ember glow, close-fitting dark scale armour with no ornament and no helmet, the calm of someone who has never lost, no face visible at this distance, ash and smoke drifting.',
+62: ('A lone figure standing very still on black basalt at the rim of a glowing lava field, seen small in the frame from a distance and from behind, a shaved head with a plain bronze circlet, a coarse undyed wool shawl over dark homespun breeches, neither hair nor cloak flattering, the calm of someone who has never lost, no face visible at this distance, ash and smoke drifting. No silver hair, no platinum hair, no long pale hair, no black cloak, no cape or long trailing garment.',
     VALYRIA),
 63: ("A fleet seen from directly above, a dragon's shadow crossing it, no enemy anywhere, "
      "the sea empty for a thousand miles.", "blue-green, high sun"),
