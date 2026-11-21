@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 89 of 127 made.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 99 of 127 made.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -46,6 +46,7 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 | B07 | 060–069 | `EP19_B07_images_060-069.zip` `1GdF-46QUNxaiQ6IRO2drqks9iclMPOW9` | all usable |
 | B08 | 070–079 | `EP19_B08_images_070-079.zip` `1ytz9CvwLi2p6KRvNR8dxnxcFCVdt7FgL` | all usable; 070 shows a sliver of Nila's cheek in shadow (kept) |
 | B09 | 080–089 | `EP19_B09_images_080-089.zip` `1cruW7LXpj1yWy_uQlBD8X0oLqG6V8ap8` | all usable |
+| B10 | 090–099 | `EP19_B10_images_090-099.zip` `1XcwBUP_d8ry1_nhA5keJ3-klALQSYjP_` | all usable; 092 remake (eye chart letters readable) |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
