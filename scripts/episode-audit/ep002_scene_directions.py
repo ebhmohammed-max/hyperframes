@@ -90,7 +90,7 @@ SCENES = {
     VALYRIA),
 19: ('A pay chest of split cedar spilled on a desert road, small bronze coins scattered in the dust, a broken wooden cart wheel beside it, and a Ghiscari soldier crouching to pick one up, seen from behind and from the side so his face is hidden, a soft quilted hemp jacket and a rounded leather cap, sandals and bare legs, a short plain blade at his belt, no metal scales, no cheek guards, no banded helmet, hard sun.',
     GHIS),
-20: ("A worn gold coin held up to the light, the winged-woman figure at its centre almost smooth, a child's fingers holding it, an ochre-brick market blurred behind, warm shallow focus, no lettering.",
+20: ("A worn gold disc held up between two fingers at an angle to the light, its face turned away so only the blank reverse and the worn milled rim show, a blurred ochre-brick market behind with people passing as soft shapes, warm shallow focus, the metal catching a thin line of light along the edge and nothing readable struck on it. No winged figure or Nike, no goddess, no profile head, no wreath, no letters, no classical die.",
     'gold, ochre, warm shallow focus'),
 21: ('A plan scratched onto a slab of smoothed hide and set in a clay frame: a thickened siege tower with an opening roof and timber dimensions marked with cut notches and tally strokes, no letters, a bronze awl and a clay lamp beside it, pinned to a brick wall.',
     GHIS),
