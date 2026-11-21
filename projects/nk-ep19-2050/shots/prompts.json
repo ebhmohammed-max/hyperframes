@@ -1,0 +1,1290 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "hospital_night_window",
+  "look": "N",
+  "file": "EP19_001_N01q00_hospital_night_window.jpg",
+  "prompt": "A plain government maternity hospital in Chennai seen from the wet street at night, warm light in one upper window, an auto-rickshaw waiting under a street lamp, light rain, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "newborn_hand_finger",
+  "look": "N",
+  "file": "EP19_002_N01q00_newborn_hand_finger.jpg",
+  "prompt": "Close view of a newborn baby's tiny hand closed around its mother's finger on a white hospital sheet, soft lamp light, hands only, no face. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "nila_24_doorway",
+  "look": "F",
+  "file": "EP19_003_N01q01_nila_24_doorway.jpg",
+  "prompt": "Nila seen from behind, stepping out of the doorway of a flat into a bright morning street of 2050 lined with shade trees, an electric bus passing, her shoulder bag on her shoulder. The young woman is the same as in the reference picture: Nila, a Tamil woman of 24 with warm brown skin, a long black plait down her back, a mustard-yellow cotton kurta over dark blue trousers and a small grey cloth shoulder bag. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "nila"
+  ]
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "tiffin_card_hands",
+  "look": "F",
+  "file": "EP19_004_N01q01_tiffin_card_hands.jpg",
+  "prompt": "Close view of a young woman's hands holding a steel tiffin box and a blank plastic identity card on a ribbon, a bus stop bench blurred behind, hands only. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "nila_wakes_white_window",
+  "look": "F",
+  "file": "EP19_005_N01q02_nila_wakes_white_window.jpg",
+  "prompt": "Nila seen from behind sitting up in bed at dawn and looking toward a large window that is only blinding white light, so that nothing of the world outside can be seen yet. The young woman is the same as in the reference picture: Nila, a Tamil woman of 24 with warm brown skin, a long black plait down her back, a mustard-yellow cotton kurta over dark blue trousers and a small grey cloth shoulder bag. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "nila"
+  ]
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 2,
+  "k": 1,
+  "name": "four_ages_bench",
+  "look": "N",
+  "file": "EP19_006_N01q02_four_ages_bench.jpg",
+  "prompt": "Four people sitting side by side on a bench at a bus stop, seen from behind: a small girl, a young woman, a middle-aged man and a white-haired old man, morning light. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "flying_car_cliche",
+  "look": "S",
+  "file": "EP19_007_N01q03_flying_car_cliche.jpg",
+  "prompt": "A shiny bubble-topped flying car hovering above a fantasy city of impossible glass spires, with fins and glowing jets, no people. A science-fiction film cliche painted like a glossy old film poster and clearly a fantasy: saturated magenta and cyan, chrome, lens flares, theatrical light, no lettering of any kind. Glossy airbrushed film-poster illustration, full-bleed 16:9 image filling the whole frame edge to edge with no black bars. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "robot_servant_cliche",
+  "look": "S",
+  "file": "EP19_008_N01q03_robot_servant_cliche.jpg",
+  "prompt": "A tall chrome humanoid robot in an apron carrying a tray of tea cups through a spotless white living room, no people. A science-fiction film cliche painted like a glossy old film poster and clearly a fantasy: saturated magenta and cyan, chrome, lens flares, theatrical light, no lettering of any kind. Glossy airbrushed film-poster illustration, full-bleed 16:9 image filling the whole frame edge to edge with no black bars. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 3,
+  "k": 2,
+  "name": "mars_house_cliche",
+  "look": "S",
+  "file": "EP19_009_N01q03_mars_house_cliche.jpg",
+  "prompt": "A glass dome house with a little garden inside standing on the red desert of Mars under a pink sky with two small moons, no people. A science-fiction film cliche painted like a glossy old film poster and clearly a fantasy: saturated magenta and cyan, chrome, lens flares, theatrical light, no lettering of any kind. Glossy airbrushed film-poster illustration, full-bleed 16:9 image filling the whole frame edge to edge with no black bars. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "cinema_hall_beam",
+  "look": "N",
+  "file": "EP19_010_N01q04_cinema_hall_beam.jpg",
+  "prompt": "An old empty cinema hall in Tamil Nadu seen from the back row, the projector beam cutting through dust to a screen that glows with a blurred bright shape, rows of worn seats, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "reports_graph_desk",
+  "look": "D",
+  "file": "EP19_011_N01q04_reports_graph_desk.jpg",
+  "prompt": "A desk with a tall stack of thick printed reports, loose sheets with rising and falling curves drawn as plain lines without any numbers or words, a pencil, a calculator with a blank display and a glass of tea. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "potter_hands_wet_clay",
+  "look": "N",
+  "file": "EP19_012_N01q05_potter_hands_wet_clay.jpg",
+  "prompt": "Close view of two hands shaping a wet clay pot on a turning potter's wheel, the form still soft and unfinished, hands and forearms only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "hourglass_last_sand",
+  "look": "D",
+  "file": "EP19_013_N01q06_hourglass_last_sand.jpg",
+  "prompt": "An old brass and glass hourglass with almost all its sand already fallen into the lower bulb, the last thin thread of sand still running. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 6,
+  "k": 1,
+  "name": "footprints_set_cement",
+  "look": "N",
+  "file": "EP19_014_N01q06_footprints_set_cement.jpg",
+  "prompt": "Two footprints pressed long ago into a cement pavement and set hard, now dry and grey, fallen leaves beside them, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 7,
+  "k": 0,
+  "name": "house_door_sandals",
+  "look": "N",
+  "file": "EP19_015_N01q07_house_door_sandals.jpg",
+  "prompt": "The half-open wooden door of a Tamil house at night with warm light inside, on the doorstep a pair of worn old leather sandals beside a pair of tiny child's sandals, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 7,
+  "k": 1,
+  "name": "shore_night_city_lights",
+  "look": "C",
+  "file": "EP19_016_N01q07_shore_night_city_lights.jpg",
+  "prompt": "Low waves running up a dark beach at night toward a stone sea wall, the lights of a large city behind it, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "city_2050_sunrise_wide",
+  "look": "F",
+  "file": "EP19_017_N01q09_city_2050_sunrise_wide.jpg",
+  "prompt": "A very wide view at sunrise over a South Indian coastal megacity of 2050: flats and towers with solar roofs reaching to the sea, lines of trees, an elevated metro line, a soft golden haze, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "nila_terrace_city",
+  "look": "F",
+  "file": "EP19_018_N01q09_nila_terrace_city.jpg",
+  "prompt": "Nila seen from behind standing at the parapet of a rooftop terrace and looking out over the great city in the first sunlight, washing on a line beside her. The young woman is the same as in the reference picture: Nila, a Tamil woman of 24 with warm brown skin, a long black plait down her back, a mustard-yellow cotton kurta over dark blue trousers and a small grey cloth shoulder bag. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "nila"
+  ]
+ },
+ {
+  "n": 19,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "crowd_crossing_top",
+  "look": "W",
+  "file": "EP19_019_N02q00_crowd_crossing_top.jpg",
+  "prompt": "A bird's-eye view looking straight down from high above onto a wide city street crossing completely packed with hundreds of people walking in every direction, long morning shadows. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "earth_blue_day",
+  "look": "W",
+  "file": "EP19_020_N02q01_earth_blue_day.jpg",
+  "prompt": "The whole Earth seen from space by day, the Indian Ocean and South Asia in the middle of the globe, white cloud bands, black space around it, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "stadium_crowd_wide",
+  "look": "W",
+  "file": "EP19_021_N02q01_stadium_crowd_wide.jpg",
+  "prompt": "An enormous crowd filling a vast open ground to the horizon at dusk, seen from high behind, tens of thousands of heads fading into haze. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "platform_rush_footbridge",
+  "look": "N",
+  "file": "EP19_022_N02q02_platform_rush_footbridge.jpg",
+  "prompt": "An Indian suburban railway platform at rush hour seen from the footbridge above, the platform solid with commuters as a train comes in. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "cradles_ward_row",
+  "look": "N",
+  "file": "EP19_023_N02q02_cradles_ward_row.jpg",
+  "prompt": "A long row of small metal cradles with newborn babies wrapped in cloth in a maternity ward, a nurse in a white sari seen from behind at the far end, morning light through tall windows. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "market_lane_above",
+  "look": "N",
+  "file": "EP19_024_N02q03_market_lane_above.jpg",
+  "prompt": "A dense old market lane in an Indian city seen from an upper floor: cloth awnings, fruit carts, two-wheelers and a slow river of people filling it from wall to wall. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "india_night_orbit",
+  "look": "W",
+  "file": "EP19_025_N02q03_india_night_orbit.jpg",
+  "prompt": "The Indian subcontinent seen from orbit at night, its whole shape drawn in a dense web of golden city lights, Sri Lanka glowing at its tip, the dark sea around it, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "hill_steps_flatten",
+  "look": "N",
+  "file": "EP19_026_N02q04_hill_steps_flatten.jpg",
+  "prompt": "A long flight of stone steps climbing a rocky hill to a small temple in Tamil Nadu, very steep at the bottom and growing gentler and flatter toward the top, a few climbers small on the steps. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "family_1990_four_children",
+  "look": "P",
+  "file": "EP19_027_N02q05_family_1990_four_children.jpg",
+  "prompt": "A family standing in front of a tiled village house: a father, a mother and four children of different heights in a row, seen from far enough that the faces are small and soft. Tamil Nadu, South India, in the year 1990, shown like a faded colour photograph of that time: washed-out colours, soft focus, a slight yellow cast, nothing modern, no lettering of any kind, people in the clothes of 1990. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "family_today_one_child",
+  "look": "N",
+  "file": "EP19_028_N02q05_family_today_one_child.jpg",
+  "prompt": "A young couple and their one small child sitting together on the steps of a modern block of flats in the evening, seen from the side at some distance. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "classroom_empty_benches",
+  "look": "F",
+  "file": "EP19_029_N02q06_classroom_empty_benches.jpg",
+  "prompt": "A school classroom in late afternoon light with only five children sitting among many rows of empty wooden benches, seen from the back of the room. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "swing_still_park",
+  "look": "F",
+  "file": "EP19_030_N02q06_swing_still_park.jpg",
+  "prompt": "An empty swing hanging still in a quiet small park, one old man with a walking stick passing far behind it, long evening shadows. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "street_grey_heads",
+  "look": "F",
+  "file": "EP19_031_N02q07_street_grey_heads.jpg",
+  "prompt": "A busy pavement in a South Indian city of 2050 seen from just above head height and from behind, where most of the heads in the crowd have grey or white hair. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "elder_hand_child_hand",
+  "look": "N",
+  "file": "EP19_032_N02q08_elder_hand_child_hand.jpg",
+  "prompt": "Close view of a wrinkled old hand holding the small hand of a child as they walk, a blurred sunlit lane behind, hands only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "paatti_55_kitchen",
+  "look": "N",
+  "file": "EP19_033_N03q00_paatti_55_kitchen.jpg",
+  "prompt": "A Tamil woman of 55 in a plain cotton sari, her black hair in a bun with the first grey at the temples, pouring filter coffee between a steel tumbler and cup in a small kitchen at dawn, seen from the side. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "paatti_79_veranda",
+  "look": "F",
+  "file": "EP19_034_N03q00_paatti_79_veranda.jpg",
+  "prompt": "A Tamil woman of 79 with white hair in a small bun and a plain cotton sari, sitting calmly in a cane chair on a shaded veranda with a walking stick against her knee, seen from the side in soft morning light. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "elders_park_exercise",
+  "look": "W",
+  "file": "EP19_035_N03q01_elders_park_exercise.jpg",
+  "prompt": "Dozens of elderly men and women doing slow morning exercises together in a misty city park, seen from behind. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "elders_hall_chairs",
+  "look": "W",
+  "file": "EP19_036_N03q01_elders_hall_chairs.jpg",
+  "prompt": "A large plain waiting hall filled with rows of elderly people sitting on chairs, seen from behind, white and grey heads in soft window light. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "school_gate_grandparents",
+  "look": "F",
+  "file": "EP19_037_N03q03_school_gate_grandparents.jpg",
+  "prompt": "The gate of a primary school at closing time: a crowd of grey-haired grandparents waiting outside and only three small children in uniform coming out, seen from behind the waiting crowd. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "tea_stall_old_men",
+  "look": "N",
+  "file": "EP19_038_N03q03_tea_stall_old_men.jpg",
+  "prompt": "A village tea stall in Tamil Nadu with five old men in white veshtis on the wooden bench, an empty dusty playground with a rusting slide behind them, no children anywhere. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "temple_steps_elders_evening",
+  "look": "N",
+  "file": "EP19_039_N03q04_temple_steps_elders_evening.jpg",
+  "prompt": "Old men and women sitting together on the granite steps of a small-town temple hall in Tamil Nadu at evening, talking, an oil lamp lit in a wall niche, seen from the side at a distance. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 40,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "thinnai_couple_alone",
+  "look": "N",
+  "file": "EP19_040_N03q04_thinnai_couple_alone.jpg",
+  "prompt": "An elderly couple sitting alone on the raised front veranda of a big old ancestral house in a Tamil village, the street empty, the old man holding a phone whose glow lights his hands, seen from across the street. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N03",
+  "q": 4,
+  "k": 2,
+  "name": "lagoon_elder_fisherman",
+  "look": "O",
+  "file": "EP19_041_N03q04_lagoon_elder_fisherman.jpg",
+  "prompt": "The west coast of Sri Lanka at dawn: an old fisherman with white hair, seen from behind, mending a net beside narrow wooden outrigger canoes pulled up on a lagoon shore under coconut palms, calm water. No signboards and no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "ledger_shelves_office",
+  "look": "D",
+  "file": "EP19_042_N03q05_ledger_shelves_office.jpg",
+  "prompt": "Tall shelves in an old records office packed with thick cloth-bound ledgers tied with tape, dust in a shaft of light, the spines blank. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N03",
+  "q": 5,
+  "k": 1,
+  "name": "school_photo_1990_wall",
+  "look": "P",
+  "file": "EP19_043_N03q05_school_photo_1990_wall.jpg",
+  "prompt": "A framed school group photograph hanging on a lime-washed wall: four rows of children in uniform with two teachers, every face too small and soft to make out, a dried garland on the frame. Tamil Nadu, South India, in the year 1990, shown like a faded colour photograph of that time: washed-out colours, soft focus, a slight yellow cast, nothing modern, no lettering of any kind, people in the clothes of 1990. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "man_mirror_first_grey",
+  "look": "N",
+  "file": "EP19_044_N03q06_man_mirror_first_grey.jpg",
+  "prompt": "A man in his late thirties in a shirt, seen from behind at a bathroom mirror, touching the first grey hairs at his temple, his reflected face soft in the dim mirror. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "phone_dark_reflection",
+  "look": "N",
+  "file": "EP19_045_N03q06_phone_dark_reflection.jpg",
+  "prompt": "A hand holding a phone whose screen has just gone dark, the black glass showing only the faint soft outline of a head reflected in it, seen from the holder's own point of view. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 46,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "grandmother_brisk_walk",
+  "look": "F",
+  "file": "EP19_046_N03q07_grandmother_brisk_walk.jpg",
+  "prompt": "A fit silver-haired woman in a sari and sports shoes walking briskly along a tree-lined seafront path at sunrise, seen from behind. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "birthday_lamp_family",
+  "look": "N",
+  "file": "EP19_047_N03q07_birthday_lamp_family.jpg",
+  "prompt": "A very old man seated in a chair in a living room while three generations of his family stand around him, a small cake with a single candle on the table, seen from behind the family. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 48,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "metro_morning_workers",
+  "look": "N",
+  "file": "EP19_048_N03q08_metro_morning_workers.jpg",
+  "prompt": "Young office workers streaming out of a metro station on to a city street in the morning, seen from behind. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "pension_counter_queue",
+  "look": "N",
+  "file": "EP19_049_N03q08_pension_counter_queue.jpg",
+  "prompt": "A line of elderly people standing patiently before a plain office counter with a grille, seen from behind, a ceiling fan above. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N03",
+  "q": 9,
+  "k": 0,
+  "name": "nila_helps_paatti_steps",
+  "look": "F",
+  "file": "EP19_050_N03q09_nila_helps_paatti_steps.jpg",
+  "prompt": "Nila seen from behind, carrying a cloth shopping bag in one hand and with the other arm supporting a small white-haired old woman in a sari as they climb a few steps to a doorway in the evening. The young woman is the same as in the reference picture: Nila, a Tamil woman of 24 with warm brown skin, a long black plait down her back, a mustard-yellow cotton kurta over dark blue trousers and a small grey cloth shoulder bag. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "nila"
+  ]
+ },
+ {
+  "n": 51,
+  "clip": "N03",
+  "q": 9,
+  "k": 1,
+  "name": "skyline_cranes_dusk",
+  "look": "F",
+  "file": "EP19_051_N03q09_skyline_cranes_dusk.jpg",
+  "prompt": "The skyline of a growing South Indian city at dusk: half-built towers, a dozen construction cranes black against an orange sky, lights coming on in the older houses below, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "bus_stand_families_dawn",
+  "look": "N",
+  "file": "EP19_052_N04q01_bus_stand_families_dawn.jpg",
+  "prompt": "Village families with cloth bundles, steel trunks and small children climbing down from a long-distance bus at a big city bus stand at dawn, seen from behind. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N04",
+  "q": 1,
+  "k": 1,
+  "name": "city_edge_into_fields",
+  "look": "F",
+  "file": "EP19_053_N04q01_city_edge_into_fields.jpg",
+  "prompt": "An aerial view of the edge of a spreading city: new blocks of flats and unfinished concrete frames pushing out into green paddy fields and palm groves, a new road cutting through, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "tower_blocks_rows",
+  "look": "F",
+  "file": "EP19_054_N04q02_tower_blocks_rows.jpg",
+  "prompt": "Endless rows of identical new apartment towers under construction, wrapped in scaffolding with cranes above them, fading into haze, tiny workers on the nearest floors. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "chennai_aerial_today",
+  "look": "N",
+  "file": "EP19_055_N04q02_chennai_aerial_today.jpg",
+  "prompt": "Chennai today seen from the air: a dense carpet of low flat roofs and trees reaching to a long straight beach and the sea, a river winding through, morning haze, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "brass_tap_one_drop",
+  "look": "D",
+  "file": "EP19_056_N04q03_brass_tap_one_drop.jpg",
+  "prompt": "An old brass tap against a dark wall with a single drop of water hanging from its mouth, a dry stone basin below. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "lake_bed_cracked",
+  "look": "N",
+  "file": "EP19_057_N04q04_lake_bed_cracked.jpg",
+  "prompt": "The bed of a great reservoir near Chennai completely dry: cracked grey mud to the horizon, a tilted measuring post without markings, a stranded wooden boat, harsh white sun, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N04",
+  "q": 4,
+  "k": 1,
+  "name": "pots_line_tanker",
+  "look": "N",
+  "file": "EP19_058_N04q04_pots_line_tanker.jpg",
+  "prompt": "A long line of bright plastic water pots standing in a row along a Chennai street, women in saris waiting beside them, seen from behind, a water tanker lorry with a plain tank at the end of the street. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "roofs_black_tanks",
+  "look": "N",
+  "file": "EP19_059_N04q05_roofs_black_tanks.jpg",
+  "prompt": "A sea of city rooftops crowded with black plastic water tanks and tangled pipes under a hard noon sun, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "borewell_rig_lane",
+  "look": "N",
+  "file": "EP19_060_N04q05_borewell_rig_lane.jpg",
+  "prompt": "A lorry-mounted borewell drilling rig working in a narrow residential lane, grey slurry running along the road, residents watching from doorways seen from behind. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N04",
+  "q": 5,
+  "k": 2,
+  "name": "dry_tap_empty_pot",
+  "look": "W",
+  "file": "EP19_061_N04q05_dry_tap_empty_pot.jpg",
+  "prompt": "A hand holding an empty plastic pot under a dry public tap on a dusty lane at the edge of a city, hand and pot only. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "river_thin_sandbanks",
+  "look": "N",
+  "file": "EP19_062_N04q06_river_thin_sandbanks.jpg",
+  "prompt": "A broad Indian river shrunk to one thin stream between wide pale sandbanks, a long road bridge crossing it, heat haze, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "farmer_dry_well",
+  "look": "N",
+  "file": "EP19_063_N04q06_farmer_dry_well.jpg",
+  "prompt": "A farmer in a lungi and head towel, seen from behind, standing at the stone rim of a deep open well and looking down into it, the bottom dry and dark. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "paddy_harvest_delta",
+  "look": "N",
+  "file": "EP19_064_N04q07_paddy_harvest_delta.jpg",
+  "prompt": "Harvest in the Kaveri delta: a golden paddy field with a line of workers cutting and carrying sheaves, coconut palms behind, seen from a distance. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N04",
+  "q": 7,
+  "k": 1,
+  "name": "rice_leaf_hand",
+  "look": "D",
+  "file": "EP19_065_N04q07_rice_leaf_hand.jpg",
+  "prompt": "A fresh banana leaf with a mound of steaming white rice, and a hand reaching in from the right edge about to take the first mouthful, hand only. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "field_cracked_half_green",
+  "look": "N",
+  "file": "EP19_066_N04q08_field_cracked_half_green.jpg",
+  "prompt": "A paddy field in Tamil Nadu split down the middle: one half cracked dry earth with dead stubble, the other half still green, a farmer small on the bund between them. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N04",
+  "q": 8,
+  "k": 1,
+  "name": "canal_low_sluice",
+  "look": "N",
+  "file": "EP19_067_N04q08_canal_low_sluice.jpg",
+  "prompt": "An old stone and iron sluice gate on an irrigation canal in the delta with only a shallow trickle of water passing under it, the wet marks of a higher level on the stones, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "graduates_gate_folders",
+  "look": "N",
+  "file": "EP19_068_N04q09_graduates_gate_folders.jpg",
+  "prompt": "A long queue of young men and women in neat clothes holding plain file folders, waiting outside a closed factory gate in the morning, seen from behind. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N04",
+  "q": 9,
+  "k": 1,
+  "name": "robot_arm_worker",
+  "look": "F",
+  "file": "EP19_069_N04q09_robot_arm_worker.jpg",
+  "prompt": "A clean factory hall where an orange industrial robot arm and a worker in overalls, seen from behind, stand side by side at the same assembly line, sparks from a weld. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "nila_desk_unknown_work",
+  "look": "F",
+  "file": "EP19_070_N05q00_nila_desk_unknown_work.jpg",
+  "prompt": "Nila seen from behind at a wide desk by a window, working with both hands on a translucent model of a city block while a thin screen beside her shows only soft abstract shapes. The young woman is the same as in the reference picture: Nila, a Tamil woman of 24 with warm brown skin, a long black plait down her back, a mustard-yellow cotton kurta over dark blue trousers and a small grey cloth shoulder bag. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "nila"
+  ]
+ },
+ {
+  "n": 71,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "bank_counters_closed",
+  "look": "N",
+  "file": "EP19_071_N05q01_bank_counters_closed.jpg",
+  "prompt": "A row of old bank teller counters with their shutters down and the chairs empty in a quiet hall, one self-service machine glowing at the end with a blank screen, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N05",
+  "q": 1,
+  "k": 1,
+  "name": "solar_fitters_roof",
+  "look": "F",
+  "file": "EP19_072_N05q01_solar_fitters_roof.jpg",
+  "prompt": "Two technicians in helmets, seen from behind, fixing solar panels on the flat roof of a building, the city spread out beyond them. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "evening_class_adults",
+  "look": "N",
+  "file": "EP19_073_N05q02_evening_class_adults.jpg",
+  "prompt": "Working adults of different ages sitting in an evening classroom with laptops open, seen from the back of the room, tube light, a ceiling fan. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "road_into_fog",
+  "look": "W",
+  "file": "EP19_074_N05q03_road_into_fog.jpg",
+  "prompt": "A straight country road disappearing into thick white fog at dawn, one cyclist small ahead and already half lost in it. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "blackboard_empty_chalk",
+  "look": "D",
+  "file": "EP19_075_N05q03_blackboard_empty_chalk.jpg",
+  "prompt": "A clean empty blackboard in a wooden frame with one piece of white chalk on its ledge, nothing written on it. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "coins_stacks_globe",
+  "look": "D",
+  "file": "EP19_076_N05q04_coins_stacks_globe.jpg",
+  "prompt": "Stacks of coins of different heights standing in front of an old desk globe, the tallest stacks catching the light. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "china_megacity_dusk",
+  "look": "W",
+  "file": "EP19_077_N05q04_china_megacity_dusk.jpg",
+  "prompt": "The skyline of a vast Chinese megacity at dusk seen across a wide river: a forest of very tall towers with lit windows, cargo barges on the water, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N05",
+  "q": 4,
+  "k": 2,
+  "name": "mumbai_bay_towers_dusk",
+  "look": "W",
+  "file": "EP19_078_N05q04_mumbai_bay_towers_dusk.jpg",
+  "prompt": "The skyline of Mumbai at dusk seen across the curve of the bay: a long line of high-rise towers above a sea-front road with moving lights, small fishing boats on the dark water, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 79,
+  "clip": "N05",
+  "q": 4,
+  "k": 3,
+  "name": "newyork_harbour_dusk",
+  "look": "W",
+  "file": "EP19_079_N05q04_newyork_harbour_dusk.jpg",
+  "prompt": "The skyline of New York at dusk seen from across the harbour: tight clusters of skyscrapers with lit windows above the water, a ferry crossing, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "towers_behind_tin_roofs",
+  "look": "N",
+  "file": "EP19_080_N05q05_towers_behind_tin_roofs.jpg",
+  "prompt": "Glass office towers rising directly behind a dense settlement of tin and tarpaulin roofs in an Indian city, washing lines and water drums in front, evening light, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N05",
+  "q": 5,
+  "k": 1,
+  "name": "labourer_palm_coins",
+  "look": "N",
+  "file": "EP19_081_N05q05_labourer_palm_coins.jpg",
+  "prompt": "Close view of a labourer's rough, dusty open palm holding a few small coins, hand only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N05",
+  "q": 5,
+  "k": 2,
+  "name": "college_steps_students",
+  "look": "F",
+  "file": "EP19_082_N05q05_college_steps_students.jpg",
+  "prompt": "Young students with shoulder bags climbing the broad steps of a college building in the morning, seen from behind. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "pylons_plain_sunset",
+  "look": "W",
+  "file": "EP19_083_N05q06_pylons_plain_sunset.jpg",
+  "prompt": "A line of tall electricity pylons crossing a wide plain at sunset, the wires catching the last light, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 84,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "coal_plant_towers",
+  "look": "W",
+  "file": "EP19_084_N05q06_coal_plant_towers.jpg",
+  "prompt": "A coal power station seen across flat fields: tall chimneys and wide cooling towers pouring white steam into a grey sky, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "solar_farm_plain",
+  "look": "F",
+  "file": "EP19_085_N05q07_solar_farm_plain.jpg",
+  "prompt": "A vast solar farm on a dry plain in Tamil Nadu, rows of blue panels to the horizon, a line of white wind turbines turning beyond them, palmyra palms in front, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N05",
+  "q": 7,
+  "k": 1,
+  "name": "village_roofs_solar",
+  "look": "F",
+  "file": "EP19_086_N05q07_village_roofs_solar.jpg",
+  "prompt": "A Tamil village of tiled roofs seen from a little above, every roof carrying a few solar panels, palmyra palms, a small temple tower, cattle in a lane. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "fuel_station_overgrown",
+  "look": "F",
+  "file": "EP19_087_N05q08_fuel_station_overgrown.jpg",
+  "prompt": "An old roadside fuel station long closed: two rusting pumps with blank faces under a faded empty canopy, weeds through the concrete, creepers on the pillars, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 88,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "electric_buses_depot",
+  "look": "F",
+  "file": "EP19_088_N05q08_electric_buses_depot.jpg",
+  "prompt": "A row of electric city buses plugged in to charging posts in a depot at dawn, small green lamps glowing on the chargers, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 89,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "pulse_wrist_fingers",
+  "look": "N",
+  "file": "EP19_089_N05q09_pulse_wrist_fingers.jpg",
+  "prompt": "Close view of two fingers feeling the pulse on a person's wrist, soft daylight, hands only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "child_phone_close",
+  "look": "N",
+  "file": "EP19_090_N06q00_child_phone_close.jpg",
+  "prompt": "A child of about eight lying on a bed in a dark room and holding a glowing phone very close to the face, the cold light on the cheeks and in the eyes, seen from the side. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 91,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "children_tablets_indoors",
+  "look": "N",
+  "file": "EP19_091_N06q02_children_tablets_indoors.jpg",
+  "prompt": "Three children sitting on the floor of a dim room, each bent over a glowing tablet, while through the window behind them an empty sunlit playground can be seen. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N06",
+  "q": 2,
+  "k": 1,
+  "name": "eye_test_glasses_child",
+  "look": "N",
+  "file": "EP19_092_N06q02_eye_test_glasses_child.jpg",
+  "prompt": "An eye clinic: an optician's hands fitting a round metal trial frame with lenses on a small child who is seen from the side, an eye chart on the far wall only a blur of pale marks. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 93,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "sweets_trays_shop",
+  "look": "N",
+  "file": "EP19_093_N06q03_sweets_trays_shop.jpg",
+  "prompt": "Trays of Indian sweets piled high behind the glass of a sweet shop counter and a row of bottled soft drinks without labels, a hand reaching for one, hand only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "sugar_meter_fingertip",
+  "look": "D",
+  "file": "EP19_094_N06q03_sugar_meter_fingertip.jpg",
+  "prompt": "A fingertip resting on the test strip of a small blood-sugar meter with a blank display, a lancet pen and a strip of tablets beside it on a table. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "petri_dishes_colonies",
+  "look": "D",
+  "file": "EP19_095_N06q04_petri_dishes_colonies.jpg",
+  "prompt": "Several glass petri dishes with pale colonies of bacteria growing on them, lit from below on a laboratory bench, one dish with small paper discs on it. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N06",
+  "q": 4,
+  "k": 1,
+  "name": "capsules_blister_table",
+  "look": "D",
+  "file": "EP19_096_N06q04_capsules_blister_table.jpg",
+  "prompt": "Blister strips of capsules and tablets scattered on a table, some of them empty and bent, a glass of water, no labels. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 97,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "ward_night_empty_bed",
+  "look": "N",
+  "file": "EP19_097_N06q05_ward_night_empty_bed.jpg",
+  "prompt": "A hospital ward at night with one neatly made empty bed under a dim lamp, a drip stand beside it, the other beds lost in shadow, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N06",
+  "q": 5,
+  "k": 1,
+  "name": "microscope_scientist_back",
+  "look": "W",
+  "file": "EP19_098_N06q05_microscope_scientist_back.jpg",
+  "prompt": "A scientist in a white coat, seen from behind, bent over a microscope in a quiet laboratory at night, shelves of glassware around. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "hands_soap_tap",
+  "look": "N",
+  "file": "EP19_099_N06q06_hands_soap_tap.jpg",
+  "prompt": "Close view of two hands being washed with soap under a running tap in a clinic basin, hands only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "village_clinic_nurse",
+  "look": "N",
+  "file": "EP19_100_N06q06_village_clinic_nurse.jpg",
+  "prompt": "A small village health centre in Tamil Nadu: a nurse in a white sari, seen from behind, attending to a young mother who holds a baby, a queue of women waiting on a bench in the shade. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "brass_scales_tilted",
+  "look": "D",
+  "file": "EP19_101_N06q07_brass_scales_tilted.jpg",
+  "prompt": "An old brass hand balance with two pans hanging level, perfectly still, against a dark background. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "sea_horizon_heavy_cloud",
+  "look": "C",
+  "file": "EP19_102_N06q07_sea_horizon_heavy_cloud.jpg",
+  "prompt": "A wide empty view of a calm grey sea under a low heavy bank of dark cloud, a thin line of light on the horizon, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "sea_wall_spray",
+  "look": "C",
+  "file": "EP19_103_N07q00_sea_wall_spray.jpg",
+  "prompt": "Big waves breaking against a sea wall of granite boulders on the Chennai coast and throwing up white spray, fishing boats pulled up behind the wall, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "harbour_post_tide_marks",
+  "look": "C",
+  "file": "EP19_104_N07q01_harbour_post_tide_marks.jpg",
+  "prompt": "A weathered concrete harbour post standing in the water, its lower part dark with weed and barnacles in bands that show how high the water reaches, small waves, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 105,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "open_ocean_aerial",
+  "look": "W",
+  "file": "EP19_105_N07q01_open_ocean_aerial.jpg",
+  "prompt": "An aerial view of nothing but open ocean swell, grey-blue to a curved horizon under broken cloud, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 106,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "glacier_front_calving",
+  "look": "W",
+  "file": "EP19_106_N07q02_glacier_front_calving.jpg",
+  "prompt": "The high blue-white front of a glacier breaking off into a dark sea, a block of ice falling in a burst of spray, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 107,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "ice_sheet_melt_river",
+  "look": "W",
+  "file": "EP19_107_N07q02_ice_sheet_melt_river.jpg",
+  "prompt": "A bright blue river of meltwater winding across the white surface of an ice sheet and dropping into a deep hole in the ice, seen from the air, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 108,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "tn_coast_village_aerial",
+  "look": "C",
+  "file": "EP19_108_N07q03_tn_coast_village_aerial.jpg",
+  "prompt": "An aerial view of a fishing village on a narrow strip of sand between the open sea and a backwater: rows of small houses, boats on the beach, coconut palms, the surf very close to the first houses, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 109,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "palms_roots_eroded",
+  "look": "C",
+  "file": "EP19_109_N07q03_palms_roots_eroded.jpg",
+  "prompt": "Coconut palms at the edge of an eroded beach with their roots washed bare, one trunk already fallen into the surf, a broken cement wall, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 110,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "hand_span_wet_wall",
+  "look": "C",
+  "file": "EP19_110_N07q04_hand_span_wet_wall.jpg",
+  "prompt": "Close view of a hand stretched wide open, thumb to little finger, held flat against a damp house wall just above the dark line left by water, hand only. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind, fishing families in lungis and saris, seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "surge_street_night",
+  "look": "C",
+  "file": "EP19_111_N07q05_surge_street_night.jpg",
+  "prompt": "Sea water surging up a narrow coastal street between low houses at night in a cyclone, palms bent over by the wind, rain driving sideways, one street lamp still alight, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "flooded_city_road_wading",
+  "look": "N",
+  "file": "EP19_112_N07q05_flooded_city_road_wading.jpg",
+  "prompt": "A flooded main road in Chennai after heavy rain: brown water up to the doors of half-sunk cars and auto-rickshaws, people wading waist-deep with bags on their heads, seen from behind. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N07",
+  "q": 5,
+  "k": 2,
+  "name": "boats_hauled_black_sky",
+  "look": "C",
+  "file": "EP19_113_N07q05_boats_hauled_black_sky.jpg",
+  "prompt": "A group of fishermen, seen from behind, hauling a fibreglass boat high up the beach under a black cyclone sky, the sea white with foam. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind, fishing families in lungis and saris, seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "family_road_bundles",
+  "look": "W",
+  "file": "EP19_114_N07q06_family_road_bundles.jpg",
+  "prompt": "A family of five seen from behind, walking away along a dusty road between dry cracked fields, carrying bundles and a water pot, a goat on a rope. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos, any people small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "house_taken_by_sea",
+  "look": "C",
+  "file": "EP19_115_N07q06_house_taken_by_sea.jpg",
+  "prompt": "An abandoned concrete house standing half in the surf, waves washing through its empty doorway, the palm beside it dead, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 116,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "mangrove_planting_mud",
+  "look": "C",
+  "file": "EP19_116_N07q07_mangrove_planting_mud.jpg",
+  "prompt": "Villagers, seen from behind, planting rows of young mangrove saplings in grey mud at low tide, a line of older mangroves green behind them. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind, fishing families in lungis and saris, seen from behind or far away. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "embankment_trees_safe_houses",
+  "look": "F",
+  "file": "EP19_117_N07q07_embankment_trees_safe_houses.jpg",
+  "prompt": "A broad grassed sea embankment planted with trees, behind it a neat row of houses raised on high plinths with solar roofs, children's cycles outside, the sea calm beyond, late afternoon. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "old_hands_walking_stick",
+  "look": "N",
+  "file": "EP19_118_N07q08_old_hands_walking_stick.jpg",
+  "prompt": "Close view of two wrinkled hands folded over the curved handle of a wooden walking stick, soft window light, hands only. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "sea_lapping_house_wall",
+  "look": "C",
+  "file": "EP19_119_N07q08_sea_lapping_house_wall.jpg",
+  "prompt": "Sea water lapping quietly against the wall of a house at high tide, a dark tide line on the lime wash, a doorstep under water, no people. The coast of Tamil Nadu on the Bay of Bengal: grey-green sea, small fibreglass fishing boats, coconut and palmyra palms, low concrete and tiled houses, a heavy monsoon sky, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N07",
+  "q": 8,
+  "k": 2,
+  "name": "notebook_blank_pen",
+  "look": "D",
+  "file": "EP19_120_N07q08_notebook_blank_pen.jpg",
+  "prompt": "A notebook lying open at two completely blank pages with a pen resting across them, clear morning light from a window. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "nila_opens_shutters",
+  "look": "F",
+  "file": "EP19_121_N07q09_nila_opens_shutters.jpg",
+  "prompt": "Nila seen from behind, pushing open the two wooden shutters of a window with both hands, strong morning light pouring in around her so that the view outside is still hidden in the glare. The young woman is the same as in the reference picture: Nila, a Tamil woman of 24 with warm brown skin, a long black plait down her back, a mustard-yellow cotton kurta over dark blue trousers and a small grey cloth shoulder bag. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "nila"
+  ]
+ },
+ {
+  "n": 122,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "window_green_city",
+  "look": "F",
+  "file": "EP19_122_N07q09_window_green_city.jpg",
+  "prompt": "The view straight out through an open window frame over a South Indian coastal city of 2050 on a clear morning: trees along every street, solar roofs, an electric bus, clean blue sky, the sea bright in the distance, a potted tulsi plant on the sill, no people. A South Indian coastal city in the year 2050, shown as a believable near future and not as science fiction: the same kind of streets, flats and houses as today, only denser and taller, with solar panels on the roofs, electric buses and scooters, shade trees and an elevated metro line; no flying vehicles, no holograms, no walking robots, no neon, no chrome, no glass domes; no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N07",
+  "q": 9,
+  "k": 2,
+  "name": "window_grey_flood",
+  "look": "O",
+  "file": "EP19_123_N07q09_window_grey_flood.jpg",
+  "prompt": "The view straight out through an open window frame over a South Indian coastal city in the year 2050 on a bad morning: a brown haze over crowded grey buildings, the street below under dirty flood water, leafless dead trees, a dull red sun, a dry cracked plant pot on the sill, no people. A believable near future, not science fiction, no signboards and no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "assembly_hall_empty",
+  "look": "W",
+  "file": "EP19_124_N07q10_assembly_hall_empty.jpg",
+  "prompt": "A great empty assembly hall with curved rows of desks and empty chairs facing a bare podium, soft light from above, no emblems, no flags, no people. A documentary view of the world in the present day, natural light, no signboards, no lettering of any kind, no flags, no logos. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N07",
+  "q": 10,
+  "k": 1,
+  "name": "family_screen_glow_back",
+  "look": "N",
+  "file": "EP19_125_N07q10_family_screen_glow_back.jpg",
+  "prompt": "A family of four sitting close together on a sofa in a dark room, seen from behind, their outlines lit by the soft glow of a screen that is out of view. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N07",
+  "q": 11,
+  "k": 0,
+  "name": "newborn_cradle_dawn",
+  "look": "N",
+  "file": "EP19_126_N07q11_newborn_cradle_dawn.jpg",
+  "prompt": "A newborn baby wrapped in white cloth asleep in a small hospital cradle beside a window, the first light of dawn falling across the blanket, the face turned away. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags, ordinary Tamil people in everyday clothes: saris, salwar suits, shirts and trousers, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N07",
+  "q": 11,
+  "k": 1,
+  "name": "chennai_dawn_sea_air",
+  "look": "N",
+  "file": "EP19_127_N07q11_chennai_dawn_sea_air.jpg",
+  "prompt": "Chennai seen from the air at the first light of dawn: the dark city with its last street lamps, the long beach and the sea turning gold as the sun comes up over the Bay of Bengal, no people. Tamil Nadu, South India, in the present day: ordinary real life in natural light, real streets, homes and public places, no signboards, no name boards, no lettering of any kind, no brand names, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ }
+]

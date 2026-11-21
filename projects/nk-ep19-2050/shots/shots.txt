@@ -1,0 +1,129 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# Every picture is an illustration. 2050 (look F) is a believable near future, never science fiction. Nila and all other people are invented. No readable writing, no logos, no flags. The three film cliches (look S) are painted as fantasy. Lines with a full-screen graphic (hundred dots) and the chapter-word line of the hook (reuse) have no rows
+N01|0|hospital_night_window|N|a plain government maternity hospital in Chennai seen from the wet street at night, warm light in one upper window, an auto-rickshaw waiting under a street lamp, light rain, no people
+N01|0|newborn_hand_finger|N|close view of a newborn baby's tiny hand closed around its mother's finger on a white hospital sheet, soft lamp light, hands only, no face
+N01|1|nila_24_doorway|F@nila|Nila seen from behind, stepping out of the doorway of a flat into a bright morning street of 2050 lined with shade trees, an electric bus passing, her shoulder bag on her shoulder
+N01|1|tiffin_card_hands|F|close view of a young woman's hands holding a steel tiffin box and a blank plastic identity card on a ribbon, a bus stop bench blurred behind, hands only
+N01|2|nila_wakes_white_window|F@nila|Nila seen from behind sitting up in bed at dawn and looking toward a large window that is only blinding white light, so that nothing of the world outside can be seen yet
+N01|2|four_ages_bench|N|four people sitting side by side on a bench at a bus stop, seen from behind: a small girl, a young woman, a middle-aged man and a white-haired old man, morning light
+N01|3|flying_car_cliche|S|a shiny bubble-topped flying car hovering above a fantasy city of impossible glass spires, with fins and glowing jets, no people
+N01|3|robot_servant_cliche|S|a tall chrome humanoid robot in an apron carrying a tray of tea cups through a spotless white living room, no people
+N01|3|mars_house_cliche|S|a glass dome house with a little garden inside standing on the red desert of Mars under a pink sky with two small moons, no people
+N01|4|cinema_hall_beam|N|an old empty cinema hall in Tamil Nadu seen from the back row, the projector beam cutting through dust to a screen that glows with a blurred bright shape, rows of worn seats, no people
+N01|4|reports_graph_desk|D|a desk with a tall stack of thick printed reports, loose sheets with rising and falling curves drawn as plain lines without any numbers or words, a pencil, a calculator with a blank display and a glass of tea
+N01|5|potter_hands_wet_clay|N|close view of two hands shaping a wet clay pot on a turning potter's wheel, the form still soft and unfinished, hands and forearms only
+N01|6|hourglass_last_sand|D|an old brass and glass hourglass with almost all its sand already fallen into the lower bulb, the last thin thread of sand still running
+N01|6|footprints_set_cement|N|two footprints pressed long ago into a cement pavement and set hard, now dry and grey, fallen leaves beside them, no people
+N01|7|house_door_sandals|N|the half-open wooden door of a Tamil house at night with warm light inside, on the doorstep a pair of worn old leather sandals beside a pair of tiny child's sandals, no people
+N01|7|shore_night_city_lights|C|low waves running up a dark beach at night toward a stone sea wall, the lights of a large city behind it, no people
+N01|9|city_2050_sunrise_wide|F|a very wide view at sunrise over a South Indian coastal megacity of 2050: flats and towers with solar roofs reaching to the sea, lines of trees, an elevated metro line, a soft golden haze, no people
+N01|9|nila_terrace_city|F@nila|Nila seen from behind standing at the parapet of a rooftop terrace and looking out over the great city in the first sunlight, washing on a line beside her
+N02|0|crowd_crossing_top|W|a bird's-eye view looking straight down from high above onto a wide city street crossing completely packed with hundreds of people walking in every direction, long morning shadows
+N02|1|earth_blue_day|W|the whole Earth seen from space by day, the Indian Ocean and South Asia in the middle of the globe, white cloud bands, black space around it, no people
+N02|1|stadium_crowd_wide|W|an enormous crowd filling a vast open ground to the horizon at dusk, seen from high behind, tens of thousands of heads fading into haze
+N02|2|platform_rush_footbridge|N|an Indian suburban railway platform at rush hour seen from the footbridge above, the platform solid with commuters as a train comes in
+N02|2|cradles_ward_row|N|a long row of small metal cradles with newborn babies wrapped in cloth in a maternity ward, a nurse in a white sari seen from behind at the far end, morning light through tall windows
+N02|3|market_lane_above|N|a dense old market lane in an Indian city seen from an upper floor: cloth awnings, fruit carts, two-wheelers and a slow river of people filling it from wall to wall
+N02|3|india_night_orbit|W|the Indian subcontinent seen from orbit at night, its whole shape drawn in a dense web of golden city lights, Sri Lanka glowing at its tip, the dark sea around it, no people
+N02|4|hill_steps_flatten|N|a long flight of stone steps climbing a rocky hill to a small temple in Tamil Nadu, very steep at the bottom and growing gentler and flatter toward the top, a few climbers small on the steps
+N02|5|family_1990_four_children|P|a family standing in front of a tiled village house: a father, a mother and four children of different heights in a row, seen from far enough that the faces are small and soft
+N02|5|family_today_one_child|N|a young couple and their one small child sitting together on the steps of a modern block of flats in the evening, seen from the side at some distance
+N02|6|classroom_empty_benches|F|a school classroom in late afternoon light with only five children sitting among many rows of empty wooden benches, seen from the back of the room
+N02|6|swing_still_park|F|an empty swing hanging still in a quiet small park, one old man with a walking stick passing far behind it, long evening shadows
+N02|7|street_grey_heads|F|a busy pavement in a South Indian city of 2050 seen from just above head height and from behind, where most of the heads in the crowd have grey or white hair
+N02|8|elder_hand_child_hand|N|close view of a wrinkled old hand holding the small hand of a child as they walk, a blurred sunlit lane behind, hands only
+N03|0|paatti_55_kitchen|N|a Tamil woman of 55 in a plain cotton sari, her black hair in a bun with the first grey at the temples, pouring filter coffee between a steel tumbler and cup in a small kitchen at dawn, seen from the side
+N03|0|paatti_79_veranda|F|a Tamil woman of 79 with white hair in a small bun and a plain cotton sari, sitting calmly in a cane chair on a shaded veranda with a walking stick against her knee, seen from the side in soft morning light
+N03|1|elders_park_exercise|W|dozens of elderly men and women doing slow morning exercises together in a misty city park, seen from behind
+N03|1|elders_hall_chairs|W|a large plain waiting hall filled with rows of elderly people sitting on chairs, seen from behind, white and grey heads in soft window light
+N03|3|school_gate_grandparents|F|the gate of a primary school at closing time: a crowd of grey-haired grandparents waiting outside and only three small children in uniform coming out, seen from behind the waiting crowd
+N03|3|tea_stall_old_men|N|a village tea stall in Tamil Nadu with five old men in white veshtis on the wooden bench, an empty dusty playground with a rusting slide behind them, no children anywhere
+N03|4|temple_steps_elders_evening|N|old men and women sitting together on the granite steps of a small-town temple hall in Tamil Nadu at evening, talking, an oil lamp lit in a wall niche, seen from the side at a distance
+N03|4|thinnai_couple_alone|N|an elderly couple sitting alone on the raised front veranda of a big old ancestral house in a Tamil village, the street empty, the old man holding a phone whose glow lights his hands, seen from across the street
+N03|4|lagoon_elder_fisherman|O|the west coast of Sri Lanka at dawn: an old fisherman with white hair, seen from behind, mending a net beside narrow wooden outrigger canoes pulled up on a lagoon shore under coconut palms, calm water. No signboards and no lettering
+N03|5|ledger_shelves_office|D|tall shelves in an old records office packed with thick cloth-bound ledgers tied with tape, dust in a shaft of light, the spines blank
+N03|5|school_photo_1990_wall|P|a framed school group photograph hanging on a lime-washed wall: four rows of children in uniform with two teachers, every face too small and soft to make out, a dried garland on the frame
+N03|6|man_mirror_first_grey|N|a man in his late thirties in a shirt, seen from behind at a bathroom mirror, touching the first grey hairs at his temple, his reflected face soft in the dim mirror
+N03|6|phone_dark_reflection|N|a hand holding a phone whose screen has just gone dark, the black glass showing only the faint soft outline of a head reflected in it, seen from the holder's own point of view
+N03|7|grandmother_brisk_walk|F|a fit silver-haired woman in a sari and sports shoes walking briskly along a tree-lined seafront path at sunrise, seen from behind
+N03|7|birthday_lamp_family|N|a very old man seated in a chair in a living room while three generations of his family stand around him, a small cake with a single candle on the table, seen from behind the family
+N03|8|metro_morning_workers|N|young office workers streaming out of a metro station on to a city street in the morning, seen from behind
+N03|8|pension_counter_queue|N|a line of elderly people standing patiently before a plain office counter with a grille, seen from behind, a ceiling fan above
+N03|9|nila_helps_paatti_steps|F@nila|Nila seen from behind, carrying a cloth shopping bag in one hand and with the other arm supporting a small white-haired old woman in a sari as they climb a few steps to a doorway in the evening
+N03|9|skyline_cranes_dusk|F|the skyline of a growing South Indian city at dusk: half-built towers, a dozen construction cranes black against an orange sky, lights coming on in the older houses below, no people
+N04|1|bus_stand_families_dawn|N|village families with cloth bundles, steel trunks and small children climbing down from a long-distance bus at a big city bus stand at dawn, seen from behind
+N04|1|city_edge_into_fields|F|an aerial view of the edge of a spreading city: new blocks of flats and unfinished concrete frames pushing out into green paddy fields and palm groves, a new road cutting through, no people
+N04|2|tower_blocks_rows|F|endless rows of identical new apartment towers under construction, wrapped in scaffolding with cranes above them, fading into haze, tiny workers on the nearest floors
+N04|2|chennai_aerial_today|N|Chennai today seen from the air: a dense carpet of low flat roofs and trees reaching to a long straight beach and the sea, a river winding through, morning haze, no people
+N04|3|brass_tap_one_drop|D|an old brass tap against a dark wall with a single drop of water hanging from its mouth, a dry stone basin below
+N04|4|lake_bed_cracked|N|the bed of a great reservoir near Chennai completely dry: cracked grey mud to the horizon, a tilted measuring post without markings, a stranded wooden boat, harsh white sun, no people
+N04|4|pots_line_tanker|N|a long line of bright plastic water pots standing in a row along a Chennai street, women in saris waiting beside them, seen from behind, a water tanker lorry with a plain tank at the end of the street
+N04|5|roofs_black_tanks|N|a sea of city rooftops crowded with black plastic water tanks and tangled pipes under a hard noon sun, no people
+N04|5|borewell_rig_lane|N|a lorry-mounted borewell drilling rig working in a narrow residential lane, grey slurry running along the road, residents watching from doorways seen from behind
+N04|5|dry_tap_empty_pot|W|a hand holding an empty plastic pot under a dry public tap on a dusty lane at the edge of a city, hand and pot only
+N04|6|river_thin_sandbanks|N|a broad Indian river shrunk to one thin stream between wide pale sandbanks, a long road bridge crossing it, heat haze, no people
+N04|6|farmer_dry_well|N|a farmer in a lungi and head towel, seen from behind, standing at the stone rim of a deep open well and looking down into it, the bottom dry and dark
+N04|7|paddy_harvest_delta|N|harvest in the Kaveri delta: a golden paddy field with a line of workers cutting and carrying sheaves, coconut palms behind, seen from a distance
+N04|7|rice_leaf_hand|D|a fresh banana leaf with a mound of steaming white rice, and a hand reaching in from the right edge about to take the first mouthful, hand only
+N04|8|field_cracked_half_green|N|a paddy field in Tamil Nadu split down the middle: one half cracked dry earth with dead stubble, the other half still green, a farmer small on the bund between them
+N04|8|canal_low_sluice|N|an old stone and iron sluice gate on an irrigation canal in the delta with only a shallow trickle of water passing under it, the wet marks of a higher level on the stones, no people
+N04|9|graduates_gate_folders|N|a long queue of young men and women in neat clothes holding plain file folders, waiting outside a closed factory gate in the morning, seen from behind
+N04|9|robot_arm_worker|F|a clean factory hall where an orange industrial robot arm and a worker in overalls, seen from behind, stand side by side at the same assembly line, sparks from a weld
+N05|0|nila_desk_unknown_work|F@nila|Nila seen from behind at a wide desk by a window, working with both hands on a translucent model of a city block while a thin screen beside her shows only soft abstract shapes
+N05|1|bank_counters_closed|N|a row of old bank teller counters with their shutters down and the chairs empty in a quiet hall, one self-service machine glowing at the end with a blank screen, no people
+N05|1|solar_fitters_roof|F|two technicians in helmets, seen from behind, fixing solar panels on the flat roof of a building, the city spread out beyond them
+N05|2|evening_class_adults|N|working adults of different ages sitting in an evening classroom with laptops open, seen from the back of the room, tube light, a ceiling fan
+N05|3|road_into_fog|W|a straight country road disappearing into thick white fog at dawn, one cyclist small ahead and already half lost in it
+N05|3|blackboard_empty_chalk|D|a clean empty blackboard in a wooden frame with one piece of white chalk on its ledge, nothing written on it
+N05|4|coins_stacks_globe|D|stacks of coins of different heights standing in front of an old desk globe, the tallest stacks catching the light
+N05|4|china_megacity_dusk|W|the skyline of a vast Chinese megacity at dusk seen across a wide river: a forest of very tall towers with lit windows, cargo barges on the water, no people
+N05|4|mumbai_bay_towers_dusk|W|the skyline of Mumbai at dusk seen across the curve of the bay: a long line of high-rise towers above a sea-front road with moving lights, small fishing boats on the dark water, no people
+N05|4|newyork_harbour_dusk|W|the skyline of New York at dusk seen from across the harbour: tight clusters of skyscrapers with lit windows above the water, a ferry crossing, no people
+N05|5|towers_behind_tin_roofs|N|glass office towers rising directly behind a dense settlement of tin and tarpaulin roofs in an Indian city, washing lines and water drums in front, evening light, no people
+N05|5|labourer_palm_coins|N|close view of a labourer's rough, dusty open palm holding a few small coins, hand only
+N05|5|college_steps_students|F|young students with shoulder bags climbing the broad steps of a college building in the morning, seen from behind
+N05|6|pylons_plain_sunset|W|a line of tall electricity pylons crossing a wide plain at sunset, the wires catching the last light, no people
+N05|6|coal_plant_towers|W|a coal power station seen across flat fields: tall chimneys and wide cooling towers pouring white steam into a grey sky, no people
+N05|7|solar_farm_plain|F|a vast solar farm on a dry plain in Tamil Nadu, rows of blue panels to the horizon, a line of white wind turbines turning beyond them, palmyra palms in front, no people
+N05|7|village_roofs_solar|F|a Tamil village of tiled roofs seen from a little above, every roof carrying a few solar panels, palmyra palms, a small temple tower, cattle in a lane
+N05|8|fuel_station_overgrown|F|an old roadside fuel station long closed: two rusting pumps with blank faces under a faded empty canopy, weeds through the concrete, creepers on the pillars, no people
+N05|8|electric_buses_depot|F|a row of electric city buses plugged in to charging posts in a depot at dawn, small green lamps glowing on the chargers, no people
+N05|9|pulse_wrist_fingers|N|close view of two fingers feeling the pulse on a person's wrist, soft daylight, hands only
+N06|0|child_phone_close|N|a child of about eight lying on a bed in a dark room and holding a glowing phone very close to the face, the cold light on the cheeks and in the eyes, seen from the side
+N06|2|children_tablets_indoors|N|three children sitting on the floor of a dim room, each bent over a glowing tablet, while through the window behind them an empty sunlit playground can be seen
+N06|2|eye_test_glasses_child|N|an eye clinic: an optician's hands fitting a round metal trial frame with lenses on a small child who is seen from the side, an eye chart on the far wall only a blur of pale marks
+N06|3|sweets_trays_shop|N|trays of Indian sweets piled high behind the glass of a sweet shop counter and a row of bottled soft drinks without labels, a hand reaching for one, hand only
+N06|3|sugar_meter_fingertip|D|a fingertip resting on the test strip of a small blood-sugar meter with a blank display, a lancet pen and a strip of tablets beside it on a table
+N06|4|petri_dishes_colonies|D|several glass petri dishes with pale colonies of bacteria growing on them, lit from below on a laboratory bench, one dish with small paper discs on it
+N06|4|capsules_blister_table|D|blister strips of capsules and tablets scattered on a table, some of them empty and bent, a glass of water, no labels
+N06|5|ward_night_empty_bed|N|a hospital ward at night with one neatly made empty bed under a dim lamp, a drip stand beside it, the other beds lost in shadow, no people
+N06|5|microscope_scientist_back|W|a scientist in a white coat, seen from behind, bent over a microscope in a quiet laboratory at night, shelves of glassware around
+N06|6|hands_soap_tap|N|close view of two hands being washed with soap under a running tap in a clinic basin, hands only
+N06|6|village_clinic_nurse|N|a small village health centre in Tamil Nadu: a nurse in a white sari, seen from behind, attending to a young mother who holds a baby, a queue of women waiting on a bench in the shade
+N06|7|brass_scales_tilted|D|an old brass hand balance with two pans hanging level, perfectly still, against a dark background
+N06|7|sea_horizon_heavy_cloud|C|a wide empty view of a calm grey sea under a low heavy bank of dark cloud, a thin line of light on the horizon, no people
+N07|0|sea_wall_spray|C|big waves breaking against a sea wall of granite boulders on the Chennai coast and throwing up white spray, fishing boats pulled up behind the wall, no people
+N07|1|harbour_post_tide_marks|C|a weathered concrete harbour post standing in the water, its lower part dark with weed and barnacles in bands that show how high the water reaches, small waves, no people
+N07|1|open_ocean_aerial|W|an aerial view of nothing but open ocean swell, grey-blue to a curved horizon under broken cloud, no people
+N07|2|glacier_front_calving|W|the high blue-white front of a glacier breaking off into a dark sea, a block of ice falling in a burst of spray, no people
+N07|2|ice_sheet_melt_river|W|a bright blue river of meltwater winding across the white surface of an ice sheet and dropping into a deep hole in the ice, seen from the air, no people
+N07|3|tn_coast_village_aerial|C|an aerial view of a fishing village on a narrow strip of sand between the open sea and a backwater: rows of small houses, boats on the beach, coconut palms, the surf very close to the first houses, no people
+N07|3|palms_roots_eroded|C|coconut palms at the edge of an eroded beach with their roots washed bare, one trunk already fallen into the surf, a broken cement wall, no people
+N07|4|hand_span_wet_wall|C|close view of a hand stretched wide open, thumb to little finger, held flat against a damp house wall just above the dark line left by water, hand only
+N07|5|surge_street_night|C|sea water surging up a narrow coastal street between low houses at night in a cyclone, palms bent over by the wind, rain driving sideways, one street lamp still alight, no people
+N07|5|flooded_city_road_wading|N|a flooded main road in Chennai after heavy rain: brown water up to the doors of half-sunk cars and auto-rickshaws, people wading waist-deep with bags on their heads, seen from behind
+N07|5|boats_hauled_black_sky|C|a group of fishermen, seen from behind, hauling a fibreglass boat high up the beach under a black cyclone sky, the sea white with foam
+N07|6|family_road_bundles|W|a family of five seen from behind, walking away along a dusty road between dry cracked fields, carrying bundles and a water pot, a goat on a rope
+N07|6|house_taken_by_sea|C|an abandoned concrete house standing half in the surf, waves washing through its empty doorway, the palm beside it dead, no people
+N07|7|mangrove_planting_mud|C|villagers, seen from behind, planting rows of young mangrove saplings in grey mud at low tide, a line of older mangroves green behind them
+N07|7|embankment_trees_safe_houses|F|a broad grassed sea embankment planted with trees, behind it a neat row of houses raised on high plinths with solar roofs, children's cycles outside, the sea calm beyond, late afternoon
+N07|8|old_hands_walking_stick|N|close view of two wrinkled hands folded over the curved handle of a wooden walking stick, soft window light, hands only
+N07|8|sea_lapping_house_wall|C|sea water lapping quietly against the wall of a house at high tide, a dark tide line on the lime wash, a doorstep under water, no people
+N07|8|notebook_blank_pen|D|a notebook lying open at two completely blank pages with a pen resting across them, clear morning light from a window
+N07|9|nila_opens_shutters|F@nila|Nila seen from behind, pushing open the two wooden shutters of a window with both hands, strong morning light pouring in around her so that the view outside is still hidden in the glare
+N07|9|window_green_city|F|the view straight out through an open window frame over a South Indian coastal city of 2050 on a clear morning: trees along every street, solar roofs, an electric bus, clean blue sky, the sea bright in the distance, a potted tulsi plant on the sill, no people
+N07|9|window_grey_flood|O|the view straight out through an open window frame over a South Indian coastal city in the year 2050 on a bad morning: a brown haze over crowded grey buildings, the street below under dirty flood water, leafless dead trees, a dull red sun, a dry cracked plant pot on the sill, no people. A believable near future, not science fiction, no signboards and no lettering
+N07|10|assembly_hall_empty|W|a great empty assembly hall with curved rows of desks and empty chairs facing a bare podium, soft light from above, no emblems, no flags, no people
+N07|10|family_screen_glow_back|N|a family of four sitting close together on a sofa in a dark room, seen from behind, their outlines lit by the soft glow of a screen that is out of view
+N07|11|newborn_cradle_dawn|N|a newborn baby wrapped in white cloth asleep in a small hospital cradle beside a window, the first light of dawn falling across the blanket, the face turned away
+N07|11|chennai_dawn_sea_air|N|Chennai seen from the air at the first light of dawn: the dark city with its last street lamps, the long beach and the sea turning gold as the sun comes up over the Bay of Bengal, no people
