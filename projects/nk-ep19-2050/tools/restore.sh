@@ -11,6 +11,7 @@ GD=../../google_drive; ST=$GD/ep19_pics
 mkdir -p $ST/raw $ST/cast out/sheets out/up out/renders
 [ -e out/raw ] || ln -s ../$ST/raw out/raw
 [ -e out/cast ] || ln -s ../$ST/cast out/cast
+ln -sfn ../narration shared/vo; ln -sfn ../out/img shared/plates
 for z in $GD/EP19_B*_images_*.zip; do
   [ -f "$z" ] || continue
   python3 - "$z" "$ST" <<'PY'

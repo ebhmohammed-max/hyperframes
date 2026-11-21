@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 9 of 127 made.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 19 of 127 made.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -38,6 +38,7 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 |---|---|---|---|
 | cast | `nila` | `EP19_cast.zip` `1TvmKSx96mV-A0v0RUOY5diBljPwDZEN-` | |
 | B01 | 001–009 | `EP19_B01_images_001-009.zip` `11tOggwU-QtIT4zkkbF-DUDj_3peU-HdT` | all usable; 004 the hands look like a man's (line is about Nila): remake candidate |
+| B02 | 010–019 | `EP19_B02_images_010-019.zip` `10od336EGh6qUIC0aLxCnZo734ywacDpA` | all usable; 019 the crossing is not crowded enough for the "crowd" word and the title: remake candidate |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
