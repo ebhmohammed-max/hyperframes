@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 59 of 127 made.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 69 of 127 made.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -43,6 +43,7 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 | B04 | 030–039 | `EP19_B04_images_030-039.zip` `1XCYLxZCz-sds8kQfOgEkXp5-lswvc3wG` | all usable; 034 (grandmother at 79) was made with 033 (at 55) as reference so the two match |
 | B05 | 040–049 | `EP19_B05_images_040-049.zip` `1jkAZPKlPmPa1_pREzlW2-6SPO7gTmbxC` | all usable; 043 the garland on the school photograph reads as a memorial picture in a Tamil home: remake without it |
 | B06 | 050–059 | `EP19_B06_images_050-059.zip` `1HKbUbQxusDiJ6YJ7z3kLiDR4IwhJnLjq` | all usable; 050 made with `nila` and 034 as references |
+| B07 | 060–069 | `EP19_B07_images_060-069.zip` `1GdF-46QUNxaiQ6IRO2drqks9iclMPOW9` | all usable |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
@@ -60,7 +61,7 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → **`EP19_2050_Ula
 ## Changes after the first upload
 
 - 21 Nov: N03 line 4 was split in two (Tamil Nadu, then Sri Lanka) so that each has its own number card; the narration audio is unchanged. The script is now 70 lines; N03 lines after it moved up by one. Picture numbers did not change, but the file names inside the zips B04–B06 still carry the old line numbers for 041–051 (the number at the front is what counts). `EP19_SCRIPT_TA_v2.md` on Drive replaces `EP19_SCRIPT_TA.md`.
-- Graphics checked on stills for N01–N04 (chapter cards, bars, number cards, timeline, hundred dots incl. the growing 55 → 68, big number, subscribe pop-up): all correct.
+- Graphics checked on stills for N01–N04, all pictures in place (chapter cards, bars incl. the water bars, number cards, timeline, hundred dots incl. the growing 55 → 68, big numbers, subscribe pop-up): all correct. Note for stills: film time in N02–N07 = voice time + 2.3 s (chapter card).
 
 ## Open points
 
