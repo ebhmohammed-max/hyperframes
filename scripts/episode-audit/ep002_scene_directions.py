@@ -42,7 +42,9 @@ BAN = (
     "Fantasy antiquity only. Not Rome, not Greece, not medieval Europe, "
     "not the modern world. Every face unfamiliar and invented. No steel or "
     "iron helmets, no quilted field jackets, no military uniforms of any era, "
-    "no soldiers who could be from a real army."
+    "no soldiers who could be from a real army. NO EAGLES OR HERALDRY: no "
+    "eagle standards or legionary aquila, no double-headed eagles, no heraldic "
+    "banners or charges, no coats of arms, no sigils."
 )
 
 # Palette the whole episode lives in.
@@ -132,7 +134,7 @@ SCENES = {
     'lamplight, then grey'),
 40: ("The buried jar still closed in complete darkness under the floor, ash beginning to "
      "sift down through the boards onto its lid.", "black, one grey shaft of light"),
-41: ('Four captured Ghiscari war banners of ochre cloth hung in a row on a brick wall, each bearing a painted harpy with spread wings, four, all intact, none of them burned, faded crimson and ochre.',
+41: ('Four torn strips of dyed cloth hanging from iron hooks on a rough brick wall in a dim room, faded crimson and ochre and undyed linen, frayed at the hems and sun-bleached in uneven bands, the cloth stained and patched and mended by hand, no painted design and no emblem on any of them, just cloth. No heraldry, no crest, no coat of arms, no eagle, no double-headed eagle, no banner charge of any kind.',
     'faded crimson and ochre'),
 42: ('A Ghiscari council of war in a bare brick vault seen from behind at a low angle: six seated men in plain undyed robes with cropped dark hair, none of them seen from the front, a rough slab table between them carrying small clay blocks arranged as walls and streets, iron sconces on cracked plaster, no silver hair, no hooded cloaks in black, no dragon skull, no carved ornamental wall, no throne, no painted map, no gilded hall.',
     "warm firelight"),
@@ -146,20 +148,19 @@ SCENES = {
      "of smoke, the shore black.", "orange fire, black smoke, grey sea"),
 47: ("A collapsed brick house interior seen from above through the fallen roof, the floor "
      "broken, the jar below still sealed in the dark under it.", "grey ash, deep shadow"),
-48: ('A long column of Ghiscari captives on a desert road seen from behind and above: barefoot figures in ochre tunics with bundles on their heads, a dust plume, and further back a line of Valyrian riders on short desert horses, dark cloaks and pale silver hair, the road going on past the horizon, no faces legible.',
+48: ('A long column of Ghiscari captives on a desert road seen from behind and above: barefoot figures in undyed ochre tunics with bundles on their heads, a dust plume rising, and far back along the road a few Valyrian riders on short desert horses, seen only as small dark silhouettes, cropped dark hair and undyed travelling wraps, the road going on past the horizon, no faces legible. No pale or silver hair, no long white hair, no black cloaks, no capes, no hooded riders.',
     VALYRIA),
 49: ('A single vast square brick tower standing on an ash plain beside a grey sea, its face sheer and unstepped and its summit flat, the whole lower half sheared away and slumped into a long scree of brick, seen from a low angle, no pyramid, no ziggurat, no staircase up the face, no tiered terraces, no polished casing.',
     "ash grey, cold light"),
 50: ("A long refugee column walking a dusty road away from the camera in the last light, bundles and waterskins on their backs and a hand cart and a goat, plain cloaks and hoods of undyed wool, one child holding an adult's hand, the sea and a broken ochre city behind, seen from behind at a distance so no face is legible, no plastic bags, no nylon backpacks, no modern clothing, no vehicles.",
     "dusk, sea haze"),
-51: ("A small side-street temple in a lesser city with a bronze harpy above the door, "
-     "markets going on around it, coin weighed in a hand in the foreground.",
+51: ("A small side street of a lesser city in the afternoon, a plain clay-and-brick doorway with nothing above it, a back-alley market of baskets and clay jars and undyed cloth going on around it, a pair of hands in the foreground weighing a featureless gold disc on a small balance, the disc turned so nothing is struck on it, and every person in the street seen from behind or turned away, no face legible, no bronze bird over the door, no eagle, no standard, no emblem, no legionary aquila.",
      GHIS + ", ordinary afternoon"),
-52: ('A tall figure in a long black cloak seen from behind at a tall unglazed stone window above a calm black sea, one hand resting on the sill holding a bronze wine cup, pale silver-grey hair, head turned to the water, the face not visible at all and no profile and no chin in frame, black stone sill, golden hour on the horizon, the sea entirely still.',
+52: ('A broad-shouldered guard with a shaved head and a plain bronze circlet standing at a tall unglazed stone window above a calm black sea, seen from behind, one hand on the sill holding a clay cup, a coarse undyed wool wrap over a dark homespun tunic, no cloak, the face not visible, black stone sill, golden hour on the horizon, the sea entirely still. No silver hair, no pale grey hair, no long white hair, no braids, no black cloak, no cape, no hooded robe.',
     VALYRIA),
 53: ('A golden age Ghiscari coastline: busy harbours of flat-roofed ochre warehouses, fishing boats, full granaries, a dragon a distant speck in the sky, everything peaceful and slightly too quiet, no domes, no church towers.',
     'warm gold, blue sea'),
-54: ("A harpy-stamped gold coin lying flat on a scarred wooden market counter in close focus, a second and third identical coin further along the same counter as it recedes into the blurred distance, a shallow pan of grain beside them, a merchant's hands resting at the edge of frame, no faces, awnings above, everything resting solidly on the wood, no free-floating objects.",
+54: ("A shallow pan of pale grain on a scarred wooden market counter in close focus, a worn gold disc lying flat beside it with its face turned down against the wood so only the blank reverse and the milled rim show, a merchant's weathered hands resting at the edge of frame, awnings above, blurred stalls behind, nothing free-floating, no coin face visible at any point. No eagle, no bird, no winged figure, no profile head, no heraldry, no emblem struck on the metal.",
     'mixed warm light'),
 55: ('A hand passing a small gold coin to another hand across a market stall in low evening light, both forearms in coarse wool and a bronze wrist-ring, a small clay oil lamp with an open pinched spout burning on the boards between them, blurred stalls behind, no glass lamp, no glass chimney, no lantern glass, no metal shade.',
     "warm lamplight, dusk"),
