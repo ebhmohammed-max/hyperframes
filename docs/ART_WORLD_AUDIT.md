@@ -75,7 +75,7 @@ like anyone, and the shots become more cinematic for it.
 Scene 042 and 052 are the highest risk — a Valyrian council and a dragonlord at
 a window. Both should be composed so no face is legible.
 
-## Status — 69 of 70 verified, one open
+## Status — 70 of 70 verified
 
 This document previously claimed "all 70 pass". That claim was false twice, and
 both times it was written from thumbnails and from my own notes rather than
@@ -92,21 +92,33 @@ high-risk frames again at 900–1400 px failed three of them anyway:
 | 058 | a cloaked figure from behind | silver hair over a black cloak — the show's lead, regardless of the camera |
 | 070 | a coin in a case | a Roman denarius, laureate emperor in profile |
 
-All three were rewritten, regenerated and re-verified. 042 and 058 are clean.
-**070 is the one open defect**: its direction now specifies a harpy with raised
-fist and thunderbolt on the coin and a blank ivory label, but the image has not
-yet been regenerated, so the file on disk is still the denarius. It must not
-enter a render until it is replaced.
+All three were rewritten, regenerated and re-verified, and all three are clean.
 
-**Replaced across the two repair rounds (29 masters):**
+**070 took three attempts, and the two failures are the most useful thing in
+this document.** Attempt one, a harpy on a flat-on coin face, came back as a
+Roman denarius with a laureate emperor. Attempt two, with the heraldry spelled
+out in the negative list, came back as an **Athena tetradrachm** — a helmeted
+classical profile with a crest. Told exactly what not to draw, the model drew
+the next classical coin along. Only the third attempt worked, and it worked
+because the composition changed: a macro from directly above, the coin cropped
+to a bare arc, raking light so the relief is texture, and no person in the
+glass at all.
+
+The generalisation is uncomfortable and worth keeping: **for an object with a
+strong canonical form, no phrasing of the negative will save you.** A coin seen
+face-on is a portrait die; to not have a portrait, you have to not see the
+face. It is the same lesson as 005's pyramid and 042's war chamber, and it took
+a third failure to make it stick.
+
+**Replaced across the repair rounds (29 masters; 070 is in the list and is
+now the face-free macro, not the denarius):**
 
     005 007 009 010 012 015 016 018 019 023 024 028 029 033 034 035
     042 043 044 045 049 050 052 055 056 058 065 069 070
 
-Verified clean at full size: 005 007 009 010 012 015 016 018 019 023 024 029
-033 034 035 041 042 043 044 045 049 050 052 055 056 058 065 069, plus every
-scene in 001–004, 006, 008, 011, 013, 014, 017, 020–022, 025–027, 030–032,
-036–040, 046–048, 051, 053, 054, 057, 059–064, 066–068.
+Verified clean at full size, all 70: the 29 replacements above, plus 041, plus
+every scene in 001–004, 006, 008, 011, 013, 014, 017, 020–022, 025–027,
+030–032, 036–040, 046–048, 051, 053, 054, 057, 059–064, 066–068.
 
 **One correction to an earlier note in this file:** scene 049 is *not* a
 pyramid. "Pyramid", as a noun, produced Egypt or Mesoamerica three separate

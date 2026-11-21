@@ -66,8 +66,8 @@ and the copy it replaces is trashed then — not left for a later reconciliation
 Twenty-nine masters were replaced after the full-size audit (see
 `docs/ART_WORLD_AUDIT.md`). Each new file was uploaded and the copy it replaced
 trashed in the same pass, so every folder again holds exactly one master per
-scene. 070 is the exception: its image is still the pre-repair denarius and
-must be re-uploaded when regenerated.
+scene. 070 took three attempts — a denarius, then an Athena tetradrachm, then a
+face-free macro — so its id below is the third and final upload.
 
 | Scene | New Drive ID                        | Folder |
 | ----- | ----------------------------------- | ------ |
@@ -99,4 +99,4 @@ must be re-uploaded when regenerated.
 | 058   | `1WB04Y1_dQVD0A3rQqt-rUapYIa4dm9lY` | 06     |
 | 065   | `1P8QRxCLtruLqq_pHutXG6ubxbqcPnwig` | 07     |
 | 069   | `16VpdE3uR3RqL-I2SwoJhtc8SUIM9Xliy` | 07     |
-| 070   | **pending regeneration**            | 07     |
+| 070   | `1U4Gx3El0eOVnHUb_QI2L60VQOzHK_dDb` | 07     |
