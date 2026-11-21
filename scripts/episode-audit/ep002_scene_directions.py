@@ -43,11 +43,10 @@ GHIS = "warm ochre and terracotta brick, dusty gold light, deep blue-violet shad
 VALYRIA = "black volcanic rock, cold grey-blue haze, ember orange glow"
 
 SCENES = {
-1: ("A worn gold coin half-buried in grey volcanic ash inside a collapsed room of mud brick, the coin's face a winged woman with a raised fist and a thunderbolt, a broken clay water jar and a splintered wooden beam beside it, no tools, nobody present, daylight falling through the broken roof.",
+1: ('A collapsed room of mud brick choked with grey volcanic ash, a heavy gold disc lying in the ash at a steep angle so only its rim and the underside of its edge catch the light, the struck design turned away from the camera and lost in shadow, a broken clay water jar and a splintered wooden beam beside it, no tools, nobody present, daylight falling through the broken roof. The disc reads as a blank slug of gold with a milled edge, never a coin face, no figure on it, no gods or winged women, no letters or symbols.',
     GHIS),
-2: ("Close macro of a thumb turning a gold coin in a palm, the harpy and thunderbolt "
-    "almost worn smooth, grey ash dust on the fingers, dark background.",
-    "gold, ash grey, near-dark"),
+2: ("A close view of two grimy ash-caked hands turning something small over in the palms, the object mostly closed inside the fingers and half lost in shadow, only a sliver of warm gold and the milled edge showing between the knuckles, so nothing struck on it can be made out, deep shadow behind. No coin face visible, no standing winged figure, no goddess, no letters, no inscription, no Greek or Roman coinage.",
+    "gold on black"),
 3: ('A vast desert battlefield at dusk seen from high above, thousands of long iron spear shafts still planted upright in the dust where a Ghiscari phalanx stood, lockstep ranks with gaps in them, no bodies, long shadows, nobody left.',
     GHIS),
 4: ('A slow wide river crossing a flat plain of cracked clay, long low brick drying sheds and stacked clay tiles along the bank, coated in dust, a single flat-bottomed reed boat, low sun, haze on the horizon, no machinery.',
