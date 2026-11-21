@@ -185,6 +185,6 @@ SCENES = {
      "unable to be joined, dark background.", "dark, single light"),
 69: ('The ash plain of the ruined city at dusk, a bronze harpy statue with spread wings alone on a broken square brick plinth in the middle distance, cracked brick rubble and broken walls around it to the horizon, no staircase on the plinth and no tiered platforms and no pyramid and no stepped pyramid, no classical columns, no temple colonnade, last light on the bronze.',
     GHIS + ", last light"),
-70: ("The coin in a museum case on dark velvet with a small blank ivory label beneath it and nothing written on it, a visitor's blurred reflection faintly visible in the glass, the coin's face showing a winged woman with a raised fist and a thunderbolt, no laurel wreath, no emperor's profile, no classical portrait bust, no Latin letters.",
-    "dark, museum spot"),
+70: ('The coin inside its museum case at night, lying flat on dark velvet and seen from directly above so only a bare arc of the struck metal shows, the lighting raking across the surface so the relief reads as pure texture and the figure on it cannot be recognised, a blank cream label with no writing beside it, the glass throwing back only the ceiling lights and no person at all. No face anywhere in the frame, no reflection of a visitor, no profile, no helmet, no wreath, no classical portrait.',
+    "dark, museum spot")
 }
