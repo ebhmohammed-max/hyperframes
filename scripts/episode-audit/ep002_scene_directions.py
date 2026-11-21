@@ -159,8 +159,8 @@ SCENES = {
     "warm lamplight, dusk"),
 56: ('Men at the bottom of a hand-dug excavation pit cut down through grey ash to a burnt brick floor, a wide-mouthed clay jar lying on its side in the earth, long-handled spades and a pick still in the soil and a hand brush, sides of the pit heaped ash and loose rubble, hazy daylight from above, the workers small and faceless in silhouette, the pit walls and ash bed filling most of the frame.',
     "ash grey"),
-57: ("Extreme close-up of the harpy face of the coin, wings, raised fist, thunderbolt, "
-     "worn nearly smooth, held between two fingers against black.", "gold on black"),
+57: ('The gold coin held between two fingers against black, turned almost edge-on and tilted away from the lens so the struck face is foreshortened to a sliver, the light catching only the sheen of the metal and the milled edge and a shallow blur where the design would be, the design itself never resolved into a readable figure, in the hands of an anonymous worker whose fingertips are shadowed and out of focus. No standing winged figure, no goddess in robes, no draped chiton, no winged victory, no monogram or letters in the field, no Greek key border, no legible design at all.',
+     "gold on black"),
 58: ("A dragonlord standing at a cracked parapet above a conquered city at dusk, seen from behind and from a distance so the figure is small: shaved head with a plain bronze circlet, coarse dark breeches and a lye-stained workman's coat, one hand flat on the brick, smoke rising from the roofs below, no silver hair, no platinum hair, no long white hair, no black cloak.",
     VALYRIA + ", dusty gold"),
 59: ("A coin on a merchant's scale beside grain weights, a hand adding weights, the coin "
