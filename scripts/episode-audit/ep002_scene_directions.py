@@ -80,7 +80,7 @@ SCENES = {
     "grey light, ember red"),
 14: ("A single large oval wicker-and-hide shield lying flat in the sand, painted ochre and black, its owner's formation gone, footprints leading away in perfect order, ash haze in the air.",
     GHIS),
-15: ('Ghiscari engineers working a massive torsion catapult of braided sinew and timber on a mud-brick tower, its throwing arm hauled back by a windlass, seen from the side at a distance, men hauling on ropes, dust below, ochre city wall beyond, no wheeled field gun, no bolt-thrower, no ballista, no artillery carriage, no iron frame.',
+15: ('Ghiscari engineers working a massive torsion catapult of braided sinew and timber on a mud-brick tower, its throwing arm hauled back by a wooden windlass, seen from the side at a distance, four bareheaded men hauling on ropes in loose undyed tunics with bare arms and bare feet, cropped dark hair, dust below, ochre city wall beyond. No helmets, no metal caps, no iron or steel headgear, no uniforms, no boots, no wheeled field gun, no bolt-thrower, no ballista, no artillery carriage, no iron frame.',
     GHIS),
 16: ('A treaty being sealed in a high cool hall of ochre brick and carved cedar: two seated envoys in heavy robes seen from behind and in profile, their faces hidden in shadow, a clay tablet of clauses between them, two seal stones, hands not quite touching, two spearmen standing back in the half-light in plain unadorned tunics with no armour and no shields, bare plaster walls with no carving and no bas-relief and no painted frieze on them.',
     GHIS),
