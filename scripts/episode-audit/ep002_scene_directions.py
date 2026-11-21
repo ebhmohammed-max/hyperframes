@@ -27,7 +27,12 @@ STYLE = (
     "not minarets, not Chinese or Japanese, not Nordic or Icelandic, not "
     "European. NO RECOGNISABLE PEOPLE: every face must be an unfamiliar "
     "invented person, never a real actor, never a celebrity likeness, never a "
-    "portrait of a known performer. No invented lettering of any kind."
+    "portrait of a known performer. No invented lettering of any kind. "
+    "NO COIN DESIGN: any coin is struck with no recognisable figure and no "
+    "reading of any kind, no profile head, no helmet, no laurel wreath, no "
+    "winged victory or Nike, no standing goddess, no Greek lettering, no "
+    "monogram, no classical die; a coin may show only a worn abstract mark or "
+    "be turned so its face cannot be seen."
 )
 
 # Folded into every prompt. These are the specific pulls the model makes when
@@ -35,7 +40,9 @@ STYLE = (
 # medieval Europe, for a Mediterranean souk, or for a Victorian interior.
 BAN = (
     "Fantasy antiquity only. Not Rome, not Greece, not medieval Europe, "
-    "not the modern world. Every face unfamiliar and invented."
+    "not the modern world. Every face unfamiliar and invented. No steel or "
+    "iron helmets, no quilted field jackets, no military uniforms of any era, "
+    "no soldiers who could be from a real army."
 )
 
 # Palette the whole episode lives in.
@@ -55,7 +62,7 @@ SCENES = {
     GHIS),
 6: ('A Ghiscari slave market seen from above and behind the buyers: a crowd of men with shaved heads in ochre tunics standing in loose lines in a walled dust yard, buyers in robes with their backs to the camera, one hand pressing a bone stylus into a wet clay tablet, bronze coins on a low table, harsh noon, no face legible, no turbans, no draped headcloths.',
     GHIS),
-7: ('Ghiscari infantry in a shuffling column on a dry desert road, seen from behind and low: bare shaved heads and hoods under plain hemispherical iron caps with no crest and no brim, stiffened hide coats over undyed tunics, tall wicker shields on their backs, dust rising in a long plume, ochre hills beyond, no metal-plated armour, no horsehair, no helmets of riveted plate, unfamiliar soldiers of no earthly nation.',
+7: ('Ghiscari villagers fleeing a dust road at dusk, seen from behind and from low: bare shaved heads and roughly cropped hair, no headgear of any kind, coarse unbleached tunics and undyed wool shawls, bare feet and legs, bundles and a tall woven wicker back-basket, dust rising in a long plume, ochre hills beyond, no helmets, no metal caps, no coats, no boots, no straps or webbing, no military kit of any era, unfamiliar people of an invented world.',
     GHIS),
 8: ('A dry volcanic peninsula across calm green sea: black basalt cliffs, terraced slopes of scorched grass and olive-like scrub, goats, a cluster of flat-roofed brick houses, thin smoke rising from the far mountains, warm haze.',
     VALYRIA),
@@ -67,8 +74,8 @@ SCENES = {
      "stone mole and a lighthouse, tension in the still water.", "grey-green sea, amber sky"),
 12: ("A Ghiscari officer seen from behind on a mud-brick street at night, bareheaded, a coarse undyed wool shawl across his shoulders and a torch in one hand, and along the wall a line of exhausted labourers resting on the ground, bare heads, loose homespun tunics of undyed cloth, no footwear, knucklebones scattered on the packed earth, every head turned away or down, and high above the rooftops a vast slow wing-shadow crossing the moonlit sky. Nothing of any army on earth in this frame: no helmets of any kind, no metal headgear, no quilted jackets, no field uniform, no webbing or straps, no boots, no twentieth-century soldier.",
     GHIS),
-13: ('Ghiscari infantry holding formation on an open shore while enormous wing-shadows sweep across them, iron spears still upright, oval wicker shields raised, faces upturned and unfamiliar, no enemy visible on the ground, smoke and firelight falling from above.',
-    'grey smoke, orange firelight from above'),
+13: ('An open shore at dusk seen from low behind a crowd of ordinary people standing together, the backs of shaved and roughly cropped heads and coarse undyed tunics filling the lower frame, a few arms raised, everything upturned toward the sky where enormous wing-shadows sweep across the clouds and smoke falls red, and not one of them wearing armour or holding a weapon, no helmets, no metal caps, no mail, no spears, no uniforms, no soldier of any real army, every face turned away or lost in shadow.',
+    "grey light, ember red"),
 14: ("A single large oval wicker-and-hide shield lying flat in the sand, painted ochre and black, its owner's formation gone, footprints leading away in perfect order, ash haze in the air.",
     GHIS),
 15: ('Ghiscari engineers working a massive torsion catapult of braided sinew and timber on a mud-brick tower, its throwing arm hauled back by a windlass, seen from the side at a distance, men hauling on ropes, dust below, ochre city wall beyond, no wheeled field gun, no bolt-thrower, no ballista, no artillery carriage, no iron frame.',
@@ -113,7 +120,7 @@ SCENES = {
     GHIS),
 34: ('A market of dried goods and clay: stalls of stacked clay amphorae, bowls of dates and figs and coarse salt, hanging bundles of dried fish, harpy-stamped bronze coins on a counter, a hand weighing one in a small balance scale, no tomatoes, no peppers, no potatoes, no maize, no green vegetables, ordinary ancient prosperity.',
     GHIS),
-35: ('Ghiscari children seated on a clay bench in a mud-brick room being taught to count from a wall of tally marks scratched into plaster, an old master with a wooden pointer, clay counting tablets on their knees, rows of counters in a shallow tray, dusty air through a narrow unglazed opening, no painted warriors, no frieze of soldiers, no shields on the wall.',
+35: ('Children sitting on a clay bench in a mud-brick room, seen from behind so only the backs of their heads and shoulders show, an old teacher at the wall in shadow with no face visible, one hand drawing simple tally strokes on a plastered wall, a few clay counting tokens and a string of beads on the bench beside them, warm light from a high slot, no letters or writing of any alphabet, marks are plain notches only.',
     GHIS),
 36: ('An idle Ghiscari watchtower of mud brick with a flat timber platform: a guard asleep sitting up at his post, knucklebones on the step, no enemy in any direction, the desert horizon empty, late afternoon.',
     'grey-blue, long afternoon'),
@@ -164,8 +171,8 @@ SCENES = {
     VALYRIA + ", dusty gold"),
 59: ("A coin on a merchant's scale beside grain weights, a hand adding weights, the coin "
      "just a lump of metal, no reverence.", "brown and gold, market light"),
-60: ("Many hands over time passing the same small coin, a composite: soldier, fishwife, "
-     "child, sailor, all in different light, the coin always the same.", "warm varied light"),
+60: ("Many hands over time passing the same small coin, a tight sequence of anonymous hands in different light — a broad workman's palm, a woman\'s fingers, a child's, a sailor's rope-scarred grip — and the coin always the same featureless worn gold disc, its face never turned to the lens, no figure and no lettering on it at any point, deep shadow behind.",
+    "warm varied light"),
 61: ('A wide slow river at dawn, willows on the muddy bank and flat-bottomed boats of lashed reed and timber pulled up on it, and far across the water a low foreign city of flat-topped brick towers and long walls rising out of the river mist, no domes, no minarets, no spires, no battlements, an entirely different country, green-grey water, dawn gold.',
     'green-grey water, dawn gold'),
 62: ('A Valyrian dragonlord standing very still on black basalt at the rim of a lava field, seen small in the frame from a distance and slightly behind, a black-cloaked figure with silver hair against the ember glow, close-fitting dark scale armour with no ornament and no helmet, the calm of someone who has never lost, no face visible at this distance, ash and smoke drifting.',
