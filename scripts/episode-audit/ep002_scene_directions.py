@@ -65,7 +65,7 @@ SCENES = {
     GHIS),
 11: ("Two war fleets in a narrow strait at dusk, hundreds of oars, a harbour with a "
      "stone mole and a lighthouse, tension in the still water.", "grey-green sea, amber sky"),
-12: ("A Ghiscari officer's back as he walks his line at night, torchlight along a rank of plain bowl-shaped caps with no crest and no plume and no neck guard, men in quilted hemp jackets sitting on the ground coughing and casting knucklebones, all heads turned away or down, and high above the cloud a vast slow wing-shadow crossing the moonlit ground, no horns, no ornament, no segmented metal armour.",
+12: ("A Ghiscari officer seen from behind on a mud-brick street at night, bareheaded, a coarse undyed wool shawl across his shoulders and a torch in one hand, and along the wall a line of exhausted labourers resting on the ground, bare heads, loose homespun tunics of undyed cloth, no footwear, knucklebones scattered on the packed earth, every head turned away or down, and high above the rooftops a vast slow wing-shadow crossing the moonlit sky. Nothing of any army on earth in this frame: no helmets of any kind, no metal headgear, no quilted jackets, no field uniform, no webbing or straps, no boots, no twentieth-century soldier.",
     GHIS),
 13: ('Ghiscari infantry holding formation on an open shore while enormous wing-shadows sweep across them, iron spears still upright, oval wicker shields raised, faces upturned and unfamiliar, no enemy visible on the ground, smoke and firelight falling from above.',
     'grey smoke, orange firelight from above'),

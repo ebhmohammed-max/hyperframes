@@ -189,6 +189,50 @@ The floor for this film is: **read every high-risk frame at 900 px or more,
 and treat an emblem, a distinctive hairstyle or a costume silhouette as
 high-risk regardless of the camera.**
 
+
+## The delivered-frame sweep, and why the master audit was still not enough
+
+Even with all seventy masters verified, reading frames out of the **finished
+film** found five more violations. Four of them were in scenes this document
+had already certified. That is the important part: the master sweep was run on
+masters, and three of these passed it because the motif *matched the intent*.
+
+| Scene | What the master audit saw | What the film showed |
+|---|---|---|
+| 001 | a gold disc in ash | a winged Nike, face-up — Greek coinage |
+| 002 | "the harpy coin" | a winged Nike with **ΝΙΚΗ** cut in the field — Greek lettering |
+| 057 | "the harpy face of the coin" | a gold stater, Nike in a chiton with a monogram |
+| 012 | bowl caps and quilted hemp jackets | steel helmets and quilted field jackets — a 20th-century army |
+| map | not a master at all | a Mesoamerican stepped pyramid drawn into the map base |
+
+**The coin motif was wrong in every face-on instance.** All four coins — 001,
+002, 057, 070 — have now been re-composed so the struck design never resolves:
+turned edge-on, sunk in ash, hidden in a closed hand, or shot from directly
+above in raking light. None of them shows a readable figure, and the word ΝΙΚΗ
+is gone from the film.
+
+**012 is the one I got wrong by my own wording.** The direction said "quilted
+hemp jackets" and "bowl-shaped caps"; the model read that as quilted field
+jackets and steel helmets, and produced an army from about 1916. No negative
+would have fixed a description that specific — the nouns had to change. It is
+now bare heads, coarse wool shawls, homespun tunics and bare feet.
+
+**The map was never in the master set.** It is a separate asset in
+`documentary_v2/assets/maps/`, and it carried a full stepped pyramid with a
+central double staircase in the Ghis region. Nothing in the master audit could
+have seen it, which is why the film itself has to be read and not just its
+inputs.
+
+### What follows from this
+
+The audit rule changes from "read every master at full size" to **"read frames
+out of the delivered cut, at full size, on scenes whose subject has a canonical
+form."** Coins, pyramids, armies, emblems and costumes all have strong
+canonical forms, and in each case the model reaches for the canonical version
+unless the composition prevents it. A master can be reviewed by someone who
+knows what the scene is *supposed* to be, and that reviewer will see the
+intended thing. The film cannot lie that way.
+
 ## The rule that follows
 
 **A contact sheet at thumbnail size cannot audit a world.** Every plate is read
