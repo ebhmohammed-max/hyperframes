@@ -1,14 +1,14 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 49 of 127 made.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 59 of 127 made.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
 ## What exists
 
-- `script/script.mjs` v1: 69 lines in seven clips (hook + six chapters). `SCRIPT_TA.md`, `script/lines.json` and `narration/text/` are built from it with `node script/build.mjs`.
+- `script/script.mjs` v1: 70 lines in seven clips (hook + six chapters). `SCRIPT_TA.md`, `script/lines.json` and `narration/text/` are built from it with `node script/build.mjs`.
 - `FACT_SHEET.md`: every figure with source, year and scenario; five points to check before publishing.
-- Narration N01–N07 with the scratch voice `voice-02`: 464.4 s. `narration/align.json`: 69 lines, 0 flagged. `N08.mp3` (end card voice) is the same file as in EP16–EP18.
+- Narration N01–N07 with the scratch voice `voice-02`: 464.4 s. `narration/align.json`: 70 lines, 0 flagged. `N08.mp3` (end card voice) is the same file as in EP16–EP18.
 - `shots/shots.txt`: 127 pictures, 0 count mismatches (`python3 shots/expand.py`). One reference picture (`nila`, `shots/CAST.md`).
 - Clips generate without error: `node film/gen.mjs N01 … N07`, `node film/title.mjs`, `node film/end.mjs`.
 
@@ -18,7 +18,7 @@ Topic and length were set by the user: their own topic, about 8 minutes. Project
 |---|---|---|---|---|
 | N01 | Hook: Nila is born tonight; two things are already decided | 10 | 56.0 | 001–018 |
 | N02 | 01 · 970 கோடி பேர் (people) | 9 | 49.8 | 019–032 |
-| N03 | 02 · நரைக்கும் உலகம் (ageing: first decided item) | 10 | 72.6 | 033–051 |
+| N03 | 02 · நரைக்கும் உலகம் (ageing: first decided item) | 11 | 72.6 | 033–051 |
 | N04 | 03 · நகரம், தண்ணி, சோறு (city, water, food) | 10 | 69.5 | 052–069 |
 | N05 | 04 · வேலை, காசு, கரண்ட் (work, money, power) | 10 | 72.7 | 070–089 |
 | N06 | 05 · உடம்பு என்ன சொல்லுது (health) | 8 | 56.8 | 090–102 |
@@ -42,6 +42,7 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 | B03 | 020–029 | `EP19_B03_images_020-029.zip` `1c1axdb0QZUhkx4h9eoivkxihhDMUodGa` | all usable |
 | B04 | 030–039 | `EP19_B04_images_030-039.zip` `1XCYLxZCz-sds8kQfOgEkXp5-lswvc3wG` | all usable; 034 (grandmother at 79) was made with 033 (at 55) as reference so the two match |
 | B05 | 040–049 | `EP19_B05_images_040-049.zip` `1jkAZPKlPmPa1_pREzlW2-6SPO7gTmbxC` | all usable; 043 the garland on the school photograph reads as a memorial picture in a Tamil home: remake without it |
+| B06 | 050–059 | `EP19_B06_images_050-059.zip` `1HKbUbQxusDiJ6YJ7z3kLiDR4IwhJnLjq` | all usable; 050 made with `nila` and 034 as references |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
@@ -55,6 +56,11 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → **`EP19_2050_Ula
 | `EP19_FACT_SHEET.md` | `1-NPWFelfdEGy1CtFWY60XRbJ2O1m_fHr` |
 | `EP19_narration_scratch_voice02.zip` (N01–N08) | `1FhnLkFI8zuoPej9ibT7U0HOBa7paHyjz` |
 | `EP19_SHOTLIST.md` | `1XV0XrEUCgTCzNiDgHvJl2dTzdhZ1aSQD` |
+
+## Changes after the first upload
+
+- 21 Nov: N03 line 4 was split in two (Tamil Nadu, then Sri Lanka) so that each has its own number card; the narration audio is unchanged. The script is now 70 lines; N03 lines after it moved up by one. Picture numbers did not change, but the file names inside the zips B04–B06 still carry the old line numbers for 041–051 (the number at the front is what counts). `EP19_SCRIPT_TA_v2.md` on Drive replaces `EP19_SCRIPT_TA.md`.
+- Graphics checked on stills for N01–N04 (chapter cards, bars, number cards, timeline, hundred dots incl. the growing 55 → 68, big number, subscribe pop-up): all correct.
 
 ## Open points
 

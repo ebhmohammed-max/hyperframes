@@ -40,17 +40,17 @@ N03|3|school_gate_grandparents|F|the gate of a primary school at closing time: a
 N03|3|tea_stall_old_men|N|a village tea stall in Tamil Nadu with five old men in white veshtis on the wooden bench, an empty dusty playground with a rusting slide behind them, no children anywhere
 N03|4|temple_steps_elders_evening|N|old men and women sitting together on the granite steps of a small-town temple hall in Tamil Nadu at evening, talking, an oil lamp lit in a wall niche, seen from the side at a distance
 N03|4|thinnai_couple_alone|N|an elderly couple sitting alone on the raised front veranda of a big old ancestral house in a Tamil village, the street empty, the old man holding a phone whose glow lights his hands, seen from across the street
-N03|4|lagoon_elder_fisherman|O|the west coast of Sri Lanka at dawn: an old fisherman with white hair, seen from behind, mending a net beside narrow wooden outrigger canoes pulled up on a lagoon shore under coconut palms, calm water. No signboards and no lettering
-N03|5|ledger_shelves_office|D|tall shelves in an old records office packed with thick cloth-bound ledgers tied with tape, dust in a shaft of light, the spines blank
-N03|5|school_photo_1990_wall|P|a framed school group photograph hanging on a lime-washed wall: four rows of children in uniform with two teachers, every face too small and soft to make out, a plain wooden frame with nothing hung on it
-N03|6|man_mirror_first_grey|N|a man in his late thirties in a shirt, seen from behind at a bathroom mirror, touching the first grey hairs at his temple, his reflected face soft in the dim mirror
-N03|6|phone_dark_reflection|N|a hand holding a phone whose screen has just gone dark, the black glass showing only the faint soft outline of a head reflected in it, seen from the holder's own point of view
-N03|7|grandmother_brisk_walk|F|a fit silver-haired woman in a sari and sports shoes walking briskly along a tree-lined seafront path at sunrise, seen from behind
-N03|7|birthday_lamp_family|N|a very old man seated in a chair in a living room while three generations of his family stand around him, a small cake with a single candle on the table, seen from behind the family
-N03|8|metro_morning_workers|N|young office workers streaming out of a metro station on to a city street in the morning, seen from behind
-N03|8|pension_counter_queue|N|a line of elderly people standing patiently before a plain office counter with a grille, seen from behind, a ceiling fan above
-N03|9|nila_helps_paatti_steps|F@nila|Nila seen from behind, carrying a cloth shopping bag in one hand and with the other arm supporting a small white-haired old woman in a sari as they climb a few steps to a doorway in the evening
-N03|9|skyline_cranes_dusk|F|the skyline of a growing South Indian city at dusk: half-built towers, a dozen construction cranes black against an orange sky, lights coming on in the older houses below, no people
+N03|5|lagoon_elder_fisherman|O|the west coast of Sri Lanka at dawn: an old fisherman with white hair, seen from behind, mending a net beside narrow wooden outrigger canoes pulled up on a lagoon shore under coconut palms, calm water. No signboards and no lettering
+N03|6|ledger_shelves_office|D|tall shelves in an old records office packed with thick cloth-bound ledgers tied with tape, dust in a shaft of light, the spines blank
+N03|6|school_photo_1990_wall|P|a framed school group photograph hanging on a lime-washed wall: four rows of children in uniform with two teachers, every face too small and soft to make out, a plain wooden frame with nothing hung on it
+N03|7|man_mirror_first_grey|N|a man in his late thirties in a shirt, seen from behind at a bathroom mirror, touching the first grey hairs at his temple, his reflected face soft in the dim mirror
+N03|7|phone_dark_reflection|N|a hand holding a phone whose screen has just gone dark, the black glass showing only the faint soft outline of a head reflected in it, seen from the holder's own point of view
+N03|8|grandmother_brisk_walk|F|a fit silver-haired woman in a sari and sports shoes walking briskly along a tree-lined seafront path at sunrise, seen from behind
+N03|8|birthday_lamp_family|N|a very old man seated in a chair in a living room while three generations of his family stand around him, a small cake with a single candle on the table, seen from behind the family
+N03|9|metro_morning_workers|N|young office workers streaming out of a metro station on to a city street in the morning, seen from behind
+N03|9|pension_counter_queue|N|a line of elderly people standing patiently before a plain office counter with a grille, seen from behind, a ceiling fan above
+N03|10|nila_helps_paatti_steps|F@nila|Nila seen from behind, carrying a cloth shopping bag in one hand and with the other arm supporting a small white-haired old woman in a sari as they climb a few steps to a doorway in the evening
+N03|10|skyline_cranes_dusk|F|the skyline of a growing South Indian city at dusk: half-built towers, a dozen construction cranes black against an orange sky, lights coming on in the older houses below, no people
 N04|1|bus_stand_families_dawn|N|village families with cloth bundles, steel trunks and small children climbing down from a long-distance bus at a big city bus stand at dawn, seen from behind
 N04|1|city_edge_into_fields|F|an aerial view of the edge of a spreading city: new blocks of flats and unfinished concrete frames pushing out into green paddy fields and palm groves, a new road cutting through, no people
 N04|2|tower_blocks_rows|F|endless rows of identical new apartment towers under construction, wrapped in scaffolding with cranes above them, fading into haze, tiny workers on the nearest floors

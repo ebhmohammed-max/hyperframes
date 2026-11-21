@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? Fact sheet
 
-Version 1, 21 Nov 2026. Goes with `script/script.mjs` (69 lines).
+Version 1, 21 Nov 2026. Goes with `script/script.mjs` (70 lines).
 
 **How to read this.** Nobody knows 2050. Every figure about it below is a **projection** by the body named, under the scenario named, and the film says it that way ("கணிப்பு", "கணக்கு", "போகலாம்", "வரை"). On-screen labels:
 **U** ஐ.நா. கணிப்பு (a UN body's projection) · **R** ஆய்வு கணிப்பு (a published study, report or assessment) · **S** ஒரு பாதை, கணிப்பு இல்ல (a pathway that shows what would have to happen; not a forecast) · **F** பதிவான உண்மை (already happened, on record) · **O** கருத்து (our own reading or arithmetic) · **I** கற்பனை காட்சி (invented scene).
@@ -29,10 +29,10 @@ Nila, born tonight in Chennai, aged 24 in 2050, and her grandmother (55 now, 79 
 | N03 q2 | India 2050: one in five aged 60+, about 347 million (34.7 கோடி), 20.8% | UNFPA and IIPS, *India Ageing Report 2023* (10.5% and 149 million in 2022) |
 | N03 q3 | Around 2046 the elderly outnumber children (0–14) in India | *India Ageing Report 2023* |
 | N03 q4 | Tamil Nadu: 20.8% aged 60+ by 2036 | *India Ageing Report 2023* state projections (Kerala 22.8%) **(press: Times of India, Sep 2023)** |
-| N03 q4 | Sri Lanka: more than one in four aged 60+ in 2050 (about 27%) | Reported from UN projections **(press; check the exact figure in WPP 2024)** |
-| N03 q5–6 | Everyone who will be 60 in 2050 is already born; they are the people aged 36 and over today | Arithmetic: 2050 − 60 = 1990; 2026 − 1990 = 36. This is why ageing is called "decided": it does not depend on future births. Deaths and migration can still shift the totals a little |
-| N03 q7 | World life expectancy at birth: 73.3 years in 2024, about 77 in 2050 | WPP 2024 (77.4 in 2054); UN "Population" page gives 77.2 for 2050 |
-| N03 q8 | Five people of working age per older person today, three in 2050 | UN DESA: persons aged 25–64 per person aged 65+, 5.1 in 2021 → 3.0 in 2050 (WPP 2022 data). The film says "வேலை செய்யற வயசு" for ages 25–64 |
+| N03 q5 | Sri Lanka: more than one in four aged 60+ in 2050 (about 27%) | Reported from UN projections **(press; check the exact figure in WPP 2024)** |
+| N03 q6–7 | Everyone who will be 60 in 2050 is already born; they are the people aged 36 and over today | Arithmetic: 2050 − 60 = 1990; 2026 − 1990 = 36. This is why ageing is called "decided": it does not depend on future births. Deaths and migration can still shift the totals a little |
+| N03 q8 | World life expectancy at birth: 73.3 years in 2024, about 77 in 2050 | WPP 2024 (77.4 in 2054); UN "Population" page gives 77.2 for 2050 |
+| N03 q9 | Five people of working age per older person today, three in 2050 | UN DESA: persons aged 25–64 per person aged 65+, 5.1 in 2021 → 3.0 in 2050 (WPP 2022 data). The film says "வேலை செய்யற வயசு" for ages 25–64 |
 
 ## 03 — City, water, food
 
