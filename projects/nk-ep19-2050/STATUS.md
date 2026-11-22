@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; all 127 pictures made, remakes done; render started 22 Nov.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; **EP19 finished and delivered on 22 Nov 2026** (all 127 pictures, render, seven 1080p parts and the 720p film on Drive).** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -78,8 +78,8 @@ Render of all nine clips done (about 75 minutes on 2 CPUs; 6 to 11.6 s of work p
 | `EP19_1080p_04_ch3.mp4` (72.7 s) | `1Ihkuh95MzQBMyPvCCR5MpENSI8b6N54t` |
 | `EP19_1080p_05_ch4.mp4` (75.9 s) | `1PQoovLq08-yuLIlELPjNMJDSEURGjc_A` |
 | `EP19_1080p_06_ch5.mp4` (60.0 s) | `1UA3ASOVifSpNUB7ol8qlWcbwMuXUNDfD` |
-| `EP19_1080p_07_ch6_endcard.mp4` | PENDING7 |
-| `EP19_2050_full_720p.mp4` | PENDING720 |
+| `EP19_1080p_07_ch6_endcard.mp4` (107.2 s; compressed again to fit 100 MB) | `1cZvv-5wiwMGVqL2V1uMnHrgLNlo9Kd3D` |
+| `EP19_2050_full_720p.mp4` (513.5 s, 93,421,765 bytes, `VB=1350k`, −14.3 LUFS) | `15Fi_96QqnMztOXyZ7Q9JpY-y8AddfMYk` |
 | `EP19_FACT_SHEET_v2.md` | `1vvyEoQBodRR35ZVmwYv2p1oNV7FPixAW` |
 | `EP19_SCRIPT_TA_v2.md` | `13Bevry85WRmhYiSVf01yxEgQ3qaGv74z` |
 
