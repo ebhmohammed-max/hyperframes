@@ -93,6 +93,13 @@ Everything else in the film is said to be open, and for three of the gravest pro
 - Warming of 1.5°C in the early 2030s (IPCC AR6) was researched and left out to keep the last chapter on one idea.
 - Dementia (153 million by 2050), heart disease and the Goldman Sachs 2075 ranking were researched and left out for length.
 
+## Changes since v1 (22 Nov 2026)
+
+- N03: the Tamil Nadu and Sri Lanka sentence is now two lines (q4, q5), each with its own number card. The Sri Lanka card reads "4-ல 1 +" (more than one in four) with the source line "ஐ.நா. கணிப்பு · செய்தி அறிக்கை வழியா", because the exact percentage is still only from a press report.
+- N05: the IEA card reads "~90%" (the report says "almost 90%"); the voice says "90%". If the final voice is recorded again, say "கிட்டத்தட்ட 90%".
+- N05: the last timeline shows 2020 · 2035 · 2050 with short labels.
+- N04 q1: the voice says "41 கோடிக்கு மேல", the card "+41.6 கோடி" (416 million). N05 q1: the voice says "9 கோடி", the card "9.2 கோடி" (92 million).
+
 ## To check before publishing
 
 1. The Sri Lanka figure (about 27% aged 60+ in 2050) against WPP 2024.
@@ -100,3 +107,4 @@ Everything else in the film is said to be open, and for three of the gravest pro
 3. The Anna University figures (19.71 cm; 76%; 102.2 km): they come from a draft report as reported by the Times of India.
 4. PwC's income-per-person ranking for India.
 5. A Tamil speaker should read the script aloud once; the voice is a scratch voice.
+6. Every picture is an AI-made illustration, including the 2019 Chennai water pictures and the flood and cyclone pictures. Say so in the video description.
