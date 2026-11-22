@@ -185,7 +185,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
     const nx = merged[i + 1];
     const end = r(Math.min(nx ? nx.t0 - 0.09 : D - 0.1, c.vEnd + 0.5));
     const id = `c${++n}`;
-    cHtml += `    <div id="${id}" class="c-cap clip" data-start="${start}" data-duration="${r(end - start)}" data-track-index="1"><div id="${id}-in" class="c-in">${esc(c.text)}</div></div>\n`;
+    cHtml += `    <div id="${id}" class="c-cap clip" data-start="${start}" data-duration="${r(end - start)}" data-track-index="1"><div id="${id}-in" class="c-in">${esc(c.text).replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</div></div>\n`; // a token like 10-ல must not break at its hyphen
     cJs += `      tl.fromTo("#${id}-in", { opacity: 0, y: 6 }, { opacity: 1, y: 0, duration: 0.16, ease: "power2.out" }, ${start});
       tl.to("#${id}-in", { opacity: 0, duration: 0.1, ease: "power2.in" }, ${r(end - 0.11)});\n`;
   });

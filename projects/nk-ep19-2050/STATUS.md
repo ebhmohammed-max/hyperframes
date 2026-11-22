@@ -66,6 +66,25 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → **`EP19_2050_Ula
 | `EP19_narration_scratch_voice02.zip` (N01–N08) | `1FhnLkFI8zuoPej9ibT7U0HOBa7paHyjz` |
 | `EP19_SHOTLIST.md` | `1XV0XrEUCgTCzNiDgHvJl2dTzdhZ1aSQD` |
 
+## Delivery (22 Nov 2026)
+
+Render of all nine clips done (about 75 minutes on 2 CPUs; 6 to 11.6 s of work per film second). Film length 513.5 s. Sound gain +2.57 dB with a limiter.
+
+| File | Drive id |
+|---|---|
+| `EP19_1080p_01_hook_title.mp4` (69.1 s) | `1hyJbUmzCKpenFW1RsV6cxxYozIbUHeVX` |
+| `EP19_1080p_02_ch1.mp4` (53.0 s) | `1kwH4yhXBPkdVGXyRkTGKkI_lzeSfVN4F` |
+| `EP19_1080p_03_ch2.mp4` (75.8 s) | `1lthXgRJdypG2Y3ESUzzlApR_kobsn0ex` |
+| `EP19_1080p_04_ch3.mp4` (72.7 s) | `1Ihkuh95MzQBMyPvCCR5MpENSI8b6N54t` |
+| `EP19_1080p_05_ch4.mp4` (75.9 s) | `1PQoovLq08-yuLIlELPjNMJDSEURGjc_A` |
+| `EP19_1080p_06_ch5.mp4` (60.0 s) | `1UA3ASOVifSpNUB7ol8qlWcbwMuXUNDfD` |
+| `EP19_1080p_07_ch6_endcard.mp4` | PENDING7 |
+| `EP19_2050_full_720p.mp4` | PENDING720 |
+| `EP19_FACT_SHEET_v2.md` | `1vvyEoQBodRR35ZVmwYv2p1oNV7FPixAW` |
+| `EP19_SCRIPT_TA_v2.md` | `13Bevry85WRmhYiSVf01yxEgQ3qaGv74z` |
+
+N07 was rendered twice: the first render broke the caption "10-ல" at its hyphen; `film/gen.mjs` now keeps such tokens on one line (checked on the renders: no other caption was affected).
+
 ## Changes after the first upload
 
 - 21 Nov: N03 line 4 was split in two (Tamil Nadu, then Sri Lanka) so that each has its own number card; the narration audio is unchanged. The script is now 70 lines; N03 lines after it moved up by one. Picture numbers did not change, but the file names inside the zips B04–B06 still carry the old line numbers for 041–051 (the number at the front is what counts). `EP19_SCRIPT_TA_v2.md` on Drive replaces `EP19_SCRIPT_TA.md`.
