@@ -1,6 +1,6 @@
 # EP19 — 2050-ல் உலகம் எப்படி இருக்கும்? (What will the world be like in 2050?)
 
-Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; pictures 126 of 127 made (only 123 missing); remakes done.** Not rendered yet.
+Status on 21 Nov 2026: **script, narration, shot list and graphics plan done; all 127 pictures made, remakes done; render started 22 Nov.** Not rendered yet.
 
 Topic and length were set by the user: their own topic, about 8 minutes. Project copied from `../nk-ep18-vaultb` (same tools, same look).
 
@@ -51,6 +51,7 @@ Graphics used (`film/fx.mjs`): `vs` bars ×5, `stat` cards ×11, `big` number ×
 | B12 | 110–119 | `EP19_B12_images_110-119.zip` `1eYJSDjpCYN7INTFttRRzRbH7ibV5_bpB` | all usable; 114 shows four people, not five (the voice gives no count; kept) |
 | B13 | 120–127 without 123 | `EP19_B13_images_120-127_no123.zip` `1kVz6Ksj-jJFt2BglmQ9Bu4unj4oeskxM` | all usable; 123 (grey window) still to make, with 122 as reference |
 | R1 | remakes 004, 019, 043, 092 | `EP19_R1_images_004-019-043-092.zip` `1hvTKw3kXO_IoCAJa1Pd5pxR0HpBpMpBN` | 004 woman's hands with bangles; 019 packed crossing; 043 plain frame, no garland; 092 the same picture with the eye chart blurred locally (no new generation) |
+| R2 | 123 | `EP19_R2_images_123.zip` `1XvN7JpKPvnqXp0QO_J4KW7Su31yYh-L-` | the grey window, made from 122; the two halves of the split match |
 
 Next: `$PY tools/next.py 10`, ten `generate_image` calls per turn into `out/raw/NNN.jpg` (rows marked `[nila]` get `out/cast/nila.jpg` as reference), then `bash tools/restore.sh`, `$PY tools/batch.py <batch> <first> <last> [two numbers to show large]`, view `google_drive/_sheet_E19Bnn.jpg`, upload the zip to the `images` folder, commit.
 
@@ -83,5 +84,5 @@ Root "NK Documentaries" `1WqhshH9XcvNUna4lzyS692eidgWQfeS1` → **`EP19_2050_Ula
 
 1. `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`
 2. `bash projects/nk-ep19-2050/tools/setup.sh` through a background process (builds `/tmp/hf`, `/tmp/nkvenv`, `/tmp/chromium`, `/tmp/hfenv.sh`); then `. /tmp/hfenv.sh` in every shell.
-3. Download from the Drive folder into `<repo>/google_drive/`: the narration zip (unzip into `narration/`), `EP19_cast.zip` and every `EP19_B*_images_*.zip` from `images`.
+3. Download from the Drive folder into `<repo>/google_drive/`: the narration zip (unzip into `narration/`), `EP19_cast.zip` and every `EP19_B*_images_*.zip` and `EP19_R*_images_*.zip` from `images` (`download_file` with only `file_id` saves them there).
 4. `bash tools/restore.sh` (relinks `out/raw` and `out/cast`, unpacks the zips, rebuilds `out/img`).
