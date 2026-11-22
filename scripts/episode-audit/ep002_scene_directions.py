@@ -110,7 +110,7 @@ SCENES = {
      GHIS + ", dust haze"),
 28: ("A torch-lit night street of ochre brick in a Ghiscari city, seen low and level: empty, no crowd, no assembly, a worn sandstone doorway with a bronze harpy's head knocked from its bracket lying in the dust, one dog asleep on the step, distant temple fires beyond the rooftops, no people in robes, no banners, no throne, no gathering of nobles.",
     GHIS),
-29: ('Ghiscari street-sweepers in undyed tunics brushing dust from brick paving between flat-roofed houses, and hanging from a wall bracket a single faded ochre cloth with a plain sewn harpy outline and no heraldry and no three-headed beast, a broom leaned against the wall, overcast morning light.',
+29: ('Two street-sweepers brushing dust from brick paving between flat-roofed houses, bareheaded men with short cropped hair and stubbled jaw, coarse undyed linen tunics with rolled sleeves, bare feet in worn sandals, long bundled twig brooms, and a plain faded ochre cloth hung from a wall bracket with nothing painted on it, dry laundry and a coiled rope beside it, overcast morning light. No turban, no headwrap, no kufi or cap of any kind, no painted or sewn emblem on the cloth, no harpy, no bird, no heraldry, no banner charge.',
     GHIS),
 30: ("An empty harbour at dawn with no tribute ships, water flat, a single official "
      "standing on the mole watching for sails that are not coming.", "grey water, pale sky"),
