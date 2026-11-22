@@ -239,3 +239,57 @@ intended thing. The film cannot lie that way.
 at full size before it enters a render, and the question asked of it is not "is
 this plausible ancient?" but "is this *this* world, and could this object exist
 in it?"
+
+## The full repair list, round three
+
+Frames read out of the delivered cut found sixteen violations. Fourteen were
+scenes this document had already certified. Listed together because the
+number is the point:
+
+| # | Defect found in the cut | Root cause in our own text |
+|---|---|---|
+| 001 | winged Nike on a coin, face-up | "the coin's face a winged woman" |
+| 002 | winged Nike with **ΝΙΚΗ** in the field | "the harpy coin", face-on |
+| 007 | Brodie helmets, khaki tunics, webbing | "infantry column", "iron caps" |
+| 012 | steel helmets, quilted field jackets | "quilted hemp jackets" |
+| 013 | conical steel helmets, mail, legible faces | "infantry", "iron spears" |
+| 015 | Brodie helmets on the catapult crew | crew described as "men", engine only |
+| 019 | the same soldier again, quilted jacket and cap | "quilted hemp jacket and rounded leather cap" |
+| 020 | face-on winged Nike | "the winged-woman figure at its centre" |
+| 041 | heraldic double-headed eagle banners | "banners, each bearing a painted harpy" |
+| 048 | pale silver hair on the riders | "dark cloaks and pale silver hair" |
+| 051 | legionary aquila, struck coin, legible faces | "temple with a bronze harpy above the door" |
+| 052 | the lead at a window: silver hair, black cloak | "long black cloak… pale silver-grey hair" |
+| 054 | Roman eagles struck on the coins | "harpy-stamped gold coin lying flat" |
+| 057 | Greek gold stater, Nike and monogram | "extreme close-up of the harpy face of the coin" |
+| 060 | laurel-wreathed profile head | "the same small coin", passed hand to hand |
+| 062 | silver hair, black cloak, at the lava field | "black-cloaked figure with silver hair" |
+| map | stepped Mesoamerican pyramid | not a master — a separate map asset |
+
+**Three patterns, and every one of them was self-inflicted.**
+
+1. **The coin cannot be shown face-on.** Seven scenes put a coin face toward
+   the lens and six produced classical coinage. A flat disc with a figure on it
+   is a portrait die; the only reliable fix is to turn it, bury it, or lose it
+   in a closed hand. All of them are now edge-on, face-down, or blank.
+
+2. **Military vocabulary summons a real army.** "Quilted hemp jacket",
+   "hemispherical iron caps", "infantry", "iron spears" — each returned a
+   recognisable twentieth-century soldier. Negatives do not help, because the
+   positive noun is the instruction. Every such description is gone; the
+   characters are now bareheaded, barefoot and in undyed cloth.
+
+3. **The lead's silhouette is a costume, not a face.** Silver hair over a black
+   cloak reads as one specific character from any camera angle, including from
+   behind. 048, 052, 058 and 062 all had it; all four now have shaved heads,
+   bronze circlets and wool wraps.
+
+**What the ban now carries**, inherited by every prompt:
+no coin design; no military uniforms of any era; no steel or iron helmets;
+no eagles, aquila, heraldry, banners or sigils.
+
+**The rule this round proved:** a text audit of the *directions* is as
+necessary as a visual audit of the images. All sixteen defects were visible in
+the scene descriptions before a single image was generated. Reading the
+directions for positive-language traps — and reading the delivered cut for
+what actually landed — are two separate gates, and both have to happen.
