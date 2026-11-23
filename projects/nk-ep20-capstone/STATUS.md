@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **60 of 128** (B01–B06 = 001–060: checked, on Drive) |
+| Pictures | **70 of 128** (B01–B07 = 001–070: checked, on Drive) |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -35,6 +35,7 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B04 | 031–040 | 1dGpEhxGuV5xwGrp9nppivJKMmcyeBRAt |
 | B05 | 041–050 | 1EtOejTuKuay728sqzKUbqujRWYFzpWYr |
 | B06 | 051–060 | 1w45TnpqGz9sYzLj5BKZ4qpjcbdcmSm4t |
+| B07 | 061–070 | 1QHpoFd_Rkzad4HnSblTl93Gu3giNG4hk |
 
 ## Picture batches
 
@@ -48,10 +49,13 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 - 012 `scholar_scaffold_top`: a second tall tower stands beside the dome. Make again: the dome is the top of the only tower, nothing higher than it in the frame.
 - 033 `sand_table_ramp_hands`: the model on the table is a stepped pyramid of the Maya kind, not a South Indian tower. Make again: a small carved model of a South Indian temple tower (like the model in 010), the sand ramp long and thin.
 - 034 `ramp_profile_long`: the ramp is short and steep, against the line it illustrates ("walk 100 feet, rise one foot") and it is the N03 chapter card. Make again: the tower very small at the far right, the ramp a long low line across the whole frame, barely rising.
+- 061 `finial_set_on_dome`: a scene of 1010, but a present-day town with painted concrete houses lies below. Make again: only paddy fields, palms and thatched roofs below.
+- 067 `scaffold_ladders_up`: came out as three panels side by side (a collage). Make again: one single continuous picture.
 - 020 `tiers_carved_detail` (kept for now): a small domed shrine sits in the middle of the tiers; acceptable as detail, remake only if a spare call is left.
 
 - Note for prompts: in legend pictures where the stone is still travelling, write that the tower top is flat and has no dome yet (done by hand for 024; the look text otherwise adds the dome).
 - Note for prompts: for scenes of 1010 that are not building work (gifts, dancers, accountants) the look-C text was shortened by hand (no scaffolding, rollers or elephants), so that they do not creep into the picture.
+- 062 `stonecutter_letters_hands` (kept): the carved marks look like Tamil letter shapes but form no words; they stand out in relief instead of being cut in.
 - 025 `log_rollers_close` (kept): the stone is a squared block, not rounded.
 
 ## Open points
