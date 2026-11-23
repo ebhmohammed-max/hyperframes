@@ -443,3 +443,32 @@ rejoin instructions, staged at `/tmp/driveparts/README.txt`).
 
 Arena rate-limits uploads per reply; after roughly nine files the remainder
 must wait for the next reply. Local parts live in `/tmp/driveparts/`.
+
+**Upload completed.** All 17 parts plus the README are in the Episode 02 folder
+`1SltSCtCl6DbqvYOaQi85KEpTdzqyZQqS`, and every part's Drive size matches its
+local file byte for byte — 17/17 identical, 773,235,411 B on both sides, which
+is 22,776 B of per-part MP4 container headers over the 773,212,635 B master.
+
+| Part | ID | Bytes |
+|---|---|---|
+| 00 | `1t3nqCcJPG39hxCLsIa4rLcxb0rrp5ck6` | 65,333,789 |
+| 01 | `1eW6oo0H7-p6uF2zVnSHiKHIM_5UrtEyH` | 50,091,253 |
+| 02 | `1pJbP7utvcUwoucpgKrsWhKbw72PmJ6Ze` | 50,836,889 |
+| 03 | `131cnRNZFEX3dX34ce__dNCTqz47UfY_l` | 41,566,680 |
+| 04 | `19uq-JJzXzOPfHaR68uHEKFX-VETcbvhR` | 52,841,688 |
+| 05 | `1_XRAJmQhYf-Z82Fs1bahyTz6IijeYmgC` | 39,596,886 |
+| 06 | `1P7Vt8m6_kxRzbQliSGdhZdAnt4bV92Tn` | 45,829,716 |
+| 07 | `1LooMhJI1kk24POsyBhOCr92LU29r_fAu` | 59,519,592 |
+| 08 | `10qa7bDCPmBKuILOnRok15E6mBHjgkhFo` | 50,651,558 |
+| 09 | `1UlEf0FbjyENyjd3BKXSUSxdSVMglGvNf` | 40,887,417 |
+| 10 | `10IOYwmrEVUj83Pml0Nwuh_pAI87tokvh` | 53,168,881 |
+| 11 | `1NehJd2CWMU4-gnj_OjIb6BTnBKAx7Shu` | 18,413,171 |
+| 12 | `1Hn4-Uj0gk1HgAWTgTl9FaiZ9HvkpW9pz` | 26,683,236 |
+| 13 | `1haSgJ7Y_yorGrUuNlz1hCth70b_r_pxm` | 43,941,577 |
+| 14 | `1vEXSPQyKEfZ1tcfS-uLqYi3Us7TmLyL2` | 42,922,939 |
+| 15 | `1_uRJ22ugPcSN1Bz5eFFCMwgdlF1grQkY` | 54,926,770 |
+| 16 | `18rUajyjl_9Z_nrazO5V2gJAFRea7mmSP` | 36,023,369 |
+| README | `1Q0X8rJctxogD57Hy30FAlAxp4UG6ocAa` | 907 |
+
+Delivery of the 35-minute documentary is complete: art gated, master verified,
+and the film in Drive.
