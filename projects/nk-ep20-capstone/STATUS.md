@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **128 of 128** (B01–B13: checked, on Drive). Remakes: 007 and 034 done (R1); **still to remake: 012, 033, 061, 067, 081, 087** |
+| Pictures | **128 of 128, all remakes done** (B01–B13, R1, R2: checked, on Drive). First versions of remade pictures are in `google_drive/ep20_pics/old/` (not on Drive apart from the B zips). |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -43,6 +43,7 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B12 | 111–120 | 1aVok2LsVcIhiSrujQAIxN7cleHtCGVVx |
 | B13 | 121–128 | 1S5sV6v_sNn5DWrOJ_9ST_LfGcorsI1Ua |
 | R1 | remakes 007, 034 | 1qWKn3uYheD103YF7aa6KSbO0cCDz9IIg |
+| R2 | remakes 012, 025, 033, 061, 067, 081, 087, 092, 104, 111 | 1aDWdRhTi1dNxEHj1qv2Iur8e2E4bw5Ul |
 
 ## Picture batches
 
@@ -53,13 +54,13 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 ## For the redo pass
 
 - 007 `ramp_elephants_legend`: **remade (R1)**: flat scaffolded top, no dome, the stone on rollers behind elephants; the ramp curves instead of running straight. First version kept as `google_drive/ep20_pics/old/007_v1.jpg`.
-- 012 `scholar_scaffold_top`: a second tall tower stands beside the dome. Make again: the dome is the top of the only tower, nothing higher than it in the frame.
-- 033 `sand_table_ramp_hands`: the model on the table is a stepped pyramid of the Maya kind, not a South Indian tower. Make again: a small carved model of a South Indian temple tower (like the model in 010), the sand ramp long and thin.
+- 012 `scholar_scaffold_top`: **remade (R2)**: the dome is the highest thing, one tower, researcher from behind.
+- 033 `sand_table_ramp_hands`: **remade (R2)**: a South Indian tower model; the sand ramp is thin but not very long.
 - 034 `ramp_profile_long`: **remade (R1)**: tiny tower at far right, a long low ramp across the whole frame. First version kept as `google_drive/ep20_pics/old/034_v1.jpg`.
-- 061 `finial_set_on_dome`: a scene of 1010, but a present-day town with painted concrete houses lies below. Make again: only paddy fields, palms and thatched roofs below.
-- 067 `scaffold_ladders_up`: came out as three panels side by side (a collage). Make again: one single continuous picture.
-- 081 `tower_shadow_courtyard`: the shadow is a thin black stripe like a carpet, not the shadow of a tower, and the line it illustrates is "the shadow does fall". Make again: seen from above, the broad pointed shadow of the pyramid tower lying across the paving, the tower itself at the edge of the frame.
-- 087 `visitor_steps_lookup`: two towers stand side by side. Make again: one tower only.
+- 061 `finial_set_on_dome`: **remade (R2)**: only fields, palms, a river and thatched huts below.
+- 067 `scaffold_ladders_up`: **remade (R2)**: one single picture.
+- 081 `tower_shadow_courtyard`: **remade (R2)**: a broad pointed shadow across the paving, seen from above.
+- 087 `visitor_steps_lookup`: **remade (R2)**: one tower.
 - 020 `tiers_carved_detail` (kept for now): a small domed shrine sits in the middle of the tiers; acceptable as detail, remake only if a spare call is left.
 
 - Note for prompts: in legend pictures where the stone is still travelling, write that the tower top is flat and has no dome yet (done by hand for 024; the look text otherwise adds the dome).
@@ -69,14 +70,14 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 - 075 `dome_plaster_stucco` (kept): one small weathered stucco figure sits in a niche at the lower left.
 - 086 `folk_mural_peeling` was made with 031 as the reference picture, so the two murals match.
 - 098 `spiral_ramp_tower`: rounded black corners in the raw picture, trimmed by `shots/crops.json` like 071. (All of 001–100 were tested for dark corners: only 071 and 098.)
-- 092 `vimana_inside_hollow` (kept): reads as a stone passage with steps rather than a view straight up; 093 shows the stepped courses from below. If a spare call is left, remake 092 as a view straight up a square shaft.
+- 092 `vimana_inside_hollow`: **remade (R2)**: a view straight up a square shaft of stepped courses.
 - 103 `summit_workers_sunset` (kept): the dome looks rather small beside the resting men.
-- 104 `tally_pebbles_lamp` (kept): the lamp is a glass hurricane lamp, not a brass oil lamp; it is a symbolic still life, not a scene of 1010.
+- 104 `tally_pebbles_lamp`: **remade (R2)**: an open brass oil lamp.
 - 112 `block_cart_wheel_close`: rounded dark corners and a dark line down both sides in the raw picture; trimmed by `shots/crops.json` (071, 098 and 112 now).
-- 111 `ox_carts_convoy` (kept): the cart wheels have spokes; solid wheels were asked for.
+- 111 `ox_carts_convoy`: **remade (R2)**: solid plank wheels.
 - 124 `chisel_marks_hand_today` (kept): the rows of tool marks could be taken for a worn inscription; nothing is readable.
 - After a remake the film copy is not refreshed by `crops.py`: run `$PY tools/sheet.py n n` for each remade number (or `tools/restore.sh`) before `redo_sheet.py`.
-- 025 `log_rollers_close` (kept): the stone is a squared block, not rounded.
+- 025 `log_rollers_close`: **remade (R2)**: a rounded stone on rollers; one small, soft-focus man at the left faces the camera; a hazy stone pavilion in the background.
 
 ## Open points
 
