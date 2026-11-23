@@ -4,7 +4,7 @@
 N01|0|shillong_hills_dusk|D|wide view of a hill town spread over pine-covered ridges under heavy monsoon clouds at dusk, the first lights coming on in the valley, mist between the ridges, no people
 N01|0|hall_clock_evening|D|a plain round wall clock above a doorway in a quiet institute corridor, the hands close to half past six, a plain white dial with simple tick marks and no numerals, evening light from a window, no people
 N01|0|stage_podium_wide|D|a lecture hall seen from the back row: a small stage with a wooden podium and one microphone under warm light, rows of students in their twenties seen from behind
-N01|1|old_man_at_podium_back|D@K|the elderly man standing at the wooden podium, seen from behind over his shoulder, facing a hall full of young students who are a soft blur
+N01|1|old_man_at_podium_back|D@K|the elderly man standing at the wooden podium, seen from behind over his shoulder, facing a hall full of adult postgraduate students in their twenties in everyday clothes, a soft blur, no children, no uniforms
 N01|1|students_listening_blur|D|rows of students in their twenties seated in a lecture hall, seen from the side and from behind, notebooks open, all leaning forward and waiting in silence
 N01|2|microphone_silent|D|close view of a single microphone on a wooden podium, an open folder with blurred pages beside it, the hall beyond out of focus, no people
 N01|3|corridor_walk_back|D@K|the elderly man walking down a long institute corridor towards a lit doorway, seen from behind, two officials blurred far behind him
@@ -71,7 +71,7 @@ N05|6|watchman_gate_evening|O|an Indian city street at evening: a security watch
 N05|7|family_arrives_palace|O|Delhi in 2006: a large Tamil family of all ages, from a very old man with a stick to a toddler carried on a hip, walking with their bags up the wide steps of a sandstone palace colonnade, seen from behind, no flags, no lettering
 N05|7|family_tea_long_table|O|a high-ceilinged guest room in a palace: a large Tamil family seated at a long table with cups of tea, seen from far, faces small and soft, warm lamp light, no lettering
 N05|7|hand_signs_cheque|S|an old man's hand with a dark suit cuff signing a cheque with a fountain pen, a long bill lying beside it on the desk, all print blurred and unreadable
-N05|8|hall_doors_students_rise|D@K|the elderly man walking in through the double doors of the lecture hall, seen from behind, the students rising to their feet
+N05|8|hall_doors_students_rise|D@K|the elderly man walking in through the double doors of the lecture hall, seen from behind, the adult postgraduate students in their twenties, in everyday clothes, rising to their feet, no children, no uniforms
 N06|0|green_valley_car_window|D|a green valley and blue hills seen through a rain-streaked car window, calm and beautiful, no people
 N06|0|smog_chimneys_river|O|factory chimneys pouring smoke over a grey river and a hazy city at dusk, seen from far, no people, no lettering
 N06|1|aide_notebook_knee|D@A|the aide's hands writing in a small notebook on his knee in the back seat of a moving car, the handwriting a blur, his face not in the frame
@@ -79,8 +79,8 @@ N06|1|round_parliament_dusk|O|New Delhi at dusk: a great circular sandstone buil
 N06|1|old_man_thinking_window|D@K|the elderly man in the back seat of a car, seen from behind, his head turned to the wet window, one hand at his chin, thinking
 N06|2|lapel_mic_hands|D@A|close view of a younger man's hands clipping a small microphone to the dark closed collar of an old man's suit, only the collar and a little silver hair in the frame, no face
 N06|2|backstage_two_silhouettes|D@K,A|two silhouettes backstage against the bright opening onto the stage: the elderly man turning a little towards his aide
-N06|3|podium_speaking_back|D@K|the elderly man speaking at the podium, seen from behind, one hand raised, the students beyond him a soft blur
-N06|3|podium_empty_light|D|the wooden podium standing empty under the stage light, the microphone still on it, a few pages fallen on the floor, the students far beyond standing up, blurred
+N06|3|podium_speaking_back|D@K|the elderly man speaking at the podium, seen from behind, one hand raised, the adult postgraduate students in their twenties beyond him a soft blur, everyday clothes, no children, no uniforms
+N06|3|podium_empty_light|D|the wooden podium standing empty under the stage light, the microphone still on it, a few pages fallen on the floor, the adult students in their twenties far beyond standing up, blurred, everyday clothes, no children
 N06|4|ambulance_hill_dusk|D|an ambulance with its lights on taking a bend on a wet hill road at dusk, pines on both sides, no lettering on it
 N06|4|hospital_corridor_wait|D|a hospital corridor at night: a small group of people standing in silence outside a closed door, seen from behind, a plain wall clock with no numerals above them
 N06|5|teacher_blackboard_village|O|a village school in Tamil Nadu: a teacher seen from behind drawing a simple diagram of the sun and planets in chalk on a blackboard, with no letters, children sitting on the floor seen from behind
