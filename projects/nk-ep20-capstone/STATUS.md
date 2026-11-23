@@ -14,7 +14,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Film code | adapted (hook sounds, card pictures, title plates and words); clip folders made |
 | Stills checks | done 23 Nov (all graphics, title, pop-up); four fixes, see below |
-| Render, parts, 720p, upload | render started 23 Nov |
+| Render, parts, 720p, upload | **done 23 Nov**: film 506.67 s (8 min 27 s), −14.3 LUFS, peak −1.2 dBTP; all on Drive (ids below) |
 
 Clip voice lengths (s): N01 48.61, N02 65.83, N03 58.52, N04 67.03, N05 80.25, N06 55.11, N07 82.27.
 
@@ -100,3 +100,20 @@ Fixes made after the first pass:
 - N03 line 4: the big number "~1 கோடி" had no Tamil glyphs in the number font. Now "~1" with "கோடி கன மீட்டர் மண்" under it.
 - Long flash words ran off the frame ("நம்பப்படுகிறது", "ஒரு வரி கூட இல்ல", "ஒரே கல்லு இல்ல", "ராஜராஜன் நந்தி?"). `film/fx.mjs` now sets a long word smaller.
 - N05 line 6: "விழுது" (the shadow does fall) was spoken over the Nandi picture. New option `cuts: [sentence numbers]` in a line's fx sets where its pictures change; the shadow picture now stays through "விழுது".
+
+## Delivered (23 Nov)
+
+Render on 2 CPUs: 3,360 s for 506.6 s of film. One gain for the whole film: +2.58 dB (measured −16.58 LUFS before). Part 7 came out above 100 MB and was compressed again by `finish.sh` (x264 crf 20). 720p at `VB=1350k`: 92,148,565 bytes.
+
+| File | Length | Drive id |
+|---|---|---|
+| EP20_1080p_01_hook_title.mp4 | 61.7 s | 1Y4PjeuAjXk_cekSu060B6vBVpRMFcVtD |
+| EP20_1080p_02_ch1.mp4 | 69.0 s | 1lKpan96gDOB6pOsiXyOU0ULvtZmNYrdo |
+| EP20_1080p_03_ch2.mp4 | 61.7 s | 1XIdkDaKoF9X1EjntYjPBvisGb2A--SNE |
+| EP20_1080p_04_ch3.mp4 | 70.2 s | 1In6XS4x0pOPmXHeQbrmqv4dcmtEISRRc |
+| EP20_1080p_05_ch4.mp4 | 83.4 s | 1s4UeJvaZCsoEMKo9Kyxq2Jt5vpEkYnKe |
+| EP20_1080p_06_ch5.mp4 | 58.3 s | 1f2pkDUR65lBtYVJ-q01FvIu_vKHzmynA |
+| EP20_1080p_07_ch6_endcard.mp4 | 102.5 s | 1Yyv_-sdePBwU2RCdGX2oVdIYEMmpYb6w |
+| EP20_Thanjavur_full_720p.mp4 | 506.7 s | 1hqoAx81pNqCVgbnnjRZCra2ujKL39bRQ |
+
+Checked on frames of the renders and of the 720p file: title, hook words, chapter cards, number cards, bars, pop-up, end card. Not checked: the film has not been watched or heard from start to finish by a person.
