@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **90 of 128** (B01–B09 = 001–090: checked, on Drive) |
+| Pictures | **100 of 128** (B01–B10 = 001–100: checked, on Drive) |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -38,6 +38,7 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B07 | 061–070 | 1QHpoFd_Rkzad4HnSblTl93Gu3giNG4hk |
 | B08 | 071–080 | 14uAXZ6PzD-_n5otb8Ora-Fs7dBqpEwn8 |
 | B09 | 081–090 | 18LYDtG-g6RLXJf8wMElm8kmWyfgRFvE5 |
+| B10 | 091–100 | 1pEzWTfLFMGOA1kGdJ_suk_I_ZatuqgEA |
 
 ## Picture batches
 
@@ -63,6 +64,8 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 - 071 `dome_segment_levers`: the raw picture has rounded black corners; `shots/crops.json` cuts 1.5 % off each edge for the film copy (the zip on Drive holds the raw picture).
 - 075 `dome_plaster_stucco` (kept): one small weathered stucco figure sits in a niche at the lower left.
 - 086 `folk_mural_peeling` was made with 031 as the reference picture, so the two murals match.
+- 098 `spiral_ramp_tower`: rounded black corners in the raw picture, trimmed by `shots/crops.json` like 071. (All of 001–100 were tested for dark corners: only 071 and 098.)
+- 092 `vimana_inside_hollow` (kept): reads as a stone passage with steps rather than a view straight up; 093 shows the stepped courses from below. If a spare call is left, remake 092 as a view straight up a square shaft.
 - 025 `log_rollers_close` (kept): the stone is a squared block, not rounded.
 
 ## Open points
