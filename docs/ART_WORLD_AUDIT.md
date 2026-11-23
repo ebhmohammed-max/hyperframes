@@ -418,3 +418,28 @@ after. Result: **70/70 pass, four defects fixed, none remaining.**
 Measured on this master: 2100.118667 s, 63,540 frames, h264 1080p30 + aac
 48 kHz stereo, 773,212,635 B. Seam audit EXIT 0, worst corner jump 13.3 (limit
 25), zero cadence gaps. Loudness −16.81 LUFS, −1.27 dBTP, LRA 4.90.
+
+### Drive delivery state (fifth render)
+
+The master exceeds Arena's 100 MB upload cap, so it is delivered as 17
+lossless stream-copy parts (`-c copy`, not a re-encode), 120 s segments,
+largest 62.3 MB, total 737.4 MB. Parts sum to 2100.31 s against the master's
+2100.12 s — boundary rounding only, no content difference.
+
+Episode 02 folder `1SltSCtCl6DbqvYOaQi85KEpTdzqyZQqS`.
+
+Uploaded (9 of 17): part00 `1t3nqCcJPG39hxCLsIa4rLcxb0rrp5ck6` ·
+part01 `1eW6oo0H7-p6uF2zVnSHiKHIM_5UrtEyH` ·
+part02 `1pJbP7utvcUwoucpgKrsWhKbw72PmJ6Ze` ·
+part03 `131cnRNZFEX3dX34ce__dNCTqz47UfY_l` ·
+part04 `19uq-JJzXzOPfHaR68uHEKFX-VETcbvhR` ·
+part05 `1_XRAJmQhYf-Z82Fs1bahyTz6IijeYmgC` ·
+part06 `1P7Vt8m6_kxRzbQliSGdhZdAnt4bV92Tn` ·
+part07 `1LooMhJI1kk24POsyBhOCr92LU29r_fAu` ·
+part08 `10qa7bDCPmBKuILOnRok15E6mBHjgkhFo`
+
+**Still to upload (8 of 17):** part09–part16, plus `README.txt` (the
+rejoin instructions, staged at `/tmp/driveparts/README.txt`).
+
+Arena rate-limits uploads per reply; after roughly nine files the remainder
+must wait for the next reply. Local parts live in `/tmp/driveparts/`.
