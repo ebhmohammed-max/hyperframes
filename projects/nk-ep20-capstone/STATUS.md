@@ -1,0 +1,52 @@
+# EP20 status: 80 டன் கல்லு 200 அடி உயரத்துக்கு எப்படி போச்சு? (Thanjavur Big Temple, topic bank Y3)
+
+Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools and delivery pattern; read that project's STATUS.md for the full recipe).
+
+## Where it stands
+
+| Step | State |
+|---|---|
+| Research, script v1 (68 lines, N01–N07) | done: `script/script.mjs`, `SCRIPT_TA.md` |
+| Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
+| Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
+| Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
+| Pictures | **10 of 128** (batch B01 = 001–010, checked, on Drive) |
+| Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
+| Stills checks, render, parts, 720p, upload | not started |
+
+Clip voice lengths (s): N01 48.61, N02 65.83, N03 58.52, N04 67.03, N05 80.25, N06 55.11, N07 82.27.
+
+## Drive
+
+Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `images` `1klK3N1A4Q4Olsn2CyhzMhyzek-_rkNym`.
+
+| File | Drive id |
+|---|---|
+| EP20_SCRIPT_TA.md | 1OQ3KZOTpUR3qhi7x327Lc5kV8wVzjRcc |
+| EP20_FACT_SHEET.md | 1Fo1VmVy5tB6hVJGZ9Ijh623jCTOvz9La |
+| EP20_SHOTLIST.md | 1c2czpwFB5RpgDRQF9dvnyKeDrbjD2QWt |
+| EP20_narration_scratch_voice02.zip (N01–N08) | 1RFVOpgVaqCGdvDkAEZtsKbPepHwtQdzw |
+
+| Batch | Pictures | Drive id (images) |
+|---|---|---|
+| B01 | 001–010 | 1x0_eGLd37dil1u2DII1bx6QbT4koqP1z |
+
+## Picture batches
+
+Each turn: `$PY tools/next.py 10` (prompts) → ten `generate_image` calls into `google_drive/ep20_pics/raw/NNN.jpg` → `$PY tools/sheet.py a b; $PY tools/crops.py; $PY tools/batch.py <B> a b [two big numbers]` → view `google_drive/_sheet_E20B<nn>.jpg` (a new name each time) → upload the zip from `google_drive/ep20_up/` into `images`.
+
+Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elephants_legend`, `capstone_dome_close`; hook words `ramp_elephants_legend`, `palm_leaf_sums_lamp`, `inscription_base_close`, `capstone_dome_close`; chapter cards N02 `sarapallam_village_fields`, N03 `ramp_profile_long`, N04 `inscription_base_close`, N05 `dome_seams_top_view`, N06 `half_tower_short_ramps`, N07 `granite_mass_corner_wide`.
+
+## For the redo pass
+
+- 007 `ramp_elephants_legend`: the tower already wears its dome while the stone is still on the ramp. Make again with a flat, unfinished top (it is also a title plate).
+
+## Open points
+
+- Script is v1 and unheard: the hook line 7 ("கதை. கணக்கு. கல்வெட்டு. கல்லு.") is only 1.9 s for four flash words; check on stills.
+- The film says the cap is in several pieces (Branfoot; The Hindu 2010) and that the number of pieces is not settled. The 80 t / 25 t and 216 ft / 196 ft pairs are explained in the fact sheet.
+- The ramp sums are ours (school arithmetic, assumptions in the fact sheet).
+
+## After a full wipe
+
+`git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`; `bash projects/nk-ep20-capstone/tools/setup.sh` through `start_process` (about 2.5 minutes, gives `/tmp/hfenv.sh`); download the narration zip and every picture zip from Drive into `google_drive/`, unzip the narration into `narration/`, then `bash tools/restore.sh`.

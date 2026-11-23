@@ -1,0 +1,1282 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "capstone_dome_close",
+  "look": "T",
+  "file": "EP20_001_N01q00_capstone_dome_close.jpg",
+  "prompt": "The great ribbed stone dome at the very top of the temple tower seen close from the air, weathered grey-brown granite, a small gilded pot-shaped finial on its crown, a carved stone bull at each corner of the square slab beneath it, low golden sun, open sky behind, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 0,
+  "k": 1,
+  "name": "vimana_lookup_visitor",
+  "look": "T",
+  "file": "EP20_002_N01q00_vimana_lookup_visitor.jpg",
+  "prompt": "Extreme low angle from the foot of the tower, looking straight up its receding carved granite tiers to the small dome far above, in the foreground one visitor seen from behind with the head tilted far back. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "tower_crane_modern",
+  "look": "O",
+  "file": "EP20_003_N01q01_tower_crane_modern.jpg",
+  "prompt": "A modern steel tower crane lifting a concrete beam above a city building site at dusk, seen from below, a few workers in helmets small in the frame, no signboards and no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "chola_site_dawn_wide",
+  "look": "C",
+  "file": "EP20_004_N01q01_chola_site_dawn_wide.jpg",
+  "prompt": "Wide view of the building site at dawn: the half-built granite tower wrapped in bamboo and timber scaffolding, hundreds of tiny workers, elephants, stacks of dressed blocks, smoke from cooking fires drifting over the plain. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "paatti_story_veranda",
+  "look": "H",
+  "file": "EP20_005_N01q02_paatti_story_veranda.jpg",
+  "prompt": "A grandmother telling a story to a small child on the tiled veranda of an old house at night by the light of one lamp, both seen from behind, the child's face turned away. The countryside and small towns of the Kaveri delta in Tamil Nadu in the present day, natural light, no signboards, no lettering of any kind, no flags, ordinary Tamil people in everyday clothes: saris, shirts, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 2,
+  "k": 1,
+  "name": "school_trip_tower",
+  "look": "T",
+  "file": "EP20_006_N01q02_school_trip_tower.jpg",
+  "prompt": "A line of schoolchildren in plain uniforms seen from behind in the temple courtyard, all looking up at the tower, a teacher's arm pointing upward. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "ramp_elephants_legend",
+  "look": "L",
+  "file": "EP20_007_N01q03_ramp_elephants_legend.jpg",
+  "prompt": "An immense straight earthen ramp rising to the very top of the temple tower, a team of elephants in rope harness hauling one enormous rounded stone on log rollers up the ramp, long ropes, tiny men alongside. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "ramp_horizon_aerial_legend",
+  "look": "L",
+  "file": "EP20_008_N01q03_ramp_horizon_aerial_legend.jpg",
+  "prompt": "Aerial view of a flat green plain with one arrow-straight earthen ramp running from a distant village at the horizon all the way to the top of the temple tower in the foreground, thin as a line, long shadow, no people visible. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "palm_leaf_sums_lamp",
+  "look": "D",
+  "file": "EP20_009_N01q04_palm_leaf_sums_lamp.jpg",
+  "prompt": "Blank palm-leaf strips, an iron stylus, a knotted measuring cord, a handful of small stone cubes and a brass oil lamp, laid out like a builder's working table. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 10,
+  "clip": "N01",
+  "q": 5,
+  "k": 0,
+  "name": "ramp_dwarfs_temple_model",
+  "look": "D",
+  "file": "EP20_010_N01q05_ramp_dwarfs_temple_model.jpg",
+  "prompt": "A table-top model: a small carved stone model of a temple tower and beside it a vast long wedge of red earth many times bigger than the tower, lit by one lamp, a hand resting at the edge of the table. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 11,
+  "clip": "N01",
+  "q": 6,
+  "k": 0,
+  "name": "dome_joint_shadow_close",
+  "look": "T",
+  "file": "EP20_011_N01q06_dome_joint_shadow_close.jpg",
+  "prompt": "Very close on the curved surface of the stone dome at the top of the tower: one dark vertical seam between two fitted blocks catches the raking light, lichen and old plaster around it, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 12,
+  "clip": "N01",
+  "q": 6,
+  "k": 1,
+  "name": "scholar_scaffold_top",
+  "look": "T",
+  "file": "EP20_012_N01q06_scholar_scaffold_top.jpg",
+  "prompt": "A researcher in a plain cotton shirt seen from behind on bamboo scaffolding beside the dome at the top of the tower during conservation work, one hand flat on the stone, the plain far below. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 13,
+  "clip": "N01",
+  "q": 8,
+  "k": 0,
+  "name": "temple_complex_aerial_sunrise",
+  "look": "T",
+  "file": "EP20_013_N01q08_temple_complex_aerial_sunrise.jpg",
+  "prompt": "Aerial view of the whole temple complex at sunrise: the long walled courtyard, the gateways, the pillared halls and the great tower throwing a long shadow, the low town and palms around it. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 14,
+  "clip": "N01",
+  "q": 8,
+  "k": 1,
+  "name": "granite_courses_hand",
+  "look": "T",
+  "file": "EP20_014_N01q08_granite_courses_hand.jpg",
+  "prompt": "Close view of the huge moulded granite courses of the tower base in raking morning light, a visitor's hand touching the stone, hand only. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N01",
+  "q": 9,
+  "k": 0,
+  "name": "gateway_tower_reveal",
+  "look": "T",
+  "file": "EP20_015_N01q09_gateway_tower_reveal.jpg",
+  "prompt": "View through the dark stone gateway of the temple to the bright tower beyond, a few pilgrims in silhouette walking in. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N01",
+  "q": 9,
+  "k": 1,
+  "name": "vimana_evening_full",
+  "look": "T",
+  "file": "EP20_016_N01q09_vimana_evening_full.jpg",
+  "prompt": "The full tower from base to finial glowing in warm evening light against a deep sky, birds wheeling near the top, the courtyard small below. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "rajaraja_back_pavilion",
+  "look": "C",
+  "file": "EP20_017_N02q00_rajaraja_back_pavilion.jpg",
+  "prompt": "A Chola king seen from behind standing in an open pillared pavilion, white silk lower garment, gold armlets and a jewelled crown, an attendant holding a tall parasol, both looking across the courtyard at the newly finished tower. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N02",
+  "q": 0,
+  "k": 1,
+  "name": "vimana_finished_1010",
+  "look": "C",
+  "file": "EP20_018_N02q00_vimana_finished_1010.jpg",
+  "prompt": "The newly finished tower in the year 1010, pale fresh-cut granite, the last bamboo scaffolding being taken down, oil lamps and flower garlands at the base, a crowd in the courtyard seen from behind. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "tower_over_sanctum_side",
+  "look": "T",
+  "file": "EP20_019_N02q01_tower_over_sanctum_side.jpg",
+  "prompt": "Side view of the temple: the tower rising directly above the square sanctum at the back of the long hall, people tiny at its foot for scale, clear morning light. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "tiers_carved_detail",
+  "look": "T",
+  "file": "EP20_020_N02q01_tiers_carved_detail.jpg",
+  "prompt": "Telephoto view of the middle tiers of the tower: rows of miniature carved shrines, pilasters and niches repeating upward, pigeons on the ledges, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "capstone_sky_telephoto",
+  "look": "T",
+  "file": "EP20_021_N02q02_capstone_sky_telephoto.jpg",
+  "prompt": "Telephoto view from the ground of the dome on top of the tower against tall white monsoon clouds, the stone bulls at its corners in silhouette, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "sarapallam_village_fields",
+  "look": "L",
+  "file": "EP20_022_N02q03_sarapallam_village_fields.jpg",
+  "prompt": "A small village of thatched houses among paddy fields and palmyra palms, and at its edge the beginning of a great earthen embankment that runs away toward a tiny temple tower on the far horizon. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "ramp_start_baskets",
+  "look": "L",
+  "file": "EP20_023_N02q03_ramp_start_baskets.jpg",
+  "prompt": "Long files of men and women carrying baskets of earth on their heads up the foot of a broad earthen embankment, more files coming across the fields. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N02",
+  "q": 3,
+  "k": 2,
+  "name": "ramp_meets_tower_top",
+  "look": "L",
+  "file": "EP20_024_N02q03_ramp_meets_tower_top.jpg",
+  "prompt": "The top of the great earthen ramp meeting the summit of the tower: a timber platform, the huge rounded stone arriving on rollers, men with levers guiding it, the plain far below. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "log_rollers_close",
+  "look": "L",
+  "file": "EP20_025_N02q04_log_rollers_close.jpg",
+  "prompt": "Close view of thick log rollers under a huge stone on a timber sledge, men carrying the freed logs from the back to the front, dust in the air, faces turned away. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N02",
+  "q": 4,
+  "k": 1,
+  "name": "elephants_ropes_strain",
+  "look": "L",
+  "file": "EP20_026_N02q04_elephants_ropes_strain.jpg",
+  "prompt": "Four elephants in rope harness straining forward on thick ropes on a broad earthen road, mahouts on their necks seen from behind, dust rising. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N02",
+  "q": 5,
+  "k": 0,
+  "name": "old_book_1930s_desk",
+  "look": "D",
+  "file": "EP20_027_N02q05_old_book_1930s_desk.jpg",
+  "prompt": "An old cloth-bound book of the 1930s lying open on a wooden desk, yellowed pages whose print is far out of focus and cannot be read, a tipped-in sepia plate of a temple tower, round spectacles and a fountain pen beside it. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N02",
+  "q": 5,
+  "k": 1,
+  "name": "finger_under_line",
+  "look": "D",
+  "file": "EP20_028_N02q05_finger_under_line.jpg",
+  "prompt": "A finger resting under one line on a yellowed book page, the print a soft blur that cannot be read, very shallow focus, hand only. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 29,
+  "clip": "N02",
+  "q": 6,
+  "k": 0,
+  "name": "elder_story_banyan",
+  "look": "H",
+  "file": "EP20_029_N02q06_elder_story_banyan.jpg",
+  "prompt": "A village elder seen from behind telling a story to a few seated listeners under a banyan tree at dusk, the temple tower small on the horizon. The countryside and small towns of the Kaveri delta in Tamil Nadu in the present day, natural light, no signboards, no lettering of any kind, no flags, ordinary Tamil people in everyday clothes: saris, shirts, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N02",
+  "q": 6,
+  "k": 1,
+  "name": "generations_veranda_tower",
+  "look": "H",
+  "file": "EP20_030_N02q06_generations_veranda_tower.jpg",
+  "prompt": "A grandmother, a mother and a child sitting in a row on a veranda step, all seen from behind, looking toward the far temple tower in the evening light. The countryside and small towns of the Kaveri delta in Tamil Nadu in the present day, natural light, no signboards, no lettering of any kind, no flags, ordinary Tamil people in everyday clothes: saris, shirts, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N02",
+  "q": 7,
+  "k": 0,
+  "name": "folk_mural_ramp",
+  "look": "O",
+  "file": "EP20_031_N02q07_folk_mural_ramp.jpg",
+  "prompt": "A faded folk painting on an old lime-washed village wall, in a naive hand: elephants pulling a round stone up a long slope to a temple tower, the paint cracked and peeling, soft evening light, no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N02",
+  "q": 7,
+  "k": 1,
+  "name": "cord_scale_cubes",
+  "look": "D",
+  "file": "EP20_032_N02q07_cord_scale_cubes.jpg",
+  "prompt": "A knotted measuring cord, a small iron balance scale and neat rows of stone cubes laid in a straight line. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N02",
+  "q": 8,
+  "k": 0,
+  "name": "sand_table_ramp_hands",
+  "look": "D",
+  "file": "EP20_033_N02q08_sand_table_ramp_hands.jpg",
+  "prompt": "Two hands shaping a long thin ramp of damp sand on a wooden table, leading up to a small carved stone model of a temple tower, hands only. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "ramp_profile_long",
+  "look": "L",
+  "file": "EP20_034_N03q00_ramp_profile_long.jpg",
+  "prompt": "Side view from far across the plain: an extremely long, almost flat wedge of earth rising very gently from the left edge of the frame to the top of the temple tower at the right edge, tiny figures on it. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "walkers_gentle_slope",
+  "look": "L",
+  "file": "EP20_035_N03q00_walkers_gentle_slope.jpg",
+  "prompt": "Men walking up a broad earthen road that slopes so gently it looks almost level, on the crest of a high embankment, the plain far below on both sides, the tower top small ahead. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "pullers_hundreds_ropes",
+  "look": "L",
+  "file": "EP20_036_N03q01_pullers_hundreds_ropes.jpg",
+  "prompt": "Seen from above: some hundreds of men in four long rows hauling on four thick ropes, behind them the great rounded stone on rollers, on a broad earthen road. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "stone_sledge_low",
+  "look": "L",
+  "file": "EP20_037_N03q01_stone_sledge_low.jpg",
+  "prompt": "Low angle beside the great stone on its timber sledge and log rollers, ropes taut, feet of the hauling men braced in the earth. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 38,
+  "clip": "N03",
+  "q": 1,
+  "k": 2,
+  "name": "elephant_push_forehead",
+  "look": "L",
+  "file": "EP20_038_N03q01_elephant_push_forehead.jpg",
+  "prompt": "An elephant pushing the back of the great stone with its padded forehead, a mahout seen from behind, men steadying the rollers. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "ramp_edge_crumble",
+  "look": "L",
+  "file": "EP20_039_N03q02_ramp_edge_crumble.jpg",
+  "prompt": "The edge of a very high earthen embankment crumbling in a small landslide, loose earth pouring down the side, workers on the crest stepping back, seen from a distance. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 40,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "embankment_hill_front",
+  "look": "L",
+  "file": "EP20_040_N03q03_embankment_hill_front.jpg",
+  "prompt": "Front view of the ramp near its high end: an enormous earthen hill with a very broad base and a narrow road along its crest, the temple tower behind it, people like ants at its foot. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "sand_pile_spreads",
+  "look": "D",
+  "file": "EP20_041_N03q03_sand_pile_spreads.jpg",
+  "prompt": "A hand pouring dry sand onto a wooden table: the pile spreads wide as it grows taller, an upright stick beside it marking the height, hand only. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "earth_mountain_dusk",
+  "look": "L",
+  "file": "EP20_042_N03q04_earth_mountain_dusk.jpg",
+  "prompt": "A colossal man-made mound of earth as a dark ridge against the dusk sky, a line of tiny torches along its crest, the temple tower small at its end. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "temple_small_beside_ramp",
+  "look": "L",
+  "file": "EP20_043_N03q05_temple_small_beside_ramp.jpg",
+  "prompt": "Aerial view: the whole walled temple complex looking small beside the gigantic earthen ramp-mound that leads to its tower, the mound many times larger than the temple, no people visible. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N03",
+  "q": 6,
+  "k": 0,
+  "name": "one_stone_foot_of_mound",
+  "look": "L",
+  "file": "EP20_044_N03q06_one_stone_foot_of_mound.jpg",
+  "prompt": "One rounded stone on a sledge at the foot of the vast earthen mound, a few men beside it very small, the mound filling the frame behind. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N03",
+  "q": 6,
+  "k": 1,
+  "name": "basket_carriers_endless",
+  "look": "L",
+  "file": "EP20_045_N03q06_basket_carriers_endless.jpg",
+  "prompt": "Endless files of earth carriers with baskets on their heads crossing the plain to the horizon, seen from behind, heat haze. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 46,
+  "clip": "N03",
+  "q": 7,
+  "k": 0,
+  "name": "borrow_pit_vast",
+  "look": "L",
+  "file": "EP20_046_N03q07_borrow_pit_vast.jpg",
+  "prompt": "A vast excavated pit with stepped earthen sides, crowds of tiny workers digging and carrying earth up ramps, seen from the rim. The legend as it is told, painted like a remembered story: warm golden dust haze, soft dreamlike light, slightly grander than life. South India a thousand years ago, red earth, elephants, coir ropes and log rollers, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N03",
+  "q": 7,
+  "k": 1,
+  "name": "flat_fields_no_trace",
+  "look": "H",
+  "file": "EP20_047_N03q07_flat_fields_no_trace.jpg",
+  "prompt": "Flat green paddy fields under a monsoon sky, a farmer walking along a field bund seen from behind, the temple tower tiny on the horizon, the land perfectly level with no mound or ridge anywhere. The countryside and small towns of the Kaveri delta in Tamil Nadu in the present day, natural light, no signboards, no lettering of any kind, no flags, ordinary Tamil people in everyday clothes: saris, shirts, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 48,
+  "clip": "N03",
+  "q": 8,
+  "k": 0,
+  "name": "sand_ramp_swept",
+  "look": "D",
+  "file": "EP20_048_N03q08_sand_ramp_swept.jpg",
+  "prompt": "The sand ramp on the wooden table collapsed and half swept away, a hand brushing the sand aside, the small stone tower model still standing, hand only. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N03",
+  "q": 8,
+  "k": 1,
+  "name": "inscription_wall_long",
+  "look": "T",
+  "file": "EP20_049_N03q08_inscription_wall_long.jpg",
+  "prompt": "The long moulded granite base of the temple covered with band after band of small worn chiselled characters too weathered to read, receding into the distance in raking light, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "inscription_base_close",
+  "look": "T",
+  "file": "EP20_050_N04q00_inscription_base_close.jpg",
+  "prompt": "Close view of the granite base mouldings of the temple covered with rows of small worn ancient chiselled characters, weathered and illegible, raking golden light, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N04",
+  "q": 0,
+  "k": 1,
+  "name": "visitor_tracing_plinth",
+  "look": "T",
+  "file": "EP20_051_N04q00_visitor_tracing_plinth.jpg",
+  "prompt": "A visitor crouching at the temple base, seen from behind, tracing the worn chiselled characters with one finger. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "gold_weighed_scribe",
+  "look": "C",
+  "file": "EP20_052_N04q01_gold_weighed_scribe.jpg",
+  "prompt": "Gold ornaments and small gold coins being weighed on a hand balance in a pillared hall, a scribe seen from behind noting it on a palm leaf with a stylus. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N04",
+  "q": 1,
+  "k": 1,
+  "name": "sheep_flock_temple_lamp",
+  "look": "C",
+  "file": "EP20_053_N04q01_sheep_flock_temple_lamp.jpg",
+  "prompt": "A shepherd seen from behind bringing a small flock of sheep to the temple gate at dusk, a bronze oil lamp burning in a stone niche in the foreground. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "dancers_street_houses",
+  "look": "C",
+  "file": "EP20_054_N04q02_dancers_street_houses.jpg",
+  "prompt": "A street of small tiled houses beside the high temple wall, women in bright silk walking away toward the temple carrying small lamps, seen from behind, early evening. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "dancers_hall_far",
+  "look": "C",
+  "file": "EP20_055_N04q02_dancers_hall_far.jpg",
+  "prompt": "Dancers performing in a pillared stone hall seen from far back between the pillars, lit by rows of oil lamps, small in the frame, faces not visible. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "drummers_pipers_back",
+  "look": "C",
+  "file": "EP20_056_N04q03_drummers_pipers_back.jpg",
+  "prompt": "Temple drummers and pipers seen from behind walking through the courtyard in procession, bare backs and white waist cloths, long shadows. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N04",
+  "q": 3,
+  "k": 1,
+  "name": "accountants_palm_leaves",
+  "look": "C",
+  "file": "EP20_057_N04q03_accountants_palm_leaves.jpg",
+  "prompt": "Temple accountants sitting cross-legged in a row writing on palm leaves with iron styluses, heaps of paddy being measured with wooden measures behind them, faces bent down. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "master_builder_plumbline",
+  "look": "C",
+  "file": "EP20_058_N04q04_master_builder_plumbline.jpg",
+  "prompt": "The master builder seen from behind, an older man with a white waist cloth and a cloth over one shoulder, holding a plumb line and a wooden measuring rod, looking up at the scaffolded tower. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "gilded_finial_workshop",
+  "look": "C",
+  "file": "EP20_059_N04q05_gilded_finial_workshop.jpg",
+  "prompt": "A tall pot-shaped copper finial covered in gold gleaming in a metalworkers' shed, two craftsmen polishing it, faces turned away, a small furnace glowing behind. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N04",
+  "q": 5,
+  "k": 1,
+  "name": "finial_procession_courtyard",
+  "look": "C",
+  "file": "EP20_060_N04q05_finial_procession_courtyard.jpg",
+  "prompt": "The gilded finial carried on a timber litter by bearers through the temple courtyard, the king seen from behind under a parasol watching, priests and drummers around, morning light. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N04",
+  "q": 5,
+  "k": 2,
+  "name": "finial_set_on_dome",
+  "look": "C",
+  "file": "EP20_061_N04q05_finial_set_on_dome.jpg",
+  "prompt": "Men on bamboo scaffolding at the very top of the tower setting the gilded finial on the crown of the stone dome at sunrise, seen from the air. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "stonecutter_letters_hands",
+  "look": "C",
+  "file": "EP20_062_N04q06_stonecutter_letters_hands.jpg",
+  "prompt": "Close view of a stonecutter's hands with a small iron chisel and mallet cutting characters into the granite base, stone chips flying, the characters soft and illegible, hands only. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N04",
+  "q": 6,
+  "k": 1,
+  "name": "plain_wall_shadow",
+  "look": "T",
+  "file": "EP20_063_N04q06_plain_wall_shadow.jpg",
+  "prompt": "A stretch of plain uninscribed granite wall between two inscribed bands, in deep shadow, one shaft of light falling on the bare stone, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N04",
+  "q": 7,
+  "k": 0,
+  "name": "estampage_scholar_wall",
+  "look": "T",
+  "file": "EP20_064_N04q07_estampage_scholar_wall.jpg",
+  "prompt": "An epigraphist seen from behind pressing a large sheet of wet paper against the inscribed temple wall with a brush to take an impression, a cloth bag at the feet. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N04",
+  "q": 8,
+  "k": 0,
+  "name": "sheep_tally_pebbles",
+  "look": "C",
+  "file": "EP20_065_N04q08_sheep_tally_pebbles.jpg",
+  "prompt": "A scribe seen from behind counting sheep through a gate with a row of tally pebbles on the ground, a shepherd waiting, evening. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N04",
+  "q": 8,
+  "k": 1,
+  "name": "dome_dark_dusk",
+  "look": "T",
+  "file": "EP20_066_N04q08_dome_dark_dusk.jpg",
+  "prompt": "The dome at the top of the tower as a dark shape against a deep dusk sky, the first star, seen from the courtyard, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N04",
+  "q": 9,
+  "k": 0,
+  "name": "scaffold_ladders_up",
+  "look": "T",
+  "file": "EP20_067_N04q09_scaffold_ladders_up.jpg",
+  "prompt": "Bamboo scaffolding and ladders running up the side of the tower during conservation work, seen from below looking up, one worker climbing small in the frame. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "researcher_measuring_base",
+  "look": "T",
+  "file": "EP20_068_N05q00_researcher_measuring_base.jpg",
+  "prompt": "An architect-researcher in plain clothes of the 1980s seen from behind at the foot of the tower with a long measuring tape and a drawing board, an assistant holding the other end of the tape. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N05",
+  "q": 0,
+  "k": 1,
+  "name": "dome_seams_top_view",
+  "look": "T",
+  "file": "EP20_069_N05q00_dome_seams_top_view.jpg",
+  "prompt": "View straight down from the air onto the stone dome at the top of the tower: fine radial seams divide the dome into wedge-shaped segments around the gilded finial, the four corner bulls below, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "orange_segments_stone",
+  "look": "D",
+  "file": "EP20_070_N05q01_orange_segments_stone.jpg",
+  "prompt": "A peeled orange opened into its segments on a slab of granite, beside it a small stone model of a dome made of wedge-shaped pieces, one piece pulled out. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N05",
+  "q": 1,
+  "k": 1,
+  "name": "dome_segment_levers",
+  "look": "C",
+  "file": "EP20_071_N05q01_dome_segment_levers.jpg",
+  "prompt": "Stonemasons on the timber working platform at the top of the tower easing one wedge-shaped block of the dome into place with wooden levers and ropes, other segments already standing, faces turned away. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "library_desk_books",
+  "look": "D",
+  "file": "EP20_072_N05q02_library_desk_books.jpg",
+  "prompt": "A scholar's desk in an old university library: open books whose print is a soft blur, black-and-white photographs of a temple tower, a notebook with a pencil, a green-shaded lamp, no readable writing. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "photo_prints_dome_glass",
+  "look": "D",
+  "file": "EP20_073_N05q02_photo_prints_dome_glass.jpg",
+  "prompt": "Black-and-white photographic prints of a ribbed stone temple dome spread on a desk, a magnifying glass lying on one of them, a hand at the edge. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "dome_models_2_4_8",
+  "look": "D",
+  "file": "EP20_074_N05q03_dome_models_2_4_8.jpg",
+  "prompt": "Three small carved stone models of the same ribbed dome side by side on a wooden table: one cut into two pieces, one into four, one into eight, slightly pulled apart. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 75,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "dome_plaster_stucco",
+  "look": "T",
+  "file": "EP20_075_N05q03_dome_plaster_stucco.jpg",
+  "prompt": "Close view of the dome surface: an old coat of lime plaster and small stucco figures hiding the stone beneath, patches fallen away, weathered, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 76,
+  "clip": "N05",
+  "q": 3,
+  "k": 2,
+  "name": "dome_far_haze_birds",
+  "look": "T",
+  "file": "EP20_076_N05q03_dome_far_haze_birds.jpg",
+  "prompt": "The top of the tower far away in morning haze, kites circling the dome, treetops in the foreground, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "balance_stone_weights",
+  "look": "D",
+  "file": "EP20_077_N05q04_balance_stone_weights.jpg",
+  "prompt": "An old iron beam balance with a rough block of granite in one pan and plain iron weights in the other, the beam not level. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N05",
+  "q": 4,
+  "k": 1,
+  "name": "dome_scale_figures",
+  "look": "T",
+  "file": "EP20_078_N05q04_dome_scale_figures.jpg",
+  "prompt": "The dome at the top of the tower with two conservation workers standing beside it on scaffolding for scale, seen from the air, small against the stone. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 79,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "theodolite_tower",
+  "look": "O",
+  "file": "EP20_079_N05q05_theodolite_tower.jpg",
+  "prompt": "A surveyor's brass theodolite on a wooden tripod aimed at the temple tower in the early morning, a surveyor in clothes of about 1900 bending to the eyepiece seen from behind, no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N05",
+  "q": 5,
+  "k": 1,
+  "name": "tower_profile_plain_sky",
+  "look": "T",
+  "file": "EP20_080_N05q05_tower_profile_plain_sky.jpg",
+  "prompt": "A clean full side profile of the tower from its base to its finial against a plain pale sky, a few people at its foot for scale. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "tower_shadow_courtyard",
+  "look": "T",
+  "file": "EP20_081_N05q06_tower_shadow_courtyard.jpg",
+  "prompt": "The long clear shadow of the tower lying across the paved courtyard in the late afternoon, visitors walking through the shadow, seen from a high angle. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N05",
+  "q": 6,
+  "k": 1,
+  "name": "nandi_pavilion",
+  "look": "T",
+  "file": "EP20_082_N05q06_nandi_pavilion.jpg",
+  "prompt": "The huge dark monolithic stone bull under its painted pillared pavilion, facing the temple, visitors small beside it seen from behind. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N05",
+  "q": 6,
+  "k": 2,
+  "name": "nayak_sculptors_bull",
+  "look": "O",
+  "file": "EP20_083_N05q06_nayak_sculptors_bull.jpg",
+  "prompt": "Sculptors of the 16th century polishing a huge seated stone bull with pads and sand, bamboo staging around it, a pillared pavilion half built above, men in white waist cloths and turbans, faces turned away, no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 84,
+  "clip": "N05",
+  "q": 7,
+  "k": 0,
+  "name": "wedge_blocks_row",
+  "look": "C",
+  "file": "EP20_084_N05q07_wedge_blocks_row.jpg",
+  "prompt": "Several wedge-shaped dressed granite blocks lying in a row on the ground of the building site, masons finishing their curved faces, the tower in scaffolding behind. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N05",
+  "q": 7,
+  "k": 1,
+  "name": "mason_ochre_line",
+  "look": "C",
+  "file": "EP20_085_N05q07_mason_ochre_line.jpg",
+  "prompt": "Close view of a mason snapping a string dipped in red ochre across a granite block to mark a cutting line, hands only. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N05",
+  "q": 8,
+  "k": 0,
+  "name": "folk_mural_peeling",
+  "look": "O",
+  "file": "EP20_086_N05q08_folk_mural_peeling.jpg",
+  "prompt": "The same faded folk painting of elephants and a ramp on a lime-washed wall, seen closer, a large flake of paint curling away where the stone was, dust in a shaft of light, no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N05",
+  "q": 8,
+  "k": 1,
+  "name": "visitor_steps_lookup",
+  "look": "T",
+  "file": "EP20_087_N05q08_visitor_steps_lookup.jpg",
+  "prompt": "A young visitor sitting alone on the courtyard steps, seen from behind, looking up at the tower in the evening. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 88,
+  "clip": "N05",
+  "q": 8,
+  "k": 2,
+  "name": "tower_night_stars",
+  "look": "T",
+  "file": "EP20_088_N05q08_tower_night_stars.jpg",
+  "prompt": "The tower at night under a sky full of stars, a few oil lamps at its base, the courtyard empty. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 89,
+  "clip": "N05",
+  "q": 9,
+  "k": 0,
+  "name": "base_sharp_top_soft",
+  "look": "T",
+  "file": "EP20_089_N05q09_base_sharp_top_soft.jpg",
+  "prompt": "The massive moulded granite base of the tower in sharp focus in the foreground, block upon block, the top of the tower soft and far above. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "palm_leaf_bundle_blank",
+  "look": "D",
+  "file": "EP20_090_N06q00_palm_leaf_bundle_blank.jpg",
+  "prompt": "A bundle of old palm-leaf manuscripts tied with a cord, the top leaf blank, beside a brass oil lamp. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 91,
+  "clip": "N06",
+  "q": 0,
+  "k": 1,
+  "name": "researchers_drawings_base",
+  "look": "T",
+  "file": "EP20_091_N06q00_researchers_drawings_base.jpg",
+  "prompt": "Two researchers seen from behind at the foot of the tower holding a rolled drawing between them, one pointing up at the tiers. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 92,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "vimana_inside_hollow",
+  "look": "T",
+  "file": "EP20_092_N06q01_vimana_inside_hollow.jpg",
+  "prompt": "Looking straight up inside the hollow tower: course after course of granite stepping inward, tier above tier, narrowing into darkness, one shaft of light, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 93,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "corbel_courses_detail",
+  "look": "T",
+  "file": "EP20_093_N06q01_corbel_courses_detail.jpg",
+  "prompt": "Close view inside the tower of stepped granite courses, each one overhanging the one below a little, dust in the light, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 94,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "interlock_joint_close",
+  "look": "T",
+  "file": "EP20_094_N06q02_interlock_joint_close.jpg",
+  "prompt": "Close view of dry joints between huge granite blocks fitted tightly with stepped notches, no mortar anywhere, a hand for scale at the edge. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 95,
+  "clip": "N06",
+  "q": 2,
+  "k": 1,
+  "name": "masons_block_levers",
+  "look": "C",
+  "file": "EP20_095_N06q02_masons_block_levers.jpg",
+  "prompt": "Masons lowering a notched granite block into its seat on the rising wall with wooden levers and coir ropes, faces turned away, bamboo scaffolding around. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 96,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "half_tower_short_ramps",
+  "look": "C",
+  "file": "EP20_096_N06q03_half_tower_short_ramps.jpg",
+  "prompt": "The half-built tower with several short earthen and timber ramps set against its sides, one above another, each finished tier used as a working platform, gangs of men and one elephant hauling blocks, seen from a distance. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 97,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "tier_platform_haul",
+  "look": "C",
+  "file": "EP20_097_N06q03_tier_platform_haul.jpg",
+  "prompt": "On top of a finished tier of the tower: a broad stone platform, a gang of men hauling a block across it on rollers, timber staging, the plain far below. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 98,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "spiral_ramp_tower",
+  "look": "C",
+  "file": "EP20_098_N06q04_spiral_ramp_tower.jpg",
+  "prompt": "The tower under construction wrapped by one earthen ramp that winds around it like a spiral, held by timber and bamboo, small gangs hauling blocks up it, seen from the air. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 99,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "sixty_men_block_ramp",
+  "look": "C",
+  "file": "EP20_099_N06q05_sixty_men_block_ramp.jpg",
+  "prompt": "About sixty men in two lines hauling one dressed granite block on log rollers up a short steep earthen ramp against the tower, seen from the side. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 100,
+  "clip": "N06",
+  "q": 5,
+  "k": 1,
+  "name": "rope_hands_feet",
+  "look": "C",
+  "file": "EP20_100_N06q05_rope_hands_feet.jpg",
+  "prompt": "Close view of hands gripping a thick coir rope and bare feet braced in red earth, bodies leaning, no faces. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 101,
+  "clip": "N06",
+  "q": 6,
+  "k": 0,
+  "name": "tools_rollers_rope_lever",
+  "look": "D",
+  "file": "EP20_101_N06q06_tools_rollers_rope_lever.jpg",
+  "prompt": "Log rollers, coils of coir rope, long wooden lever beams, iron chisels, wedges and a mallet laid out on packed earth, low sun. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 102,
+  "clip": "N06",
+  "q": 6,
+  "k": 1,
+  "name": "elephant_mahout_block",
+  "look": "C",
+  "file": "EP20_102_N06q06_elephant_mahout_block.jpg",
+  "prompt": "An elephant pushing a granite block along a timber track with its forehead, the mahout on its neck seen from behind, a mason walking alongside. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 103,
+  "clip": "N06",
+  "q": 7,
+  "k": 0,
+  "name": "summit_workers_sunset",
+  "look": "C",
+  "file": "EP20_103_N06q07_summit_workers_sunset.jpg",
+  "prompt": "Workers resting on the timber platform at the summit beside the finished dome at sunset, seen from behind, the plain glowing far below. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 104,
+  "clip": "N06",
+  "q": 7,
+  "k": 1,
+  "name": "tally_pebbles_lamp",
+  "look": "D",
+  "file": "EP20_104_N06q07_tally_pebbles_lamp.jpg",
+  "prompt": "Long rows of tally pebbles and a knotted cord on a stone floor beside an oil lamp, receding into shadow. A still life on old dark wood or stone, a single shaft of warm light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 105,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "granite_mass_corner_wide",
+  "look": "T",
+  "file": "EP20_105_N07q00_granite_mass_corner_wide.jpg",
+  "prompt": "Wide low view from a corner of the courtyard of the whole mass of the temple, hall and tower, an enormous weight of granite under a heavy sky, visitors tiny. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 106,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "delta_paddy_flat_aerial",
+  "look": "H",
+  "file": "EP20_106_N07q01_delta_paddy_flat_aerial.jpg",
+  "prompt": "Aerial view of the flat river delta: endless paddy fields, canals and palms to the horizon, not one hill or rock anywhere, no people visible. The countryside and small towns of the Kaveri delta in Tamil Nadu in the present day, natural light, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 107,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "river_silt_bullocks",
+  "look": "H",
+  "file": "EP20_107_N07q01_river_silt_bullocks.jpg",
+  "prompt": "The wide sandy bed of a great river with soft silt banks, a farmer with a pair of bullocks seen from behind, level land all around. The countryside and small towns of the Kaveri delta in Tamil Nadu in the present day, natural light, no signboards, no lettering of any kind, no flags, ordinary Tamil people in everyday clothes: saris, shirts, veshtis and lungis. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 108,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "quarry_hill_wedges",
+  "look": "C",
+  "file": "EP20_108_N07q02_quarry_hill_wedges.jpg",
+  "prompt": "A granite hill quarry: workers splitting the rock along rows of wedge holes, freed blocks being levered down, seen from a distance, hot light. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 109,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "rocky_hills_cart_track",
+  "look": "C",
+  "file": "EP20_109_N07q02_rocky_hills_cart_track.jpg",
+  "prompt": "Bare rocky hills rising from a dry plain, and from their foot a cart track leading away to the east with a few loaded carts on it, seen from above. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 110,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "site_monsoon_rain",
+  "look": "C",
+  "file": "EP20_110_N07q03_site_monsoon_rain.jpg",
+  "prompt": "The building site in heavy monsoon rain: scaffolding dripping, workers sheltering under palm-leaf thatch, the half-built tower grey in the downpour. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 111,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "ox_carts_convoy",
+  "look": "C",
+  "file": "EP20_111_N07q04_ox_carts_convoy.jpg",
+  "prompt": "A long convoy of heavy timber carts with solid wooden wheels, each drawn by several pairs of oxen and loaded with one granite block, on an earthen road at dawn, dust, drivers seen from behind. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 112,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "block_cart_wheel_close",
+  "look": "C",
+  "file": "EP20_112_N07q04_block_cart_wheel_close.jpg",
+  "prompt": "Close view of a granite block lashed with coir rope on a heavy cart, a solid wooden wheel turning in the ruts, no people. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 113,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "wedges_split_granite",
+  "look": "C",
+  "file": "EP20_113_N07q05_wedges_split_granite.jpg",
+  "prompt": "Close view of a line of iron wedges being hammered into granite, a crack running along the line, hands and mallet only. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 114,
+  "clip": "N07",
+  "q": 5,
+  "k": 1,
+  "name": "sculptors_thatch_rows",
+  "look": "C",
+  "file": "EP20_114_N07q05_sculptors_thatch_rows.jpg",
+  "prompt": "Rows of sculptors working under long thatch shelters, carving mouldings and figures from granite blocks, chips on the ground, faces bent down. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 115,
+  "clip": "N07",
+  "q": 5,
+  "k": 2,
+  "name": "block_seated_wall",
+  "look": "C",
+  "file": "EP20_115_N07q05_block_seated_wall.jpg",
+  "prompt": "A dressed granite block being slid into its place on the rising wall of the tower by a gang of men with levers, seen from above. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 116,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "small_early_shrine",
+  "look": "O",
+  "file": "EP20_116_N07q06_small_early_shrine.jpg",
+  "prompt": "A small single-storey early Chola stone shrine with a low tower among palms, a priest in a white waist cloth beside it seen from behind for scale, quiet morning, no lettering. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 117,
+  "clip": "N07",
+  "q": 6,
+  "k": 1,
+  "name": "tower_over_town_far",
+  "look": "T",
+  "file": "EP20_117_N07q06_tower_over_town_far.jpg",
+  "prompt": "The temple tower rising far above the low roofs and palms of the town, seen from a distance in clear morning light. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 118,
+  "clip": "N07",
+  "q": 7,
+  "k": 0,
+  "name": "tower_storm_lightning",
+  "look": "T",
+  "file": "EP20_118_N07q07_tower_storm_lightning.jpg",
+  "prompt": "The tower standing in a monsoon storm, dark clouds, a distant flash of lightning, rain on the courtyard, no people. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 119,
+  "clip": "N07",
+  "q": 7,
+  "k": 1,
+  "name": "double_wall_corridor",
+  "look": "T",
+  "file": "EP20_119_N07q07_double_wall_corridor.jpg",
+  "prompt": "A dim stone corridor inside the base of the tower between two massive granite walls, light from a doorway at the far end, no people and no images of deities. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 120,
+  "clip": "N07",
+  "q": 8,
+  "k": 0,
+  "name": "workers_camp_night",
+  "look": "C",
+  "file": "EP20_120_N07q08_workers_camp_night.jpg",
+  "prompt": "A vast workers' camp at night: hundreds of small fires and thatch huts, and beyond them the tower in scaffolding against the stars. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 121,
+  "clip": "N07",
+  "q": 8,
+  "k": 1,
+  "name": "stonemason_hands_chisel",
+  "look": "C",
+  "file": "EP20_121_N07q08_stonemason_hands_chisel.jpg",
+  "prompt": "An old stonemason's hands holding an iron chisel and a wooden mallet over a half-carved granite moulding, his face in shadow. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 122,
+  "clip": "N07",
+  "q": 8,
+  "k": 2,
+  "name": "mahout_elephant_tank",
+  "look": "C",
+  "file": "EP20_122_N07q08_mahout_elephant_tank.jpg",
+  "prompt": "A mahout washing his elephant at the edge of a stone-stepped tank at dusk, seen from behind, the scaffolded tower reflected in the water. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 123,
+  "clip": "N07",
+  "q": 9,
+  "k": 0,
+  "name": "mason_family_lookup",
+  "look": "C",
+  "file": "EP20_123_N07q09_mason_family_lookup.jpg",
+  "prompt": "A stonemason with his wife and a small child, all seen from behind, standing in the courtyard and looking up at the finished tower in morning light. Thanjavur in the year 1010, in the time of the Chola kings, painted as a sober historical reconstruction: red earth, grey-brown granite, bamboo and timber scaffolding, coir ropes, log rollers, wooden levers, elephants; only hand tools, nothing modern, no lettering of any kind, no flags. Where the temple appears it is the Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial, the men bare-chested in short white cotton waist cloths, the women in plain draped cotton saris. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 124,
+  "clip": "N07",
+  "q": 9,
+  "k": 1,
+  "name": "chisel_marks_hand_today",
+  "look": "T",
+  "file": "EP20_124_N07q09_chisel_marks_hand_today.jpg",
+  "prompt": "Close view of old chisel marks in the granite of the temple wall, a present-day hand resting on them, hand only. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 125,
+  "clip": "N07",
+  "q": 10,
+  "k": 0,
+  "name": "tower_sunrise_mist",
+  "look": "T",
+  "file": "EP20_125_N07q10_tower_sunrise_mist.jpg",
+  "prompt": "The tower at sunrise rising out of low mist, the first light on its upper tiers and dome, palms in silhouette. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 126,
+  "clip": "N07",
+  "q": 10,
+  "k": 1,
+  "name": "visitors_dots_courtyard",
+  "look": "T",
+  "file": "EP20_126_N07q10_visitors_dots_courtyard.jpg",
+  "prompt": "View from high above the great courtyard: visitors like small dots on the paving, the long shadow of the hall, the tower base at the edge of the frame. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 127,
+  "clip": "N07",
+  "q": 11,
+  "k": 0,
+  "name": "family_visit_lookup",
+  "look": "T",
+  "file": "EP20_127_N07q11_family_visit_lookup.jpg",
+  "prompt": "A present-day family seen from behind in the courtyard, the father pointing up, the children looking up at the top of the tower. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 128,
+  "clip": "N07",
+  "q": 11,
+  "k": 1,
+  "name": "dome_last_light",
+  "look": "T",
+  "file": "EP20_128_N07q11_dome_last_light.jpg",
+  "prompt": "The dome and its gilded finial in the last red light of the day, the rest of the tower already in shadow, birds crossing. The Big Temple at Thanjavur in South India: a pyramid-shaped tower of grey-brown granite rising in thirteen receding carved tiers above the sanctum, crowned by a ribbed stone dome with a small gilded finial. The present day, natural light, a stone-paved courtyard, no signboards, no lettering of any kind, no flags, any visitors are ordinary Tamil people in everyday clothes, small in the frame or seen from behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ }
+]

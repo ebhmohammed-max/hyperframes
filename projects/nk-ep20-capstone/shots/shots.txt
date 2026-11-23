@@ -1,0 +1,130 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# Every picture is an illustration. Look L = the legend as it is told (golden, dreamlike), look C = a reconstruction of 1010 (earthy, sober), look T = the temple today. No readable writing: inscriptions are shown as worn, illegible chisel marks. No close view of any deity. The king only from behind.
+N01|0|capstone_dome_close|T|the great ribbed stone dome at the very top of the temple tower seen close from the air, weathered grey-brown granite, a small gilded pot-shaped finial on its crown, a carved stone bull at each corner of the square slab beneath it, low golden sun, open sky behind, no people
+N01|0|vimana_lookup_visitor|T|extreme low angle from the foot of the tower, looking straight up its receding carved granite tiers to the small dome far above, in the foreground one visitor seen from behind with the head tilted far back
+N01|1|tower_crane_modern|O|a modern steel tower crane lifting a concrete beam above a city building site at dusk, seen from below, a few workers in helmets small in the frame, no signboards and no lettering of any kind
+N01|1|chola_site_dawn_wide|C|wide view of the building site at dawn: the half-built granite tower wrapped in bamboo and timber scaffolding, hundreds of tiny workers, elephants, stacks of dressed blocks, smoke from cooking fires drifting over the plain
+N01|2|paatti_story_veranda|H|a grandmother telling a story to a small child on the tiled veranda of an old house at night by the light of one lamp, both seen from behind, the child's face turned away
+N01|2|school_trip_tower|T|a line of schoolchildren in plain uniforms seen from behind in the temple courtyard, all looking up at the tower, a teacher's arm pointing upward
+N01|3|ramp_elephants_legend|L|an immense straight earthen ramp rising to the very top of the temple tower, a team of elephants in rope harness hauling one enormous rounded stone on log rollers up the ramp, long ropes, tiny men alongside
+N01|3|ramp_horizon_aerial_legend|L|aerial view of a flat green plain with one arrow-straight earthen ramp running from a distant village at the horizon all the way to the top of the temple tower in the foreground, thin as a line, long shadow, no people visible
+N01|4|palm_leaf_sums_lamp|D|blank palm-leaf strips, an iron stylus, a knotted measuring cord, a handful of small stone cubes and a brass oil lamp, laid out like a builder's working table
+N01|5|ramp_dwarfs_temple_model|D|a table-top model: a small carved stone model of a temple tower and beside it a vast long wedge of red earth many times bigger than the tower, lit by one lamp, a hand resting at the edge of the table
+N01|6|dome_joint_shadow_close|T|very close on the curved surface of the stone dome at the top of the tower: one dark vertical seam between two fitted blocks catches the raking light, lichen and old plaster around it, no people
+N01|6|scholar_scaffold_top|T|a researcher in a plain cotton shirt seen from behind on bamboo scaffolding beside the dome at the top of the tower during conservation work, one hand flat on the stone, the plain far below
+N01|8|temple_complex_aerial_sunrise|T|aerial view of the whole temple complex at sunrise: the long walled courtyard, the gateways, the pillared halls and the great tower throwing a long shadow, the low town and palms around it
+N01|8|granite_courses_hand|T|close view of the huge moulded granite courses of the tower base in raking morning light, a visitor's hand touching the stone, hand only
+N01|9|gateway_tower_reveal|T|view through the dark stone gateway of the temple to the bright tower beyond, a few pilgrims in silhouette walking in
+N01|9|vimana_evening_full|T|the full tower from base to finial glowing in warm evening light against a deep sky, birds wheeling near the top, the courtyard small below
+N02|0|rajaraja_back_pavilion|C|a Chola king seen from behind standing in an open pillared pavilion, white silk lower garment, gold armlets and a jewelled crown, an attendant holding a tall parasol, both looking across the courtyard at the newly finished tower
+N02|0|vimana_finished_1010|C|the newly finished tower in the year 1010, pale fresh-cut granite, the last bamboo scaffolding being taken down, oil lamps and flower garlands at the base, a crowd in the courtyard seen from behind
+N02|1|tower_over_sanctum_side|T|side view of the temple: the tower rising directly above the square sanctum at the back of the long hall, people tiny at its foot for scale, clear morning light
+N02|1|tiers_carved_detail|T|telephoto view of the middle tiers of the tower: rows of miniature carved shrines, pilasters and niches repeating upward, pigeons on the ledges, no people
+N02|2|capstone_sky_telephoto|T|telephoto view from the ground of the dome on top of the tower against tall white monsoon clouds, the stone bulls at its corners in silhouette, no people
+N02|3|sarapallam_village_fields|L|a small village of thatched houses among paddy fields and palmyra palms, and at its edge the beginning of a great earthen embankment that runs away toward a tiny temple tower on the far horizon
+N02|3|ramp_start_baskets|L|long files of men and women carrying baskets of earth on their heads up the foot of a broad earthen embankment, more files coming across the fields
+N02|3|ramp_meets_tower_top|L|the top of the great earthen ramp meeting the summit of the tower: a timber platform, the huge rounded stone arriving on rollers, men with levers guiding it, the plain far below
+N02|4|log_rollers_close|L|close view of thick log rollers under a huge stone on a timber sledge, men carrying the freed logs from the back to the front, dust in the air, faces turned away
+N02|4|elephants_ropes_strain|L|four elephants in rope harness straining forward on thick ropes on a broad earthen road, mahouts on their necks seen from behind, dust rising
+N02|5|old_book_1930s_desk|D|an old cloth-bound book of the 1930s lying open on a wooden desk, yellowed pages whose print is far out of focus and cannot be read, a tipped-in sepia plate of a temple tower, round spectacles and a fountain pen beside it
+N02|5|finger_under_line|D|a finger resting under one line on a yellowed book page, the print a soft blur that cannot be read, very shallow focus, hand only
+N02|6|elder_story_banyan|H|a village elder seen from behind telling a story to a few seated listeners under a banyan tree at dusk, the temple tower small on the horizon
+N02|6|generations_veranda_tower|H|a grandmother, a mother and a child sitting in a row on a veranda step, all seen from behind, looking toward the far temple tower in the evening light
+N02|7|folk_mural_ramp|O|a faded folk painting on an old lime-washed village wall, in a naive hand: elephants pulling a round stone up a long slope to a temple tower, the paint cracked and peeling, soft evening light, no lettering
+N02|7|cord_scale_cubes|D|a knotted measuring cord, a small iron balance scale and neat rows of stone cubes laid in a straight line
+N02|8|sand_table_ramp_hands|D|two hands shaping a long thin ramp of damp sand on a wooden table, leading up to a small carved stone model of a temple tower, hands only
+N03|0|ramp_profile_long|L|side view from far across the plain: an extremely long, almost flat wedge of earth rising very gently from the left edge of the frame to the top of the temple tower at the right edge, tiny figures on it
+N03|0|walkers_gentle_slope|L|men walking up a broad earthen road that slopes so gently it looks almost level, on the crest of a high embankment, the plain far below on both sides, the tower top small ahead
+N03|1|pullers_hundreds_ropes|L|seen from above: some hundreds of men in four long rows hauling on four thick ropes, behind them the great rounded stone on rollers, on a broad earthen road
+N03|1|stone_sledge_low|L|low angle beside the great stone on its timber sledge and log rollers, ropes taut, feet of the hauling men braced in the earth
+N03|1|elephant_push_forehead|L|an elephant pushing the back of the great stone with its padded forehead, a mahout seen from behind, men steadying the rollers
+N03|2|ramp_edge_crumble|L|the edge of a very high earthen embankment crumbling in a small landslide, loose earth pouring down the side, workers on the crest stepping back, seen from a distance
+N03|3|embankment_hill_front|L|front view of the ramp near its high end: an enormous earthen hill with a very broad base and a narrow road along its crest, the temple tower behind it, people like ants at its foot
+N03|3|sand_pile_spreads|D|a hand pouring dry sand onto a wooden table: the pile spreads wide as it grows taller, an upright stick beside it marking the height, hand only
+N03|4|earth_mountain_dusk|L|a colossal man-made mound of earth as a dark ridge against the dusk sky, a line of tiny torches along its crest, the temple tower small at its end
+N03|5|temple_small_beside_ramp|L|aerial view: the whole walled temple complex looking small beside the gigantic earthen ramp-mound that leads to its tower, the mound many times larger than the temple, no people visible
+N03|6|one_stone_foot_of_mound|L|one rounded stone on a sledge at the foot of the vast earthen mound, a few men beside it very small, the mound filling the frame behind
+N03|6|basket_carriers_endless|L|endless files of earth carriers with baskets on their heads crossing the plain to the horizon, seen from behind, heat haze
+N03|7|borrow_pit_vast|L|a vast excavated pit with stepped earthen sides, crowds of tiny workers digging and carrying earth up ramps, seen from the rim
+N03|7|flat_fields_no_trace|H|flat green paddy fields under a monsoon sky, a farmer walking along a field bund seen from behind, the temple tower tiny on the horizon, the land perfectly level with no mound or ridge anywhere
+N03|8|sand_ramp_swept|D|the sand ramp on the wooden table collapsed and half swept away, a hand brushing the sand aside, the small stone tower model still standing, hand only
+N03|8|inscription_wall_long|T|the long moulded granite base of the temple covered with band after band of small worn chiselled characters too weathered to read, receding into the distance in raking light, no people
+N04|0|inscription_base_close|T|close view of the granite base mouldings of the temple covered with rows of small worn ancient chiselled characters, weathered and illegible, raking golden light, no people
+N04|0|visitor_tracing_plinth|T|a visitor crouching at the temple base, seen from behind, tracing the worn chiselled characters with one finger
+N04|1|gold_weighed_scribe|C|gold ornaments and small gold coins being weighed on a hand balance in a pillared hall, a scribe seen from behind noting it on a palm leaf with a stylus
+N04|1|sheep_flock_temple_lamp|C|a shepherd seen from behind bringing a small flock of sheep to the temple gate at dusk, a bronze oil lamp burning in a stone niche in the foreground
+N04|2|dancers_street_houses|C|a street of small tiled houses beside the high temple wall, women in bright silk walking away toward the temple carrying small lamps, seen from behind, early evening
+N04|2|dancers_hall_far|C|dancers performing in a pillared stone hall seen from far back between the pillars, lit by rows of oil lamps, small in the frame, faces not visible
+N04|3|drummers_pipers_back|C|temple drummers and pipers seen from behind walking through the courtyard in procession, bare backs and white waist cloths, long shadows
+N04|3|accountants_palm_leaves|C|temple accountants sitting cross-legged in a row writing on palm leaves with iron styluses, heaps of paddy being measured with wooden measures behind them, faces bent down
+N04|4|master_builder_plumbline|C|the master builder seen from behind, an older man with a white waist cloth and a cloth over one shoulder, holding a plumb line and a wooden measuring rod, looking up at the scaffolded tower
+N04|5|gilded_finial_workshop|C|a tall pot-shaped copper finial covered in gold gleaming in a metalworkers' shed, two craftsmen polishing it, faces turned away, a small furnace glowing behind
+N04|5|finial_procession_courtyard|C|the gilded finial carried on a timber litter by bearers through the temple courtyard, the king seen from behind under a parasol watching, priests and drummers around, morning light
+N04|5|finial_set_on_dome|C|men on bamboo scaffolding at the very top of the tower setting the gilded finial on the crown of the stone dome at sunrise, seen from the air
+N04|6|stonecutter_letters_hands|C|close view of a stonecutter's hands with a small iron chisel and mallet cutting characters into the granite base, stone chips flying, the characters soft and illegible, hands only
+N04|6|plain_wall_shadow|T|a stretch of plain uninscribed granite wall between two inscribed bands, in deep shadow, one shaft of light falling on the bare stone, no people
+N04|7|estampage_scholar_wall|T|an epigraphist seen from behind pressing a large sheet of wet paper against the inscribed temple wall with a brush to take an impression, a cloth bag at the feet
+N04|8|sheep_tally_pebbles|C|a scribe seen from behind counting sheep through a gate with a row of tally pebbles on the ground, a shepherd waiting, evening
+N04|8|dome_dark_dusk|T|the dome at the top of the tower as a dark shape against a deep dusk sky, the first star, seen from the courtyard, no people
+N04|9|scaffold_ladders_up|T|bamboo scaffolding and ladders running up the side of the tower during conservation work, seen from below looking up, one worker climbing small in the frame
+N05|0|researcher_measuring_base|T|an architect-researcher in plain clothes of the 1980s seen from behind at the foot of the tower with a long measuring tape and a drawing board, an assistant holding the other end of the tape
+N05|0|dome_seams_top_view|T|view straight down from the air onto the stone dome at the top of the tower: fine radial seams divide the dome into wedge-shaped segments around the gilded finial, the four corner bulls below, no people
+N05|1|orange_segments_stone|D|a peeled orange opened into its segments on a slab of granite, beside it a small stone model of a dome made of wedge-shaped pieces, one piece pulled out
+N05|1|dome_segment_levers|C|stonemasons on the timber working platform at the top of the tower easing one wedge-shaped block of the dome into place with wooden levers and ropes, other segments already standing, faces turned away
+N05|2|library_desk_books|D|a scholar's desk in an old university library: open books whose print is a soft blur, black-and-white photographs of a temple tower, a notebook with a pencil, a green-shaded lamp, no readable writing
+N05|2|photo_prints_dome_glass|D|black-and-white photographic prints of a ribbed stone temple dome spread on a desk, a magnifying glass lying on one of them, a hand at the edge
+N05|3|dome_models_2_4_8|D|three small carved stone models of the same ribbed dome side by side on a wooden table: one cut into two pieces, one into four, one into eight, slightly pulled apart
+N05|3|dome_plaster_stucco|T|close view of the dome surface: an old coat of lime plaster and small stucco figures hiding the stone beneath, patches fallen away, weathered, no people
+N05|3|dome_far_haze_birds|T|the top of the tower far away in morning haze, kites circling the dome, treetops in the foreground, no people
+N05|4|balance_stone_weights|D|an old iron beam balance with a rough block of granite in one pan and plain iron weights in the other, the beam not level
+N05|4|dome_scale_figures|T|the dome at the top of the tower with two conservation workers standing beside it on scaffolding for scale, seen from the air, small against the stone
+N05|5|theodolite_tower|O|a surveyor's brass theodolite on a wooden tripod aimed at the temple tower in the early morning, a surveyor in clothes of about 1900 bending to the eyepiece seen from behind, no lettering
+N05|5|tower_profile_plain_sky|T|a clean full side profile of the tower from its base to its finial against a plain pale sky, a few people at its foot for scale
+N05|6|tower_shadow_courtyard|T|the long clear shadow of the tower lying across the paved courtyard in the late afternoon, visitors walking through the shadow, seen from a high angle
+N05|6|nandi_pavilion|T|the huge dark monolithic stone bull under its painted pillared pavilion, facing the temple, visitors small beside it seen from behind
+N05|6|nayak_sculptors_bull|O|sculptors of the 16th century polishing a huge seated stone bull with pads and sand, bamboo staging around it, a pillared pavilion half built above, men in white waist cloths and turbans, faces turned away, no lettering
+N05|7|wedge_blocks_row|C|several wedge-shaped dressed granite blocks lying in a row on the ground of the building site, masons finishing their curved faces, the tower in scaffolding behind
+N05|7|mason_ochre_line|C|close view of a mason snapping a string dipped in red ochre across a granite block to mark a cutting line, hands only
+N05|8|folk_mural_peeling|O|the same faded folk painting of elephants and a ramp on a lime-washed wall, seen closer, a large flake of paint curling away where the stone was, dust in a shaft of light, no lettering
+N05|8|visitor_steps_lookup|T|a young visitor sitting alone on the courtyard steps, seen from behind, looking up at the tower in the evening
+N05|8|tower_night_stars|T|the tower at night under a sky full of stars, a few oil lamps at its base, the courtyard empty
+N05|9|base_sharp_top_soft|T|the massive moulded granite base of the tower in sharp focus in the foreground, block upon block, the top of the tower soft and far above
+N06|0|palm_leaf_bundle_blank|D|a bundle of old palm-leaf manuscripts tied with a cord, the top leaf blank, beside a brass oil lamp
+N06|0|researchers_drawings_base|T|two researchers seen from behind at the foot of the tower holding a rolled drawing between them, one pointing up at the tiers
+N06|1|vimana_inside_hollow|T|looking straight up inside the hollow tower: course after course of granite stepping inward, tier above tier, narrowing into darkness, one shaft of light, no people
+N06|1|corbel_courses_detail|T|close view inside the tower of stepped granite courses, each one overhanging the one below a little, dust in the light, no people
+N06|2|interlock_joint_close|T|close view of dry joints between huge granite blocks fitted tightly with stepped notches, no mortar anywhere, a hand for scale at the edge
+N06|2|masons_block_levers|C|masons lowering a notched granite block into its seat on the rising wall with wooden levers and coir ropes, faces turned away, bamboo scaffolding around
+N06|3|half_tower_short_ramps|C|the half-built tower with several short earthen and timber ramps set against its sides, one above another, each finished tier used as a working platform, gangs of men and one elephant hauling blocks, seen from a distance
+N06|3|tier_platform_haul|C|on top of a finished tier of the tower: a broad stone platform, a gang of men hauling a block across it on rollers, timber staging, the plain far below
+N06|4|spiral_ramp_tower|C|the tower under construction wrapped by one earthen ramp that winds around it like a spiral, held by timber and bamboo, small gangs hauling blocks up it, seen from the air
+N06|5|sixty_men_block_ramp|C|about sixty men in two lines hauling one dressed granite block on log rollers up a short steep earthen ramp against the tower, seen from the side
+N06|5|rope_hands_feet|C|close view of hands gripping a thick coir rope and bare feet braced in red earth, bodies leaning, no faces
+N06|6|tools_rollers_rope_lever|D|log rollers, coils of coir rope, long wooden lever beams, iron chisels, wedges and a mallet laid out on packed earth, low sun
+N06|6|elephant_mahout_block|C|an elephant pushing a granite block along a timber track with its forehead, the mahout on its neck seen from behind, a mason walking alongside
+N06|7|summit_workers_sunset|C|workers resting on the timber platform at the summit beside the finished dome at sunset, seen from behind, the plain glowing far below
+N06|7|tally_pebbles_lamp|D|long rows of tally pebbles and a knotted cord on a stone floor beside an oil lamp, receding into shadow
+N07|0|granite_mass_corner_wide|T|wide low view from a corner of the courtyard of the whole mass of the temple, hall and tower, an enormous weight of granite under a heavy sky, visitors tiny
+N07|1|delta_paddy_flat_aerial|H|aerial view of the flat river delta: endless paddy fields, canals and palms to the horizon, not one hill or rock anywhere, no people visible
+N07|1|river_silt_bullocks|H|the wide sandy bed of a great river with soft silt banks, a farmer with a pair of bullocks seen from behind, level land all around
+N07|2|quarry_hill_wedges|C|a granite hill quarry: workers splitting the rock along rows of wedge holes, freed blocks being levered down, seen from a distance, hot light
+N07|2|rocky_hills_cart_track|C|bare rocky hills rising from a dry plain, and from their foot a cart track leading away to the east with a few loaded carts on it, seen from above
+N07|3|site_monsoon_rain|C|the building site in heavy monsoon rain: scaffolding dripping, workers sheltering under palm-leaf thatch, the half-built tower grey in the downpour
+N07|4|ox_carts_convoy|C|a long convoy of heavy timber carts with solid wooden wheels, each drawn by several pairs of oxen and loaded with one granite block, on an earthen road at dawn, dust, drivers seen from behind
+N07|4|block_cart_wheel_close|C|close view of a granite block lashed with coir rope on a heavy cart, a solid wooden wheel turning in the ruts, no people
+N07|5|wedges_split_granite|C|close view of a line of iron wedges being hammered into granite, a crack running along the line, hands and mallet only
+N07|5|sculptors_thatch_rows|C|rows of sculptors working under long thatch shelters, carving mouldings and figures from granite blocks, chips on the ground, faces bent down
+N07|5|block_seated_wall|C|a dressed granite block being slid into its place on the rising wall of the tower by a gang of men with levers, seen from above
+N07|6|small_early_shrine|O|a small single-storey early Chola stone shrine with a low tower among palms, a priest in a white waist cloth beside it seen from behind for scale, quiet morning, no lettering
+N07|6|tower_over_town_far|T|the temple tower rising far above the low roofs and palms of the town, seen from a distance in clear morning light
+N07|7|tower_storm_lightning|T|the tower standing in a monsoon storm, dark clouds, a distant flash of lightning, rain on the courtyard, no people
+N07|7|double_wall_corridor|T|a dim stone corridor inside the base of the tower between two massive granite walls, light from a doorway at the far end, no people and no images of deities
+N07|8|workers_camp_night|C|a vast workers' camp at night: hundreds of small fires and thatch huts, and beyond them the tower in scaffolding against the stars
+N07|8|stonemason_hands_chisel|C|an old stonemason's hands holding an iron chisel and a wooden mallet over a half-carved granite moulding, his face in shadow
+N07|8|mahout_elephant_tank|C|a mahout washing his elephant at the edge of a stone-stepped tank at dusk, seen from behind, the scaffolded tower reflected in the water
+N07|9|mason_family_lookup|C|a stonemason with his wife and a small child, all seen from behind, standing in the courtyard and looking up at the finished tower in morning light
+N07|9|chisel_marks_hand_today|T|close view of old chisel marks in the granite of the temple wall, a present-day hand resting on them, hand only
+N07|10|tower_sunrise_mist|T|the tower at sunrise rising out of low mist, the first light on its upper tiers and dome, palms in silhouette
+N07|10|visitors_dots_courtyard|T|view from high above the great courtyard: visitors like small dots on the paving, the long shadow of the hall, the tower base at the edge of the frame
+N07|11|family_visit_lookup|T|a present-day family seen from behind in the courtyard, the father pointing up, the children looking up at the top of the tower
+N07|11|dome_last_light|T|the dome and its gilded finial in the last red light of the day, the rest of the tower already in shadow, birds crossing
