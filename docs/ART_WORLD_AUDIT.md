@@ -293,3 +293,38 @@ necessary as a visual audit of the images. All sixteen defects were visible in
 the scene descriptions before a single image was generated. Reading the
 directions for positive-language traps — and reading the delivered cut for
 what actually landed — are two separate gates, and both have to happen.
+
+## Round four: the two that passed twice
+
+The third render was assembled and audited clean on cadence, seams and audio,
+and nineteen replaced scenes were read out of it at full frame. Then a dense
+one-frame-per-scene sweep of all seventy found two more, and both had already
+survived two earlier audits of mine:
+
+| Scene | What was there | Why the earlier audits missed it |
+|---|---|---|
+| 024 | a large, sharply lit, **fully legible face**, leather cloak, and a gabled timbered house its direction banned | it was never on a defect list, so the "keep faces out of frame" rule was never applied to it |
+| 042 | **four clear three-quarter faces** around a table | it had been re-reviewed for the dragon skull and the silver hair, and those were gone, so it was closed |
+
+**042 was structurally impossible to pass.** Six men seated around a table means
+at least three must face the camera. The direction asked for "none of them seen
+from the front", which that layout cannot deliver — the instruction was
+unachievable in the composition chosen. Reframed from behind, so only backs show.
+
+**024 is the more instructive failure.** Every other scene in the film keeps
+faces turned away, because that rule was applied scene by scene as each was
+rewritten. 024 was never rewritten, so it never received the rule, and it
+carried the largest and clearest face in the film the whole way through. A
+per-scene fix does not generalise; it only protects the scenes you happened to
+touch.
+
+Both were regenerated, verified at full size, and confirmed in the assembled
+cut. Neither chunk needed a full re-render of the film: ch03 and ch05 were
+rebuilt and the master re-assembled.
+
+### The gate that now exists
+
+`audit_ep002_stale.py` catches the mechanical half of this — it names any chunk
+built on art that changed after capture, so a stale frame cannot reach an
+assembly unnoticed again. It cannot catch a wrong image that was faithfully
+rendered; only reading the cut does that.
