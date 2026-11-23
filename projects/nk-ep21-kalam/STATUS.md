@@ -12,7 +12,7 @@ Angle: the last day as the frame (flight, hill road, the guard, the stage), with
 | Fact sheet | done: `FACT_SHEET.md` (labels U S F P O; "To check before publishing") |
 | Scratch narration, voice-02 | done 23 Nov: N01–N07 new, N08 (end card) from the EP20 zip; `align.py` 0 flagged; voice about 391 s, film about 420 s (7 min) |
 | Shot list | done: `shots/shots.txt` 100 rows, `SHOTLIST.md`, rules in `shots/CAST.md` |
-| Pictures | **100 of 100 made** (B01–B10 checked, on Drive); **8 remakes still to do** (list below) |
+| Pictures | **100 of 100, all remakes done** (B01–B10 and R1 checked, on Drive). First versions of the ten remade pictures are in `google_drive/ep21_pics/old/` (on Drive only inside the B zips). |
 | Film code for EP21 | adapted 23 Nov: hook sounds, card pictures, pop-up on N02 line 2, title plates (island, rocket, hill town) and words; clip folders made with `node film/gen.mjs N01 … N07 && node film/title.mjs && node film/end.mjs` |
 | Stills checks | done 23 Nov (38 stills: title, cards, every stat, big number and flash word, the pop-up); one fix, see below |
 | Render, parts, 720p, upload | not started |
@@ -44,6 +44,7 @@ Folder `EP21_Abdul_Kalam_Kadaisi_Naal` `1TXMKW_de6RjNOJ7r-cEQnA2Lz7JYevHH`; `ima
 | B08 | 071–080 | 13lcVok5Rz07Ogrx1i22HlRtJTxAL1HSL |
 | B09 | 081–090 | 1FGoM0FRQYYhJ_DG9NP1DG2u-HOOGzIWG |
 | B10 | 091–100 | 17IRuOxMNx12abRugIOVX2fmyXxa8wHai |
+| R1 | remakes 002, 004, 017, 033, 043, 071, 080, 090, 095, 097 (unpack after the B zips; `restore.sh` does this) | 1nhEfpbBn1wZvKdhggbeDrpjCGPr23-jR |
 
 ## Picture batches
 
@@ -64,6 +65,9 @@ Each turn: `python3 tools/next.py 10` → ten `generate_image` calls to `google_
 
 Kept with a small fault: 027 (the boy's face shows a little from the side, small in the frame); 048 (the doorway opens on a workshop, not clearly a press room); 056 (the jeep has a closed cab, the guard stands at its back; 055 shows the open jeep as described); 057 and 060 (he sits in the front seat; the account does not say which seat); 068 and 069 (the palace is a generic sandstone palace, not Rashtrapati Bhavan as it is); 077 (the hands that clip the microphone look old, the aide was about thirty); 089 (the three suits have open lapels, not closed collars); 092 (the aide's face shows a little from the side, small).
 
+**Redo pass R1 done (23 Nov), sheet `_sheet_E21R1`, all ten kept:** 002 (the clock now reads close to 6:35), 004 (adult students), 017 (both men strictly from behind), 033 (monk and young man face each other across a bare hall, no radio), 043 (rocket alone, seen across sand), 071 (seen from the corridor, no stick, adult students standing), 080 (indoors, empty podium, pages on the floor), 090 (low office shoes), 095 (a long low pier bridge), 097 (the trail is high in the sky; the picture carries white dust specks like an old print).
+`shots/crops.json` held three EP20 entries (071, 098, 112); emptied on 23 Nov, 071 and 098 film copies made again from the raw pictures.
+
 ## Open points
 
 - The shot list on Drive is the first version; five flight pictures have since moved to look P (no hills in the cabin windows). Upload the final `SHOTLIST.md` at delivery.
@@ -75,7 +79,7 @@ Kept with a small fault: 027 (the boy's face shows a little from the side, small
 
 Sheets `_sheet_E21S1`–`S4` and `E21T1`. All graphics correct: title words, six chapter cards with their pictures, hook flash words (the two struck words and the one that stands), the pop-up on N02 line 2, the stats, the big 9, the five struck words of N07.
 One fix: in the N07 stat the large slot held "2,500 புத்தகம்" and its lower strokes ran into the line beneath; the large slot now holds only "2,500" (confirmed on `E21T1`).
-Not yet seen in the film: the remade pictures (002, 004, 017, 033, 043, 071, 080, 090). After the remakes run `node film/gen.mjs N01 … N07` again only if a shot name changes (it does not); the plates are read by number.
+The remade pictures were not in the stills (they were checked on their own sheet). After the remakes run `node film/gen.mjs N01 … N07` again only if a shot name changes (it does not); the plates are read by number.
 
 ## After a full wipe
 
