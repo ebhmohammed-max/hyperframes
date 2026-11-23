@@ -181,3 +181,69 @@ matches the mix within 0.1 s of the join, so nothing is being dropped by the
 assembly. The one thing worth doing differently next time is padding the mix so
 no drop lands within 1 s of a seam, which would make the audit unambiguous
 instead of requiring this comparison.
+
+## Third render, after the round-three art repair (2026-11-23)
+
+This is the first render whose art matches the cut that was audited. It was not
+started from scratch: ch01 and ch05 were already current, so only the chunks
+built on superseded art were rebuilt.
+
+| Chunk | Status at start | Action |
+|---|---|---|
+| ch01 | current | kept |
+| ch02 | deleted by the resume bug | rebuilt |
+| ch03 | stale — 029 changed after capture | rebuilt |
+| ch04 | never completed | rendered |
+| ch05 | current | kept |
+| ch06 | stale — 060 changed after capture | rebuilt |
+| ch07 | never completed | rendered |
+
+**The resume bug that cost the previous attempts.** A finished chunk contains
+its preroll, so on disk it is `(end - capture_start)` seconds — 303.0 for a
+300 s chunk with 3 s of preroll. The script compared the file against
+`(end - start)`, i.e. 300.0, so every prerolled chunk looked short on restart
+and was deleted and re-rendered. Two restarts threw away finished capture this
+way, and one of them also deleted ch02 without finishing the replacement. The
+check now expects the true length and rewrites the `.lead` file when it skips.
+
+`scripts/episode-audit/audit_ep002_stale.py` was added to catch the other half
+of the problem: it compares each chunk's mtime against the last commit that
+touched any master in that chunk's span, so a chunk built on superseded art is
+named up front. It exits non-zero if any existing chunk is stale. Before this
+run it reported exactly ch03/029 and ch06/060; after the run it reported all
+seven current.
+
+### Measured result
+
+```
+ch01 296.512  lead 0.000     ch05 303.000  lead 3.000
+ch02 303.000  lead 3.000     ch06 303.000  lead 3.000
+ch03 303.000  lead 3.000     ch07 303.000  lead 3.000
+ch04 306.500  lead 3.000
+```
+
+Joined master: **2,100.033 s**, 745 MB, 1920×1080 h264 30 fps, AAC 48 kHz
+stereo, 63,540 frames.
+
+```
+cadence: frames=63540 median=0.0333s max=0.0333s gaps=0  PASS
+   seam   d_mean  d_corner  verdict
+  296.5      0.4      -0.2  pass
+  596.5      0.1       1.3  pass
+  896.5     -0.5      -0.6  pass
+ 1200.0     12.9      -3.7  pass
+ 1500.0     11.6       2.0  pass
+ 1800.0     58.9      13.3  pass
+worst corner jump: 13.3
+```
+
+Loudness −16.16 LUFS, true peak −1.50 dBTP, LRA 4.40. Zero cadence gaps, and
+the worst seam corner jump is 13.3 against a 25 threshold — the chapter-change
+lag the viewer reported remains fixed.
+
+### Cut-level verification
+
+Every scene replaced in round three was read out of this master at full frame:
+001, 002, 007, 012, 013, 015, 019, 020, 027, 029, 041, 048, 051, 052, 054,
+057, 060, 062, 070. All clean. The faces, the coinage, the eagles, the heraldry
+and the lead's silhouette are gone from the film, not merely from the masters.
