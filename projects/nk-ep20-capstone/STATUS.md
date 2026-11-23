@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **40 of 128** (B01–B04 = 001–040: checked, on Drive) |
+| Pictures | **50 of 128** (B01–B05 = 001–050: checked, on Drive) |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -33,6 +33,7 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B02 | 011–020 | 1LjUFRy9Z55BY9-dCfZin9mXg-pAJxeiq |
 | B03 | 021–030 | 1SzRjRHmbtUXPO6HSZEYeeZpjHXq2e15s |
 | B04 | 031–040 | 1dGpEhxGuV5xwGrp9nppivJKMmcyeBRAt |
+| B05 | 041–050 | 1EtOejTuKuay728sqzKUbqujRWYFzpWYr |
 
 ## Picture batches
 
