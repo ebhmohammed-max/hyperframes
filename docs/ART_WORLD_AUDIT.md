@@ -328,3 +328,62 @@ rebuilt and the master re-assembled.
 built on art that changed after capture, so a stale frame cannot reach an
 assembly unnoticed again. It cannot catch a wrong image that was faithfully
 rendered; only reading the cut does that.
+
+## Round five: the first complete full-size sweep
+
+The fourth render was assembled, seam-audited clean, loudness-measured and
+delivered. Then, instead of spot-reading the scenes that had been replaced, all
+seventy frames were extracted **from the delivered master at full 1920×1080**
+(t = (N−1)·30 + 15 s) and read as eighteen 2×2 sheets of 800×450 tiles, with
+every suspect immediately re-read at full frame. Four defects survived into
+that cut:
+
+| Scene | What was there | Class |
+|---|---|---|
+| 023 | a large, sharply lit, **fully legible face** at the ledger desk | close legible face |
+| 032 | a **full profile portrait** of the governor, beard and all | close legible face |
+| 063 | an **aircraft-carrier battle group** at flank speed under the dragon's shadow | 20th-century kit |
+| 066 | a **face-on coin** with an encircling legend and a portrait bust | coin design |
+
+All four were in scenes that had never appeared on a defect list, in any round.
+
+**023 and 032 are the same failure as 024, and they are the more serious
+finding.** `STYLE` said every face must be "an unfamiliar invented person". Both
+faces were unfamiliar and invented — as identity, the rule was satisfied. What
+made them wrong was **where the face sat and how it was lit**: 023 put a clerk's
+face at a third of frame height under a lamp, 032 a man's profile in window
+light. The style constant governed identity and never governed composition, so
+nothing in the prompt stack forbade a portrait. It does now:
+
+> **NO LEGIBLE FACE AT CLOSE RANGE** — no face may fill or dominate the frame
+> and no face may be lit sharply enough to read as a portrait; anyone near the
+> camera is turned away, seen from behind, hooded or shadowed, bent to their
+> work, or cropped at the shoulders.
+
+This is a change to `STYLE`, so it is inherited by every prompt in the film and
+by every scene rewritten from here on. The `BAN` short form carries it too. The
+lesson of round four was *generalise the rule across all seventy scenes*; the
+lesson of round five is *write the rule at the level of the prompt stack, not
+the scene*.
+
+**063 is the noun trap again, in a new noun class.** "A fleet seen from directly
+above" pulls the only fleet the model has ever seen from directly above: a
+carrier group. The direction now names wooden oared galleys, square sails and
+oar wash, and forbids metal hulls, turrets, stacks and modern hull wakes
+outright. As with 007's army and 051's eagle, the fix is to remove the noun
+class, not to add more negatives to a scene that lacks a period anchor.
+
+**066 is the coin rule, for the seventh time.** Every coin held up to camera has
+come back struck face-on (001, 002, 020, 057, 060, 066, 070). The only fixes
+that have ever held are compositional: edge-on, face-down, inside a closed
+hand, or lost in shadow. 066 now stands on the edge of the fingers, almost
+edge-on, with an empty struck field.
+
+### What this round changes about the audit method
+
+Spot-reading replaced scenes is not an audit. Three rounds of audits that read
+only the scenes someone had touched missed four defects that a single complete
+pass over all seventy frames found in under an hour. **The gate for release is
+one full-size read of every frame of the delivered cut** — this is now the last
+step before delivery, not an optional extra, and it must happen on the master
+rather than on the masters, because the master is what ships.
