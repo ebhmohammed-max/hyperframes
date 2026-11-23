@@ -1,0 +1,103 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# Every picture is an illustration. Looks: D = the last day, 27 July 2015 (monsoon, cool); R = Rameswaram around 1940 (sepia, remembered); Y = 1958 to 1980 (faded colour); S = still life; O = setting in the subject.
+# Refs add a fixed description: K the elderly man, A his aide, G the guard, B the boy, Y the young man, M the project director. No face of any real person is shown. No readable writing, no flags, no emblems.
+N01|0|shillong_hills_dusk|D|wide view of a hill town spread over pine-covered ridges under heavy monsoon clouds at dusk, the first lights coming on in the valley, mist between the ridges, no people
+N01|0|hall_clock_evening|D|a plain round wall clock above a doorway in a quiet institute corridor, the hands close to half past six, a plain white dial with simple tick marks and no numerals, evening light from a window, no people
+N01|0|stage_podium_wide|D|a lecture hall seen from the back row: a small stage with a wooden podium and one microphone under warm light, rows of students in their twenties seen from behind
+N01|1|old_man_at_podium_back|D@K|the elderly man standing at the wooden podium, seen from behind over his shoulder, facing a hall full of young students who are a soft blur
+N01|1|students_listening_blur|D|rows of students in their twenties seated in a lecture hall, seen from the side and from behind, notebooks open, all leaning forward and waiting in silence
+N01|2|microphone_silent|D|close view of a single microphone on a wooden podium, an open folder with blurred pages beside it, the hall beyond out of focus, no people
+N01|3|corridor_walk_back|D@K|the elderly man walking down a long institute corridor towards a lit doorway, seen from behind, two officials blurred far behind him
+N01|3|two_hands_shake_close|D|close view of a handshake and nothing else: an old man's two hands with dark suit cuffs holding a young soldier's hand in a black sleeve
+N01|4|minister_car_white|O|India in the present day: a white official car at a porch, a man in a white kurta stepping out seen from behind, aides around him with folded hands, soft overcast light, no lettering, no flags, no emblems
+N01|4|scientists_lab_coats|O|India in the present day: three scientists in white lab coats seen from behind, bent over a slender white rocket model on a workshop table, cool light, no lettering, no flags, no emblems
+N01|4|guard_standing_jeep_back|D@G|the guard standing upright in the back of an open dark green jeep moving on a wet hill road, seen from behind, pines and mist on both sides
+N01|5|boy_bundle_tracks|R@B|the boy running along a railway track on a sandy shore, carrying a bundle of newspapers tied with string against his chest, seen from behind, a steam train leaving in the distance
+N01|7|cupboard_ajar|S|a plain wooden cupboard with one door standing slightly open, darkness inside, a bare lime-washed wall, no people
+N01|7|convoy_hill_road_far|D|a line of cars far below on a winding wet road through pine hills, seen from high above, low cloud drifting across, no people visible
+N02|0|airliner_monsoon_climb|D|a white passenger airliner without any markings climbing from a runway into grey monsoon cloud, wet tarmac below, seen from the side
+N02|0|seat_window_front_row|D@K|the front row of an aircraft cabin seen from behind the seats: the elderly man in the window seat, only his silver hair above the headrest, the window full of grey cloud
+N02|1|aide_beside_seat|D@K,A|two front-row aircraft seats seen from behind: the elderly man at the window, his aide in the next seat leaning over to listen
+N02|1|laptop_night_typing|D|hands typing on a laptop late at night in a dim room, a cup of tea gone cold beside it, rain on the window, the screen only a soft blurred glow
+N02|2|turbulence_hand_armrest|D@A|an aircraft cabin shaking in turbulence: the aide's hand gripping an armrest hard, a paper cup of water trembling on the tray, seen close
+N02|2|window_shade_hand|D|an old man's hand with a dark suit cuff pulling down an aircraft window shade, the bright cloud light narrowing to a slit
+N02|3|rocket_on_pad_dawn|Y|a slender white four-stage rocket standing on a simple launch pad beside the sea at dawn, a steel service tower beside it, no markings, no people
+N02|3|palace_dome_dusk|O|New Delhi at dusk: a vast sandstone palace with a great central dome on a low hill, seen from far down a long empty avenue, wet road, no people, no flags, no lettering
+N02|4|island_shore_aerial|R|an island shore seen from above: a long sandy spit running into a blue-green sea, palm groves, a small town of tiled roofs, a temple tower far away, fishing boats drawn up
+N02|4|father_boat_shore|R|a wooden ferry boat with a furled sail drawn up on the sand, a man in a white veshti and a white cap tying a rope at its bow seen from behind, a few pilgrims waiting far along the beach
+N02|5|steam_train_no_stop|R|a steam train running through a tiny sand-blown station without stopping, the platform empty, smoke streaming back, palms bending in the wind
+N02|5|bundle_thrown_from_train|R|a tied bundle of newspapers in mid-air, thrown from the open door of a moving train carriage, only an arm visible in the doorway, sand and palms rushing past
+N02|6|boy_picks_up_bundle|R@B|the boy bending to lift a bundle of newspapers from the sand beside the railway track, seen from behind, the train growing small in the distance
+N02|6|boy_coins_palm|R@B|close view of a child's open palm holding a few old worn coins, his white shirt behind it out of focus, a sand lane beyond, his face not in the frame
+N02|7|boy_watching_birds|R@B|the boy standing on the beach, seen from behind, looking up at seabirds wheeling over the sea, his arms a little lifted from his sides
+N03|0|young_man_selection_gate|Y@Y|the young man with a small cloth bag walking up to the gate of an army cantonment building below forested hills, seen from behind, a vintage propeller training aircraft parked far off on the grass
+N03|1|eight_walk_out_one_stays|Y@Y|a shaded corridor: a group of eight young men in white shirts walking away through a doorway into bright sunlight, the young man left standing alone in the shade, seen from behind
+N03|2|river_steps_alone|Y@Y|the young man sitting alone on stone steps beside a fast green mountain river, seen from behind, forested hills rising on the far bank
+N03|2|ashram_monk_far|Y@Y|a simple ashram hall: an old monk in saffron robes seated on a low platform, seen from behind and from far, the young man sitting on the floor before him, also seen from behind, soft window light
+N03|2|river_stones_light|Y|a mountain river running over round stones in morning sunlight, a pair of worn sandals left on a stone step, no people
+N03|3|drawing_board_aircraft|Y@Y|a government design office of the late 1950s: the young man seen from behind at a tilted drafting table, a large line drawing of an aircraft on it with no lettering, a ceiling fan, wooden cupboards
+N03|4|rocket_stage_hangar|Y|a hangar of the 1970s: a white rocket stage lying on a wheeled cradle, engineers in shirts and trousers working around it, seen from behind and from far
+N03|4|director_team_table|Y@M|the project director standing at a long table covered with rocket drawings, seen from behind, a dozen engineers gathered around him, a workshop of the 1970s
+N03|5|launch_station_workers|Y|wide view of a launch station on a flat sandy coast in the 1970s: low sheds, casuarina trees, many workers small on a road with bicycles, the sea beyond
+N03|5|rocket_night_before|Y|the slender white rocket on its pad at night under floodlights, the steel service tower beside it, dark sea behind, no people
+N04|0|control_room_1979|Y|a launch control room of 1979: rows of grey consoles with dials, switches and small green screens, engineers in shirts with headsets seen from behind
+N04|1|console_red_lamp|Y|close view of a control console of 1979: one red lamp glowing among rows of switches and dials, a hand hovering above it, uncertain
+N04|1|director_decides_back|Y@M|the project director standing in the control room, seen from behind, the seated engineers all turned towards him, their faces soft and blurred, tense
+N04|2|rocket_liftoff_flame|Y|the slender white rocket lifting off its pad on a column of flame and rolling smoke in morning light, the sea behind
+N04|2|rocket_spin_sky|Y|high in a pale morning sky a white smoke trail that turns into a corkscrew and breaks apart, a tiny rocket tumbling at its end, the sea far below
+N04|3|sea_plume_far|Y|an empty grey-blue sea with one small far plume of white water, a fading smoke trail above it, no people, no boats
+N04|3|reporters_waiting_room|Y|a room in 1979: newspaper reporters with notebooks and film cameras, seen from behind, waiting, facing an empty table with microphones
+N04|4|press_table_one_man|Y|a room in 1979: an older man with thin grey hair in a plain white shirt seated alone at the table with microphones, seen from behind, facing the rows of reporters whose faces are blurred
+N04|4|director_at_door_listening|Y@M|the project director standing in the doorway at the back of the press room, seen from behind, head bowed, listening
+N04|5|rocket_1980_climb|Y|the slender white rocket climbing straight and clean into a clear morning sky on a long steady flame, the coast and sea below
+N04|5|control_room_cheer|Y|the control room of 1980: engineers on their feet with arms raised, embracing each other, seen from behind and from the side, faces soft
+N04|6|hand_on_shoulder_door|Y@M|an older man's hand resting on the project director's shoulder, guiding him towards an open door beyond which reporters wait, both men seen from behind
+N04|7|director_at_press_table|Y@M|the project director seated at the table with microphones, seen from behind, facing rows of reporters and the white burst of flashbulbs
+N04|7|hill_road_pines_mist|D|an empty winding wet road through pine hills in late afternoon mist, no people, no cars
+N05|0|convoy_highway_paddy|D|a line of seven cars and jeeps on a highway between green paddy fields and low hills under monsoon clouds, seen from behind and above
+N05|1|jeep_three_soldiers|D@G|seen through a car windscreen with raindrops: an open dark green jeep ahead with two soldiers seated on its sides and the guard standing between them
+N05|1|guard_standing_side|D@G|side view from the roadside: the guard standing braced in the moving open jeep, one hand gripping the roll bar, the rifle in the other, wind pulling at his clothes, pine hills behind
+N05|2|back_seat_leaning_forward|D@K|inside a car, seen from the back seat: the elderly man leaning forward between the front seats to look through the windscreen at the jeep ahead
+N05|2|guard_boots_braced|D|close view of black army boots braced apart on the wet metal floor of a moving open jeep, the road blurring away behind
+N05|3|radio_handset_dashboard|D|a hand holding a radio handset with a coiled cord in the front seat of a car, the dashboard below, the jeep ahead blurred through the wet windscreen
+N05|3|old_hand_pointing_ahead|D@K|the elderly man's hand raised from the back seat, pointing ahead through the windscreen, a younger man's shoulder in the foreground, his face not in the frame
+N05|4|institute_porch_arrival|D|cars drawing up at the porch of an institute building among wet pines on a hill, staff waiting under umbrellas, late afternoon
+N05|4|guard_led_inside|D@G,A|the aide, seen from behind, leading the guard down a corridor, the guard's rifle slung on his shoulder, his step hesitant
+N05|4|handshake_guard_old_man|D@K,G|the elderly man, seen from behind, holding the guard's hand in both of his, the guard's covered head bowed a little
+N05|5|guard_eyes_close|D@G|very close view of the guard's eyes between the folds of black cloth, wet and moved, nothing else in the frame
+N05|5|guard_salute_back|D@G|the guard standing at attention and saluting, seen from behind, an old man's soft silhouette in the bright doorway beyond him
+N05|6|grand_chair_empty|O|a tall ornate empty chair of state in a vast hall with marble columns and a red carpet, soft daylight, no people, no flags, no emblems, no lettering
+N05|6|watchman_gate_evening|O|an Indian city street at evening: a security watchman in a plain uniform standing at an apartment gate, seen from behind, residents walking past him without a glance, no lettering
+N05|7|family_arrives_palace|O|Delhi in 2006: a large Tamil family of all ages, from a very old man with a stick to a toddler carried on a hip, walking with their bags up the wide steps of a sandstone palace colonnade, seen from behind, no flags, no lettering
+N05|7|family_tea_long_table|O|a high-ceilinged guest room in a palace: a large Tamil family seated at a long table with cups of tea, seen from far, faces small and soft, warm lamp light, no lettering
+N05|7|hand_signs_cheque|S|an old man's hand with a dark suit cuff signing a cheque with a fountain pen, a long bill lying beside it on the desk, all print blurred and unreadable
+N05|8|hall_doors_students_rise|D@K|the elderly man walking in through the double doors of the lecture hall, seen from behind, the students rising to their feet
+N06|0|green_valley_car_window|D|a green valley and blue hills seen through a rain-streaked car window, calm and beautiful, no people
+N06|0|smog_chimneys_river|O|factory chimneys pouring smoke over a grey river and a hazy city at dusk, seen from far, no people, no lettering
+N06|1|aide_notebook_knee|D@A|the aide's hands writing in a small notebook on his knee in the back seat of a moving car, the handwriting a blur, his face not in the frame
+N06|1|round_parliament_dusk|O|New Delhi at dusk: a great circular sandstone building ringed by a colonnade, seen from far across empty lawns, no people, no flags, no lettering
+N06|1|old_man_thinking_window|D@K|the elderly man in the back seat of a car, seen from behind, his head turned to the wet window, one hand at his chin, thinking
+N06|2|lapel_mic_hands|D@A|close view of a younger man's hands clipping a small microphone to the dark closed collar of an old man's suit, only the collar and a little silver hair in the frame, no face
+N06|2|backstage_two_silhouettes|D@K,A|two silhouettes backstage against the bright opening onto the stage: the elderly man turning a little towards his aide
+N06|3|podium_speaking_back|D@K|the elderly man speaking at the podium, seen from behind, one hand raised, the students beyond him a soft blur
+N06|3|podium_empty_light|D|the wooden podium standing empty under the stage light, the microphone still on it, a few pages fallen on the floor, the students far beyond standing up, blurred
+N06|4|ambulance_hill_dusk|D|an ambulance with its lights on taking a bend on a wet hill road at dusk, pines on both sides, no lettering on it
+N06|4|hospital_corridor_wait|D|a hospital corridor at night: a small group of people standing in silence outside a closed door, seen from behind, a plain wall clock with no numerals above them
+N06|5|teacher_blackboard_village|O|a village school in Tamil Nadu: a teacher seen from behind drawing a simple diagram of the sun and planets in chalk on a blackboard, with no letters, children sitting on the floor seen from behind
+N06|5|old_man_among_children|D@K|the elderly man, seen from behind, bending down to a circle of schoolchildren in uniform who look up at him, their faces small and soft, a school verandah
+N06|6|modest_room_door_open|S|the door of a modest room standing open onto a single bed and a shelf in dim light, no people
+N07|0|files_corridor_desk|O|a long government office corridor in India lined with shelves of old bundled files, one plain desk and chair at its end in dusty window light, no people, no lettering
+N07|1|books_wall_room|S|a room lined from floor to ceiling with thousands of books, a plain reading chair and a lamp in the middle, the titles all blurred, no people
+N07|1|wristwatch_table|S|one plain wristwatch with a worn leather strap lying on a bare wooden table, a dial with simple tick marks and no numerals
+N07|1|clothes_cupboard_open|S|an open plain cupboard: a short stack of six folded shirts, four folded trousers, and three dark closed-collar suits on hangers, nothing else inside
+N07|1|one_pair_shoes|S|one worn pair of black shoes placed neatly side by side on a stone floor beside a door, nothing else
+N07|2|bare_room_cot_radio|S|a bare lime-washed room: a narrow cot, a small table with an old radio and a folded newspaper with blurred print, one window, no people
+N07|3|garden_walk_two_men|D@K,A|the elderly man and his aide walking slowly along a garden path in evening light, seen from behind, talking
+N07|3|open_empty_hands|S|an old man's two open empty hands held palm up in soft light, dark suit cuffs at the wrists, nothing else in the frame
+N07|4|crowd_island_shore_far|O|Rameswaram in July 2015: a vast crowd dressed mostly in white filling a sandy ground among palm trees near the sea, seen from high above under a bright sky, no flags, no banners, no lettering
+N07|4|shore_railway_sunrise|O|Rameswaram in the present day: a railway track running along a sandy shore towards a long sea bridge at sunrise, calm water, no people, no lettering
+N07|5|young_man_bench_alone|Y@Y|the young man sitting alone at the end of a long empty bench in a shaded corridor, seen from behind, a bright doorway far ahead
+N07|5|director_beach_empty_sea|Y@M|the project director standing on a beach, seen from behind, looking out at an empty sea where a faint smoke trail fades in the sky
+N07|5|doorway_two_silhouettes|D@K,G|two silhouettes facing each other in a doorway full of light: the elderly man with his head a little bowed, and the guard standing straight
+N07|6|chair_lamp_spectacles|S|an empty reading chair beside a lamp and a stack of books, a pair of spectacles resting on an open book with blurred print, no people
+N07|7|student_alone_hall|D|one student in their twenties sitting alone in an empty lecture hall, seen from behind, looking at the empty podium under its light
