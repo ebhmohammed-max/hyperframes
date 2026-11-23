@@ -12,7 +12,7 @@ Angle: the last day as the frame (flight, hill road, the guard, the stage), with
 | Fact sheet | done: `FACT_SHEET.md` (labels U S F P O; "To check before publishing") |
 | Scratch narration, voice-02 | done 23 Nov: N01–N07 new, N08 (end card) from the EP20 zip; `align.py` 0 flagged; voice about 391 s, film about 420 s (7 min) |
 | Shot list | done: `shots/shots.txt` 100 rows, `SHOTLIST.md`, rules in `shots/CAST.md` |
-| Pictures | **40 of 100** (B01–B04 checked, on Drive) |
+| Pictures | **50 of 100** (B01–B05 checked, on Drive) |
 | Film code for EP21 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, pop-up line, titles "EP20"→"EP21"), `film/title.mjs` (three plates, title words அப்துல் கலாம் · கடைசி நாள்), `film/end.mjs` (ids); clip folders `film/N01…N07, TITLE, END` to be made |
 | Stills checks | not started |
 | Render, parts, 720p, upload | not started |
@@ -38,6 +38,7 @@ Folder `EP21_Abdul_Kalam_Kadaisi_Naal` `1TXMKW_de6RjNOJ7r-cEQnA2Lz7JYevHH`; `ima
 | B02 | 011–020 | 1Zsnr8PKH2H6R48k4KxSg_OAtBd-Ln4v9 |
 | B03 | 021–030 | 1F27gb1oyikUKC1ZBrrO4my2t0CQaS6og |
 | B04 | 031–040 | 1fUJ1V9vfM_8DwMbtRsKDUw-xApxSqJv1 |
+| B05 | 041–050 | 1pjcIpAfFw3MHzQbU5NE_q49n9RWra5vT |
 
 ## Picture batches
 
@@ -50,9 +51,10 @@ Each turn: `python3 tools/next.py 10` → ten `generate_image` calls to `google_
 | 004 `old_man_at_podium_back` | the hall is full of schoolchildren in uniform; the lecture was to management students in their twenties | say "adult postgraduate students in their twenties in everyday clothes, no children, no uniforms" |
 | 017 `aide_beside_seat` | the aide's face shows in side view; the rule is no face of a real person | "both men seen strictly from behind, only the backs of their heads above the seats" |
 | 033 `ashram_monk_far` | the monk sits with his back to the young man; a 1970s-style radio stands in a room of 1958 | "the monk faces the young man, both seen from the side and behind, from far; no radio, no machine of any kind" |
+| 043 `rocket_liftoff_flame` | men and a jeep stand a few steps from the rocket as it lifts off | "no people and no vehicles anywhere near the pad; seen from far across the sand" |
 | 002 `hall_clock_evening` | the clock reads about six o'clock, the line says 6:35 (small in the frame) | make again once; keep if it fails again |
 
-Kept with a small fault: 027 (the boy's face shows a little from the side, small in the frame).
+Kept with a small fault: 027 (the boy's face shows a little from the side, small in the frame); 048 (the doorway opens on a workshop, not clearly a press room).
 
 ## Open points
 
