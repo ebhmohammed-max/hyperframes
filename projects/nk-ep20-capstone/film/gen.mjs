@@ -58,13 +58,13 @@ const MOVES = [
 
 // Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line) | sentence number]
 const HOOK_FX = [
-  // a birth → her age in 2050 → (the three film clichés strike themselves out) → "that is cinema" → two things are already decided
-  // → one at home, one on the shore → six chapter words (sounds come with them) → the promise
-  [0, "impact-bass-1", 0.3, "start"], [1, "whoosh", 0.16, "start"], [4, "impact-bass-2", 0.3, "start"],
+  // the stone over your head → (crane, engine struck out, 1010) → the ramp story → "the sums make the ramp the bigger job" → "is it one stone at all?"
+  // → four words (sounds come with them) → the promise → "come, let us look up"
+  [0, "impact-bass-1", 0.3, "start"], [1, "whoosh", 0.16, "start"], [5, "impact-bass-2", 0.3, "start"],
   [6, "impact-bass-1", 0.36, "start"], [7, "whoosh-cinematic", 0.16, "start"], [9, "riser", 0.18, "start"], [9, "impact-bass-2", 0.32, "last"],
 ];
 // Chapter card backgrounds: one picture of the chapter behind the unchanged card (shot names from shots/shots.txt)
-const CARD_BG = { N02: "stadium_crowd_wide", N03: "paatti_79_veranda", N04: "tower_blocks_rows", N05: "solar_farm_plain", N06: "eye_test_glasses_child", N07: "tn_coast_village_aerial" };
+const CARD_BG = { N02: "sarapallam_village_fields", N03: "ramp_profile_long", N04: "inscription_base_close", N05: "dome_seams_top_view", N06: "half_tower_short_ramps", N07: "granite_mass_corner_wide" };
 const pad3 = (n) => String(n).padStart(3, "0");
 const plateOf = (name) => { const s_ = SHOTS.find((x) => x.name === name); if (!s_) throw new Error("no shot named " + name); return pad3(s_.n); };
 
@@ -106,6 +106,7 @@ export function build(cid, opt = {}) {
     const ok = edges.every((e, i) => i === 0 || e - edges[i - 1] >= 1.3);
     let E = ok ? edges : Array.from({ length: k + 1 }, (_, j) => from + ((to - from) * j) / k);
     if (fx.flash && k === fx.flash.length && w.a.un.length === k) E = [from, ...w.a.un.slice(1).map((u) => lead + u[0] - 0.1), to]; // one picture per flashed word
+    if (fx.cuts && fx.cuts.length === k - 1) E = [from, ...fx.cuts.map((u) => lead + w.a.un[u][0] - 0.1), to]; // EP20: picture changes at the named sentences
     S.forEach((s, j) => {
       mv = (mv + 1 + Math.floor(rand() * 3)) % MOVES.length;
       shots.push({ plate: String(s.n).padStart(3, "0"), t0: r(E[j]), t1: r(E[j + 1]), cut: j > 0 ? 1 : 0, q: w.q, ...MOVES[mv] });
@@ -212,7 +213,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   // ── subscribe pop-up (chapter 1 only): silent, 5 s, top right
   let sCss = "", sHtml = "", sJs = "";
   if (ci === 1 && !partial) {
-    const w5 = win.find((x) => x.q === 3) ?? win[Math.min(2, win.length - 1)]; // EP20: the "India stays first" line (6.6 s, no graphic on screen)
+    const w5 = win.find((x) => x.q === 3) ?? win[Math.min(2, win.length - 1)]; // EP20: the Sarapallam line (long, no graphic on screen)
     const T0 = r(w5.t0), BX = 648, BY = 76;
     const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
     sCss = `

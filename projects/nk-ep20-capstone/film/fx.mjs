@@ -4,7 +4,7 @@
 //   stat  [big, label, source, at?]      number card on the left (at = sentence of the line where it appears)
 //   line  [[year, label, at], …]         small timeline on the left
 //   big   [number, unit, label, at?]     one giant number over the dimmed picture
-//   flash [words…] (+ strike)            one big word per sentence of the line
+//   flash [words…] (+ strike: true | [word numbers])   one big word per sentence of the line; long words shrink to fit
 //   step  [k, of, label, jam?]           EP18: door counter, top right; jam = sentence at which the last door turns red
 //   vaults {show, open, shut, at}        EP18: six doors A to F, full screen (two lines in a row share one graphic)
 //   map "tvm"                            EP18: Thiruvananthapuram on the map, full screen
@@ -166,6 +166,11 @@ export function buildFx({ cid, win, lead, D, shotsOf, plateOf }) {
     // ── one big word per sentence
     if (fx.flash) {
       const Wd = fx.flash;
+      // EP20: a long word is set smaller so that it stays inside the frame (rough width in em: one per letter, vowel signs that sit above or below do not count)
+      const em = (t) => [...t].reduce((n, ch) => n + (/[\u0bcd\u0bbf\u0bc0\u0bc1\u0bc2]/.test(ch) ? 0 : ch === " " ? 0.3 : /[?“”".,!·]/.test(ch) ? 0.5 : /[0-9]/.test(ch) ? 0.55 : 1), 0);
+      const fsz = (t) => Math.min(190, Math.floor(1560 / Math.max(em(t), 1)));
+      // EP20: `strike` may be a list of word numbers; true strikes every word
+      const struck = (i) => fx.strike === true || (Array.isArray(fx.strike) && fx.strike.includes(i));
       css += `
     #${id} .f-w { position: absolute; left: 0; width: 1920px; top: 330px; text-align: center; opacity: 0; }
     #${id} .f-n { font: 600 70px/1 "NK Cormorant", serif; letter-spacing: 0.1em; color: ${C.gold}; margin-bottom: 6px; }
@@ -175,10 +180,10 @@ export function buildFx({ cid, win, lead, D, shotsOf, plateOf }) {
       let inner = `      <div id="${id}-d"></div>`;
       Wd.forEach((word, i) => {
         const a = Math.max(t0, U(w, i) - 0.08), b = i + 1 < Wd.length ? U(w, i + 1) - 0.1 : fx.strike || Wd.length > 4 ? tE : Math.min(tE, Ue(w, i) + 0.5);
-        inner += `<div id="${id}-w${i}" class="f-w">${fx.strike ? "" : Wd.length > 4 ? `<div class="f-n">${String(i + 1).padStart(2, "0")}</div>` : ""}<div class="f-t">${esc(word)}${fx.strike ? `<div id="${id}-s${i}" class="f-x"></div>` : ""}</div></div>`;
+        inner += `<div id="${id}-w${i}" class="f-w">${fx.strike ? "" : Wd.length > 4 ? `<div class="f-n">${String(i + 1).padStart(2, "0")}</div>` : ""}<div class="f-t"${fsz(word) < 190 ? ` style="font-size:${fsz(word)}px"` : ""}>${esc(word)}${struck(i) ? `<div id="${id}-s${i}" class="f-x"></div>` : ""}</div></div>`;
         js += `      tl.fromTo("#${id}-w${i}", { opacity: 0, scale: 1.25 }, { opacity: 1, scale: 1, duration: 0.2, ease: "power4.out" }, ${r(a)});
       tl.to("#${id}-w${i}", { opacity: 0, duration: 0.1, ease: "power2.in" }, ${r(b - 0.1)});\n`;
-        if (fx.strike) { const ts = a + (Ue(w, i) - a) * 0.52; js += `      tl.fromTo("#${id}-s${i}", { scaleX: 0 }, { scaleX: 1, duration: 0.16, ease: "power3.out" }, ${r(ts)});\n`; snd("whoosh-short", ts, 0.16); }
+        if (struck(i)) { const ts = a + (Ue(w, i) - a) * 0.52; js += `      tl.fromTo("#${id}-s${i}", { scaleX: 0 }, { scaleX: 1, duration: 0.16, ease: "power3.out" }, ${r(ts)});\n`; snd("whoosh-short", ts, 0.16); }
         else if (Wd.length > 4) snd("whoosh-short", a + 0.05, 0.14);
       });
       const fe = fx.strike || Wd.length > 4 ? tE : Math.min(tE, Ue(w, Wd.length - 1) + 0.55);

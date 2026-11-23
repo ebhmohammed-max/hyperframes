@@ -12,7 +12,9 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
 | Pictures | **128 of 128, all remakes done** (B01–B13, R1, R2: checked, on Drive). First versions of remade pictures are in `google_drive/ep20_pics/old/` (not on Drive apart from the B zips). |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
-| Stills checks, render, parts, 720p, upload | not started |
+| Film code | adapted (hook sounds, card pictures, title plates and words); clip folders made |
+| Stills checks | done 23 Nov (all graphics, title, pop-up); four fixes, see below |
+| Render, parts, 720p, upload | render started 23 Nov |
 
 Clip voice lengths (s): N01 48.61, N02 65.83, N03 58.52, N04 67.03, N05 80.25, N06 55.11, N07 82.27.
 
@@ -88,3 +90,13 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 ## After a full wipe
 
 `git fetch -q origin arena/d486087a-hyperframes && git reset -q --hard FETCH_HEAD`; `bash projects/nk-ep20-capstone/tools/setup.sh` through `start_process` (about 2.5 minutes, gives `/tmp/hfenv.sh`); download the narration zip and every picture zip from Drive into `google_drive/`, unzip the narration into `narration/`, then `bash tools/restore.sh`.
+
+## Stills checks (23 Nov)
+
+`$PY tools/stills.py [clips] [--Prefix]` takes a still of every chapter card, graphic, flash word, the pop-up and the title, and writes sheets to `google_drive/_sheet_<prefix>N.jpg`. Film length from the generator: 506.5 s (8 min 27 s).
+
+Fixes made after the first pass:
+- Hook line 1: "1010" was struck out with the two wrong ideas. `strike` in a `flash` may now be a list of word numbers (`strike: [0, 1]`).
+- N03 line 4: the big number "~1 கோடி" had no Tamil glyphs in the number font. Now "~1" with "கோடி கன மீட்டர் மண்" under it.
+- Long flash words ran off the frame ("நம்பப்படுகிறது", "ஒரு வரி கூட இல்ல", "ஒரே கல்லு இல்ல", "ராஜராஜன் நந்தி?"). `film/fx.mjs` now sets a long word smaller.
+- N05 line 6: "விழுது" (the shadow does fall) was spoken over the Nandi picture. New option `cuts: [sentence numbers]` in a line's fx sets where its pictures change; the shadow picture now stays through "விழுது".

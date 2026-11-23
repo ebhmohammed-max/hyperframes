@@ -1,4 +1,4 @@
-// Title sequence (12 s, no voice): the Earth by day → a packed crossing from above → the city of 2050 at sunrise, with the title.
+// Title sequence (12 s, no voice): the building site at dawn → the ramp of the legend → the dome at the top, with the title.
 //   node film/title.mjs → film/TITLE/
 import { mkdirSync, writeFileSync, symlinkSync, rmSync, readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -13,9 +13,9 @@ const D = 12, T = 6.2; // length, title reveal
 const SH = JSON.parse(readFileSync(join(ROOT, "shots/prompts.json"), "utf8"));
 const pl = (name) => { const x = SH.find((q) => q.name === name); if (!x) throw new Error("no shot named " + name); return String(x.n).padStart(3, "0"); };
 const P = [
-  [pl("earth_blue_day"), 0, 3.5, "50% 50%", [1.08, 0, 0], [1.2, 0, 0]],
-  [pl("crowd_crossing_top"), 2.9, 6.3, "50% 50%", [1.22, 0, 6], [1.08, 0, 0]],
-  [pl("city_2050_sunrise_wide"), 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
+  [pl("chola_site_dawn_wide"), 0, 3.5, "50% 50%", [1.08, 0, 0], [1.2, 0, 0]],
+  [pl("ramp_elephants_legend"), 2.9, 6.3, "50% 50%", [1.22, 0, 6], [1.08, 0, 0]],
+  [pl("capstone_dome_close"), 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
 
@@ -44,9 +44,9 @@ const html = `${P.map(([n, a, b], i) => `    <div id="t-p${i}" class="t-pl clip"
 ${G.html}    <div id="t-pre" class="clip" data-start="0.7" data-duration="2.6" data-track-index="5"><div id="t-pre-in"><b>நிலவன் கதைகள்</b> வழங்கும்</div></div>
     <div id="t-ttl" class="clip" data-start="${r(T - 0.3)}" data-duration="${r(D - T + 0.3)}" data-track-index="6">
       <div id="t-r1"></div>
-      <div id="t-name">2050</div>
+      <div id="t-name">பெரிய கோயில்</div>
       <div id="t-r2"></div>
-      <div id="t-sub">உலகம் எப்படி இருக்கும்?</div>
+      <div id="t-sub">80 டன் கல்லு மேல எப்படி போச்சு?</div>
       <div id="t-nk">NK DOCUMENTARIES</div>
     </div>
     <div id="t-fade" class="clip" data-start="0" data-duration="${D}" data-track-index="7" data-layout-ignore></div>`;
