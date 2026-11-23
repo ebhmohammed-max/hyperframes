@@ -1,4 +1,4 @@
-// EP20 film generator: one HyperFrames project per narration clip.
+// EP21 film generator: one HyperFrames project per narration clip.
 //   node film/gen.mjs N01            → film/N01/ (index.html + compositions/pic|cap|ovl.html)
 //   node film/gen.mjs N01 --to 5     → only lines q00..q05 (preview), fades out after the last one
 // Inputs: script/lines.json, narration/align.json, shots/prompts.json, script/script.mjs.
@@ -58,13 +58,12 @@ const MOVES = [
 
 // Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line) | sentence number]
 const HOOK_FX = [
-  // the stone over your head → (crane, engine struck out, 1010) → the ramp story → "the sums make the ramp the bigger job" → "is it one stone at all?"
-  // → four words (sounds come with them) → the promise → "come, let us look up"
-  [0, "impact-bass-1", 0.3, "start"], [1, "whoosh", 0.16, "start"], [5, "impact-bass-2", 0.3, "start"],
-  [6, "impact-bass-1", 0.36, "start"], [7, "whoosh-cinematic", 0.16, "start"], [9, "riser", 0.18, "start"], [9, "impact-bass-2", 0.32, "last"],
+  // date, time, place (three hits) → "he is Abdul Kalam" → the question → minister? scientist? a guard → three words → the promise → "come"
+  [0, "impact-bass-1", 0.3, "start"], [2, "impact-bass-2", 0.3, "start"], [3, "whoosh", 0.16, "start"],
+  [4, "impact-bass-1", 0.3, "last"], [6, "whoosh-cinematic", 0.16, "start"], [7, "riser", 0.18, "start"], [7, "impact-bass-2", 0.32, "last"],
 ];
 // Chapter card backgrounds: one picture of the chapter behind the unchanged card (shot names from shots/shots.txt)
-const CARD_BG = { N02: "sarapallam_village_fields", N03: "ramp_profile_long", N04: "inscription_base_close", N05: "dome_seams_top_view", N06: "half_tower_short_ramps", N07: "granite_mass_corner_wide" };
+const CARD_BG = { N02: "airliner_monsoon_climb", N03: "young_man_selection_gate", N04: "control_room_1979", N05: "jeep_three_soldiers", N06: "stage_podium_wide", N07: "modest_room_door_open" };
 const pad3 = (n) => String(n).padStart(3, "0");
 const plateOf = (name) => { const s_ = SHOTS.find((x) => x.name === name); if (!s_) throw new Error("no shot named " + name); return pad3(s_.n); };
 
@@ -213,7 +212,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   // ── subscribe pop-up (chapter 1 only): silent, 5 s, top right
   let sCss = "", sHtml = "", sJs = "";
   if (ci === 1 && !partial) {
-    const w5 = win.find((x) => x.q === 3) ?? win[Math.min(2, win.length - 1)]; // EP20: the Sarapallam line (long, no graphic on screen)
+    const w5 = win.find((x) => x.q === 2) ?? win[Math.min(2, win.length - 1)]; // EP21: the turbulence line (7.5 s, no graphic on screen)
     const T0 = r(w5.t0), BX = 648, BY = 76;
     const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
     sCss = `
@@ -280,13 +279,13 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   // ── write
   const dir = join(ROOT, "film", cid);
   mkdirSync(join(dir, "compositions"), { recursive: true });
-  writeFileSync(join(dir, "index.html"), index({ title: `EP20 ${cid} ${clip.slug}`, dur: D, bg: "#000", hosts: [{ id: "pic" }, { id: "gfx" }, { id: "ovl" }, { id: "cap", kind: "captions" }], audio }));
+  writeFileSync(join(dir, "index.html"), index({ title: `EP21 ${cid} ${clip.slug}`, dur: D, bg: "#000", hosts: [{ id: "pic" }, { id: "gfx" }, { id: "ovl" }, { id: "cap", kind: "captions" }], audio }));
   writeFileSync(join(dir, "compositions/pic.html"), pic);
   writeFileSync(join(dir, "compositions/gfx.html"), gfx);
   writeFileSync(join(dir, "compositions/cap.html"), cap);
   writeFileSync(join(dir, "compositions/ovl.html"), ovl);
   writeFileSync(join(dir, "hyperframes.json"), JSON.stringify({ $schema: "https://hyperframes.heygen.com/schema/hyperframes.json", registry: "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry", paths: { blocks: "compositions", components: "compositions/components", assets: "assets" }, media: { autoProxy: true } }, null, 2) + "\n");
-  writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: `nk-ep20-${cid}`, name: `EP20 ${cid}`, createdAt: "2026-11-21T09:00:00.000Z" }, null, 2) + "\n");
+  writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: `nk-ep21-${cid}`, name: `EP21 ${cid}`, createdAt: "2026-11-21T09:00:00.000Z" }, null, 2) + "\n");
   const link = join(dir, "assets");
   rmSync(link, { recursive: true, force: true });
   symlinkSync("../../shared", link);
