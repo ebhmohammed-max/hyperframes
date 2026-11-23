@@ -80,17 +80,22 @@ for spec in "${CHUNKS[@]}"; do
   IFS=: read -r name a b pre <<<"$spec"
   [[ "$name" < "$START_AT" ]] && continue
   out="$SEG/$name.mp4"
-  want=$(python3 -c "print(f'{$b-$a:.1f}')")
   cap_start=$(python3 -c "print(f'{max(0.0, $a-$pre):.3f}')")
   lead=$(python3 -c "print(f'{$a-$cap_start:.3f}')")
+  # A finished chunk contains the preroll as well as the wanted span, so the
+  # length to expect on disk is (b - cap_start), not (b - a). Comparing against
+  # (b - a) made every chunk look short and re-rendered all of them on resume:
+  # it silently threw away completed work on each restart.
+  want=$(python3 -c "print(f'{$b-$cap_start:.3f}')")
 
   if [ -f "$out" ]; then
     got=$(probe "$out")
     if python3 -c "import sys; sys.exit(0 if abs(float('${got:-0}')-$want)<0.6 else 1)"; then
-      echo "== $name already done (${got}s)"
+      echo "== $name already done (${got}s, expected ${want}s)"
+      echo "${lead}" > "$SEG/$name.lead"
       continue
     fi
-    echo "== $name short (${got:-0}s of ${want}s) — re-rendering"
+    echo "== $name wrong length (${got:-0}s of ${want}s) — re-rendering"
     rm -f "$out"
   fi
 
