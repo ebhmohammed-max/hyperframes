@@ -27,7 +27,12 @@ STYLE = (
     "not minarets, not Chinese or Japanese, not Nordic or Icelandic, not "
     "European. NO RECOGNISABLE PEOPLE: every face must be an unfamiliar "
     "invented person, never a real actor, never a celebrity likeness, never a "
-    "portrait of a known performer. No invented lettering of any kind. "
+    "portrait of a known performer. NO LEGIBLE FACE AT CLOSE RANGE: no face "
+    "may fill or dominate the frame and no face may be lit sharply enough to "
+    "read as a portrait; anyone near the camera is turned away, seen from "
+    "behind, hooded or shadowed, bent to their work, or cropped at the "
+    "shoulders, and faces stay small, distant, downturned or in profile "
+    "against shadow. No invented lettering of any kind. "
     "NO COIN DESIGN: any coin is struck with no recognisable figure and no "
     "reading of any kind, no profile head, no helmet, no laurel wreath, no "
     "winged victory or Nike, no standing goddess, no Greek lettering, no "
@@ -40,7 +45,8 @@ STYLE = (
 # medieval Europe, for a Mediterranean souk, or for a Victorian interior.
 BAN = (
     "Fantasy antiquity only. Not Rome, not Greece, not medieval Europe, "
-    "not the modern world. Every face unfamiliar and invented. No steel or "
+    "not the modern world. Every face unfamiliar and invented. No close "
+    "legible portrait face, no sharply lit face near the camera. No steel or "
     "iron helmets, no quilted field jackets, no military uniforms of any era, "
     "no soldiers who could be from a real army. NO EAGLES OR HERALDRY: no "
     "eagle standards or legionary aquila, no double-headed eagles, no heraldic "
@@ -97,7 +103,7 @@ SCENES = {
 22: ("A dragon on a rocky headland unable to go further, sea beyond, a Valyrian ship "
      "waiting offshore, the animal's enormous patience and irritation.",
      VALYRIA + ", grey sea, cold light"),
-23: ('A warehouse interior at night lit by three small clay oil lamps with open pinched spouts and no glass: shelves of stacked unglazed jars and tied grain sacks, a bonded clerk tallying on a wax tablet with a reed stylus, a few tally notches cut into a wooden stick, packed earth floor, low timber ceiling, long shadows, no glass lamp chimneys, no printed book, no paper leaves, no metal pen.',
+23: ('A warehouse interior at night lit by three small clay oil lamps with open pinched spouts and no glass: shelves of stacked unglazed jars and tied grain sacks, a bonded clerk seen from behind and above with his back to the camera and his head bent low over a wax tablet, only his shoulders, his bowed head and his hands visible, a reed stylus in his fingers and a few tally notches cut into a wooden stick, packed earth floor, low timber ceiling, long shadows, his face entirely out of frame, no profile, no face turned toward the camera, no glass lamp chimneys, no printed book, no paper leaves, no metal pen.',
     "warm lamplight"),
 24: ('A wet grey stone quay at dusk with a short desert horse standing alone, its rope halter tied to a rusted iron ring, a plain leather purse and a rolled hide document resting on a low stone bollard beside it, small boats pulled up on the water, flat-roofed brick warehouses with parapets behind, a dragon a distant black speck in the overcast, and no person anywhere in the frame. No figure, no cloaked man, no face, no hooded rider, no gabled houses, no timber framing, no brick arches.',
     "grey light"),
@@ -116,7 +122,7 @@ SCENES = {
      "standing on the mole watching for sails that are not coming.", "grey water, pale sky"),
 31: ("The same ordinary Ghiscari room across four years, four narrow panels: a boy's hands at a small bronze furnace, a bride's hands on a loom with her face turned down, two men's hands patching a flat mud roof seen from below, and a limping veteran's stick and sandalled feet at the threshold, faces out of frame throughout, clay pots and a loom, ochre brick, no glass.",
     GHIS),
-32: ("A cramped Valyrian governor's office in a hot Ghiscari city: a cracked clay water jug, stacked clay tablets of grain tallies, an exhausted man in a plain linen tunic writing with a reed stylus, no grandeur at all, no paper, no glass windows.",
+32: ("A cramped Valyrian governor's office in a hot Ghiscari city: a cracked clay water jug, stacked clay tablets of grain tallies on sagging shelves, and a tired man in a plain linen tunic at the end of the table with his head bent far down over a tablet, seen from an angle behind his shoulder so only his back, his bowed neck and the hand driving a reed stylus across the clay are in the frame, warm window light falling on the tablets and leaving his face in shadow and turned away, no grandeur at all, no face toward the camera, no portrait of a man, no paper, no glass windows.",
     'hot ochre, harsh window light'),
 33: ('A line drawn in the dust before a desert city, a single iron spear planted at the boundary with an ochre rag tied to it, the city low and ochre behind a haze of dust, flat roofs and squat square brick towers with battered outer walls, no ziggurat, no stepped pyramid, no tiered terraces, no domes, no minarets, bleached light.',
     GHIS),
@@ -178,14 +184,22 @@ SCENES = {
     'green-grey water, dawn gold'),
 62: ('A lone figure standing very still on black basalt at the rim of a glowing lava field, seen small in the frame from a distance and from behind, a shaved head with a plain bronze circlet, a coarse undyed wool shawl over dark homespun breeches, neither hair nor cloak flattering, the calm of someone who has never lost, no face visible at this distance, ash and smoke drifting. No silver hair, no platinum hair, no long pale hair, no black cloak, no cape or long trailing garment.',
     VALYRIA),
-63: ("A fleet seen from directly above, a dragon's shadow crossing it, no enemy anywhere, "
-     "the sea empty for a thousand miles.", "blue-green, high sun"),
+63: ("A fleet of ancient wooden galleys seen from high above on open blue-green water, a hundred "
+     "oar-driven hulls with single square sails and long wooden oars raking the sea, a dragon's "
+     "shadow passing across them, no enemy anywhere, the sea empty for a thousand miles, "
+     "no metal warships, no steel hulls, no gun turrets, no smokestacks, no aircraft carrier, "
+     "no destroyers, no modern navy of any kind, no wakes from engines, only oar wash.",
+     "blue-green, high sun"),
 64: ("The Fourteen Flames: a black volcanic range with smoke and a faint red glow in the "
      "fissures, no people, no city, simply enormous and indifferent.", VALYRIA + ", storm light"),
 65: ('A wild dragon crouched in sleep on a vast fused black-stone terrace high on the smoking mountain, seen from behind and to one side at a distance, its wings folded and its eye shut, a low sheer wall of unbroken black stone behind it and the lava glow far below, a few robed figures standing small and far off at the terrace edge with their backs turned, no building interior, no hall, no ceiling, no roof, no walls of masonry, no columns, no arches, no windows, no doorway, moonlight and ember light only.',
     VALYRIA + ", ember and moon"),
-66: ("Split impression: a battle plain empty of anyone, and in the foreground a single coin "
-     "in a stranger's palm, the two scales of history.", "grey and gold"),
+66: ("Split impression: a battle plain empty of anyone, and in the foreground an open palm "
+     "holding one small gold coin pushed to the edge of the fingers and tilted almost "
+     "edge-on so only its thickness, its worn rim and a sliver of blank gold face the "
+     "camera, an empty struck field with no design and no legend, no portrait head, no "
+     "bust in profile, no letters or inscription around the rim, no winged figure, "
+     "no readable coin at all, the two scales of history.", "grey and gold"),
 67: ("A coastline where a peninsula used to be, broken islands in grey water, the sea "
      "covering the shape of a country.", "grey sea, cold haze"),
 68: ("A pair of hands apart from each other, one holding a sword, one holding nothing, "
