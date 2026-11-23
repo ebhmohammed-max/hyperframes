@@ -387,3 +387,34 @@ pass over all seventy frames found in under an hour. **The gate for release is
 one full-size read of every frame of the delivered cut** — this is now the last
 step before delivery, not an optional extra, and it must happen on the master
 rather than on the masters, because the master is what ships.
+
+### Release gate: the sweep that gated this render
+
+The fifth render (the one now delivered) was gated by a complete full-size read
+of all seventy frames **taken from the assembled master**, before delivery, not
+after. Result: **70/70 pass, four defects fixed, none remaining.**
+
+| Sheet | Frames | Verdict |
+|---|---|---|
+| 1 | 001–004 | pass — coin edge-on, map insert intended |
+| 2 | 005–008 | pass — harpy emblem intended; 007 bareheaded |
+| 3 | 009–012 | pass |
+| 4 | 013–016 | pass |
+| 5 | 017–020 | pass — 020 coin worn blank |
+| 6 | 021–024 | pass — **023 fixed**, 024 still correct |
+| 7 | 025–028 | pass — 027 harpies intended (direction names them) |
+| 8 | 029–032 | pass — **032 fixed** |
+| 9 | 033–036 | pass |
+| 10 | 037–040 | pass |
+| 11 | 041–044 | pass — 042 still all backs |
+| 12 | 045–048 | pass |
+| 13 | 049–052 | pass |
+| 14 | 053–056 | pass |
+| 15 | 057–060 | pass — 058 cap is unmarked, not military |
+| 16 | 061–064 | pass — **063 fixed** (wooden galleys) |
+| 17 | 065–068 | pass — **066 fixed** (edge-on coin) |
+| 18 | 069–070 | pass — 070 museum case intended |
+
+Measured on this master: 2100.118667 s, 63,540 frames, h264 1080p30 + aac
+48 kHz stereo, 773,212,635 B. Seam audit EXIT 0, worst corner jump 13.3 (limit
+25), zero cadence gaps. Loudness −16.81 LUFS, −1.27 dBTP, LRA 4.90.
