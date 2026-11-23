@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **120 of 128** (B01–B12 = 001–120: checked, on Drive) |
+| Pictures | **128 of 128** (B01–B13: checked, on Drive). Remakes: 007 and 034 done (R1); **still to remake: 012, 033, 061, 067, 081, 087** |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -41,6 +41,8 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B10 | 091–100 | 1pEzWTfLFMGOA1kGdJ_suk_I_ZatuqgEA |
 | B11 | 101–110 | 1a4F1iKptQ0D3gC4dUrLBaIoLPMdarR4g |
 | B12 | 111–120 | 1aVok2LsVcIhiSrujQAIxN7cleHtCGVVx |
+| B13 | 121–128 | 1S5sV6v_sNn5DWrOJ_9ST_LfGcorsI1Ua |
+| R1 | remakes 007, 034 | 1qWKn3uYheD103YF7aa6KSbO0cCDz9IIg |
 
 ## Picture batches
 
@@ -50,10 +52,10 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 
 ## For the redo pass
 
-- 007 `ramp_elephants_legend`: the tower already wears its dome while the stone is still on the ramp. Make again with a flat, unfinished top (it is also a title plate).
+- 007 `ramp_elephants_legend`: **remade (R1)**: flat scaffolded top, no dome, the stone on rollers behind elephants; the ramp curves instead of running straight. First version kept as `google_drive/ep20_pics/old/007_v1.jpg`.
 - 012 `scholar_scaffold_top`: a second tall tower stands beside the dome. Make again: the dome is the top of the only tower, nothing higher than it in the frame.
 - 033 `sand_table_ramp_hands`: the model on the table is a stepped pyramid of the Maya kind, not a South Indian tower. Make again: a small carved model of a South Indian temple tower (like the model in 010), the sand ramp long and thin.
-- 034 `ramp_profile_long`: the ramp is short and steep, against the line it illustrates ("walk 100 feet, rise one foot") and it is the N03 chapter card. Make again: the tower very small at the far right, the ramp a long low line across the whole frame, barely rising.
+- 034 `ramp_profile_long`: **remade (R1)**: tiny tower at far right, a long low ramp across the whole frame. First version kept as `google_drive/ep20_pics/old/034_v1.jpg`.
 - 061 `finial_set_on_dome`: a scene of 1010, but a present-day town with painted concrete houses lies below. Make again: only paddy fields, palms and thatched roofs below.
 - 067 `scaffold_ladders_up`: came out as three panels side by side (a collage). Make again: one single continuous picture.
 - 081 `tower_shadow_courtyard`: the shadow is a thin black stripe like a carpet, not the shadow of a tower, and the line it illustrates is "the shadow does fall". Make again: seen from above, the broad pointed shadow of the pyramid tower lying across the paving, the tower itself at the edge of the frame.
@@ -72,6 +74,8 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 - 104 `tally_pebbles_lamp` (kept): the lamp is a glass hurricane lamp, not a brass oil lamp; it is a symbolic still life, not a scene of 1010.
 - 112 `block_cart_wheel_close`: rounded dark corners and a dark line down both sides in the raw picture; trimmed by `shots/crops.json` (071, 098 and 112 now).
 - 111 `ox_carts_convoy` (kept): the cart wheels have spokes; solid wheels were asked for.
+- 124 `chisel_marks_hand_today` (kept): the rows of tool marks could be taken for a worn inscription; nothing is readable.
+- After a remake the film copy is not refreshed by `crops.py`: run `$PY tools/sheet.py n n` for each remade number (or `tools/restore.sh`) before `redo_sheet.py`.
 - 025 `log_rollers_close` (kept): the stone is a squared block, not rounded.
 
 ## Open points
