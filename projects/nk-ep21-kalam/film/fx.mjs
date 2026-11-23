@@ -94,7 +94,7 @@ export function buildFx({ cid, win, lead, D, shotsOf, plateOf }) {
       const [big, lab, src, at] = fx.stat, a0 = Math.max(t0, U(w, at ?? w.a.un.length - 1) - 0.05), a1 = tE;
       css += `
     #${id}-c { position: absolute; left: 64px; top: 150px; padding: 18px 34px 20px 30px; background: ${C.navy}; border-left: 6px solid ${C.gold}; border-radius: 4px 14px 14px 4px; box-shadow: 0 10px 40px rgba(0,0,0,0.5); opacity: 0; }
-    #${id}-b { font: 600 104px/1.15 "NK Oswald", "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap; }
+    #${id}-b { font: 600 104px/1.15 "NK Oswald", "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap;${/[\u0B80-\u0BFF]/.test(big) ? " padding-bottom: 20px;" : ""} }
     #${id}-l { font: 600 34px/1.4 "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap; }
     #${id}-s { margin-top: 4px; font: 500 25px/1.4 "NK Sans Tamil", sans-serif; color: ${C.gold}; white-space: nowrap; }`;
       blk(id, a0, a1, `      <div id="${id}-c"><div id="${id}-b">${esc(big)}</div><div id="${id}-l">${esc(lab)}</div><div id="${id}-s">${esc(src)}</div></div>`, 1);

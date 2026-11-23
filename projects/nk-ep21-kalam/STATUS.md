@@ -15,7 +15,7 @@ Angle: the last day as the frame (flight, hill road, the guard, the stage), with
 | Pictures | **100 of 100, all remakes done** (B01–B10 and R1 checked, on Drive). First versions of the ten remade pictures are in `google_drive/ep21_pics/old/` (on Drive only inside the B zips). |
 | Film code for EP21 | adapted 23 Nov: hook sounds, card pictures, pop-up on N02 line 2, title plates (island, rocket, hill town) and words; clip folders made with `node film/gen.mjs N01 … N07 && node film/title.mjs && node film/end.mjs` |
 | Stills checks | done 23 Nov (38 stills: title, cards, every stat, big number and flash word, the pop-up); one fix, see below |
-| Render, parts, 720p, upload | not started |
+| Render, parts, 720p, upload | **done 23 Nov: EP21 is delivered.** Film 439.9 s (7 min 20 s), −14.4 LUFS, peak −1.2 dBFS; seven 1080p parts and `EP21_Kalam_full_720p.mp4` (90,945,404 bytes, `VB=1550k`) on Drive |
 
 Clip voice ends (s): N01 43.0, N02 55.7, N03 37.5, N04 58.2, N05 73.0, N06 63.0, N07 58.8.
 
@@ -45,6 +45,15 @@ Folder `EP21_Abdul_Kalam_Kadaisi_Naal` `1TXMKW_de6RjNOJ7r-cEQnA2Lz7JYevHH`; `ima
 | B09 | 081–090 | 1FGoM0FRQYYhJ_DG9NP1DG2u-HOOGzIWG |
 | B10 | 091–100 | 17IRuOxMNx12abRugIOVX2fmyXxa8wHai |
 | R1 | remakes 002, 004, 017, 033, 043, 071, 080, 090, 095, 097 (unpack after the B zips; `restore.sh` does this) | 1nhEfpbBn1wZvKdhggbeDrpjCGPr23-jR |
+| 1080p 01 hook + title | 56.1 s | 1rfFZHQKgbl8ls8Nx2kJr8PD0iX9x1XWe |
+| 1080p 02 ch1 | 59.2 s | 1UzCw4WsXl7vPtJnFR3xQe88E17xW3O0A |
+| 1080p 03 ch2 | 40.9 s | 1CMpuLRs_NIHk012QaikF4Y7s_hiJrycO |
+| 1080p 04 ch3 | 61.7 s | 1TBzQ1K_z0FD48S51s7GBQCWjrbiBMFfj |
+| 1080p 05 ch4 | 76.4 s | 1vT5TbzLApbEYqH9KRzvv4lbqLuu3feCO |
+| 1080p 06 ch5 | 66.4 s | 1fCjkSvStWXYI7LvmXXyDHdPhc8rmRFOI |
+| 1080p 07 ch6 + end card | 79.3 s | 1DT8gfZZobt57ydOHt8lM0qYNuH4gVCEX |
+| `EP21_Kalam_full_720p.mp4` | 439.9 s | 1wuI7rkWZb7d-MSlO1Urvr8XZliLlbPml |
+| `EP21_SHOTLIST_final.md` | | 1tbmtizqsqcQa0ms3brXctr-tVD-dwHUF |
 
 ## Picture batches
 
@@ -68,9 +77,14 @@ Kept with a small fault: 027 (the boy's face shows a little from the side, small
 **Redo pass R1 done (23 Nov), sheet `_sheet_E21R1`, all ten kept:** 002 (the clock now reads close to 6:35), 004 (adult students), 017 (both men strictly from behind), 033 (monk and young man face each other across a bare hall, no radio), 043 (rocket alone, seen across sand), 071 (seen from the corridor, no stick, adult students standing), 080 (indoors, empty podium, pages on the floor), 090 (low office shoes), 095 (a long low pier bridge), 097 (the trail is high in the sky; the picture carries white dust specks like an old print).
 `shots/crops.json` held three EP20 entries (071, 098, 112); emptied on 23 Nov, 071 and 098 film copies made again from the raw pictures.
 
+## Render (23 Nov)
+
+Render times on 2 CPUs: TITLE 98 s, N01 295, END 94, N02 358, N03 246, N04 376, N05 459, N06 410, N07 370 (about 6 s per film second). Frame sheets `_sheet_E21F0`–`F9` checked: every clip, the joins, the remade pictures in place.
+One fix after the first render: in the stat card, Tamil letters with lower strokes in the large slot ("10 ஆக. 1979", "18 ஜூலை 1980") ran into the line beneath. `film/fx.mjs` now adds 20 px under a large slot that holds Tamil; N04 was made and rendered again. N05 (rendered before the fix) has no overlap; a new render of N05 would show its two cards 20 px taller.
+
 ## Open points
 
-- The shot list on Drive is the first version; five flight pictures have since moved to look P (no hills in the cabin windows). Upload the final `SHOTLIST.md` at delivery.
+- The final shot list is on Drive as `EP21_SHOTLIST_final.md` (the ten remakes used hand-written prompts; their changes are in the redo table above, not in the shot list).
 - The script and the scratch voice have not been heard by a person.
 - No face of Dr Kalam is shown (generated illustrations only; rule in `shots/CAST.md`).
 - Items 1–5 of "To check before publishing" in `FACT_SHEET.md` (the two books were not opened; the possessions list is a press list).
