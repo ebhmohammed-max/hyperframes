@@ -12,7 +12,7 @@ Angle: the last day as the frame (flight, hill road, the guard, the stage), with
 | Fact sheet | done: `FACT_SHEET.md` (labels U S F P O; "To check before publishing") |
 | Scratch narration, voice-02 | done 23 Nov: N01–N07 new, N08 (end card) from the EP20 zip; `align.py` 0 flagged; voice about 391 s, film about 420 s (7 min) |
 | Shot list | done: `shots/shots.txt` 100 rows, `SHOTLIST.md`, rules in `shots/CAST.md` |
-| Pictures | **10 of 100** (B01 checked, on Drive) |
+| Pictures | **20 of 100** (B01, B02 checked, on Drive) |
 | Film code for EP21 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, pop-up line, titles "EP20"→"EP21"), `film/title.mjs` (three plates, title words அப்துல் கலாம் · கடைசி நாள்), `film/end.mjs` (ids); clip folders `film/N01…N07, TITLE, END` to be made |
 | Stills checks | not started |
 | Render, parts, 720p, upload | not started |
@@ -35,6 +35,7 @@ Folder `EP21_Abdul_Kalam_Kadaisi_Naal` `1TXMKW_de6RjNOJ7r-cEQnA2Lz7JYevHH`; `ima
 | Batch | Pictures | Drive id (images) |
 |---|---|---|
 | B01 | 001–010 | 1oEU-0GXiRgsXqq5joqiBqal0YgMkmTD3 |
+| B02 | 011–020 | 1Zsnr8PKH2H6R48k4KxSg_OAtBd-Ln4v9 |
 
 ## Picture batches
 
@@ -45,10 +46,12 @@ Each turn: `python3 tools/next.py 10` → ten `generate_image` calls to `google_
 | Picture | Fault | Change for the remake |
 |---|---|---|
 | 004 `old_man_at_podium_back` | the hall is full of schoolchildren in uniform; the lecture was to management students in their twenties | say "adult postgraduate students in their twenties in everyday clothes, no children, no uniforms" |
+| 017 `aide_beside_seat` | the aide's face shows in side view; the rule is no face of a real person | "both men seen strictly from behind, only the backs of their heads above the seats" |
 | 002 `hall_clock_evening` | the clock reads about six o'clock, the line says 6:35 (small in the frame) | make again once; keep if it fails again |
 
 ## Open points
 
+- The shot list on Drive is the first version; five flight pictures have since moved to look P (no hills in the cabin windows). Upload the final `SHOTLIST.md` at delivery.
 - The script and the scratch voice have not been heard by a person.
 - No face of Dr Kalam is shown (generated illustrations only; rule in `shots/CAST.md`).
 - Items 1–5 of "To check before publishing" in `FACT_SHEET.md` (the two books were not opened; the possessions list is a press list).

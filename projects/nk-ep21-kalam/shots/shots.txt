@@ -1,5 +1,5 @@
 # clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
-# Every picture is an illustration. Looks: D = the last day, 27 July 2015 (monsoon, cool); R = Rameswaram around 1940 (sepia, remembered); Y = 1958 to 1980 (faded colour); S = still life; O = setting in the subject.
+# Every picture is an illustration. Looks: D = the last day, 27 July 2015 (monsoon, cool); P = the same day, on the flight; R = Rameswaram around 1940 (sepia, remembered); Y = 1958 to 1980 (faded colour); S = still life; O = setting in the subject.
 # Refs add a fixed description: K the elderly man, A his aide, G the guard, B the boy, Y the young man, M the project director. No face of any real person is shown. No readable writing, no flags, no emblems.
 N01|0|shillong_hills_dusk|D|wide view of a hill town spread over pine-covered ridges under heavy monsoon clouds at dusk, the first lights coming on in the valley, mist between the ridges, no people
 N01|0|hall_clock_evening|D|a plain round wall clock above a doorway in a quiet institute corridor, the hands close to half past six, a plain white dial with simple tick marks and no numerals, evening light from a window, no people
@@ -15,12 +15,12 @@ N01|4|guard_standing_jeep_back|D@G|the guard standing upright in the back of an 
 N01|5|boy_bundle_tracks|R@B|the boy running along a railway track on a sandy shore, carrying a bundle of newspapers tied with string against his chest, seen from behind, a steam train leaving in the distance
 N01|7|cupboard_ajar|S|a plain wooden cupboard with one door standing slightly open, darkness inside, a bare lime-washed wall, no people
 N01|7|convoy_hill_road_far|D|a line of cars far below on a winding wet road through pine hills, seen from high above, low cloud drifting across, no people visible
-N02|0|airliner_monsoon_climb|D|a white passenger airliner without any markings climbing from a runway into grey monsoon cloud, wet tarmac below, seen from the side
-N02|0|seat_window_front_row|D@K|the front row of an aircraft cabin seen from behind the seats: the elderly man in the window seat, only his silver hair above the headrest, the window full of grey cloud
-N02|1|aide_beside_seat|D@K,A|two front-row aircraft seats seen from behind: the elderly man at the window, his aide in the next seat leaning over to listen
+N02|0|airliner_monsoon_climb|P|a white passenger airliner without any markings climbing from a runway into grey monsoon cloud, wet tarmac below, seen from the side
+N02|0|seat_window_front_row|P@K|the front row of an aircraft cabin seen from behind the seats: the elderly man in the window seat, only his silver hair above the headrest, the window full of grey cloud
+N02|1|aide_beside_seat|P@K,A|two front-row aircraft seats seen from behind: the elderly man at the window, his aide in the next seat leaning over to listen
 N02|1|laptop_night_typing|D|hands typing on a laptop late at night in a dim room, a cup of tea gone cold beside it, rain on the window, the screen only a soft blurred glow
-N02|2|turbulence_hand_armrest|D@A|an aircraft cabin shaking in turbulence: the aide's hand gripping an armrest hard, a paper cup of water trembling on the tray, seen close
-N02|2|window_shade_hand|D|an old man's hand with a dark suit cuff pulling down an aircraft window shade, the bright cloud light narrowing to a slit
+N02|2|turbulence_hand_armrest|P@A|an aircraft cabin shaking in turbulence: the aide's hand gripping an armrest hard, a paper cup of water trembling on the tray, seen close
+N02|2|window_shade_hand|P|an old man's hand with a dark suit cuff pulling down an aircraft window shade, the bright cloud light narrowing to a slit
 N02|3|rocket_on_pad_dawn|Y|a slender white four-stage rocket standing on a simple launch pad beside the sea at dawn, a steel service tower beside it, no markings, no people
 N02|3|palace_dome_dusk|O|New Delhi at dusk: a vast sandstone palace with a great central dome on a low hill, seen from far down a long empty avenue, wet road, no people, no flags, no lettering
 N02|4|island_shore_aerial|R|an island shore seen from above: a long sandy spit running into a blue-green sea, palm groves, a small town of tiled roofs, a temple tower far away, fishing boats drawn up

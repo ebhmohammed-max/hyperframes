@@ -157,9 +157,9 @@
   "q": 0,
   "k": 0,
   "name": "airliner_monsoon_climb",
-  "look": "D",
+  "look": "P",
   "file": "EP21_015_N02q00_airliner_monsoon_climb.jpg",
-  "prompt": "A white passenger airliner without any markings climbing from a runway into grey monsoon cloud, wet tarmac below, seen from the side. North-east India in July 2015, the monsoon: low grey cloud, wet roads, pine-covered hills, soft overcast light, cars and clothes of the present day, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A white passenger airliner without any markings climbing from a runway into grey monsoon cloud, wet tarmac below, seen from the side. A passenger aircraft over India in July 2015, the monsoon: thick grey cloud outside the windows, soft cabin light, a present-day cabin with plain seats, no hills and no landscape in view, no lettering of any kind, no logos, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 16,
@@ -167,9 +167,9 @@
   "q": 0,
   "k": 1,
   "name": "seat_window_front_row",
-  "look": "D",
+  "look": "P",
   "file": "EP21_016_N02q00_seat_window_front_row.jpg",
-  "prompt": "The front row of an aircraft cabin seen from behind the seats: the elderly man in the window seat, only his silver hair above the headrest, the window full of grey cloud. The elderly man is 83 and is shown only from behind, in silhouette or from far, never his face: silver-white hair worn long to the collar and parted in the middle, a slight stoop, a dark grey closed-collar suit. North-east India in July 2015, the monsoon: low grey cloud, wet roads, pine-covered hills, soft overcast light, cars and clothes of the present day, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "The front row of an aircraft cabin seen from behind the seats: the elderly man in the window seat, only his silver hair above the headrest, the window full of grey cloud. The elderly man is 83 and is shown only from behind, in silhouette or from far, never his face: silver-white hair worn long to the collar and parted in the middle, a slight stoop, a dark grey closed-collar suit. A passenger aircraft over India in July 2015, the monsoon: thick grey cloud outside the windows, soft cabin light, a present-day cabin with plain seats, no hills and no landscape in view, no lettering of any kind, no logos, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "K"
   ]
@@ -180,9 +180,9 @@
   "q": 1,
   "k": 0,
   "name": "aide_beside_seat",
-  "look": "D",
+  "look": "P",
   "file": "EP21_017_N02q01_aide_beside_seat.jpg",
-  "prompt": "Two front-row aircraft seats seen from behind: the elderly man at the window, his aide in the next seat leaning over to listen. The elderly man is 83 and is shown only from behind, in silhouette or from far, never his face: silver-white hair worn long to the collar and parted in the middle, a slight stoop, a dark grey closed-collar suit. His aide is a slim Indian man of about thirty in a plain light shirt, shown from behind or in part, never his face. North-east India in July 2015, the monsoon: low grey cloud, wet roads, pine-covered hills, soft overcast light, cars and clothes of the present day, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "Two front-row aircraft seats seen from behind: the elderly man at the window, his aide in the next seat leaning over to listen. The elderly man is 83 and is shown only from behind, in silhouette or from far, never his face: silver-white hair worn long to the collar and parted in the middle, a slight stoop, a dark grey closed-collar suit. His aide is a slim Indian man of about thirty in a plain light shirt, shown from behind or in part, never his face. A passenger aircraft over India in July 2015, the monsoon: thick grey cloud outside the windows, soft cabin light, a present-day cabin with plain seats, no hills and no landscape in view, no lettering of any kind, no logos, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "K",
    "A"
@@ -204,9 +204,9 @@
   "q": 2,
   "k": 0,
   "name": "turbulence_hand_armrest",
-  "look": "D",
+  "look": "P",
   "file": "EP21_019_N02q02_turbulence_hand_armrest.jpg",
-  "prompt": "An aircraft cabin shaking in turbulence: the aide's hand gripping an armrest hard, a paper cup of water trembling on the tray, seen close. His aide is a slim Indian man of about thirty in a plain light shirt, shown from behind or in part, never his face. North-east India in July 2015, the monsoon: low grey cloud, wet roads, pine-covered hills, soft overcast light, cars and clothes of the present day, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "An aircraft cabin shaking in turbulence: the aide's hand gripping an armrest hard, a paper cup of water trembling on the tray, seen close. His aide is a slim Indian man of about thirty in a plain light shirt, shown from behind or in part, never his face. A passenger aircraft over India in July 2015, the monsoon: thick grey cloud outside the windows, soft cabin light, a present-day cabin with plain seats, no hills and no landscape in view, no lettering of any kind, no logos, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
   ]
@@ -217,9 +217,9 @@
   "q": 2,
   "k": 1,
   "name": "window_shade_hand",
-  "look": "D",
+  "look": "P",
   "file": "EP21_020_N02q02_window_shade_hand.jpg",
-  "prompt": "An old man's hand with a dark suit cuff pulling down an aircraft window shade, the bright cloud light narrowing to a slit. North-east India in July 2015, the monsoon: low grey cloud, wet roads, pine-covered hills, soft overcast light, cars and clothes of the present day, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "An old man's hand with a dark suit cuff pulling down an aircraft window shade, the bright cloud light narrowing to a slit. A passenger aircraft over India in July 2015, the monsoon: thick grey cloud outside the windows, soft cabin light, a present-day cabin with plain seats, no hills and no landscape in view, no lettering of any kind, no logos, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 21,

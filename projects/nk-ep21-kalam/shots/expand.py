@@ -5,6 +5,7 @@ import json, collections
 NOPE = "no signboards, no lettering of any kind, no flags, no emblems"
 LOOK = {
  "D": ("the last day, 27 July 2015", "North-east India in July 2015, the monsoon: low grey cloud, wet roads, pine-covered hills, soft overcast light, cars and clothes of the present day, " + NOPE, ""),
+ "P": ("the last day, on the flight", "A passenger aircraft over India in July 2015, the monsoon: thick grey cloud outside the windows, soft cabin light, a present-day cabin with plain seats, no hills and no landscape in view, no lettering of any kind, no logos, no flags, no emblems", ""),
  "R": ("Rameswaram around 1940, as he remembered it", "Rameswaram island in South India around 1940, painted as a remembered childhood: warm sepia sunlight, sand lanes, palm trees, lime-washed houses with tiled roofs, the sea always near, steam trains, nothing modern, " + NOPE, ", the people in white cotton veshtis and plain saris, small in the frame or seen from behind"),
  "Y": ("1958 to 1980, the working years", "India between 1958 and 1980, in the faded colours of an old colour photograph: period clothes, period machines with dials and switches, nothing later than 1980, " + NOPE, ""),
  "S": ("symbolic still life", "A still life in a plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind", ""),
