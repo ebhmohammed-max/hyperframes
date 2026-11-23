@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **70 of 128** (B01–B07 = 001–070: checked, on Drive) |
+| Pictures | **80 of 128** (B01–B08 = 001–080: checked, on Drive) |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -36,6 +36,7 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B05 | 041–050 | 1EtOejTuKuay728sqzKUbqujRWYFzpWYr |
 | B06 | 051–060 | 1w45TnpqGz9sYzLj5BKZ4qpjcbdcmSm4t |
 | B07 | 061–070 | 1QHpoFd_Rkzad4HnSblTl93Gu3giNG4hk |
+| B08 | 071–080 | 14uAXZ6PzD-_n5otb8Ora-Fs7dBqpEwn8 |
 
 ## Picture batches
 
@@ -56,6 +57,8 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 - Note for prompts: in legend pictures where the stone is still travelling, write that the tower top is flat and has no dome yet (done by hand for 024; the look text otherwise adds the dome).
 - Note for prompts: for scenes of 1010 that are not building work (gifts, dancers, accountants) the look-C text was shortened by hand (no scaffolding, rollers or elephants), so that they do not creep into the picture.
 - 062 `stonecutter_letters_hands` (kept): the carved marks look like Tamil letter shapes but form no words; they stand out in relief instead of being cut in.
+- 071 `dome_segment_levers`: the raw picture has rounded black corners; `shots/crops.json` cuts 1.5 % off each edge for the film copy (the zip on Drive holds the raw picture).
+- 075 `dome_plaster_stucco` (kept): one small weathered stucco figure sits in a niche at the lower left.
 - 025 `log_rollers_close` (kept): the stone is a squared block, not rounded.
 
 ## Open points
