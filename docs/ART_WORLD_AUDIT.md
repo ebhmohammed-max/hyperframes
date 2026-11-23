@@ -472,3 +472,21 @@ is 22,776 B of per-part MP4 container headers over the 773,212,635 B master.
 
 Delivery of the 35-minute documentary is complete: art gated, master verified,
 and the film in Drive.
+
+### Masters folder brought current
+
+The Masters folder still held pre-fix art from earlier rounds. A size diff of all
+70 Drive masters against the local files found **25 stale**: the 21 from the
+handoff list, plus 023, 032, 063, 066 from this round.
+
+All 25 were trashed and re-uploaded at full quality, then verified: **70/70
+present, 70/70 byte-identical to local, 13,676,717 B.**
+
+A failed shortcut worth recording. `update_file_content` looks attractive for
+replacing a file in place, but the inline base64 payload is truncated by the
+tool transport somewhere under 100 KB — a 121 KB value came back as
+`Incorrect padding`. The bad payload also overwrote 057 before being detected,
+which is why that scene was trashed and re-uploaded too. **Do not route large
+binary content through `update_file_content`; use `upload_file` with a
+`file_path`.** Trashing the superseded copy and uploading fresh is slower but
+it is the only path that verifiably delivers whole files.
