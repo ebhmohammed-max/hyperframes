@@ -10,7 +10,7 @@ Started 23 Nov 2026. Copied from `projects/nk-ep19-2050/` (same film code, tools
 | Fact sheet | done: `FACT_SHEET.md` (labels K A M N F O; our sums in section 4; "To check before publishing") |
 | Scratch narration, voice-02 | done: N01–N07 made 23 Nov, N08 (end card) taken from the EP19 zip; `align.py` 0 flagged; voice 457.63 s, film about 503 s (8 min 23 s) |
 | Shot list | done: `shots/shots.txt` 128 rows, `SHOTLIST.md` |
-| Pictures | **30 of 128** (B01 001–010, B02 011–020, B03 021–030: checked, on Drive) |
+| Pictures | **40 of 128** (B01–B04 = 001–040: checked, on Drive) |
 | Film code for EP20 | **not adapted yet**: `film/gen.mjs` (HOOK_FX, CARD_BG, subscribe pop-up line `q === 3`), `film/title.mjs` (three plates and the title words), `film/fx.mjs` if a new graphic is wanted |
 | Stills checks, render, parts, 720p, upload | not started |
 
@@ -32,6 +32,7 @@ Folder `EP20_Thanjavur_80_Ton_Kallu` `1auV8wSZPKDqQpw9ulBB065f1AVV-sVxK`; `image
 | B01 | 001–010 | 1x0_eGLd37dil1u2DII1bx6QbT4koqP1z |
 | B02 | 011–020 | 1LjUFRy9Z55BY9-dCfZin9mXg-pAJxeiq |
 | B03 | 021–030 | 1SzRjRHmbtUXPO6HSZEYeeZpjHXq2e15s |
+| B04 | 031–040 | 1dGpEhxGuV5xwGrp9nppivJKMmcyeBRAt |
 
 ## Picture batches
 
@@ -43,6 +44,8 @@ Plates the film code will need by name: title `chola_site_dawn_wide`, `ramp_elep
 
 - 007 `ramp_elephants_legend`: the tower already wears its dome while the stone is still on the ramp. Make again with a flat, unfinished top (it is also a title plate).
 - 012 `scholar_scaffold_top`: a second tall tower stands beside the dome. Make again: the dome is the top of the only tower, nothing higher than it in the frame.
+- 033 `sand_table_ramp_hands`: the model on the table is a stepped pyramid of the Maya kind, not a South Indian tower. Make again: a small carved model of a South Indian temple tower (like the model in 010), the sand ramp long and thin.
+- 034 `ramp_profile_long`: the ramp is short and steep, against the line it illustrates ("walk 100 feet, rise one foot") and it is the N03 chapter card. Make again: the tower very small at the far right, the ramp a long low line across the whole frame, barely rising.
 - 020 `tiers_carved_detail` (kept for now): a small domed shrine sits in the middle of the tiers; acceptable as detail, remake only if a spare call is left.
 
 - Note for prompts: in legend pictures where the stone is still travelling, write that the tower top is flat and has no dome yet (done by hand for 024; the look text otherwise adds the dome).
