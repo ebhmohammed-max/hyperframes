@@ -1,3 +1,5 @@
 # Pictures to make again in the remake pass (R1), after all 70 exist. Format: number|what is wrong|what to ask for
 033|two more pyramids stand behind the Great Pyramid; when it was new they had not been built|the Great Pyramid alone on the plateau, no other pyramid anywhere in view
 037|two figures (one in the foreground, one on the stairs); the fact needs one person, head high and feet low|one full-length silhouette on the staircase, nobody else in the frame
+046|the globe shows the Americas; this picture is also the chapter 4 card and a title plate, and the audience is in Tamil Nadu|the whole Earth with India and the Indian Ocean facing the viewer
+048|the houses and trees look European|sunrise through palms and mist onto a Tamil Nadu village path with tiled-roof houses
