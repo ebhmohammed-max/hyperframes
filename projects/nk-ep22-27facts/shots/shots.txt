@@ -1,0 +1,73 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# Every picture is an illustration. Looks: H = you, tonight (Tamil Nadu, a terrace at night); B = inside the body (microscopic); T = deep time (prehistoric Earth); E = Earth today; C = space; S = one object; O = setting given in the subject.
+# Ref V adds the fixed description of the viewer (seen only from behind or as a silhouette). No face of any real person is shown. No readable writing, no flags, no emblems.
+N01|0|terrace_viewer_phone_night|H@V|a young person sitting quite still on a low wall of a flat house terrace at night, seen from behind, a phone glowing in the hands, the lights of a small town below and a sky full of stars above
+N01|1|earth_rushing_on_orbit|C|the Earth as a small blue globe rushing along a faint curved orbit line, a streak of motion behind it, the Sun a distant bright disc at one side
+N01|1|cells_dying_dividing|B|a field of rounded translucent human cells, a few of them dimming and breaking apart while others pinch in two and divide, new ones glowing brighter
+N01|2|oil_lamps_rows_dark|S|rows of small lit clay oil lamps on a dark stone floor, receding into darkness, each flame steady
+N01|3|body_silhouette_inner_glow|O|the dark outline of a standing human figure with no face and no features, filled with glowing networks of vessels and nerves like a map of light, against a plain black background, teal and amber glow
+N01|3|milky_way_over_palms|E|the Milky Way arching over a line of coconut palms and a quiet village road at night, no people
+N01|3|probe_tiny_far_sun|C|a small unmanned space probe with a round white dish antenna seen from behind, drifting away into the dark, the Sun only a bright star far ahead of it
+N01|4|mirror_silhouette_lamp|H@V|the young person standing in front of a wall mirror in a dim room lit by one lamp, seen from behind, the reflection lost in deep shadow so that no face shows
+N01|4|terrace_viewer_looks_up|H@V|the young person on the house terrace at night, seen from behind, the phone lowered, head tilted back to look up at the stars
+N02|0|human_cells_field|B|a dense field of rounded translucent human cells, each with a darker nucleus, packed side by side like paving stones
+N02|0|gut_bacteria_swarm|B|countless tiny rod-shaped and round bacteria crowding over a soft folded surface, far more of them than can be counted
+N02|1|red_cells_stream|B|red blood cells streaming through a blood vessel towards the viewer, thousands of them, the vessel wall glowing
+N02|1|skin_layers_renewing|B|a cross-section of skin layers: worn flat cells lifting away at the top like flakes while fresh round cells rise from the layer beneath
+N02|2|neurons_network_sparks|B|a web of nerve cells with long branching arms, small sparks of light travelling along the branches and jumping between them
+N02|2|small_bulb_glowing|S|one small bare light bulb glowing dimly on a wooden table in a dark room
+N02|3|heart_anatomical_glow|B|a human heart shown as an anatomical illustration, beating, lit deep red from within, vessels branching away into the dark
+N02|3|wrist_pulse_fingers|O|close view of two fingers resting on the inside of a wrist to feel the pulse, hands and forearm only, warm lamp light, a dark room behind
+N03|0|atoms_lattice_endless|B|an endless lattice of tiny glowing spheres linked by faint threads of light, receding in every direction until they blur into haze
+N03|0|starfield_dense_deep|C|a view deep into space packed with stars and small distant galaxies from edge to edge
+N03|1|early_universe_glow|C|the first light of the universe: a vast hot glowing haze of gold and white expanding outward in every direction, no stars yet, no planets
+N03|1|supernova_shell_colours|C|a dying star exploding, an expanding shell of glowing gas in red, green and blue filaments thrown out around a bright centre
+N03|1|hand_against_stars|H@V|an open hand raised against the night sky, seen from behind the wrist, stars shining between the fingers
+N03|2|cricket_stadium_empty_aerial|E|a large empty cricket stadium seen from high above at dusk, floodlights on, the stands empty, one tiny bright point exactly at the centre of the pitch
+N03|2|pea_on_pitch_close|S|a single green pea lying on the bare clay of a cricket pitch, seen from ground level, the huge empty stands blurred far behind it
+N03|3|chromosomes_pairs_glow|B|many pairs of X-shaped chromosomes floating in dark fluid, softly glowing, some pairs drifting apart
+N03|3|newborn_hand_finger|O|close view of a newborn baby's tiny hand gripping an adult's finger, hands only, soft window light, a plain cotton cloth beneath
+N03|4|crowd_endless_dusk_aerial|O|a vast crowd of people seen from high above, tiny figures stretching across a plain to the horizon at dusk, far too many to count
+N03|4|one_lamp_among_crowd|H@V|a crowd of dark silhouettes seen from behind at night, and among them one person holding up a single small lit lamp
+N04|0|early_earth_molten|T|the young Earth: glowing lava seas, black rock and erupting volcanoes under a huge pale Moon in a dark orange sky
+N04|0|clock_seconds_to_midnight|S|an old round wall clock with a plain dial that has simple tick marks and no numerals, both hands almost touching at the very top, a thin second hand just short of them, dim lamp light
+N04|1|stegosaurus_fern_forest|T|a Stegosaurus with a row of tall plates along its back walking through a forest of ferns, cycads and conifers in soft morning haze, no flowers
+N04|1|trex_floodplain_dusk|T|a Tyrannosaurus rex walking across a wide river floodplain with flowering trees and palms at dusk, seen from the side and far enough to show the whole animal
+N04|2|great_pyramid_new_white|O|ancient Egypt: the Great Pyramid newly finished, its smooth white limestone casing gleaming in the sun, tiny workers and ramps of sand at its foot, the desert around
+N04|2|queen_alexandria_terrace_back|O|ancient Alexandria at dusk: an Egyptian queen in a white pleated gown and gold collar standing on a palace terrace, seen from behind, looking over a harbour with a tall lighthouse and sailing ships
+N04|2|moon_bootprint_earth|O|the surface of the Moon: one sharp bootprint in grey dust in the foreground, the blue Earth hanging in the black sky above the horizon, no astronaut, no flag
+N04|3|atomic_clock_lab_table|S|a physics laboratory at night: an optical table crowded with mirrors, lenses and thin green and violet laser beams around a small steel vacuum chamber, a second identical table beside it standing a little higher on jacks, no people
+N04|3|person_on_stairs_silhouette|H@V|the young person standing halfway up a staircase beside a tall window, seen from the side as a full-length dark silhouette, head high above and feet below
+N05|0|earth_spinning_dayline|C|the Earth seen from orbit with the line between day and night crossing India, city lights on the dark side, thin blue air on the curved horizon
+N05|0|earth_moon_small_beside_sun|C|the Earth and the Moon as two small globes travelling together through space, the glare of the huge Sun filling one side of the frame
+N05|0|tea_glass_still_dawn|O|Tamil Nadu at dawn: a glass of tea standing perfectly still on a windowsill, steam rising straight up, a quiet street outside, no people
+N05|1|milky_way_spiral_outside|C|the Milky Way galaxy seen from outside and above, a great spiral of countless stars with a bright centre and dark dust lanes
+N05|1|rainforest_canopy_aerial|E|an endless rainforest canopy seen from the air, treetops to the horizon, mist rising from the valleys in morning light, no people
+N05|2|ancient_shark_bare_shore|T|a primeval sea 450 million years ago: an early shark-like fish gliding through clear water, and above the surface a completely bare rocky shore with no plants at all
+N05|2|first_forest_devonian|T|the first forests on Earth: tall slender trees with fern-like fronds standing along a muddy riverbank, low horsetails beneath, no flowers, no animals in view
+N05|3|ants_column_macro|E|a column of ants crossing a fallen leaf on the forest floor, seen very close from the side, thousands more in a blurred stream behind them
+N05|3|earth_whole_blue|C|the whole Earth as a blue and white globe alone in black space, fully lit
+N05|4|moon_large_over_sea|E|a very large full Moon low over a calm sea at night, its light a path on the water, a line of palms in silhouette, no people
+N06|0|sunrise_rays_through_trees|E|sunrise: long shafts of sunlight coming through tall trees and morning mist onto a village path, no people
+N06|0|sun_surface_flares_close|C|a close view of the surface of the Sun: boiling granules of fire and great arching loops of glowing gas at the edge
+N06|1|sun_and_planets_scale|C|the Sun as an enormous glowing globe filling the left of the frame, and beside it all the planets in a row to scale, Jupiter and Saturn small beads, the Earth barely a speck
+N06|1|earth_speck_at_sun_limb|C|the curved edge of the Sun filling the frame like a wall of fire, and against it the Earth as one tiny dark blue dot
+N06|2|neutron_star_beams|C|a neutron star: a small, fiercely bright blue-white sphere with two narrow beams of light and a swirling glowing disc of gas around it
+N06|2|sugar_cube_mountain_window|S|one white sugar cube on a dark stone table, and far behind it through an open window a great snow-covered mountain peak
+N06|3|venus_cloud_globe|C|the planet Venus as a pale yellow-white globe wrapped in thick swirling cloud, half in shadow
+N06|3|venus_surface_dim_sun|C|the surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of cloud, the Sun only a dim bright smear low on the horizon
+N07|0|sand_grain_fingertip_sky|H|an arm stretched out towards the night sky, seen from behind the shoulder, one grain of sand balanced on the tip of the index finger, stars beyond
+N07|0|space_telescope_gold_mirror|C|a space telescope floating in space: a large mirror made of gold hexagonal segments above a broad silver kite-shaped sunshield, no logos, no markings
+N07|0|deep_field_galaxies|C|a deep view of the universe crowded with thousands of galaxies of every shape and colour, spirals, ovals and faint red smudges, a few stretched into thin arcs
+N07|1|andromeda_over_hills|C|a night landscape of dark hills with a sky full of stars, and among them the Andromeda galaxy as a soft oval glow clearly larger than any star, no people
+N07|1|savanna_dusk_no_people|T|an African savanna two and a half million years ago at dusk: acacia trees, a herd of antelope and distant elephants, the first stars coming out
+N07|2|cosmic_web_filaments|C|the cosmic web: thin filaments and knots of faint light strung across an immense darkness like a net, every knot a cluster of galaxies
+N07|2|one_galaxy_in_void|C|one small spiral galaxy alone at the centre of an immense black emptiness
+N07|3|rocket_liftoff_1977_far|O|Florida in 1977: a tall white rocket with two side boosters lifting off beside a launch tower in morning light, seen from far across calm water, smoke rolling outward, no markings, no people
+N07|3|voyager_probe_gold_disc|C|an unmanned space probe of the 1970s drifting in deep space: a large round white dish antenna, a long thin boom, and a round gold disc fixed to its side, no logos, no markings
+N07|3|sun_one_star_among_many|C|the view back from the edge of the Solar System: the Sun is only the brightest star among thousands, and the small dark shape of a space probe with a dish antenna hangs in the foreground
+N07|4|earth_orbit_arc_trail|C|the Earth seen from above its orbit with a short glowing arc of light behind it marking the path it has just travelled, the Sun far off
+N07|4|cells_renewed_golden|B|a field of rounded human cells in which fresh cells glowing warm gold take the place of dim grey ones
+N07|4|maternity_cots_night|O|a quiet hospital maternity ward at night seen from the doorway: a row of small cots with newborn babies wrapped in white cloth, only bundles and tiny hands visible, soft lamp light, no adults in view
+N07|5|pale_blue_dot_sunbeam|C|a tiny pale blue dot, no bigger than a grain, hanging in a faint band of scattered sunlight in black space
+N07|6|terrace_viewer_stars_final|H@V|the young person standing on the house terrace at night, seen from behind, arms loose at the sides, the whole Milky Way spread across the sky above the dark roofs

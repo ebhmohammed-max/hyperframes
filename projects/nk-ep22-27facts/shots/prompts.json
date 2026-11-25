@@ -1,0 +1,723 @@
+[
+ {
+  "n": 1,
+  "clip": "N01",
+  "q": 0,
+  "k": 0,
+  "name": "terrace_viewer_phone_night",
+  "look": "H",
+  "file": "EP22_001_N01q00_terrace_viewer_phone_night.jpg",
+  "prompt": "A young person sitting quite still on a low wall of a flat house terrace at night, seen from behind, a phone glowing in the hands, the lights of a small town below and a sky full of stars above. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ },
+ {
+  "n": 2,
+  "clip": "N01",
+  "q": 1,
+  "k": 0,
+  "name": "earth_rushing_on_orbit",
+  "look": "C",
+  "file": "EP22_002_N01q01_earth_rushing_on_orbit.jpg",
+  "prompt": "The Earth as a small blue globe rushing along a faint curved orbit line, a streak of motion behind it, the Sun a distant bright disc at one side. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 3,
+  "clip": "N01",
+  "q": 1,
+  "k": 1,
+  "name": "cells_dying_dividing",
+  "look": "B",
+  "file": "EP22_003_N01q01_cells_dying_dividing.jpg",
+  "prompt": "A field of rounded translucent human cells, a few of them dimming and breaking apart while others pinch in two and divide, new ones glowing brighter. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 4,
+  "clip": "N01",
+  "q": 2,
+  "k": 0,
+  "name": "oil_lamps_rows_dark",
+  "look": "S",
+  "file": "EP22_004_N01q02_oil_lamps_rows_dark.jpg",
+  "prompt": "Rows of small lit clay oil lamps on a dark stone floor, receding into darkness, each flame steady. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 5,
+  "clip": "N01",
+  "q": 3,
+  "k": 0,
+  "name": "body_silhouette_inner_glow",
+  "look": "O",
+  "file": "EP22_005_N01q03_body_silhouette_inner_glow.jpg",
+  "prompt": "The dark outline of a standing human figure with no face and no features, filled with glowing networks of vessels and nerves like a map of light, against a plain black background, teal and amber glow. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 6,
+  "clip": "N01",
+  "q": 3,
+  "k": 1,
+  "name": "milky_way_over_palms",
+  "look": "E",
+  "file": "EP22_006_N01q03_milky_way_over_palms.jpg",
+  "prompt": "The Milky Way arching over a line of coconut palms and a quiet village road at night, no people. Planet Earth in the present day, like a frame from a nature documentary, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 7,
+  "clip": "N01",
+  "q": 3,
+  "k": 2,
+  "name": "probe_tiny_far_sun",
+  "look": "C",
+  "file": "EP22_007_N01q03_probe_tiny_far_sun.jpg",
+  "prompt": "A small unmanned space probe with a round white dish antenna seen from behind, drifting away into the dark, the Sun only a bright star far ahead of it. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 8,
+  "clip": "N01",
+  "q": 4,
+  "k": 0,
+  "name": "mirror_silhouette_lamp",
+  "look": "H",
+  "file": "EP22_008_N01q04_mirror_silhouette_lamp.jpg",
+  "prompt": "The young person standing in front of a wall mirror in a dim room lit by one lamp, seen from behind, the reflection lost in deep shadow so that no face shows. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ },
+ {
+  "n": 9,
+  "clip": "N01",
+  "q": 4,
+  "k": 1,
+  "name": "terrace_viewer_looks_up",
+  "look": "H",
+  "file": "EP22_009_N01q04_terrace_viewer_looks_up.jpg",
+  "prompt": "The young person on the house terrace at night, seen from behind, the phone lowered, head tilted back to look up at the stars. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ },
+ {
+  "n": 10,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "human_cells_field",
+  "look": "B",
+  "file": "EP22_010_N02q00_human_cells_field.jpg",
+  "prompt": "A dense field of rounded translucent human cells, each with a darker nucleus, packed side by side like paving stones. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 11,
+  "clip": "N02",
+  "q": 0,
+  "k": 1,
+  "name": "gut_bacteria_swarm",
+  "look": "B",
+  "file": "EP22_011_N02q00_gut_bacteria_swarm.jpg",
+  "prompt": "Countless tiny rod-shaped and round bacteria crowding over a soft folded surface, far more of them than can be counted. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 12,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "red_cells_stream",
+  "look": "B",
+  "file": "EP22_012_N02q01_red_cells_stream.jpg",
+  "prompt": "Red blood cells streaming through a blood vessel towards the viewer, thousands of them, the vessel wall glowing. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 13,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "skin_layers_renewing",
+  "look": "B",
+  "file": "EP22_013_N02q01_skin_layers_renewing.jpg",
+  "prompt": "A cross-section of skin layers: worn flat cells lifting away at the top like flakes while fresh round cells rise from the layer beneath. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 14,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "neurons_network_sparks",
+  "look": "B",
+  "file": "EP22_014_N02q02_neurons_network_sparks.jpg",
+  "prompt": "A web of nerve cells with long branching arms, small sparks of light travelling along the branches and jumping between them. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "small_bulb_glowing",
+  "look": "S",
+  "file": "EP22_015_N02q02_small_bulb_glowing.jpg",
+  "prompt": "One small bare light bulb glowing dimly on a wooden table in a dark room. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "heart_anatomical_glow",
+  "look": "B",
+  "file": "EP22_016_N02q03_heart_anatomical_glow.jpg",
+  "prompt": "A human heart shown as an anatomical illustration, beating, lit deep red from within, vessels branching away into the dark. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 17,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "wrist_pulse_fingers",
+  "look": "O",
+  "file": "EP22_017_N02q03_wrist_pulse_fingers.jpg",
+  "prompt": "Close view of two fingers resting on the inside of a wrist to feel the pulse, hands and forearm only, warm lamp light, a dark room behind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 18,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "atoms_lattice_endless",
+  "look": "B",
+  "file": "EP22_018_N03q00_atoms_lattice_endless.jpg",
+  "prompt": "An endless lattice of tiny glowing spheres linked by faint threads of light, receding in every direction until they blur into haze. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N03",
+  "q": 0,
+  "k": 1,
+  "name": "starfield_dense_deep",
+  "look": "C",
+  "file": "EP22_019_N03q00_starfield_dense_deep.jpg",
+  "prompt": "A view deep into space packed with stars and small distant galaxies from edge to edge. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "early_universe_glow",
+  "look": "C",
+  "file": "EP22_020_N03q01_early_universe_glow.jpg",
+  "prompt": "The first light of the universe: a vast hot glowing haze of gold and white expanding outward in every direction, no stars yet, no planets. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N03",
+  "q": 1,
+  "k": 1,
+  "name": "supernova_shell_colours",
+  "look": "C",
+  "file": "EP22_021_N03q01_supernova_shell_colours.jpg",
+  "prompt": "A dying star exploding, an expanding shell of glowing gas in red, green and blue filaments thrown out around a bright centre. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N03",
+  "q": 1,
+  "k": 2,
+  "name": "hand_against_stars",
+  "look": "H",
+  "file": "EP22_022_N03q01_hand_against_stars.jpg",
+  "prompt": "An open hand raised against the night sky, seen from behind the wrist, stars shining between the fingers. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ },
+ {
+  "n": 23,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "cricket_stadium_empty_aerial",
+  "look": "E",
+  "file": "EP22_023_N03q02_cricket_stadium_empty_aerial.jpg",
+  "prompt": "A large empty cricket stadium seen from high above at dusk, floodlights on, the stands empty, one tiny bright point exactly at the centre of the pitch. Planet Earth in the present day, like a frame from a nature documentary, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N03",
+  "q": 2,
+  "k": 1,
+  "name": "pea_on_pitch_close",
+  "look": "S",
+  "file": "EP22_024_N03q02_pea_on_pitch_close.jpg",
+  "prompt": "A single green pea lying on the bare clay of a cricket pitch, seen from ground level, the huge empty stands blurred far behind it. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N03",
+  "q": 3,
+  "k": 0,
+  "name": "chromosomes_pairs_glow",
+  "look": "B",
+  "file": "EP22_025_N03q03_chromosomes_pairs_glow.jpg",
+  "prompt": "Many pairs of X-shaped chromosomes floating in dark fluid, softly glowing, some pairs drifting apart. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 26,
+  "clip": "N03",
+  "q": 3,
+  "k": 1,
+  "name": "newborn_hand_finger",
+  "look": "O",
+  "file": "EP22_026_N03q03_newborn_hand_finger.jpg",
+  "prompt": "Close view of a newborn baby's tiny hand gripping an adult's finger, hands only, soft window light, a plain cotton cloth beneath. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N03",
+  "q": 4,
+  "k": 0,
+  "name": "crowd_endless_dusk_aerial",
+  "look": "O",
+  "file": "EP22_027_N03q04_crowd_endless_dusk_aerial.jpg",
+  "prompt": "A vast crowd of people seen from high above, tiny figures stretching across a plain to the horizon at dusk, far too many to count. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N03",
+  "q": 4,
+  "k": 1,
+  "name": "one_lamp_among_crowd",
+  "look": "H",
+  "file": "EP22_028_N03q04_one_lamp_among_crowd.jpg",
+  "prompt": "A crowd of dark silhouettes seen from behind at night, and among them one person holding up a single small lit lamp. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ },
+ {
+  "n": 29,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "early_earth_molten",
+  "look": "T",
+  "file": "EP22_029_N04q00_early_earth_molten.jpg",
+  "prompt": "The young Earth: glowing lava seas, black rock and erupting volcanoes under a huge pale Moon in a dark orange sky. Prehistoric Earth, painted like a natural-history museum reconstruction: no humans, no buildings, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 30,
+  "clip": "N04",
+  "q": 0,
+  "k": 1,
+  "name": "clock_seconds_to_midnight",
+  "look": "S",
+  "file": "EP22_030_N04q00_clock_seconds_to_midnight.jpg",
+  "prompt": "An old round wall clock with a plain dial that has simple tick marks and no numerals, both hands almost touching at the very top, a thin second hand just short of them, dim lamp light. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 31,
+  "clip": "N04",
+  "q": 1,
+  "k": 0,
+  "name": "stegosaurus_fern_forest",
+  "look": "T",
+  "file": "EP22_031_N04q01_stegosaurus_fern_forest.jpg",
+  "prompt": "A Stegosaurus with a row of tall plates along its back walking through a forest of ferns, cycads and conifers in soft morning haze, no flowers. Prehistoric Earth, painted like a natural-history museum reconstruction: no humans, no buildings, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N04",
+  "q": 1,
+  "k": 1,
+  "name": "trex_floodplain_dusk",
+  "look": "T",
+  "file": "EP22_032_N04q01_trex_floodplain_dusk.jpg",
+  "prompt": "A Tyrannosaurus rex walking across a wide river floodplain with flowering trees and palms at dusk, seen from the side and far enough to show the whole animal. Prehistoric Earth, painted like a natural-history museum reconstruction: no humans, no buildings, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 33,
+  "clip": "N04",
+  "q": 2,
+  "k": 0,
+  "name": "great_pyramid_new_white",
+  "look": "O",
+  "file": "EP22_033_N04q02_great_pyramid_new_white.jpg",
+  "prompt": "Ancient Egypt: the Great Pyramid newly finished, its smooth white limestone casing gleaming in the sun, tiny workers and ramps of sand at its foot, the desert around. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N04",
+  "q": 2,
+  "k": 1,
+  "name": "queen_alexandria_terrace_back",
+  "look": "O",
+  "file": "EP22_034_N04q02_queen_alexandria_terrace_back.jpg",
+  "prompt": "Ancient Alexandria at dusk: an Egyptian queen in a white pleated gown and gold collar standing on a palace terrace, seen from behind, looking over a harbour with a tall lighthouse and sailing ships. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N04",
+  "q": 2,
+  "k": 2,
+  "name": "moon_bootprint_earth",
+  "look": "O",
+  "file": "EP22_035_N04q02_moon_bootprint_earth.jpg",
+  "prompt": "The surface of the Moon: one sharp bootprint in grey dust in the foreground, the blue Earth hanging in the black sky above the horizon, no astronaut, no flag. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 36,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "atomic_clock_lab_table",
+  "look": "S",
+  "file": "EP22_036_N04q03_atomic_clock_lab_table.jpg",
+  "prompt": "A physics laboratory at night: an optical table crowded with mirrors, lenses and thin green and violet laser beams around a small steel vacuum chamber, a second identical table beside it standing a little higher on jacks, no people. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N04",
+  "q": 3,
+  "k": 1,
+  "name": "person_on_stairs_silhouette",
+  "look": "H",
+  "file": "EP22_037_N04q03_person_on_stairs_silhouette.jpg",
+  "prompt": "The young person standing halfway up a staircase beside a tall window, seen from the side as a full-length dark silhouette, head high above and feet below. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ },
+ {
+  "n": 38,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "earth_spinning_dayline",
+  "look": "C",
+  "file": "EP22_038_N05q00_earth_spinning_dayline.jpg",
+  "prompt": "The Earth seen from orbit with the line between day and night crossing India, city lights on the dark side, thin blue air on the curved horizon. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N05",
+  "q": 0,
+  "k": 1,
+  "name": "earth_moon_small_beside_sun",
+  "look": "C",
+  "file": "EP22_039_N05q00_earth_moon_small_beside_sun.jpg",
+  "prompt": "The Earth and the Moon as two small globes travelling together through space, the glare of the huge Sun filling one side of the frame. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 40,
+  "clip": "N05",
+  "q": 0,
+  "k": 2,
+  "name": "tea_glass_still_dawn",
+  "look": "O",
+  "file": "EP22_040_N05q00_tea_glass_still_dawn.jpg",
+  "prompt": "Tamil Nadu at dawn: a glass of tea standing perfectly still on a windowsill, steam rising straight up, a quiet street outside, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 41,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "milky_way_spiral_outside",
+  "look": "C",
+  "file": "EP22_041_N05q01_milky_way_spiral_outside.jpg",
+  "prompt": "The Milky Way galaxy seen from outside and above, a great spiral of countless stars with a bright centre and dark dust lanes. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 42,
+  "clip": "N05",
+  "q": 1,
+  "k": 1,
+  "name": "rainforest_canopy_aerial",
+  "look": "E",
+  "file": "EP22_042_N05q01_rainforest_canopy_aerial.jpg",
+  "prompt": "An endless rainforest canopy seen from the air, treetops to the horizon, mist rising from the valleys in morning light, no people. Planet Earth in the present day, like a frame from a nature documentary, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 43,
+  "clip": "N05",
+  "q": 2,
+  "k": 0,
+  "name": "ancient_shark_bare_shore",
+  "look": "T",
+  "file": "EP22_043_N05q02_ancient_shark_bare_shore.jpg",
+  "prompt": "A primeval sea 450 million years ago: an early shark-like fish gliding through clear water, and above the surface a completely bare rocky shore with no plants at all. Prehistoric Earth, painted like a natural-history museum reconstruction: no humans, no buildings, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 44,
+  "clip": "N05",
+  "q": 2,
+  "k": 1,
+  "name": "first_forest_devonian",
+  "look": "T",
+  "file": "EP22_044_N05q02_first_forest_devonian.jpg",
+  "prompt": "The first forests on Earth: tall slender trees with fern-like fronds standing along a muddy riverbank, low horsetails beneath, no flowers, no animals in view. Prehistoric Earth, painted like a natural-history museum reconstruction: no humans, no buildings, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N05",
+  "q": 3,
+  "k": 0,
+  "name": "ants_column_macro",
+  "look": "E",
+  "file": "EP22_045_N05q03_ants_column_macro.jpg",
+  "prompt": "A column of ants crossing a fallen leaf on the forest floor, seen very close from the side, thousands more in a blurred stream behind them. Planet Earth in the present day, like a frame from a nature documentary, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 46,
+  "clip": "N05",
+  "q": 3,
+  "k": 1,
+  "name": "earth_whole_blue",
+  "look": "C",
+  "file": "EP22_046_N05q03_earth_whole_blue.jpg",
+  "prompt": "The whole Earth as a blue and white globe alone in black space, fully lit. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 47,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "moon_large_over_sea",
+  "look": "E",
+  "file": "EP22_047_N05q04_moon_large_over_sea.jpg",
+  "prompt": "A very large full Moon low over a calm sea at night, its light a path on the water, a line of palms in silhouette, no people. Planet Earth in the present day, like a frame from a nature documentary, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 48,
+  "clip": "N06",
+  "q": 0,
+  "k": 0,
+  "name": "sunrise_rays_through_trees",
+  "look": "E",
+  "file": "EP22_048_N06q00_sunrise_rays_through_trees.jpg",
+  "prompt": "Sunrise: long shafts of sunlight coming through tall trees and morning mist onto a village path, no people. Planet Earth in the present day, like a frame from a nature documentary, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N06",
+  "q": 0,
+  "k": 1,
+  "name": "sun_surface_flares_close",
+  "look": "C",
+  "file": "EP22_049_N06q00_sun_surface_flares_close.jpg",
+  "prompt": "A close view of the surface of the Sun: boiling granules of fire and great arching loops of glowing gas at the edge. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N06",
+  "q": 1,
+  "k": 0,
+  "name": "sun_and_planets_scale",
+  "look": "C",
+  "file": "EP22_050_N06q01_sun_and_planets_scale.jpg",
+  "prompt": "The Sun as an enormous glowing globe filling the left of the frame, and beside it all the planets in a row to scale, Jupiter and Saturn small beads, the Earth barely a speck. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N06",
+  "q": 1,
+  "k": 1,
+  "name": "earth_speck_at_sun_limb",
+  "look": "C",
+  "file": "EP22_051_N06q01_earth_speck_at_sun_limb.jpg",
+  "prompt": "The curved edge of the Sun filling the frame like a wall of fire, and against it the Earth as one tiny dark blue dot. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "neutron_star_beams",
+  "look": "C",
+  "file": "EP22_052_N06q02_neutron_star_beams.jpg",
+  "prompt": "A neutron star: a small, fiercely bright blue-white sphere with two narrow beams of light and a swirling glowing disc of gas around it. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N06",
+  "q": 2,
+  "k": 1,
+  "name": "sugar_cube_mountain_window",
+  "look": "S",
+  "file": "EP22_053_N06q02_sugar_cube_mountain_window.jpg",
+  "prompt": "One white sugar cube on a dark stone table, and far behind it through an open window a great snow-covered mountain peak. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 54,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "venus_cloud_globe",
+  "look": "C",
+  "file": "EP22_054_N06q03_venus_cloud_globe.jpg",
+  "prompt": "The planet Venus as a pale yellow-white globe wrapped in thick swirling cloud, half in shadow. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N06",
+  "q": 3,
+  "k": 1,
+  "name": "venus_surface_dim_sun",
+  "look": "C",
+  "file": "EP22_055_N06q03_venus_surface_dim_sun.jpg",
+  "prompt": "The surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of cloud, the Sun only a dim bright smear low on the horizon. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "sand_grain_fingertip_sky",
+  "look": "H",
+  "file": "EP22_056_N07q00_sand_grain_fingertip_sky.jpg",
+  "prompt": "An arm stretched out towards the night sky, seen from behind the shoulder, one grain of sand balanced on the tip of the index finger, stars beyond. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N07",
+  "q": 0,
+  "k": 1,
+  "name": "space_telescope_gold_mirror",
+  "look": "C",
+  "file": "EP22_057_N07q00_space_telescope_gold_mirror.jpg",
+  "prompt": "A space telescope floating in space: a large mirror made of gold hexagonal segments above a broad silver kite-shaped sunshield, no logos, no markings. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N07",
+  "q": 0,
+  "k": 2,
+  "name": "deep_field_galaxies",
+  "look": "C",
+  "file": "EP22_058_N07q00_deep_field_galaxies.jpg",
+  "prompt": "A deep view of the universe crowded with thousands of galaxies of every shape and colour, spirals, ovals and faint red smudges, a few stretched into thin arcs. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "andromeda_over_hills",
+  "look": "C",
+  "file": "EP22_059_N07q01_andromeda_over_hills.jpg",
+  "prompt": "A night landscape of dark hills with a sky full of stars, and among them the Andromeda galaxy as a soft oval glow clearly larger than any star, no people. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N07",
+  "q": 1,
+  "k": 1,
+  "name": "savanna_dusk_no_people",
+  "look": "T",
+  "file": "EP22_060_N07q01_savanna_dusk_no_people.jpg",
+  "prompt": "An African savanna two and a half million years ago at dusk: acacia trees, a herd of antelope and distant elephants, the first stars coming out. Prehistoric Earth, painted like a natural-history museum reconstruction: no humans, no buildings, nothing modern. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N07",
+  "q": 2,
+  "k": 0,
+  "name": "cosmic_web_filaments",
+  "look": "C",
+  "file": "EP22_061_N07q02_cosmic_web_filaments.jpg",
+  "prompt": "The cosmic web: thin filaments and knots of faint light strung across an immense darkness like a net, every knot a cluster of galaxies. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N07",
+  "q": 2,
+  "k": 1,
+  "name": "one_galaxy_in_void",
+  "look": "C",
+  "file": "EP22_062_N07q02_one_galaxy_in_void.jpg",
+  "prompt": "One small spiral galaxy alone at the centre of an immense black emptiness. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N07",
+  "q": 3,
+  "k": 0,
+  "name": "rocket_liftoff_1977_far",
+  "look": "O",
+  "file": "EP22_063_N07q03_rocket_liftoff_1977_far.jpg",
+  "prompt": "Florida in 1977: a tall white rocket with two side boosters lifting off beside a launch tower in morning light, seen from far across calm water, smoke rolling outward, no markings, no people. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N07",
+  "q": 3,
+  "k": 1,
+  "name": "voyager_probe_gold_disc",
+  "look": "C",
+  "file": "EP22_064_N07q03_voyager_probe_gold_disc.jpg",
+  "prompt": "An unmanned space probe of the 1970s drifting in deep space: a large round white dish antenna, a long thin boom, and a round gold disc fixed to its side, no logos, no markings. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N07",
+  "q": 3,
+  "k": 2,
+  "name": "sun_one_star_among_many",
+  "look": "C",
+  "file": "EP22_065_N07q03_sun_one_star_among_many.jpg",
+  "prompt": "The view back from the edge of the Solar System: the Sun is only the brightest star among thousands, and the small dark shape of a space probe with a dish antenna hangs in the foreground. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 66,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "earth_orbit_arc_trail",
+  "look": "C",
+  "file": "EP22_066_N07q04_earth_orbit_arc_trail.jpg",
+  "prompt": "The Earth seen from above its orbit with a short glowing arc of light behind it marking the path it has just travelled, the Sun far off. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 67,
+  "clip": "N07",
+  "q": 4,
+  "k": 1,
+  "name": "cells_renewed_golden",
+  "look": "B",
+  "file": "EP22_067_N07q04_cells_renewed_golden.jpg",
+  "prompt": "A field of rounded human cells in which fresh cells glowing warm gold take the place of dim grey ones. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N07",
+  "q": 4,
+  "k": 2,
+  "name": "maternity_cots_night",
+  "look": "O",
+  "file": "EP22_068_N07q04_maternity_cots_night.jpg",
+  "prompt": "A quiet hospital maternity ward at night seen from the doorway: a row of small cots with newborn babies wrapped in white cloth, only bundles and tiny hands visible, soft lamp light, no adults in view. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 69,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "pale_blue_dot_sunbeam",
+  "look": "C",
+  "file": "EP22_069_N07q05_pale_blue_dot_sunbeam.jpg",
+  "prompt": "A tiny pale blue dot, no bigger than a grain, hanging in a faint band of scattered sunlight in black space. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N07",
+  "q": 6,
+  "k": 0,
+  "name": "terrace_viewer_stars_final",
+  "look": "H",
+  "file": "EP22_070_N07q06_terrace_viewer_stars_final.jpg",
+  "prompt": "The young person standing on the house terrace at night, seen from behind, arms loose at the sides, the whole Milky Way spread across the sky above the dark roofs. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "V"
+  ]
+ }
+]
