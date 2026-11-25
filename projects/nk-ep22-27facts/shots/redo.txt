@@ -1,0 +1,3 @@
+# Pictures to make again in the remake pass (R1), after all 70 exist. Format: number|what is wrong|what to ask for
+033|two more pyramids stand behind the Great Pyramid; when it was new they had not been built|the Great Pyramid alone on the plateau, no other pyramid anywhere in view
+037|two figures (one in the foreground, one on the stairs); the fact needs one person, head high and feet low|one full-length silhouette on the staircase, nobody else in the frame

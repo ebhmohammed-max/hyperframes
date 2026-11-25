@@ -370,9 +370,9 @@
   "q": 3,
   "k": 0,
   "name": "atomic_clock_lab_table",
-  "look": "S",
+  "look": "O",
   "file": "EP22_036_N04q03_atomic_clock_lab_table.jpg",
-  "prompt": "A physics laboratory at night: an optical table crowded with mirrors, lenses and thin green and violet laser beams around a small steel vacuum chamber, a second identical table beside it standing a little higher on jacks, no people. A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A physics laboratory at night: an optical table crowded with mirrors, lenses and thin green and violet laser beams around a small steel vacuum chamber, a second identical table beside it standing a little higher on jacks, no people, no screens, no lettering of any kind. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 37,
