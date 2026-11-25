@@ -563,9 +563,9 @@
   "q": 3,
   "k": 1,
   "name": "venus_surface_dim_sun",
-  "look": "C",
+  "look": "K",
   "file": "EP22_055_N06q03_venus_surface_dim_sun.jpg",
-  "prompt": "The surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of cloud, the Sun only a dim bright smear low on the horizon. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+  "prompt": "The surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of thick cloud, no stars, the Sun only a dim bright smear low on the horizon, no spacecraft, no people. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
  },
  {
   "n": 56,

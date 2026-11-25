@@ -55,7 +55,7 @@ N06|1|earth_speck_at_sun_limb|C|the curved edge of the Sun filling the frame lik
 N06|2|neutron_star_beams|C|a neutron star: a small, fiercely bright blue-white sphere with two narrow beams of light and a swirling glowing disc of gas around it
 N06|2|sugar_cube_mountain_window|S|one white sugar cube on a dark stone table, and far behind it through an open window a great snow-covered mountain peak
 N06|3|venus_cloud_globe|C|the planet Venus as a pale yellow-white globe wrapped in thick swirling cloud, half in shadow
-N06|3|venus_surface_dim_sun|C|the surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of cloud, the Sun only a dim bright smear low on the horizon
+N06|3|venus_surface_dim_sun|K|the surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of thick cloud, no stars, the Sun only a dim bright smear low on the horizon, no spacecraft, no people
 N07|0|sand_grain_fingertip_sky|H|an arm stretched out towards the night sky, seen from behind the shoulder, one grain of sand balanced on the tip of the index finger, stars beyond
 N07|0|space_telescope_gold_mirror|C|a space telescope floating in space: a large mirror made of gold hexagonal segments above a broad silver kite-shaped sunshield, no logos, no markings
 N07|0|deep_field_galaxies|C|a deep view of the universe crowded with thousands of galaxies of every shape and colour, spirals, ovals and faint red smudges, a few stretched into thin arcs
