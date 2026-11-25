@@ -380,12 +380,9 @@
   "q": 3,
   "k": 1,
   "name": "person_on_stairs_silhouette",
-  "look": "H",
+  "look": "O",
   "file": "EP22_037_N04q03_person_on_stairs_silhouette.jpg",
-  "prompt": "One single person standing still halfway up an indoor staircase beside a tall window, seen from the side from far enough to show the whole body from head to feet as a dark silhouette, nobody else in the frame. The viewer is a young Tamil adult with short black hair in a plain light cotton shirt, shown only from behind or as a dark silhouette, never the face. Tamil Nadu in the present day, at night: warm lamp light against a deep blue night sky, plain everyday surroundings, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
-  "refs": [
-   "V"
-  ]
+  "prompt": "An old house in Tamil Nadu at night: at the far right a tall window glowing deep blue, and in front of it one single person standing on a short flight of steps, small in the frame, the whole body from head to feet a sharp black silhouette, seen from the side; the left two thirds an empty dim wall; nobody else in the frame. Painted-realism concept art, photographic realism like a film still, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, muted teal and amber palette, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 38,
