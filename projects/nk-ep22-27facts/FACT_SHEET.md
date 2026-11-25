@@ -42,7 +42,7 @@ Written 25 Nov 2026 with script v1. Every claim in the film carries one of five 
 | 24 | F | Andromeda's light is 25 lakh years old; our species did not exist when it left | About 2.5 million light-years; *Homo sapiens* about 300,000 years | NASA |
 | 25 | E | Everything we know is 5% of the universe; nobody knows what the other 95 is | About 5% ordinary matter, 27% dark matter, 68% dark energy | NASA; Planck 2018 |
 | 26 | F | Voyager 1, launched in 1977, reached in November 2026 the distance light crosses in one day | NASA: one light-day (about 25.9 billion km) on 18 Nov 2026; the card gives the date and "2,590 கோடி கி.மீ." | NASA news release, 19 Nov 2026; NPR, 17 Nov 2026 |
-| 27 | C | Since this video began: 8,000 km travelled, 100 crore cells replaced, 1,000 babies born | The line is spoken about 265 s into the film. 29.78 km/s × 265 s = 7,900 km; 3.8 million cells/s × 265 s = 1.0 billion; about 4.2 births/s × 265 s = 1,100 | our arithmetic from facts 2 and 14 and UN births (about 132 million a year) |
+| 27 | C | Since this video began: 8,000 km travelled, 100 crore cells replaced, 1,000 babies born | The line is spoken about 270 s into the film (measured on the built clips). 29.78 km/s × 270 s = 8,040 km; 3.8 million cells/s × 270 s = 1.03 billion; about 4.2 births/s × 270 s = 1,130 | our arithmetic from facts 2 and 14 and UN births (about 132 million a year) |
 
 The hook repeats fact 27 ("by the time this video ends": 8,000 km, 100 crore cells). The closing line ("a small dot, but a dot that can know all this") is labelled O.
 
@@ -57,5 +57,5 @@ The hook repeats fact 27 ("by the time this video ends": 8,000 km, 100 crore cel
 7. **Fact 22:** "a day" means one turn on the axis (243 days). Sunrise to sunrise on Venus is about 117 Earth days, which is shorter than its year.
 8. **Fact 23:** the stat card says "1,000+" galaxies; the voice says "thousands", as NASA does.
 9. **Fact 26:** the voice says "November 2026" and "49 years" (launch 5 Sept 1977). If the film is published much later, the line still holds.
-10. **Fact 27 and the hook** depend on the running time. Check them again against the final film length (see STATUS.md).
+10. **Fact 27 and the hook** depend on the running time. Checked against the built film (305.8 s; fact 27 starts at about 270 s): the numbers hold. If the film is re-voiced at a different pace, check again.
 11. Pictures are illustrations, not telescope images or records. The Webb, Voyager and Moon pictures are drawn for this film.

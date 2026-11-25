@@ -13,8 +13,11 @@ Shape: a hook that says "you are not sitting still", then six chapters from the 
 | Scratch narration, voice-02 | done 25 Nov: N01–N07 new, N08 (end card) from the EP21 zip; `align.py` 0 flagged; voice about 255 s, film about 5 min |
 | Shot list | done: `shots/shots.txt` 70 rows, `SHOTLIST.md`, rules in `shots/CAST.md` |
 | Film code for EP22 | adapted 25 Nov: fact counter in the pill, hook sounds, card pictures, pop-up on N02 line 2 (fact 3, about 60 s in), title plates (neurons, Earth, deep field) and words |
-| Pictures | **60 of 70** (B01–B06 checked 25 Nov, on Drive); 5 marked for the remake pass (`shots/redo.txt`) |
-| Stills checks, render, parts, 720p, upload | not started |
+| Pictures | **70 of 70** (B01–B07 checked 25 Nov, on Drive); 5 marked for the remake pass (`shots/redo.txt`) |
+| Stills check | done 25 Nov (44 stills: title, cards, every stat and flash word, the pop-up). The fact counter `n/27` works. One fix: 053 mirrored so the stat card no longer covers the mountain. |
+| Remake pass R1 | to do: 033, 037, 046, 048, 056 (`shots/redo.txt`) |
+| Render | started 25 Nov: END, N01, N02, N03 (no remakes in them). TITLE, N04–N07 wait for the remakes. |
+| Parts, 720p, upload | not started |
 
 Clip voice ends (s): N01 29.0, N02 31.8, N03 41.5, N04 31.0, N05 36.7, N06 30.8, N07 54.1.
 
@@ -36,6 +39,7 @@ Folder `EP22_27_Unmaigal` `1nZ0iVV5rsZPfUCGlb3LfKpoaQwk-0e1P`; `images` `1OrKmsS
 | images/EP22_B04_images_031-040.zip | 1TrwRrc8NrWRqxlShIEfuQ2h7J4LyD4Wz |
 | images/EP22_B05_images_041-050.zip | 1B2kCLlLztxwM1kIw7eTh1uCQvvgRWreV |
 | images/EP22_B06_images_051-060.zip | 1GUmTaB0iaP9d2yBx3_UEKhmxQvQDBi0G |
+| images/EP22_B07_images_061-070.zip | 1eTwZSjUnTOoI3JC2nx4s_9MbDt8k_mn4 |
 
 ## After a full wipe
 
@@ -53,3 +57,8 @@ Recipe per batch: `python3 tools/next.py 10` → ten `generate_image` calls to `
 | B04 | 031–040 (chapter 3 time; chapter 4 opening) | no writing, no faces. **Remake 033** (two extra pyramids behind the new Great Pyramid: wrong for the date) and **037** (two figures instead of one). 039: the Moon sits in front of the Earth, close; kept. 036 moved from look S to O. |
 | B05 | 041–050 (chapter 4 Earth; chapter 5 opening) | no writing, no faces. **Remake 046** (globe shows the Americas; it is also the N05 card and a title plate) and **048** (European-looking houses). Kept with a note: 043 the early shark is drawn like a modern shark, the sea floor is busy; 044 the first trees look partly like palms. |
 | B06 | 051–060 (chapter 5 sky; chapter 6 opening) | no writing. **Remake 056** (the side of a face shows; he does not match the viewer). Kept with a note: 059 Andromeda is drawn far brighter and larger than the faint smudge the eye sees; 051 the Earth dot is larger than true scale. 055 moved to look K. |
+| B07 | 061–070 (chapter 6 universe, close) | all usable; no faces. Kept with a note: 066 the path behind the Earth is a straight flare, so the Earth looks a little like a comet; 068 the ward wall has notice sheets with blurred marks (check in the stills); 069 the pale dot is very small. |
+
+## Running time and fact 27
+
+Clip lengths (s): N01 30.2, TITLE 12, N02 35.3, N03 45.0, N04 34.4, N05 40.1, N06 34.2, N07 57.5, END 17: **305.8 s (5 min 6 s)**. Fact 27 begins about 270 s in: 29.78 km/s x 270 = 8,040 km; 3.8 million cells/s x 270 = 1.03 billion; 4.2 births/s x 270 = 1,130. The spoken 8,000 km, 100 crore cells and 1,000 babies hold.

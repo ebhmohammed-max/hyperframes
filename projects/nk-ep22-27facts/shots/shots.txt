@@ -68,6 +68,6 @@ N07|3|voyager_probe_gold_disc|C|an unmanned space probe of the 1970s drifting in
 N07|3|sun_one_star_among_many|C|the view back from the edge of the Solar System: the Sun is only the brightest star among thousands, and the small dark shape of a space probe with a dish antenna hangs in the foreground
 N07|4|earth_orbit_arc_trail|C|the Earth seen from above its orbit with a short glowing arc of light behind it marking the path it has just travelled, the Sun far off
 N07|4|cells_renewed_golden|B|a field of rounded human cells in which fresh cells glowing warm gold take the place of dim grey ones
-N07|4|maternity_cots_night|O|a quiet hospital maternity ward at night seen from the doorway: a row of small cots with newborn babies wrapped in white cloth, only bundles and tiny hands visible, soft lamp light, no adults in view
+N07|4|maternity_cots_night|O|a quiet hospital maternity ward at night seen from the doorway: a row of small cots with newborn babies wrapped in white cloth, only bundles and tiny hands visible, the babies' faces turned away or hidden by the cloth, soft lamp light, no adults in view
 N07|5|pale_blue_dot_sunbeam|C|a tiny pale blue dot, no bigger than a grain, hanging in a faint band of scattered sunlight in black space
 N07|6|terrace_viewer_stars_final|H@V|the young person standing on the house terrace at night, seen from behind, arms loose at the sides, the whole Milky Way spread across the sky above the dark roofs
