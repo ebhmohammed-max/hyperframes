@@ -13,10 +13,10 @@ Shape: a hook that says "you are not sitting still", then six chapters from the 
 | Scratch narration, voice-02 | done 25 Nov: N01–N07 new, N08 (end card) from the EP21 zip; `align.py` 0 flagged; voice about 255 s, film about 5 min |
 | Shot list | done: `shots/shots.txt` 70 rows, `SHOTLIST.md`, rules in `shots/CAST.md` |
 | Film code for EP22 | adapted 25 Nov: fact counter in the pill, hook sounds, card pictures, pop-up on N02 line 2 (fact 3, about 60 s in), title plates (neurons, Earth, deep field) and words |
-| Pictures | **70 of 70** (B01–B07 checked 25 Nov, on Drive); 5 marked for the remake pass (`shots/redo.txt`) |
+| Pictures | **70 of 70** (B01–B07 and R1 checked 25 Nov, on Drive) |
 | Stills check | done 25 Nov (44 stills: title, cards, every stat and flash word, the pop-up). The fact counter `n/27` works. One fix: 053 mirrored so the stat card no longer covers the mountain. |
-| Remake pass R1 | to do: 033, 037, 046, 048, 056 (`shots/redo.txt`) |
-| Render | started 25 Nov: END, N01, N02, N03 (no remakes in them). TITLE, N04–N07 wait for the remakes. |
+| Remake pass R1 | done 25 Nov: 033 (pyramid alone), 037 (one silhouette), 046 (India facing), 048 (Tamil Nadu village), 056 (forearm only), plus 053 mirrored. First versions in `google_drive/ep22_pics/old/` (on Drive inside the B zips). |
+| Render | running 25 Nov: END and N01 done; N02, N03 then TITLE, N04–N07 queued |
 | Parts, 720p, upload | not started |
 
 Clip voice ends (s): N01 29.0, N02 31.8, N03 41.5, N04 31.0, N05 36.7, N06 30.8, N07 54.1.
@@ -40,6 +40,9 @@ Folder `EP22_27_Unmaigal` `1nZ0iVV5rsZPfUCGlb3LfKpoaQwk-0e1P`; `images` `1OrKmsS
 | images/EP22_B05_images_041-050.zip | 1B2kCLlLztxwM1kIw7eTh1uCQvvgRWreV |
 | images/EP22_B06_images_051-060.zip | 1GUmTaB0iaP9d2yBx3_UEKhmxQvQDBi0G |
 | images/EP22_B07_images_061-070.zip | 1eTwZSjUnTOoI3JC2nx4s_9MbDt8k_mn4 |
+| images/EP22_R1_images_remakes.zip (033, 037, 046, 048, 053, 056: unpack after the B zips) | 1fQ4ih7WvOdPDqM4hug9nPbVgL2m9doU4 |
+| EP22_SHOTLIST_final.md | 1Cugg1g4aG4Pvtq-1FrBMDUzZRvv6SNsD |
+| EP22_FACT_SHEET_final.md | 1TMQYI4DAz_PMODVSpR_-xa9bzkKVRwi4 |
 
 ## After a full wipe
 

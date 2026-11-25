@@ -33,11 +33,11 @@ N04|0|early_earth_molten|T|the young Earth: glowing lava seas, black rock and er
 N04|0|clock_seconds_to_midnight|S|an old round wall clock with a plain dial that has simple tick marks and no numerals, both hands almost touching at the very top, a thin second hand just short of them, dim lamp light
 N04|1|stegosaurus_fern_forest|T|a Stegosaurus with a row of tall plates along its back walking through a forest of ferns, cycads and conifers in soft morning haze, no flowers
 N04|1|trex_floodplain_dusk|T|a Tyrannosaurus rex walking across a wide river floodplain with flowering trees and palms at dusk, seen from the side and far enough to show the whole animal
-N04|2|great_pyramid_new_white|O|ancient Egypt: the Great Pyramid newly finished, its smooth white limestone casing gleaming in the sun, tiny workers and ramps of sand at its foot, the desert around
+N04|2|great_pyramid_new_white|O|ancient Egypt about 2560 BC: one single great pyramid, newly finished, standing completely alone on a flat desert plateau, its smooth white limestone casing gleaming in the sun, tiny workers and ramps of sand at its foot, empty desert all around, no second pyramid, no sphinx
 N04|2|queen_alexandria_terrace_back|O|ancient Alexandria at dusk: an Egyptian queen in a white pleated gown and gold collar standing on a palace terrace, seen from behind, looking over a harbour with a tall lighthouse and sailing ships
 N04|2|moon_bootprint_earth|O|the surface of the Moon: one sharp bootprint in grey dust in the foreground, the blue Earth hanging in the black sky above the horizon, no astronaut, no flag
 N04|3|atomic_clock_lab_table|O|a physics laboratory at night: an optical table crowded with mirrors, lenses and thin green and violet laser beams around a small steel vacuum chamber, a second identical table beside it standing a little higher on jacks, no people, no screens, no lettering of any kind
-N04|3|person_on_stairs_silhouette|H@V|the young person standing halfway up a staircase beside a tall window, seen from the side as a full-length dark silhouette, head high above and feet below
+N04|3|person_on_stairs_silhouette|H@V|one single person standing still halfway up an indoor staircase beside a tall window, seen from the side from far enough to show the whole body from head to feet as a dark silhouette, nobody else in the frame
 N05|0|earth_spinning_dayline|C|the Earth seen from orbit with the line between day and night crossing India, city lights on the dark side, thin blue air on the curved horizon
 N05|0|earth_moon_small_beside_sun|C|the Earth and the Moon as two small globes travelling together through space, the glare of the huge Sun filling one side of the frame
 N05|0|tea_glass_still_dawn|O|Tamil Nadu at dawn: a glass of tea standing perfectly still on a windowsill, steam rising straight up, a quiet street outside, no people
@@ -46,9 +46,9 @@ N05|1|rainforest_canopy_aerial|E|an endless rainforest canopy seen from the air,
 N05|2|ancient_shark_bare_shore|T|a primeval sea 450 million years ago: an early shark-like fish gliding through clear water, and above the surface a completely bare rocky shore with no plants at all
 N05|2|first_forest_devonian|T|the first forests on Earth: tall slender trees with fern-like fronds standing along a muddy riverbank, low horsetails beneath, no flowers, no animals in view
 N05|3|ants_column_macro|E|a column of ants crossing a fallen leaf on the forest floor, seen very close from the side, thousands more in a blurred stream behind them
-N05|3|earth_whole_blue|C|the whole Earth as a blue and white globe alone in black space, fully lit
+N05|3|earth_whole_blue|C|the whole Earth as a blue and white globe alone in black space, fully lit, with India and the Indian Ocean at the centre facing the viewer
 N05|4|moon_large_over_sea|E|a very large full Moon low over a calm sea at night, its light a path on the water, a line of palms in silhouette, no people
-N06|0|sunrise_rays_through_trees|E|sunrise: long shafts of sunlight coming through tall trees and morning mist onto a village path, no people
+N06|0|sunrise_rays_through_trees|E|sunrise in a village in Tamil Nadu: long shafts of sunlight coming through coconut palms, banana plants and morning mist onto a red earth path, low houses with clay-tiled roofs, no people
 N06|0|sun_surface_flares_close|C|a close view of the surface of the Sun: boiling granules of fire and great arching loops of glowing gas at the edge
 N06|1|sun_and_planets_scale|C|the Sun as an enormous glowing globe filling the left of the frame, and beside it all the planets in a row to scale, Jupiter and Saturn small beads, the Earth barely a speck
 N06|1|earth_speck_at_sun_limb|C|the curved edge of the Sun filling the frame like a wall of fire, and against it the Earth as one tiny dark blue dot
@@ -56,7 +56,7 @@ N06|2|neutron_star_beams|C|a neutron star: a small, fiercely bright blue-white s
 N06|2|sugar_cube_mountain_window|S|one white sugar cube on a dark stone table, and far behind it through an open window a great snow-covered mountain peak
 N06|3|venus_cloud_globe|C|the planet Venus as a pale yellow-white globe wrapped in thick swirling cloud, half in shadow
 N06|3|venus_surface_dim_sun|K|the surface of Venus: a cracked plain of dark volcanic rock under a heavy orange sky of thick cloud, no stars, the Sun only a dim bright smear low on the horizon, no spacecraft, no people
-N07|0|sand_grain_fingertip_sky|H|an arm stretched out towards the night sky, seen from behind the shoulder, one grain of sand balanced on the tip of the index finger, stars beyond
+N07|0|sand_grain_fingertip_sky|H|only a forearm and hand reaching up into the night sky, one tiny grain of sand balanced on the tip of the index finger, the Milky Way beyond, no head and no body in the frame
 N07|0|space_telescope_gold_mirror|C|a space telescope floating in space: a large mirror made of gold hexagonal segments above a broad silver kite-shaped sunshield, no logos, no markings
 N07|0|deep_field_galaxies|C|a deep view of the universe crowded with thousands of galaxies of every shape and colour, spirals, ovals and faint red smudges, a few stretched into thin arcs
 N07|1|andromeda_over_hills|C|a night landscape of dark hills with a sky full of stars, and among them the Andromeda galaxy as a soft oval glow clearly larger than any star, no people
