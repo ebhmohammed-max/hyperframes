@@ -18,7 +18,7 @@ Shape: a hook that says "you are not sitting still", then six chapters from the 
 | Remake pass R1 | done 25 Nov: 033 (pyramid alone), 037 (one silhouette), 046 (India facing), 048 (Tamil Nadu village), 056 (forearm only), plus 053 mirrored. First versions in `google_drive/ep22_pics/old/` (on Drive inside the B zips). |
 | Render | done 25 Nov: nine clips. N04 rendered twice (037 remade again: the figure stood under the stat card) and N07 twice (`cuts: [1, 2]` on fact 23 so the sand-grain hand stays for its sentence). |
 | Parts, 720p | done 25 Nov: `finish.sh parts` and `VB=2300k finish.sh 720`. Film 305.8 s (5 min 6 s), −14.3 LUFS, peak −1.3 dBFS (gain +2.41 dB); 720p file 91,901,317 bytes. |
-| Upload | parts 01, 02, 04, 05 on Drive; **parts 03, 06, 07 and the 720p film still to upload** (files in `google_drive/ep22_up/` and `out/deliver/`) |
+| Upload | **done 25 Nov**: all seven 1080p parts, the 720p film and shot list v2 are on Drive. Parts 03, 06, 07 and the 720p film were rendered again after a workspace reset (same sources, same gain +2.41 dB) |
 
 Clip voice ends (s): N01 29.0, N02 31.8, N03 41.5, N04 31.0, N05 36.7, N06 30.8, N07 54.1.
 
@@ -47,12 +47,13 @@ Folder `EP22_27_Unmaigal` `1nZ0iVV5rsZPfUCGlb3LfKpoaQwk-0e1P`; `images` `1OrKmsS
 | images/EP22_R2_images_remakes.zip (037 second remake: unpack last) | 1kUfrtyaLkHAOR0gJQCbbHP260-0wjUDp |
 | 1080p 01 hook + title (42.3 s) | 1NRQv8rbZkOyqjwCczizXz4GDaOaeRUWL |
 | 1080p 02 ch1 (35.3 s) | 1WwARDLXlIGUbw6n7qYMIUO5bd4PowZtr |
-| 1080p 03 ch2 (45.1 s) | **not uploaded yet** (upload limit reached 25 Nov) |
+| 1080p 03 ch2 (45.1 s) | `1tN8OuhGjXzxKmexNMjGxdWFlQZIxcIig` |
 | 1080p 04 ch3 (34.5 s) | 19SFtECwIL0hYia29JV6P6gmNDjH3QjOE |
 | 1080p 05 ch4 (40.1 s) | 1TdUZziqrmtoLsyogXvrciYJSpN8oZslw |
-| 1080p 06 ch5 (34.3 s) | **not uploaded yet** |
-| 1080p 07 ch6 + end card (74.5 s) | **not uploaded yet** |
-| EP22_27Facts_full_720p.mp4 (305.8 s, 91,901,317 bytes) | **not uploaded yet** |
+| 1080p 06 ch5 (34.3 s) | `1ENfO17GjdLvKA-iGMgIWaM5p7spOaFsR` |
+| 1080p 07 ch6 + end card (74.5 s) | `1DSo_4bUrNsfS1mXGpbH0_ugvT3ugvWqK` |
+| EP22_27Facts_full_720p.mp4 (305.9 s, 91,942,634 bytes, -14.3 LUFS) | `1KlukPkszFfmSvTfuNPu6JfzGXrBwE7LW` |
+| EP22_SHOTLIST_final_v2.md (after the second 037 remake) | `1tqXNlg7sbhuh5Ckx_cjf99ZuIavIy0-D` |
 
 ## After a full wipe
 
