@@ -14,6 +14,8 @@ LOOK = {
  "E": ("Earth today", "Planet Earth in the present day, like a frame from a nature documentary, " + NOPE, ""),
  "C": ("space", "Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags", "", TAIL_C),
  "S": ("one object", "A still life: one object in a dim plain setting, a single shaft of soft light, deep shadows, no people, no lettering of any kind", ""),
+ "A": ("organs and atoms", "Glowing forms in darkness, no people, no instruments", "", TAIL_B),
+ "K": ("space, no stars", "", "", TAIL_C),
  "O": ("setting given in the subject", "", ""),
 }
 # Fixed descriptions (refs). No face of a real person is shown anywhere in the film.

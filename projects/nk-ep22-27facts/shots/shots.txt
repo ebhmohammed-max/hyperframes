@@ -16,11 +16,11 @@ N02|1|red_cells_stream|B|red blood cells streaming through a blood vessel toward
 N02|1|skin_layers_renewing|B|a cross-section of skin layers: worn flat cells lifting away at the top like flakes while fresh round cells rise from the layer beneath
 N02|2|neurons_network_sparks|B|a web of nerve cells with long branching arms, small sparks of light travelling along the branches and jumping between them
 N02|2|small_bulb_glowing|S|one small bare light bulb glowing dimly on a wooden table in a dark room
-N02|3|heart_anatomical_glow|B|a human heart shown as an anatomical illustration, beating, lit deep red from within, vessels branching away into the dark
+N02|3|heart_anatomical_glow|A|a human heart shown as an anatomical illustration, beating, lit deep red from within, vessels branching away into the dark
 N02|3|wrist_pulse_fingers|O|close view of two fingers resting on the inside of a wrist to feel the pulse, hands and forearm only, warm lamp light, a dark room behind
-N03|0|atoms_lattice_endless|B|an endless lattice of tiny glowing spheres linked by faint threads of light, receding in every direction until they blur into haze
+N03|0|atoms_lattice_endless|A|an endless lattice of tiny glowing spheres linked by faint threads of light, receding in every direction until they blur into haze
 N03|0|starfield_dense_deep|C|a view deep into space packed with stars and small distant galaxies from edge to edge
-N03|1|early_universe_glow|C|the first light of the universe: a vast hot glowing haze of gold and white expanding outward in every direction, no stars yet, no planets
+N03|1|early_universe_glow|K|the first light of the universe: a vast hot glowing haze of gold and white expanding outward in every direction from the centre of the frame, fading to deep navy at the edges, no stars yet, no planets, no galaxies
 N03|1|supernova_shell_colours|C|a dying star exploding, an expanding shell of glowing gas in red, green and blue filaments thrown out around a bright centre
 N03|1|hand_against_stars|H@V|an open hand raised against the night sky, seen from behind the wrist, stars shining between the fingers
 N03|2|cricket_stadium_empty_aerial|E|a large empty cricket stadium seen from high above at dusk, floodlights on, the stands empty, one tiny bright point exactly at the centre of the pitch

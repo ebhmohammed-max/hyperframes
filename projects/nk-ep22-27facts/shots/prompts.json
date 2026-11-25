@@ -164,9 +164,9 @@
   "q": 3,
   "k": 0,
   "name": "heart_anatomical_glow",
-  "look": "B",
+  "look": "A",
   "file": "EP22_016_N02q03_heart_anatomical_glow.jpg",
-  "prompt": "A human heart shown as an anatomical illustration, beating, lit deep red from within, vessels branching away into the dark. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+  "prompt": "A human heart shown as an anatomical illustration, beating, lit deep red from within, vessels branching away into the dark. Glowing forms in darkness, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
  },
  {
   "n": 17,
@@ -184,9 +184,9 @@
   "q": 0,
   "k": 0,
   "name": "atoms_lattice_endless",
-  "look": "B",
+  "look": "A",
   "file": "EP22_018_N03q00_atoms_lattice_endless.jpg",
-  "prompt": "An endless lattice of tiny glowing spheres linked by faint threads of light, receding in every direction until they blur into haze. The inside of the human body at microscopic scale: translucent glowing forms floating in dark fluid, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
+  "prompt": "An endless lattice of tiny glowing spheres linked by faint threads of light, receding in every direction until they blur into haze. Glowing forms in darkness, no people, no instruments. Detailed scientific illustration with photographic realism, like a hand-coloured electron-microscope image, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, teal and amber palette on a dark ground, soft depth of field. No readable writing anywhere. No text, no labels, no arrows, no captions, no watermark."
  },
  {
   "n": 19,
@@ -204,9 +204,9 @@
   "q": 1,
   "k": 0,
   "name": "early_universe_glow",
-  "look": "C",
+  "look": "K",
   "file": "EP22_020_N03q01_early_universe_glow.jpg",
-  "prompt": "The first light of the universe: a vast hot glowing haze of gold and white expanding outward in every direction, no stars yet, no planets. Outer space: a deep black sky with sharp stars, true-to-science colours, no lettering of any kind, no logos, no flags. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
+  "prompt": "The first light of the universe: a vast hot glowing haze of gold and white expanding outward in every direction from the centre of the frame, fading to deep navy at the edges, no stars yet, no planets, no galaxies. Realistic astronomical illustration with photographic realism, like a long-exposure space photograph, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, deep navy, black and warm gold palette, fine film grain. No readable writing anywhere. No text, no labels, no captions, no watermark."
  },
  {
   "n": 21,
