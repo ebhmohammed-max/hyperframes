@@ -170,6 +170,61 @@ Main books: Thomas Weber, *Hitler's First War* (2010); Kershaw, *Hubris*, ch. 3;
 | 139 | In fact the army command itself told the government at the end of September 1918 that the war was lost and demanded an armistice (Ludendorff, 29 September), then put the blame on the politicians | general | known |
 | 140 | End of November 1918: back in Munich, 29 years old, no job, no training, no family | Kershaw (arrived 21 November) | memory |
 
+## Chapter 4 — குரல், 1919–1923 (N27–N34)
+
+Searches of 26 Nov 2026 (three). Main pages: en.wikipedia.org (Karl Mayr; Adolf Hitler's rise to power; Nazi Party; National Socialist Program), an online copy of Kershaw's chapter "The Beerhall Agitator", history.com (Beer Hall Putsch). "memory" = not confirmed by these searches.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 141 | N27 | November 1918: revolution in Munich, the Bavarian king had fled | general; Kershaw, *Hubris*, ch. 4 | known |
+| 142 | N27 | April 1919: a soviet republic proclaimed in Munich; crushed at the start of May by the army and Freikorps; hundreds killed (at least 600) | Kershaw; general | memory |
+| 143 | N27 | He stayed in barracks; under the soviet republic he was elected a representative of his unit (deputy battalion representative, 15 April 1919); he did not act against it | Kershaw, *Hubris*, ch. 4; Weber, *Becoming Hitler* | memory |
+| 144 | N27 | After its fall he gave evidence to his regiment's investigating commission against fellow soldiers | Kershaw | memory |
+| 145 | N27 | Captain Karl Mayr, head of the army's propaganda and intelligence section in Munich, first met him in May 1919 and took him on as an informant | Kershaw ("The Beerhall Agitator"); Wikipedia, Karl Mayr | searched |
+| 146 | N27 | Mayr's later words: "like a tired stray dog looking for a master", ready to follow anyone who was kind to him | article "I Was Hitler's Boss" (1941), published under Mayr's name while he was in a camp; its authorship is doubted | memory |
+| 147 | N28 | Summer 1919: sent to the army's instruction courses at Munich University | Kershaw | searched (courses), memory (place) |
+| 148 | N28 | Professor Karl Alexander von Müller saw him holding a group spellbound (pale thin face, guttural voice) and told Mayr he had a natural orator among his men | von Müller's memoirs, via Kershaw | memory |
+| 149 | N28 | August 1919, Lechfeld camp: five days of talks to returned prisoners of war; participants' reports call him a born popular speaker | Kershaw (reports of the Lechfeld course, 20–25 August 1919) | searched (Lechfeld), memory (wording, dates) |
+| 150 | N28 | "I could speak" | *Mein Kampf* | memory |
+| 151 | N28 | The camp commander asked that his remarks about the Jews be toned down | Kershaw (Oberleutnant Bendt's report) | memory |
+| 152 | N29 | Mayr's informants watched about fifty political groups in Munich | Kershaw | searched |
+| 153 | N29 | 12 September 1919, back room of the Sterneckerbräu: meeting of the German Workers' Party (DAP), about forty present; founder Anton Drexler, a railway toolmaker/locksmith | Kershaw; Wikipedia | searched (date, place, Drexler), memory (41 on the attendance list) |
+| 154 | N29 | He attacked a speaker who argued for Bavaria leaving Germany; the man left | *Mein Kampf* (the speaker was a Professor Baumann); Drexler confirmed the scene | searched |
+| 155 | N29 | Drexler: "he has a gob on him, we could use him" | Drexler's later account, via Kershaw | memory |
+| 156 | N29 | Joined within days, in the second half of September, while still paid by the army | Kershaw | searched |
+| 157 | N29 | He claimed to be the seventh member; his number was 555, and the list began at 501 to make the party look bigger | Kershaw; Drexler's unsent letter of January 1940 ("at best the seventh member of the committee") | searched (555, Drexler letter), memory (501) |
+| 158 | N30 | 16 September 1919: the letter to Adolf Gemlich, written on Mayr's instruction; his first recorded written statement on the Jews; it survives | Kershaw | searched |
+| 159 | N30 | Its content: not anti-Semitism of emotion but of "reason", by law; first the removal of rights; final aim "the removal of the Jews altogether" | Gemlich letter, via Kershaw | searched |
+| 160 | N30 | The same idea in his last document (political testament, 29 April 1945), 26 years later | Kershaw | searched ("to the last days in the Berlin bunker") |
+| 161 | N30 | 16 October 1919, Hofbräukeller: the party's first large public meeting, 111 present; he spoke for half an hour | *Mein Kampf*; Kershaw; war-documentary.info | searched (date, 111), memory (half an hour) |
+| 162 | N30 | 24 February 1920, Hofbräuhaus: about 2,000 people; he read the 25-point programme; the party renamed NSDAP | Wikipedia (Nazi Party; National Socialist Program) | searched |
+| 163 | N30 | Points named: against Versailles, all Germans in one state, no citizenship for Jews | the programme (points 1, 2, 4) | known |
+| 164 | N30 | "Nazi" was a nickname used by opponents | general | memory |
+| 165 | N30 | Discharged from the army 31 March 1920 | Kershaw | memory |
+| 166 | N31 | Versailles, 28 June 1919: war-guilt clause, about 13 per cent of territory lost (one eighth), army limited to 100,000, reparations | general | known |
+| 167 | N31 | His way of speaking: silence first, a slow hesitant start, rising to a shout, soaked in sweat | accounts of listeners (among them Hanfstaengl, von Müller), via Kershaw | memory |
+| 168 | N31 | He rehearsed gestures before a mirror and had Heinrich Hoffmann photograph his poses (the photographs are from about 1925–1927) | Hoffmann's photographs; general | memory |
+| 169 | N31 | Nothing new in what he said; many groups in Munich said the same; his difference was the simple single answer | Kershaw (judgement) | memory |
+| 170 | N32 | July 1921: the committee discussed a merger with another party; he resigned (11 July) | Wikipedia, Adolf Hitler's rise to power; Kershaw | searched |
+| 171 | N32 | He came back on condition of being chairman with full powers; 29 July 1921: 533 votes to 1 | Wikipedia (Nazi Party) | searched (another page speaks of 554 members voting; some books give 543 to 1) |
+| 172 | N32 | From then on called "Führer" in the party | Kershaw | memory |
+| 173 | N32 | 1921: the party's strong-arm squad, named SA (Sturmabteilung, storm detachment) by autumn 1921; it broke up opponents' meetings | Wikipedia | searched |
+| 174 | N32 | Ernst Röhm (army captain, brought weapons and men), Hermann Göring (fighter pilot, joined 1922), Rudolf Hess (student) | general; Kershaw | memory |
+| 175 | N32 | Patrons: Helene Bechstein (piano makers) and Elsa Bruckmann (publisher's wife) gave him clothes, manners and money | Kershaw | memory |
+| 176 | N33 | January 1923: France and Belgium occupied the Ruhr over reparations; the government paid for passive resistance by printing money | general | known |
+| 177 | N33 | A loaf of bread: 250 marks in January 1923, 200,000 million marks (20,000 crore) in November 1923 | widely quoted figures | memory |
+| 178 | N33 | Wages carried in baskets, value halved by evening, notes burned as fuel; middle-class savings and pensions wiped out | general | memory |
+| 179 | N33 | Party members: about 20,000 at the start of 1923, about 55,000 by November | Kershaw | memory (one page found by search says 70,000) |
+| 180 | N33 | Mussolini's March on Rome, October 1922, as his model | Kershaw | memory |
+| 181 | N34 | 8 November 1923, about 8.30 p.m., Bürgerbräukeller: Kahr speaking to about 3,000, with Lossow and Seisser; about 600 SA men surrounded the hall; he fired a shot at the ceiling and declared the "national revolution" | History.com; Wikipedia; normandy1944.info | searched |
+| 182 | N34 | The three were taken to a side room and agreed; he left the hall; they were let go (by Ludendorff) and turned against him | History.com | searched |
+| 183 | N34 | 9 November: about 2,000 marched to the city centre with Ludendorff | Wikipedia | searched |
+| 184 | N34 | Odeonsplatz, in front of the Feldherrnhalle: about 100 state police (some books: 130) blocked the way; the firing lasted under a minute | Wikipedia; normandy1944.info | searched |
+| 185 | N34 | Dead: 16 of his men and 4 policemen (one bystander is counted among the 16 in some lists, separately in others) | Wikipedia | searched |
+| 186 | N34 | Scheubner-Richter, arm in arm with him, was shot and pulled him down; his left shoulder was dislocated | Wikipedia | searched |
+| 187 | N34 | He left in a waiting car; arrested on 11 November at Ernst Hanfstaengl's house at Uffing | History.com | searched |
+| 188 | N34 | Charged with high treason; the party banned | general | known |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -187,3 +242,9 @@ Main books: Thomas Weber, *Hitler's First War* (2010); Kershaw, *Hubris*, ch. 3;
 13. Chapter 3, rows 115–117: three sayings of comrades told long afterwards (the Christmas truce remark, the dog, "no leadership qualities").
 14. Chapter 3, row 133: the cause of the blindness is disputed; the script says so.
 15. Chapter 3, rows 124, 129: the figures for Jewish soldiers and the details of Gutmann's arrest in 1938.
+16. Chapter 4, row 146: the "stray dog" words come from an article of 1941 under Mayr's name; whether he wrote it is doubted. The script says "Mayr wrote later".
+17. Chapter 4, rows 143, 144: his conduct under the soviet republic (elected a soldiers' representative; informing afterwards) from memory of Kershaw and Weber.
+18. Chapter 4, rows 148, 151, 155: three sayings from memory (von Müller, the Lechfeld commander, Drexler's "gob").
+19. Chapter 4, row 171: the vote of 29 July 1921 is 533 to 1 on Wikipedia; another page speaks of 554 members voting, and some books give 543 to 1.
+20. Chapter 4, rows 177, 179: the bread prices (250 marks; 200,000 million marks) and the membership figures (20,000; 55,000) are from memory.
+21. Chapter 4, row 184: police strength at the Odeonsplatz (about 100, or 130).

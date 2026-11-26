@@ -65,7 +65,7 @@ const HOOK_FX = {
   N02: [[0, "impact-bass-1", 0.3, 1], [1, "impact-bass-2", 0.26, "start"], [3, "whoosh-cinematic", 0.16, "start"], [5, "riser", 0.18, "start"], [5, "impact-bass-2", 0.32, "last"]],
 };
 // Chapter card backgrounds: one picture of the chapter behind the card (shot names from shots/shots.txt), keyed by the clip that opens the chapter
-const CARD_BG = { N03: "braunau_inn_evening", N11: "vienna_station_arrival_lone", N19: "flanders_field_dawn_advance_far" };
+const CARD_BG = { N03: "braunau_inn_evening", N11: "vienna_station_arrival_lone", N19: "flanders_field_dawn_advance_far", N27: "great_beer_hall_two_thousand_far" };
 // EP23: a picture held longer than HOLD seconds is shown as two or three shots (wide, then closer crops), cut at pauses
 const HOLD = 9.5;
 // EP23, second review ("make it feel like a film"): the picture runs in a 2.2:1 widescreen frame. Black bars of BAR px top and bottom;
