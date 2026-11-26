@@ -11,7 +11,7 @@ set -e
 cd "$(dirname "$0")/.."
 mkdir -p out/deliver
 G=$(cat tools/gain.txt)
-AF="volume=${G}dB,alimiter=limit=0.8:attack=3:release=60:level=false"
+AF="volume=${G}dB,alimiter=limit=0.75:attack=2:release=60:level=false"
 case "$1" in
 part)
   k=$2; s=$([ "$k" = 0 ] && echo hook_title || printf "ch%02d" $k)

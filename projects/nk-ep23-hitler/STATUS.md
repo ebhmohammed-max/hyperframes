@@ -60,7 +60,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | images/EP23_B03_images_021-029.zip | `1lF6TpKM5q_P4r5aOdjdcWxos-R7_TB1C` |
 | images/EP23_R2_images_face_012.zip (redo) | `1_YNsPKniSzj9sBRSPejDQbYifFb99S6V` |
 | images/EP23_cast_v2.zip (adds `Y18.jpg`, `A18.jpg`, the new `A.jpg`; use this one) | `1kgFxrmZX3wZ5Zucv8bJgxN7Z1zqQ2E6r` |
-| EP23_1080p_00_hook_title_v3_film.mp4 | `HOOKV3ID` |
+| EP23_1080p_00_hook_title_v3_film.mp4 | `1ZUQv08d_G3ENbjFJf5NDf0r69p7KD993` |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
