@@ -18,8 +18,8 @@ Running time so far: 20 min 27 s of narration (hook 1 min 32 s, chapter 1 8 min 
 1. Pictures 021–053, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` → `$PY tools/sheet.py a b` → `$PY tools/batch.py <batch> a b` → upload the zip to `images`.
 2. Render chapter 1: `bash tools/render.sh ch 1` as a background process (about 6 s per film second: 55 min, so over two turns: N03–N06, then N07–N10), then `bash tools/finish.sh part 1` as a background process (it cuts the chapter into `…ch01a.mp4` and `…ch01b.mp4` and sizes each under 100 MB), upload both.
 3. Pictures 054–090 (chapter 2), then render chapter 2 (`CARD_BG` already has N11).
-5. Chapter 3 (N19–N26, 1914–1918) as `script/ch03.mjs`: search first (Salzburg 5 Feb 1914 unfit; Odeonsplatz 2 Aug 1914; List Regiment, dispatch runner; Iron Cross 2nd class Dec 1914, 1st class 4 Aug 1918 proposed by Hugo Gutmann; wounded on the Somme Oct 1916; gassed near Ypres Oct 1918, Pasewalk, 11 Nov 1918). Import it in `script/script.mjs`, `node script/build.mjs`, narration, `$PY script/align.py`.
-4. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
+4. Chapter 3 (N19–N26, 1914–1918) as `script/ch03.mjs`: search first (Salzburg 5 Feb 1914 unfit; Odeonsplatz 2 Aug 1914; List Regiment, dispatch runner; Iron Cross 2nd class Dec 1914, 1st class 4 Aug 1918 proposed by Hugo Gutmann; wounded on the Somme Oct 1916; gassed near Ypres Oct 1918, Pasewalk, 11 Nov 1918). Import it in `script/script.mjs`, `node script/build.mjs`, narration, `$PY script/align.py`.
+5. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
 
 ## How the film code works (EP23)
 
