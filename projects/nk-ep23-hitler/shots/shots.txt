@@ -1,0 +1,16 @@
+# clip|line|name|look[@refs]|subject        (one row per image, in film order; line numbers start at 0)
+# Every picture is an illustration. Looks: L = Upper Austria 1889–1907; V = Vienna 1907–1913; X = what came later (1933–1945), from far and in shadow; S = one object; O = setting given in the subject.
+# Refs add fixed descriptions: A the young man of twenty, B the boy, Y the youth of seventeen, K the mother, F the father. No face of a real person is shown. No flags, emblems, symbols or readable writing.
+# A line without a row keeps the picture before it on screen.
+N01|0|vienna_snow_roofs_night|V|a wide view over the snow-covered roofs and domes of a great city at night, a tall cathedral spire in the distance, chimneys smoking, a few gas lamps glowing in the streets below, no people
+N01|0|gaslamp_snowfall_empty_street|V|heavy snow falling past a single gas street lamp on an empty cobbled street between tall stone buildings at night, tram rails half buried in snow, no people
+N01|1|shelter_queue_snow_wide|V|a long queue of poor men in ragged coats and hats waiting in falling snow outside the lit doorway of a large plain brick building at night, seen from behind and from across the street
+N01|1|young_man_in_queue_back|V@A|the young man standing in the queue of homeless men in falling snow, seen close from behind, shoulders hunched, snow on his torn coat and on his long hair, the lit doorway far ahead of him
+N01|1|empty_pocket_hands|V|close view of a man's cold reddened hands turning out the empty lining of a worn overcoat pocket, snow falling, no head in the frame
+N01|2|soup_bowl_bread_table|S|a chipped tin bowl of thin soup and one thick slice of dark bread on a bare scrubbed wooden table, a tin spoon beside it
+N01|2|dormitory_iron_cots|V|a vast bare dormitory hall with long rows of narrow iron cots under grey blankets, dim gas light, a few sleeping shapes under blankets far away
+N01|3|academy_doors_figure_leaving|V@A|the tall closed doors and wide stone steps of a grand art academy building, the young man walking away down the steps, very small in the frame and seen from behind, a portfolio under his arm, nobody else
+N01|3|two_graves_snow|L|two plain gravestones side by side in a small village churchyard under snow at dusk, a bare tree, a church wall behind, the stones blank with no lettering, no people
+N01|4|balcony_silhouette_night_crowd|X|one dark silhouette of a man standing at a high stone balcony seen from behind, far below him a vast crowd filling a city square at night lit by hundreds of torches, searchlight beams in the sky
+N01|4|city_burning_night_skyline|X|a European city burning at night seen from far across a river, the skyline of roofs and towers black against orange fire and smoke, searchlight beams, no people
+N01|5|young_man_doorway_long_shadow|V@A|the young man standing alone at the lit doorway of the shelter at night, seen from behind, the warm light from inside throwing his long dark shadow back across the snow towards the viewer, nobody else
