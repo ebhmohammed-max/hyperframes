@@ -14,7 +14,7 @@ const SH = JSON.parse(readFileSync(join(ROOT, "shots/prompts.json"), "utf8"));
 const pl = (name) => { const x = SH.find((q) => q.name === name); if (!x) throw new Error("no shot named " + name); return String(x.n).padStart(3, "0"); };
 const P = [
   [pl("shelter_queue_snow_wide"), 0, 3.5, "50% 50%", [1.08, 0, 0], [1.2, 0, 0]],
-  [pl("balcony_silhouette_night_crowd"), 2.9, 6.3, "50% 50%", [1.22, 0, 6], [1.08, 0, 0]],
+  [pl("window_face_torchlight_crowd"), 2.9, 6.3, "62% 20%", [1.16, 0, 70], [1.06, 0, 78]], // his face is high in the frame: moved down behind the top bar
   [pl("city_burning_night_skyline"), 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
@@ -27,7 +27,9 @@ const css = `    ${FONTS.serifTa}
     #t-vig { position: absolute; inset: 0; z-index: 20; background: radial-gradient(ellipse at 50% 46%, rgba(0,0,0,0) 40%, rgba(4,6,14,0.62) 100%); }
     #t-shade { position: absolute; inset: 0; z-index: 21; background: linear-gradient(180deg, rgba(5,7,18,0.5) 0%, rgba(5,7,18,0.7) 45%, rgba(5,7,18,0.8) 100%); opacity: 0; }
 ${G.css}
-    #t-pre { position: absolute; left: 0; width: 1920px; top: 942px; height: 80px; z-index: 70; text-align: center; }
+    .t-bar { position: absolute; left: 0; width: 1920px; height: 104px; background: #000; z-index: 60; }
+    #t-bar-t { top: 0; } #t-bar-b { bottom: 0; }
+    #t-pre { position: absolute; left: 0; width: 1920px; top: 880px; height: 80px; z-index: 70; text-align: center; }
     #t-pre-in { opacity: 0; font: 560 40px/1.5 "NK Sans Tamil", sans-serif; letter-spacing: 0.06em; color: ${C.cream}; text-shadow: 0 2px 14px rgba(0,0,0,0.9); }
     #t-pre-in b { font-weight: 700; color: ${C.gold}; }
     #t-ttl { position: absolute; inset: 0; z-index: 72; }
@@ -35,12 +37,14 @@ ${G.css}
     #t-name { position: absolute; left: 0; width: 1920px; top: 352px; text-align: center; font: 700 158px/1.42 "NK Serif Tamil", serif; color: ${C.gold}; opacity: 0; text-shadow: 0 6px 40px rgba(0,0,0,0.85), 0 0 90px rgba(243,212,138,0.18); white-space: nowrap; }
     #t-r2 { position: absolute; left: 860px; top: 604px; width: 200px; height: 3px; background: ${C.gold}; opacity: 0; transform-origin: 50% 50%; }
     #t-sub { position: absolute; left: 0; width: 1920px; top: 640px; text-align: center; font: 600 60px/1.45 "NK Sans Tamil", sans-serif; color: ${C.cream}; opacity: 0; text-shadow: 0 3px 22px rgba(0,0,0,0.9); white-space: nowrap; }
-    #t-nk { position: absolute; left: 0; width: 1920px; top: 936px; text-align: center; font: 500 30px/1.3 "NK Oswald", sans-serif; letter-spacing: 0.42em; color: rgba(246,239,220,0.82); opacity: 0; white-space: nowrap; }
+    #t-nk { position: absolute; left: 0; width: 1920px; top: 916px; text-align: center; font: 500 30px/1.3 "NK Oswald", sans-serif; letter-spacing: 0.42em; color: rgba(246,239,220,0.82); opacity: 0; white-space: nowrap; }
     #t-fade { position: absolute; inset: 0; z-index: 95; background: #000; }`;
 
 const html = `${P.map(([n, a, b], i) => `    <div id="t-p${i}" class="t-pl clip" data-start="${a}" data-duration="${r(b - a)}" data-track-index="${i + 1}" style="z-index:${i + 1}"><img id="t-p${i}-img" src="assets/plates/${n}.jpg" alt="" /></div>`).join("\n")}
     <div id="t-vig" data-layout-ignore></div>
     <div id="t-shade" data-layout-ignore></div>
+    <div id="t-bar-t" class="t-bar" data-layout-ignore></div>
+    <div id="t-bar-b" class="t-bar" data-layout-ignore></div>
 ${G.html}    <div id="t-pre" class="clip" data-start="0.7" data-duration="2.6" data-track-index="5"><div id="t-pre-in"><b>நிலவன் கதைகள்</b> வழங்கும்</div></div>
     <div id="t-ttl" class="clip" data-start="${r(T - 0.3)}" data-duration="${r(D - T + 0.3)}" data-track-index="6">
       <div id="t-r1"></div>

@@ -6,4 +6,4 @@ later = {int(l.split("|")[0]) for l in open("shots/redo.txt", encoding="utf8") i
 todo = [r for r in json.load(open("shots/prompts.json", encoding="utf8")) if not os.path.exists(f"out/raw/{r['n']:03d}.jpg") and r["n"] not in later]
 print("held for the redo pass:", sorted(later))
 print(len(todo), "left")
-for r in todo[:n]: print(f"{r['n']:03d} [{','.join(r.get('refs', []))}] {r['prompt']}\n")
+for r in todo[:n]: print(f"{r['n']:03d} [{','.join(r.get('refs', []))}] images={r.get('images', [])}\n{r['prompt']}\n")

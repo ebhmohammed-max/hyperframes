@@ -4,23 +4,29 @@ Row format:  clip|line|name|look[@ref,ref]|subject     (refs = keys in shots/CAS
 import json, collections
 NOPE = "no signboards, no lettering of any kind, no flags, no emblems"
 FRAME = "full-bleed 16:9 image filling the whole frame edge to edge with no black bars"
-TAIL = "Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, " + FRAME + ", desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
-PEOPLE = ", people only from behind, far away or as dark silhouettes, no face clearly visible"
+TAIL = "Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, " + FRAME + ", composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+# EP23, from the second review on: faces are shown (the user asked for his real face and for a film feel). Crowds of the later years stay far and dark.
+PEOPLE = ""
+FAR = ", crowds seen from far or in shadow, nothing celebrated"
 LOOK = {
  "L": ("Upper Austria, 1889 to 1907", "A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, " + NOPE, PEOPLE),
  "V": ("Vienna, 1907 to 1913", "Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, " + NOPE, PEOPLE),
- "X": ("what came later (1933 to 1945)", "Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: " + NOPE + ", no symbols on any cloth or wall, no insignia", PEOPLE),
+ "X": ("what came later (1933 to 1945)", "Germany between 1933 and 1945, an ominous mood, nothing celebrated: " + NOPE + ", no symbols on any cloth or wall, no insignia, no armbands, no salutes", FAR),
  "S": ("one object", "A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind", ""),
  "O": ("setting given in the subject", "", ""),
 }
-# Fixed descriptions (refs). No face of a real person is shown anywhere in the film: see shots/CAST.md.
+# Fixed descriptions (refs) and the reference picture passed with each (out/cast/<file>). Hitler is shown with his real face at every age:
+# B and H use period photographs as likeness references; Y and A (no photograph of him exists between 1901 and 1914) use cast portraits
+# made from those two. The parents are played by invented actors of the right type. See shots/CAST.md.
 REF = {
- "A": "The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face.",
- "B": "The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face.",
- "Y": "The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face.",
- "K": "The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face.",
- "F": "The father is a heavy-set man in his sixties in a dark civil-service coat, shown only from behind or as a dark shape, never the face.",
+ "A": "The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him.",
+ "B": "The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900.",
+ "Y": "The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane.",
+ "H": "The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning.",
+ "K": "The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress.",
+ "F": "The father is the same man as in the reference portrait: a heavy-set stern man in his sixties, bald on top, with a big grey moustache and side-whiskers, in a dark civil-service uniform coat with plain brass buttons.",
 }
+REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": "Y.jpg", "H": "H_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
 lines = json.load(open("script/lines.json", encoding="utf8"))
 cap = {(l["clip"], l["q"]): l["cap"] for l in lines}
 counts = json.load(open("shots/counts.json"))
@@ -38,7 +44,7 @@ for raw in open("shots/shots.txt", encoding="utf8"):
     r_ = {"n": n, "clip": clip, "q": q, "k": per[(clip, q)] - 1, "name": name, "look": look,
           "file": f"EP23_{n:03d}_{clip}q{q:02d}_{name}.jpg",
           "prompt": f"{subj[0].upper()+subj[1:]}. " + "".join(REF[k] + " " for k in refs) + (setting + ". " if setting else "") + (LOOK[look][3] if len(LOOK[look]) > 3 else TAIL)}
-    if refs: r_["refs"] = refs
+    if refs: r_["refs"] = refs; r_["images"] = ["google_drive/ep23_pics/cast/" + REFIMG[k] for k in refs]
     rows.append(r_)
 bad = 0
 for clip, cs in counts.items():

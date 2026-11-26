@@ -68,6 +68,10 @@ const HOOK_FX = {
 const CARD_BG = { N03: "braunau_inn_evening", N11: "vienna_station_arrival_lone" };
 // EP23: a picture held longer than HOLD seconds is shown as two or three shots (wide, then closer crops), cut at pauses
 const HOLD = 9.5;
+// EP23, second review ("make it feel like a film"): the picture runs in a 2.2:1 widescreen frame. Black bars of BAR px top and bottom;
+// the evidence tag sits inside the top bar, captions sit just above the bottom bar like film subtitles.
+const BAR = 104;
+const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36 }; // px down, at most about BAR − 20
 const PUNCH = [
   { o: "34% 46%", a: [1.26, 0, 0], b: [1.33, 0, 0] },
   { o: "66% 52%", a: [1.33, 0, 0], b: [1.26, 0, 0] },
@@ -144,6 +148,8 @@ export function build(cid, opt = {}) {
     }
     shots.length = 0; shots.push(...outS);
   }
+  // pictures whose subject sits high in the frame are moved down behind the top bar (the gap this opens is hidden by the bar)
+  for (const s of shots) { const dy = SHIFT[(SHOTS.find((x) => x.n === Number(s.plate)) || {}).name]; if (dy) { s.a = [s.a[0], s.a[1], s.a[2] + dy]; s.b = [s.b[0], s.b[1], s.b[2] + dy]; } }
   const missing = SHOTS.filter((s) => s.clip === cid && !existsSync(join(ROOT, "out/img", pad3(s.n) + ".jpg"))).map((s) => pad3(s.n));
   // EP17: the hook cuts harder (short zoom-ins inside a line); the chapters keep the soft fades
   const P = buildShots(shots, { trans: (i, s) => (isHook ? (s.cut ? { type: i % 2 ? "zoom" : "fade", d: 0.2 } : { type: "fade", d: 0.32 }) : s.cut ? { type: "fade", d: 0.24 } : { type: "fade", d: 0.5 }) });
@@ -181,9 +187,13 @@ ${KB.html}      <div id="k-num">${clip.sec.split(" ")[0]}</div>
 ${G.css}
 ${cardCss}
     #p-vig { position: absolute; inset: 0; z-index: 50; pointer-events: none; background: linear-gradient(180deg, rgba(4,6,14,0) 58%, rgba(4,6,14,0.7) 100%), radial-gradient(ellipse at 50% 46%, rgba(0,0,0,0) 52%, rgba(4,6,14,0.46) 100%); }
+    .p-bar { position: absolute; left: 0; width: 1920px; height: ${BAR}px; background: #000; z-index: 85; pointer-events: none; }
+    #p-bar-t { top: 0; } #p-bar-b { bottom: 0; }
     #p-out { position: absolute; inset: 0; z-index: 90; }
     #p-out-fill { position: absolute; inset: 0; background: #000; opacity: 0; }`,
     html: `${P.html}    <div id="p-vig" data-layout-ignore></div>
+    <div id="p-bar-t" class="p-bar" data-layout-ignore></div>
+    <div id="p-bar-b" class="p-bar" data-layout-ignore></div>
 ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${r(D - outD)}" data-duration="${outD}" data-track-index="3"><div id="p-out-fill"></div></div>` : ""}`,
     js: `${P.js}${G.js}${cardJs}${fadeOut ? `      tl.fromTo("#p-out-fill", { opacity: 0 }, { opacity: 1, duration: ${r(outD - 0.05)}, ease: "power2.in" }, ${r(D - outD)});` : ""}`,
   });
@@ -224,7 +234,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   const cap = scene({
     id: "cap",
     css: `    ${FONTS.sansTa}
-    .c-cap { position: absolute; left: 190px; width: 1540px; bottom: 84px; text-align: center; }
+    .c-cap { position: absolute; left: 190px; width: 1540px; bottom: ${BAR + 18}px; text-align: center; }
     .c-in { opacity: 0; font: 560 52px/1.4 "NK Sans Tamil", sans-serif; color: #ffffff; text-wrap: balance; text-shadow: 0 0 5px rgba(0,0,0,0.95), 0 2px 12px rgba(0,0,0,0.9), 0 0 40px rgba(0,0,0,0.75); }`,
     html: cHtml, js: cJs,
   });
@@ -249,7 +259,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
     const T0 = r(w5.t0), BX = 648, BY = 76;
     const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
     sCss = `
-    #s-pop { position: absolute; left: 1036px; top: 52px; width: 820px; height: 400px; }
+    #s-pop { position: absolute; left: 1036px; top: ${BAR + 24}px; width: 820px; height: 400px; }
     #s-card { position: absolute; left: 0; top: 0; width: 820px; height: 148px; border-radius: 26px; background: ${C.navy}; border: 1.5px solid rgba(243,212,138,0.55); box-shadow: 0 10px 40px rgba(0,0,0,0.55); opacity: 0; }
     #s-logo { position: absolute; left: 20px; top: 20px; width: 108px; height: 108px; border-radius: 54px; border: 2.5px solid ${C.gold}; object-fit: cover; }
     #s-name { position: absolute; left: 150px; top: 28px; width: 360px; font: 650 35px/1.4 "NK Sans Tamil", sans-serif; color: ${C.cream}; white-space: nowrap; }
@@ -288,7 +298,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
     id: "ovl",
     css: `    ${FONTS.sansTa}
     ${FONTS.oswald}${sCss}
-    .o-tag { position: absolute; left: 64px; top: 56px; width: 680px; height: 64px; }
+    .o-tag { position: absolute; left: 64px; top: 21px; width: 680px; height: 64px; }
     .o-in { opacity: 0; display: inline-flex; align-items: center; gap: 14px; padding: 9px 24px 9px 18px; border-radius: 34px; background: ${C.navy}; border: 1.5px solid rgba(243,212,138,0.55); }
     .o-dot { width: 12px; height: 12px; border-radius: 50%; background: ${C.gold}; }
     .o-no { font: 600 34px/1.2 "NK Oswald", sans-serif; color: ${C.gold}; letter-spacing: 0.02em; padding-right: 14px; border-right: 1.5px solid rgba(243,212,138,0.45); white-space: nowrap; }

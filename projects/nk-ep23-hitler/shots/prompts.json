@@ -7,7 +7,7 @@
   "name": "vienna_snow_roofs_night",
   "look": "V",
   "file": "EP23_001_N01q00_vienna_snow_roofs_night.jpg",
-  "prompt": "A wide view over the snow-covered roofs and domes of a great city at night, a tall cathedral spire in the distance, chimneys smoking, a few gas lamps glowing in the streets below, no people. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A wide view over the snow-covered roofs and domes of a great city at night, a tall cathedral spire in the distance, chimneys smoking, a few gas lamps glowing in the streets below, no people. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 2,
@@ -17,7 +17,7 @@
   "name": "gaslamp_snowfall_empty_street",
   "look": "V",
   "file": "EP23_002_N01q00_gaslamp_snowfall_empty_street.jpg",
-  "prompt": "Heavy snow falling past a single gas street lamp on an empty cobbled street between tall stone buildings at night, tram rails half buried in snow, no people. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Heavy snow falling past a single gas street lamp on an empty cobbled street between tall stone buildings at night, tram rails half buried in snow, no people. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 3,
@@ -27,19 +27,22 @@
   "name": "shelter_queue_snow_wide",
   "look": "V",
   "file": "EP23_003_N01q01_shelter_queue_snow_wide.jpg",
-  "prompt": "A long queue of poor men in ragged coats and hats waiting in falling snow outside the lit doorway of a large plain brick building at night, seen from behind and from across the street. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A long queue of poor men in ragged coats and hats waiting in falling snow outside the lit doorway of a large plain brick building at night, seen from behind and from across the street. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 4,
   "clip": "N01",
   "q": 1,
   "k": 1,
-  "name": "young_man_in_queue_back",
+  "name": "young_man_in_queue_face",
   "look": "V",
-  "file": "EP23_004_N01q01_young_man_in_queue_back.jpg",
-  "prompt": "The young man standing in the queue of homeless men in falling snow, seen close from behind, shoulders hunched, snow on his torn coat and on his long hair, the lit doorway far ahead of him. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "file": "EP23_004_N01q01_young_man_in_queue_face.jpg",
+  "prompt": "The young man standing in a queue of homeless men in falling snow at night, seen from the front in a medium close-up: shoulders hunched, hands deep in his pockets, snow on his long hair and on the shoulders of his overcoat, his eyes lowered, he looks twenty and starved; just behind him the blurred faces of other poor men in caps and worn coats waiting in line, a gas lamp glowing out of focus. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -50,7 +53,7 @@
   "name": "empty_pocket_hands",
   "look": "V",
   "file": "EP23_005_N01q01_empty_pocket_hands.jpg",
-  "prompt": "Close view of a man's cold reddened hands turning out the empty lining of a worn overcoat pocket, snow falling, no head in the frame. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Close view of a man's cold reddened hands turning out the empty lining of a worn overcoat pocket, snow falling, no head in the frame. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 6,
@@ -60,7 +63,7 @@
   "name": "soup_bowl_bread_table",
   "look": "S",
   "file": "EP23_006_N01q02_soup_bowl_bread_table.jpg",
-  "prompt": "A chipped tin bowl of thin soup and one thick slice of dark bread on a bare scrubbed wooden table, a tin spoon beside it. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A chipped tin bowl of thin soup and one thick slice of dark bread on a bare scrubbed wooden table, a tin spoon beside it. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 7,
@@ -70,19 +73,22 @@
   "name": "dormitory_iron_cots",
   "look": "V",
   "file": "EP23_007_N01q02_dormitory_iron_cots.jpg",
-  "prompt": "A vast bare dormitory hall with long rows of narrow iron cots under grey blankets, dim gas light, a few sleeping shapes under blankets far away. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A vast bare dormitory hall with long rows of narrow iron cots under grey blankets, dim gas light, a few sleeping shapes under blankets far away. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 8,
   "clip": "N01",
   "q": 3,
   "k": 0,
-  "name": "academy_doors_figure_leaving",
-  "look": "V",
-  "file": "EP23_008_N01q03_academy_doors_figure_leaving.jpg",
-  "prompt": "The tall closed doors and wide stone steps of a grand art academy building, the young man walking away down the steps, very small in the frame and seen from behind, a portfolio under his arm, nobody else. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "name": "academy_steps_face_stunned",
+  "look": "O",
+  "file": "EP23_008_N01q03_academy_steps_face_stunned.jpg",
+  "prompt": "Autumn 1907 in Vienna: the young man two years earlier, aged eighteen, clean-shaven with only a faint moustache, his hair cut and combed, wearing a neat dark coat, white collar and hat instead of the worn overcoat, coming down the wide stone steps of a grand art academy towards the camera with a large portfolio under his arm, his young face pale and stunned, eyes fixed on nothing; behind him the tall academy doors are closed, grey sky, nobody else on the steps, no lettering on the building. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -93,17 +99,23 @@
   "name": "two_graves_snow",
   "look": "L",
   "file": "EP23_009_N01q03_two_graves_snow.jpg",
-  "prompt": "Two plain gravestones side by side in a small village churchyard under snow at dusk, a bare tree, a church wall behind, the stones blank with no lettering, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Two plain gravestones side by side in a small village churchyard under snow at dusk, a bare tree, a church wall behind, the stones blank with no lettering, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 10,
   "clip": "N01",
   "q": 4,
   "k": 0,
-  "name": "balcony_silhouette_night_crowd",
+  "name": "window_face_torchlight_crowd",
   "look": "X",
-  "file": "EP23_010_N01q04_balcony_silhouette_night_crowd.jpg",
-  "prompt": "One dark silhouette of a man standing at a high stone balcony seen from behind, far below him a vast crowd filling a city square at night lit by hundreds of torches, searchlight beams in the sky. Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "file": "EP23_010_N01q04_window_face_torchlight_crowd.jpg",
+  "prompt": "Night, January 1933 in Berlin: the man in a plain dark suit and tie standing at a tall open window, seen close from the side in three-quarter profile, his face lit from below by the orange flicker of hundreds of torches and half lost in shadow, his expression cold and unreadable; far below and out of focus a vast crowd fills the street with small points of torch fire. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
  },
  {
   "n": 11,
@@ -113,19 +125,22 @@
   "name": "city_burning_night_skyline",
   "look": "X",
   "file": "EP23_011_N01q04_city_burning_night_skyline.jpg",
-  "prompt": "A European city burning at night seen from far across a river, the skyline of roofs and towers black against orange fire and smoke, searchlight beams, no people. Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A European city burning at night seen from far across a river, the skyline of roofs and towers black against orange fire and smoke, searchlight beams, no people. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 12,
   "clip": "N01",
   "q": 5,
   "k": 0,
-  "name": "young_man_doorway_long_shadow",
+  "name": "young_man_doorway_face",
   "look": "V",
-  "file": "EP23_012_N01q05_young_man_doorway_long_shadow.jpg",
-  "prompt": "The young man standing alone at the lit doorway of the shelter at night, seen from behind, the warm light from inside throwing his long dark shadow back across the snow towards the viewer, nobody else. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "file": "EP23_012_N01q05_young_man_doorway_face.jpg",
+  "prompt": "A tight close-up of the young man's face as he stops at the lit doorway of the homeless shelter at night and looks back straight into the camera: one half of his face in warm light from the doorway, the other half in cold blue shadow, snow melting in his long hair, his pale eyes fixed on the lens, he looks twenty, nobody else. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -136,7 +151,7 @@
   "name": "grave_markers_to_horizon",
   "look": "O",
   "file": "EP23_013_N02q00_grave_markers_to_horizon.jpg",
-  "prompt": "An endless field of plain white grave markers in straight rows running to the horizon under a heavy grey sky, wet grass, bare trees far away, the markers blank, no people. Europe after 1945. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "An endless field of plain white grave markers in straight rows running to the horizon under a heavy grey sky, wet grass, bare trees far away, the markers blank, no people. Europe after 1945. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 14,
@@ -146,7 +161,7 @@
   "name": "rail_track_gatehouse_fog",
   "look": "X",
   "file": "EP23_014_N02q01_rail_track_gatehouse_fog.jpg",
-  "prompt": "A single railway track running straight through snow and fog towards a low dark brick gatehouse with a central arch far away, seen from ground level between the rails, empty and silent, no people. Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A single railway track running straight through snow and fog towards a low dark brick gatehouse with a central arch far away, seen from ground level between the rails, empty and silent, no people. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 15,
@@ -156,7 +171,7 @@
   "name": "childrens_shoes_heap",
   "look": "S",
   "file": "EP23_015_N02q01_childrens_shoes_heap.jpg",
-  "prompt": "A heap of small worn children's leather shoes of the 1940s lying on a bare stone floor, dust in the light, nothing else. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A heap of small worn children's leather shoes of the 1940s lying on a bare stone floor, dust in the light, nothing else. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 16,
@@ -166,9 +181,12 @@
   "name": "cradle_mother_hands",
   "look": "L",
   "file": "EP23_016_N02q02_cradle_mother_hands.jpg",
-  "prompt": "A wooden cradle beside a small window in a plain room with a tiled stove, the mother's hands resting on the edge of the cradle, a blanket inside, soft daylight, the mother seen only as hands and a dark sleeve. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A wooden cradle beside a small window in a plain room with a tiled stove, the mother's hands resting on the edge of the cradle, a blanket inside, soft daylight, the mother seen only as hands and a dark sleeve. The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "K"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/K.jpg"
   ]
  },
  {
@@ -179,9 +197,12 @@
   "name": "boy_sketching_riverbank",
   "look": "L",
   "file": "EP23_017_N02q02_boy_sketching_riverbank.jpg",
-  "prompt": "The boy sitting alone on a grassy river bank, seen from behind, drawing on a sheet of paper on his knees, a small town with a church tower across the water in warm evening light. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "The boy sitting on a grassy river bank on a summer evening with a small sketchbook on his knee and a pencil in his hand, seen from the front in a medium shot as he looks up from his drawing towards the far bank, behind him the river and a small town with a church tower in warm evening light, nobody else. The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "B"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/B_photo.jpg"
   ]
  },
  {
@@ -192,7 +213,7 @@
   "name": "backroom_men_silhouettes",
   "look": "O",
   "file": "EP23_018_N02q03_backroom_men_silhouettes.jpg",
-  "prompt": "Seen through a half-open door, dark silhouettes of several men in formal coats standing round a table in a smoke-filled back room under one hanging lamp, heads bent together, Germany around 1932, no face visible, no lettering, no emblems, no flags. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Seen through a half-open door, dark silhouettes of several men in formal coats standing round a table in a smoke-filled back room under one hanging lamp, heads bent together, Germany around 1932, no face visible, no lettering, no emblems, no flags. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 19,
@@ -202,7 +223,7 @@
   "name": "crowd_backs_one_way",
   "look": "X",
   "file": "EP23_019_N02q03_crowd_backs_one_way.jpg",
-  "prompt": "A dense crowd of ordinary men and women in coats and hats of the 1930s seen from behind, every head turned the same way towards a hard white light far ahead, an uneasy mood. Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A dense crowd of ordinary men and women in coats and hats of the 1930s seen from behind, every head turned the same way towards a hard white light far ahead, an uneasy mood. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 20,
@@ -212,7 +233,7 @@
   "name": "stairs_down_into_dark",
   "look": "O",
   "file": "EP23_020_N02q04_stairs_down_into_dark.jpg",
-  "prompt": "A wide stone staircase leading down into darkness, a single lamp at the top, the dark shapes of many people walking down it step by step, seen from above and behind, no face visible, no lettering. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A wide stone staircase leading down into darkness, a single lamp at the top, the dark shapes of many people walking down it step by step, seen from above and behind, no face visible, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 21,
@@ -222,7 +243,7 @@
   "name": "braunau_inn_evening",
   "look": "L",
   "file": "EP23_021_N03q00_braunau_inn_evening.jpg",
-  "prompt": "A three-storey plastered inn building on the main street of a small border town at dusk in spring, one upstairs window lit warm, a town gate tower at the end of the street, wet cobbles, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A three-storey plastered inn building on the main street of a small border town at dusk in spring, one upstairs window lit warm, a town gate tower at the end of the street, wet cobbles, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 22,
@@ -232,7 +253,7 @@
   "name": "river_border_bridge_mist",
   "look": "L",
   "file": "EP23_022_N03q01_river_border_bridge_mist.jpg",
-  "prompt": "A wide river in morning mist with a long iron bridge joining two small towns on opposite banks, a small guard hut at the near end of the bridge, wooded hills behind, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A wide river in morning mist with a long iron bridge joining two small towns on opposite banks, a small guard hut at the near end of the bridge, wooded hills behind, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 23,
@@ -242,7 +263,7 @@
   "name": "official_coat_cap_on_peg",
   "look": "S",
   "file": "EP23_023_N03q02_official_coat_cap_on_peg.jpg",
-  "prompt": "A dark civil servant's uniform coat with plain brass buttons and a plain peaked cap hanging on a wooden peg in a hallway, a walking stick below, no badges. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A dark civil servant's uniform coat with plain brass buttons and a plain peaked cap hanging on a wooden peg in a hallway, a walking stick below, no badges. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 24,
@@ -252,7 +273,7 @@
   "name": "parish_register_quill",
   "look": "S",
   "file": "EP23_024_N03q05_parish_register_quill.jpg",
-  "prompt": "A thick old parish register lying open on a desk beside a quill pen and an inkwell, the pages filled with faded handwriting seen out of focus so that nothing can be read. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A thick old parish register lying open on a desk beside a quill pen and an inkwell, the pages filled with faded handwriting seen out of focus so that nothing can be read. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 25,
@@ -262,9 +283,12 @@
   "name": "father_head_of_table_back",
   "look": "L",
   "file": "EP23_025_N04q00_father_head_of_table_back.jpg",
-  "prompt": "A family at supper under an oil lamp, the father seated at the head of the table seen from behind, his broad back filling the foreground, a long pipe on the table, the others small quiet shapes with heads lowered at the far end. The father is a heavy-set man in his sixties in a dark civil-service coat, shown only from behind or as a dark shape, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A family at supper under an oil lamp, the father seated at the head of the table seen from behind, his broad back filling the foreground, a long pipe on the table, the others small quiet shapes with heads lowered at the far end. The father is the same man as in the reference portrait: a heavy-set stern man in his sixties, bald on top, with a big grey moustache and side-whiskers, in a dark civil-service uniform coat with plain brass buttons. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "F"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/F.jpg"
   ]
  },
  {
@@ -275,7 +299,7 @@
   "name": "cart_furniture_country_road",
   "look": "L",
   "file": "EP23_026_N04q03_cart_furniture_country_road.jpg",
-  "prompt": "A horse cart piled high with furniture and trunks moving along a muddy country road towards a village with a church tower, a family walking behind it as small figures seen from behind, overcast sky. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A horse cart piled high with furniture and trunks moving along a muddy country road towards a village with a church tower, a family walking behind it as small figures seen from behind, overcast sky. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 27,
@@ -285,7 +309,7 @@
   "name": "monastery_choir_boys_back",
   "look": "L",
   "file": "EP23_027_N04q04_monastery_choir_boys_back.jpg",
-  "prompt": "The inside of a baroque monastery church lit by candles, a row of choir boys in white surplices standing in the choir stalls seen from behind, facing the high altar far away, no emblems. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "The inside of a baroque monastery church lit by candles, a row of choir boys in white surplices standing in the choir stalls seen from behind, facing the high altar far away, no emblems. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 28,
@@ -295,9 +319,12 @@
   "name": "boys_war_game_meadow",
   "look": "L",
   "file": "EP23_028_N04q05_boys_war_game_meadow.jpg",
-  "prompt": "A group of village boys playing at soldiers in a summer meadow with sticks for rifles, the boy out in front pointing ahead and leading the charge, all seen from behind and from a distance. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A group of village boys playing at soldiers in a summer meadow with sticks for rifles, the boy out in front pointing ahead and leading the charge, all seen from behind and from a distance. The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "B"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/B_photo.jpg"
   ]
  },
  {
@@ -308,9 +335,12 @@
   "name": "small_grave_boy_winter",
   "look": "L",
   "file": "EP23_029_N04q06_small_grave_boy_winter.jpg",
-  "prompt": "The boy standing alone in the snow before a small fresh grave with a plain wooden cross in a village churchyard, seen from behind, a low stone wall and bare trees, grey winter light, the cross blank. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "The boy standing alone in the snow before a small fresh grave with a plain wooden cross in a village churchyard, seen from behind, a low stone wall and bare trees, grey winter light, the cross blank. The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "B"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/B_photo.jpg"
   ]
  },
  {
@@ -321,9 +351,12 @@
   "name": "city_school_steps_boy",
   "look": "L",
   "file": "EP23_030_N05q00_city_school_steps_boy.jpg",
-  "prompt": "A large stern grey school building on a city street, the boy standing small at the foot of its wide steps with a leather satchel on his back, seen from behind, other pupils only as distant shapes. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A large stern grey school building on a city street, the boy standing small at the foot of its wide steps with a leather satchel on his back, seen from behind, other pupils only as distant shapes. The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "B"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/B_photo.jpg"
   ]
  },
  {
@@ -334,7 +367,7 @@
   "name": "customs_office_clerks_rows",
   "look": "L",
   "file": "EP23_031_N05q01_customs_office_clerks_rows.jpg",
-  "prompt": "A gloomy government office hall seen from the doorway: rows of clerks bent over ledgers at high wooden desks, seen from behind, barred windows, dust in the light, stacks of paper with no readable writing. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A gloomy government office hall seen from the doorway: rows of clerks bent over ledgers at high wooden desks, seen from behind, barred windows, dust in the light, stacks of paper with no readable writing. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 32,
@@ -344,9 +377,12 @@
   "name": "classroom_boy_standing_desk",
   "look": "L",
   "file": "EP23_032_N05q04_classroom_boy_standing_desk.jpg",
-  "prompt": "A schoolroom of around 1900 seen from the back row: rows of boys at wooden desks seen from behind, the boy standing up at his desk with his arms folded, the teacher only a dark shape beside a blank blackboard far away. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A schoolroom of around 1900 seen from the back row: rows of boys at wooden desks seen from behind, the boy standing up at his desk with his arms folded, the teacher only a dark shape beside a blank blackboard far away. The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "B"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/B_photo.jpg"
   ]
  },
  {
@@ -357,7 +393,7 @@
   "name": "wall_map_classroom_pointer",
   "look": "S",
   "file": "EP23_033_N05q05_wall_map_classroom_pointer.jpg",
-  "prompt": "A large old cloth wall map of central Europe hanging on a classroom wall, its countries in faded colours with no names or lettering, a wooden pointer leaning against it, chalk dust in the light. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A large old cloth wall map of central Europe hanging on a classroom wall, its countries in faded colours with no names or lettering, a wooden pointer leaning against it, chalk dust in the light. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 34,
@@ -367,7 +403,7 @@
   "name": "inn_parlour_glass_empty_chair",
   "look": "L",
   "file": "EP23_034_N05q06_inn_parlour_glass_empty_chair.jpg",
-  "prompt": "An empty village inn parlour in the morning: a single glass of red wine on a wooden table, a chair pushed back at an angle, a folded newspaper fallen on the floorboards with its print out of focus, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "An empty village inn parlour in the morning: a single glass of red wine on a wooden table, a chair pushed back at an angle, a folded newspaper fallen on the floorboards with its print out of focus, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 35,
@@ -377,9 +413,12 @@
   "name": "youth_cane_promenade_evening",
   "look": "L",
   "file": "EP23_035_N06q02_youth_cane_promenade_evening.jpg",
-  "prompt": "The youth strolling alone along the main street of a provincial city in the evening, seen from behind, among distant passers-by, shop windows glowing, a tram far away. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "The youth strolling alone along the main street of a provincial city in the evening, seen from behind, among distant passers-by, shop windows glowing, a tram far away. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -390,7 +429,7 @@
   "name": "architecture_sketches_desk",
   "look": "S",
   "file": "EP23_036_N06q03_architecture_sketches_desk.jpg",
-  "prompt": "A desk covered with loose sheets of pencil and ink drawings of grand buildings, a bridge and a concert hall, a pencil, a ruler and a candle stub, the drawings carry no writing. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A desk covered with loose sheets of pencil and ink drawings of grand buildings, a bridge and a concert hall, a pencil, a ruler and a candle stub, the drawings carry no writing. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 37,
@@ -400,9 +439,12 @@
   "name": "young_woman_far_youth_watching",
   "look": "L",
   "file": "EP23_037_N06q04_young_woman_far_youth_watching.jpg",
-  "prompt": "A young woman in a light dress and wide hat walking beside her mother along a sunlit bridge street, seen from far away and from behind, in the foreground the youth standing half hidden at a corner in shadow, watching, seen from behind. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A young woman in a light dress and wide hat walking beside her mother along a sunlit bridge street, seen from far away and from behind, in the foreground the youth standing half hidden at a corner in shadow, watching, seen from behind. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -413,7 +455,7 @@
   "name": "blank_ticket_hand_house_plan",
   "look": "S",
   "file": "EP23_038_N06q05_blank_ticket_hand_house_plan.jpg",
-  "prompt": "A hand holding a small blank paper ticket above a table on which lies a pencil floor plan of a large apartment, a coin beside it, no writing on the ticket or the plan, no head in the frame. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A hand holding a small blank paper ticket above a table on which lies a pencil floor plan of a large apartment, a coin beside it, no writing on the ticket or the plan, no head in the frame. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 39,
@@ -423,9 +465,12 @@
   "name": "two_youths_river_path_dusk",
   "look": "L",
   "file": "EP23_039_N07q00_two_youths_river_path_dusk.jpg",
-  "prompt": "Two youths walking away along a river path at dusk, seen from behind, the youth with the cane talking with a wide sweep of his free arm, his friend beside him listening with hands in his pockets, city lights beginning across the water. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "Two youths walking away along a river path at dusk, seen from behind, the youth with the cane talking with a wide sweep of his free arm, his friend beside him listening with hands in his pockets, city lights beginning across the water. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -436,9 +481,12 @@
   "name": "hilltop_night_stars_two_figures",
   "look": "L",
   "file": "EP23_040_N07q01_hilltop_night_stars_two_figures.jpg",
-  "prompt": "A bare hilltop above a small city at night under a sky full of stars, the youth standing at the edge with both hands spread wide as he speaks to the dark, his friend a few steps behind him, both tiny dark silhouettes, the lights of the city far below. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A bare hilltop above a small city at night under a sky full of stars, the youth standing at the edge with both hands spread wide as he speaks to the dark, his friend a few steps behind him, both tiny dark silhouettes, the lights of the city far below. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -449,9 +497,12 @@
   "name": "vienna_ring_summer_youth_small",
   "look": "O",
   "file": "EP23_041_N07q04_vienna_ring_summer_youth_small.jpg",
-  "prompt": "Vienna in May 1906: the wide Ring boulevard in bright sun with the great opera house, electric trams and horse carriages, the youth very small in the foreground, seen from behind, looking up at the building. No signboards, no lettering of any kind, no flags, no emblems. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "Vienna in May 1906: the wide Ring boulevard in bright sun with the great opera house, electric trams and horse carriages, the youth very small in the foreground, seen from behind, looking up at the building. No signboards, no lettering of any kind, no flags, no emblems. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -462,9 +513,12 @@
   "name": "doctor_bag_consulting_room",
   "look": "L",
   "file": "EP23_042_N07q05_doctor_bag_consulting_room.jpg",
-  "prompt": "A doctor's consulting room around 1907: a worn leather medical bag and a stethoscope on a desk in the foreground, behind them the doctor in a dark coat seen from behind speaking to the mother, who sits in shadow by the window with her head bowed. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A doctor's consulting room around 1907: a worn leather medical bag and a stethoscope on a desk in the foreground, behind them the doctor in a dark coat seen from behind speaking to the mother, who sits in shadow by the window with her head bowed. The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "K"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/K.jpg"
   ]
  },
  {
@@ -475,9 +529,12 @@
   "name": "station_platform_departure",
   "look": "L",
   "file": "EP23_043_N08q00_station_platform_departure.jpg",
-  "prompt": "A provincial railway platform in early autumn, steam drifting from a waiting train, the youth climbing into a carriage with a suitcase and a large flat portfolio under his arm, seen from behind, a woman in black small on the platform behind him. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A provincial railway platform in early autumn, steam drifting from a waiting train, the youth climbing into a carriage with a suitcase and a large flat portfolio under his arm, seen from behind, a woman in black small on the platform behind him. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -488,7 +545,7 @@
   "name": "academy_exam_hall_drawing_boards",
   "look": "O",
   "file": "EP23_044_N08q01_academy_exam_hall_drawing_boards.jpg",
-  "prompt": "October 1907, the high studio hall of an art academy: rows of young men bent over large drawing boards seen from behind, plaster casts of antique statues along the wall, tall north windows, charcoal dust, the drawings only vague grey shapes. No lettering of any kind, no face visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "October 1907, the high studio hall of an art academy: rows of young men bent over large drawing boards seen from behind, plaster casts of antique statues along the wall, tall north windows, charcoal dust, the drawings only vague grey shapes. No lettering of any kind, no face visible. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 45,
@@ -498,9 +555,12 @@
   "name": "rented_room_youth_window",
   "look": "O",
   "file": "EP23_045_N08q05_rented_room_youth_window.jpg",
-  "prompt": "A small bare rented room in a city at dusk, the youth sitting on the edge of an iron bed, seen from behind, looking out of the window at wet roofs and chimneys, a large portfolio leaning unopened against the wall. Vienna, autumn 1907, no lettering. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A small bare rented room in a city at dusk, the youth sitting on the edge of an iron bed, seen from behind, looking out of the window at wet roofs and chimneys, a large portfolio leaning unopened against the wall. Vienna, autumn 1907, no lettering. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg"
   ]
  },
  {
@@ -511,10 +571,14 @@
   "name": "sickroom_youth_scrubbing_floor",
   "look": "L",
   "file": "EP23_046_N08q07_sickroom_youth_scrubbing_floor.jpg",
-  "prompt": "A small flat's kitchen in winter with a bed set up near the stove, the mother lying in the bed in deep shadow at the back, turned away, in the foreground the youth in shirtsleeves on his knees scrubbing the wooden floor with a brush and bucket, seen from behind. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A small flat's kitchen in winter with a bed set up near the stove, the mother lying in the bed in deep shadow at the back, turned away, in the foreground the youth in shirtsleeves on his knees scrubbing the wooden floor with a brush and bucket, seen from behind. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y",
    "K"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg",
+   "google_drive/ep23_pics/cast/K.jpg"
   ]
  },
  {
@@ -525,10 +589,14 @@
   "name": "doctor_at_bedside_back",
   "look": "L",
   "file": "EP23_047_N09q00_doctor_at_bedside_back.jpg",
-  "prompt": "A dim sickroom lit by one oil lamp: the doctor in a dark coat seen from behind bending over the bed, the patient hidden by him, at the foot of the bed the youth's two hands gripping the iron bed rail, only his hands and sleeves in the frame. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A dim sickroom lit by one oil lamp: the doctor in a dark coat seen from behind bending over the bed, the patient hidden by him, at the foot of the bed the youth's two hands gripping the iron bed rail, only his hands and sleeves in the frame. The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat and a black broad-brimmed hat, with a slim black walking cane. The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "Y",
    "K"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/Y.jpg",
+   "google_drive/ep23_pics/cast/K.jpg"
   ]
  },
  {
@@ -539,7 +607,7 @@
   "name": "christmas_tree_candles_empty_bed",
   "look": "L",
   "file": "EP23_048_N09q01_christmas_tree_candles_empty_bed.jpg",
-  "prompt": "A small room before dawn: a little Christmas tree with lit candles on a side table, beside it a neatly made empty bed with a folded blanket and an empty chair, frost on the window, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small room before dawn: a little Christmas tree with lit candles on a side table, beside it a neatly made empty bed with a folded blanket and an empty chair, frost on the window, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 49,
@@ -549,7 +617,7 @@
   "name": "funeral_procession_snow_village",
   "look": "L",
   "file": "EP23_049_N09q03_funeral_procession_snow_village.jpg",
-  "prompt": "A small funeral procession crossing a snowy village square towards a church: a horse-drawn hearse and a few mourners in black walking behind it, seen from far and from behind, grey sky. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small funeral procession crossing a snowy village square towards a church: a horse-drawn hearse and a few mourners in black walking behind it, seen from far and from behind, grey sky. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 50,
@@ -559,7 +627,7 @@
   "name": "portrait_frame_glare_desk",
   "look": "S",
   "file": "EP23_050_N09q04_portrait_frame_glare_desk.jpg",
-  "prompt": "A small oval silver picture frame standing on a bare desk beside a lamp, seen at an angle so that the lamp's glare on the glass hides the photograph completely, nothing else on the desk. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small oval silver picture frame standing on a bare desk beside a lamp, seen at an angle so that the lamp's glare on the glass hides the photograph completely, nothing else on the desk. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 51,
@@ -569,7 +637,7 @@
   "name": "empty_flat_trunk_bundle",
   "look": "L",
   "file": "EP23_051_N10q02_empty_flat_trunk_bundle.jpg",
-  "prompt": "An emptied flat in winter light: bare floorboards and pale squares on the wallpaper where pictures hung, a single travelling trunk and a tied bundle of drawings standing by the open door, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "An emptied flat in winter light: bare floorboards and pale squares on the wallpaper where pictures hung, a single travelling trunk and a tied bundle of drawings standing by the open door, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 52,
@@ -579,7 +647,7 @@
   "name": "night_train_snow_plain",
   "look": "L",
   "file": "EP23_052_N10q03_night_train_snow_plain.jpg",
-  "prompt": "A steam train crossing a snow-covered plain at dusk, its lit carriage windows a line of small yellow squares, smoke trailing, the faint glow of a great city on the horizon ahead, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A steam train crossing a snow-covered plain at dusk, its lit carriage windows a line of small yellow squares, smoke trailing, the faint glow of a great city on the horizon ahead, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 53,
@@ -589,9 +657,12 @@
   "name": "vienna_station_arrival_lone",
   "look": "V",
   "file": "EP23_053_N10q03_vienna_station_arrival_lone.jpg",
-  "prompt": "The vast iron and glass hall of a great railway station in winter, crowds of travellers as dark shapes, in the middle the young man standing still with a trunk at his feet, small in the frame and seen from behind. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "The vast iron and glass hall of a great railway station in winter, crowds of travellers as dark shapes, in the middle the young man standing still with a trunk at his feet, small in the frame and seen from behind. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -602,7 +673,7 @@
   "name": "tenement_yard_palace_beyond",
   "look": "O",
   "file": "EP23_054_N11q01_tenement_yard_palace_beyond.jpg",
-  "prompt": "Vienna around 1908 in late winter: a narrow dark tenement courtyard with washing lines, stacked handcarts and a water pump in the foreground, and through its archway, far off in pale sunlight, the dome and statues of a grand palace, a few poor people in the yard seen from behind, no lettering anywhere. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Vienna around 1908 in late winter: a narrow dark tenement courtyard with washing lines, stacked handcarts and a water pump in the foreground, and through its archway, far off in pale sunlight, the dome and statues of a grand palace, a few poor people in the yard seen from behind, no lettering anywhere. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 55,
@@ -612,7 +683,7 @@
   "name": "shared_room_piano_two_beds",
   "look": "O",
   "file": "EP23_055_N11q02_shared_room_piano_two_beds.jpg",
-  "prompt": "A small shabby rented room in Vienna in 1908 lit by one paraffin lamp: two narrow beds against the walls, a washstand, and a black grand piano taking up most of the floor between them, loose sheets of building drawings on one bed, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small shabby rented room in Vienna in 1908 lit by one paraffin lamp: two narrow beds against the walls, a washstand, and a black grand piano taking up most of the floor between them, loose sheets of building drawings on one bed, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 56,
@@ -622,7 +693,7 @@
   "name": "conservatory_stairs_student_back",
   "look": "O",
   "file": "EP23_056_N11q03_conservatory_stairs_student_back.jpg",
-  "prompt": "The grand marble staircase of a music conservatory in Vienna around 1908, one young man in a neat dark suit climbing the stairs seen from behind, a leather music case in his hand, morning light from tall windows, nobody else. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "The grand marble staircase of a music conservatory in Vienna around 1908, one young man in a neat dark suit climbing the stairs seen from behind, a leather music case in his hand, morning light from tall windows, nobody else. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 57,
@@ -632,7 +703,7 @@
   "name": "room_quarrel_two_silhouettes",
   "look": "O",
   "file": "EP23_057_N11q05_room_quarrel_two_silhouettes.jpg",
-  "prompt": "A small lamp-lit rented room at night in 1908: two young men as dark silhouettes, one seated at a grand piano half turned to listen, the other standing in the middle of the room seen from behind with one arm flung out, his shadow thrown huge on the wall, no face visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small lamp-lit rented room at night in 1908: two young men as dark silhouettes, one seated at a grand piano half turned to listen, the other standing in the middle of the room seen from behind with one arm flung out, his shadow thrown huge on the wall, no face visible. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 58,
@@ -642,7 +713,7 @@
   "name": "coins_in_saucer_table",
   "look": "S",
   "file": "EP23_058_N12q00_coins_in_saucer_table.jpg",
-  "prompt": "A small heap of old silver and copper coins with worn blank faces in a chipped saucer on a bare wooden table. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small heap of old silver and copper coins with worn blank faces in a chipped saucer on a bare wooden table. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 59,
@@ -652,7 +723,7 @@
   "name": "opera_standing_room_back",
   "look": "O",
   "file": "EP23_059_N12q01_opera_standing_room_back.jpg",
-  "prompt": "The inside of a grand opera house around 1908 during a performance, seen from the dark standing room at the very back: a row of standing men as black silhouettes in the foreground, beyond them tiers of gilded boxes and the small far glowing stage. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "The inside of a grand opera house around 1908 during a performance, seen from the dark standing room at the very back: a row of standing men as black silhouettes in the foreground, beyond them tiers of gilded boxes and the small far glowing stage. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 60,
@@ -662,7 +733,7 @@
   "name": "night_plans_drawings_on_floor",
   "look": "O",
   "file": "EP23_060_N12q02_night_plans_drawings_on_floor.jpg",
-  "prompt": "A lamp-lit rented room late at night in 1908: large sheets with ink drawings of buildings spread across the floor and over a closed piano lid, a thin young man in shirtsleeves kneeling over them seen from behind, his shadow on the wall, nobody else. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A lamp-lit rented room late at night in 1908: large sheets with ink drawings of buildings spread across the floor and over a closed piano lid, a thin young man in shirtsleeves kneeling over them seen from behind, his shadow on the wall, nobody else. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 61,
@@ -672,7 +743,7 @@
   "name": "platform_farewell_summer_lone",
   "look": "O",
   "file": "EP23_061_N12q03_platform_farewell_summer_lone.jpg",
-  "prompt": "A great city railway station platform in summer 1908: a train pulling out in steam and sunlight, one thin young man in a dark coat standing alone on the platform watching it go, seen from behind and small in the frame, nobody else near him. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A great city railway station platform in summer 1908: a train pulling out in steam and sunlight, one thin young man in a dark coat standing alone on the platform watching it go, seen from behind and small in the frame, nobody else near him. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 62,
@@ -682,7 +753,7 @@
   "name": "room_half_empty_open_door",
   "look": "O",
   "file": "EP23_062_N12q05_room_half_empty_open_door.jpg",
-  "prompt": "A small rented room in grey November light, half emptied: one bed stripped to its bare mattress, a bare nail on the wall above it, a grand piano still standing, the door left open onto a dark landing, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small rented room in grey November light, half emptied: one bed stripped to its bare mattress, a bare nail on the wall above it, a grand piano still standing, the door left open onto a dark landing, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 63,
@@ -692,7 +763,7 @@
   "name": "blank_form_pen_inkwell",
   "look": "S",
   "file": "EP23_063_N13q00_blank_form_pen_inkwell.jpg",
-  "prompt": "A printed official form with empty ruled boxes and no writing at all lying on a worn wooden counter beside a steel pen, an inkwell and a rubber stamp. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A printed official form with empty ruled boxes and no writing at all lying on a worn wooden counter beside a steel pen, an inkwell and a rubber stamp. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 64,
@@ -702,7 +773,7 @@
   "name": "tiny_room_window_brick_wall",
   "look": "O",
   "file": "EP23_064_N13q01_tiny_room_window_brick_wall.jpg",
-  "prompt": "A tiny bare room in a poor Vienna lodging house around 1909: one iron bed, one chair, a coat on a nail, and a window that looks straight onto a blank brick wall an arm's length away, grey light, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A tiny bare room in a poor Vienna lodging house around 1909: one iron bed, one chair, a coat on a nail, and a window that looks straight onto a blank brick wall an arm's length away, grey light, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 65,
@@ -712,9 +783,12 @@
   "name": "park_bench_sleeper_dawn",
   "look": "O",
   "file": "EP23_065_N13q04_park_bench_sleeper_dawn.jpg",
-  "prompt": "Vienna in autumn 1909 at dawn: the young man asleep sitting hunched on a park bench under bare trees, fallen leaves and mist, one gas lamp still lit, seen from behind and from far away, nobody else. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "Vienna in autumn 1909 at dawn: the young man asleep sitting hunched on a park bench under bare trees, fallen leaves and mist, one gas lamp still lit, seen from behind and from far away, nobody else. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -725,9 +799,12 @@
   "name": "all_night_cafe_corner_sleeper",
   "look": "O",
   "file": "EP23_066_N13q04_all_night_cafe_corner_sleeper.jpg",
-  "prompt": "An all-night coffee house in Vienna around 1909 in the small hours: marble tables, bentwood chairs, dim gas light, the young man slumped asleep at a corner table with his head on his folded arms, seen from behind, a waiter far away as a dark shape. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "An all-night coffee house in Vienna around 1909 in the small hours: marble tables, bentwood chairs, dim gas light, the young man slumped asleep at a corner table with his head on his folded arms, seen from behind, a waiter far away as a dark shape. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -738,7 +815,7 @@
   "name": "convent_gate_soup_queue",
   "look": "V",
   "file": "EP23_067_N13q04_convent_gate_soup_queue.jpg",
-  "prompt": "A short queue of poor men holding tin cups at the side gate of a convent in grey morning light, a nun far away as a small dark shape ladling soup from a kettle, seen from across the street. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A short queue of poor men holding tin cups at the side gate of a convent in grey morning light, a nun far away as a small dark shape ladling soup from a kettle, seen from across the street. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 68,
@@ -748,9 +825,12 @@
   "name": "two_cots_two_men_back",
   "look": "V",
   "file": "EP23_068_N14q01_two_cots_two_men_back.jpg",
-  "prompt": "Two narrow iron cots side by side in a vast dim dormitory at night, two men sitting on the edges of the cots talking, both seen from behind as dark shapes against a far gas light, one of them the young man. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "Two narrow iron cots side by side in a vast dim dormitory at night, two men sitting on the edges of the cots talking, both seen from behind as dark shapes against a far gas light, one of them the young man. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -761,7 +841,7 @@
   "name": "two_brushes_on_plank",
   "look": "S",
   "file": "EP23_069_N14q02_two_brushes_on_plank.jpg",
-  "prompt": "A broad worn house-painter's brush and a fine thin artist's watercolour brush lying side by side on a bare paint-spattered plank. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A broad worn house-painter's brush and a fine thin artist's watercolour brush lying side by side on a bare paint-spattered plank. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 70,
@@ -771,7 +851,7 @@
   "name": "painted_cards_fan_on_table",
   "look": "S",
   "file": "EP23_070_N14q03_painted_cards_fan_on_table.jpg",
-  "prompt": "A fan of small hand-painted watercolour cards showing churches, a columned public building and old city streets with no figures in them, spread on a plain table, no writing on any card. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A fan of small hand-painted watercolour cards showing churches, a columned public building and old city streets with no figures in them, spread on a plain table, no writing on any card. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 71,
@@ -781,7 +861,7 @@
   "name": "watercolour_church_half_done",
   "look": "S",
   "file": "EP23_071_N14q05_watercolour_church_half_done.jpg",
-  "prompt": "A half-finished small watercolour of a baroque church on an empty street with no figures, pinned to a board beside an open tin paint box, a water glass and a printed engraving of the same church used as the model, no writing. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A half-finished small watercolour of a baroque church on an empty street with no figures, pinned to a board beside an open tin paint box, a water glass and a printed engraving of the same church used as the model, no writing. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 72,
@@ -791,7 +871,7 @@
   "name": "mens_home_building_winter",
   "look": "V",
   "file": "EP23_072_N14q06_mens_home_building_winter.jpg",
-  "prompt": "A large plain new five-storey brick hostel building on a wide street at the edge of the city on a winter evening, rows of identical small windows lit, a few men going in at the door far away seen from behind. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A large plain new five-storey brick hostel building on a wide street at the edge of the city on a winter evening, rows of identical small windows lit, a few men going in at the door far away seen from behind. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 73,
@@ -801,7 +881,7 @@
   "name": "cubicle_corridor_empty",
   "look": "O",
   "file": "EP23_073_N15q00_cubicle_corridor_empty.jpg",
-  "prompt": "Inside a men's hostel in Vienna around 1910: a long corridor of identical narrow sleeping cubicles divided by wooden partitions, each with an iron bed and a small table, bare electric bulbs overhead, clean and bleak, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Inside a men's hostel in Vienna around 1910: a long corridor of identical narrow sleeping cubicles divided by wooden partitions, each with an iron bed and a small table, bare electric bulbs overhead, clean and bleak, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 74,
@@ -811,9 +891,12 @@
   "name": "reading_room_window_table",
   "look": "V",
   "file": "EP23_074_N15q02_reading_room_window_table.jpg",
-  "prompt": "The reading room of a men's hostel in daylight: long tables with men bent over newspapers seen from behind, and at a small table by the tall window the young man bent over a small painting, seen from behind as a dark shape against the bright window, the newspapers blank grey with no lettering. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "The reading room of a men's hostel in daylight: long tables with men bent over newspapers seen from behind, and at a small table by the tall window the young man bent over a small painting, seen from behind as a dark shape against the bright window, the newspapers blank grey with no lettering. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -824,9 +907,12 @@
   "name": "reading_room_figure_on_his_feet",
   "look": "V",
   "file": "EP23_075_N15q03_reading_room_figure_on_his_feet.jpg",
-  "prompt": "A hostel reading room in the evening under electric lamps: the young man on his feet beside his table with one hand chopping the air in mid-speech, seen from behind as a dark shape, a brush dropped on the table, the seated men around him bent over their newspapers and not looking up, the newspapers blank grey with no lettering. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A hostel reading room in the evening under electric lamps: the young man on his feet beside his table with one hand chopping the air in mid-speech, seen from behind as a dark shape, a brush dropped on the table, the seated men around him bent over their newspapers and not looking up, the newspapers blank grey with no lettering. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -837,7 +923,7 @@
   "name": "police_counter_complaint_back",
   "look": "V",
   "file": "EP23_076_N15q04_police_counter_complaint_back.jpg",
-  "prompt": "A police station office around 1910: a high wooden counter with a large open ledger with blank pages and an inkstand, an official far behind it as a dark shape, one man in a long overcoat standing at the counter seen from behind. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A police station office around 1910: a high wooden counter with a large open ledger with blank pages and an inkstand, an official far behind it as a dark shape, one man in a long overcoat standing at the counter seen from behind. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 77,
@@ -847,7 +933,7 @@
   "name": "frame_shop_window_evening",
   "look": "V",
   "file": "EP23_077_N15q05_frame_shop_window_evening.jpg",
-  "prompt": "The window of a small picture-frame shop on a Vienna side street on a winter evening: gilt frames and a few small watercolours of city views behind the glass, warm light inside, the dark shape of the shopkeeper within, the shop front with no lettering at all. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "The window of a small picture-frame shop on a Vienna side street on a winter evening: gilt frames and a few small watercolours of city views behind the glass, warm light inside, the dark shape of the shopkeeper within, the shop front with no lettering at all. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 78,
@@ -857,9 +943,12 @@
   "name": "old_lane_passersby_dusk",
   "look": "V",
   "file": "EP23_078_N16q00_old_lane_passersby_dusk.jpg",
-  "prompt": "A narrow old lane in the inner city of Vienna at winter dusk, a few passers-by in long dark coats and hats far down the lane seen from behind, the young man small in the foreground standing still and watching them go, seen from behind. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A narrow old lane in the inner city of Vienna at winter dusk, a few passers-by in long dark coats and hats far down the lane seen from behind, the young man small in the foreground standing still and watching them go, seen from behind. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -870,7 +959,7 @@
   "name": "shopping_street_from_above",
   "look": "O",
   "file": "EP23_079_N16q02_shopping_street_from_above.jpg",
-  "prompt": "A busy main street in Vienna around 1910 on a grey day seen from an upper window: trams, horse cabs and crowds of ordinary people of every class in coats and hats, all far away and seen from above and behind, shop awnings with no lettering, no flags. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A busy main street in Vienna around 1910 on a grey day seen from an upper window: trams, horse cabs and crowds of ordinary people of every class in coats and hats, all far away and seen from above and behind, shop awnings with no lettering, no flags. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 80,
@@ -880,7 +969,7 @@
   "name": "city_hall_tower_evening_crowd",
   "look": "V",
   "file": "EP23_080_N16q03_city_hall_tower_evening_crowd.jpg",
-  "prompt": "The tall gothic tower of a city hall at dusk seen from far across a wide square, a crowd of small dark figures gathered below a tiny lit speaker's platform far away, gas lamps, no flags, no banners. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "The tall gothic tower of a city hall at dusk seen from far across a wide square, a crowd of small dark figures gathered below a tiny lit speaker's platform far away, gas lamps, no flags, no banners. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 81,
@@ -890,7 +979,7 @@
   "name": "kiosk_pamphlets_blank",
   "look": "V",
   "file": "EP23_081_N16q05_kiosk_pamphlets_blank.jpg",
-  "prompt": "A street newspaper kiosk in winter: bundles of cheap pamphlets and newspapers with blank grey pages hanging from clips, a man's gloved hand reaching for one, no head in the frame, no lettering anywhere. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A street newspaper kiosk in winter: bundles of cheap pamphlets and newspapers with blank grey pages hanging from clips, a man's gloved hand reaching for one, no head in the frame, no lettering anywhere. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 82,
@@ -900,7 +989,7 @@
   "name": "parliament_gallery_uproar",
   "look": "O",
   "file": "EP23_082_N17q00_parliament_gallery_uproar.jpg",
-  "prompt": "The chamber of a grand parliament around 1910 seen from the high visitors' gallery: far below, curved rows of desks in uproar, tiny dark figures on their feet waving papers, desk lids raised, and in the foreground the dark shoulders of one watcher leaning on the gallery rail, seen from behind, no flags, no emblems, no lettering. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "The chamber of a grand parliament around 1910 seen from the high visitors' gallery: far below, curved rows of desks in uproar, tiny dark figures on their feet waving papers, desk lids raised, and in the foreground the dark shoulders of one watcher leaning on the gallery rail, seen from behind, no flags, no emblems, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 83,
@@ -910,9 +999,12 @@
   "name": "cubicle_night_figure_on_bed",
   "look": "V",
   "file": "EP23_083_N17q03_cubicle_night_figure_on_bed.jpg",
-  "prompt": "A narrow hostel sleeping cubicle at night under one bare electric bulb: the young man sitting on the edge of the iron bed with his back to us, his overcoat on a nail, a small table with a tin paint box, nobody else. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "prompt": "A narrow hostel sleeping cubicle at night under one bare electric bulb: the young man sitting on the edge of the iron bed with his back to us, his overcoat on a nail, a small table with a tin paint box, nobody else. The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, an unshaven fluffy dark beard on the chin and a thin moustache, in a worn dark overcoat too long for him. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
   "refs": [
    "A"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/A.jpg"
   ]
  },
  {
@@ -923,7 +1015,7 @@
   "name": "hostel_dining_hall_hundreds",
   "look": "V",
   "file": "EP23_084_N17q04_hostel_dining_hall_hundreds.jpg",
-  "prompt": "A huge hostel dining hall at supper seen from high up at one end: hundreds of men at long tables, all seen from behind or far away, steam rising from soup kettles, bare electric lamps. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A huge hostel dining hall at supper seen from high up at one end: hundreds of men at long tables, all seen from behind or far away, steam rising from soup kettles, bare electric lamps. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 85,
@@ -933,7 +1025,7 @@
   "name": "banknotes_coins_dark_desk",
   "look": "S",
   "file": "EP23_085_N17q05_banknotes_coins_dark_desk.jpg",
-  "prompt": "A small stack of old banknotes with blank faces held by a paper band beside a heap of gold and silver coins with worn blank faces on a dark desk. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "A small stack of old banknotes with blank faces held by a paper band beside a heap of gold and silver coins with worn blank faces on a dark desk. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 86,
@@ -943,7 +1035,7 @@
   "name": "barracks_gate_recruits_far",
   "look": "O",
   "file": "EP23_086_N18q01_barracks_gate_recruits_far.jpg",
-  "prompt": "An Austrian barracks gate around 1910 on a grey morning: a line of young men in civilian clothes waiting to be called in, seen from far across the road and from behind, a plain sentry box, a high wall, no flags, no emblems, no lettering. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "An Austrian barracks gate around 1910 on a grey morning: a line of young men in civilian clothes waiting to be called in, seen from far across the road and from behind, a plain sentry box, a high wall, no flags, no emblems, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 87,
@@ -953,7 +1045,7 @@
   "name": "train_spring_fields_mountains",
   "look": "O",
   "file": "EP23_087_N18q02_train_spring_fields_mountains.jpg",
-  "prompt": "May 1913: a small steam train crossing bright green spring fields towards a line of distant snow mountains under a clear sky, seen from a hillside, tiny in the wide landscape, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "May 1913: a small steam train crossing bright green spring fields towards a line of distant snow mountains under a clear sky, seen from a hillside, tiny in the wide landscape, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 88,
@@ -963,7 +1055,7 @@
   "name": "munich_attic_room_dormer",
   "look": "O",
   "file": "EP23_088_N18q03_munich_attic_room_dormer.jpg",
-  "prompt": "Munich in 1913: a small tidy attic room above a tailor's workshop, a sloping ceiling, an iron bed, a table with a tin paint box under the dormer window, and through the window sunlit roofs and two round-capped church towers far away, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Munich in 1913: a small tidy attic room above a tailor's workshop, a sloping ceiling, an iron bed, a table with a tin paint box under the dormer window, and through the window sunlit roofs and two round-capped church towers far away, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 89,
@@ -973,7 +1065,7 @@
   "name": "munich_square_painter_stool",
   "look": "O",
   "file": "EP23_089_N18q05_munich_square_painter_stool.jpg",
-  "prompt": "Munich in summer 1913: a thin young man in a dark suit and hat sitting alone on a folding stool at the edge of a wide sunny square, painting a small picture of a monumental stone gateway with columns, seen from behind, passers-by far away, no lettering, no flags. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Munich in summer 1913: a thin young man in a dark suit and hat sitting alone on a folding stool at the edge of a wide sunny square, painting a small picture of a monumental stone gateway with columns, seen from behind, passers-by far away, no lettering, no flags. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  },
  {
   "n": 90,
@@ -983,6 +1075,6 @@
   "name": "storm_clouds_over_city_roofs",
   "look": "O",
   "file": "EP23_090_N18q06_storm_clouds_over_city_roofs.jpg",
-  "prompt": "Summer 1914: heavy black storm clouds piling up over the roofs and church towers of a central European city, the last low sunlight on the rooftops, a flock of birds scattering, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+  "prompt": "Summer 1914: heavy black storm clouds piling up over the roofs and church towers of a central European city, the last low sunlight on the rooftops, a flock of birds scattering, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  }
 ]
