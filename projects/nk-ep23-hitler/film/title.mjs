@@ -1,4 +1,4 @@
-// Title sequence (12 s, no voice): cells in the body → the Earth alone in space → a sky of galaxies, with the title.
+// Title sequence (12 s, no voice): the shelter queue → the man on the balcony → a city burning, with the title.
 //   node film/title.mjs → film/TITLE/
 import { mkdirSync, writeFileSync, symlinkSync, rmSync, readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -13,9 +13,9 @@ const D = 12, T = 6.2; // length, title reveal
 const SH = JSON.parse(readFileSync(join(ROOT, "shots/prompts.json"), "utf8"));
 const pl = (name) => { const x = SH.find((q) => q.name === name); if (!x) throw new Error("no shot named " + name); return String(x.n).padStart(3, "0"); };
 const P = [
-  [pl("neurons_network_sparks"), 0, 3.5, "50% 50%", [1.08, 0, 0], [1.2, 0, 0]],
-  [pl("earth_whole_blue"), 2.9, 6.3, "50% 50%", [1.22, 0, 6], [1.08, 0, 0]],
-  [pl("deep_field_galaxies"), 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
+  [pl("shelter_queue_snow_wide"), 0, 3.5, "50% 50%", [1.08, 0, 0], [1.2, 0, 0]],
+  [pl("balcony_silhouette_night_crowd"), 2.9, 6.3, "50% 50%", [1.22, 0, 6], [1.08, 0, 0]],
+  [pl("city_burning_night_skyline"), 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
 const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
 
@@ -44,9 +44,9 @@ const html = `${P.map(([n, a, b], i) => `    <div id="t-p${i}" class="t-pl clip"
 ${G.html}    <div id="t-pre" class="clip" data-start="0.7" data-duration="2.6" data-track-index="5"><div id="t-pre-in"><b>நிலவன் கதைகள்</b> வழங்கும்</div></div>
     <div id="t-ttl" class="clip" data-start="${r(T - 0.3)}" data-duration="${r(D - T + 0.3)}" data-track-index="6">
       <div id="t-r1"></div>
-      <div id="t-name">27 உண்மைகள்</div>
+      <div id="t-name">ஹிட்லர்</div>
       <div id="t-r2"></div>
-      <div id="t-sub">நீங்க யாருன்னு யோசிக்க வைக்கும்</div>
+      <div id="t-sub">வீடில்லாதவனில் இருந்து ராட்சசன் வரை</div>
       <div id="t-nk">NK DOCUMENTARIES</div>
     </div>
     <div id="t-fade" class="clip" data-start="0" data-duration="${D}" data-track-index="7" data-layout-ignore></div>`;
@@ -72,9 +72,9 @@ const audio = [sfx("impact-bass-1", 0.15, 0.22, D), sfx("whoosh", 2.95, 0.14, D)
 const dir = join(ROOT, "film", "TITLE");
 mkdirSync(join(dir, "compositions"), { recursive: true });
 writeFileSync(join(dir, "compositions/ttl.html"), scene({ id: "ttl", css, html, js }));
-writeFileSync(join(dir, "index.html"), index({ title: "EP22 title", dur: D, bg: "#000", hosts: [{ id: "ttl" }], audio }));
+writeFileSync(join(dir, "index.html"), index({ title: "EP23 title", dur: D, bg: "#000", hosts: [{ id: "ttl" }], audio }));
 writeFileSync(join(dir, "hyperframes.json"), JSON.stringify({ $schema: "https://hyperframes.heygen.com/schema/hyperframes.json", registry: "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry", paths: { blocks: "compositions", components: "compositions/components", assets: "assets" }, media: { autoProxy: true } }, null, 2) + "\n");
-writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: "nk-ep22-title", name: "EP22 title", createdAt: "2026-11-20T09:00:00.000Z" }, null, 2) + "\n");
+writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: "nk-ep23-title", name: "EP23 title", createdAt: "2026-11-20T09:00:00.000Z" }, null, 2) + "\n");
 rmSync(join(dir, "assets"), { recursive: true, force: true });
 symlinkSync("../../shared", join(dir, "assets"));
 console.log("TITLE:", D, "s");

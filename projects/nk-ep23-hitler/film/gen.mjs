@@ -1,4 +1,4 @@
-// EP22 film generator: one HyperFrames project per narration clip.
+// EP23 film generator: one HyperFrames project per narration clip (N01 … N98; hook N01–N02, eight ids per chapter).
 //   node film/gen.mjs N01            → film/N01/ (index.html + compositions/pic|cap|ovl.html)
 //   node film/gen.mjs N01 --to 5     → only lines q00..q05 (preview), fades out after the last one
 // Inputs: script/lines.json, narration/align.json, shots/prompts.json, script/script.mjs.
@@ -8,7 +8,8 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { r, scene, index, buildShots, rng, esc, sfx, FONTS } from "../kit/gen/lib.mjs";
 import { grain } from "../kit/gen/caps.mjs";
-import { TAGS, CLIPS, FACTS } from "../script/script.mjs";
+import { TAGS, CLIPS } from "../script/script.mjs";
+const FACTS = 0; // EP22 counter, unused here
 import { buildFx, cardBg, FULL } from "./fx.mjs"; // EP17 additions: graphics layer and chapter card picture
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -56,16 +57,25 @@ const MOVES = [
   { o: "65% 55%", a: [1.17, 0, 0], b: [1.08, 0, 0] },
 ];
 
-// Hook effects (N01 only): [line q, effect, volume, where: "start" | "last" (last sentence of the line) | sentence number]
-const HOOK_FX = [
-  // "you are sitting still" → "no": 8,000 km, 100 crore cells → 27 facts → inside you / in the sky → the last one is about you
-  [1, "impact-bass-1", 0.3, "start"], [1, "whoosh", 0.16, 1], [2, "impact-bass-2", 0.3, "start"],
-  [3, "whoosh-cinematic", 0.16, "start"], [4, "riser", 0.18, "start"], [4, "impact-bass-2", 0.32, "last"],
+// Hook effects, per hook clip: [line q, effect, volume, where: "start" | "last" (last sentence of the line) | sentence number]
+const HOOK_FX = {
+  // Vienna, December 1909 → the queue → refused twice → 1933, 1939 → the name
+  N01: [[0, "impact-bass-1", 0.3, "start"], [3, "whoosh", 0.16, "start"], [4, "riser", 0.18, "start"], [4, "impact-bass-2", 0.3, 1], [4, "impact-bass-1", 0.3, 2], [5, "impact-bass-2", 0.34, "start"]],
+  // seven crore → not born a monster → three questions → homeless to monster
+  N02: [[0, "impact-bass-1", 0.3, 1], [1, "impact-bass-2", 0.26, "start"], [3, "whoosh-cinematic", 0.16, "start"], [5, "riser", 0.18, "start"], [5, "impact-bass-2", 0.32, "last"]],
+};
+// Chapter card backgrounds: one picture of the chapter behind the card (shot names from shots/shots.txt), keyed by the clip that opens the chapter
+const CARD_BG = { N03: "braunau_inn_evening" };
+// EP23: a picture held longer than HOLD seconds is shown as two or three shots (wide, then closer crops), cut at pauses
+const HOLD = 9.5;
+const PUNCH = [
+  { o: "34% 46%", a: [1.26, 0, 0], b: [1.33, 0, 0] },
+  { o: "66% 52%", a: [1.33, 0, 0], b: [1.26, 0, 0] },
+  { o: "50% 38%", a: [1.24, 0, 0], b: [1.31, 0, 0] },
 ];
-// Chapter card backgrounds: one picture of the chapter behind the unchanged card (shot names from shots/shots.txt)
-const CARD_BG = { N02: "red_cells_stream", N03: "supernova_shell_colours", N04: "early_earth_molten", N05: "earth_whole_blue", N06: "sun_surface_flares_close", N07: "deep_field_galaxies" };
 const pad3 = (n) => String(n).padStart(3, "0");
 const plateOf = (name) => { const s_ = SHOTS.find((x) => x.name === name); if (!s_) throw new Error("no shot named " + name); return pad3(s_.n); };
+const hasShot = (name) => SHOTS.some((x) => x.name === name);
 
 export function build(cid, opt = {}) {
   const clip = CLIPS.find((c) => c.id === cid), ci = CLIPS.indexOf(clip);
@@ -73,7 +83,8 @@ export function build(cid, opt = {}) {
   let L = LINES.filter((l) => l.clip === cid);
   const partial = opt.to != null && opt.to < L.length - 1;
   if (partial) L = L.filter((l) => l.q <= opt.to);
-  const lead = ci === 0 ? 0.4 : CARD + 0.25;
+  const isHook = clip.sec === "HOOK", hasCard = !!clip.title, next = CLIPS[ci + 1];
+  const lead = hasCard ? CARD + 0.25 : 0.4;
   const aEnd = partial ? AL.lines[opt.to + 1].a0 - 0.12 : AL.dur;
   const D = r(lead + aEnd + (partial ? 0.9 : 0.6));
   const rand = rng(1100 + ci * 17);
@@ -112,15 +123,36 @@ export function build(cid, opt = {}) {
     });
   }
   shots[0].t0 = 0; shots.at(-1).t1 = D;
+  // EP23: long holds become two or three shots of the same picture
+  {
+    const allP = win.flatMap((w) => [w.t0 - 0.14, ...w.a.ph.slice(1).map((p) => lead + p[0] - 0.08)]);
+    const outS = []; let pk = Math.floor(rand() * PUNCH.length);
+    for (const s of shots) {
+      const dur = s.t1 - s.t0, k = Math.min(3, Math.ceil(dur / HOLD));
+      if (k < 2) { outS.push(s); continue; }
+      const E = [s.t0];
+      for (let j = 1; j < k; j++) {
+        const target = s.t0 + (dur * j) / k;
+        const near = allP.filter((p) => Math.abs(p - target) < dur / k / 2.5 && p - E.at(-1) >= 3.2 && s.t1 - p >= 3.2).sort((x, y) => Math.abs(x - target) - Math.abs(y - target))[0];
+        E.push(r(near ?? target));
+      }
+      E.push(s.t1);
+      for (let j = 0; j < k; j++) {
+        if (j === 0) outS.push({ ...s, t1: E[1] });
+        else { pk = (pk + 1) % PUNCH.length; outS.push({ ...s, t0: E[j], t1: E[j + 1], cut: 1, ...PUNCH[pk] }); }
+      }
+    }
+    shots.length = 0; shots.push(...outS);
+  }
   const missing = SHOTS.filter((s) => s.clip === cid && !existsSync(join(ROOT, "out/img", pad3(s.n) + ".jpg"))).map((s) => pad3(s.n));
   // EP17: the hook cuts harder (short zoom-ins inside a line); the chapters keep the soft fades
-  const P = buildShots(shots, { trans: (i, s) => (ci === 0 ? (s.cut ? { type: i % 2 ? "zoom" : "fade", d: 0.2 } : { type: "fade", d: 0.32 }) : s.cut ? { type: "fade", d: 0.24 } : { type: "fade", d: 0.5 }) });
+  const P = buildShots(shots, { trans: (i, s) => (isHook ? (s.cut ? { type: i % 2 ? "zoom" : "fade", d: 0.2 } : { type: "fade", d: 0.32 }) : s.cut ? { type: "fade", d: 0.24 } : { type: "fade", d: 0.5 }) });
   const G = grain("p-grain", D, rng(11 + ci), { opacity: 0.1 });
 
   // chapter card
   let cardCss = "", cardHtml = "", cardJs = "";
-  if (ci > 0) {
-    const bgName = CARD_BG[cid], bgOk = bgName && existsSync(join(ROOT, "out/img", plateOf(bgName) + ".jpg"));
+  if (hasCard) {
+    const bgName = CARD_BG[cid], bgOk = bgName && hasShot(bgName) && existsSync(join(ROOT, "out/img", plateOf(bgName) + ".jpg"));
     const KB = bgOk ? cardBg(plateOf(bgName), CARD) : { css: "", html: "", js: "" };
     cardCss = KB.css + `    ${FONTS.serifTa}
     ${FONTS.corm}
@@ -141,7 +173,7 @@ ${KB.html}      <div id="k-num">${clip.sec.split(" ")[0]}</div>
       tl.to(["#k-num", "#k-rule", "#k-title"], { opacity: 0, duration: 0.3, ease: "power2.in" }, ${r(CARD - 0.35)});
       tl.to("#k-card", { opacity: 0, duration: 0.5, ease: "power1.inOut" }, ${CARD});\n`;
   }
-  const fadeOut = partial || ci === CLIPS.length - 1;
+  const fadeOut = partial || !next || !!next.title || (isHook && next.sec !== "HOOK"); // the end of the hook and of every chapter fades to black
   const outD = partial ? 0.7 : 1.4;
   const pic = scene({
     id: "pic",
@@ -212,7 +244,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   }
   // ── subscribe pop-up (chapter 1 only): silent, 5 s, top right
   let sCss = "", sHtml = "", sJs = "";
-  if (ci === 1 && !partial) {
+  if (cid === "N03" && !partial) {
     const w5 = win.find((x) => x.q === 2) ?? win[Math.min(2, win.length - 1)]; // EP22: fact 3, the brain (about 60 s into the film; the stat card is on the left, the pop-up on the right)
     const T0 = r(w5.t0), BX = 648, BY = 76;
     const BELL = "M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z";
@@ -267,8 +299,8 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
 
   // ── sound: narration, plus effects in the hook only
   const audio = [{ id: "vo", src: `assets/vo/${cid}.mp3`, start: lead, dur: r(Math.min(AL.dur, aEnd)), vol: 1 }];
-  if (ci === 0)
-    for (const [q, name, vol, where] of HOOK_FX) {
+  if (HOOK_FX[cid])
+    for (const [q, name, vol, where] of HOOK_FX[cid]) {
       const w = win.find((x) => x.q === q); if (!w) continue;
       const t = where === "last" ? lead + w.a.un.at(-1)[0] : typeof where === "number" ? lead + w.a.un[where][0] - 0.05 : q === 0 ? 0.1 : w.t0 - 0.14;
       audio.push(sfx(name, t, vol, D));
@@ -282,13 +314,13 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
   // ── write
   const dir = join(ROOT, "film", cid);
   mkdirSync(join(dir, "compositions"), { recursive: true });
-  writeFileSync(join(dir, "index.html"), index({ title: `EP22 ${cid} ${clip.slug}`, dur: D, bg: "#000", hosts: [{ id: "pic" }, { id: "gfx" }, { id: "ovl" }, { id: "cap", kind: "captions" }], audio }));
+  writeFileSync(join(dir, "index.html"), index({ title: `EP23 ${cid} ${clip.slug}`, dur: D, bg: "#000", hosts: [{ id: "pic" }, { id: "gfx" }, { id: "ovl" }, { id: "cap", kind: "captions" }], audio }));
   writeFileSync(join(dir, "compositions/pic.html"), pic);
   writeFileSync(join(dir, "compositions/gfx.html"), gfx);
   writeFileSync(join(dir, "compositions/cap.html"), cap);
   writeFileSync(join(dir, "compositions/ovl.html"), ovl);
   writeFileSync(join(dir, "hyperframes.json"), JSON.stringify({ $schema: "https://hyperframes.heygen.com/schema/hyperframes.json", registry: "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry", paths: { blocks: "compositions", components: "compositions/components", assets: "assets" }, media: { autoProxy: true } }, null, 2) + "\n");
-  writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: `nk-ep22-${cid}`, name: `EP22 ${cid}`, createdAt: "2026-11-21T09:00:00.000Z" }, null, 2) + "\n");
+  writeFileSync(join(dir, "meta.json"), JSON.stringify({ id: `nk-ep23-${cid}`, name: `EP23 ${cid}`, createdAt: "2026-11-21T09:00:00.000Z" }, null, 2) + "\n");
   const link = join(dir, "assets");
   rmSync(link, { recursive: true, force: true });
   symlinkSync("../../shared", link);

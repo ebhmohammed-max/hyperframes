@@ -22,4 +22,5 @@ for (const c of CLIPS) {
 }
 writeFileSync("script/lines.json", JSON.stringify(lines, null, 1));
 writeFileSync("SCRIPT_TA.md", md);
+writeFileSync("script/clips.json", JSON.stringify(CLIPS.map((c) => ({ id: c.id, slug: c.slug, sec: c.sec, title: c.title, ch: c.sec === "HOOK" ? 0 : Number(c.sec.split(" ")[0]) })), null, 1));
 console.log("total", CLIPS.length, "clips", lines.length, "lines", total, "chars", "~" + (total / 15.5 / 60).toFixed(1) + " min");

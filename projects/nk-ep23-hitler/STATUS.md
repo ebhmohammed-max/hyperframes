@@ -6,24 +6,27 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 
 | Part | Script | Narration | Timing | Pictures | Film | On Drive |
 |---|---|---|---|---|---|---|
-| Hook (N01–N02) | done | done, 92.3 s | 0 flagged | 001–010 of 20 made (N01 rows 1–10; rows 011, 012 and all of N02 to do) | not built | narration, B01 |
-| Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | shot list not written | not built | narration |
+| Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | built; render of TITLE, N01, N02 → `out/renders/`; part `EP23_1080p_00_hook_title.mp4` (see Drive table, empty id = not uploaded yet) | narration, B01, B02 |
+| Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | shot rows written (33 rows, 021–053), none generated | `node film/gen.mjs N03 … N10` works (reports missing pictures) | narration |
 | Ch 2 to 12 | not written | | | | | |
 
-Running time so far: 10 min 28 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s).
+Running time so far: 10 min 28 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s). Film lengths: N01 43.5 s, N02 50.8 s, TITLE 12 s, chapter 1 546 s.
 
 ## Next steps
 
-1. Shot list: N01 rows 011–012, N02 (about 8 pictures), chapter 1 (about 30 pictures: looks L and V, refs B, Y, K, F). `shots/counts.json` must list every clip that has rows.
-2. `film/gen.mjs` changes for the long film (not done yet):
-   - chapter card only on a clip that has a `title` (now: every clip after the first); a clip without a title starts like the hook (lead 0.4 s);
-   - hook effects (`HOOK_FX`) and `CARD_BG` are still EP22's: write EP23's;
-   - the EP22 counter pill (`fx.no`, `FACTS`) is unused: remove the `FACTS` import;
-   - a picture held longer than about 9 s is cut into two shots (wide, then a closer crop) at a pause;
-   - `/^N\d\d$/` clip ids stay (N01 … N98).
-3. `film/title.mjs` (title text from `TITLE` in `script/script.mjs`), `film/end.mjs` (uses `N08.mp3` as the end-card voice in EP22: EP23 needs `END.mp3`, the same end-card narration, from the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`, file `N08.mp3`).
-4. `tools/render.sh`, `tools/finish.sh`, `tools/stills.py` still carry EP22's clip lists: make them take a chapter (clip list from `script/lines.json`), one 1080p part per chapter, one gain for the whole film (measure on the hook and chapter 1, then keep).
-5. Then per chapter: script → narration → timing → pictures → render → part to Drive.
+1. Pictures 021–053, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` → `$PY tools/sheet.py a b` → `$PY tools/batch.py <batch> a b` → upload the zip to `images`.
+2. Render chapter 1: `bash tools/render.sh ch 1` as a background process (about 6 s per film second: 55 min, so over two turns: N03–N06, then N07–N10), then `bash tools/finish.sh part 1`, upload.
+3. Chapter 2 (N11–N18) as `script/ch02.mjs`, import it in `script/script.mjs`, `node script/build.mjs`, narration, `$PY script/align.py`.
+4. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
+
+## How the film code works (EP23)
+
+- `film/gen.mjs`: chapter card (2.3 s) only on a clip with a `title`; `CARD_BG` needs one entry per chapter's first clip (`N03: "braunau_inn_evening"`); `HOOK_FX` per hook clip; a picture held over 9.5 s is split into a wide shot and closer crops at pauses; fade to black at the end of the hook and of each chapter; `reuse: [shot names]` on a line shows pictures made for another clip.
+- A `stat` card stays for its whole line: give each number its own line.
+- `script/build.mjs` writes `script/clips.json`; `tools/chclips.py <k>` lists the clips of part k (0 = `N01 N02 TITLE`, 12 ends with `END`).
+- `tools/render.sh <clips…>` or `ch <k>` (skips clips already in `out/renders/`); `tools/finish.sh part <k>` → `out/deliver/EP23_1080p_<NN>_<name>.mp4`; `VB=… bash tools/finish.sh 720 <name> <parts…>` for the 720p copy.
+- One gain for the whole film: `tools/gain.txt` = +5.46 dB (narration measured −19.46 LUFS; target −14). Do not re-measure.
+- `$PY tools/stills.py [clips] --<prefix>` → still sheets; `$PY tools/frames.py video.mp4 out.jpg t1 t2 …` → frames of a render.
 
 ## Drive
 
@@ -33,6 +36,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 |---|---|
 | EP23_narration_N01-N10_voice02.zip (hook and chapter 1) | `1wzvDc2gEA8zSgXoDAsW-CyV326ThswgP` |
 | images/EP23_B01_images_001-010.zip | `1CNvtwG5ktJ8ngQ6p7fvM1oV4k9TVBATp` |
+| images/EP23_B02_images_011-020.zip | `1KH1lDddL-EK0idBP6aKcRnc-Od6HoABM` |
+| EP23_1080p_00_hook_title.mp4 | HOOKID |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
@@ -40,6 +45,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 
 | Batch | Pictures | Result |
 |---|---|---|
+| B02 | 011–020 (N01 rows 11–12, N02) | all usable |
 | B01 | 001–010 (N01) | all usable. Notes in `shots/CAST.md`: 008 figure walks up the steps, 009 extra small stones, 010 hat and a blank dark cloth |
 
 ## After a full wipe

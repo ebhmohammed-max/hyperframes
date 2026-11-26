@@ -127,5 +127,471 @@
   "refs": [
    "A"
   ]
+ },
+ {
+  "n": 13,
+  "clip": "N02",
+  "q": 0,
+  "k": 0,
+  "name": "grave_markers_to_horizon",
+  "look": "O",
+  "file": "EP23_013_N02q00_grave_markers_to_horizon.jpg",
+  "prompt": "An endless field of plain white grave markers in straight rows running to the horizon under a heavy grey sky, wet grass, bare trees far away, the markers blank, no people. Europe after 1945. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 14,
+  "clip": "N02",
+  "q": 1,
+  "k": 0,
+  "name": "rail_track_gatehouse_fog",
+  "look": "X",
+  "file": "EP23_014_N02q01_rail_track_gatehouse_fog.jpg",
+  "prompt": "A single railway track running straight through snow and fog towards a low dark brick gatehouse with a central arch far away, seen from ground level between the rails, empty and silent, no people. Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 15,
+  "clip": "N02",
+  "q": 1,
+  "k": 1,
+  "name": "childrens_shoes_heap",
+  "look": "S",
+  "file": "EP23_015_N02q01_childrens_shoes_heap.jpg",
+  "prompt": "A heap of small worn children's leather shoes of the 1940s lying on a bare stone floor, dust in the light, nothing else. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 16,
+  "clip": "N02",
+  "q": 2,
+  "k": 0,
+  "name": "cradle_mother_hands",
+  "look": "L",
+  "file": "EP23_016_N02q02_cradle_mother_hands.jpg",
+  "prompt": "A wooden cradle beside a small window in a plain room with a tiled stove, the mother's hands resting on the edge of the cradle, a blanket inside, soft daylight, the mother seen only as hands and a dark sleeve. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "K"
+  ]
+ },
+ {
+  "n": 17,
+  "clip": "N02",
+  "q": 2,
+  "k": 1,
+  "name": "boy_sketching_riverbank",
+  "look": "L",
+  "file": "EP23_017_N02q02_boy_sketching_riverbank.jpg",
+  "prompt": "The boy sitting alone on a grassy river bank, seen from behind, drawing on a sheet of paper on his knees, a small town with a church tower across the water in warm evening light. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "B"
+  ]
+ },
+ {
+  "n": 18,
+  "clip": "N02",
+  "q": 3,
+  "k": 0,
+  "name": "backroom_men_silhouettes",
+  "look": "O",
+  "file": "EP23_018_N02q03_backroom_men_silhouettes.jpg",
+  "prompt": "Seen through a half-open door, dark silhouettes of several men in formal coats standing round a table in a smoke-filled back room under one hanging lamp, heads bent together, Germany around 1932, no face visible, no lettering, no emblems, no flags. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 19,
+  "clip": "N02",
+  "q": 3,
+  "k": 1,
+  "name": "crowd_backs_one_way",
+  "look": "X",
+  "file": "EP23_019_N02q03_crowd_backs_one_way.jpg",
+  "prompt": "A dense crowd of ordinary men and women in coats and hats of the 1930s seen from behind, every head turned the same way towards a hard white light far ahead, an uneasy mood. Germany between 1933 and 1945, shown from far and in shadow, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 20,
+  "clip": "N02",
+  "q": 4,
+  "k": 0,
+  "name": "stairs_down_into_dark",
+  "look": "O",
+  "file": "EP23_020_N02q04_stairs_down_into_dark.jpg",
+  "prompt": "A wide stone staircase leading down into darkness, a single lamp at the top, the dark shapes of many people walking down it step by step, seen from above and behind, no face visible, no lettering. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 21,
+  "clip": "N03",
+  "q": 0,
+  "k": 0,
+  "name": "braunau_inn_evening",
+  "look": "L",
+  "file": "EP23_021_N03q00_braunau_inn_evening.jpg",
+  "prompt": "A three-storey plastered inn building on the main street of a small border town at dusk in spring, one upstairs window lit warm, a town gate tower at the end of the street, wet cobbles, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 22,
+  "clip": "N03",
+  "q": 1,
+  "k": 0,
+  "name": "river_border_bridge_mist",
+  "look": "L",
+  "file": "EP23_022_N03q01_river_border_bridge_mist.jpg",
+  "prompt": "A wide river in morning mist with a long iron bridge joining two small towns on opposite banks, a small guard hut at the near end of the bridge, wooded hills behind, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 23,
+  "clip": "N03",
+  "q": 2,
+  "k": 0,
+  "name": "official_coat_cap_on_peg",
+  "look": "S",
+  "file": "EP23_023_N03q02_official_coat_cap_on_peg.jpg",
+  "prompt": "A dark civil servant's uniform coat with plain brass buttons and a plain peaked cap hanging on a wooden peg in a hallway, a walking stick below, no badges. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 24,
+  "clip": "N03",
+  "q": 5,
+  "k": 0,
+  "name": "parish_register_quill",
+  "look": "S",
+  "file": "EP23_024_N03q05_parish_register_quill.jpg",
+  "prompt": "A thick old parish register lying open on a desk beside a quill pen and an inkwell, the pages filled with faded handwriting seen out of focus so that nothing can be read. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 25,
+  "clip": "N04",
+  "q": 0,
+  "k": 0,
+  "name": "father_head_of_table_back",
+  "look": "L",
+  "file": "EP23_025_N04q00_father_head_of_table_back.jpg",
+  "prompt": "A family at supper under an oil lamp, the father seated at the head of the table seen from behind, his broad back filling the foreground, a long pipe on the table, the others small quiet shapes with heads lowered at the far end. The father is a heavy-set man in his sixties in a dark civil-service coat, shown only from behind or as a dark shape, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "F"
+  ]
+ },
+ {
+  "n": 26,
+  "clip": "N04",
+  "q": 3,
+  "k": 0,
+  "name": "cart_furniture_country_road",
+  "look": "L",
+  "file": "EP23_026_N04q03_cart_furniture_country_road.jpg",
+  "prompt": "A horse cart piled high with furniture and trunks moving along a muddy country road towards a village with a church tower, a family walking behind it as small figures seen from behind, overcast sky. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 27,
+  "clip": "N04",
+  "q": 4,
+  "k": 0,
+  "name": "monastery_choir_boys_back",
+  "look": "L",
+  "file": "EP23_027_N04q04_monastery_choir_boys_back.jpg",
+  "prompt": "The inside of a baroque monastery church lit by candles, a row of choir boys in white surplices standing in the choir stalls seen from behind, facing the high altar far away, no emblems. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 28,
+  "clip": "N04",
+  "q": 5,
+  "k": 0,
+  "name": "boys_war_game_meadow",
+  "look": "L",
+  "file": "EP23_028_N04q05_boys_war_game_meadow.jpg",
+  "prompt": "A group of village boys playing at soldiers in a summer meadow with sticks for rifles, the boy out in front pointing ahead and leading the charge, all seen from behind and from a distance. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "B"
+  ]
+ },
+ {
+  "n": 29,
+  "clip": "N04",
+  "q": 6,
+  "k": 0,
+  "name": "small_grave_boy_winter",
+  "look": "L",
+  "file": "EP23_029_N04q06_small_grave_boy_winter.jpg",
+  "prompt": "The boy standing alone in the snow before a small fresh grave with a plain wooden cross in a village churchyard, seen from behind, a low stone wall and bare trees, grey winter light, the cross blank. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "B"
+  ]
+ },
+ {
+  "n": 30,
+  "clip": "N05",
+  "q": 0,
+  "k": 0,
+  "name": "city_school_steps_boy",
+  "look": "L",
+  "file": "EP23_030_N05q00_city_school_steps_boy.jpg",
+  "prompt": "A large stern grey school building on a city street, the boy standing small at the foot of its wide steps with a leather satchel on his back, seen from behind, other pupils only as distant shapes. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "B"
+  ]
+ },
+ {
+  "n": 31,
+  "clip": "N05",
+  "q": 1,
+  "k": 0,
+  "name": "customs_office_clerks_rows",
+  "look": "L",
+  "file": "EP23_031_N05q01_customs_office_clerks_rows.jpg",
+  "prompt": "A gloomy government office hall seen from the doorway: rows of clerks bent over ledgers at high wooden desks, seen from behind, barred windows, dust in the light, stacks of paper with no readable writing. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 32,
+  "clip": "N05",
+  "q": 4,
+  "k": 0,
+  "name": "classroom_boy_standing_desk",
+  "look": "L",
+  "file": "EP23_032_N05q04_classroom_boy_standing_desk.jpg",
+  "prompt": "A schoolroom of around 1900 seen from the back row: rows of boys at wooden desks seen from behind, the boy standing up at his desk with his arms folded, the teacher only a dark shape beside a blank blackboard far away. The boy is slight, with dark hair cut short at the sides, in a plain jacket, knee breeches and boots of around 1900; he is shown only from behind or as a small figure far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "B"
+  ]
+ },
+ {
+  "n": 33,
+  "clip": "N05",
+  "q": 5,
+  "k": 0,
+  "name": "wall_map_classroom_pointer",
+  "look": "S",
+  "file": "EP23_033_N05q05_wall_map_classroom_pointer.jpg",
+  "prompt": "A large old cloth wall map of central Europe hanging on a classroom wall, its countries in faded colours with no names or lettering, a wooden pointer leaning against it, chalk dust in the light. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 34,
+  "clip": "N05",
+  "q": 6,
+  "k": 0,
+  "name": "inn_parlour_glass_empty_chair",
+  "look": "L",
+  "file": "EP23_034_N05q06_inn_parlour_glass_empty_chair.jpg",
+  "prompt": "An empty village inn parlour in the morning: a single glass of red wine on a wooden table, a chair pushed back at an angle, a folded newspaper fallen on the floorboards with its print out of focus, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 35,
+  "clip": "N06",
+  "q": 2,
+  "k": 0,
+  "name": "youth_cane_promenade_evening",
+  "look": "L",
+  "file": "EP23_035_N06q02_youth_cane_promenade_evening.jpg",
+  "prompt": "The youth strolling alone along the main street of a provincial city in the evening, seen from behind, among distant passers-by, shop windows glowing, a tram far away. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 36,
+  "clip": "N06",
+  "q": 3,
+  "k": 0,
+  "name": "architecture_sketches_desk",
+  "look": "S",
+  "file": "EP23_036_N06q03_architecture_sketches_desk.jpg",
+  "prompt": "A desk covered with loose sheets of pencil and ink drawings of grand buildings, a bridge and a concert hall, a pencil, a ruler and a candle stub, the drawings carry no writing. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 37,
+  "clip": "N06",
+  "q": 4,
+  "k": 0,
+  "name": "young_woman_far_youth_watching",
+  "look": "L",
+  "file": "EP23_037_N06q04_young_woman_far_youth_watching.jpg",
+  "prompt": "A young woman in a light dress and wide hat walking beside her mother along a sunlit bridge street, seen from far away and from behind, in the foreground the youth standing half hidden at a corner in shadow, watching, seen from behind. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 38,
+  "clip": "N06",
+  "q": 5,
+  "k": 0,
+  "name": "blank_ticket_hand_house_plan",
+  "look": "S",
+  "file": "EP23_038_N06q05_blank_ticket_hand_house_plan.jpg",
+  "prompt": "A hand holding a small blank paper ticket above a table on which lies a pencil floor plan of a large apartment, a coin beside it, no writing on the ticket or the plan, no head in the frame. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 39,
+  "clip": "N07",
+  "q": 0,
+  "k": 0,
+  "name": "two_youths_river_path_dusk",
+  "look": "L",
+  "file": "EP23_039_N07q00_two_youths_river_path_dusk.jpg",
+  "prompt": "Two youths walking away along a river path at dusk, seen from behind, the youth with the cane talking with a wide sweep of his free arm, his friend beside him listening with hands in his pockets, city lights beginning across the water. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 40,
+  "clip": "N07",
+  "q": 1,
+  "k": 0,
+  "name": "hilltop_night_stars_two_figures",
+  "look": "L",
+  "file": "EP23_040_N07q01_hilltop_night_stars_two_figures.jpg",
+  "prompt": "A bare hilltop above a small city at night under a sky full of stars, the youth standing at the edge with both hands spread wide as he speaks to the dark, his friend a few steps behind him, both tiny dark silhouettes, the lights of the city far below. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 41,
+  "clip": "N07",
+  "q": 4,
+  "k": 0,
+  "name": "vienna_ring_summer_youth_small",
+  "look": "O",
+  "file": "EP23_041_N07q04_vienna_ring_summer_youth_small.jpg",
+  "prompt": "Vienna in May 1906: the wide Ring boulevard in bright sun with the great opera house, electric trams and horse carriages, the youth very small in the foreground, seen from behind, looking up at the building. No signboards, no lettering of any kind, no flags, no emblems. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 42,
+  "clip": "N07",
+  "q": 5,
+  "k": 0,
+  "name": "doctor_bag_consulting_room",
+  "look": "L",
+  "file": "EP23_042_N07q05_doctor_bag_consulting_room.jpg",
+  "prompt": "A doctor's consulting room around 1907: a worn leather medical bag and a stethoscope on a desk in the foreground, behind them the doctor in a dark coat seen from behind speaking to the mother, who sits in shadow by the window with her head bowed. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "K"
+  ]
+ },
+ {
+  "n": 43,
+  "clip": "N08",
+  "q": 0,
+  "k": 0,
+  "name": "station_platform_departure",
+  "look": "L",
+  "file": "EP23_043_N08q00_station_platform_departure.jpg",
+  "prompt": "A provincial railway platform in early autumn, steam drifting from a waiting train, the youth climbing into a carriage with a suitcase and a large flat portfolio under his arm, seen from behind, a woman in black small on the platform behind him. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 44,
+  "clip": "N08",
+  "q": 1,
+  "k": 0,
+  "name": "academy_exam_hall_drawing_boards",
+  "look": "O",
+  "file": "EP23_044_N08q01_academy_exam_hall_drawing_boards.jpg",
+  "prompt": "October 1907, the high studio hall of an art academy: rows of young men bent over large drawing boards seen from behind, plaster casts of antique statues along the wall, tall north windows, charcoal dust, the drawings only vague grey shapes. No lettering of any kind, no face visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 45,
+  "clip": "N08",
+  "q": 5,
+  "k": 0,
+  "name": "rented_room_youth_window",
+  "look": "O",
+  "file": "EP23_045_N08q05_rented_room_youth_window.jpg",
+  "prompt": "A small bare rented room in a city at dusk, the youth sitting on the edge of an iron bed, seen from behind, looking out of the window at wet roofs and chimneys, a large portfolio leaning unopened against the wall. Vienna, autumn 1907, no lettering. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y"
+  ]
+ },
+ {
+  "n": 46,
+  "clip": "N08",
+  "q": 7,
+  "k": 0,
+  "name": "sickroom_youth_scrubbing_floor",
+  "look": "L",
+  "file": "EP23_046_N08q07_sickroom_youth_scrubbing_floor.jpg",
+  "prompt": "A small flat's kitchen in winter with a bed set up near the stove, the mother lying in the bed in deep shadow at the back, turned away, in the foreground the youth in shirtsleeves on his knees scrubbing the wooden floor with a brush and bucket, seen from behind. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y",
+   "K"
+  ]
+ },
+ {
+  "n": 47,
+  "clip": "N09",
+  "q": 0,
+  "k": 0,
+  "name": "doctor_at_bedside_back",
+  "look": "L",
+  "file": "EP23_047_N09q00_doctor_at_bedside_back.jpg",
+  "prompt": "A dim sickroom lit by one oil lamp: the doctor in a dark coat seen from behind bending over the bed, the patient hidden by him, at the foot of the bed the youth's two hands gripping the iron bed rail, only his hands and sleeves in the frame. The youth is thin, about seventeen, with dark hair, in a neat dark coat and hat with a slim walking cane, shown only from behind or far away, never the face. The mother is a quiet woman in her forties in a plain dark high-collared dress, her hair pinned up, shown only from behind, in shadow or as hands, never the face. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Y",
+   "K"
+  ]
+ },
+ {
+  "n": 48,
+  "clip": "N09",
+  "q": 1,
+  "k": 0,
+  "name": "christmas_tree_candles_empty_bed",
+  "look": "L",
+  "file": "EP23_048_N09q01_christmas_tree_candles_empty_bed.jpg",
+  "prompt": "A small room before dawn: a little Christmas tree with lit candles on a side table, beside it a neatly made empty bed with a folded blanket and an empty chair, frost on the window, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 49,
+  "clip": "N09",
+  "q": 3,
+  "k": 0,
+  "name": "funeral_procession_snow_village",
+  "look": "L",
+  "file": "EP23_049_N09q03_funeral_procession_snow_village.jpg",
+  "prompt": "A small funeral procession crossing a snowy village square towards a church: a horse-drawn hearse and a few mourners in black walking behind it, seen from far and from behind, grey sky. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 50,
+  "clip": "N09",
+  "q": 4,
+  "k": 0,
+  "name": "portrait_frame_glare_desk",
+  "look": "S",
+  "file": "EP23_050_N09q04_portrait_frame_glare_desk.jpg",
+  "prompt": "A small oval silver picture frame standing on a bare desk beside a lamp, seen at an angle so that the lamp's glare on the glass hides the photograph completely, nothing else on the desk. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 51,
+  "clip": "N10",
+  "q": 2,
+  "k": 0,
+  "name": "empty_flat_trunk_bundle",
+  "look": "L",
+  "file": "EP23_051_N10q02_empty_flat_trunk_bundle.jpg",
+  "prompt": "An emptied flat in winter light: bare floorboards and pale squares on the wallpaper where pictures hung, a single travelling trunk and a tied bundle of drawings standing by the open door, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 52,
+  "clip": "N10",
+  "q": 3,
+  "k": 0,
+  "name": "night_train_snow_plain",
+  "look": "L",
+  "file": "EP23_052_N10q03_night_train_snow_plain.jpg",
+  "prompt": "A steam train crossing a snow-covered plain at dusk, its lit carriage windows a line of small yellow squares, smoke trailing, the faint glow of a great city on the horizon ahead, no people. A small town in Upper Austria around 1900: plastered houses with steep roofs, cobbled lanes, oil lamps and candles, horse carts, clothes of the period, no signboards, no lettering of any kind, no flags, no emblems. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 53,
+  "clip": "N10",
+  "q": 3,
+  "k": 1,
+  "name": "vienna_station_arrival_lone",
+  "look": "V",
+  "file": "EP23_053_N10q03_vienna_station_arrival_lone.jpg",
+  "prompt": "The vast iron and glass hall of a great railway station in winter, crowds of travellers as dark shapes, in the middle the young man standing still with a trunk at his feet, small in the frame and seen from behind. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
  }
 ]
