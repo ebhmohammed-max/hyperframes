@@ -593,5 +593,396 @@
   "refs": [
    "A"
   ]
+ },
+ {
+  "n": 54,
+  "clip": "N11",
+  "q": 1,
+  "k": 0,
+  "name": "tenement_yard_palace_beyond",
+  "look": "O",
+  "file": "EP23_054_N11q01_tenement_yard_palace_beyond.jpg",
+  "prompt": "Vienna around 1908 in late winter: a narrow dark tenement courtyard with washing lines, stacked handcarts and a water pump in the foreground, and through its archway, far off in pale sunlight, the dome and statues of a grand palace, a few poor people in the yard seen from behind, no lettering anywhere. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 55,
+  "clip": "N11",
+  "q": 2,
+  "k": 0,
+  "name": "shared_room_piano_two_beds",
+  "look": "O",
+  "file": "EP23_055_N11q02_shared_room_piano_two_beds.jpg",
+  "prompt": "A small shabby rented room in Vienna in 1908 lit by one paraffin lamp: two narrow beds against the walls, a washstand, and a black grand piano taking up most of the floor between them, loose sheets of building drawings on one bed, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 56,
+  "clip": "N11",
+  "q": 3,
+  "k": 0,
+  "name": "conservatory_stairs_student_back",
+  "look": "O",
+  "file": "EP23_056_N11q03_conservatory_stairs_student_back.jpg",
+  "prompt": "The grand marble staircase of a music conservatory in Vienna around 1908, one young man in a neat dark suit climbing the stairs seen from behind, a leather music case in his hand, morning light from tall windows, nobody else. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 57,
+  "clip": "N11",
+  "q": 5,
+  "k": 0,
+  "name": "room_quarrel_two_silhouettes",
+  "look": "O",
+  "file": "EP23_057_N11q05_room_quarrel_two_silhouettes.jpg",
+  "prompt": "A small lamp-lit rented room at night in 1908: two young men as dark silhouettes, one seated at a grand piano half turned to listen, the other standing in the middle of the room seen from behind with one arm flung out, his shadow thrown huge on the wall, no face visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 58,
+  "clip": "N12",
+  "q": 0,
+  "k": 0,
+  "name": "coins_in_saucer_table",
+  "look": "S",
+  "file": "EP23_058_N12q00_coins_in_saucer_table.jpg",
+  "prompt": "A small heap of old silver and copper coins with worn blank faces in a chipped saucer on a bare wooden table. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 59,
+  "clip": "N12",
+  "q": 1,
+  "k": 0,
+  "name": "opera_standing_room_back",
+  "look": "O",
+  "file": "EP23_059_N12q01_opera_standing_room_back.jpg",
+  "prompt": "The inside of a grand opera house around 1908 during a performance, seen from the dark standing room at the very back: a row of standing men as black silhouettes in the foreground, beyond them tiers of gilded boxes and the small far glowing stage. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 60,
+  "clip": "N12",
+  "q": 2,
+  "k": 0,
+  "name": "night_plans_drawings_on_floor",
+  "look": "O",
+  "file": "EP23_060_N12q02_night_plans_drawings_on_floor.jpg",
+  "prompt": "A lamp-lit rented room late at night in 1908: large sheets with ink drawings of buildings spread across the floor and over a closed piano lid, a thin young man in shirtsleeves kneeling over them seen from behind, his shadow on the wall, nobody else. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 61,
+  "clip": "N12",
+  "q": 3,
+  "k": 0,
+  "name": "platform_farewell_summer_lone",
+  "look": "O",
+  "file": "EP23_061_N12q03_platform_farewell_summer_lone.jpg",
+  "prompt": "A great city railway station platform in summer 1908: a train pulling out in steam and sunlight, one thin young man in a dark coat standing alone on the platform watching it go, seen from behind and small in the frame, nobody else near him. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 62,
+  "clip": "N12",
+  "q": 5,
+  "k": 0,
+  "name": "room_half_empty_open_door",
+  "look": "O",
+  "file": "EP23_062_N12q05_room_half_empty_open_door.jpg",
+  "prompt": "A small rented room in grey November light, half emptied: one bed stripped to its bare mattress, a bare nail on the wall above it, a grand piano still standing, the door left open onto a dark landing, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 63,
+  "clip": "N13",
+  "q": 0,
+  "k": 0,
+  "name": "blank_form_pen_inkwell",
+  "look": "S",
+  "file": "EP23_063_N13q00_blank_form_pen_inkwell.jpg",
+  "prompt": "A printed official form with empty ruled boxes and no writing at all lying on a worn wooden counter beside a steel pen, an inkwell and a rubber stamp. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 64,
+  "clip": "N13",
+  "q": 1,
+  "k": 0,
+  "name": "tiny_room_window_brick_wall",
+  "look": "O",
+  "file": "EP23_064_N13q01_tiny_room_window_brick_wall.jpg",
+  "prompt": "A tiny bare room in a poor Vienna lodging house around 1909: one iron bed, one chair, a coat on a nail, and a window that looks straight onto a blank brick wall an arm's length away, grey light, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 65,
+  "clip": "N13",
+  "q": 4,
+  "k": 0,
+  "name": "park_bench_sleeper_dawn",
+  "look": "O",
+  "file": "EP23_065_N13q04_park_bench_sleeper_dawn.jpg",
+  "prompt": "Vienna in autumn 1909 at dawn: the young man asleep sitting hunched on a park bench under bare trees, fallen leaves and mist, one gas lamp still lit, seen from behind and from far away, nobody else. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 66,
+  "clip": "N13",
+  "q": 4,
+  "k": 1,
+  "name": "all_night_cafe_corner_sleeper",
+  "look": "O",
+  "file": "EP23_066_N13q04_all_night_cafe_corner_sleeper.jpg",
+  "prompt": "An all-night coffee house in Vienna around 1909 in the small hours: marble tables, bentwood chairs, dim gas light, the young man slumped asleep at a corner table with his head on his folded arms, seen from behind, a waiter far away as a dark shape. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 67,
+  "clip": "N13",
+  "q": 4,
+  "k": 2,
+  "name": "convent_gate_soup_queue",
+  "look": "V",
+  "file": "EP23_067_N13q04_convent_gate_soup_queue.jpg",
+  "prompt": "A short queue of poor men holding tin cups at the side gate of a convent in grey morning light, a nun far away as a small dark shape ladling soup from a kettle, seen from across the street. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 68,
+  "clip": "N14",
+  "q": 1,
+  "k": 0,
+  "name": "two_cots_two_men_back",
+  "look": "V",
+  "file": "EP23_068_N14q01_two_cots_two_men_back.jpg",
+  "prompt": "Two narrow iron cots side by side in a vast dim dormitory at night, two men sitting on the edges of the cots talking, both seen from behind as dark shapes against a far gas light, one of them the young man. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 69,
+  "clip": "N14",
+  "q": 2,
+  "k": 0,
+  "name": "two_brushes_on_plank",
+  "look": "S",
+  "file": "EP23_069_N14q02_two_brushes_on_plank.jpg",
+  "prompt": "A broad worn house-painter's brush and a fine thin artist's watercolour brush lying side by side on a bare paint-spattered plank. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 70,
+  "clip": "N14",
+  "q": 3,
+  "k": 0,
+  "name": "painted_cards_fan_on_table",
+  "look": "S",
+  "file": "EP23_070_N14q03_painted_cards_fan_on_table.jpg",
+  "prompt": "A fan of small hand-painted watercolour cards showing churches, a columned public building and old city streets with no figures in them, spread on a plain table, no writing on any card. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 71,
+  "clip": "N14",
+  "q": 5,
+  "k": 0,
+  "name": "watercolour_church_half_done",
+  "look": "S",
+  "file": "EP23_071_N14q05_watercolour_church_half_done.jpg",
+  "prompt": "A half-finished small watercolour of a baroque church on an empty street with no figures, pinned to a board beside an open tin paint box, a water glass and a printed engraving of the same church used as the model, no writing. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 72,
+  "clip": "N14",
+  "q": 6,
+  "k": 0,
+  "name": "mens_home_building_winter",
+  "look": "V",
+  "file": "EP23_072_N14q06_mens_home_building_winter.jpg",
+  "prompt": "A large plain new five-storey brick hostel building on a wide street at the edge of the city on a winter evening, rows of identical small windows lit, a few men going in at the door far away seen from behind. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 73,
+  "clip": "N15",
+  "q": 0,
+  "k": 0,
+  "name": "cubicle_corridor_empty",
+  "look": "O",
+  "file": "EP23_073_N15q00_cubicle_corridor_empty.jpg",
+  "prompt": "Inside a men's hostel in Vienna around 1910: a long corridor of identical narrow sleeping cubicles divided by wooden partitions, each with an iron bed and a small table, bare electric bulbs overhead, clean and bleak, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 74,
+  "clip": "N15",
+  "q": 2,
+  "k": 0,
+  "name": "reading_room_window_table",
+  "look": "V",
+  "file": "EP23_074_N15q02_reading_room_window_table.jpg",
+  "prompt": "The reading room of a men's hostel in daylight: long tables with men bent over newspapers seen from behind, and at a small table by the tall window the young man bent over a small painting, seen from behind as a dark shape against the bright window, the newspapers blank grey with no lettering. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 75,
+  "clip": "N15",
+  "q": 3,
+  "k": 0,
+  "name": "reading_room_figure_on_his_feet",
+  "look": "V",
+  "file": "EP23_075_N15q03_reading_room_figure_on_his_feet.jpg",
+  "prompt": "A hostel reading room in the evening under electric lamps: the young man on his feet beside his table with one hand chopping the air in mid-speech, seen from behind as a dark shape, a brush dropped on the table, the seated men around him bent over their newspapers and not looking up, the newspapers blank grey with no lettering. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 76,
+  "clip": "N15",
+  "q": 4,
+  "k": 0,
+  "name": "police_counter_complaint_back",
+  "look": "V",
+  "file": "EP23_076_N15q04_police_counter_complaint_back.jpg",
+  "prompt": "A police station office around 1910: a high wooden counter with a large open ledger with blank pages and an inkstand, an official far behind it as a dark shape, one man in a long overcoat standing at the counter seen from behind. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 77,
+  "clip": "N15",
+  "q": 5,
+  "k": 0,
+  "name": "frame_shop_window_evening",
+  "look": "V",
+  "file": "EP23_077_N15q05_frame_shop_window_evening.jpg",
+  "prompt": "The window of a small picture-frame shop on a Vienna side street on a winter evening: gilt frames and a few small watercolours of city views behind the glass, warm light inside, the dark shape of the shopkeeper within, the shop front with no lettering at all. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 78,
+  "clip": "N16",
+  "q": 0,
+  "k": 0,
+  "name": "old_lane_passersby_dusk",
+  "look": "V",
+  "file": "EP23_078_N16q00_old_lane_passersby_dusk.jpg",
+  "prompt": "A narrow old lane in the inner city of Vienna at winter dusk, a few passers-by in long dark coats and hats far down the lane seen from behind, the young man small in the foreground standing still and watching them go, seen from behind. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 79,
+  "clip": "N16",
+  "q": 2,
+  "k": 0,
+  "name": "shopping_street_from_above",
+  "look": "O",
+  "file": "EP23_079_N16q02_shopping_street_from_above.jpg",
+  "prompt": "A busy main street in Vienna around 1910 on a grey day seen from an upper window: trams, horse cabs and crowds of ordinary people of every class in coats and hats, all far away and seen from above and behind, shop awnings with no lettering, no flags. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 80,
+  "clip": "N16",
+  "q": 3,
+  "k": 0,
+  "name": "city_hall_tower_evening_crowd",
+  "look": "V",
+  "file": "EP23_080_N16q03_city_hall_tower_evening_crowd.jpg",
+  "prompt": "The tall gothic tower of a city hall at dusk seen from far across a wide square, a crowd of small dark figures gathered below a tiny lit speaker's platform far away, gas lamps, no flags, no banners. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 81,
+  "clip": "N16",
+  "q": 5,
+  "k": 0,
+  "name": "kiosk_pamphlets_blank",
+  "look": "V",
+  "file": "EP23_081_N16q05_kiosk_pamphlets_blank.jpg",
+  "prompt": "A street newspaper kiosk in winter: bundles of cheap pamphlets and newspapers with blank grey pages hanging from clips, a man's gloved hand reaching for one, no head in the frame, no lettering anywhere. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 82,
+  "clip": "N17",
+  "q": 0,
+  "k": 0,
+  "name": "parliament_gallery_uproar",
+  "look": "O",
+  "file": "EP23_082_N17q00_parliament_gallery_uproar.jpg",
+  "prompt": "The chamber of a grand parliament around 1910 seen from the high visitors' gallery: far below, curved rows of desks in uproar, tiny dark figures on their feet waving papers, desk lids raised, and in the foreground the dark shoulders of one watcher leaning on the gallery rail, seen from behind, no flags, no emblems, no lettering. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 83,
+  "clip": "N17",
+  "q": 3,
+  "k": 0,
+  "name": "cubicle_night_figure_on_bed",
+  "look": "V",
+  "file": "EP23_083_N17q03_cubicle_night_figure_on_bed.jpg",
+  "prompt": "A narrow hostel sleeping cubicle at night under one bare electric bulb: the young man sitting on the edge of the iron bed with his back to us, his overcoat on a nail, a small table with a tin paint box, nobody else. The young man is thin, about twenty, with dark unkempt hair grown over his collar, in a worn dark overcoat too long for him; he is shown only from behind, from far away or as a dark silhouette, never the face. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "A"
+  ]
+ },
+ {
+  "n": 84,
+  "clip": "N17",
+  "q": 4,
+  "k": 0,
+  "name": "hostel_dining_hall_hundreds",
+  "look": "V",
+  "file": "EP23_084_N17q04_hostel_dining_hall_hundreds.jpg",
+  "prompt": "A huge hostel dining hall at supper seen from high up at one end: hundreds of men at long tables, all seen from behind or far away, steam rising from soup kettles, bare electric lamps. Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, no signboards, no lettering of any kind, no flags, no emblems, people only from behind, far away or as dark silhouettes, no face clearly visible. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 85,
+  "clip": "N17",
+  "q": 5,
+  "k": 0,
+  "name": "banknotes_coins_dark_desk",
+  "look": "S",
+  "file": "EP23_085_N17q05_banknotes_coins_dark_desk.jpg",
+  "prompt": "A small stack of old banknotes with blank faces held by a paper band beside a heap of gold and silver coins with worn blank faces on a dark desk. A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 86,
+  "clip": "N18",
+  "q": 1,
+  "k": 0,
+  "name": "barracks_gate_recruits_far",
+  "look": "O",
+  "file": "EP23_086_N18q01_barracks_gate_recruits_far.jpg",
+  "prompt": "An Austrian barracks gate around 1910 on a grey morning: a line of young men in civilian clothes waiting to be called in, seen from far across the road and from behind, a plain sentry box, a high wall, no flags, no emblems, no lettering. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 87,
+  "clip": "N18",
+  "q": 2,
+  "k": 0,
+  "name": "train_spring_fields_mountains",
+  "look": "O",
+  "file": "EP23_087_N18q02_train_spring_fields_mountains.jpg",
+  "prompt": "May 1913: a small steam train crossing bright green spring fields towards a line of distant snow mountains under a clear sky, seen from a hillside, tiny in the wide landscape, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 88,
+  "clip": "N18",
+  "q": 3,
+  "k": 0,
+  "name": "munich_attic_room_dormer",
+  "look": "O",
+  "file": "EP23_088_N18q03_munich_attic_room_dormer.jpg",
+  "prompt": "Munich in 1913: a small tidy attic room above a tailor's workshop, a sloping ceiling, an iron bed, a table with a tin paint box under the dormer window, and through the window sunlit roofs and two round-capped church towers far away, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 89,
+  "clip": "N18",
+  "q": 5,
+  "k": 0,
+  "name": "munich_square_painter_stool",
+  "look": "O",
+  "file": "EP23_089_N18q05_munich_square_painter_stool.jpg",
+  "prompt": "Munich in summer 1913: a thin young man in a dark suit and hat sitting alone on a folding stool at the edge of a wide sunny square, painting a small picture of a monumental stone gateway with columns, seen from behind, passers-by far away, no lettering, no flags. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 90,
+  "clip": "N18",
+  "q": 6,
+  "k": 0,
+  "name": "storm_clouds_over_city_roofs",
+  "look": "O",
+  "file": "EP23_090_N18q06_storm_clouds_over_city_roofs.jpg",
+  "prompt": "Summer 1914: heavy black storm clouds piling up over the roofs and church towers of a central European city, the last low sunlight on the rooftops, a flock of birds scattering, no people. Painted-realism concept art, photographic realism like a still from a period film, not a cartoon and no drawn outlines, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, 35mm film grain. No readable writing anywhere. No text, no captions, no watermark."
  }
 ]
