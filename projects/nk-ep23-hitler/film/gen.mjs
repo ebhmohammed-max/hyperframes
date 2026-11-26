@@ -71,7 +71,7 @@ const HOLD = 9.5;
 // EP23, second review ("make it feel like a film"): the picture runs in a 2.2:1 widescreen frame. Black bars of BAR px top and bottom;
 // the evidence tag sits inside the top bar, captions sit just above the bottom bar like film subtitles.
 const BAR = 104;
-const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36 }; // px down, at most about BAR − 20
+const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36, father_mother_newborn_parlour: 50 }; // px down, at most about BAR − 20
 const PUNCH = [
   { o: "34% 46%", a: [1.26, 0, 0], b: [1.33, 0, 0] },
   { o: "66% 52%", a: [1.33, 0, 0], b: [1.26, 0, 0] },
@@ -152,8 +152,13 @@ export function build(cid, opt = {}) {
   for (const s of shots) { const dy = SHIFT[(SHOTS.find((x) => x.n === Number(s.plate)) || {}).name]; if (dy) { s.a = [s.a[0], s.a[1], s.a[2] + dy]; s.b = [s.b[0], s.b[1], s.b[2] + dy]; } }
   const missing = SHOTS.filter((s) => s.clip === cid && !existsSync(join(ROOT, "out/img", pad3(s.n) + ".jpg"))).map((s) => pad3(s.n));
   // EP17: the hook cuts harder (short zoom-ins inside a line); the chapters keep the soft fades
-  const P = buildShots(shots, { trans: (i, s) => (isHook ? (s.cut ? { type: i % 2 ? "zoom" : "fade", d: 0.2 } : { type: "fade", d: 0.32 }) : s.cut ? { type: "fade", d: 0.24 } : { type: "fade", d: 0.5 }) });
-  const G = grain("p-grain", D, rng(11 + ci), { opacity: 0.1 });
+  const P = buildShots(shots, { trans: (i, s) => (isHook ? (s.cut ? { type: i % 2 ? "zoom" : "fade", d: 0.2 } : { type: "fade", d: 0.32 }) : s.cut ? { type: "fade", d: 0.5 } : { type: "fade", d: 0.9 }) }); // chapters: long film dissolves
+  const G = grain("p-grain", D, rng(11 + ci), { opacity: 0.15, fps: 24 });
+  // film look: a faint projector flicker (a black layer whose opacity jumps a little, 12 times a second)
+  { const fr = rng(501 + ci), T = Array.from({ length: 36 }, () => Math.round(fr() * fr() * 55) / 1000);
+    G.css += `\n    #p-flick { position: absolute; inset: 0; z-index: 61; background: #000; opacity: 0; pointer-events: none; }`;
+    G.html += `    <div id="p-flick" data-layout-ignore></div>\n`;
+    G.js += `      { const F = ${JSON.stringify(T)}; for (let f = 0; f < ${Math.ceil(D * 12)}; f++) tl.set("#p-flick", { opacity: F[f % 36] }, f / 12); }\n`; }
 
   // chapter card
   let cardCss = "", cardHtml = "", cardJs = "";
@@ -309,6 +314,7 @@ ${G.html}${cardHtml}${fadeOut ? `    <div id="p-out" class="clip" data-start="${
 
   // ── sound: narration, plus effects in the hook only
   const audio = [{ id: "vo", src: `assets/vo/${cid}.mp3`, start: lead, dur: r(Math.min(AL.dur, aEnd)), vol: 1 }];
+  audio.push({ id: "amb", src: "assets/sfx/room-tone.mp3", start: 0, dur: r(D - 0.02), vol: 0.3, mstart: 0 }); // low room tone under every clip (file: 100 s, −30 dB)
   if (HOOK_FX[cid])
     for (const [q, name, vol, where] of HOOK_FX[cid]) {
       const w = win.find((x) => x.q === q); if (!w) continue;

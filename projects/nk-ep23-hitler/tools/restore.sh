@@ -34,13 +34,14 @@ print("restored redo", sys.argv[1], len(z.namelist()))
 PY
   rm -f "$z"
 done
-if [ -f $GD/EP23_cast.zip ]; then python3 - "$GD/EP23_cast.zip" "$ST" <<'PY'
+# cast zips: EP23_cast.zip, then EP23_cast_v2.zip ... (the later one wins)
+for CZ in $(ls $GD/EP23_cast*.zip 2>/dev/null | sort); do python3 - "$CZ" "$ST" <<'PY'
 import sys, zipfile, os
 z = zipfile.ZipFile(sys.argv[1])
 for n in z.namelist():
     if n.endswith(".jpg"): open(f"{sys.argv[2]}/cast/" + os.path.basename(n), "wb").write(z.read(n))
 PY
-rm -f $GD/EP23_cast.zip; fi
+rm -f "$CZ"; done
 PY=/tmp/nkvenv/bin/python
 last=$(ls $ST/raw | tail -1 | cut -c1-3); last=$((10#$last))
 for a in $(seq 1 10 $last); do b=$((a+9)); $PY tools/sheet.py $a $b 2>/dev/null | grep -v "^size" || true; done

@@ -21,12 +21,12 @@ LOOK = {
 REF = {
  "A": "The young man is the same person as in the reference portrait: Adolf Hitler at twenty, in Vienna in 1909: boyish and clearly only twenty, with smooth unlined skin, thin and pale with hollow cheeks, a long narrow face, pale blue staring eyes, dark brown hair grown long over his collar with a lock falling across the forehead, a sparse patchy first beard on the chin and a thin moustache, in a worn dark overcoat too long for him.",
  "B": "The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900.",
- "Y": "The youth is the same person as in the reference portrait: Adolf Hitler at seventeen, in Linz in 1906: thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, the first thin moustache, neatly dressed in a dark coat; out of doors he wears a black broad-brimmed hat and carries a slim black walking cane unless the scene says otherwise.",
+ "Y": "The youth is the same person as in the reference pictures (a close view of his face and the full figure): Adolf Hitler at seventeen, in Linz in 1906: boyish, clearly still in his teens, with smooth young skin, thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, only a faint thin first moustache, neatly dressed in a dark coat; out of doors he wears a black broad-brimmed hat and carries a slim black walking cane unless the scene says otherwise.",
  "H": "The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning.",
  "K": "The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress.",
  "F": "The father is the same man as in the reference portrait: a heavy-set stern man in his sixties, bald on top, with a big grey moustache and side-whiskers, in a dark civil-service uniform coat with plain brass buttons.",
 }
-REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": "Y.jpg", "H": "H_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
+REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": ["Y18.jpg", "A18.jpg"], "H": "H_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
 lines = json.load(open("script/lines.json", encoding="utf8"))
 cap = {(l["clip"], l["q"]): l["cap"] for l in lines}
 counts = json.load(open("shots/counts.json"))
@@ -44,7 +44,7 @@ for raw in open("shots/shots.txt", encoding="utf8"):
     r_ = {"n": n, "clip": clip, "q": q, "k": per[(clip, q)] - 1, "name": name, "look": look,
           "file": f"EP23_{n:03d}_{clip}q{q:02d}_{name}.jpg",
           "prompt": f"{subj[0].upper()+subj[1:]}. " + "".join(REF[k] + " " for k in refs) + (setting + ". " if setting else "") + (LOOK[look][3] if len(LOOK[look]) > 3 else TAIL)}
-    if refs: r_["refs"] = refs; r_["images"] = ["google_drive/ep23_pics/cast/" + REFIMG[k] for k in refs]
+    if refs: r_["refs"] = refs; r_["images"] = ["google_drive/ep23_pics/cast/" + f for k in refs for f in ([REFIMG[k]] if isinstance(REFIMG[k], str) else REFIMG[k])]
     rows.append(r_)
 bad = 0
 for clip, cs in counts.items():

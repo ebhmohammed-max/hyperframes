@@ -6,10 +6,11 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 
 - **February:** the voice mispronounced "பிப்ரவரி". The spoken text now says "February" in English (N10, N11, N14 spoken again, aligned, 0 flagged; captions keep பிப்ரவரி). Later scripts: write "February" in `say`.
 - **Faces:** the old rule (no face) is gone; see `shots/CAST.md`. Reference pictures in `out/cast/` (Drive `images/EP23_cast.zip`); `shots/prompts.json` lists the pictures to pass for each row (`python3 tools/next.py n` prints them). Hook pictures made again with faces: 004, 008, 010, 012, 017 (Drive `images/EP23_R1_images_faces_…zip`; the faceless first versions are in the B01 and B02 zips).
-  - **012 still shows the first, too-old face** (reads near forty). It is not used in the film now: line N01 q5 reuses 004 (`reuse` in `script/ch00.mjs`). **Make 012 again** from `cast/A.jpg` (prompt from `prompts.json`), then remove that `reuse`, run `node script/build.mjs`, `node film/gen.mjs N01`, and render N01 again.
+  - 012 (the doorway close-up) was made again from `cast/A.jpg` in the next turn and is back in the film (Drive `images/EP23_R2_images_face_012.zip`).
   - Shot rows 021–090 rewritten so that he, his parents, Kubizek, Hanisch, Dr Bloch and Morgenstern are seen from the front (38 rows changed; 8 shot names changed).
-- **Film look:** 2.2:1 frame with black bars of 104 px (`BAR` in `film/gen.mjs`, also in `film/title.mjs`); evidence tag inside the top bar; captions just above the bottom bar; `SHIFT` moves a picture down when a head sits high; every picture prompt now asks for a 35mm film still composed for that crop. Not done yet, ideas for the chapters: slower moves, longer dissolves, stronger grain, room tone under the narration.
-- Hook rendered again in this look: `EP23_1080p_00_hook_title_v2_film.mp4` (Drive id in the table). The first version stays on Drive under its old name.
+- **Film look:** 2.2:1 frame with black bars of 104 px (`BAR` in `film/gen.mjs`, also in `film/title.mjs`); evidence tag inside the top bar; captions just above the bottom bar; `SHIFT` moves a picture down when a head sits high; every picture prompt now asks for a 35mm film still composed for that crop. Added in the turn after: grain 0.15 at 24 fps, a faint flicker layer (`#p-flick`), dissolves of 0.5 and 0.9 s in the chapters (the hook keeps its hard cuts), and a low room tone under every clip (`shared/sfx/room-tone.mp3`, 100 s, −30 dB, played at 0.3).
+- Hook: `EP23_1080p_00_hook_title_v3_film.mp4` is the current one (all of the above, 012 back in). `…_v2_film.mp4` and the first version stay on Drive.
+- **Pictures made:** 001–029 (hook; chapter 1 clips N03 and N04). `out/renders/` has TITLE, N01, N02, N03, N04 in the current look. Next pictures: 030–039 (`python3 tools/next.py 10`; the youth Y now passes `Y18.jpg` and `A18.jpg`).
 
 ## Where it stands (26 Nov 2026)
 
@@ -56,6 +57,10 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | images/EP23_cast.zip (reference pictures → `google_drive/ep23_pics/cast/`) | `15aQXIRA92aKuxwj1dmPtSdyWbj73ZFj8` |
 | EP23_narration_N10-N11-N14_February_voice02.zip (replaces those three clips; unpack after the two narration zips) | `1bY7Ux0KJvlLCbxkn1DODiFJL-f3mEP6G` |
 | EP23_1080p_00_hook_title_v2_film.mp4 | `1iSiADf9AbmB7-4wXWUknUMWXgRe9nfa6` |
+| images/EP23_B03_images_021-029.zip | `1lF6TpKM5q_P4r5aOdjdcWxos-R7_TB1C` |
+| images/EP23_R2_images_face_012.zip (redo) | `1_YNsPKniSzj9sBRSPejDQbYifFb99S6V` |
+| images/EP23_cast_v2.zip (adds `Y18.jpg`, `A18.jpg`, the new `A.jpg`; use this one) | `1kgFxrmZX3wZ5Zucv8bJgxN7Z1zqQ2E6r` |
+| EP23_1080p_00_hook_title_v3_film.mp4 | `HOOKV3ID` |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
@@ -63,6 +68,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 
 | Batch | Pictures | Result |
 |---|---|---|
+| B03 | 021–029 (N03, N04) | all usable. 023: the mother looks nearer forty than twenty-eight; the father stands high in the frame (`SHIFT` 50). 028: the "meadow" is a dry field at the edge of a village. |
+| R2 | 012 | same young face as 004; good |
 | B02 | 011–020 (N01 rows 11–12, N02) | all usable |
 | B01 | 001–010 (N01) | all usable. Notes in `shots/CAST.md`: 008 figure walks up the steps, 009 extra small stones, 010 hat and a blank dark cloth |
 

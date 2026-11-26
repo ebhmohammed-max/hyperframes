@@ -6,7 +6,7 @@ No reference pictures. People are held together by fixed descriptions in `shots/
 - **Hitler's real face is shown** (user's instruction, 26 Nov 2026; before that the rule was "no face of a real person"). Every picture is still a made image in the style of a film still, never a period photograph. Each ref passes a reference picture to the image tool (`out/cast/`, listed in `shots/expand.py` `REFIMG`):
   - **H** the man in his forties → `H_photo.jpg`, a photograph of about 1933 (credo.library.umass.edu), used as likeness reference only.
   - **B** the boy of about eleven → `B_photo.jpg`, the school photograph of about 1900 (Getty), likeness reference only.
-  - **Y** the youth of seventeen to nineteen (Linz 1906 to Vienna 1908) → `Y.jpg`, made from the two photographs. `A18.jpg` (= picture 008, eighteen, on the Academy steps) is the same young face and may be passed too.
+  - **Y** the youth of seventeen to nineteen (Linz 1906 to Vienna 1908) → `Y18.jpg` (his face cut out of picture 008 and enlarged) and `A18.jpg` (= picture 008, eighteen, on the Academy steps). `Y.jpg`, the first portrait, reads nearer twenty-five with too strong a moustache: not passed any more.
   - **A** the young man of twenty (Vienna 1909, homeless) → `A.jpg` (= picture 004, made from 008 so the face stays the same). `A_old.jpg` is the first attempt: it reads as a man near forty, do not use it.
   - No authentic photograph of him between 1900 and 1914 was found, so Y and A are reconstructions between the school picture and the adult face. Say so if asked.
   - **K** mother, **F** father → `K.jpg`, `F.jpg`: invented actors of the right type and dress, not likenesses.

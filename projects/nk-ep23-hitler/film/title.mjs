@@ -17,7 +17,7 @@ const P = [
   [pl("window_face_torchlight_crowd"), 2.9, 6.3, "62% 20%", [1.16, 0, 70], [1.06, 0, 78]], // his face is high in the frame: moved down behind the top bar
   [pl("city_burning_night_skyline"), 5.7, D, "50% 42%", [1.05, 0, 0], [1.15, 0, 0]],
 ];
-const G = grain("t-grain", D, rng(77), { opacity: 0.11 });
+const G = grain("t-grain", D, rng(77), { opacity: 0.15, fps: 24 });
 
 const css = `    ${FONTS.serifTa}
     ${FONTS.sansTa}
@@ -71,7 +71,7 @@ js += `${G.js}      tl.fromTo("#t-pre-in", { opacity: 0, y: 10 }, { opacity: 1, 
       tl.fromTo("#t-sub", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.55, ease: "power3.out" }, ${r(T + 1.1)});
       tl.fromTo("#t-nk", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power1.out" }, ${r(T + 2.0)});\n`;
 
-const audio = [sfx("impact-bass-1", 0.15, 0.22, D), sfx("whoosh", 2.95, 0.14, D), sfx("whoosh-cinematic", T, 0.2, D), sfx("impact-bass-2", T, 0.36, D), sfx("whoosh-short", T + 1.1, 0.1, D)];
+const audio = [{ id: "amb", src: "assets/sfx/room-tone.mp3", start: 0, dur: r(D - 0.02), vol: 0.3, mstart: 0 }, sfx("impact-bass-1", 0.15, 0.22, D), sfx("whoosh", 2.95, 0.14, D), sfx("whoosh-cinematic", T, 0.2, D), sfx("impact-bass-2", T, 0.36, D), sfx("whoosh-short", T + 1.1, 0.1, D)];
 
 const dir = join(ROOT, "film", "TITLE");
 mkdirSync(join(dir, "compositions"), { recursive: true });
