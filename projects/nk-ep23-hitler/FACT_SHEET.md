@@ -225,6 +225,46 @@ Searches of 26 Nov 2026 (three). Main pages: en.wikipedia.org (Karl Mayr; Adolf 
 | 187 | N34 | He left in a waiting car; arrested on 11 November at Ernst Hanfstaengl's house at Uffing | History.com | searched |
 | 188 | N34 | Charged with high treason; the party banned | general | known |
 
+## Chapter 5 — சிறையும் காத்திருப்பும், 1924–1929 (N35–N42) — DRAFT, not yet narrated
+
+Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), thoughtco.com, johndclare.net (Rempel, "The Wilderness Years"), fcit.usf.edu timeline. "memory" = not confirmed by these searches.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 189 | N35 | Trial for high treason, Munich People's Court, 26 February to 1 April 1924 (24 court days); the maximum was life; as an Austrian he should have been deported | Kershaw, *Hubris*, ch. 6; thoughtco.com (24-day trial, deportation risk) | searched (24 days, deportation), memory (dates) |
+| 190 | N35 | The presiding judge (Georg Neithardt) was sympathetic and let him speak for hours and question witnesses | Kershaw | memory |
+| 191 | N35 | He took full responsibility and said there was no treason against "the traitors of 1918" | trial record, via Kershaw | memory |
+| 192 | N35 | The press across Germany reported his speeches; he became known nationally | Kershaw | searched ("brought the party to national attention") |
+| 193 | N35 | Sentence: five years' fortress confinement, the legal minimum; no deportation, the court citing his German feeling and war service | verdict of 1 April 1924; history.com | searched (five years), memory (reasoning) |
+| 194 | N36 | Landsberg: a large room with a view, own clothes, guests and gifts, respectful warders | history.com ("allowed guests and gifts"); Kershaw | searched |
+| 195 | N36 | 35th birthday (20 April 1924): flowers and presents filled several rooms; hundreds of visitors (about 500 by some counts) | Kershaw | memory |
+| 196 | N36 | His working title: "Four and a Half Years of Struggle against Lies, Stupidity and Cowardice"; the publisher Max Amann shortened it to *Mein Kampf* | Kershaw | memory |
+| 197 | N36 | The book's programme: living space in the east at Russia's expense, by war; the "removal" of the Jews | *Mein Kampf*; history.com | searched |
+| 198 | N36 | 9,473 copies sold in the first year (volume 1, published 18 July 1925) | history.com | searched |
+| 199 | N37 | His conclusion: no seizure of power against the army and police | Kershaw | memory |
+| 200 | N37 | "Hold our noses and enter the Reichstag … outvote them … their own constitution" | Kurt Lüdecke, *I Knew Hitler* (1937), a visitor at Landsberg | memory |
+| 201 | N37 | Released 20 December 1924 after about nine months of the sentence | history.com | searched |
+| 202 | N37 | The state prosecutor (Ludwig Stenglein) opposed early release | Kershaw | memory |
+| 203 | N37 | Photograph beside a car at the gate (Heinrich Hoffmann; taken at the town gate, as the prison forbade it); party and newspaper banned | Hoffmann's photograph; Kershaw | memory |
+| 204 | N38 | Recovery: new currency (Rentenmark, November 1923), the Dawes Plan and American loans (1924), the "Golden Twenties" | general | known |
+| 205 | N38 | 27 February 1925: party refounded at the Bürgerbräukeller, about 3,000 present | johndclare.net (Rempel); Kershaw | searched (date), memory (3,000) |
+| 206 | N38 | Banned from public speaking in Bavaria from 9 March 1925 to 5 March 1927; most other states followed (Prussia until September 1928) | Kershaw | memory |
+| 207 | N38 | 7 April 1925: gave up Austrian citizenship; stateless until February 1932 | Kershaw | memory |
+| 208 | N39 | Party organised by regions (Gaue) under leaders appointed by and answerable to him; the leader principle | bhshistory.com summary; Kershaw | searched |
+| 209 | N39 | Hitler Youth (1926), leagues for students, teachers, doctors, lawyers | general; fcit.usf.edu ("auxiliary groups") | searched (auxiliary groups), memory (list) |
+| 210 | N39 | SS founded 1925 as his bodyguard, a few hundred men at first | general | memory |
+| 211 | N39 | Goebbels belonged to the northern group critical of him (Bamberg, February 1926); invited to Munich in April 1926; diary: "Adolf Hitler, I love you" | Goebbels's diary, via Kershaw | memory |
+| 212 | N39 | Goebbels made party leader (Gauleiter) of Berlin, November 1926 | bhshistory.com; Kershaw | searched |
+| 213 | N40 | *Mein Kampf* on propaganda: the masses understand little and forget much; a few points, repeated; one enemy only; the big lie; speak to feeling; evening meetings | *Mein Kampf*, vol. 1 ch. 6 and 10, vol. 2 ch. 6 | memory (he presents the "big lie" as his enemies' method; the script gives it as his own description of how it works) |
+| 214 | N41 | Speaking ban lifted 1927; yearly rallies (Nuremberg 1927, 1929) | Kershaw | memory |
+| 215 | N41 | Reichstag election, 20 May 1928: 2.6 per cent, about 800,000 votes, 12 of 491 seats | johndclare.net; fcit.usf.edu | searched (2.6, 12 seats), memory (491) |
+| 216 | N41 | A government report of 1927 called the party an insignificant radical splinter group without influence | Reich Interior Ministry report, July 1927, via Kershaw | memory |
+| 217 | N41 | Members: 27,000 (1925), 108,000 (end of 1928) | johndclare.net | searched |
+| 218 | N41 | His own life: book income, patrons, a large Mercedes with a driver, the house on the Obersalzberg (rented 1928) | Kershaw | memory |
+| 219 | N42 | Historians' agreement that without the depression he had no opening | Kershaw; Evans | memory |
+| 220 | N42 | The recovery rested on short-term American loans | general | known |
+| 221 | N42 | 24 October 1929: the Wall Street crash | general | known |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -248,3 +288,6 @@ Searches of 26 Nov 2026 (three). Main pages: en.wikipedia.org (Karl Mayr; Adolf 
 19. Chapter 4, row 171: the vote of 29 July 1921 is 533 to 1 on Wikipedia; another page speaks of 554 members voting, and some books give 543 to 1.
 20. Chapter 4, rows 177, 179: the bread prices (250 marks; 200,000 million marks) and the membership figures (20,000; 55,000) are from memory.
 21. Chapter 4, row 184: police strength at the Odeonsplatz (about 100, or 130).
+22. Chapter 5, row 200: the "hold our noses" saying rests on one memoir (Lüdecke, 1937).
+23. Chapter 5, row 213: the "big lie" passage. In the book he accuses his enemies of it; the script must not be read as "he said he would lie". Wording to weigh before the film is published.
+24. Chapter 5, rows 195, 205, 206, 216: figures and dates from memory (visitors, 3,000 at the refounding, dates of the speaking ban, the 1927 report).

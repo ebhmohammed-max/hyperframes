@@ -14,6 +14,7 @@ import ch01 from "./ch01.mjs";
 import ch02 from "./ch02.mjs";
 import ch03 from "./ch03.mjs";
 import ch04 from "./ch04.mjs";
+import ch05 from "./ch05.mjs";
 export const TAGS = { F: "பதிவான உண்மை", W: "சாட்சி சொன்னது", S: "அவரே எழுதியது", H: "வரலாற்றாசிரியர் கருத்து", O: "கருத்து" };
 export const TITLE = ["ஹிட்லர்", "வீடில்லாதவனில் இருந்து ராட்சசன் வரை"];
 export const CHAPTERS = [
@@ -21,4 +22,4 @@ export const CHAPTERS = [
   ["4", "1919–1923", "குரல்"], ["5", "1924–1929", "சிறையும் காத்திருப்பும்"], ["6", "1929–1933", "நெருக்கடி"], ["7", "1933–1934", "பதினெட்டு மாசம்"],
   ["8", "1934–1938", "ஒரு நாடு பின்னாடி போச்சு"], ["9", "1939–1941", "போர்"], ["10", "1941–1945", "பேரழிவு"], ["11", "1942–1944", "சரிவு"], ["12", "1945", "பதுங்கு குழி"],
 ];
-export const CLIPS = [...ch00, ...ch01, ...ch02, ...ch03, ...ch04];
+export const CLIPS = [...ch00, ...ch01, ...ch02, ...ch03, ...ch04, ...(process.env.EP23_DRAFT ? ch05 : [])]; // ch05 is a draft until it is narrated: EP23_DRAFT=1 node script/build.mjs shows its lengths; run the build again without it afterwards
