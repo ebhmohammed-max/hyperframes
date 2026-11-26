@@ -18,7 +18,7 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 | Part | Script | Narration | Timing | Pictures | Film | On Drive |
 |---|---|---|---|---|---|---|
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | part `EP23_1080p_00_hook_title_v3_film.mp4` (106 s) on Drive | narration, B01, B02, R1, R2, film |
-| Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–048 made; 049–053 to make (N09, N10) | N03–N08 rendered (copies in Drive `clips_work`); N09, N10 wait for pictures | narration, B03, B04, B05, clips |
+| Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–048 made; 049–053 to make (N09, N10) | N03–N08 rendered and frames checked (copies in Drive `clips_work`); **part `…01_ch01a.mp4` (N03–N06) delivered**; `…ch01b` (N07–N10) waits for N09, N10 | narration, B03, B04, B05, clips, ch01a |
 | Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090, none generated | `node film/gen.mjs N11 … N18` works (reports missing pictures) | narration |
 | Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows 091–127, none generated | built (`film/N19`…`N26`), 576 s | narration, script, fact sheet |
 | Ch 4 (N27–N34) | done | done, 582.6 s | 0 flagged | shot rows 128–169, none generated | built (`film/N27`…`N34`), 592 s | narration, script, fact sheet |
@@ -30,7 +30,7 @@ Running time so far: 39 min 32 s of narration (hook 1 min 32 s, chapter 1 8 min 
 ## Next steps
 
 1. Pictures, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` (pass the listed reference pictures) → `$PY tools/sheet.py a b` → zip (`$PY tools/batch.py <batch> a b`, next batch is B06) → upload the zip to `images`. Order: 049–053, then chapter 2, 3, 4.
-2. Render: `bash tools/render.sh N09 N10` once 049–053 exist (background process, about 7 min a clip when nothing else runs), upload each clip to Drive `clips_work`, then `bash tools/finish.sh part 1` (cuts the chapter into `…ch01a.mp4` and `…ch01b.mp4`, each under 100 MB), check frames, upload both to the EP23 folder.
+2. Render: `bash tools/render.sh N09 N10` once 049–053 exist (background process, about 7 min a clip when nothing else runs), upload each clip to Drive `clips_work`, then `bash tools/finish.sh part 1` as a background process (about 10 min: it makes `…ch01a.mp4` again, identical to the one on Drive, and `…ch01b.mp4`; each is encoded two-pass to 95 MB), check frames, upload `…ch01b.mp4` to the EP23 folder.
 3. **Chapter 5 (N35–N42, 1924–1929) is drafted** in `script/ch05.mjs` (6,462 characters, about 7 min; fact rows 189–221) but **not narrated**: `script/script.mjs` adds it only with `EP23_DRAFT=1`. To finish it: remove that switch (plain `...ch05`), `node script/build.mjs`, speak `narration/text/N35.txt` … `N42.txt` with voice-02 → `narration/N35.mp3` …, zip and upload, `$PY script/align.py`, shot rows from 170 with `counts.json` entries and `CARD_BG` for N35, upload the script and fact sheet again. Then chapter 6 (N43–N50, 1929–1933), at most 8 minutes.
 4. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
 5. 030 again (upright and soft).
@@ -76,7 +76,11 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | folder `clips_work` (rendered clips, so a wipe does not cost the render time; not for viewing) | `1x1r_EPhLK4_Y0QA2ls3ACgVcps-S9Zop` |
 | clips_work/N03.mp4 | `1YVK6GmdPNa_ybb3JBTIAsZnw3z-SINd2` |
 | clips_work/N04.mp4 | `1t6GOn9uXxMKpcwTVq2MUQB4vY577K8V0` |
-<!--CLIPS-->
+| clips_work/N05.mp4 | `1tDB0r3I3OpiXNsUWNbmvgJRKMkkFNcsq` |
+| clips_work/N06.mp4 | `1E6NF4hQtlNWwQjMEaNp3XU5qAuvkVRlF` |
+| clips_work/N07.mp4 | `1q-tjKlCStImZnN0bFUFaTFPuCL2kpnKV` |
+| clips_work/N08.mp4 | `1_nVkJSB11lDOHgw-se2iEtWfWcUu-egQ` |
+| **EP23_1080p_01_ch01a.mp4** (chapter 1, first half: N03–N06, 303.5 s, 97.6 MB, two-pass; −12.6 LUFS, peak −2.0 dBFS) | `13P9X8HMM6z-BWDEvn6dBGzWRmNv-RnPf` |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
