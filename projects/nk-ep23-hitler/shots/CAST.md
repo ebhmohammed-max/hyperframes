@@ -1,12 +1,13 @@
 # EP23 picture rules
 
-No reference pictures. People are held together by fixed descriptions in `shots/expand.py` (`REF`).
+People are held together by fixed descriptions (`REF`) and reference pictures (`REFIMG`) in `shots/expand.py`.
 
 - Every picture is an illustration made for this film. None is a photograph or a record.
 - **Hitler's real face is shown** (user's instruction, 26 Nov 2026; before that the rule was "no face of a real person"). Every picture is still a made image in the style of a film still, never a period photograph. Each ref passes a reference picture to the image tool (`out/cast/`, listed in `shots/expand.py` `REFIMG`):
   - **H** the man in his forties → `H_photo.jpg`, a photograph of about 1933 (credo.library.umass.edu), used as likeness reference only.
   - **B** the boy of about eleven → `B_photo.jpg`, the school photograph of about 1900 (Getty), likeness reference only.
   - **Y** the youth of seventeen to nineteen (Linz 1906 to Vienna 1908) → `Y18.jpg` (his face cut out of picture 008 and enlarged) and `A18.jpg` (= picture 008, eighteen, on the Academy steps). `Y.jpg`, the first portrait, reads nearer twenty-five with too strong a moustache: not passed any more.
+  - **S** the soldier of 1914 to 1918 (chapter 3) → `S_photo.jpg`, the portrait photograph in field cap and tunic of about 1915 (Getty, "on the Western Front, circa 1915"), likeness reference only, never shown in the film. Full moustache, wider than the later one. The file travels inside `images/EP23_B05_images_034_040-048.zip` as `cast_S_photo_reference_only.jpg`.
   - **A** the young man of twenty (Vienna 1909, homeless) → `A.jpg` (= picture 004, made from 008 so the face stays the same). `A_old.jpg` is the first attempt: it reads as a man near forty, do not use it.
   - No authentic photograph of him between 1900 and 1914 was found, so Y and A are reconstructions between the school picture and the adult face. Say so if asked.
   - **K** mother, **F** father → `K.jpg`, `F.jpg`: invented actors of the right type and dress, not likenesses.
@@ -17,10 +18,12 @@ No reference pictures. People are held together by fixed descriptions in `shots/
 - **Nothing graphic.** Not shown: bodies, wounds, executions, the inside of a camp in use, the suicide. Empty places stand for them: a queue, a railway track, a pile of shoes, a gate seen from far, an empty room.
 - **Nothing that celebrates him.** Crowds and rallies are seen from far, at night or in shadow, and the mood is a warning. He is never lit like a hero and never shown larger than the people he harmed.
 - Real buildings (the Vienna Academy, the Reichstag, the Brandenburg Gate) appear from far and are not exact.
-- Looks keep the times apart: **L** Upper Austria 1889–1907 (small town, lamp light); **V** Vienna 1907–1913 (winter, gas lamps, stone); **X** what came later, 1933–1945 (far, dark); **S** still lifes; **O** setting given in the subject. More looks are added with their chapters (the trenches, Munich, Berlin, the war, the bunker).
+- Looks keep the times apart: **L** Upper Austria 1889–1907 (small town, lamp light); **V** Vienna 1907–1913 (winter, gas lamps, stone); **X** what came later, 1933–1945 (far, dark); **S** still lifes; **O** setting given in the subject. **W** the Western Front 1914–1918 (mud, rain, field grey, no insignia, nothing graphic). More looks are added with their chapters (Munich, Berlin, the war, the bunker).
 
 ## Kept with a note
 
 - 008: the small figure walks up the Academy steps towards the closed doors (the shot list says he walks away). The picture still reads as "the door stayed shut".
 - 009: a few smaller stones stand behind the two gravestones.
 - 010: the man on the balcony wears a hat; a dark blank cloth is carried in the crowd.
+
+- Chapter 3 (091–127): the Odeonsplatz crowd (094) is shown without him in it, because the photograph that claims to show him there is doubted. Hugo Gutmann (114, 116) is played by an invented actor; no likeness was used. The Iron Cross itself is never shown (110 hides it behind the officer's fingers; 102 shows only a ribbon). Sarajevo (093) is the car before the shots, from far.

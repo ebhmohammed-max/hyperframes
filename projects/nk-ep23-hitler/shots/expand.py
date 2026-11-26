@@ -13,6 +13,7 @@ LOOK = {
  "V": ("Vienna, 1907 to 1913", "Vienna around 1910 in winter: grand stone buildings, gas street lamps, trams and horse cabs, snow and coal smoke, men in worn overcoats and hats, " + NOPE, PEOPLE),
  "X": ("what came later (1933 to 1945)", "Germany between 1933 and 1945, an ominous mood, nothing celebrated: " + NOPE + ", no symbols on any cloth or wall, no insignia, no armbands, no salutes", FAR),
  "S": ("one object", "A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind", ""),
+ "W": ("the Western Front, 1914 to 1918", "The Western Front in Flanders and northern France between 1914 and 1918: mud, rain, shell-torn fields, sandbagged trenches, ruined brick villages, German soldiers in plain field-grey uniforms with soft cloth caps or steel helmets, nothing graphic, no wounds, no bodies, no insignia, no badges, no medals, " + NOPE, PEOPLE),
  "O": ("setting given in the subject", "", ""),
 }
 # Fixed descriptions (refs) and the reference picture passed with each (out/cast/<file>). Hitler is shown with his real face at every age:
@@ -23,10 +24,11 @@ REF = {
  "B": "The boy is the same person as in the reference photograph: Adolf Hitler at about eleven: slight, with dark brown hair cut short with a fringe brushed to one side, ears that stand out a little, a serious closed face, in a plain dark jacket with a white collar, knee breeches and boots of around 1900.",
  "Y": "The youth is the same person as in the reference pictures (a close view of his face and the full figure): Adolf Hitler at seventeen, in Linz in 1906: boyish, clearly still in his teens, with smooth young skin, thin and pale, a long narrow face, pale blue eyes, dark brown hair parted at the side, only a faint thin first moustache, neatly dressed in a dark coat; out of doors he wears a black broad-brimmed hat and carries a slim black walking cane unless the scene says otherwise.",
  "H": "The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning.",
+ "S": "The soldier is the same person as in the reference photograph: Adolf Hitler as a soldier in his late twenties: gaunt and pale, a long narrow face, pale blue eyes, dark hair cut short, a full dark moustache much wider than the small one of his later years, in a plain worn field-grey uniform tunic without insignia and, out of doors, a soft round field cap without a peak.",
  "K": "The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress.",
  "F": "The father is the same man as in the reference portrait: a heavy-set stern man in his sixties, bald on top, with a big grey moustache and side-whiskers, in a dark civil-service uniform coat with plain brass buttons.",
 }
-REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": ["Y18.jpg", "A18.jpg"], "H": "H_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
+REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": ["Y18.jpg", "A18.jpg"], "H": "H_photo.jpg", "S": "S_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
 lines = json.load(open("script/lines.json", encoding="utf8"))
 cap = {(l["clip"], l["q"]): l["cap"] for l in lines}
 counts = json.load(open("shots/counts.json"))
@@ -54,7 +56,7 @@ for k, v in names.items():
     if v > 1: print("duplicate name", k)
 json.dump(rows, open("shots/prompts.json", "w"), indent=1, ensure_ascii=False)
 md = [f"# EP23 ஹிட்லர்: வீடில்லாதவனில் இருந்து ராட்சசன் வரை (Hitler: From Homeless to Monster): shot list\n\n{len(rows)} images so far (the list grows chapter by chapter). File names carry the running number, narration clip and line.\n",
-      "Rules: every picture is an illustration made for this film; none is a photograph or a record. **No face of a real person is shown**: he and the people around him appear only from behind, far away, in silhouette or as hands. "
+      "Rules: every picture is a made film still for this film; none is a photograph or a record. Hitler is shown with his real face at every age (reference pictures in out/cast, see shots/CAST.md); the people around him are played by invented actors. "
       "No flags, emblems, symbols, insignia or readable writing in any picture; every number, name, date and source is set in the edit (film/fx.mjs). Nothing in the pictures celebrates him. Full rules: shots/CAST.md.\n",
       "Looks: " + "; ".join(f"**{k}** {v[0]}" for k, v in LOOK.items()) + ".\n"]
 cur = None

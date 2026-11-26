@@ -18,7 +18,10 @@ for z in $GD/EP23_B*_images_*.zip; do
 import sys, zipfile
 z = zipfile.ZipFile(sys.argv[1])
 for n in z.namelist():
-    open(f"{sys.argv[2]}/raw/{n.split('_')[1]}.jpg", "wb").write(z.read(n))
+    if n.startswith("cast_"):   # a likeness reference shipped inside a batch zip: cast_S_photo_reference_only.jpg -> cast/S_photo.jpg
+        open(f"{sys.argv[2]}/cast/" + n[5:].replace("_reference_only", ""), "wb").write(z.read(n))
+    elif n.startswith("EP23_"):
+        open(f"{sys.argv[2]}/raw/{n.split('_')[1]}.jpg", "wb").write(z.read(n))
 print("restored", sys.argv[1], len(z.namelist()))
 PY
   rm -f "$z"
@@ -43,7 +46,7 @@ for n in z.namelist():
 PY
 rm -f "$CZ"; done
 PY=/tmp/nkvenv/bin/python
-last=$(ls $ST/raw | tail -1 | cut -c1-3); last=$((10#$last))
+last=$(ls $ST/raw | grep '^[0-9]' | tail -1 | cut -c1-3); last=$((10#$last))
 for a in $(seq 1 10 $last); do b=$((a+9)); $PY tools/sheet.py $a $b 2>/dev/null | grep -v "^size" || true; done
-$PY tools/crops.py
+[ -f shots/crops.json ] && $PY tools/crops.py || true
 echo "pictures: $(ls $ST/raw | wc -l), cast: $(ls $ST/cast | wc -l)"

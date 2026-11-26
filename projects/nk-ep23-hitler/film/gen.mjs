@@ -65,13 +65,13 @@ const HOOK_FX = {
   N02: [[0, "impact-bass-1", 0.3, 1], [1, "impact-bass-2", 0.26, "start"], [3, "whoosh-cinematic", 0.16, "start"], [5, "riser", 0.18, "start"], [5, "impact-bass-2", 0.32, "last"]],
 };
 // Chapter card backgrounds: one picture of the chapter behind the card (shot names from shots/shots.txt), keyed by the clip that opens the chapter
-const CARD_BG = { N03: "braunau_inn_evening", N11: "vienna_station_arrival_lone" };
+const CARD_BG = { N03: "braunau_inn_evening", N11: "vienna_station_arrival_lone", N19: "flanders_field_dawn_advance_far" };
 // EP23: a picture held longer than HOLD seconds is shown as two or three shots (wide, then closer crops), cut at pauses
 const HOLD = 9.5;
 // EP23, second review ("make it feel like a film"): the picture runs in a 2.2:1 widescreen frame. Black bars of BAR px top and bottom;
 // the evidence tag sits inside the top bar, captions sit just above the bottom bar like film subtitles.
 const BAR = 104;
-const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36, father_mother_newborn_parlour: 50, young_woman_far_youth_watching: 64, two_youths_river_path_dusk: 30 }; // px down, at most about BAR − 20
+const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36, father_mother_newborn_parlour: 50, young_woman_far_youth_watching: 64, two_youths_river_path_dusk: 30, station_platform_departure: 60, doctor_at_bedside: 30, doctor_bag_consulting_room: 24 }; // px down, at most about BAR − 20
 const PUNCH = [
   { o: "34% 46%", a: [1.26, 0, 0], b: [1.33, 0, 0] },
   { o: "66% 52%", a: [1.33, 0, 0], b: [1.26, 0, 0] },
