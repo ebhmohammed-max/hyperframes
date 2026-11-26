@@ -10,7 +10,8 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
   - Shot rows 021–090 rewritten so that he, his parents, Kubizek, Hanisch, Dr Bloch and Morgenstern are seen from the front (38 rows changed; 8 shot names changed).
 - **Film look:** 2.2:1 frame with black bars of 104 px (`BAR` in `film/gen.mjs`, also in `film/title.mjs`); evidence tag inside the top bar; captions just above the bottom bar; `SHIFT` moves a picture down when a head sits high; every picture prompt now asks for a 35mm film still composed for that crop. Added in the turn after: grain 0.15 at 24 fps, a faint flicker layer (`#p-flick`), dissolves of 0.5 and 0.9 s in the chapters (the hook keeps its hard cuts), and a low room tone under every clip (`shared/sfx/room-tone.mp3`, 100 s, −30 dB, played at 0.3).
 - Hook: `EP23_1080p_00_hook_title_v3_film.mp4` is the current one (all of the above, 012 back in). `…_v2_film.mp4` and the first version stay on Drive.
-- **Pictures made:** 001–029 (hook; chapter 1 clips N03 and N04). `out/renders/` has TITLE, N01, N02, N03, N04 in the current look. Next pictures: 030–039 (`python3 tools/next.py 10`; the youth Y now passes `Y18.jpg` and `A18.jpg`).
+- **Pictures made:** 001–039 except **034** (the image tool failed once and the turn's limit of 10 was reached: make it first next time, prompt in `shots/prompts.json`). **030** came out upright (944×1122) and is cropped and soft: make it again when a call is free. `out/renders/` has TITLE, N01, N02, N03, N04, N06 in the current look. N05 waits for 034; N07 for 040–042. Next: `python3 tools/next.py 10` (034, then 040–048).
+- **Chapter 3 (N19–N26, 1914–1918) is written, spoken (566.1 s) and aligned (0 flagged)**: `script/ch03.mjs`, fact rows 96–140. **Still to do for chapter 3:** shot rows in `shots/shots.txt` (about 36, numbers from 091), `shots/counts.json` entries, `CARD_BG` for N19 in `film/gen.mjs`, a look for the Western Front and a ref for him as a soldier (likeness picture: `google_drive/ep23_refs/r5.jpg`, Comines 1915; full moustache, field-grey uniform without insignia).
 
 ## Where it stands (26 Nov 2026)
 
@@ -19,7 +20,8 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | built; render of TITLE, N01, N02 → `out/renders/`; part `EP23_1080p_00_hook_title.mp4` (106.4 s, 80.5 MB) made, frames checked, uploaded | narration, B01, B02 |
 | Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | shot rows written (33 rows, 021–053), none generated | `node film/gen.mjs N03 … N10` works (reports missing pictures) | narration |
 | Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows written (37 rows, 054–090), none generated | `node film/gen.mjs N11 … N18` works (reports missing pictures) | narration |
-| Ch 3 to 12 | not written | | | | | |
+| Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows not written | | narration, script, fact sheet |
+| Ch 4 to 12 | not written | | | | | |
 
 Running time so far: 20 min 27 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s). Film lengths: N01 43.5 s, N02 50.8 s, TITLE 12 s, chapter 1 546 s, chapter 2 609 s. Chapter 2 runs about a minute over its plan (8–9 min): later chapters must stay at 8.5 min to end near 105.
 
@@ -61,6 +63,10 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | images/EP23_R2_images_face_012.zip (redo) | `1_YNsPKniSzj9sBRSPejDQbYifFb99S6V` |
 | images/EP23_cast_v2.zip (adds `Y18.jpg`, `A18.jpg`, the new `A.jpg`; use this one) | `1kgFxrmZX3wZ5Zucv8bJgxN7Z1zqQ2E6r` |
 | EP23_1080p_00_hook_title_v3_film.mp4 | `1ZUQv08d_G3ENbjFJf5NDf0r69p7KD993` |
+| images/EP23_B04_images_030-039_no034.zip | `1QBM6IY0kfZMrcMWSIU6GG5sOEyBcrizt` |
+| EP23_narration_N19-N26_voice02.zip (chapter 3) | `1XU-2Qvk4UHZNPB_Sq9QdGDMB9r3cmYKy` |
+| EP23_SCRIPT_TA_hook_ch1-ch3.md (current) | `1ZzlHF389mA2r5pXXV3o9_78Do4R9CuHR` |
+| EP23_FACT_SHEET_hook_ch1-ch3.md (current) | `11z-vIXX8s6p0LvTtaf91FT2Fqi2vk0KQ` |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
@@ -68,6 +74,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 
 | Batch | Pictures | Result |
 |---|---|---|
+| B04 | 030–039 without 034 | usable. 030 upright format, soft (redo). 035: blurred sign shapes over two shops, not readable. 037, 039: hats near the top (`SHIFT` 64 and 30). The youth matches picture 008. |
 | B03 | 021–029 (N03, N04) | all usable. 023: the mother looks nearer forty than twenty-eight; the father stands high in the frame (`SHIFT` 50). 028: the "meadow" is a dry field at the edge of a village. |
 | R2 | 012 | same young face as 004; good |
 | B02 | 011–020 (N01 rows 11–12, N02) | all usable |

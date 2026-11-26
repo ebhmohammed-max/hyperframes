@@ -71,7 +71,7 @@ const HOLD = 9.5;
 // EP23, second review ("make it feel like a film"): the picture runs in a 2.2:1 widescreen frame. Black bars of BAR px top and bottom;
 // the evidence tag sits inside the top bar, captions sit just above the bottom bar like film subtitles.
 const BAR = 104;
-const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36, father_mother_newborn_parlour: 50 }; // px down, at most about BAR − 20
+const SHIFT = { window_face_torchlight_crowd: 78, academy_steps_face_stunned: 36, father_mother_newborn_parlour: 50, young_woman_far_youth_watching: 64, two_youths_river_path_dusk: 30 }; // px down, at most about BAR − 20
 const PUNCH = [
   { o: "34% 46%", a: [1.26, 0, 0], b: [1.33, 0, 0] },
   { o: "66% 52%", a: [1.33, 0, 0], b: [1.26, 0, 0] },

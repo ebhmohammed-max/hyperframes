@@ -118,6 +118,58 @@ Three more searches (26 Nov 2026): the shared room and its dates, the registered
 | 94 | Munich life: painted buildings and sold them shop to shop, read in the library, close to nobody; "the happiest time of my life" | *Mein Kampf*; Kershaw | memory, tagged S |
 | 95 | The Austrian police were looking for him | Linz police, 1913–14 (Jetzinger) | memory; told in chapter 3 |
 
+## Chapter 3 — போர் கொடுத்த வீடு, 1914–1918 (N19–N26)
+
+Main books: Thomas Weber, *Hitler's First War* (2010); Kershaw, *Hubris*, ch. 3; Ullrich, *Ascent*, ch. 3. "searched" = confirmed in this session's web search; "memory" = from memory of the books, to check.
+
+| # | Statement in the script | Source | Status |
+|---|---|---|---|
+| 96 | January 1914: the Munich police came for him on behalf of Austria (draft evasion); he wrote a long pleading letter | Jetzinger; Kershaw (summons of 18 Jan 1914, letter to the Linz magistrate) | memory |
+| 97 | 5 February 1914, Salzburg: examined, found too weak, unfit to bear arms | Jetzinger; Kershaw | searched (earlier session) |
+| 98 | 28 June 1914 Sarajevo; within about a month the great powers were at war | general | known dates |
+| 99 | 2 August 1914: crowd on the Odeonsplatz in Munich cheering the war | Hoffmann's photograph; Kershaw | searched |
+| 100 | The photograph with his face ringed was published by his party's paper (Illustrierter Beobachter, 12 March 1932); some historians think it was doctored (Gerd Krumeich, 2010); the glass negative was never found | Krumeich; Weber | searched |
+| 101 | "I sank to my knees and thanked Heaven" for letting him live at this time | *Mein Kampf* | memory, tagged S |
+| 102 | An Austrian citizen should not have been admitted; the Bavarian Army took him in August 1914; a Bavarian government report of 1924 called it an error | Kershaw (report of 1924) | searched (earlier session) |
+| 103 | Bavarian Reserve Infantry Regiment 16, called the List Regiment after its commander; students, farmers, tradesmen; about two months of training; cloth caps, no steel helmets | Weber | searched (caps and short training); "two months" = mid-August to 21 October |
+| 104 | First battle at the end of October 1914 near Ypres (Gheluvelt), against British regulars | Weber; Kershaw | searched |
+| 105 | In four days the regiment fell from about 3,000 men to 725; Colonel List was killed | Weber p. 49 ("approximately 75 percent, from 3,000 to 725"). **Other books give 3,600 to 611 (Kershaw, from Hitler's own letter)** | searched; tagged H |
+| 106 | He described the battle proudly in a letter home (to Ernst Hepp, February 1915), without a word of fear | Hitler's letters (Kershaw; Weber) | memory, tagged S |
+| 107 | November 1914: promoted Gefreiter and made a dispatch runner at regimental headquarters; his only promotion in four years | Weber; Kershaw (promoted 3 Nov, runner from 9 Nov) | searched |
+| 108 | What a regimental runner did: carried orders from regimental headquarters to the battalion commanders when the telephone lines were cut | Weber | searched |
+| 109 | 2 December 1914: Iron Cross Second Class; "the happiest day of my life" (letter to his Munich landlord Joseph Popp) | Kershaw | date searched; the quotation memory |
+| 110 | The party's later story: four years a front-line trench fighter | Nazi-era biographies (Weber's opening chapter) | memory, tagged O |
+| 111 | Weber (2010) found the regiment's papers: headquarters was usually a few kilometres behind the line, in a village (Fournes-en-Weppes for long periods), with beds and hot food; front-line men called such staff "Etappenschwein" (rear-area pig) | Weber | searched |
+| 112 | Still dangerous: shells reached headquarters; several fellow runners were killed; he was hit twice (1916 thigh; 1918 gas) | Weber; Kershaw | searched |
+| 113 | Comrades: odd man, did not drink or smoke, left when talk turned to women; no letters or parcels; did not take leave; read, sketched ruined houses, lectured on politics and was laughed at | Brandmayer, Schmidt, Westenkirchner as quoted by Kershaw and Weber | memory, tagged W |
+| 114 | Christmas 1914: German and British soldiers met between the lines in many places, men of his regiment too | Weber (RIR 16 near Messines) | memory |
+| 115 | He disapproved: "such a thing should not happen in wartime" | Heinrich Lugauer, fellow runner, statement of 1940 (Weber) | memory, tagged W. **Told 26 years later by a party member: weak evidence** |
+| 116 | The dog Fuchsl: a white terrier that ran over from the enemy lines (1915), with him over two years, stolen (August 1917); he was very upset | Hitler's own table talk (1942); Kershaw | memory, tagged W although the main source is himself: **check the tag** |
+| 117 | Why no promotion: an officer said later he saw no leadership qualities in him | Fritz Wiedemann, regimental adjutant (testimony after 1945) | memory, tagged W. Another account: he did not want promotion, it would have taken him from headquarters |
+| 118 | The Somme, 1916: over a million men killed or wounded on both sides | general | known figure |
+| 119 | Early October 1916: a shell hit the runners' dugout; a splinter in his left thigh | Kershaw (7 Oct); other accounts 5 Oct: the script says "early October" | searched |
+| 120 | Hospital at Beelitz near Berlin, about two months; his first time away from the front in two years | Kershaw | searched |
+| 121 | What he saw: hunger, bread queues, soldiers in hospital mocking the war and boasting of shirking | *Mein Kampf* | memory, tagged S |
+| 122 | Hunger through the Allied sea blockade; the "turnip winter" of 1916–17 | general | known |
+| 123 | He blamed Jews in the offices for the low morale | *Mein Kampf* | memory, tagged S |
+| 124 | About 100,000 Jews served in the German forces in the war; about 12,000 died | Reichsbund jüdischer Frontsoldaten figures, used by most histories | memory; standard figures |
+| 125 | When healed he asked to go back to his old regiment (letter to Wiedemann, January 1917) | Kershaw | memory |
+| 126 | 4 August 1918: Iron Cross First Class, rare for a man of his rank | Weber; Kershaw | searched |
+| 127 | Proposed by Lieutenant Hugo Gutmann, the regiment's adjutant, a Jew; Gutmann had promised the medal for carrying a message through heavy fire and argued for it with his superiors | Weber; Kershaw | searched |
+| 128 | He wore it to the end and never named Gutmann in public | Kershaw | memory |
+| 129 | Twenty years later the Gestapo arrested Gutmann (1938); former men of the regiment helped; released; reached the United States with his family (1940) | Weber | searched (the escape); the arrest and the help memory |
+| 130 | October 1918: the regiment again near Ypres (Wervik/Comines), where it had begun | Weber; Kershaw | searched |
+| 131 | Night of 13–14 October 1918: British mustard gas; by morning his eyes burned and he could not see | *Mein Kampf*; Kershaw; Weber | searched |
+| 132 | The blinded men walked back in a line, each holding the next; hospital at Pasewalk in Pomerania | Kershaw | searched |
+| 133 | Historians still argue whether the blindness was from gas or psychological; his medical file is lost | Weber (psychosomatic); Kershaw (gas) | searched; tagged H |
+| 134 | 10 November 1918: the hospital pastor announced revolution, the Kaiser's abdication and the end of the war | *Mein Kampf*; Kershaw | searched |
+| 135 | "I staggered back to my bed, buried my head in the pillow and wept; I had not wept since my mother's grave" | *Mein Kampf* | memory, tagged S |
+| 136 | About two million German soldiers died in the war | general | known figure |
+| 137 | "There I decided to go into politics" is his later story; historians do not accept it; for months he decided nothing and clung to the army's food and bed | Kershaw; Weber (*Becoming Hitler*) | memory, tagged H |
+| 138 | The stab-in-the-back story: undefeated in the field, betrayed at home by politicians, socialists, Jews | general | known |
+| 139 | In fact the army command itself told the government at the end of September 1918 that the war was lost and demanded an armistice (Ludendorff, 29 September), then put the blame on the politicians | general | known |
+| 140 | End of November 1918: back in Munich, 29 years old, no job, no training, no family | Kershaw (arrived 21 November) | memory |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -131,3 +183,7 @@ Three more searches (26 Nov 2026): the shared room and its dates, the registered
 9. Chapter 2, rows 79–80: whether Vienna made him an anti-Semite is disputed. The script follows Hamann (no evidence from the men's home) and says so; Kubizek and *Mein Kampf* say otherwise.
 10. Chapter 2, rows 82, 84: the Lueger saying and the "Führer"/"Heil" usage among Schönerer's followers (from memory of Hamann).
 11. Chapter 2, row 89: the sum of 819 crowns. Row 92: "stateless" on the Munich registration. Row 58: "thirty years".
+12. Chapter 3, row 105: the losses at Ypres (3,000 to 725 after Weber; other books 3,600 to 611).
+13. Chapter 3, rows 115–117: three sayings of comrades told long afterwards (the Christmas truce remark, the dog, "no leadership qualities").
+14. Chapter 3, row 133: the cause of the blindness is disputed; the script says so.
+15. Chapter 3, rows 124, 129: the figures for Jewish soldiers and the details of Gutmann's arrest in 1938.
