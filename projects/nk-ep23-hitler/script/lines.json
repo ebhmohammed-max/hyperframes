@@ -53,6 +53,9 @@
     "",
     "1933",
     "1939"
+   ],
+   "cuts": [
+    2
    ]
   }
  },
@@ -647,7 +650,7 @@
   "tag": "O",
   "fx": {
    "reuse": [
-    "doctor_at_bedside_back",
+    "doctor_at_bedside",
     "rail_track_gatehouse_fog"
    ]
   }

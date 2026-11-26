@@ -2,6 +2,15 @@
 
 Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`. Built and delivered chapter by chapter.
 
+## Second review, 26 Nov 2026 (user: show his real face, young face too, film feel, say "February")
+
+- **February:** the voice mispronounced "பிப்ரவரி". The spoken text now says "February" in English (N10, N11, N14 spoken again, aligned, 0 flagged; captions keep பிப்ரவரி). Later scripts: write "February" in `say`.
+- **Faces:** the old rule (no face) is gone; see `shots/CAST.md`. Reference pictures in `out/cast/` (Drive `images/EP23_cast.zip`); `shots/prompts.json` lists the pictures to pass for each row (`python3 tools/next.py n` prints them). Hook pictures made again with faces: 004, 008, 010, 012, 017 (Drive `images/EP23_R1_images_faces_…zip`; the faceless first versions are in the B01 and B02 zips).
+  - **012 still shows the first, too-old face** (reads near forty). It is not used in the film now: line N01 q5 reuses 004 (`reuse` in `script/ch00.mjs`). **Make 012 again** from `cast/A.jpg` (prompt from `prompts.json`), then remove that `reuse`, run `node script/build.mjs`, `node film/gen.mjs N01`, and render N01 again.
+  - Shot rows 021–090 rewritten so that he, his parents, Kubizek, Hanisch, Dr Bloch and Morgenstern are seen from the front (38 rows changed; 8 shot names changed).
+- **Film look:** 2.2:1 frame with black bars of 104 px (`BAR` in `film/gen.mjs`, also in `film/title.mjs`); evidence tag inside the top bar; captions just above the bottom bar; `SHIFT` moves a picture down when a head sits high; every picture prompt now asks for a 35mm film still composed for that crop. Not done yet, ideas for the chapters: slower moves, longer dissolves, stronger grain, room tone under the narration.
+- Hook rendered again in this look: `EP23_1080p_00_hook_title_v2_film.mp4` (Drive id in the table). The first version stays on Drive under its old name.
+
 ## Where it stands (26 Nov 2026)
 
 | Part | Script | Narration | Timing | Pictures | Film | On Drive |
@@ -43,6 +52,10 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | EP23_narration_N11-N18_voice02.zip (chapter 2) | `1jgakdUY2s3gpYmHdVZTQonNh3LvC8Bh_` |
 | EP23_SCRIPT_TA_hook_ch1_ch2.md | `111vHFCU-mDFx9sHi_vCKM8AQcntYNfZa` |
 | EP23_FACT_SHEET_hook_ch1_ch2.md | `16pMOQ7voGhbaWTeyrBpxvT-0HDvbdF0f` |
+| images/EP23_R1_images_faces_004-008-010-012-017.zip (redo: unpacks over the batch zips) | `1pm022Ys_4QL4B4gO6Ix5-c9H1eU3-QKo` |
+| images/EP23_cast.zip (reference pictures → `google_drive/ep23_pics/cast/`) | `15aQXIRA92aKuxwj1dmPtSdyWbj73ZFj8` |
+| EP23_narration_N10-N11-N14_February_voice02.zip (replaces those three clips; unpack after the two narration zips) | `1bY7Ux0KJvlLCbxkn1DODiFJL-f3mEP6G` |
+| EP23_1080p_00_hook_title_v2_film.mp4 | `1iSiADf9AbmB7-4wXWUknUMWXgRe9nfa6` |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 

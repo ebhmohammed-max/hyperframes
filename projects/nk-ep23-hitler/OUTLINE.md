@@ -43,7 +43,7 @@ Total: about 105 minutes. A chapter may run half a minute over or under.
 
 ## Rules for the pictures
 
-See `shots/CAST.md`. In short: illustrations only; no face of a real person; no flags, emblems, symbols or insignia; no readable writing; nothing graphic; nothing that celebrates him.
+See `shots/CAST.md`. In short: made film-still pictures only; Hitler's real face is shown at every age (user's instruction, 26 Nov 2026); 2.2:1 film frame; no flags, emblems, symbols or insignia; no readable writing; nothing graphic; nothing that celebrates him.
 
 ## How the film is made
 
