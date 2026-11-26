@@ -6,7 +6,7 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 
 | Part | Script | Narration | Timing | Pictures | Film | On Drive |
 |---|---|---|---|---|---|---|
-| Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | built; render of TITLE, N01, N02 → `out/renders/`; part `EP23_1080p_00_hook_title.mp4` (see Drive table, empty id = not uploaded yet) | narration, B01, B02 |
+| Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | built; render of TITLE, N01, N02 → `out/renders/`; part `EP23_1080p_00_hook_title.mp4` (106.4 s, 80.5 MB) made, frames checked, uploaded | narration, B01, B02 |
 | Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | shot rows written (33 rows, 021–053), none generated | `node film/gen.mjs N03 … N10` works (reports missing pictures) | narration |
 | Ch 2 to 12 | not written | | | | | |
 
@@ -37,7 +37,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | EP23_narration_N01-N10_voice02.zip (hook and chapter 1) | `1wzvDc2gEA8zSgXoDAsW-CyV326ThswgP` |
 | images/EP23_B01_images_001-010.zip | `1CNvtwG5ktJ8ngQ6p7fvM1oV4k9TVBATp` |
 | images/EP23_B02_images_011-020.zip | `1KH1lDddL-EK0idBP6aKcRnc-Od6HoABM` |
-| EP23_1080p_00_hook_title.mp4 | HOOKID |
+| EP23_1080p_00_hook_title.mp4 | `1XI_otP6j5p9-8UvGdTlPM0X8sPc4bYoO` |
 | EP23_OUTLINE.md | `1TVRmNj24nJn1oTHJUfdluQAr5voGH_bo` |
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
