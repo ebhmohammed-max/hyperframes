@@ -61,6 +61,63 @@ Labels on screen: F பதிவான உண்மை · W சாட்சி �
 | 35 | No evidence that his hatred of Jews began with his mother's death | Kershaw, Hamann. The opposite has been argued (Binion) | memory |
 | 36 | February 1908: back to Vienna with an orphan's pension | Kershaw | searched |
 
+## Chapter 2 — வீடில்லாதவன், 1908–1913 (N11–N18)
+
+Three more searches (26 Nov 2026): the shared room and its dates, the registered addresses, Hamann on his Jewish acquaintances and the absence of anti-Jewish remarks reported from the men's home, the Vienna census figures, the 1913 inheritance and the move to Munich.
+
+| # | Claim | Basis | Status |
+|---|---|---|---|
+| 46 | Arrived in Vienna February 1908, aged 18, Westbahnhof | Kershaw; Kubizek | searched |
+| 47 | Vienna about 2 million people (2,031,498 in 1910); palaces beside overcrowded slums | 1910 census; Hamann | number searched, description memory |
+| 48 | Room near the Westbahnhof (Stumpergasse 31, landlady Maria Zakreys) shared with August Kubizek from 22 February 1908; he had persuaded Kubizek's father; a piano in the room | Kubizek; police registration | searched; the piano is Kubizek's account |
+| 49 | Kubizek was admitted to the Conservatory at the first attempt | Kubizek | searched |
+| 50 | He slept late and let Kubizek believe he studied at the Academy; the outburst when it came out ("the Academy ought to be blown up", old-fashioned officials, pale face, glittering eyes) | Kubizek, *The Young Hitler I Knew* (1953) | memory; a late memoir, tagged W |
+| 51 | Orphan's pension 25 crowns a month, plus what the mother left: enough for about a year without work | Kershaw; Hamann | pension searched; "about a year" is Kershaw's estimate, memory |
+| 52 | Wagner operas from the standing room, the same opera over ten times; meals skipped for tickets; bread and milk | Kubizek | memory (bread and milk searched) |
+| 53 | Night plans: workers' housing for Vienna; an opera he dictated at the piano because he could not write notes; dropped after weeks | Kubizek (the opera "Wieland the Smith") | memory |
+| 54 | July 1908 Kubizek went home; he saw him off at the station | Kubizek | searched |
+| 55 | Autumn 1908 second application: not admitted to the drawing test | Academy records (Kershaw) | searched |
+| 56 | November 1908: Kubizek returned, the room was empty, no letter, no address; the landlady knew nothing | Kubizek; police registration (moved out 18 November 1908) | searched |
+| 57 | Why he vanished (shame before the successful friend) | Kershaw, Hamann: an inference | tagged H |
+| 58 | They met again thirty years later | Kubizek (Linz, April 1938) | memory |
+| 59 | New room in the same district (Felberstraße 22, from 18 November 1908), registered as "student" | Vienna police registration | searched |
+| 60 | Nine months later another room (Sechshauser Straße 58, from 22 August 1909), registered as "writer" | Vienna police registration | searched |
+| 61 | September 1909: left without a forwarding address; about three months with no record | Police registration (left 16 September 1909: the day is from memory, the script says only "September") | month searched |
+| 62 | The mother's money was gone; no trade; thought labouring beneath him | Kershaw, Hamann | tagged H, memory |
+| 63 | Park benches, all-night cafés, a convent soup queue, clothes sold, no overcoat by winter | Hanisch; a relative of the landlady (soup queue at a convent hospital); his own later remarks | soup queue searched, the rest memory |
+| 64 | "The saddest period of my life"; hunger as his constant guard | *Mein Kampf* ("Hunger was then my faithful bodyguard") | memory, tagged S |
+| 65 | December 1909: the Meidling shelter for the homeless, on the southern edge of the city | Hanisch; Ullrich. Ullrich says "late autumn"; one source dates the meeting with Hanisch 21 December | searched |
+| 66 | Shelter rules: bath, clothes disinfected, soup and bread, an iron cot, out in the morning; about 1,000 people a night | Hamann; Ullrich | 1,000, soup, bread and bed searched; bath and disinfection memory |
+| 67 | Reinhold Hanisch in the next cot; what he saw (ragged, long hair, beard, starved, sore feet) | Hanisch, "I Was Hitler's Buddy" (1939) | meeting searched, description memory |
+| 68 | "Painter" taken for house painter; "academic painter"; the postcard idea; half each | Hanisch | half-shares searched, dialogue memory |
+| 69 | Wrote to his aunt, got 50 crowns, bought a second-hand overcoat first | Hanisch (aunt Johanna, "Hanni") | 50 crowns searched, coat memory |
+| 70 | Painted churches, the Parliament, old streets, copied from prints; buildings good, figures weak | Hamann; Kershaw | memory, tagged H |
+| 71 | Moved into the men's home (Meldemannstraße 27, Brigittenau) on 9 February 1910 | Police registration | searched |
+| 72 | The men's home: new, over 500 men, a cubicle each with bed, table, electric light; canteen, baths, reading room | Hamann | memory |
+| 73 | Lived there over three years, aged 20 to 24 (9 February 1910 to May 1913) | Police registration | searched |
+| 74 | His fixed place by the window in the reading room ("that is Herr Hitler's place") | Karl Honisch (1939 statement) | memory |
+| 75 | About a picture a day when in the mood; Hanisch pressed him; he read newspapers, jumped up to shout about politics, then sat down with a wave of the hand | Hanisch; Honisch | memory |
+| 76 | August 1910: complaint to the police that Hanisch had kept the proceeds of a "Parliament" painting he valued at 50 crowns; Hanisch got seven days | Police statement, Brigittenau, 5 August 1910 | searched |
+| 77 | After that his pictures were sold by Josef Neumann and Siegfried Löffner; the main buyer was the frame dealer Samuel Morgenstern; all three Jewish | Hamann | searched |
+| 78 | Neumann gave him a coat and lent him money; his closest companion in the home | Hanisch (via Hamann) | searched |
+| 79 | His own story of the man in the black caftan and "my eyes were opened" | *Mein Kampf* | memory, tagged S |
+| 80 | Written fifteen years later as a politician; none of the men who lived with him in the home reported anti-Jewish talk; Hanisch could not believe the later news | Hamann. **Kubizek alone says otherwise** (the script speaks only of the men of the home) | searched |
+| 81 | About 175,000 Jews in Vienna, about 8.6 % of the people; many doctors, lawyers, journalists, and many poor | 1910 census; Hamann | numbers searched, professions memory |
+| 82 | Mayor Karl Lueger won elections with speeches against Jews, had Jewish friends, "I decide who is a Jew" | Hamann. The saying is attributed to him | memory |
+| 83 | He watched Lueger and later called him the greatest German mayor of all times | *Mein Kampf* | memory, tagged S. Lueger died in March 1910 |
+| 84 | Georg von Schönerer wanted German Austria joined to Germany; followers called him "Führer" and greeted with "Heil" | Hamann | memory |
+| 85 | "He invented nothing, he took it" | Our conclusion (after Hamann) | tagged O |
+| 86 | He watched Parliament from the gallery: shouting in ten languages, desk lids, whistles, hours-long blocking speeches | *Mein Kampf*; Hamann confirms the scenes | memory, tagged S |
+| 87 | His conclusion: democracy is talk without responsibility, one man must decide | *Mein Kampf* | memory, tagged S |
+| 88 | At 24: five years in Vienna, no job, no qualification, no friend, no letters to his sister | Kershaw; Paula Hitler | memory, tagged H |
+| 89 | 20 April 1913, 24th birthday: his share of the father's estate fell due; 819 crowns | Kershaw (819 crowns 98 heller, paid in May 1913 by the Linz district court) | birthday and inheritance searched, the sum memory |
+| 90 | Should have registered for military service at 20 and had not, for over three years; later said he would not fight for the Habsburg state | Jetzinger; Kershaw | searched |
+| 91 | Left Vienna at the end of May 1913 with a friend from the home (Rudolf Häusler) | Police registration. **24 May (Kershaw) or 25 May (other accounts)**: the script says "end of May" | searched |
+| 92 | Munich: a room at a tailor's (Popp, Schleißheimer Straße 34); registered as painter and as stateless | Munich police registration (Kershaw) | room searched, "stateless" memory |
+| 93 | *Mein Kampf* gives 1912 for the move; historians think it hides the draft evasion | Jetzinger; Kershaw | memory |
+| 94 | Munich life: painted buildings and sold them shop to shop, read in the library, close to nobody; "the happiest time of my life" | *Mein Kampf*; Kershaw | memory, tagged S |
+| 95 | The Austrian police were looking for him | Linz police, 1913–14 (Jetzinger) | memory; told in chapter 3 |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -70,3 +127,7 @@ Labels on screen: F பதிவான உண்மை · W சாட்சி �
 5. Row 30: the hour of death and the lit Christmas tree.
 6. Row 34: "except one".
 7. The hook's seven crore includes the war in Asia.
+8. Chapter 2, row 50: the outburst about the Academy is Kubizek's memory, written 45 years later.
+9. Chapter 2, rows 79–80: whether Vienna made him an anti-Semite is disputed. The script follows Hamann (no evidence from the men's home) and says so; Kubizek and *Mein Kampf* say otherwise.
+10. Chapter 2, rows 82, 84: the Lueger saying and the "Führer"/"Heil" usage among Schönerer's followers (from memory of Hamann).
+11. Chapter 2, row 89: the sum of 819 crowns. Row 92: "stateless" on the Munich registration. Row 58: "thirty years".
