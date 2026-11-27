@@ -13,13 +13,13 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 - **Pictures made:** 001–048 (034 made in the turn after its failure). **030** came out upright (944×1122) and is cropped and soft: make it again when a call is free. To make: 049–053 (rest of chapter 1), 054–090 (chapter 2), 091–127 (chapter 3), 128–169 (chapter 4): `python3 tools/next.py 10` lists the next ten with their reference pictures and prompts. Ten image calls per turn is the limit, so pictures are the slow part: about 12 turns for what is planned so far.
 - **Chapters 3 and 4 are written, spoken and aligned (0 flagged)**: `script/ch03.mjs` (N19–N26, 566.1 s, fact rows 96–140), `script/ch04.mjs` (N27–N34, 582.6 s, fact rows 141–188; it builds captions with a helper `L(say, tag, [[spoken, written]…], fx)`). Shot rows are written for both (091–127, 128–169), with `CARD_BG` for N19 and N27, look **W** (Western Front) and ref **S** (the soldier; likeness photograph `cast/S_photo.jpg`, shipped inside the B05 zip), look **M** (Munich 1919–1923) and ref **P** (the party speaker, from `H_photo.jpg`, "twelve years younger").
 
-## Where it stands (26 Nov 2026)
+## Where it stands (27 Nov 2026)
 
 | Part | Script | Narration | Timing | Pictures | Film | On Drive |
 |---|---|---|---|---|---|---|
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | part `EP23_1080p_00_hook_title_v3_film.mp4` (106 s) on Drive | narration, B01, B02, R1, R2, film |
 | Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–053 made (all) | **all eight clips rendered and checked**; parts `…01_ch01a.mp4` (N03–N06) and `…01_ch01b.mp4` (N07–N10) | narration, B03–B06, clips, ch01a, ch01b |
-| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–058 made | `node film/gen.mjs N11 … N18` works (reports missing pictures) | narration |
+| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–058 made | N11 rendered and checked (in `clips_work`); N12–N18 wait for pictures 059–090 | narration |
 | Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows 091–127, none generated | built (`film/N19`…`N26`), 576 s | narration, script, fact sheet |
 | Ch 4 (N27–N34) | done | done, 582.6 s | 0 flagged | shot rows 128–169, none generated | built (`film/N27`…`N34`), 592 s | narration, script, fact sheet |
 | Ch 5 (N35–N42) | done (27 Nov) | done, 438.2 s | 0 flagged | shot rows 170–209 (look **G**, ref **Q**), none generated | `node film/gen.mjs N35 … N42` works; `CARD_BG` N35 set | narration, script, fact sheet |
@@ -83,6 +83,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N08.mp4 | `1_nVkJSB11lDOHgw-se2iEtWfWcUu-egQ` |
 | clips_work/N09.mp4 | `1Y7wM8_3P7DYccZGkbAqOZkRzcWUEPBth` |
 | clips_work/N10.mp4 | `11-_ovtOPJCjCJrGlqaQgHYtGQqXxXp7G` |
+| clips_work/N11.mp4 | `1YJzKfTlGRegA4sZsje0cBRAh4PA5Kvco` |
+| **EP23_1080p_01_ch01b.mp4** (N07–N10, 4 min 0 s = 239.7 s, 97.7 MB, −12.6 LUFS) | `1z30R5aOpeSCyGllOWqiqHAGOwSBAyQ21` |
 | images/EP23_B06_images_049-058.zip | `1yzHhZaB2Q_ad8rc8O0JRXzNMz7tLhyjV` |
 | EP23_narration_N35-N42_voice02.zip (chapter 5) | `1IkyG5VliTynQ1RwBl0qIP1K3Ye7Emtam` |
 | EP23_SCRIPT_TA_hook_ch1-ch5.md (current) | `15VSeOL4o8PN7A4hAgWgSEHiIWDOW-kuC` |
@@ -92,6 +94,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | EP23_SCRIPT_TA_hook_ch1.md | `1Yj9njt2sHz-c0ZYLgdfzRipFGrJMsOA_` |
 
 ## Picture checks
+
+- B06 (049–058), 27 Nov: all kept. 055 and 057 show an upright piano where the script says grand piano (Kubizek's was a grand); 057 reads older than nineteen. Redo 057 if a call is free.
 
 | Batch | Pictures | Result |
 |---|---|---|
