@@ -485,7 +485,7 @@ Searches of 27 Nov 2026 (two). Pages: enrs.eu (WWII timeline), Wikipedia (timeli
 | 412 | N73 | Many historians place the loss of the war in December 1941 | historians | opinion |
 | 413 | N73 | Behind the army in the east something else had begun (leads to chapter 10) | comment | opinion |
 
-## Chapter 10 — பேரழிவு, 1941–1945 (N75–N81) — DRAFT, not yet narrated
+## Chapter 10 — பேரழிவு, 1941–1945 (N75–N81) — narrated 27 Nov 2026
 
 Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Reflections), yadvashem.org (timeline 1940–1945), projectwitness.org (Einsatzgruppen; Auschwitz), adl.org (overview), historyplace.com, en.wikipedia.org (Auschwitz), history.com, historysearch.org. The chapter is told plainly: no method is described beyond what is needed to understand it, and nothing graphic is to be shown.
 
@@ -500,14 +500,14 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 | 420 | N76 | June 1941: four killing squads (Einsatzgruppen), about 3,000 men of the SS and police, followed the army | timelineoftheholocaust.org, yadvashem.org (killings begin 23 June 1941); the strength from memory | partly searched |
 | 421 | N76 | Method: the Jews of a captured town were assembled, taken outside it and shot | yadvashem.org, ADL overview | searched |
 | 422 | N76 | At first men; within weeks women, children and the old | projectwitness.org (July 1941: widened to women and children) | searched |
-| 423 | N76 | Kyiv, end of September 1941: a posted notice ordered all Jews to assemble at 8 a.m. with documents, money and warm clothing; people expected resettlement | the notice of 28 September 1941 | memory |
+| 423 | N76 | Kyiv, end of September 1941: a posted notice ordered all Jews to assemble on Monday (29 September) at 8 a.m. with documents, money and warm clothing; people expected resettlement | the notice of 28 September 1941 | memory |
 | 424 | N76 | Babi Yar, 29–30 September 1941: 33,771 shot in two days; the figure is from the killers' own report | yadvashem.org, timelineoftheholocaust.org, projectwitness.org | searched |
 | 425 | N76 | About 500,000 shot by the end of 1941; up to two million by the end of the war | projectwitness.org and ADL (two million); the 1941 figure from memory (USHMM) | partly searched |
 | 426 | N76 | Many shooters were middle-aged policemen; no record of severe punishment for refusing; most did not refuse | Browning, Ordinary Men | memory |
 | 427 | N77 | August 1941: Himmler watched a shooting (Minsk); an officer present said later that he went pale and unsteady | post-war testimony (Bach-Zelewski, Wolff) | memory |
 | 428 | N77 | His concern was the strain on the shooters; he asked for another method | same testimony | memory |
 | 429 | N77 | The method existed: the gas chambers of the patient killings and their staff, who were sent east | USHMM (Euthanasia Program; Operation Reinhard) | memory |
-| 430 | N77 | 8 December 1941, Chełmno: sealed lorries (gas vans); the first place set up for killing by gas | timelineoftheholocaust.org, yadvashem.org, historyplace.com | searched |
+| 430 | N77 | 8 December 1941, Chełmno: sealed lorries (gas vans); the first camp set up for killing Jews by gas | timelineoftheholocaust.org, yadvashem.org, historyplace.com | searched |
 | 431 | N77 | 20 January 1942, a villa by a lake near Berlin (Wannsee): fifteen senior officials, eight with doctorates, about ninety minutes | yadvashem.org, timelineoftheholocaust.org (date, purpose); the count, the doctorates and the length from memory | partly searched |
 | 432 | N77 | A list of the Jews of each European country, Britain included, totalling eleven million | the Wannsee Protocol | memory |
 | 433 | N77 | Nobody objected; the talk was of how, not whether; one of thirty copies of the minutes survived | the Wannsee Protocol (copy 16 of 30, found 1947) | memory |
@@ -522,7 +522,7 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 | 442 | N79 | A siding, a sham station with a painted clock (Treblinka), a path, a building presented as baths; arrivals were dead within two or three hours | survivor and staff testimony; USHMM | memory |
 | 443 | N79 | Run by men from the patient killings; twenty to thirty Germans to a camp | USHMM (Operation Reinhard) | memory |
 | 444 | N79 | 22 July 1942: deportations from the Warsaw ghetto to Treblinka begin, presented as work in the east; about 265,000 in under two months | ADL, historyplace.com (date); the figure from memory (USHMM) | partly searched |
-| 445 | N79 | About 1.7 million killed in the three camps in about twenty months; a few hundred survivors | the search query's USHMM figure; survivors from memory | partly searched |
+| 445 | N79 | About 1.7 million killed in the three camps in about twenty months; fewer than 200 escaped and lived to the end of the war (about 130–150 known: Treblinka about 70, Sobibór about 50–58, Bełżec 7) | the search query's USHMM figure; survivors from memory | partly searched |
 | 446 | N79 | 19 April 1943: the SS entered the Warsaw ghetto; a few hundred young fighters with pistols and home-made bombs against tanks | USHMM, Warsaw ghetto uprising | memory |
 | 447 | N79 | They held out almost four weeks (to 16 May); prisoner revolts at Treblinka (August) and Sobibór (October) in 1943 | USHMM | memory |
 | 448 | N80 | Auschwitz: a railway junction in southern Poland; a labour camp and, at Birkenau, a killing centre | Wikipedia (Auschwitz) | searched |
@@ -533,7 +533,7 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 | 453 | N80 | At least 1.1 million killed at Auschwitz, about one million of them Jews; others Poles, Roma, Soviet prisoners of war | Wikipedia (Auschwitz; Piper's study), projectwitness.org | searched |
 | 454 | N81 | 27 January 1945: Soviet soldiers reached Auschwitz; about 7,000 prisoners alive; the others had been marched west | Wikipedia (Auschwitz), projectwitness.org, history.com (7,000 to 7,600) | searched |
 | 455 | N81 | In the stores: 370,000 men's suits, 837,000 women's garments, tens of thousands of pairs of shoes (44,000), spectacles, toys | Wikipedia (Auschwitz), historysearch.org | searched |
-| 456 | N81 | Six million Jews, two of every three in Europe, 1.5 million of them children | USHMM, Yad Vashem | memory |
+| 456 | N81 | Six million Jews, two of every three in Europe, more than a million of them children (USHMM: over a million Jewish children; Yad Vashem: about 1.5 million) | USHMM, Yad Vashem | memory |
 | 457 | N81 | Also hundreds of thousands of Roma, the disabled, more than three million Soviet prisoners of war, Polish civilians, political prisoners | USHMM | memory |
 | 458 | N81 | When the patients were killed a bishop spoke and he drew back; this time no protest of that weight was raised | comment (there were individual protests and rescuers; none stopped the programme) | opinion |
 | 459 | N81 | It came step by step: a letter (1919), a book, laws, broken glass (1938), trains; it could have been stopped at each step | comment | opinion |
@@ -584,9 +584,9 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 41. Chapter 9, rows 388, 391: the grey buses, the shower-room chambers, the pneumonia letters and the transfer of the T4 staff to the east are from memory (USHMM describes them).
 42. Chapter 9, rows 396, 398–400: the railway carriage, the peace offer, the 57 nights and the 40,000 dead are from memory. The dawn visit to Paris was left out because its date is disputed.
 43. Chapter 9, rows 404, 406–408: the orders before the invasion, the two million dead prisoners (an estimate), the temperature and the date of the counter-offensive are from memory.
-44. Chapter 10 is a draft and the most sensitive part of the film: read every line against USHMM or Yad Vashem before narrating. Rows 415–419: the wording of the 30 January 1939 speech, the Warsaw ghetto figures (3.4 sq km, seven to a room, the ration, about 83,000 dead) are from memory.
+44. Chapter 10 is the most sensitive part of the film; it was read through once more before narration (four lines changed: the Kyiv notice says Monday, Chełmno is "the first camp for killing Jews by gas", survivors of the three camps "fewer than 200", children "more than a million"). Before publishing, read every line against USHMM or Yad Vashem. Rows 415–419: the wording of the 30 January 1939 speech, the Warsaw ghetto figures (3.4 sq km, seven to a room, the ration, about 83,000 dead) are from memory.
 45. Chapter 10, rows 423, 425–429: the Kyiv notice, the 500,000 by the end of 1941, the Browning finding, Himmler at Minsk (post-war testimony of men who had reason to shift blame) and the T4 staff are from memory.
 46. Chapter 10, rows 431–433: fifteen officials, eight doctorates, ninety minutes, eleven million, thirty copies and one survivor are from memory.
 47. Chapter 10, rows 436–439: the Goebbels diary entry, Himmler's note of 18 December 1941 and the Posen speech are quoted from memory in shortened form; check the wording. The script leaves out Himmler's word "glory".
-48. Chapter 10, rows 442–447: the sham station, the staff numbers, 265,000, a few hundred survivors, the ghetto rising and the camp revolts are from memory.
-49. Chapter 10, rows 456–458: six million, two in three, 1.5 million children, the other groups, and the comment that no protest of the bishop's weight was raised (there were protests, e.g. the Rosenstrasse wives in 1943 and individual clergy; the line says "of that weight").
+48. Chapter 10, rows 442–447: the sham station, the staff numbers, 265,000, fewer than 200 survivors, the ghetto rising and the camp revolts are from memory.
+49. Chapter 10, rows 456–458: six million, two in three, more than a million children, the other groups, and the comment that no protest of the bishop's weight was raised (there were protests, e.g. the Rosenstrasse wives in 1943 and individual clergy; the line says "of that weight").

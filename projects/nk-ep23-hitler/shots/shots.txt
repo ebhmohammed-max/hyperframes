@@ -373,3 +373,52 @@ N73|0|naval_harbour_black_smoke_hillside|X|7 December 1941: a tropical naval har
 N73|1|man_rostrum_side_far_deputies_shadow|X@H|11 December 1941: the man at a rostrum seen from the side and from far, reading out a declaration, rows of deputies in uniform in shadow below him. No flags, no emblems
 N73|2|globe_dark_study_lamp_on_europe|O|close view: a large globe in a dark study, lamp light falling on Europe, the vast land mass to the east and the ocean to the west both in view, lettering blurred beyond reading
 N73|4|lorries_turning_off_road_into_forest_dusk|X|dusk in the east: a few lorries and armed men turning off the main road, where the army column rolls on, along a track into a dark forest, seen from far. Nothing graphic, no insignia
+# Chapter 10 (1941–1945). Look X or O; ref H in two, far. Places, objects, trains and documents; people only from far; nothing graphic, no victim shown close.
+N75|0|memorial_candles_rows_dark|O|a still life: rows of small memorial candles burning in the dark, soft focus, no lettering, no people
+N75|1|man_rostrum_far_chamber_raised_fist|X@H|30 January 1939: the man at a rostrum seen from far and from the side, speaking with a clenched hand, rows of deputies in shadow below him. No flags, no emblems
+N75|3|brick_wall_built_across_street_gap|X|1940, Warsaw in occupied Poland: workmen building a high brick wall across a city street, people with bundles and handcarts on the far side looking through the last gap, seen from a distance
+N75|4|ghetto_street_winter_crowd_child_bowl|X|a crowded ghetto street in winter in occupied Poland: thin people in worn coats, a hand-cart, a child sitting on a kerb with an empty bowl, shown with respect, nothing graphic, seen from a little distance
+N76|0|lorries_dusty_road_wooden_village|X|summer 1941 in the occupied east: a few lorries with armed men driving along a dusty road into a village of wooden houses, the army column far ahead on the horizon. No insignia
+N76|1|town_square_families_bundles_far|X|families assembled in a small eastern town square with bundles, old men, women holding children by the hand, seen from behind and from far away, armed guards small at the edges. Nothing graphic
+N76|3|notice_on_wall_people_reading|X|Kyiv, late September 1941: people in coats and headscarves reading a printed notice pasted on a wall, the print blurred beyond reading, worried faces in profile
+N76|4|column_civilians_road_city_edge_far|X|a long column of civilians with suitcases, children and old people walking along a road at the edge of a city in autumn, seen from far and above. Nothing graphic
+N76|4|ravine_empty_autumn_mist|O|an empty wooded ravine on the edge of a city in autumn mist, birches, fallen leaves, complete stillness, no people, nothing else
+N76|5|wall_map_east_hundreds_of_pins|O|close view: a wall map of eastern Europe studded with hundreds of small pins, lamp light, all lettering blurred beyond reading
+N76|6|middle_aged_policemen_lorry_tailboard|X|middle-aged policemen in greatcoats sitting on the tailboard of a lorry in a forest clearing in the east, smoking, not looking at one another, grey light. No insignia. Nothing graphic
+N77|0|slight_man_rimless_glasses_pale_field_edge|X|August 1941: a slight man in a long leather coat and round rimless glasses standing pale at the edge of a field with officers around him, looking away, one hand at his mouth, seen from the side and from a distance. No insignia. Nothing graphic
+N77|2|men_overcoats_suitcases_small_station|X|a few men in civilian overcoats with suitcases boarding a train at a small provincial station on a grey morning, seen from far
+N77|3|grey_box_lorry_manor_yard_snow|X|December 1941 in occupied Poland: a grey closed box lorry standing in the yard of a run-down manor house beside a forest in snow, no people, quiet. Nothing graphic
+N77|4|villa_frozen_lake_black_cars|X|20 January 1942: an elegant villa on a frozen lake outside a city, black staff cars on the gravel drive, snow on the lawn, no people
+N77|4|conference_table_fifteen_places_empty|O|a polished conference table in the dining room of a villa set with fifteen places, folders, water glasses and small cognac glasses, chairs pushed back, winter light through tall windows, no people, lettering blurred
+N77|5|typed_list_two_columns_pen|O|close view: a typed page with two columns of short names and figures, all blurred beyond reading, a fountain pen and a pair of spectacles beside it, lamp light
+N77|6|single_folder_empty_archive_shelf|O|a single worn cardboard folder lying alone on an empty steel archive shelf, lamp light, no lettering
+N78|0|empty_chair_head_of_long_table|O|the empty high-backed chair at the head of a long table in a dark panelled room, one lamp, no people
+N78|1|blank_sheet_capped_pen_telephone|O|a still life: a blank sheet of paper and a capped fountain pen on a large dark desk, a black telephone of the 1940s beside them, no people
+N78|2|officials_seen_from_behind_man_far|X@H|12 December 1941: a private room in a government building, a group of officials standing and seated, seen from behind, listening to the man who stands small and far at the end of the room. No flags, no emblems
+N78|3|diary_open_night_lamp_hand|O|a thick bound diary open under a desk lamp at night in the 1940s, close handwriting blurred beyond reading, a hand with a fountain pen
+N78|4|appointment_book_short_line_glasses|O|close view: a pocket appointment book open at a ruled page with one short handwritten line, blurred beyond reading, a pair of round rimless glasses lying across it
+N78|5|recording_disc_turning_archive|O|an old recording disc turning on a 1940s playback machine in an archive listening room, a pair of headphones on the table, soft light, no lettering
+N78|6|stacks_history_books_markers|O|a desk with tall stacks of thick history books bristling with paper markers under a reading lamp, no readable titles, no people
+N79|0|railway_spur_into_pine_forest|X|1942 in occupied eastern Poland: a single railway spur line curving off the main track into a dense pine forest, a high fence woven with pine branches, no people
+N79|1|sham_station_painted_clock_empty|X|an empty small railway platform in a forest clearing with a neat wooden station front, flower boxes and a clock face painted on the wall, no people, an eerie stillness. No lettering
+N79|2|few_men_neat_house_steps_dog_far|X|a handful of men in plain grey uniforms standing at ease on the steps of a neat wooden house with a flower garden, one with a dog, pine forest behind, seen from far. No insignia
+N79|3|siding_crowd_goods_wagons_very_far|X|July 1942, Warsaw: a railway siding beside a walled square, a great crowd with bundles and a line of closed goods wagons, seen from very far and high. Nothing graphic
+N79|4|emptied_street_pram_suitcases_feathers|X|an emptied ghetto street after the transports: open doors, a pram, suitcases and feathers from torn pillows lying on the cobbles, no people
+N79|5|young_fighters_cellar_candle|X|April 1943, Warsaw: a cellar, a handful of young men and women in civilian clothes with determined faces checking two pistols and a row of bottles by candlelight
+N79|6|tenements_smoke_tank_far_rooftops|X|a block of tenement houses under heavy smoke, a tank at the far end of the street, seen from far across the rooftops. Nothing graphic
+N79|6|figures_running_broken_fence_forest|X|dusk: small figures in ragged clothes running from a broken wire fence into a pine forest, seen from far
+N80|0|brick_gatehouse_tower_rails_fog|X|a long low brick gatehouse with a central tower and a railway track running through its arch, flat snowy land, fog, no people. No lettering
+N80|1|map_europe_threads_to_one_point|O|a map of Europe on a table with red threads running from many cities to one point in the east, lamp light, lettering blurred beyond reading
+N80|1|closed_goods_wagon_siding_small_opening|X|a closed wooden goods wagon standing on a siding in summer heat, a small barred opening high in its side, no people
+N80|2|long_ramp_two_columns_far_high|X|a long railway ramp between tracks, a great crowd of new arrivals with bundles forming two columns, a uniformed figure seen small from behind at their head, watchtowers, seen from far and high. Nothing graphic
+N80|3|goods_train_wide_plain_summer|X|summer 1944: a long goods train crossing a wide sunlit Hungarian plain with a well sweep and farmsteads, seen from far
+N80|4|army_train_waiting_goods_train_passing|X|1944: a siding where a military train with vehicles under tarpaulins stands waiting while a long train of closed goods wagons passes on the main line, seen from a signal box
+N80|5|rows_barracks_fence_posts_fog|X|endless rows of low wooden barracks and concrete fence posts fading into fog, no people
+N81|0|soldiers_fur_caps_open_gate_snow|X|27 January 1945: a few soldiers in winter greatcoats and fur caps with a horse standing at an open gate in a wire fence in falling snow, a few thin figures wrapped in blankets coming slowly towards them, seen from far. Nothing graphic
+N81|1|storeroom_mountain_of_shoes|O|a storeroom with an enormous pile of worn shoes of every size reaching towards the rafters, grey light from one small window, no people
+N81|1|heap_spectacles_small_cloth_doll|O|close view: a heap of tangled wire spectacles and beside it a small worn cloth doll, grey light, no people
+N81|2|empty_market_square_shuttered_houses|O|the empty market square of a small eastern European town at dawn, shuttered wooden houses, a well, not a single person
+N81|3|memorial_field_standing_stones|O|a memorial field of thousands of rough standing stones of different sizes under a grey sky, no lettering, no people
+N81|4|empty_pulpit_dark_church|O|an empty pulpit in a dark gothic church, light from one window, empty pews, no people
+N81|5|row_letter_book_laws_glass_rail|O|a still life in a row on a dark table: a handwritten letter, a thick book, a bound volume with a wax seal, shards of broken window glass, a short piece of railway rail, all lettering blurred beyond reading
+N81|6|ruined_city_frozen_river_far|X|winter 1942: a ruined industrial city on the high bank of a wide frozen river, smoke on the horizon, seen from far
