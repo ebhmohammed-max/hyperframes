@@ -19,14 +19,14 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 |---|---|---|---|---|---|---|
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | part `EP23_1080p_00_hook_title_v3_film.mp4` (106 s) on Drive | narration, B01, B02, R1, R2, film |
 | Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–053 made (all) | **all eight clips rendered and checked**; parts `…01_ch01a.mp4` (N03–N06) and `…01_ch01b.mp4` (N07–N10) | narration, B03–B06, clips, ch01a, ch01b |
-| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–077 made (067 made again, no overcoat) | N11–N13 rendered and checked (in `clips_work`); N14–N18 wait for pictures 069–090 (N14 needs 069–072) | narration |
+| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–077 made (067 made again, no overcoat) | N11–N15 rendered and checked (N13 rendered again with the new 067 and `cuts` on its bench/café/convent line) (in `clips_work`); N14–N18 wait for pictures 069–090 (N14 needs 069–072) | narration |
 | Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows 091–127, none generated | built (`film/N19`…`N26`), 576 s | narration, script, fact sheet |
 | Ch 4 (N27–N34) | done | done, 582.6 s | 0 flagged | shot rows 128–169, none generated | built (`film/N27`…`N34`), 592 s | narration, script, fact sheet |
 | Ch 5 (N35–N42) | done (27 Nov) | done, 438.2 s | 0 flagged | shot rows 170–209 (look **G**, ref **Q**), none generated | `node film/gen.mjs N35 … N42` works; `CARD_BG` N35 set | narration, script, fact sheet |
 | Ch 6 (N43–N50) | done (27 Nov) | done, 383.7 s | 0 flagged | shot rows 210–244 (look **D**, ref **H**), none generated | `node film/gen.mjs N43 … N50` works; `CARD_BG` N43 set | narration, script, fact sheet |
 | Ch 7 (N51–N58) | done (27 Nov) | done, 374.8 s | 0 flagged | shot rows 245–279 (look **X**, ref **H**), none generated | `node film/gen.mjs N51 … N58` works; `CARD_BG` N51 set | narration, script, fact sheet |
-| Ch 8 (N59–N66) | **drafted** (27 Nov; `script/ch08.mjs`, 6,901 chars, about 7.6 min; in the build only with `EP23_DRAFT=1`) | not yet | – | not written | – | fact rows 315–371, check points 33–38 |
-| Ch 8 to 12 | not written | | | | | |
+| Ch 8 (N59–N66) | **drafted** (27 Nov; `script/ch08.mjs`, 6,960 chars, about 7.7 min; in the build only with `EP23_DRAFT=1`) | not yet | – | not written | – | fact rows 315–371, check points 33–38 |
+| Ch 9 to 12 | not written | | | | | |
 
 Running time so far: 59 min 29 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s). Five chapters remain: at 8 min each the film ends near 100 min; they may run to 9 min each and still land on 105.
 
@@ -87,7 +87,10 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N10.mp4 | `11-_ovtOPJCjCJrGlqaQgHYtGQqXxXp7G` |
 | clips_work/N11.mp4 | `1YJzKfTlGRegA4sZsje0cBRAh4PA5Kvco` |
 | clips_work/N12.mp4 | `1M97nOFvqj7MLaGQ_ps2Fxl6EFdsGkBi1` |
-| clips_work/N13.mp4 (old 067; replaced after the re-render) | `1fInytKjmc5Y7L9jcBdhJ1lh4ZFuoBlgM` |
+| clips_work/N13.mp4 (**outdated**: old 067, pictures one sentence late) | `1fInytKjmc5Y7L9jcBdhJ1lh4ZFuoBlgM` |
+| clips_work/N13_v2.mp4 (current N13; restore it as `out/renders/N13.mp4`) | `1lcGTzXMxVvy_zpNw7wwDTrkW8kaMw70C` |
+| clips_work/N14.mp4 | `1VTxBucpAXSP4K65jjJ5ncDj5Y9c8zcyW` |
+| clips_work/N15.mp4 | `1-EXnGlRJUWtkrxYabTgbVItNtmHSZmes` |
 | images/EP23_B08_images_069-077_plus_067.zip | `1UpbZ4KYi-x-sn2gGfKMyzP49O1fom7fJ` |
 | EP23_narration_N51-N58_voice02.zip (chapter 7) | `14lss1jJmII4ma_qe7H2UgUKEytyH38Q8` |
 | EP23_SCRIPT_TA_hook_ch1-ch7.md (current) | `1UAhrNyNK11Y41rTwBhvOTHFHuIx5f5CL` |

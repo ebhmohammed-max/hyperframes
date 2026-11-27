@@ -418,7 +418,7 @@ Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline),
 | 352 | N64 | The French army had about a hundred divisions; his own generals were afraid; the plan was to pull back if France moved | historyplace.com; johndclare.net | searched; historians dispute how complete the withdrawal order was |
 | 353 | N64 | His later words: the 48 hours were the most nerve-racking of his life; "we would have had to withdraw with our tails between our legs" | historyplace.com; historycrunch.com (reported by his interpreter Paul Schmidt) | searched; one witness |
 | 354 | N64 | Had anyone moved that day the story might have ended there; the lesson he took was that they would not stop him | comment / historians | opinion |
-| 355 | N65 | 12 March 1938: the German army entered Austria without a shot; he reached Linz the same day | annefrank.org | searched (Linz from memory) |
+| 355 | N65 | 12 March 1938: the German army entered Austria without a shot; he crossed the border that afternoon at Braunau, his birthplace, and reached Linz in the evening | annefrank.org | searched (Braunau and Linz from memory) |
 | 356 | N65 | Three days later (15 March) he spoke to a great crowd in Vienna (Heldenplatz) | annefrank.org | searched |
 | 357 | N65 | Twenty-eight years earlier he had stood in the queue of the homeless shelter in the same city (late 1909) | chapter 2; 1909 to 1938 | arithmetic |
 | 358 | N65 | That week Jews in Vienna were forced to scrub pavements on their knees while crowds laughed; photographs survive | general | memory (well documented) |
