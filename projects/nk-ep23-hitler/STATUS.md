@@ -31,7 +31,7 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 | Ch 11 (N83–N90) | done (27 Nov; N90 added to lengthen: Warsaw, Paris, the rockets, the call-up) | done, 576.5 s | 0 flagged | shot rows 410–459 (looks **X**, **O**; ref **H** in six), none generated | `node film/gen.mjs N83 … N90` works; `CARD_BG` N83 set | narration, script, fact sheet (rows 461–506 with 504a–e, check points 50–56, 63) |
 | Ch 12 (N91–N98) | done (27 Nov; N92 added to lengthen; Dresden said as three days; N98's closing lines reuse the hook's pictures) | done, 596.0 s | 0 flagged | shot rows 460–499 (looks **X**, **O**; ref **H** in six, from behind or far), none generated; reused in N98: 003, 004, 013, 018, 019, 203, 212, 322, 406, 408 | `node film/gen.mjs N91 … N98` works; `CARD_BG` N91 set | narration, script, fact sheet (rows 507–558 with 513a–h, check points 57–62, 64) |
 
-**The whole narration is recorded: 101 min 53 s** (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s, chapter 8 7 min 36 s, chapter 9 6 min 40 s, chapter 10 8 min 37 s, chapter 11 9 min 37 s, chapter 12 9 min 56 s). With the title card, twelve chapter cards (2.3 s each) and the end card the film lands near 103 min (asked for: 1 h 45 min). Pictures: 499 rows; 001–135 made, 136–499 to make. Renders: N03–N25 and the END card done and on Drive; N26 waits for pictures 126, 127; part ch03b = N23–N26.
+**The whole narration is recorded: 101 min 53 s** (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s, chapter 8 7 min 36 s, chapter 9 6 min 40 s, chapter 10 8 min 37 s, chapter 11 9 min 37 s, chapter 12 9 min 56 s). With the title card, twelve chapter cards (2.3 s each) and the end card the film lands near 103 min (asked for: 1 h 45 min). Pictures: 499 rows; 001–135 made, 136–499 to make. Renders: N03–N27 and the END card done and on Drive; chapter 3 is complete (parts ch03a, ch03b). N28 waits for pictures 136, 137. Locally only the narration of N11–N34 and N59–N98 is present: before rendering N35–N58 download the chapter 5, 6 and 7 narration zips and unpack them into `narration/` (a missing mp3 makes the render fail at once).
 
 ## Next steps
 
@@ -104,6 +104,9 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N23.mp4 | `1CB-v59mj0lUaYVJOhEACwXNX0jEnQEXR` |
 | clips_work/N24.mp4 (58.9 s, frames checked) | `1NfzydEa5cHRDHFkFavtQBpvBo5bx-yXL` |
 | clips_work/N25.mp4 (68.8 s, frames checked) | `1CtWmPgYNX_5tWDQgeAG6DmDD3tPRLKLe` |
+| clips_work/N26.mp4 (73.4 s, frames checked) | `18Bg0v-wR8d25niOYfWWwGe_d4k9rm_6H` |
+| clips_work/N27.mp4 (75.1 s, chapter 4 card, frames checked) | `1SlSDSuMWtjLQXPoheFXYsBul9bLh4Lff` |
+| **EP23_1080p_04_ch03b.mp4** (N23–N26, 270.0 s, 97.6 MB, two-pass 2690k, −12.7 LUFS, peak −2.0 dBFS) | `1_KwM-4wIJ6p-b7Ik2lL8npuAvomH5hXa` |
 | clips_work/END.mp4 (end card, 17 s; goes after N98) | `15pE38DggQb_Qe1lWhyrc-Px3IFvcsAPe` |
 | EP23_END.mp3 (end card voice; restore as `narration/END.mp3`, then `node film/end.mjs`) | `1_p33LqXaqK0mR9JVFEkpmuCQtr2jYy_z` |
 | **EP23_1080p_03_ch03a.mp4** (N19–N22, 306.5 s, 97.7 MB, two-pass 2347k, −12.6 LUFS, peak −2.0 dBFS) | `1tIP3FT-R0ybGOx3rjPQjTXTg1OAR74YC` |
@@ -151,6 +154,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 ## Picture checks
 
 - B11 (097–106), 27 Nov: all kept (first batch with the soldier reference `S_photo.jpg`, which comes from the B05 zip). 102 gives him a small moustache instead of the wide one of the war years; 106 crops the top of his head; 103 shows a researcher's face (fine, modern archive).
+- Continuity in N26: 123 shows a very wide moustache, 126 a narrow one, in the same clip; remake 126 when a call is free, then render N26 and part ch03b again. The captain in 132 (N27) looks like a well-known film actor; remake if wanted.
 - B14 (126–135), 27 Nov: all kept, all wide (128 is 1536×688, cropped at the sides). 126 and 131 give him a narrow moustache instead of the wide one of 1918–1919; in 127 the light on the lips came out orange; 132 has no cigarette; 130 shows him with a beard shadow.
 - B13 (116–125), 27 Nov: all kept; all came back wide (the referenced prompts now begin "Wide landscape frame, wider than tall."). 123 is 1536×688 and is cropped at the sides. 116 gives him a narrow moustache; 123 a wide one and a face older than twenty-nine; 120 shows the bandaged men with moustaches but none is clearly him; 125 shows officers at a telephone, not him (as asked).
 - B12 (107–115), 27 Nov: all kept; 116 failed once and is not made. 108 and 114 came back upright (880×1192): 108 is cropped by hand to the dog, the mess tin and the hands (his face, with a small moustache, is left out); 114 is centre-cropped (fingers on the pocket). 113 gives him a curled moustache and a fuller face. 115: the adjutant's uniform reads khaki-brown rather than field-grey.
