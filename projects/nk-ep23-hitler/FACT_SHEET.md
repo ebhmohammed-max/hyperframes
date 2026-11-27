@@ -320,7 +320,7 @@ Searches of 27 Nov 2026 (two). Pages: Nuremberg document 252-PS (fcit.usf.edu/ho
 | 268 | N50 | Two months later there was no democracy: Enabling Act, 23 March 1933 | substack page; general | searched |
 | 269 | N50 | "Eighteen months": the next chapter | — | link |
 
-## Chapter 7 — பதினெட்டு மாசம், 1933–1934 (N51–N58) — DRAFT, not yet narrated
+## Chapter 7 — பதினெட்டு மாசம், 1933–1934 (N51–N58) — narrated 27 Nov 2026
 
 Searches of 27 Nov 2026 (two). Pages: Wikipedia (Gleichschaltung; Night of the Long Knives), democracydestroyed.com (23 March 1933), thisdayofhistory.com, normandy1944.info, ourhistory.org.uk. One search result (an apologist site) was not used. "memory" = not confirmed by these searches.
 
@@ -363,7 +363,7 @@ Searches of 27 Nov 2026 (two). Pages: Wikipedia (Gleichschaltung; Night of the L
 | 304 | N57 | 30 June 1934, early morning, a lakeside hotel in Bavaria (Bad Wiessee): he took part in person, armed, and arrested Röhm | Wikipedia; normandy1944.info | searched |
 | 305 | N57 | Three days of killing from lists across the country, carried out by the SS (and Gestapo) | Wikipedia (30 June to 2 July) | searched |
 | 306 | N57 | A pistol was left in Röhm's cell; "If I am to be killed, let Adolf do it himself"; he was shot | Wikipedia (Eicke and Lippert, 1 July) | searched |
-| 307 | N57 | Schleicher, his predecessor as chancellor, shot at home with his wife; Kahr, who had put down the 1923 putsch, 71, found dead outside Munich | Wikipedia | searched (age 71 from his birth year 1862) |
+| 307 | N57 | Schleicher, his predecessor as chancellor, shot at home with his wife; Gustav von Kahr ("the ruler of Bavaria who put down the beer-hall putsch"; named here for the first time in the film), 71, found dead outside Munich | Wikipedia | searched (age 71 from his birth year 1862) |
 | 308 | N57 | At least 85 known dead; the real number may be higher | Wikipedia; Evans 2005, p. 39 | searched |
 | 309 | N58 | 13 July 1934, Reichstag speech: he gave the order; "I became the supreme judge of the German people" | Wikipedia (speech text) | searched |
 | 310 | N58 | The cabinet passed a law declaring the killings legal (3 July); a leading jurist (Carl Schmitt) wrote "The Leader Protects the Law" | normandy1944.info (the law); Schmitt, *Der Führer schützt das Recht*, 1934 | law searched; Schmitt from memory |
