@@ -320,6 +320,58 @@ Searches of 27 Nov 2026 (two). Pages: Nuremberg document 252-PS (fcit.usf.edu/ho
 | 268 | N50 | Two months later there was no democracy: Enabling Act, 23 March 1933 | substack page; general | searched |
 | 269 | N50 | "Eighteen months": the next chapter | — | link |
 
+## Chapter 7 — பதினெட்டு மாசம், 1933–1934 (N51–N58) — DRAFT, not yet narrated
+
+Searches of 27 Nov 2026 (two). Pages: Wikipedia (Gleichschaltung; Night of the Long Knives), democracydestroyed.com (23 March 1933), thisdayofhistory.com, normandy1944.info, ourhistory.org.uk. One search result (an apologist site) was not used. "memory" = not confirmed by these searches.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 270 | N51 | On 30 January he held only the chancellorship; president, parliament, courts, press, unions and state governments still stood | general | known |
+| 271 | N51 | Eighteen months later none of that was left, mostly done in legal form | comment; rows below | opinion |
+| 272 | N51 | 27 February 1933, night: the Reichstag building burned; Marinus van der Lubbe, Dutch, 24, a (council) communist, was caught inside | thisdayofhistory.com; general | searched (the fire and the name); age from memory |
+| 273 | N51 | Whether he acted alone is still debated by historians | Tobias, Mommsen (alone); Hett and others (doubt) | known debate |
+| 274 | N51 | At the burning building he said this was the start of a Communist rising and there would be no mercy | Rudolf Diels's memoir (1949) | memory; one witness, written later |
+| 275 | N52 | 28 February 1933: emergency decree "for the Protection of People and State", signed by Hindenburg | Wikipedia, Gleichschaltung | searched |
+| 276 | N52 | Suspended: freedom of speech, press, assembly, privacy of post; detention without trial | Wikipedia; thisdayofhistory.com | searched |
+| 277 | N52 | The decree was never lifted in the twelve years of his rule | general | known |
+| 278 | N52 | Thousands of Communists, Social Democrats and trade unionists arrested within weeks | thisdayofhistory.com | searched ("thousands") |
+| 279 | N52 | 22 March 1933: the first camp opened at Dachau near Munich, in a disused munitions factory; announced to the press beforehand (Himmler, 20 March) | Dachau memorial site; general | memory |
+| 280 | N52 | "This name returns" | — | link |
+| 281 | N53 | 5 March 1933 election: opposition leaders in prison, their papers shut, SA on the streets, state radio in his hands | Evans; searched pages ("prevented many politicians from campaigning") | searched in part |
+| 282 | N53 | He got 43.9 per cent: still no majority | Wikipedia, Gleichschaltung | searched |
+| 283 | N53 | 23 March 1933: a law letting the government make laws without parliament for four years, even against the constitution | democracydestroyed.com; Wikipedia | searched |
+| 284 | N53 | It needed two thirds; the 81 Communist deputies were not admitted; SA and SS ringed and lined the hall (Kroll Opera House) | democracydestroyed.com; Wikipedia | searched (the cordon); 81 from memory |
+| 285 | N53 | The other parties voted yes, some from fear, some trusting his promises (the Centre Party) | Wikipedia; democracydestroyed.com | searched |
+| 286 | N54 | Otto Wels, chairman of the Social Democrats, was the only speaker against; SA chanting outside; he is said to have carried a poison capsule | democracydestroyed.com (the speech); the capsule: later accounts | speech searched; capsule from memory, told at second hand |
+| 287 | N54 | Wels: "Freedom and life can be taken from us, but not our honour" | Reichstag record, 23 March 1933; three searched pages | searched |
+| 288 | N54 | Vote: 444 for, 94 against, all 94 Social Democrats | Wikipedia; democracydestroyed.com (Göring announced 441; the recount gave 444) | searched |
+| 289 | N54 | From then on parliament was only a stage | comment | opinion |
+| 290 | N54 | Papen had said two months; it took seven weeks and three days (30 January to 23 March = 52 days) | rows 263, 283 | arithmetic |
+| 291 | N54 | Democracy voted itself out | comment | opinion |
+| 292 | N55 | "One a month" | comment | opinion |
+| 293 | N55 | 1 April 1933: boycott of Jewish shops, SA men at the doors; 7 April: civil service law removing Jews and opponents (teachers, judges, professors) | general; USHMM | known |
+| 294 | N55 | 1 May made a paid holiday; 2 May: union offices occupied, leaders arrested, funds seized | general; Evans | known |
+| 295 | N55 | 10 May 1933: students burned books in university towns: Einstein, Freud and hundreds of other authors | general; USHMM | known |
+| 296 | N55 | Heine, burned that day, had written: "Where they burn books, they will in the end burn people" | Heinrich Heine, *Almansor* (1821) | known (112 years before; the script says "more than a hundred") |
+| 297 | N55 | 14 July 1933: law against the founding of new parties; one party only | general | known |
+| 298 | N55 | In six months: no opposition party, no unions, no free press | summary of the rows above | summary |
+| 299 | N56 | Why people went along: fear, but also relief (street fighting ended, work returned, "order") | Kershaw, *The "Hitler Myth"*; Evans | historians' view, from memory |
+| 300 | N56 | Most thought: those locked up are Communists and Jews, not us | Evans; Gellately, *Backing Hitler* | historians' view, from memory |
+| 301 | N56 | The SA had nearly three million men in 1934; Ernst Röhm, with him since the beer-hall years, one of the few who called him "du" | en-academic copy of Wikipedia (2.9 million in August 1934); Kershaw | figure searched; "du" from memory |
+| 302 | N56 | Röhm wanted a "second revolution" and the army merged with the SA under him | Kershaw; Wikipedia | known |
+| 303 | N56 | The generals refused; with Hindenburg dying he needed the army for the succession; the army's price was Röhm | Wikipedia ("strengthened … the military's support"); Kershaw | historians' view; searched in part |
+| 304 | N57 | 30 June 1934, early morning, a lakeside hotel in Bavaria (Bad Wiessee): he took part in person, armed, and arrested Röhm | Wikipedia; normandy1944.info | searched |
+| 305 | N57 | Three days of killing from lists across the country, carried out by the SS (and Gestapo) | Wikipedia (30 June to 2 July) | searched |
+| 306 | N57 | A pistol was left in Röhm's cell; "If I am to be killed, let Adolf do it himself"; he was shot | Wikipedia (Eicke and Lippert, 1 July) | searched |
+| 307 | N57 | Schleicher, his predecessor as chancellor, shot at home with his wife; Kahr, who had put down the 1923 putsch, 71, found dead outside Munich | Wikipedia | searched (age 71 from his birth year 1862) |
+| 308 | N57 | At least 85 known dead; the real number may be higher | Wikipedia; Evans 2005, p. 39 | searched |
+| 309 | N58 | 13 July 1934, Reichstag speech: he gave the order; "I became the supreme judge of the German people" | Wikipedia (speech text) | searched |
+| 310 | N58 | The cabinet passed a law declaring the killings legal (3 July); a leading jurist (Carl Schmitt) wrote "The Leader Protects the Law" | normandy1944.info (the law); Schmitt, *Der Führer schützt das Recht*, 1934 | law searched; Schmitt from memory |
+| 311 | N58 | The killer called himself the judge and the country accepted it: "that day law died" | comment | opinion |
+| 312 | N58 | 2 August 1934: Hindenburg died; the same day the two offices were merged; title Führer (and Reich Chancellor) | normandy1944.info | searched |
+| 313 | N58 | The same day every soldier swore a personal oath of unconditional obedience to him, not to the constitution | normandy1944.info; ourhistory.org.uk | searched |
+| 314 | N58 | Eighteen months and three days after 30 January 1933 | dates | arithmetic |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -350,3 +402,7 @@ Searches of 27 Nov 2026 (two). Pages: Nuremberg document 252-PS (fcit.usf.edu/ho
 26. Chapter 6, rows 234, 254, 255, 256: the SA figure (400,000), the party's debts, the Goebbels diary line and the newspaper line of 1 January 1933 are from memory; check wording against Kershaw or Turner.
 27. Chapter 6, row 249: that Hindenburg did not offer him a seat on 13 August 1932 is from memory.
 28. Chapter 6, row 265: the hook says "24 years"; December 1909 to January 1933 is 23 years and one month.
+29. Chapter 7, row 274: his words at the fire come from one witness (Diels), written sixteen years later.
+30. Chapter 7, rows 279, 284, 286: Dachau's opening details, the 81 Communist deputies and Wels's poison capsule are from memory; the capsule is told at second hand and the script says "it is said".
+31. Chapter 7, row 310: the jurist is not named in the script (Carl Schmitt); check the title's wording.
+32. Chapter 7 leaves out the plebiscite of 19 August 1934 (about 90 per cent "yes" under pressure), because the figure was not confirmed.
