@@ -539,9 +539,9 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 | 459 | N81 | It came step by step: a letter (1919), a book, laws, broken glass (1938), trains; it could have been stopped at each step | comment | opinion |
 | 460 | N81 | In the same months the war was slipping from him: Stalingrad (leads to chapter 11) | comment | opinion |
 
-## Chapter 11 — சரிவு, 1942–1944 (N83–N89) — DRAFT, not yet narrated
+## Chapter 11 — சரிவு, 1942–1944 (N83–N90) — narrated 27 Nov 2026
 
-Searches of 27 Nov 2026 (two). Pages: timecyclopedia.com, blessedhomeschooldad.com, calamitycalendar.com, compacthistories.com, historyskills.com (Stalingrad); en.wikipedia.org and military-history.fandom.com (20 July plot), titanicnewschannel.com, datesandtimes.org.
+Searches of 27 Nov 2026 (three; the third for N90: encyclopedia.ushmm.org "1944: Key Dates", libraryofwar.com, Wikipedia "1944 in Germany", simple.wikipedia.org "Warsaw Uprising", warsawinstitute.org). Pages: timecyclopedia.com, blessedhomeschooldad.com, calamitycalendar.com, compacthistories.com, historyskills.com (Stalingrad); en.wikipedia.org and military-history.fandom.com (20 July plot), titanicnewschannel.com, datesandtimes.org.
 
 | No | Clip | Claim in the script | Source | Basis |
 |---|---|---|---|---|
@@ -589,8 +589,13 @@ Searches of 27 Nov 2026 (two). Pages: timecyclopedia.com, blessedhomeschooldad.c
 | 502 | N89 | Rommel, suspected of knowing: in October two generals offered him a trial and reprisals against his family, or poison and a state funeral; he took the poison (14 October 1944) | military-history.fandom.com, datesandtimes.org | searched |
 | 503 | N89 | Had the bomb killed him the war might have ended ten months earlier; about half of all German soldiers killed in the war died in those last ten months | historians (Overmans's count of German military deaths) | memory |
 | 504 | N89 | After it he trusted nobody; every officer's case was searched and pistols were handed in at the door | general history | memory |
-| 505 | N89 | December 1944: a last gamble in the west through the same wooded hills as in 1940 (the Ardennes); it stalled within two weeks for want of fuel and used up the last tanks and aircraft | general history | memory |
-| 506 | N89 | 16 January 1945: his train reached Berlin; the bunker under the garden; the last three and a half months of his life | general history | memory |
+| 504a | N90 | 1 August 1944: the Warsaw rising; 63 days; his order to raze the city; about 200,000 civilians killed; the city blown up block by block afterwards | USHMM "1944: Key Dates" (63 days, more than 180,000 killed); libraryofwar.com (about 200,000, demolition by his order); simple.wikipedia.org (150,000 to 200,000) | searched |
+| 504b | N90 | Paris: the same order to leave the city in ruins; the German commander (Choltitz) did not carry it out; liberated 25 August 1944 | Wikipedia "1944 in Germany"; USHMM "1944: Key Dates" | searched |
+| 504c | N90 | What he could not keep nobody else should have: his rule from now on (leads to the order of 19 March 1945, chapter 12) | comment | opinion |
+| 504d | N90 | September 1944: the promised "miracle weapon"; rockets fell on London (first 8 September); thousands killed; the course of the war unchanged; more prisoners died making the rockets in the tunnels (Mittelbau-Dora) than the rockets killed | Wikipedia "1944 in Germany" (8 September); the rest general history | partly searched |
+| 504e | N90 | October 1944: every man from 16 to 60 called to arms (Volkssturm, announced 18 October); the first German city fell (Aachen, 21 October); Soviet soldiers stood on German soil (East Prussia) | Wikipedia "1944 in Germany" (18 and 21 October); the ages and East Prussia from memory | partly searched |
+| 505 | N90 | December 1944: a last gamble in the west through the same wooded hills as in 1940 (the Ardennes); it stalled within two weeks for want of fuel and used up the last tanks and aircraft | general history | memory |
+| 506 | N90 | 16 January 1945: his train reached Berlin; the bunker under the garden; the last three and a half months of his life | general history | memory |
 
 ## Chapter 12 — பதுங்கு குழி, 1945 (N91–N97) — DRAFT, not yet narrated
 
@@ -702,7 +707,7 @@ Search of 27 Nov 2026 (one). Pages: en.wikipedia.org (Last will and testament of
 47. Chapter 10, rows 436–439: the Goebbels diary entry, Himmler's note of 18 December 1941 and the Posen speech are quoted from memory in shortened form; check the wording. The script leaves out Himmler's word "glory".
 48. Chapter 10, rows 442–447: the sham station, the staff numbers, 265,000, fewer than 200 survivors, the ghetto rising and the camp revolts are from memory.
 49. Chapter 10, rows 456–458: six million, two in three, 1.5 million children (Yad Vashem; USHMM gives more than a million Jewish children), the other groups, and the comment that no protest of the bishop's weight was raised (there were protests, e.g. the Rosenstrasse wives in 1943 and individual clergy; the line says "of that weight").
-50. Chapter 11 is a draft. Rows 461–466: the 800 days, the daily routine and the split of the southern force are from memory.
+50. Chapter 11 (narrated 27 Nov without a further check). Rows 461–466: the 800 days, the daily routine and the split of the southern force are from memory.
 51. Chapter 11, rows 468, 471: the wording of the 8 November 1942 speech and the airlift and ration figures are from memory (sources differ).
 52. Chapter 11, rows 474–480: "he should have shot himself", the mourning music, the Sportpalast question, the White Rose leaflet (it says 330,000; the script says three lakh), Hamburg's 37,000 and Speer's account of the drawn blinds are from memory.
 53. Chapter 11, rows 481–483, 487: Tunis (figures 230,000 to 275,000), Kursk, Mussolini and the description of his health are from memory.
@@ -715,3 +720,4 @@ Search of 27 Nov 2026 (one). Pages: en.wikipedia.org (Last will and testament of
 60. Chapter 12, rows 528, 530–532: "more than twelve years" with Eva Braun, Traudl Junge's words, and the wording of the testament (blame, expulsions, last sentence) are from memory; check them against the text of the testament.
 61. Chapter 12, rows 536, 540, 542, 543: the farewell, the radio announcement of 1 May, Magda Goebbels's letter and the wording of the Berlin commander's order are from memory.
 62. Chapter 12, rows 547–552: the death tolls, the expulsions, Himmler's death, the Nuremberg sentences and Hess are from memory. "Twelve death sentences" includes one passed in absence.
+63. Chapter 11, rows 504d, 504e (N90, added and narrated 27 Nov): the comparison of deaths in the rocket tunnels with deaths caused by the rockets, the call-up ages 16 to 60 and the Soviet entry into East Prussia in October 1944 are from memory. Row 469 now says the two forces "joined hands"; row 484 says "shorten the front".

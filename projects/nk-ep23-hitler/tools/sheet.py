@@ -7,6 +7,8 @@ os.makedirs("out/sheets", exist_ok=True); os.makedirs("out/img", exist_ok=True)
 cols = 5; tw, th = 384, 216
 rows = (b - a + 1 + cols - 1) // cols
 S = Image.new("RGB", (cols * tw, rows * th), (20, 20, 20)); d = ImageDraw.Draw(S)
+# pictures that came back upright: top edge of the 16:9 window, chosen by hand (108: the dog and the hands, not the face)
+TOP = {108: 690}
 for i, n in enumerate(range(a, b + 1)):
     p = f"out/raw/{n:03d}.jpg"
     if not os.path.exists(p): print("missing", n); continue
@@ -22,7 +24,7 @@ for i, n in enumerate(range(a, b + 1)):
     if i == 0: print("size", w, h, os.path.getsize(p))
     # centre-crop to 16:9, 1920x1080
     if w / h > 16 / 9: nw = int(h * 16 / 9); im = im.crop(((w - nw) // 2, 0, (w - nw) // 2 + nw, h))
-    else: nh = int(w * 9 / 16); im = im.crop((0, (h - nh) // 2, w, (h - nh) // 2 + nh))
+    else: nh = int(w * 9 / 16); top = min(TOP.get(n, (h - nh) // 2), h - nh); im = im.crop((0, top, w, top + nh))
     im = im.resize((1920, 1080), Image.LANCZOS)
     im.save(f"out/img/{n:03d}.jpg", quality=84)
     t = im.resize((tw, th), Image.LANCZOS)
