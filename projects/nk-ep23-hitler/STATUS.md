@@ -110,6 +110,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N29.mp4 (71.5 s, frames checked; the card picture 142 holds about 25 s at the end) | `1BY6tGEgUQmpWYnVTKgtSOLV35DaGZytV` |
 | clips_work/N30.mp4 (76.1 s, frames checked; 143 holds about 25 s at the start) | `1KyButnofIDmx280NRl2on9L9h4jpxaZ2` |
 | clips_work/N31.mp4 (69.4 s, frames checked) | `1w-_6gwq-iVWpqYYjVbfJ1H1-7_cag72W` |
+| clips_work/N32.mp4 (72.4 s, frames checked) | `1KQf4P4KQQ31oP0sBpFk5F7f4E9F9WHGk` |
 | **EP23_1080p_05_ch04a.mp4** (N27–N30, 289.5 s, 97.7 MB, two-pass 2496k, −12.6 LUFS, peak −2.1 dBFS) | `1tYmLDCoAZqqcZR96cX2aeSxxTE9u5DN5` |
 | **EP23_1080p_04_ch03b.mp4** (N23–N26, 270.0 s, 97.6 MB, two-pass 2690k, −12.7 LUFS, peak −2.0 dBFS) | `1_KwM-4wIJ6p-b7Ik2lL8npuAvomH5hXa` |
 | clips_work/END.mp4 (end card, 17 s; goes after N98) | `15pE38DggQb_Qe1lWhyrc-Px3IFvcsAPe` |
