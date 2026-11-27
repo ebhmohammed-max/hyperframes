@@ -539,6 +539,59 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 | 459 | N81 | It came step by step: a letter (1919), a book, laws, broken glass (1938), trains; it could have been stopped at each step | comment | opinion |
 | 460 | N81 | In the same months the war was slipping from him: Stalingrad (leads to chapter 11) | comment | opinion |
 
+## Chapter 11 — சரிவு, 1942–1944 (N83–N89) — DRAFT, not yet narrated
+
+Searches of 27 Nov 2026 (two). Pages: timecyclopedia.com, blessedhomeschooldad.com, calamitycalendar.com, compacthistories.com, historyskills.com (Stalingrad); en.wikipedia.org and military-history.fandom.com (20 July plot), titanicnewschannel.com, datesandtimes.org.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 461 | N83 | Summer 1942: the greatest extent of his power, from the Atlantic to the Volga, from Norway to the North African desert | general history | memory |
+| 462 | N83 | After the retreat before Moscow he dismissed the army commander (Brauchitsch, 19 December 1941) and took the post himself; the former dispatch runner now commanded the army directly | general history | memory |
+| 463 | N83 | He lived at the forest headquarters in the east (Wolf's Lair, East Prussia) in concrete bunkers for more than 800 days | general history (June 1941 to November 1944) | memory |
+| 464 | N83 | The routine there: rising about midday, the map table, monologues until two or three in the morning | secretaries' and adjutants' memoirs; the recorded table talk | memory |
+| 465 | N83 | The homeless youth now rules a continent but lives in a windowless concrete room | comment | opinion |
+| 466 | N83 | Summer 1942: he split the southern force, one part towards the oil fields, one towards Stalingrad on the Volga | general history (Directive 45, July 1942) | memory |
+| 467 | N84 | 23 August 1942: the attack on Stalingrad began with bombing; fighting street by street, factory by factory | timecyclopedia.com, compacthistories.com | searched |
+| 468 | N84 | 8 November 1942, Munich beer hall: he said Stalingrad was taken but for "a few small places" | the speech of 8 November 1942 | memory |
+| 469 | N84 | 19 November 1942: Soviet attacks north and south of the city; the pincers met in four days (23 November); the Sixth Army, about 300,000 men, was encircled | timecyclopedia.com, compacthistories.com (Kalach, 23 November); 250,000 to 330,000 in the sources | searched |
+| 470 | N84 | Paulus asked to break out; he ordered him to stand fast; Göring promised supply by air | blessedhomeschooldad.com, historyskills.com, timecyclopedia.com | searched |
+| 471 | N84 | At least 500 tons a day were needed, about 100 arrived on average; −30 °C; two slices of bread a day; the horses were eaten | general history (figures vary: 300–750 tons needed, 85–120 delivered) | memory |
+| 472 | N84 | 30 January 1943, ten years to the day after he took power: he made Paulus a field marshal; no German field marshal had surrendered alive | timecyclopedia.com, compacthistories.com, calamitycalendar.com | searched |
+| 473 | N84 | Paulus surrendered the next day (31 January); all resistance ended 2 February; 91,000 prisoners, about 6,000 came home | blessedhomeschooldad.com (about 6,000), others about 5,000 | searched |
+| 474 | N85 | His anger was that Paulus was alive: "he should have shot himself" (record of the conference of 1 February 1943) | the stenographic record | memory |
+| 475 | N85 | German radio: three days of mourning music; the first defeat that could not be hidden | general history | memory |
+| 476 | N85 | 18 February 1943, Berlin: Goebbels asked a chosen audience "Do you want total war?"; they shouted yes | the Sportpalast speech | memory |
+| 477 | N85 | The same day, Munich University: Sophie Scholl (21) and her brother Hans dropped leaflets from the gallery; the leaflet spoke of 330,000 men senselessly driven to death at Stalingrad | the sixth White Rose leaflet | memory |
+| 478 | N85 | Trial four days later (22 February); both were executed the same day | general history | memory |
+| 479 | N85 | July 1943, Hamburg: a week of bombing by night and day; about 37,000 dead | general history (estimates 34,000 to 43,000) | memory |
+| 480 | N85 | He never visited a bombed city and had the blinds of his train drawn; he almost stopped speaking in public | Speer's memoirs; historians | memory |
+| 481 | N86 | May 1943: about 250,000 German and Italian soldiers surrendered in North Africa (Tunis) | general history (230,000 to 275,000) | memory |
+| 482 | N86 | July 1943, Kursk: thousands of tanks; the last large German offensive in the east, stopped in under two weeks | general history | memory |
+| 483 | N86 | The same month Mussolini was removed by his own people (25 July 1943); Italy changed sides | general history | memory |
+| 484 | N86 | His answer to every request to shorten the line: not one step back | general history | memory |
+| 485 | N86 | The stand-fast order before Moscow had once worked; he drew the lesson that he was right and the generals wrong; the same order now trapped army after army | historians | opinion |
+| 486 | N86 | Generals who objected were dismissed; those left agreed with him | historians | opinion |
+| 487 | N86 | His body: the left hand trembling, the back bent, daily injections from his own doctor (Morell); at 54 visitors described an old man | witnesses; Morell's notes | memory |
+| 488 | N87 | 6 June 1944, Normandy: 156,000 American, British and Canadian soldiers landed in one day; "they came back" (Dunkirk, chapter 9) | the search query's figure; general history | partly searched |
+| 489 | N87 | He was asleep at his mountain house, having gone to bed about three; nobody dared wake him; the armoured reserve needed his permission, given only in the afternoon | witnesses (Speer and others); general history | memory |
+| 490 | N87 | By evening the beaches were held | general history | memory |
+| 491 | N87 | 22 June 1944, three years to the day after his attack: the Soviet summer offensive; in five weeks a whole army group was destroyed, more than 350,000 men, a larger defeat than Stalingrad | general history (Operation Bagration; 350,000 to 450,000) | memory |
+| 492 | N87 | Fronts in the west, the east and Italy, bombing from above: the generals knew the war could not be won | historians | opinion |
+| 493 | N87 | Only he could stop it and he would not; so some officers decided to act | comment | opinion |
+| 494 | N88 | 20 July 1944, Wolf's Lair: Colonel Claus von Stauffenberg, who had lost an eye, his right hand and two fingers of the left in Africa, armed one of two bombs with three fingers | datesandtimes.org, Wikipedia (20 July plot) | searched |
+| 495 | N88 | A hot day; the meeting was in a wooden hut with open windows, not in a concrete room; he set the case under the table near him and left for a telephone call | datesandtimes.org; the open windows from memory | partly searched |
+| 496 | N88 | An officer (Brandt) moved the case behind the thick table leg; it exploded at 12:42 | Wikipedia (20 July plot), titanicnewschannel.com | searched |
+| 497 | N88 | Four died; his eardrums burst, his trousers were torn; he walked out alive | Wikipedia, military-history.fandom.com | searched |
+| 498 | N88 | Stauffenberg flew to Berlin believing him dead; the news that he lived arrived first; the coup collapsed within hours | Wikipedia (20 July plot) | searched |
+| 499 | N88 | Stauffenberg was shot about midnight in a courtyard by the light of lorry headlamps; about 1 a.m. he spoke on the radio and called his survival a sign from Providence that he must go on | datesandtimes.org (shot just after midnight); the headlamps and the radio words from memory | partly searched |
+| 500 | N89 | 7,000 arrested, about 5,000 killed (4,980), many with no part in the plot | Wikipedia (20 July plot), datesandtimes.org | searched |
+| 501 | N89 | The trials were filmed; the accused were given no belts and had to hold up their trousers; the judge (Freisler) shouted at them | titanicnewschannel.com (the court and judge); the belts and the filming from memory | partly searched |
+| 502 | N89 | Rommel, suspected of knowing: in October two generals offered him a trial and reprisals against his family, or poison and a state funeral; he took the poison (14 October 1944) | military-history.fandom.com, datesandtimes.org | searched |
+| 503 | N89 | Had the bomb killed him the war might have ended ten months earlier; about half of all German soldiers killed in the war died in those last ten months | historians (Overmans's count of German military deaths) | memory |
+| 504 | N89 | After it he trusted nobody; every officer's case was searched and pistols were handed in at the door | general history | memory |
+| 505 | N89 | December 1944: a last gamble in the west through the same wooded hills as in 1940 (the Ardennes); it stalled within two weeks for want of fuel and used up the last tanks and aircraft | general history | memory |
+| 506 | N89 | 16 January 1945: his train reached Berlin; the bunker under the garden; the last three and a half months of his life | general history | memory |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -590,3 +643,10 @@ Searches of 27 Nov 2026 (two). Pages: timelineoftheholocaust.org (Echoes & Refle
 47. Chapter 10, rows 436–439: the Goebbels diary entry, Himmler's note of 18 December 1941 and the Posen speech are quoted from memory in shortened form; check the wording. The script leaves out Himmler's word "glory".
 48. Chapter 10, rows 442–447: the sham station, the staff numbers, 265,000, fewer than 200 survivors, the ghetto rising and the camp revolts are from memory.
 49. Chapter 10, rows 456–458: six million, two in three, more than a million children, the other groups, and the comment that no protest of the bishop's weight was raised (there were protests, e.g. the Rosenstrasse wives in 1943 and individual clergy; the line says "of that weight").
+50. Chapter 11 is a draft. Rows 461–466: the 800 days, the daily routine and the split of the southern force are from memory.
+51. Chapter 11, rows 468, 471: the wording of the 8 November 1942 speech and the airlift and ration figures are from memory (sources differ).
+52. Chapter 11, rows 474–480: "he should have shot himself", the mourning music, the Sportpalast question, the White Rose leaflet (it says 330,000; the script says three lakh), Hamburg's 37,000 and Speer's account of the drawn blinds are from memory.
+53. Chapter 11, rows 481–483, 487: Tunis (figures 230,000 to 275,000), Kursk, Mussolini and the description of his health are from memory.
+54. Chapter 11, rows 489, 491: the morning of 6 June (he slept late; the hour the reserve was released differs by account) and the losses of the Soviet summer offensive (350,000 to 450,000) are from memory.
+55. Chapter 11, rows 495, 499: the open windows, the lorry headlamps and the radio words are from memory. The script does not say the meeting was moved from a bunker (that is disputed).
+56. Chapter 11, rows 503–506: the "half of all German military deaths" figure (Overmans), the searches after the plot, the Ardennes and 16 January 1945 are from memory.
