@@ -597,7 +597,7 @@ Searches of 27 Nov 2026 (three; the third for N90: encyclopedia.ushmm.org "1944:
 | 505 | N90 | December 1944: a last gamble in the west through the same wooded hills as in 1940 (the Ardennes); it stalled within two weeks for want of fuel and used up the last tanks and aircraft | general history | memory |
 | 506 | N90 | 16 January 1945: his train reached Berlin; the bunker under the garden; the last three and a half months of his life | general history | memory |
 
-## Chapter 12 — பதுங்கு குழி, 1945 (N91–N98) — DRAFT, not yet narrated
+## Chapter 12 — பதுங்கு குழி, 1945 (N91–N98) — narrated 27 Nov 2026
 
 Searches of 27 Nov 2026 (two; the second for N92: Wikipedia "1945", takemeback.to). Pages: en.wikipedia.org (Last will and testament of Adolf Hitler), military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com, weesp.dk, historyrise.com.
 
@@ -612,7 +612,7 @@ Searches of 27 Nov 2026 (two; the second for N92: Wikipedia "1945", takemeback.t
 | 513 | N91 | He tried to drag the people down with him; Speer and many officials quietly did not carry the order out | berlin-escape.com (Speer); the judgement is historians' | partly searched |
 | 513a | N92 | Millions of Germans fled west from the east on foot, by cart and by ship | takemeback.to (evacuation of East Prussia, January 1945) | searched |
 | 513b | N92 | 30 January 1945, the night of his last radio speech: a refugee ship (Wilhelm Gustloff) sank with about 9,000 dead, the greatest loss of life in a single ship | Wikipedia "1945" (up to 9,400); takemeback.to (about 9,000) | searched |
-| 513c | N92 | 13 February 1945: Dresden, at least 25,000 dead in the bombing ("one night" in the script; the raids ran 13–15 February) | Wikipedia "1945" (25,000 to 35,000) | searched |
+| 513c | N92 | 13 February 1945: Dresden, at least 25,000 dead in three days of bombing (13–15 February) | Wikipedia "1945" (25,000 to 35,000) | searched |
 | 513d | N92 | 11 April Buchenwald, 15 April Bergen-Belsen opened by American and British troops; filmed; townspeople were made to walk through the camp | Wikipedia "1945", takemeback.to (the dates); the films and the townspeople of Weimar from memory | partly searched |
 | 513e | N92 | 12 April: Roosevelt died; Goebbels telephoned him that this was the turning point; brief hope in the bunker | Wikipedia "1945" (the death); the telephone call from witnesses, from memory | partly searched |
 | 513f | N92 | Above, people in cellars; below, he waits for a miracle | comment | opinion |
@@ -722,11 +722,11 @@ Searches of 27 Nov 2026 (two; the second for N92: Wikipedia "1945", takemeback.t
 54. Chapter 11, rows 489, 491: the morning of 6 June (he slept late; the hour the reserve was released differs by account) and the losses of the Soviet summer offensive (350,000 to 450,000) are from memory.
 55. Chapter 11, rows 495, 499: the open windows, the lorry headlamps and the radio words are from memory. The script does not say the meeting was moved from a bunker (that is disputed).
 56. Chapter 11, rows 503–506: the "half of all German military deaths" figure (Overmans), the searches after the plot, the Ardennes and 16 January 1945 are from memory.
-57. Chapter 12 is a draft. Rows 508, 509, 512: the 70 km, the last radio speech of 30 January 1945 and Speer's account of his answer are from memory (Speer's account is his own, given after the war).
+57. Chapter 12 (narrated 27 Nov without a further check). Rows 508, 509, 512: the 70 km, the last radio speech of 30 January 1945 and Speer's account of his answer are from memory (Speer's account is his own, given after the war).
 58. Chapter 12, rows 514–517: the 2.5 million, the boys' ages and the placard are from memory; the date of the film in the garden differs by source, so the script says "in those weeks".
 59. Chapter 12, row 524: Göring's telegram of 23 April was not in the search results.
 60. Chapter 12, rows 528, 530–532: "more than twelve years" with Eva Braun, Traudl Junge's words, and the wording of the testament (blame, expulsions, last sentence) are from memory; check them against the text of the testament.
 61. Chapter 12, rows 536, 540, 542, 543: the farewell, the radio announcement of 1 May, Magda Goebbels's letter and the wording of the Berlin commander's order are from memory.
 62. Chapter 12, rows 547–552: the death tolls, the expulsions, Himmler's death, the Nuremberg sentences and Hess are from memory. "Twelve death sentences" includes one passed in absence.
 63. Chapter 11, rows 504d, 504e (N90, added and narrated 27 Nov): the comparison of deaths in the rocket tunnels with deaths caused by the rockets, the call-up ages 16 to 60 and the Soviet entry into East Prussia in October 1944 are from memory. Row 469 now says the two forces "joined hands"; row 484 says "shorten the front".
-64. Chapter 12, rows 513d, 513e, 513g, 513h (added 27 Nov): the townspeople made to see the camp, Goebbels's telephone call, the number of civilians in Berlin and the Soviet dead are from memory. Row 513c: the script says "one night"; the raids on Dresden ran over three days and estimates run from 25,000 to 35,000.
+64. Chapter 12, rows 513d, 513e, 513g, 513h (added 27 Nov): the townspeople made to see the camp, Goebbels's telephone call, the number of civilians in Berlin and the Soviet dead are from memory. Row 513c: estimates for Dresden run from 25,000 to 35,000.
