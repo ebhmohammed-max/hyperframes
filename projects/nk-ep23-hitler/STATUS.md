@@ -27,11 +27,11 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 | Ch 7 (N51–N58) | done (27 Nov) | done, 374.8 s | 0 flagged | shot rows 245–279 (look **X**, ref **H**), none generated | `node film/gen.mjs N51 … N58` works; `CARD_BG` N51 set | narration, script, fact sheet |
 | Ch 8 (N59–N66) | done (27 Nov) | done, 456.3 s | 0 flagged | shot rows 280–324 (look **X**, ref **H**), none generated | `node film/gen.mjs N59 … N66` works; `CARD_BG` N59 set | narration, script, fact sheet |
 | Ch 9 (N67–N73; N74 unused) | done (27 Nov) | done, 400.0 s | 0 flagged | shot rows 325–361 (look **X**, ref **H** in five), none generated | `node film/gen.mjs N67 … N73` works; `CARD_BG` N67 set | narration, script, fact sheet (rows 372–413, check points 39–43) |
-| Ch 10 (N75–N81; N82 unused) | done (27 Nov) | done, 513.0 s | 0 flagged | shot rows 362–409 (looks **X**, **O**; ref **H** in two), none generated | `node film/gen.mjs N75 … N81` works; `CARD_BG` N75 set | narration, script, fact sheet (rows 414–460, check points 44–49) |
+| Ch 10 (N75–N81; N82 unused) | done (27 Nov) | done, 517.4 s (N81 narrated again 27 Nov: children's figure 15 lakh, as in the hook) | 0 flagged | shot rows 362–409 (looks **X**, **O**; ref **H** in two), none generated | `node film/gen.mjs N75 … N81` works; `CARD_BG` N75 set | narration, script, fact sheet (rows 414–460, check points 44–49) |
 | Ch 11 (N83–N89; N90 unused) | **drafted** (27 Nov; `script/ch11.mjs`, 46 lines, 7,886 chars, about 8.5 min; in the build only with `EP23_DRAFT=1`) | not yet | – | not written | – | fact rows 461–506, check points 50–56 |
 | Ch 12 | not written | | | | | |
 
-Running time so far: 82 min 18 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s, chapter 8 7 min 36 s, chapter 9 6 min 40 s, chapter 10 8 min 33 s). Two chapters remain: at 9 to 10 min each the film ends between 100 and 103 min; with the title and end cards it lands near 105.
+Running time so far: 82 min 22 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s, chapter 8 7 min 36 s, chapter 9 6 min 40 s, chapter 10 8 min 33 s). Two chapters remain: at 9 to 10 min each the film ends between 100 and 103 min; with the title and end cards it lands near 105.
 
 ## Next steps
 
@@ -111,10 +111,13 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | images/EP23_B10_images_078_088-096.zip | `17ckVStq8sa8MyDG_0z7hGqBrA3Pt_H8A` |
 | EP23_SCRIPT_TA_hook_ch1-ch9.md (superseded) | `1pQvEBcKpe1mfFfUh47KCNtr55Bi5Vzjj` |
 | EP23_FACT_SHEET_hook_ch1-ch9.md (superseded) | `1ixmlxB4bbEhdFCrcnKGWdceetmfZSHZD` |
-| EP23_narration_N75-N81_voice02.zip (chapter 10) | `1HRjWpndwFOLnjc4XZQ_0GhWv1O1eZ0o6` |
+| EP23_narration_N75-N81_voice02.zip (chapter 10, outdated N81) | `1HRjWpndwFOLnjc4XZQ_0GhWv1O1eZ0o6` |
+| EP23_narration_N75-N81_voice02_v2.zip (chapter 10, **current**) | `19jacLS2oOMGd03VzcA_dMLrQHg7WssRl` |
 | images/EP23_B11_images_097-106.zip | `1hU-sL3Z4dhsgYQ3mwSmNk1WjzjzbYJaM` |
-| EP23_SCRIPT_TA_hook_ch1-ch10.md (current) | `1pyEt0UjNZqEF636kiXwPTuFPQtPV9856` |
-| EP23_FACT_SHEET_hook_ch1-ch10.md (current) | `1sxy6b_gkitytHyvcmmYKqKrsC7Tk5Dll` |
+| EP23_SCRIPT_TA_hook_ch1-ch10.md (outdated) | `1pyEt0UjNZqEF636kiXwPTuFPQtPV9856` |
+| EP23_SCRIPT_TA_hook_ch1-ch10_v2.md (**current**) | `1GFjXqzFwm7be2zagO19bGDNOtAD8xJ3W` |
+| EP23_FACT_SHEET_hook_ch1-ch10.md (outdated) | `1sxy6b_gkitytHyvcmmYKqKrsC7Tk5Dll` |
+| EP23_FACT_SHEET_hook_ch1-ch10_ch11draft.md (**current**) | `1YrrgG7urZ33v9x00iibg11V4BleAWg8R` |
 | images/EP23_B07_images_059-068.zip | `1eGOogpT4j9lKmpJFioFBVu_izbgyAi6N` |
 | EP23_narration_N43-N50_voice02.zip (chapter 6) | `1perI5PRRJoAI9AKwg_HW9-FT9Pb65N6w` |
 | EP23_SCRIPT_TA_hook_ch1-ch6.md (current) | `1KRvaRxb3thGt1veMxQmtznyJ5lc0XLmb` |
@@ -156,3 +159,15 @@ Only the pushed branch survives. `out/`, `narration/*.mp3`, `/tmp` tools and `go
 4. `unzip -o -q ../../google_drive/EP23_narration_*.zip -d narration/` for each narration zip; `bash tools/restore.sh` (unpacks the picture zips into `google_drive/ep23_pics/raw/NNN.jpg`, relinks `out/raw`, `shared/vo`, `shared/plates`, rebuilds `out/img`).
 5. `node script/build.mjs && $PY script/align.py && python3 shots/expand.py`.
 6. Rendered clips: download every `N??.mp4` of the Drive folder `clips_work` and `mv ../../google_drive/N??.mp4 out/renders/` (`tools/render.sh` skips clips that are there). Regenerate the film folders first: `node film/gen.mjs N03 N04 …`.
+
+## Chapter 12 research notes (search of 27 Nov 2026; not yet in the fact sheet)
+
+Pages: en.wikipedia.org (Last will and testament of Adolf Hitler), military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com, weesp.dk, historyrise.com.
+
+- 16 Jan 1945 he moved into the bunker under the Chancellery garden and never left Berlin again. 19 Mar: the "Nero" order to destroy bridges, railways, factories and food stores; Speer worked quietly against it.
+- 16 Apr: the Soviet attack across the Oder. 20 Apr, his 56th birthday: the first Soviet shells on Berlin; Göring, Himmler, Goebbels and Ribbentrop came, most then left; he decorated boys of the Hitler Youth in the garden (the sources differ on the date: 20 March, 20 or 22 April; say "in those days").
+- 22 Apr, afternoon conference: told that Steiner's attack had not happened, he broke down, said for the first time that the war was lost, blamed the generals, and said he would stay and shoot himself. Goebbels brought his wife and six children into the bunker.
+- 25–27 Apr: Berlin encircled and cut off. 28 Apr: a BBC/Reuters report of Himmler's offer to surrender to the western Allies; he ordered his arrest. (Göring's telegram of 23 Apr was not in the results: from memory.)
+- Night of 28–29 Apr: married Eva Braun in the map room; dictated the private will and the political testament to Traudl Junge, signed 04:00 on 29 Apr. The testament denies that he wanted war in 1939, blames the Jews, names Dönitz president and Goebbels chancellor. 29 Apr: news of Mussolini's death.
+- 30 Apr about 15:30: a shot; he had shot himself, she had taken cyanide; fewer than 40 hours married. The bodies were carried up, doused with about 200 litres of petrol and burned in the garden. Soviet troops were a few hundred metres away.
+- 1 May: the Goebbels couple had their six children killed and then killed themselves. 2 May: Berlin surrendered (Weidling). 8 May: the unconditional surrender took effect. "A thousand years" lasted twelve.
