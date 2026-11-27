@@ -372,6 +372,70 @@ Searches of 27 Nov 2026 (two). Pages: Wikipedia (Gleichschaltung; Night of the L
 | 313 | N58 | The same day every soldier swore a personal oath of unconditional obedience to him, not to the constitution | normandy1944.info; ourhistory.org.uk | searched |
 | 314 | N58 | Eighteen months and three days after 30 January 1933 | dates | arithmetic |
 
+## Chapter 8 — ஒரு நாடு பின்னாடி போச்சு, 1934–1938 (N59–N66) — DRAFT, not yet narrated
+
+Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline), historyonthenet.com, annefrank.org (timeline), historyplace.com (Rhineland), johndclare.net, britannica.com (Kristallnacht), historytools.org, stlholocaustmuseum.org. "memory" = not confirmed by these searches.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 315 | N59 | Germany had about 65 million people ("six and a half crore") | census 1933: 65.2 million | memory |
+| 316 | N59 | About 6 million unemployed when he took office (January 1933) | official figures | memory (well known) |
+| 317 | N59 | Under 1 million within four years (1937 average about 0.9 million) | official figures | memory |
+| 318 | N59 | The figures left out women pushed out of work, Jews, and conscripted young men | historians (Evans, Tooze) | memory |
+| 319 | N59 | New work came mostly from rearmament, paid for by concealed borrowing (the Mefo bills) | Tooze, *The Wages of Destruction* | memory |
+| 320 | N59 | The motorway plan existed before him (the HaFraBa project of the 1920s; the Cologne–Bonn road opened in 1932) | general | memory |
+| 321 | N59 | Wages did not rise; strikes were illegal; no unions (unions dissolved 2 May 1933, row in chapter 7) | general | memory |
+| 322 | N59 | A man who has known three years of hunger asks only for a job | comment | opinion |
+| 323 | N60 | Goebbels headed a full ministry (Propaganda Ministry, March 1933) controlling press, film and radio | general | memory (well known) |
+| 324 | N60 | The state's cheap radio set cost 76 marks (Volksempfänger VE 301, August 1933) | general | memory |
+| 325 | N60 | Within some years more than half of households had a radio (about 70 per cent by 1939) | general | memory |
+| 326 | N60 | A party rally at Nuremberg each September; hundreds of thousands; over a hundred searchlights pointed at the night sky (figures given are 130 or 152); filmed (*Triumph of the Will*, 1934 rally) | historycrunch.com (the film); the rest general | partly searched; searchlight count from memory, so the script says "over a hundred" |
+| 327 | N60 | The rally shows a crowd, not a person; a man in a crowd need not think | comment | opinion |
+| 328 | N60 | 1936: a law placed all German youth in the Hitler Youth (1 December 1936; made enforceable by decrees of March 1939) | historyonthenet.com | searched |
+| 329 | N60 | His words: they come to us at ten and "will never be free again for their whole lives" (speech at Reichenberg, 2 December 1938) | speech record | memory |
+| 330 | N61 | People believed the Gestapo had a man in every street | historians (Gellately, Johnson) | memory |
+| 331 | N61 | About 7,000 Gestapo officials in 1937 for 65 million people; a few dozen for a large city | Gellately, *The Gestapo and German Society* | memory |
+| 332 | N61 | Information came from the public: neighbours, workmates, relatives | Gellately | memory |
+| 333 | N61 | In the surviving Gestapo files most cases began with a denunciation from an ordinary person | Gellately (Würzburg files); Johnson (Krefeld) | memory |
+| 334 | N61 | A dictatorship does not need a policeman per house | comment | opinion |
+| 335 | N61 | Everyone knew the camps existed; the saying "Dear God, make me dumb, that I may not to Dachau come" | widely quoted | memory |
+| 336 | N62 | 15 September 1935: two laws announced at the Nuremberg rally | historycrunch.com; annefrank.org; historyonthenet.com | searched |
+| 337 | N62 | Jews lost citizenship; marriage and relations between Jews and Germans forbidden; prison for breaking it | historycrunch.com (Article 1 quoted) | searched |
+| 338 | N62 | Who counted as a Jew was decided by grandparents (three or four Jewish grandparents), whatever the person's own religion (decree of 14 November 1935) | general | memory |
+| 339 | N62 | About 500,000 Jews in Germany in 1933, under 1 per cent | census June 1933: about 505,000, 0.77 per cent | memory |
+| 340 | N62 | 12,000 German Jews died fighting for Germany in the First World War | general | memory |
+| 341 | N62 | Nobody protested in the streets; the country accepted it as law | comment | opinion |
+| 342 | N62 | Sixteen years earlier his letter said: not by feeling, by law, first take away their rights (letter of 16 September 1919, chapter 4) | row in chapter 4; 1919 to 1935 | arithmetic |
+| 343 | N63 | August 1936: Olympic Games in Berlin, 49 nations | general | memory |
+| 344 | N63 | For two weeks the "Jews not wanted" signs came down and the hate papers left the kiosks | general (USHMM) | memory |
+| 345 | N63 | Many visitors went home having seen an orderly, happy country | historians | memory |
+| 346 | N63 | Jesse Owens won four gold medals | general | memory (well known) |
+| 347 | N63 | That summer Sachsenhausen camp was being built by prisoners about 35 km from Berlin (Oranienburg) | general | memory; the distance is to Berlin, the script says "about 35 km from the stadium" |
+| 348 | N63 | The world saw the stadium and not the camp | comment | opinion |
+| 349 | N64 | March 1935: conscription announced in open breach of Versailles; army of 100,000 to become 550,000 (36 divisions) | historyplace.com; historycrunch.com | searched |
+| 350 | N64 | Britain and France protested and did nothing more | general | memory |
+| 351 | N64 | 7 March 1936: troops sent into the demilitarised Rhineland; only a few thousand crossed the Rhine | historyplace.com (three battalions crossed; about 30,000 in the whole zone); historycrunch.com (3,000) | searched; sources differ on the count, so the script says "a few thousand crossed the river" |
+| 352 | N64 | The French army had about a hundred divisions; his own generals were afraid; the plan was to pull back if France moved | historyplace.com; johndclare.net | searched; historians dispute how complete the withdrawal order was |
+| 353 | N64 | His later words: the 48 hours were the most nerve-racking of his life; "we would have had to withdraw with our tails between our legs" | historyplace.com; historycrunch.com (reported by his interpreter Paul Schmidt) | searched; one witness |
+| 354 | N64 | Had anyone moved that day the story might have ended there; the lesson he took was that they would not stop him | comment / historians | opinion |
+| 355 | N65 | 12 March 1938: the German army entered Austria without a shot; he reached Linz the same day | annefrank.org | searched (Linz from memory) |
+| 356 | N65 | Three days later (15 March) he spoke to a great crowd in Vienna (Heldenplatz) | annefrank.org | searched |
+| 357 | N65 | Twenty-eight years earlier he had stood in the queue of the homeless shelter in the same city (late 1909) | chapter 2; 1909 to 1938 | arithmetic |
+| 358 | N65 | That week Jews in Vienna were forced to scrub pavements on their knees while crowds laughed; photographs survive | general | memory (well documented) |
+| 359 | N65 | He demanded the German-speaking border region of Czechoslovakia and called it his last territorial demand in Europe (speech of 26 September 1938) | johndclare.net (the demand); the speech from memory | partly searched |
+| 360 | N65 | 30 September 1938, Munich: Britain, France and Italy signed with him; Czechoslovakia was not in the room | annefrank.org; historyonthenet.com | searched (absence of the Czechs from memory) |
+| 361 | N65 | Chamberlain returned to London, waved a paper and said the same day "peace for our time" | general | memory (well known) |
+| 362 | N65 | That peace lasted eleven months (30 September 1938 to 1 September 1939) | dates | arithmetic |
+| 363 | N66 | November 1938: a German embassy official in Paris (vom Rath) was shot by a 17-year-old Jewish youth (Grynszpan) whose family Germany had just expelled | britannica.com; historytools.org; stlholocaustmuseum.org | searched |
+| 364 | N66 | Night of 9 November: Goebbels spoke to party leaders; attacks across the country within hours; presented as spontaneous anger | britannica.com | searched |
+| 365 | N66 | More than 1,000 synagogues burned or damaged; about 7,500 businesses wrecked | britannica.com | searched; an older count gives 267 synagogues destroyed |
+| 366 | N66 | Firemen were ordered only to keep the fire from neighbouring buildings | historytools.org | searched |
+| 367 | N66 | At least 91 killed; about 30,000 Jewish men arrested and sent to camps, Dachau among them | britannica.com | searched |
+| 368 | N66 | The night was named after the broken glass; the Jewish community was fined one billion marks | britannica.com | searched |
+| 369 | N66 | It happened in public in every town; people walked past the glass to work | comment | opinion |
+| 370 | N66 | Work, pride, fear, looking away: how a country followed, step by step | comment | opinion |
+| 371 | N66 | So far he got everything without war; peace was not what he wanted | comment | opinion |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -406,3 +470,9 @@ Searches of 27 Nov 2026 (two). Pages: Wikipedia (Gleichschaltung; Night of the L
 30. Chapter 7, rows 279, 284, 286: Dachau's opening details, the 81 Communist deputies and Wels's poison capsule are from memory; the capsule is told at second hand and the script says "it is said".
 31. Chapter 7, row 310: the jurist is not named in the script (Carl Schmitt); check the title's wording.
 32. Chapter 7 leaves out the plebiscite of 19 August 1934 (about 90 per cent "yes" under pressure), because the figure was not confirmed.
+33. Chapter 8, rows 315–322: the work figures (6 million, under 1 million by 1937, what the count left out, the Mefo bills, the motorway plan) are from memory; check against Tooze or Evans.
+34. Chapter 8, rows 324–326, 329: the radio price and spread, the searchlight count and the Reichenberg speech are from memory.
+35. Chapter 8, rows 330–335: the Gestapo figure (about 7,000 in 1937), the finding on denunciations and the Dachau saying are from memory (Gellately, Johnson).
+36. Chapter 8, rows 338–340, 343–347: the grandparents rule, the 1933 census figure, the 12,000 war dead, the Olympic details and Sachsenhausen's distance are from memory. The 35 km is from Berlin, not measured from the stadium.
+37. Chapter 8, row 351: counts for the Rhineland differ (3,000, three battalions, 30,000 in the zone); the script gives no figure beyond "a few thousand crossed the river".
+38. Chapter 8, row 365: the script uses the newer count of synagogues (more than 1,000 burned or damaged); the older figure is 267 destroyed.
