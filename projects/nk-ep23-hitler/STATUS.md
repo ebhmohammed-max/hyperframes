@@ -19,7 +19,7 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 |---|---|---|---|---|---|---|
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | part `EP23_1080p_00_hook_title_v3_film.mp4` (106 s) on Drive | narration, B01, B02, R1, R2, film |
 | Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–053 made (all) | **all eight clips rendered and checked**; parts `…01_ch01a.mp4` (N03–N06) and `…01_ch01b.mp4` (N07–N10) | narration, B03–B06, clips, ch01a, ch01b |
-| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–068 made | N11 rendered and checked (in `clips_work`); N12–N18 wait for pictures 059–090 | narration |
+| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–068 made | N11–N13 rendered and checked (in `clips_work`); N14–N18 wait for pictures 069–090 (N14 needs 069–072) | narration |
 | Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows 091–127, none generated | built (`film/N19`…`N26`), 576 s | narration, script, fact sheet |
 | Ch 4 (N27–N34) | done | done, 582.6 s | 0 flagged | shot rows 128–169, none generated | built (`film/N27`…`N34`), 592 s | narration, script, fact sheet |
 | Ch 5 (N35–N42) | done (27 Nov) | done, 438.2 s | 0 flagged | shot rows 170–209 (look **G**, ref **Q**), none generated | `node film/gen.mjs N35 … N42` works; `CARD_BG` N35 set | narration, script, fact sheet |
@@ -32,7 +32,7 @@ Running time so far: 53 min 14 s of narration (hook 1 min 32 s, chapter 1 8 min 
 ## Next steps
 
 1. Pictures, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` (pass the listed reference pictures) → `$PY tools/sheet.py a b` → zip (`$PY tools/batch.py <batch> a b`, next batch is B08) → upload the zip to `images`. Order: chapter 2 from 069, then chapters 3, 4, 5, 6 (to 244). 176 pictures are still to make.
-2. Render: a clip can be rendered as soon as its pictures exist (`node film/gen.mjs <clip>` prints what is missing; `bash tools/render.sh <clips>` as a background process, 6 to 8 min a clip). Upload each clip to Drive `clips_work`. A part is packaged by hand from the clips at hand (the commands of `tools/finish.sh`, with a hand-written `out/deliver/part.txt`), so earlier clips need not be downloaded again: ch01a = N03–N06, ch01b = N07–N10. Chapter 2: N11 is rendered (pictures 054–057); N12 needs 058–062.
+2. Render: a clip can be rendered as soon as its pictures exist (`node film/gen.mjs <clip>` prints what is missing; `bash tools/render.sh <clips>` as a background process, 6 to 8 min a clip). Upload each clip to Drive `clips_work`. A part is packaged by hand from the clips at hand (the commands of `tools/finish.sh`, with a hand-written `out/deliver/part.txt`), so earlier clips need not be downloaded again: ch01a = N03–N06, ch01b = N07–N10. Chapter 2: N11–N13 are rendered; N14 needs 069–072. When N14 is done, package `…02_ch02a.mp4` from N11–N14 by hand.
 3. **Chapter 5 (N35–N42, 1924–1929) is written, narrated (438.2 s = 7 min 18 s) and aligned** (27 Nov 2026). The "big lie" line in N40 now says that the book gives it as his enemies' method. Its 40 pictures (170–209) are not made. **Chapter 6 (N43–N50, 1929–1933) is written, narrated (383.7 s = 6 min 24 s) and aligned** (27 Nov 2026); its 35 pictures (210–244) are not made. **Chapter 7 (N51–N58, 1933–1934) is drafted** in `script/ch07.mjs` and not narrated: `script/script.mjs` adds it only with `EP23_DRAFT=1`. To finish it: remove that switch (plain `...ch07`), `node script/build.mjs`, speak `narration/text/N51.txt` … `N58.txt` with voice-02, zip and upload, `$PY script/align.py N51 … N58`, shot rows from 245 (look **X** for 1933 onward, far and dark; ref **H**), `counts.json`, `CARD_BG` N51, upload script and fact sheet again. Then write chapter 8 (1934–1938, N59–N66), at most 7,400 characters.
 4. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
 5. 030 again (upright and soft).
@@ -85,6 +85,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N09.mp4 | `1Y7wM8_3P7DYccZGkbAqOZkRzcWUEPBth` |
 | clips_work/N10.mp4 | `11-_ovtOPJCjCJrGlqaQgHYtGQqXxXp7G` |
 | clips_work/N11.mp4 | `1YJzKfTlGRegA4sZsje0cBRAh4PA5Kvco` |
+| clips_work/N12.mp4 | `1M97nOFvqj7MLaGQ_ps2Fxl6EFdsGkBi1` |
+| clips_work/N13.mp4 | `1fInytKjmc5Y7L9jcBdhJ1lh4ZFuoBlgM` |
 | images/EP23_B07_images_059-068.zip | `1eGOogpT4j9lKmpJFioFBVu_izbgyAi6N` |
 | EP23_narration_N43-N50_voice02.zip (chapter 6) | `1perI5PRRJoAI9AKwg_HW9-FT9Pb65N6w` |
 | EP23_SCRIPT_TA_hook_ch1-ch6.md (current) | `1KRvaRxb3thGt1veMxQmtznyJ5lc0XLmb` |
@@ -100,7 +102,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 
 ## Picture checks
 
-- B07 (059–068), 27 Nov: all kept. 059 and 061 read mid-twenties with a clear moustache (the youth is nineteen there); in 067 he is first in the queue, not third.
+- B07 (059–068), 27 Nov: all kept. 059 and 061 read mid-twenties with a clear moustache (the youth is nineteen there); in 067 he is first in the queue, not third. In N13 the line "he had not even an overcoat when winter came" plays over 067, where he wears one: redo 067 in a thin jacket when a call is free, then render N13 again.
 - B06 (049–058), 27 Nov: all kept. 055 and 057 show an upright piano where the script says grand piano (Kubizek's was a grand); 057 reads older than nineteen. Redo 057 if a call is free.
 
 | Batch | Pictures | Result |
