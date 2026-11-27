@@ -18,20 +18,21 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 | Part | Script | Narration | Timing | Pictures | Film | On Drive |
 |---|---|---|---|---|---|---|
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | part `EP23_1080p_00_hook_title_v3_film.mp4` (106 s) on Drive | narration, B01, B02, R1, R2, film |
-| Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–053 made (all) | N03–N08 rendered and frames checked (copies in Drive `clips_work`); **part `…01_ch01a.mp4` (N03–N06) delivered**; `…ch01b` (N07–N10) waits for N09, N10 | narration, B03, B04, B05, clips, ch01a |
+| Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–053 made (all) | **all eight clips rendered and checked**; parts `…01_ch01a.mp4` (N03–N06) and `…01_ch01b.mp4` (N07–N10) | narration, B03–B06, clips, ch01a, ch01b |
 | Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–058 made | `node film/gen.mjs N11 … N18` works (reports missing pictures) | narration |
 | Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows 091–127, none generated | built (`film/N19`…`N26`), 576 s | narration, script, fact sheet |
 | Ch 4 (N27–N34) | done | done, 582.6 s | 0 flagged | shot rows 128–169, none generated | built (`film/N27`…`N34`), 592 s | narration, script, fact sheet |
 | Ch 5 (N35–N42) | done (27 Nov) | done, 438.2 s | 0 flagged | shot rows 170–209 (look **G**, ref **Q**), none generated | `node film/gen.mjs N35 … N42` works; `CARD_BG` N35 set | narration, script, fact sheet |
-| Ch 6 to 12 | not written | | | | | |
+| Ch 6 (N43–N50) | drafted 27 Nov (switch `EP23_DRAFT`), 5,889 characters, about 6.5 min; fact rows 222–269, check points 25–28 | not yet | | shot rows not written | | |
+| Ch 7 to 12 | not written | | | | | |
 
 Running time so far: 46 min 50 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s). Chapters 2 to 4 each run 25 to 60 s over the plan of 9 min: at this rate the film ends near 115 min, not 105. **Chapters 5 to 12 must stay at 8 min (about 7,400 characters, eight clips of 925) to land on 105**, or one of chapters 2 to 4 is trimmed later.
 
 ## Next steps
 
 1. Pictures, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` (pass the listed reference pictures) → `$PY tools/sheet.py a b` → zip (`$PY tools/batch.py <batch> a b`, next batch is B07) → upload the zip to `images`. Order: chapter 2 from 059, then chapters 3, 4, 5 (to 209). 151 pictures are still to make.
-2. Render: `bash tools/render.sh N09 N10` once 049–053 exist (background process, about 7 min a clip when nothing else runs), upload each clip to Drive `clips_work`, then `bash tools/finish.sh part 1` as a background process (about 10 min: it makes `…ch01a.mp4` again, identical to the one on Drive, and `…ch01b.mp4`; each is encoded two-pass to 95 MB), check frames, upload `…ch01b.mp4` to the EP23 folder.
-3. **Chapter 5 (N35–N42, 1924–1929) is written, narrated (438.2 s = 7 min 18 s) and aligned** (27 Nov 2026). The "big lie" line in N40 now says that the book gives it as his enemies' method. Its 40 pictures (170–209) are not made. Next chapter to write: 6 (1929–1933), N43–N50, at most 7,400 characters; add `ch06.mjs` to `script/script.mjs`.
+2. Render: a clip can be rendered as soon as its pictures exist (`node film/gen.mjs <clip>` prints what is missing; `bash tools/render.sh <clips>` as a background process, 6 to 8 min a clip). Upload each clip to Drive `clips_work`. A part is packaged by hand from the clips at hand (the commands of `tools/finish.sh`, with a hand-written `out/deliver/part.txt`), so earlier clips need not be downloaded again: ch01a = N03–N06, ch01b = N07–N10. Chapter 2: N11 is rendered (pictures 054–057); N12 needs 058–062.
+3. **Chapter 5 (N35–N42, 1924–1929) is written, narrated (438.2 s = 7 min 18 s) and aligned** (27 Nov 2026). The "big lie" line in N40 now says that the book gives it as his enemies' method. Its 40 pictures (170–209) are not made. **Chapter 6 (N43–N50, 1929–1933) is drafted** in `script/ch06.mjs` and not narrated: `script/script.mjs` adds it only with `EP23_DRAFT=1`. To finish it: remove that switch (plain `...ch06`), `node script/build.mjs`, speak `narration/text/N43.txt` … `N50.txt` with voice-02, zip and upload, `$PY script/align.py N43 … N50`, shot rows from 210 (look for 1929–1933: reuse **G**; ref **Q**), `counts.json`, `CARD_BG` N43, upload script and fact sheet again. Then write chapter 7 (1933–1934, N51–N58), at most 7,400 characters.
 4. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
 5. 030 again (upright and soft).
 
@@ -80,6 +81,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N06.mp4 | `1E6NF4hQtlNWwQjMEaNp3XU5qAuvkVRlF` |
 | clips_work/N07.mp4 | `1q-tjKlCStImZnN0bFUFaTFPuCL2kpnKV` |
 | clips_work/N08.mp4 | `1_nVkJSB11lDOHgw-se2iEtWfWcUu-egQ` |
+| clips_work/N09.mp4 | `1Y7wM8_3P7DYccZGkbAqOZkRzcWUEPBth` |
+| clips_work/N10.mp4 | `11-_ovtOPJCjCJrGlqaQgHYtGQqXxXp7G` |
 | images/EP23_B06_images_049-058.zip | `1yzHhZaB2Q_ad8rc8O0JRXzNMz7tLhyjV` |
 | EP23_narration_N35-N42_voice02.zip (chapter 5) | `1IkyG5VliTynQ1RwBl0qIP1K3Ye7Emtam` |
 | EP23_SCRIPT_TA_hook_ch1-ch5.md (current) | `15VSeOL4o8PN7A4hAgWgSEHiIWDOW-kuC` |

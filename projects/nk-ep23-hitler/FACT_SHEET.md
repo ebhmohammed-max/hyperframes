@@ -265,6 +265,61 @@ Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), though
 | 220 | N42 | The recovery rested on short-term American loans | general | known |
 | 221 | N42 | 24 October 1929: the Wall Street crash | general | known |
 
+## Chapter 6 — நெருக்கடி, 1929–1933 (N43–N50) — DRAFT, not yet narrated
+
+Searches of 27 Nov 2026 (two). Pages: Nuremberg document 252-PS (fcit.usf.edu/holocaust/resource/document/DOCNAC7.htm), alphahistory.com (The Great Depression), cognito.org GCSE notes, historyrise.com, explaininghistory.org, mytutor.co.uk, a Substack essay; election tables on two encyclopaedia pages. "memory" = not confirmed by these searches.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 222 | N43 | After the crash American banks called in their short-term loans to Germany | general; substack/alphahistory summaries | searched |
+| 223 | N43 | Unemployed: about 1.5 million at the end of 1929, more than double a year later | alphahistory.com, The Great Depression | searched |
+| 224 | N43 | About 6 million (26 per cent) out of work by early 1933: "one in four" | alphahistory.com | searched |
+| 225 | N43 | Second ruin in ten years: the 1923 inflation, then the slump | comment on rows 178–179 | opinion |
+| 226 | N43 | Brüning's government cut spending and wages and raised taxes; no majority; rule by presidential emergency decree (Article 48) from 1930 | Kershaw; general | memory (searched pages confirm rule by decree) |
+| 227 | N43 | Parliamentary government had in effect stopped almost three years before he took office (decrees from July 1930) | Kershaw; Evans | memory; "almost three" = two and a half |
+| 228 | N44 | He had said the same things for ten years; now people listened | comment | opinion |
+| 229 | N44 | Different promises to farmers, workers and business, not consistent with one another | cognito.org notes; Evans | searched |
+| 230 | N44 | One answer for all: the blame lies with the politicians who signed (armistice and Versailles), the Communists, the Jews | his speeches; general | known |
+| 231 | N44 | 14 September 1930: from 2.6 to 18.3 per cent, from 12 to 107 seats (of 577) | Nuremberg document 252-PS (fcit.usf.edu); election tables | searched |
+| 232 | N44 | 6.4 million votes; second largest party | election tables | searched |
+| 233 | N44 | Who voted: earlier non-voters, small shopkeepers, farmers, clerks; the Protestant middle class afraid of falling | election studies (Falter) as summarised in the searched page | searched |
+| 234 | N45 | The SA had about 400,000 men in 1932; the army was limited to 100,000 | Kershaw; Versailles treaty | memory |
+| 235 | N45 | Jobless young men got food, a uniform, an enemy; meetings broken up; street fights with Communists; deaths week after week in 1932 | Evans, *The Coming of the Third Reich* | memory ("every week" fits summer 1932; not counted) |
+| 236 | N45 | His men made the disorder and he promised order | comment | opinion |
+| 237 | N45 | Geli Raubal, daughter of his half-sister Angela, 23, lived in his Munich flat | Kershaw | memory (the script says "his sister's daughter": half-sister) |
+| 238 | N45 | He did not let her go out alone and watched whom she met | witnesses (household, Hoffmann, Hanfstaengl) | memory; witness accounts |
+| 239 | N45 | 18 September 1931: found dead in his flat, shot with his pistol; the police ruled suicide | Kershaw | memory |
+| 240 | N45 | He withdrew for days, kept her room locked as it was, and was back on the platform within weeks | witnesses (Hoffmann and others) | memory; witness accounts |
+| 241 | N46 | 1932 presidential election against Hindenburg, aged 84, the wartime field marshal | general | known |
+| 242 | N46 | He was not a German citizen; in late February 1932 the state of Brunswick, where his party sat in the government, gave him a civil-service post, which carried citizenship | Kershaw | memory |
+| 243 | N46 | Campaign by aeroplane, several cities a day; new in German politics | cognito.org ("Hitler over Germany" flights); Kershaw | searched (flights); "nobody before" from memory |
+| 244 | N46 | Run-off, 10 April 1932: Hindenburg 53 per cent, Hitler 36.8 | historyrise.com; election tables | searched |
+| 245 | N46 | About 13 million voted for him (13.4 million); about 800,000 for his party in 1928 | election tables; row 215 | 13.4 million from memory; 800,000 searched |
+| 246 | N47 | 31 July 1932: 37.3 per cent, 230 of 608 seats, the largest party | 252-PS; election tables | searched |
+| 247 | N47 | 37.3 per cent was his highest in a free election; 63 in 100 did not vote for him | election tables (March 1933, 43.9 per cent, was not a free election) | searched; the judgement on March 1933 is the common one |
+| 248 | N47 | He demanded the chancellorship with full powers | Kershaw | memory |
+| 249 | N47 | 13 August 1932: Hindenburg received him standing and refused: "before God, my conscience and the fatherland" | Meissner's minute; historyrise.com for the words | words searched; "standing" from memory |
+| 250 | N47 | Hindenburg's name for him: "that Bohemian corporal"; fit to be postmaster | historyrise.com; mytutor.co.uk; general | searched |
+| 251 | N47 | He left humiliated: votes but no office | comment; Kershaw | opinion |
+| 252 | N48 | 6 November 1932: the fourth national vote of the year (two presidential rounds, two Reichstag elections) | general | known |
+| 253 | N48 | Lost about 2 million votes: 33.1 per cent, 196 seats (34 fewer) | 252-PS; election tables | searched |
+| 254 | N48 | Party funds empty and deep in debt; SA men rattling collecting tins in the streets; the economy had begun to turn | Kershaw; Turner, *Hitler's Thirty Days to Power* | memory |
+| 255 | N48 | Goebbels's diary, December 1932: the future looks dark, all hopes gone | Goebbels diary (as quoted by Shirer, Kershaw) | memory; wording shortened |
+| 256 | N48 | A leading German paper on New Year's Day 1933: the great assault on the democratic state has been beaten back | *Frankfurter Zeitung*, 1 January 1933 | memory |
+| 257 | N48 | The tide was going out; with a little more time the story might have ended there | comment (Turner's argument) | opinion |
+| 258 | N49 | What saved him was not votes but the scheme of a few men | Bullock ("jobbed into office by a backstairs intrigue"), quoted in a searched page | searched (historians' view) |
+| 259 | N49 | Franz von Papen: aristocrat, former chancellor, pushed out by Schleicher, wanted revenge and needed his votes | mytutor.co.uk; explaininghistory.org | searched |
+| 260 | N49 | 4 January 1933: secret meeting in a banker's house (Kurt von Schröder, Cologne) | Kershaw; Turner | memory |
+| 261 | N49 | The plan: he as chancellor, Papen vice-chancellor, only three Nazis in the cabinet (Hitler, Frick, Göring); army, foreign and finance ministries with conservatives | substack page ("only three Nazis"); explaininghistory.org ("two other Nazis") | searched |
+| 262 | N49 | Hindenburg refused for weeks; his son Oskar and his advisers pressed him; he gave in, aged 85 | Meissner; Kershaw; historyrise.com (85) | searched in part |
+| 263 | N49 | Papen: "We've hired him"; "in two months we'll have pushed him so far into the corner that he'll squeak" | historyrise.com and three more searched pages | searched (two sayings, given together) |
+| 264 | N50 | 30 January 1933, a little after 11 in the morning, sworn in at the President's palace, with the oath to uphold the constitution | general; Kershaw | date searched; hour and oath from memory |
+| 265 | N50 | He was 43; "24 years" after the shelter queue of December 1909 | rows 1–3 (the hook) | arithmetic (23 years and one month; the hook says 24) |
+| 266 | N50 | Torchlight procession in Berlin that night, tens of thousands; he at a window | general | known (numbers claimed vary from 20,000 upward) |
+| 267 | N50 | He did not seize power and was not elected with a majority; men who thought they could control him let him in | Bullock; searched pages | searched (historians' view) |
+| 268 | N50 | Two months later there was no democracy: Enabling Act, 23 March 1933 | substack page; general | searched |
+| 269 | N50 | "Eighteen months": the next chapter | — | link |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -291,3 +346,7 @@ Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), though
 22. Chapter 5, row 200: the "hold our noses" saying rests on one memoir (Lüdecke, 1937).
 23. Chapter 5, row 213: the "big lie" passage. In the book he accuses his enemies of it. The narration was changed on 27 Nov 2026 to say this plainly, and adds as an opinion that he himself then used the method. Check the passage against a printed edition before publishing.
 24. Chapter 5, rows 195, 205, 206, 216: figures and dates from memory (visitors, 3,000 at the refounding, dates of the speaking ban, the 1927 report).
+25. Chapter 6, rows 237–240: Geli Raubal. The death and the verdict are recorded; his control over her and his behaviour afterwards rest on witnesses who wrote later. The script calls her "his sister's daughter" (half-sister).
+26. Chapter 6, rows 234, 254, 255, 256: the SA figure (400,000), the party's debts, the Goebbels diary line and the newspaper line of 1 January 1933 are from memory; check wording against Kershaw or Turner.
+27. Chapter 6, row 249: that Hindenburg did not offer him a seat on 13 August 1932 is from memory.
+28. Chapter 6, row 265: the hook says "24 years"; December 1909 to January 1933 is 23 years and one month.
