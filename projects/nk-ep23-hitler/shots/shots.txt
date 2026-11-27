@@ -473,3 +473,44 @@ N90|4|old_man_boy_rifles_town_square|X|autumn 1944: an old man of sixty-five in 
 N90|5|snow_hills_abandoned_tanks_crews_walking|X|December 1944: snowy forested hills, tanks abandoned at the roadside with their hatches open, the crews walking away on foot along the road. Nothing graphic
 N90|6|train_night_ruined_station|X|January 1945: a dark train drawing into a roofless ruined city station at night, snow falling through the broken girders, a few guards on the platform
 N90|6|garden_concrete_block_steel_door|X|a low concrete block with a steel door in a wintry walled garden beside a bomb-damaged government building, one sentry, bare trees, grey sky
+# Chapter 12 (1945). Look X or O; ref H in six, always from behind, from the side or far, bent and aged, never heroic. Speer, Eva Braun, Traudl Junge and the men at Nuremberg are invented actors described by type. Nothing graphic: 30 April is a closed door and smoke in a garden. The closing lines of N98 reuse earlier pictures.
+N91|0|bunker_corridor_bare_bulbs_pipes|X|a narrow concrete corridor deep underground: bare bulbs, pipes and cables along the low ceiling, steel doors on both sides, one guard small at the far end
+N91|1|roofless_street_rubble_handcart_snow|X|Berlin in the winter of 1945: a street of roofless burnt-out house fronts, heaps of rubble, a few people pulling a handcart through the snow, seen from far
+N91|2|man_back_microphone_bare_room|X@H|a bare concrete room: the man seen from behind at a small table with a microphone, shoulders bent, a sheaf of pages in his hand, a technician waiting in the doorway
+N91|4|sappers_charges_stone_bridge_town|X|March 1945: soldiers fixing charges under the arch of an old stone bridge in a small German town, townspeople watching in silence from the river bank. No insignia
+N91|5|tall_civilian_folder_man_far_side|X@H|a tall man of forty in a civilian overcoat standing with a folder before a desk in a concrete room, speaking earnestly; at the far side of the room the man, stooped and aged, seen from the side, small in the frame
+N92|0|refugee_carts_frozen_lagoon_far|X|winter 1945: an endless line of horse carts and people on foot crossing a frozen lagoon under a grey sky, bundles and children on the carts, seen from far
+N92|1|dark_liner_listing_night_sea_far|O|a January night on the Baltic: a large darkened passenger liner listing in black water, seen from far through snow squalls, a few small lights. Nothing graphic, no lettering
+N92|2|domed_church_shell_burnt_fronts_dawn|O|February 1945: the broken shell of a great domed church among burnt-out house fronts at dawn, smoke drifting, rubble in the square, no people
+N92|3|camp_gate_open_soldiers_cameraman|O|April 1945: American soldiers in olive uniforms standing at the open gate of a camp, one of them filming with a hand-cranked cine camera, thin figures in striped clothes behind the wire in the distance. Nothing graphic, no lettering
+N92|4|townspeople_led_through_gate_backs|O|April 1945: a line of German townspeople in good coats and hats being led by soldiers through a camp gate, some with handkerchiefs pressed to their faces, seen from behind. Nothing graphic
+N92|5|black_telephone_receiver_lifted|X|close view: a hand lifting the receiver of a black telephone on a desk in a concrete room, a glass and an open diary beside it, lamp light
+N92|6|cellar_families_candle|X|a cellar in Berlin: women, children and old people sitting close together on benches and suitcases by the light of one candle, dust sifting down from the ceiling
+N93|0|line_of_guns_firing_river_mist|O|before dawn in April 1945: a long line of heavy guns firing at once along a river bank, the flashes lighting the mist, the crews tiny, seen from far
+N93|1|boys_old_men_tram_barricade|X|a street barricade made of a tram car filled with rubble: boys of fourteen in coats too big for them and old men in civilian overcoats standing behind it with rifles. No armbands, no insignia
+N93|3|row_of_boys_garden_man_stooped_back|X@H|a ruined walled garden: a short row of boys in oversized uniforms standing stiffly; the man seen from behind, stooped, coat collar turned up, one hand reaching towards a boy's cheek. No insignia, no medals
+N93|5|shell_burst_avenue_people_running|X|a broad Berlin avenue: a shell bursting far down it, people running for doorways, seen from a distance. Nothing graphic
+N93|6|convoy_cars_leaving_night_ruins|X|night: a convoy of dark cars and lorries loaded with crates leaving through ruined streets with hooded headlamps
+N93|8|soviet_soldiers_street_fighting_far|O|late April 1945: Soviet soldiers and a tank advancing down a smoke-filled Berlin street between ruined house fronts, seen from far. Nothing graphic, no flags
+N94|0|map_room_officers_rigid_silent|X|a cramped concrete map room: officers standing rigid and silent round a map table, eyes lowered, one chair pushed back and empty. No insignia
+N94|1|man_slumped_chair_through_door|X@H|the same cramped map room seen from the corridor through a half-open steel door: at the far end the man slumped in a chair, head down, the officers motionless around him
+N94|3|telegram_form_hand_lamp|O|close view: a hand holding a telegram form above a desk in lamp light, the print blurred beyond reading
+N94|4|radio_operator_headphones_startled|X|a radio operator with headphones in a tiny concrete room, writing on a slip of paper and looking up, startled
+N95|0|small_ceremony_map_room_backs|X@H|midnight in a small concrete map room: an official in a civilian coat at a table with a document, before him the man and a fair-haired woman of thirty-three in a dark dress, both seen from behind, two witnesses at the wall
+N95|1|secretary_shorthand_pad_looking_up|X|a young woman of twenty-five with a shorthand pad at a bare table in a concrete room, looking up with tired, expectant eyes, one lamp
+N95|3|typed_pages_fountain_pen_lamp|O|a still life: several typed pages on a table beside a fountain pen in lamp light, all print blurred beyond reading
+N95|5|old_letter_beside_typed_page|O|a still life: a yellowed handwritten letter and a freshly typed page lying side by side on a dark table, all writing blurred beyond reading
+N95|7|fuel_cans_concrete_stair|X|a row of metal fuel cans standing at the foot of a concrete stairway, a guard looking down at them
+N96|0|corridor_line_handshakes_man_back|X@H|a narrow concrete corridor: secretaries and officers standing in a line, the man, stooped, seen from behind, moving slowly along it shaking hands
+N96|1|closed_steel_door_three_waiting|X|a closed steel door at the end of a concrete corridor, three people standing in front of it waiting, one looking at his watch
+N96|3|garden_smoke_column_crater|X|a ruined walled garden beside a concrete block: a column of black smoke rising from a shallow crater, shell bursts in the distance, no people. Nothing graphic
+N96|5|wireless_shattered_room_family|X|a wireless set on a table in a room with broken windows and fallen plaster, a family in overcoats standing round it, listening without expression
+N96|6|courtroom_dock_one_empty_chair|O|a large panelled courtroom in grey light: a long empty dock with one chair standing forward of the others, no people, no lettering
+N97|0|six_small_coats_pegs_concrete|O|a row of six children's coats of different sizes hanging on pegs on a bare concrete wall, no people
+N97|1|soldiers_filing_past_pile_of_rifles|X|2 May 1945: German soldiers filing past a growing pile of rifles and helmets in a ruined street, Soviet soldiers watching from the side. No insignia, no flags
+N97|3|hall_long_table_hand_signing|O|May 1945: a hall with a long table, officers of several armies seated along it, in the foreground a hand signing a document. No flags, no lettering
+N97|6|women_passing_bricks_ruins|O|summer 1945: women in headscarves passing bricks from hand to hand along a line in the ruins of a German city
+N97|6|wall_watchtower_across_street|O|the 1960s: a concrete wall with a watchtower cutting straight across a city street, grey light, no people, no lettering
+N98|0|courtroom_two_rows_headphones_gallery_view|O|1946: a large panelled courtroom seen from the gallery: two rows of men in plain suits with headphones in a dock, guards in white helmets standing behind them, judges at a bench far off. No flags, no lettering
+N98|1|guard_looking_through_cell_hatch|O|a prison corridor at night: a guard bending to look through the hatch of a cell door, a single lamp
+N98|7|one_candle_pebbles_stone_ledge|O|close view at dusk: one small candle burning beside a few pebbles laid on a rough stone ledge, no lettering, no people

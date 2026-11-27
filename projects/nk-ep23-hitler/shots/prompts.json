@@ -5356,5 +5356,441 @@
   "look": "X",
   "file": "EP23_459_N90q06_garden_concrete_block_steel_door.jpg",
   "prompt": "A low concrete block with a steel door in a wintry walled garden beside a bomb-damaged government building, one sentry, bare trees, grey sky. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 460,
+  "clip": "N91",
+  "q": 0,
+  "k": 0,
+  "name": "bunker_corridor_bare_bulbs_pipes",
+  "look": "X",
+  "file": "EP23_460_N91q00_bunker_corridor_bare_bulbs_pipes.jpg",
+  "prompt": "A narrow concrete corridor deep underground: bare bulbs, pipes and cables along the low ceiling, steel doors on both sides, one guard small at the far end. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 461,
+  "clip": "N91",
+  "q": 1,
+  "k": 0,
+  "name": "roofless_street_rubble_handcart_snow",
+  "look": "X",
+  "file": "EP23_461_N91q01_roofless_street_rubble_handcart_snow.jpg",
+  "prompt": "Berlin in the winter of 1945: a street of roofless burnt-out house fronts, heaps of rubble, a few people pulling a handcart through the snow, seen from far. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 462,
+  "clip": "N91",
+  "q": 2,
+  "k": 0,
+  "name": "man_back_microphone_bare_room",
+  "look": "X",
+  "file": "EP23_462_N91q02_man_back_microphone_bare_room.jpg",
+  "prompt": "A bare concrete room: the man seen from behind at a small table with a microphone, shoulders bent, a sheaf of pages in his hand, a technician waiting in the doorway. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 463,
+  "clip": "N91",
+  "q": 4,
+  "k": 0,
+  "name": "sappers_charges_stone_bridge_town",
+  "look": "X",
+  "file": "EP23_463_N91q04_sappers_charges_stone_bridge_town.jpg",
+  "prompt": "March 1945: soldiers fixing charges under the arch of an old stone bridge in a small German town, townspeople watching in silence from the river bank. No insignia. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 464,
+  "clip": "N91",
+  "q": 5,
+  "k": 0,
+  "name": "tall_civilian_folder_man_far_side",
+  "look": "X",
+  "file": "EP23_464_N91q05_tall_civilian_folder_man_far_side.jpg",
+  "prompt": "A tall man of forty in a civilian overcoat standing with a folder before a desk in a concrete room, speaking earnestly; at the far side of the room the man, stooped and aged, seen from the side, small in the frame. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 465,
+  "clip": "N92",
+  "q": 0,
+  "k": 0,
+  "name": "refugee_carts_frozen_lagoon_far",
+  "look": "X",
+  "file": "EP23_465_N92q00_refugee_carts_frozen_lagoon_far.jpg",
+  "prompt": "Winter 1945: an endless line of horse carts and people on foot crossing a frozen lagoon under a grey sky, bundles and children on the carts, seen from far. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 466,
+  "clip": "N92",
+  "q": 1,
+  "k": 0,
+  "name": "dark_liner_listing_night_sea_far",
+  "look": "O",
+  "file": "EP23_466_N92q01_dark_liner_listing_night_sea_far.jpg",
+  "prompt": "A January night on the Baltic: a large darkened passenger liner listing in black water, seen from far through snow squalls, a few small lights. Nothing graphic, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 467,
+  "clip": "N92",
+  "q": 2,
+  "k": 0,
+  "name": "domed_church_shell_burnt_fronts_dawn",
+  "look": "O",
+  "file": "EP23_467_N92q02_domed_church_shell_burnt_fronts_dawn.jpg",
+  "prompt": "February 1945: the broken shell of a great domed church among burnt-out house fronts at dawn, smoke drifting, rubble in the square, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 468,
+  "clip": "N92",
+  "q": 3,
+  "k": 0,
+  "name": "camp_gate_open_soldiers_cameraman",
+  "look": "O",
+  "file": "EP23_468_N92q03_camp_gate_open_soldiers_cameraman.jpg",
+  "prompt": "April 1945: American soldiers in olive uniforms standing at the open gate of a camp, one of them filming with a hand-cranked cine camera, thin figures in striped clothes behind the wire in the distance. Nothing graphic, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 469,
+  "clip": "N92",
+  "q": 4,
+  "k": 0,
+  "name": "townspeople_led_through_gate_backs",
+  "look": "O",
+  "file": "EP23_469_N92q04_townspeople_led_through_gate_backs.jpg",
+  "prompt": "April 1945: a line of German townspeople in good coats and hats being led by soldiers through a camp gate, some with handkerchiefs pressed to their faces, seen from behind. Nothing graphic. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 470,
+  "clip": "N92",
+  "q": 5,
+  "k": 0,
+  "name": "black_telephone_receiver_lifted",
+  "look": "X",
+  "file": "EP23_470_N92q05_black_telephone_receiver_lifted.jpg",
+  "prompt": "Close view: a hand lifting the receiver of a black telephone on a desk in a concrete room, a glass and an open diary beside it, lamp light. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 471,
+  "clip": "N92",
+  "q": 6,
+  "k": 0,
+  "name": "cellar_families_candle",
+  "look": "X",
+  "file": "EP23_471_N92q06_cellar_families_candle.jpg",
+  "prompt": "A cellar in Berlin: women, children and old people sitting close together on benches and suitcases by the light of one candle, dust sifting down from the ceiling. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 472,
+  "clip": "N93",
+  "q": 0,
+  "k": 0,
+  "name": "line_of_guns_firing_river_mist",
+  "look": "O",
+  "file": "EP23_472_N93q00_line_of_guns_firing_river_mist.jpg",
+  "prompt": "Before dawn in April 1945: a long line of heavy guns firing at once along a river bank, the flashes lighting the mist, the crews tiny, seen from far. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 473,
+  "clip": "N93",
+  "q": 1,
+  "k": 0,
+  "name": "boys_old_men_tram_barricade",
+  "look": "X",
+  "file": "EP23_473_N93q01_boys_old_men_tram_barricade.jpg",
+  "prompt": "A street barricade made of a tram car filled with rubble: boys of fourteen in coats too big for them and old men in civilian overcoats standing behind it with rifles. No armbands, no insignia. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 474,
+  "clip": "N93",
+  "q": 3,
+  "k": 0,
+  "name": "row_of_boys_garden_man_stooped_back",
+  "look": "X",
+  "file": "EP23_474_N93q03_row_of_boys_garden_man_stooped_back.jpg",
+  "prompt": "A ruined walled garden: a short row of boys in oversized uniforms standing stiffly; the man seen from behind, stooped, coat collar turned up, one hand reaching towards a boy's cheek. No insignia, no medals. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 475,
+  "clip": "N93",
+  "q": 5,
+  "k": 0,
+  "name": "shell_burst_avenue_people_running",
+  "look": "X",
+  "file": "EP23_475_N93q05_shell_burst_avenue_people_running.jpg",
+  "prompt": "A broad Berlin avenue: a shell bursting far down it, people running for doorways, seen from a distance. Nothing graphic. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 476,
+  "clip": "N93",
+  "q": 6,
+  "k": 0,
+  "name": "convoy_cars_leaving_night_ruins",
+  "look": "X",
+  "file": "EP23_476_N93q06_convoy_cars_leaving_night_ruins.jpg",
+  "prompt": "Night: a convoy of dark cars and lorries loaded with crates leaving through ruined streets with hooded headlamps. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 477,
+  "clip": "N93",
+  "q": 8,
+  "k": 0,
+  "name": "soviet_soldiers_street_fighting_far",
+  "look": "O",
+  "file": "EP23_477_N93q08_soviet_soldiers_street_fighting_far.jpg",
+  "prompt": "Late April 1945: Soviet soldiers and a tank advancing down a smoke-filled Berlin street between ruined house fronts, seen from far. Nothing graphic, no flags. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 478,
+  "clip": "N94",
+  "q": 0,
+  "k": 0,
+  "name": "map_room_officers_rigid_silent",
+  "look": "X",
+  "file": "EP23_478_N94q00_map_room_officers_rigid_silent.jpg",
+  "prompt": "A cramped concrete map room: officers standing rigid and silent round a map table, eyes lowered, one chair pushed back and empty. No insignia. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 479,
+  "clip": "N94",
+  "q": 1,
+  "k": 0,
+  "name": "man_slumped_chair_through_door",
+  "look": "X",
+  "file": "EP23_479_N94q01_man_slumped_chair_through_door.jpg",
+  "prompt": "The same cramped map room seen from the corridor through a half-open steel door: at the far end the man slumped in a chair, head down, the officers motionless around him. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 480,
+  "clip": "N94",
+  "q": 3,
+  "k": 0,
+  "name": "telegram_form_hand_lamp",
+  "look": "O",
+  "file": "EP23_480_N94q03_telegram_form_hand_lamp.jpg",
+  "prompt": "Close view: a hand holding a telegram form above a desk in lamp light, the print blurred beyond reading. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 481,
+  "clip": "N94",
+  "q": 4,
+  "k": 0,
+  "name": "radio_operator_headphones_startled",
+  "look": "X",
+  "file": "EP23_481_N94q04_radio_operator_headphones_startled.jpg",
+  "prompt": "A radio operator with headphones in a tiny concrete room, writing on a slip of paper and looking up, startled. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 482,
+  "clip": "N95",
+  "q": 0,
+  "k": 0,
+  "name": "small_ceremony_map_room_backs",
+  "look": "X",
+  "file": "EP23_482_N95q00_small_ceremony_map_room_backs.jpg",
+  "prompt": "Midnight in a small concrete map room: an official in a civilian coat at a table with a document, before him the man and a fair-haired woman of thirty-three in a dark dress, both seen from behind, two witnesses at the wall. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 483,
+  "clip": "N95",
+  "q": 1,
+  "k": 0,
+  "name": "secretary_shorthand_pad_looking_up",
+  "look": "X",
+  "file": "EP23_483_N95q01_secretary_shorthand_pad_looking_up.jpg",
+  "prompt": "A young woman of twenty-five with a shorthand pad at a bare table in a concrete room, looking up with tired, expectant eyes, one lamp. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 484,
+  "clip": "N95",
+  "q": 3,
+  "k": 0,
+  "name": "typed_pages_fountain_pen_lamp",
+  "look": "O",
+  "file": "EP23_484_N95q03_typed_pages_fountain_pen_lamp.jpg",
+  "prompt": "A still life: several typed pages on a table beside a fountain pen in lamp light, all print blurred beyond reading. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 485,
+  "clip": "N95",
+  "q": 5,
+  "k": 0,
+  "name": "old_letter_beside_typed_page",
+  "look": "O",
+  "file": "EP23_485_N95q05_old_letter_beside_typed_page.jpg",
+  "prompt": "A still life: a yellowed handwritten letter and a freshly typed page lying side by side on a dark table, all writing blurred beyond reading. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 486,
+  "clip": "N95",
+  "q": 7,
+  "k": 0,
+  "name": "fuel_cans_concrete_stair",
+  "look": "X",
+  "file": "EP23_486_N95q07_fuel_cans_concrete_stair.jpg",
+  "prompt": "A row of metal fuel cans standing at the foot of a concrete stairway, a guard looking down at them. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 487,
+  "clip": "N96",
+  "q": 0,
+  "k": 0,
+  "name": "corridor_line_handshakes_man_back",
+  "look": "X",
+  "file": "EP23_487_N96q00_corridor_line_handshakes_man_back.jpg",
+  "prompt": "A narrow concrete corridor: secretaries and officers standing in a line, the man, stooped, seen from behind, moving slowly along it shaking hands. The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "H"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 488,
+  "clip": "N96",
+  "q": 1,
+  "k": 0,
+  "name": "closed_steel_door_three_waiting",
+  "look": "X",
+  "file": "EP23_488_N96q01_closed_steel_door_three_waiting.jpg",
+  "prompt": "A closed steel door at the end of a concrete corridor, three people standing in front of it waiting, one looking at his watch. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 489,
+  "clip": "N96",
+  "q": 3,
+  "k": 0,
+  "name": "garden_smoke_column_crater",
+  "look": "X",
+  "file": "EP23_489_N96q03_garden_smoke_column_crater.jpg",
+  "prompt": "A ruined walled garden beside a concrete block: a column of black smoke rising from a shallow crater, shell bursts in the distance, no people. Nothing graphic. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 490,
+  "clip": "N96",
+  "q": 5,
+  "k": 0,
+  "name": "wireless_shattered_room_family",
+  "look": "X",
+  "file": "EP23_490_N96q05_wireless_shattered_room_family.jpg",
+  "prompt": "A wireless set on a table in a room with broken windows and fallen plaster, a family in overcoats standing round it, listening without expression. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 491,
+  "clip": "N96",
+  "q": 6,
+  "k": 0,
+  "name": "courtroom_dock_one_empty_chair",
+  "look": "O",
+  "file": "EP23_491_N96q06_courtroom_dock_one_empty_chair.jpg",
+  "prompt": "A large panelled courtroom in grey light: a long empty dock with one chair standing forward of the others, no people, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 492,
+  "clip": "N97",
+  "q": 0,
+  "k": 0,
+  "name": "six_small_coats_pegs_concrete",
+  "look": "O",
+  "file": "EP23_492_N97q00_six_small_coats_pegs_concrete.jpg",
+  "prompt": "A row of six children's coats of different sizes hanging on pegs on a bare concrete wall, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 493,
+  "clip": "N97",
+  "q": 1,
+  "k": 0,
+  "name": "soldiers_filing_past_pile_of_rifles",
+  "look": "X",
+  "file": "EP23_493_N97q01_soldiers_filing_past_pile_of_rifles.jpg",
+  "prompt": "2 May 1945: German soldiers filing past a growing pile of rifles and helmets in a ruined street, Soviet soldiers watching from the side. No insignia, no flags. Germany between 1933 and 1945, an ominous mood, nothing celebrated: no signboards, no lettering of any kind, no flags, no emblems, no symbols on any cloth or wall, no insignia, no armbands, no salutes, crowds seen from far or in shadow, nothing celebrated. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 494,
+  "clip": "N97",
+  "q": 3,
+  "k": 0,
+  "name": "hall_long_table_hand_signing",
+  "look": "O",
+  "file": "EP23_494_N97q03_hall_long_table_hand_signing.jpg",
+  "prompt": "May 1945: a hall with a long table, officers of several armies seated along it, in the foreground a hand signing a document. No flags, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 495,
+  "clip": "N97",
+  "q": 6,
+  "k": 0,
+  "name": "women_passing_bricks_ruins",
+  "look": "O",
+  "file": "EP23_495_N97q06_women_passing_bricks_ruins.jpg",
+  "prompt": "Summer 1945: women in headscarves passing bricks from hand to hand along a line in the ruins of a German city. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 496,
+  "clip": "N97",
+  "q": 6,
+  "k": 1,
+  "name": "wall_watchtower_across_street",
+  "look": "O",
+  "file": "EP23_496_N97q06_wall_watchtower_across_street.jpg",
+  "prompt": "The 1960s: a concrete wall with a watchtower cutting straight across a city street, grey light, no people, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 497,
+  "clip": "N98",
+  "q": 0,
+  "k": 0,
+  "name": "courtroom_two_rows_headphones_gallery_view",
+  "look": "O",
+  "file": "EP23_497_N98q00_courtroom_two_rows_headphones_gallery_view.jpg",
+  "prompt": "1946: a large panelled courtroom seen from the gallery: two rows of men in plain suits with headphones in a dock, guards in white helmets standing behind them, judges at a bench far off. No flags, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 498,
+  "clip": "N98",
+  "q": 1,
+  "k": 0,
+  "name": "guard_looking_through_cell_hatch",
+  "look": "O",
+  "file": "EP23_498_N98q01_guard_looking_through_cell_hatch.jpg",
+  "prompt": "A prison corridor at night: a guard bending to look through the hatch of a cell door, a single lamp. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 499,
+  "clip": "N98",
+  "q": 7,
+  "k": 0,
+  "name": "one_candle_pebbles_stone_ledge",
+  "look": "O",
+  "file": "EP23_499_N98q07_one_candle_pebbles_stone_ledge.jpg",
+  "prompt": "Close view at dusk: one small candle burning beside a few pebbles laid on a rough stone ledge, no lettering, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  }
 ]

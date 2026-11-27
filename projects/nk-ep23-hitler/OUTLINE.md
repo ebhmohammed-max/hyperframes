@@ -28,8 +28,8 @@ The film condemns what he did and shows how it became possible. It does not make
 | 8 | 1934–1938 | ஒரு நாடு பின்னாடி போச்சு | 9 | N59–N66 | Work and rearmament, propaganda, the rallies, the Nuremberg Laws, the 1936 Olympics, the Rhineland, Austria, Munich, the night of broken glass |
 | 9 | 1939–1941 | போர் | 8.5 | N67–N74 | The pact with Stalin, Poland, France in six weeks, Britain holds, the killing of the disabled, the invasion of the Soviet Union, war on America |
 | 10 | 1941–1945 | பேரழிவு | 9 | N75–N82 | The shooting squads, Babi Yar, the Wannsee meeting, the death camps, Auschwitz, sixty lakh. Told plainly and with respect; nothing graphic is shown |
-| 11 | 1942–1944 | சரிவு | 8.5 | N83–N90 | Stalingrad, the bombing of the cities, Normandy, the bomb of 20 July 1944, his body and mind give way |
-| 12 | 1945 | பதுங்கு குழி | 8.5 | N91–N98 | The bunker, the order to destroy Germany, the last birthday, the wedding, 30 April; what it cost; the answer to the three questions |
+| 11 | 1942–1944 | சரிவு | 9.6 | N83–N90 | Stalingrad, the bombing of the cities, Normandy, the bomb of 20 July 1944, his body and mind give way; Warsaw, Paris, the rockets, the call-up of boys and old men |
+| 12 | 1945 | பதுங்கு குழி | 9.9 | N91–N98 | The bunker, the order to destroy Germany, the refugees and the opened camps, the last birthday, the wedding and the testament, 30 April; what it cost; the answer to the hook's question |
 | End card | | | 0.3 | END | |
 
 Total: about 105 minutes. A chapter may run half a minute over or under.
