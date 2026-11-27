@@ -436,7 +436,7 @@ Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline),
 | 370 | N66 | Work, pride, fear, looking away: how a country followed, step by step | comment | opinion |
 | 371 | N66 | So far he got everything without war; peace was not what he wanted | comment | opinion |
 
-## Chapter 9 — போர், 1939–1941 (N67–N73) — DRAFT, not yet narrated
+## Chapter 9 — போர், 1939–1941 (N67–N73) — narrated 27 Nov 2026
 
 Searches of 27 Nov 2026 (two). Pages: enrs.eu (WWII timeline), Wikipedia (timeline of the Molotov–Ribbentrop Pact; Aktion T4), defensematrixlab.com, en.wikiversity.org, muzej-nz-ce.si (chronology), encyclopedia.ushmm.org (Euthanasia Program), teachjewishhistory.org, worldwar1-2.com. "memory" = not confirmed by these searches.
 
