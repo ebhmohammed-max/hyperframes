@@ -436,6 +436,55 @@ Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline),
 | 370 | N66 | Work, pride, fear, looking away: how a country followed, step by step | comment | opinion |
 | 371 | N66 | So far he got everything without war; peace was not what he wanted | comment | opinion |
 
+## Chapter 9 — போர், 1939–1941 (N67–N73) — DRAFT, not yet narrated
+
+Searches of 27 Nov 2026 (two). Pages: enrs.eu (WWII timeline), Wikipedia (timeline of the Molotov–Ribbentrop Pact; Aktion T4), defensematrixlab.com, en.wikiversity.org, muzej-nz-ce.si (chronology), encyclopedia.ushmm.org (Euthanasia Program), teachjewishhistory.org, worldwar1-2.com. "memory" = not confirmed by these searches.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 372 | N67 | 15 March 1939: the German army entered Prague, under six months after Munich (30 September 1938) | enrs.eu; Wikipedia (timeline of the pact) | searched; arithmetic |
+| 373 | N67 | The people there were Czechs, not Germans; the "bringing my people home" pretext no longer held | general | known |
+| 374 | N67 | Britain and France now guaranteed Poland (31 March 1939) | Wikipedia (timeline of the pact) | searched |
+| 375 | N67 | 23 August 1939: non-aggression pact between Hitler and Stalin (signed in the early hours of the 24th, dated the 23rd) | Wikipedia; enrs.eu | searched |
+| 376 | N67 | For twenty years he had named communism as the enemy (since 1919) | chapters 4–7 | arithmetic |
+| 377 | N67 | A secret protocol divided Poland (and eastern Europe) between them | enrs.eu; defensematrixlab.com | searched; the script simplifies to "half for you, half for me" |
+| 378 | N67 | He believed Germany lost the last war because it fought on two fronts; the pact secured the east | historians | memory |
+| 379 | N68 | Night of 31 August 1939: a staged attack on a German radio station at the border (Gleiwitz) by SS men in Polish uniforms | Naujocks affidavit, Nuremberg | memory (well documented) |
+| 380 | N68 | 1 September 1939, dawn: Germany invaded Poland; in the Reichstag he said "since 5.45 this morning we have been returning fire" | enrs.eu; wikiversity (the invasion); the speech from memory | partly searched |
+| 381 | N68 | Two days later Britain and France declared war; he had expected them to back down again | enrs.eu; historians | searched; his expectation from memory |
+| 382 | N68 | The interpreter (Paul Schmidt) wrote that he sat motionless and then asked Ribbentrop "What now?" | Schmidt, memoirs (1949) | memory; one witness |
+| 383 | N68 | 17 September: the Soviet army entered from the east; Poland's resistance ended in five weeks (6 October) | enrs.eu; wikiversity | searched; arithmetic |
+| 384 | N68 | SS killing squads followed the army and shot teachers, priests, officials and Jews; tens of thousands by the end of 1939 | historians (about 50,000 to 60,000) | memory |
+| 385 | N69 | In October 1939 he signed a one-paragraph authorisation on his own stationery, backdated to 1 September 1939 | Wikipedia (Aktion T4); USHMM; teachjewishhistory.org | searched |
+| 386 | N69 | It allowed doctors to grant a "mercy death" to patients judged incurable | Wikipedia (text quoted) | searched |
+| 387 | N69 | The victims were Germans: mentally ill and disabled people, children too; chosen from questionnaires without the doctors seeing the patient | USHMM; worldwar1-2.com | searched |
+| 388 | N69 | Grey buses; six killing centres; gas chambers built to look like shower rooms; families told of death from illness such as pneumonia | USHMM (six centres); the rest general | partly searched; buses, shower rooms and the pneumonia letters from memory |
+| 389 | N69 | 70,273 dead by their own records, January 1940 to August 1941 (twenty months) | USHMM; teachjewishhistory.org | searched; arithmetic |
+| 390 | N69 | Bishop von Galen preached against it on 3 August 1941; the sermon was copied and spread; the programme was officially halted on 24 August, three weeks later | USHMM; teachjewishhistory.org; Wikipedia | searched |
+| 391 | N69 | He retreated when people protested openly; the killing went on in secret; the staff of the gas chambers were then sent east | USHMM (killing continued); the transfer of staff from memory | partly searched |
+| 392 | N70 | 10 May 1940: attack in the west on the Netherlands, Belgium and France | defensematrixlab.com | searched |
+| 393 | N70 | Four years of fighting on the same ground in the last war, with no winner; he had been a soldier there | chapter 3 | known |
+| 394 | N70 | Armoured forces came through the Ardennes; France fell in six weeks (armistice 22 June) | defensematrixlab.com | searched |
+| 395 | N70 | More than 330,000 British and French troops were evacuated from Dunkirk | defensematrixlab.com | searched |
+| 396 | N70 | The armistice was signed in the same forest (Compiègne) and the same railway carriage as in 1918, which he had brought out of its museum | general | memory (well known) |
+| 397 | N70 | His popularity peaked; doubting generals fell silent; he began to believe in his own military genius | historians (Kershaw) | memory; opinion |
+| 398 | N71 | Britain alone stood against him; Churchill was the new prime minister; he offered peace (speech of 19 July 1940) and Britain refused | general | memory |
+| 399 | N71 | Air battle over Britain through the summer, then the bombing of cities; London bombed on 57 consecutive nights (from 7 September 1940) | muzej-nz-ce.si (the battle); the 57 nights from memory | partly searched |
+| 400 | N71 | More than 40,000 civilians killed; the invasion plan was postponed and never revived (17 September 1940) | general | memory |
+| 401 | N71 | For the first time his plan failed; he turned to the next enemy without finishing the first | comment | opinion |
+| 402 | N72 | Sixteen years earlier his book had named the east, Russia, as Germany's "living space" (1925 to 1941) | chapter 5; *Mein Kampf* | arithmetic |
+| 403 | N72 | 22 June 1941: invasion of the Soviet Union with more than three million men, the largest land invasion in history | defensematrixlab.com; enrs.eu | searched |
+| 404 | N72 | He had told the generals beforehand that this was a war of annihilation (30 March 1941); captured political commissars were to be shot (order of 6 June 1941); soldiers' crimes against civilians were not to be prosecuted (decree of 13 May 1941); these were written orders | Halder's diary; the two orders | memory (well documented) |
+| 405 | N72 | Deep advances in the first months; Soviet soldiers captured in hundreds of thousands, penned in the open and left without food | historians; USHMM | memory |
+| 406 | N72 | About two million Soviet prisoners dead by the end of that winter (February 1942) | USHMM; Streit | memory; an estimate |
+| 407 | N72 | December: the army stopped a few tens of kilometres from Moscow at about −30 °C without winter clothing, because a short campaign had been assumed | defensematrixlab.com (reached the outskirts); the rest general | partly searched; temperature from memory |
+| 408 | N72 | 5 December 1941: the Soviet counter-offensive; the first German retreat of the war | defensematrixlab.com (December); the date from memory | partly searched |
+| 409 | N73 | Two days later (7 December) Japan attacked Pearl Harbor | enrs.eu; defensematrixlab.com | searched |
+| 410 | N73 | 11 December 1941: he declared war on the United States; the pact with Japan did not oblige him to | defensematrixlab.com (four days after Pearl Harbor); the treaty point from memory | partly searched |
+| 411 | N73 | In one year he added the largest country and the largest industrial power to his enemies and made the two-front war he had feared | comment | opinion |
+| 412 | N73 | Many historians place the loss of the war in December 1941 | historians | opinion |
+| 413 | N73 | Behind the army in the east something else had begun (leads to chapter 10) | comment | opinion |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -476,3 +525,8 @@ Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline),
 36. Chapter 8, rows 338–340, 343–347: the grandparents rule, the 1933 census figure, the 12,000 war dead, the Olympic details and Sachsenhausen's distance are from memory.
 37. Chapter 8, row 351: counts for the Rhineland differ (3,000, three battalions, 30,000 in the zone); the script gives no figure beyond "a few thousand crossed the river".
 38. Chapter 8, row 365: the script uses the newer count of synagogues (more than 1,000 burned or damaged); the older figure is 267 destroyed.
+39. Chapter 9, rows 379, 380, 382: the staged attack at Gleiwitz, the "returning fire" sentence and the interpreter's "What now?" are from memory; the last rests on one witness.
+40. Chapter 9, row 384: the number shot in Poland by the end of 1939 is given only as "tens of thousands".
+41. Chapter 9, rows 388, 391: the grey buses, the shower-room chambers, the pneumonia letters and the transfer of the T4 staff to the east are from memory (USHMM describes them).
+42. Chapter 9, rows 396, 398–400: the railway carriage, the peace offer, the 57 nights and the 40,000 dead are from memory. The dawn visit to Paris was left out because its date is disputed.
+43. Chapter 9, rows 404, 406–408: the orders before the invasion, the two million dead prisoners (an estimate), the temperature and the date of the counter-offensive are from memory.
