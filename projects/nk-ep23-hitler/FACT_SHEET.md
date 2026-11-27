@@ -265,7 +265,7 @@ Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), though
 | 220 | N42 | The recovery rested on short-term American loans | general | known |
 | 221 | N42 | 24 October 1929: the Wall Street crash | general | known |
 
-## Chapter 6 — நெருக்கடி, 1929–1933 (N43–N50) — DRAFT, not yet narrated
+## Chapter 6 — நெருக்கடி, 1929–1933 (N43–N50) — narrated 27 Nov 2026
 
 Searches of 27 Nov 2026 (two). Pages: Nuremberg document 252-PS (fcit.usf.edu/holocaust/resource/document/DOCNAC7.htm), alphahistory.com (The Great Depression), cognito.org GCSE notes, historyrise.com, explaininghistory.org, mytutor.co.uk, a Substack essay; election tables on two encyclopaedia pages. "memory" = not confirmed by these searches.
 

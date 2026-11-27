@@ -16,6 +16,7 @@ LOOK = {
  "W": ("the Western Front, 1914 to 1918", "The Western Front in Flanders and northern France between 1914 and 1918: mud, rain, shell-torn fields, sandbagged trenches, ruined brick villages, German soldiers in plain field-grey uniforms with soft cloth caps or steel helmets, nothing graphic, no wounds, no bodies, no insignia, no badges, no medals, " + NOPE, PEOPLE),
  "M": ("Munich, 1919 to 1923", "Munich between 1919 and 1923: beer halls with long tables and stone mugs, tobacco smoke, gas and early electric lamps, wet cobbled streets, men in worn suits, caps and old army greatcoats, harsh light and deep shadows, " + NOPE + ", no armbands, no insignia, no salutes, no raised arms", PEOPLE),
  "G": ("Germany, 1924 to 1929", "Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, " + NOPE + ", no armbands, no insignia, no salutes, no raised arms", PEOPLE),
+ "D": ("Germany in the slump, 1930 to 1933", "Germany between 1930 and 1933 in the Depression: grey winter light, shuttered shops, wet streets, trams and motor cars, men in worn overcoats and caps, women in plain coats and cloche hats, cold light and deep shadows, " + NOPE + ", no armbands, no insignia, no salutes, no raised arms", PEOPLE),
  "O": ("setting given in the subject", "", ""),
 }
 # Fixed descriptions (refs) and the reference picture passed with each (out/cast/<file>). Hitler is shown with his real face at every age:
