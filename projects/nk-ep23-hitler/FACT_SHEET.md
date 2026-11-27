@@ -372,7 +372,7 @@ Searches of 27 Nov 2026 (two). Pages: Wikipedia (Gleichschaltung; Night of the L
 | 313 | N58 | The same day every soldier swore a personal oath of unconditional obedience to him, not to the constitution | normandy1944.info; ourhistory.org.uk | searched |
 | 314 | N58 | Eighteen months and three days after 30 January 1933 | dates | arithmetic |
 
-## Chapter 8 — ஒரு நாடு பின்னாடி போச்சு, 1934–1938 (N59–N66) — DRAFT, not yet narrated
+## Chapter 8 — ஒரு நாடு பின்னாடி போச்சு, 1934–1938 (N59–N66) — narrated 27 Nov 2026
 
 Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline), historyonthenet.com, annefrank.org (timeline), historyplace.com (Rhineland), johndclare.net, britannica.com (Kristallnacht), historytools.org, stlholocaustmuseum.org. "memory" = not confirmed by these searches.
 
@@ -410,7 +410,7 @@ Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline),
 | 344 | N63 | For two weeks the "Jews not wanted" signs came down and the hate papers left the kiosks | general (USHMM) | memory |
 | 345 | N63 | Many visitors went home having seen an orderly, happy country | historians | memory |
 | 346 | N63 | Jesse Owens won four gold medals | general | memory (well known) |
-| 347 | N63 | That summer Sachsenhausen camp was being built by prisoners about 35 km from Berlin (Oranienburg) | general | memory; the distance is to Berlin, the script says "about 35 km from the stadium" |
+| 347 | N63 | That summer Sachsenhausen camp was being built by prisoners about 35 km from Berlin (Oranienburg) | general | memory; the script says "about 35 km from Berlin" |
 | 348 | N63 | The world saw the stadium and not the camp | comment | opinion |
 | 349 | N64 | March 1935: conscription announced in open breach of Versailles; army of 100,000 to become 550,000 (36 divisions) | historyplace.com; historycrunch.com | searched |
 | 350 | N64 | Britain and France protested and did nothing more | general | memory |
@@ -473,6 +473,6 @@ Searches of 27 Nov 2026 (two). Pages: historycrunch.com (Nazi Germany timeline),
 33. Chapter 8, rows 315–322: the work figures (6 million, under 1 million by 1937, what the count left out, the Mefo bills, the motorway plan) are from memory; check against Tooze or Evans.
 34. Chapter 8, rows 324–326, 329: the radio price and spread, the searchlight count and the Reichenberg speech are from memory.
 35. Chapter 8, rows 330–335: the Gestapo figure (about 7,000 in 1937), the finding on denunciations and the Dachau saying are from memory (Gellately, Johnson).
-36. Chapter 8, rows 338–340, 343–347: the grandparents rule, the 1933 census figure, the 12,000 war dead, the Olympic details and Sachsenhausen's distance are from memory. The 35 km is from Berlin, not measured from the stadium.
+36. Chapter 8, rows 338–340, 343–347: the grandparents rule, the 1933 census figure, the 12,000 war dead, the Olympic details and Sachsenhausen's distance are from memory.
 37. Chapter 8, row 351: counts for the Rhineland differ (3,000, three battalions, 30,000 in the zone); the script gives no figure beyond "a few thousand crossed the river".
 38. Chapter 8, row 365: the script uses the newer count of synagogues (more than 1,000 burned or damaged); the older figure is 267 destroyed.

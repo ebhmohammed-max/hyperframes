@@ -19,22 +19,22 @@ Target 105 minutes, 12 chapters and a hook. Plan and chapter table: `OUTLINE.md`
 |---|---|---|---|---|---|---|
 | Hook (N01–N02) + TITLE | done | done, 92.3 s | 0 flagged | 001–020 made (all) | part `EP23_1080p_00_hook_title_v3_film.mp4` (106 s) on Drive | narration, B01, B02, R1, R2, film |
 | Ch 1 (N03–N10) | done | done, 535.9 s | 0 flagged | 021–053 made (all) | **all eight clips rendered and checked**; parts `…01_ch01a.mp4` (N03–N06) and `…01_ch01b.mp4` (N07–N10) | narration, B03–B06, clips, ch01a, ch01b |
-| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–077 made (067 made again, no overcoat) | N11–N15 rendered and checked (N13 rendered again with the new 067 and `cuts` on its bench/café/convent line) (in `clips_work`); N14–N18 wait for pictures 069–090 (N14 needs 069–072) | narration |
+| Ch 2 (N11–N18) | done | done, 598.4 s | 0 flagged | shot rows 054–090; 054–077 and 079–087 made (**078 failed once, make it first**; 088–090 to make) | N11–N15 rendered and checked (N13 rendered again with the new 067 and `cuts` on its bench/café/convent line) (in `clips_work`); N14–N18 wait for pictures 069–090 (N14 needs 069–072) | narration |
 | Ch 3 (N19–N26) | done | done, 566.1 s | 0 flagged | shot rows 091–127, none generated | built (`film/N19`…`N26`), 576 s | narration, script, fact sheet |
 | Ch 4 (N27–N34) | done | done, 582.6 s | 0 flagged | shot rows 128–169, none generated | built (`film/N27`…`N34`), 592 s | narration, script, fact sheet |
 | Ch 5 (N35–N42) | done (27 Nov) | done, 438.2 s | 0 flagged | shot rows 170–209 (look **G**, ref **Q**), none generated | `node film/gen.mjs N35 … N42` works; `CARD_BG` N35 set | narration, script, fact sheet |
 | Ch 6 (N43–N50) | done (27 Nov) | done, 383.7 s | 0 flagged | shot rows 210–244 (look **D**, ref **H**), none generated | `node film/gen.mjs N43 … N50` works; `CARD_BG` N43 set | narration, script, fact sheet |
 | Ch 7 (N51–N58) | done (27 Nov) | done, 374.8 s | 0 flagged | shot rows 245–279 (look **X**, ref **H**), none generated | `node film/gen.mjs N51 … N58` works; `CARD_BG` N51 set | narration, script, fact sheet |
-| Ch 8 (N59–N66) | **drafted** (27 Nov; `script/ch08.mjs`, 6,960 chars, about 7.7 min; in the build only with `EP23_DRAFT=1`) | not yet | – | not written | – | fact rows 315–371, check points 33–38 |
+| Ch 8 (N59–N66) | done (27 Nov) | done, 456.3 s | 0 flagged | shot rows 280–324 (look **X**, ref **H**), none generated | `node film/gen.mjs N59 … N66` works; `CARD_BG` N59 set | narration, script, fact sheet |
 | Ch 9 to 12 | not written | | | | | |
 
-Running time so far: 59 min 29 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s). Five chapters remain: at 8 min each the film ends near 100 min; they may run to 9 min each and still land on 105.
+Running time so far: 67 min 5 s of narration (hook 1 min 32 s, chapter 1 8 min 56 s, chapter 2 9 min 58 s, chapter 3 9 min 26 s, chapter 4 9 min 43 s, chapter 5 7 min 18 s, chapter 6 6 min 24 s, chapter 7 6 min 15 s, chapter 8 7 min 36 s). Four chapters remain: at 8 min each the film ends near 100 min; they may run to 9 min each and still land on 105.
 
 ## Next steps
 
-1. Pictures, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` (pass the listed reference pictures) → `$PY tools/sheet.py a b` → zip (`$PY tools/batch.py <batch> a b`, next batch is B09) → upload the zip to `images`. Order: chapter 2 from 078, then chapters 3, 4, 5, 6, 7 (to 279). 202 pictures are still to make.
+1. Pictures, 10 per turn: `python3 tools/next.py 10` → generate to `google_drive/ep23_pics/raw/NNN.jpg` (pass the listed reference pictures) → `$PY tools/sheet.py a b` → zip (`$PY tools/batch.py <batch> a b`, next batch is B10; `batch.py` stops at a missing picture, so zip by hand when a number in the range failed) → upload the zip to `images`. Order: 078 first, then chapter 2 from 088, then chapters 3, 4, 5, 6, 7, 8 (to 324). 238 pictures are still to make. For pictures of him after 1910 change the age in the prompt by hand (twenty-two, 1911).
 2. Render: a clip can be rendered as soon as its pictures exist (`node film/gen.mjs <clip>` prints what is missing; `bash tools/render.sh <clips>` as a background process, 6 to 8 min a clip). Upload each clip to Drive `clips_work`. A part is packaged by hand from the clips at hand (the commands of `tools/finish.sh`, with a hand-written `out/deliver/part.txt`), so earlier clips need not be downloaded again: ch01a = N03–N06, ch01b = N07–N10. Chapter 2: N11–N15 are rendered; **`EP23_1080p_02_ch02a.mp4` = N11–N14 is packaged and uploaded** (291.53 s, 97.7 MB, two-pass x264 at 2477k, −12.6 LUFS). N16 needs 078 onward; ch02b = N15–N18.
-3. **Chapter 5 (N35–N42, 1924–1929) is written, narrated (438.2 s = 7 min 18 s) and aligned** (27 Nov 2026). The "big lie" line in N40 now says that the book gives it as his enemies' method. Its 40 pictures (170–209) are not made. **Chapter 6 (N43–N50, 1929–1933) is written, narrated (383.7 s = 6 min 24 s) and aligned** (27 Nov 2026); its 35 pictures (210–244) are not made. **Chapter 7 (N51–N58, 1933–1934) is written, narrated (374.8 s = 6 min 15 s) and aligned** (27 Nov 2026); its 35 pictures (245–279) are not made. **Chapter 8 (N59–N66, 1934–1938) is drafted, not narrated**: to narrate, read it once more, remove the `EP23_DRAFT` gate in `script/script.mjs`, `node script/build.mjs`, narrate N59–N66 (8 speech calls), zip, upload, align, then write shot rows from 280 and change the fact-sheet heading. Next chapter to write after that: 9 (1939–1941, N67–N74), at most 7,400 characters; fact rows from 372, check points from 39.
+3. **Chapter 5 (N35–N42, 1924–1929) is written, narrated (438.2 s = 7 min 18 s) and aligned** (27 Nov 2026). The "big lie" line in N40 now says that the book gives it as his enemies' method. Its 40 pictures (170–209) are not made. **Chapter 6 (N43–N50, 1929–1933) is written, narrated (383.7 s = 6 min 24 s) and aligned** (27 Nov 2026); its 35 pictures (210–244) are not made. **Chapter 7 (N51–N58, 1933–1934) is written, narrated (374.8 s = 6 min 15 s) and aligned** (27 Nov 2026); its 35 pictures (245–279) are not made. **Chapter 8 (N59–N66, 1934–1938) is written, narrated (456.3 s = 7 min 36 s) and aligned** (27 Nov 2026); its 45 pictures (280–324) are not made. Next chapter to write: 9 (1939–1941, N67–N74), at most 7,400 characters, as `script/ch09.mjs` behind the `EP23_DRAFT` gate in `script/script.mjs`; fact rows from 372, check points from 39.
 4. `film/end.mjs` needs `assets/vo/END.mp3` (the end-card voice: `N08.mp3` in the EP21 narration zip `1vyGgGAtShHWNuSAYhzF7CZbT7KDVXKay`); only for the last part.
 5. 030 again (upright and soft).
 
@@ -94,8 +94,10 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | EP23_1080p_02_ch02a.mp4 (N11–N14) | `1Cdvz5LCzyoO1nP9TblYi3G2ncWvo8zmA` |
 | images/EP23_B08_images_069-077_plus_067.zip | `1UpbZ4KYi-x-sn2gGfKMyzP49O1fom7fJ` |
 | EP23_narration_N51-N58_voice02.zip (chapter 7) | `14lss1jJmII4ma_qe7H2UgUKEytyH38Q8` |
-| EP23_SCRIPT_TA_hook_ch1-ch7.md (current) | `1UAhrNyNK11Y41rTwBhvOTHFHuIx5f5CL` |
-| EP23_FACT_SHEET_hook_ch1-ch7.md (current) | `1tZsobY3CUHarENiTFoJ1TQq1G5cZY48j` |
+| EP23_narration_N59-N66_voice02.zip (chapter 8) | `1wVruNzHxDPLbHys2YmxYtxI6exNnxaux` |
+| images/EP23_B09_images_079-087.zip | `1Drs7TniBruf1-L9pRZWTB4j3fwBAT_PE` |
+| EP23_SCRIPT_TA_hook_ch1-ch8.md (current) | `1Gthcc-rKuTubAWodgCyrAQOrXfkn4o0S` |
+| EP23_FACT_SHEET_hook_ch1-ch8.md (current) | `11IRDZiQgJAiiZoizatYDI75mtbTf2UsT` |
 | images/EP23_B07_images_059-068.zip | `1eGOogpT4j9lKmpJFioFBVu_izbgyAi6N` |
 | EP23_narration_N43-N50_voice02.zip (chapter 6) | `1perI5PRRJoAI9AKwg_HW9-FT9Pb65N6w` |
 | EP23_SCRIPT_TA_hook_ch1-ch6.md (current) | `1KRvaRxb3thGt1veMxQmtznyJ5lc0XLmb` |
@@ -111,6 +113,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 
 ## Picture checks
 
+- B09 (079–087), 27 Nov: all kept. 078 failed in generation and is still to make (N16 waits for it). In 080 the crowd and the platform are hard to see.
 - B08 (069–077 and 067 again), 27 Nov: all kept. 067 now shows him in a thin jacket without an overcoat (he is first in the queue).
 - B07 (059–068), 27 Nov: all kept. 059 and 061 read mid-twenties with a clear moustache (the youth is nineteen there); in 067 he is first in the queue, not third.
 - B06 (049–058), 27 Nov: all kept. 055 and 057 show an upright piano where the script says grand piano (Kubizek's was a grand); 057 reads older than nineteen. Redo 057 if a call is free.
