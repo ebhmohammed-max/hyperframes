@@ -592,6 +592,65 @@ Searches of 27 Nov 2026 (two). Pages: timecyclopedia.com, blessedhomeschooldad.c
 | 505 | N89 | December 1944: a last gamble in the west through the same wooded hills as in 1940 (the Ardennes); it stalled within two weeks for want of fuel and used up the last tanks and aircraft | general history | memory |
 | 506 | N89 | 16 January 1945: his train reached Berlin; the bunker under the garden; the last three and a half months of his life | general history | memory |
 
+## Chapter 12 — பதுங்கு குழி, 1945 (N91–N97) — DRAFT, not yet narrated
+
+Search of 27 Nov 2026 (one). Pages: en.wikipedia.org (Last will and testament of Adolf Hitler), military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com, weesp.dk, historyrise.com.
+
+| No | Clip | Claim in the script | Source | Basis |
+|---|---|---|---|---|
+| 507 | N91 | January 1945: the bunker under the Chancellery garden, small windowless rooms under metres of concrete, the hum of the ventilation | berlin-escape.com, weesp.dk (16 January); the description from memory | partly searched |
+| 508 | N91 | Berlin in ruins; the Soviet army on the Oder, about 70 km from Berlin | general history (end of January 1945) | memory |
+| 509 | N91 | 30 January 1945, twelve years after taking power: his last radio speech; the Germans never heard his voice again | general history | memory |
+| 510 | N91 | At the map table he still moved armies, many of which existed only on paper | witnesses; weesp.dk (orders to units dissolved or surrounded) | partly searched |
+| 511 | N91 | 19 March 1945: the order to destroy bridges, railways and factories inside Germany | berlin-escape.com | searched |
+| 512 | N91 | Speer objected; by Speer's later account he answered that if the war was lost the people would be lost too, having proved the weaker | Speer's memoirs and his letter of 29 March 1945 | memory |
+| 513 | N91 | He tried to drag the people down with him; Speer and many officials quietly did not carry the order out | berlin-escape.com (Speer); the judgement is historians' | partly searched |
+| 514 | N92 | 16 April 1945: thousands of guns opened fire on the Oder before dawn; 2.5 million Soviet soldiers set out for Berlin | military-history.fandom.com (Death of Adolf Hitler) (16 April); the figure from memory | partly searched |
+| 515 | N92 | The defenders: the remaining soldiers, old men, boys of 14 and 15 | general history (Volkssturm, Hitler Youth) | memory |
+| 516 | N92 | In those weeks he came up to the garden and decorated a row of boys, patting one on the cheek: the last film of him | berlin-escape.com, weesp.dk, historyrise.com (dates differ: 20 March, 20 or 22 April) | searched |
+| 517 | N92 | Flying courts-martial killed those who left the fighting, with a placard "I am a coward" | general history | memory |
+| 518 | N92 | 20 April: he turned 56; the first Soviet shells fell on central Berlin that day | military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com | searched |
+| 519 | N92 | Göring, Himmler and other leaders came to congratulate him; most then left the city | berlin-escape.com | searched |
+| 520 | N92 | He was urged to go south to the mountains and refused | witnesses | memory |
+| 521 | N93 | 22 April, afternoon conference: the attack he had ordered the day before (Steiner) had not taken place; there were neither men nor weapons for it | military-history.fandom.com (Death of Adolf Hitler), Wikipedia (Last will and testament of Adolf Hitler) | searched |
+| 522 | N93 | He raged about betrayal and lies, said for the first time that the war was lost, that he would stay in Berlin and shoot himself | military-history.fandom.com (Death of Adolf Hitler), historyrise.com | searched |
+| 523 | N93 | He blamed the generals, the army, in the end the German people; never himself | comment | opinion |
+| 524 | N93 | 23 April: Göring's telegram from the mountains asking whether he should take over under the succession decree; he called it treason, stripped him of all offices and ordered his arrest | general history | memory |
+| 525 | N93 | 28 April: foreign radio (BBC, from Reuters) reported Himmler's secret offer to surrender to the western Allies; "the loyal Heinrich" | military-history.fandom.com (Death of Adolf Hitler), Wikipedia (Last will and testament of Adolf Hitler); the nickname from memory | partly searched |
+| 526 | N93 | One had been with him since the beer-hall days, the other ran the camps; both tried to save themselves | comment (Göring was wounded in the 1923 putsch) | opinion |
+| 527 | N93 | Soviet soldiers were then 1.5 km from the bunker | berlin-escape.com | searched |
+| 528 | N94 | About midnight 28–29 April: a short ceremony in the map room; he married Eva Braun, his companion for more than twelve years, unknown to the German public | military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com; the twelve years and the secrecy from memory | partly searched |
+| 529 | N94 | He called the secretary Traudl Junge to the next room and dictated his political testament | Wikipedia (Last will and testament of Adolf Hitler), military-history.fandom.com (Death of Adolf Hitler) | searched |
+| 530 | N94 | Junge said later that she expected the truth at last, an explanation, and heard the same old phrases | Traudl Junge's memoir | memory |
+| 531 | N94 | The testament: he had not wanted war in 1939; the Jews were to blame; Göring and Himmler expelled from the party; Admiral Dönitz his successor | Wikipedia (Last will and testament of Adolf Hitler) (the denial, Dönitz); the blame and the expulsions from the text, from memory | partly searched |
+| 532 | N94 | Its last sentence demands strict keeping of the race laws and merciless resistance to "international Jewry" | the text of the political testament | memory |
+| 533 | N94 | The 1919 letter and the 1945 testament: 26 years, the same idea, no regret | historians (chapter 4, N27) | opinion |
+| 534 | N94 | Signed at four in the morning (29 April) | Wikipedia (Last will and testament of Adolf Hitler) | searched |
+| 535 | N94 | That day came the news that Mussolini had been shot by his own countrymen; the testament already says he would not be made a spectacle; he had petrol fetched | military-history.fandom.com (Death of Adolf Hitler) (the news on 29 April; the testament's wording) | searched |
+| 536 | N95 | 30 April: Soviet soldiers a few hundred metres away; he ate at midday, shook hands with those around him, muttered something nobody caught | weesp.dk (few hundred metres); the farewell from witnesses, from memory | partly searched |
+| 537 | N95 | About 3:30 he and Eva Braun went into his room; those outside heard a shot | military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com, historyrise.com | searched |
+| 538 | N95 | Both were on the sofa; he had shot himself, she had taken poison; married fewer than 40 hours | military-history.fandom.com (Death of Adolf Hitler) | searched |
+| 539 | N95 | The bodies were carried up the stairs to the garden, laid in a shell crater, doused with petrol and burned; shells were falling and the onlookers ran inside | military-history.fandom.com (Death of Adolf Hitler), berlin-escape.com; the shelling from memory | partly searched |
+| 540 | N95 | 56 years and ten days; no funeral, no grave | arithmetic (20 April 1889 – 30 April 1945); comment | opinion |
+| 541 | N95 | The next night German radio said he had fallen at his post fighting to the last breath: the regime's last announcement was a lie | the Hamburg radio announcement of 1 May 1945 | memory |
+| 542 | N95 | No trial, no answers: he escaped having to answer for what he did | comment | opinion |
+| 543 | N96 | 1 May: Goebbels and his wife had their six children poisoned in the bunker and then killed themselves; the wife had written that a world without him was not worth living in | berlin-escape.com, weesp.dk, Wikipedia (Last will and testament of Adolf Hitler); Magda Goebbels's letter from memory | partly searched |
+| 544 | N96 | 2 May: Berlin's commander surrendered; his last order said the leader had taken his own life and abandoned those who had sworn loyalty to him | historyrise.com, weesp.dk (the surrender, Weidling); the wording of the order from memory | partly searched |
+| 545 | N96 | Eleven years earlier every soldier swore an oath to one man (chapter 7, August 1934); he ended it behind a closed door | comment | opinion |
+| 546 | N96 | 8 May: unconditional surrender; the war in Europe ended | weesp.dk, historyrise.com | searched |
+| 547 | N96 | The "thousand-year" rule lasted twelve years and three months | historyrise.com (twelve years); 30 Jan 1933 – 8 May 1945 | searched |
+| 548 | N96 | The cost: about 40 million dead in Europe; more than 25 million in the Soviet Union; one in six in Poland; about 7 million in Germany | general history (estimates vary) | memory |
+| 549 | N96 | German cities in ruins; more than ten million Germans driven from the east; the country divided for more than forty years | general history (12 to 14 million; 1949–1990) | memory |
+| 550 | N96 | This is what the man who promised a great Germany left behind | comment | opinion |
+| 551 | N97 | Himmler tried to escape in disguise and bit on poison when held by British soldiers (23 May 1945); from November 1945 the surviving leaders stood trial at Nuremberg, the city of the race laws; twelve death sentences | general history | memory |
+| 552 | N97 | Göring took poison the night before the hanging; Hess stayed in prison for more than forty years and died there (1987); the court held that "I was following orders" is no answer | general history | memory |
+| 553 | N97 | Back to the first question: how did the young man from the soup queue in Vienna get here? | comment (hook, N01) | opinion |
+| 554 | N97 | He did not come alone: the anger of a defeated country, the fear of the unemployed, the men who thought they could control him, those who kept quiet | historians (chapters 4, 6, 7, 8) | opinion |
+| 555 | N97 | In no free election did he win more than half the vote | chapter 6 (37.3 % in July 1932; 43.9 % in March 1933, no longer free) | searched |
+| 556 | N97 | It did not happen in a day; at each step it could have been stopped | comment | opinion |
+| 557 | N97 | More than eighty years on, what lifted him has not died: fear, hatred, the easy answer of blaming "them" | comment (he died in 1945; the film is dated 2026) | opinion |
+| 558 | N97 | Why the story must be known in full: not to remember him but those he killed, and to recognise the first step next time | comment | opinion |
+
 ## Points to check before publishing (so far)
 
 1. Rows marked "memory" (30 of the 45 rows above).
@@ -650,3 +709,9 @@ Searches of 27 Nov 2026 (two). Pages: timecyclopedia.com, blessedhomeschooldad.c
 54. Chapter 11, rows 489, 491: the morning of 6 June (he slept late; the hour the reserve was released differs by account) and the losses of the Soviet summer offensive (350,000 to 450,000) are from memory.
 55. Chapter 11, rows 495, 499: the open windows, the lorry headlamps and the radio words are from memory. The script does not say the meeting was moved from a bunker (that is disputed).
 56. Chapter 11, rows 503–506: the "half of all German military deaths" figure (Overmans), the searches after the plot, the Ardennes and 16 January 1945 are from memory.
+57. Chapter 12 is a draft. Rows 508, 509, 512: the 70 km, the last radio speech of 30 January 1945 and Speer's account of his answer are from memory (Speer's account is his own, given after the war).
+58. Chapter 12, rows 514–517: the 2.5 million, the boys' ages and the placard are from memory; the date of the film in the garden differs by source, so the script says "in those weeks".
+59. Chapter 12, row 524: Göring's telegram of 23 April was not in the search results.
+60. Chapter 12, rows 528, 530–532: "more than twelve years" with Eva Braun, Traudl Junge's words, and the wording of the testament (blame, expulsions, last sentence) are from memory; check them against the text of the testament.
+61. Chapter 12, rows 536, 540, 542, 543: the farewell, the radio announcement of 1 May, Magda Goebbels's letter and the wording of the Berlin commander's order are from memory.
+62. Chapter 12, rows 547–552: the death tolls, the expulsions, Himmler's death, the Nuremberg sentences and Hess are from memory. "Twelve death sentences" includes one passed in absence.
