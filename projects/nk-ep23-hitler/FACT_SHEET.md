@@ -225,7 +225,7 @@ Searches of 26 Nov 2026 (three). Main pages: en.wikipedia.org (Karl Mayr; Adolf 
 | 187 | N34 | He left in a waiting car; arrested on 11 November at Ernst Hanfstaengl's house at Uffing | History.com | searched |
 | 188 | N34 | Charged with high treason; the party banned | general | known |
 
-## Chapter 5 — சிறையும் காத்திருப்பும், 1924–1929 (N35–N42) — DRAFT, not yet narrated
+## Chapter 5 — சிறையும் காத்திருப்பும், 1924–1929 (N35–N42) — narrated 27 Nov 2026
 
 Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), thoughtco.com, johndclare.net (Rempel, "The Wilderness Years"), fcit.usf.edu timeline. "memory" = not confirmed by these searches.
 
@@ -255,7 +255,7 @@ Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), though
 | 210 | N39 | SS founded 1925 as his bodyguard, a few hundred men at first | general | memory |
 | 211 | N39 | Goebbels belonged to the northern group critical of him (Bamberg, February 1926); invited to Munich in April 1926; diary: "Adolf Hitler, I love you" | Goebbels's diary, via Kershaw | memory |
 | 212 | N39 | Goebbels made party leader (Gauleiter) of Berlin, November 1926 | bhshistory.com; Kershaw | searched |
-| 213 | N40 | *Mein Kampf* on propaganda: the masses understand little and forget much; a few points, repeated; one enemy only; the big lie; speak to feeling; evening meetings | *Mein Kampf*, vol. 1 ch. 6 and 10, vol. 2 ch. 6 | memory (he presents the "big lie" as his enemies' method; the script gives it as his own description of how it works) |
+| 213 | N40 | *Mein Kampf* on propaganda: the masses understand little and forget much; a few points, repeated; one enemy only; the big lie; speak to feeling; evening meetings | *Mein Kampf*, vol. 1 ch. 6 and 10, vol. 2 ch. 6 | memory. The "big lie" passage (vol. 1 ch. 10) is where he accuses his enemies of the method; the narration now says so in the next line ("in the book he wrote this as his enemies' way; for the next twenty years the one who walked that way was him", tagged கருத்து) |
 | 214 | N41 | Speaking ban lifted 1927; yearly rallies (Nuremberg 1927, 1929) | Kershaw | memory |
 | 215 | N41 | Reichstag election, 20 May 1928: 2.6 per cent, about 800,000 votes, 12 of 491 seats | johndclare.net; fcit.usf.edu | searched (2.6, 12 seats), memory (491) |
 | 216 | N41 | A government report of 1927 called the party an insignificant radical splinter group without influence | Reich Interior Ministry report, July 1927, via Kershaw | memory |
@@ -289,5 +289,5 @@ Searches of 26 Nov 2026 (two). Pages: history.com (Mein Kampf published), though
 20. Chapter 4, rows 177, 179: the bread prices (250 marks; 200,000 million marks) and the membership figures (20,000; 55,000) are from memory.
 21. Chapter 4, row 184: police strength at the Odeonsplatz (about 100, or 130).
 22. Chapter 5, row 200: the "hold our noses" saying rests on one memoir (Lüdecke, 1937).
-23. Chapter 5, row 213: the "big lie" passage. In the book he accuses his enemies of it; the script must not be read as "he said he would lie". Wording to weigh before the film is published.
+23. Chapter 5, row 213: the "big lie" passage. In the book he accuses his enemies of it. The narration was changed on 27 Nov 2026 to say this plainly, and adds as an opinion that he himself then used the method. Check the passage against a printed edition before publishing.
 24. Chapter 5, rows 195, 205, 206, 216: figures and dates from memory (visitors, 3,000 at the refounding, dates of the speaking ban, the 1927 report).

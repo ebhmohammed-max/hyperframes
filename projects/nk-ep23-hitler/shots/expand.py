@@ -15,6 +15,7 @@ LOOK = {
  "S": ("one object", "A still life around 1900: one object in a dim plain room, a single shaft of soft window light, deep shadows, no people, no lettering of any kind", ""),
  "W": ("the Western Front, 1914 to 1918", "The Western Front in Flanders and northern France between 1914 and 1918: mud, rain, shell-torn fields, sandbagged trenches, ruined brick villages, German soldiers in plain field-grey uniforms with soft cloth caps or steel helmets, nothing graphic, no wounds, no bodies, no insignia, no badges, no medals, " + NOPE, PEOPLE),
  "M": ("Munich, 1919 to 1923", "Munich between 1919 and 1923: beer halls with long tables and stone mugs, tobacco smoke, gas and early electric lamps, wet cobbled streets, men in worn suits, caps and old army greatcoats, harsh light and deep shadows, " + NOPE + ", no armbands, no insignia, no salutes, no raised arms", PEOPLE),
+ "G": ("Germany, 1924 to 1929", "Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, " + NOPE + ", no armbands, no insignia, no salutes, no raised arms", PEOPLE),
  "O": ("setting given in the subject", "", ""),
 }
 # Fixed descriptions (refs) and the reference picture passed with each (out/cast/<file>). Hitler is shown with his real face at every age:
@@ -27,10 +28,11 @@ REF = {
  "H": "The man is the same person as in the reference photograph: Adolf Hitler in his forties: dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, pale blue hard eyes, a pale heavy face. He is never lit like a hero: the light is cold or from below and the mood is a warning.",
  "S": "The soldier is the same person as in the reference photograph: Adolf Hitler as a soldier in his late twenties: gaunt and pale, a long narrow face, pale blue eyes, dark hair cut short, a full dark moustache much wider than the small one of his later years, in a plain worn field-grey uniform tunic without insignia and, out of doors, a soft round field cap without a peak.",
  "P": "The man is the same person as in the reference photograph, but about twelve years younger: Adolf Hitler at thirty to thirty-four, between 1919 and 1923: lean and pale, a long narrow face with hollow cheeks, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a cheap dark blue suit with a stiff collar and tie or a belted trench coat, no armband, no badge. He is never lit like a hero: the light is harsh or from below and the mood is a warning.",
+ "Q": "The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning.",
  "K": "The mother is the same woman as in the reference portrait: a quiet woman in her forties with large sad grey-blue eyes, brown hair parted in the middle and pinned back, in a plain dark high-collared dress.",
  "F": "The father is the same man as in the reference portrait: a heavy-set stern man in his sixties, bald on top, with a big grey moustache and side-whiskers, in a dark civil-service uniform coat with plain brass buttons.",
 }
-REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": ["Y18.jpg", "A18.jpg"], "H": "H_photo.jpg", "S": "S_photo.jpg", "P": "H_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
+REFIMG = {"A": "A.jpg", "B": "B_photo.jpg", "Y": ["Y18.jpg", "A18.jpg"], "H": "H_photo.jpg", "S": "S_photo.jpg", "P": "H_photo.jpg", "Q": "H_photo.jpg", "K": "K.jpg", "F": "F.jpg"}
 lines = json.load(open("script/lines.json", encoding="utf8"))
 cap = {(l["clip"], l["q"]): l["cap"] for l in lines}
 counts = json.load(open("shots/counts.json"))

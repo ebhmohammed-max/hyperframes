@@ -2,7 +2,7 @@
 // ("legal" this time), release, a recovered Germany, the refounding and the speaking ban, the party built as a machine, Goebbels,
 // what he wrote about propaganda, 2.6 per cent in 1928, the comfortable leader of a failed party, the wait for a crisis.
 // Clips N35 to N42. Sources and doubts: FACT_SHEET.md (rows 189 onward). "February" is spoken in English (the voice mispronounces பிப்ரவரி).
-// DRAFT until narrated: script.mjs adds this chapter only when EP23_DRAFT=1 is set (see script.mjs).
+// Narrated 27 Nov 2026 (voice-02). Changing a spoken line means narrating that clip again.
 // L(say, tag, subs, fx): the caption is `say` with each [spoken, written] pair of `subs` replaced (numbers in digits).
 const L = (say, tag, subs, fx) => {
   let cap = say;
@@ -58,7 +58,8 @@ export default [
     L("பிரச்சாரம் பத்தி அவன் தன் புத்தகத்துல வெளிப்படையாவே எழுதியிருக்கான். இன்னைக்கு படிச்சாலும் அதிர்ச்சியா இருக்கும்.", "O"),
     L("மக்கள் கூட்டத்துக்கு புரிஞ்சுக்கற சக்தி கம்மி. மறக்கற சக்தி அதிகம். அதனால ரெண்டு மூணு விஷயத்தை மட்டும் எடுத்துக்கோ. அதையே திரும்ப திரும்ப சொல்லு.", "S"),
     L("எதிரி ஒருத்தன்தான் இருக்கணும். பல எதிரிகளை காட்டினா மக்கள் குழம்புவாங்க.", "S"),
-    L("சின்ன பொய்யை விட பெரிய பொய்யை மக்கள் சீக்கிரம் நம்புவாங்க. இவ்வளவு பெரிய பொய்யை யாரும் சொல்ல துணிய மாட்டாங்கன்னு அவங்க நினைப்பாங்க.", "S", null, { flash: ["பெரிய பொய்", ""] }),
+    L("பொய் பத்தியும் எழுதினான். சின்ன பொய்யை விட பெரிய பொய்யை மக்கள் சீக்கிரம் நம்புவாங்க. இவ்வளவு பெரிய பொய்யை யாரும் சொல்ல துணிய மாட்டாங்கன்னு அவங்க நினைப்பாங்க.", "S", null, { flash: ["பெரிய பொய்", ""] }),
+    L("புத்தகத்துல இதை அவன் தன் எதிரிகளோட வழின்னு எழுதினான். ஆனா அடுத்த இருபது வருஷம் அந்த வழியில நடந்தது அவன்தான்.", "O"),
     L("அறிவுக்கு பேசாத. உணர்ச்சிக்கு பேசு. கூட்டத்தை சாயங்காலம் போடு. அப்போ மனுஷங்க களைச்சிருப்பாங்க. எதிர்க்கற சக்தி குறைஞ்சிருக்கும்.", "S"),
     L("இதை எழுதினவன் மக்களை மதிக்கல. அவங்களை ஒரு கருவியா பார்த்தான். தனக்கு கை தட்டின கூட்டத்தை பத்தி அவன் நினைச்சது இதுதான்.", "O"),
   ] },

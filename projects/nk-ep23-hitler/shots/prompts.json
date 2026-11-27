@@ -2186,5 +2186,477 @@
   "images": [
    "google_drive/ep23_pics/cast/H_photo.jpg"
   ]
+ },
+ {
+  "n": 170,
+  "clip": "N35",
+  "q": 0,
+  "k": 0,
+  "name": "munich_court_building_guards_snow",
+  "look": "G",
+  "file": "EP23_170_N35q00_munich_court_building_guards_snow.jpg",
+  "prompt": "26 February 1924: a long plain brick military school building in Munich used as a courthouse, snow on the ground, barbed-wire barriers and armed state police in dark green greatcoats guarding the entrance, reporters and onlookers queueing in the cold. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 171,
+  "clip": "N35",
+  "q": 1,
+  "k": 0,
+  "name": "courtroom_judges_bench_listening",
+  "look": "G",
+  "file": "EP23_171_N35q01_courtroom_judges_bench_listening.jpg",
+  "prompt": "A crowded panelled courtroom in 1924: on the bench a presiding judge of about sixty with a white pointed beard, in a black robe, leaning back and listening with an indulgent half smile, two lay judges beside him, reporters writing at packed press tables. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 172,
+  "clip": "N35",
+  "q": 2,
+  "k": 0,
+  "name": "accused_standing_speaking_courtroom",
+  "look": "G",
+  "file": "EP23_172_N35q02_accused_standing_speaking_courtroom.jpg",
+  "prompt": "The same courtroom: the man in a dark frock coat standing in the well of the court speaking with fierce confidence, one fist pressed to his chest, the judges and the packed public benches listening, cold side light from tall windows. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 173,
+  "clip": "N35",
+  "q": 3,
+  "k": 0,
+  "name": "newspaper_presses_rolling_night",
+  "look": "O",
+  "file": "EP23_173_N35q03_newspaper_presses_rolling_night.jpg",
+  "prompt": "A newspaper printing hall at night in 1924: great rotary presses running, printers in aprons lifting bundles of fresh newspapers onto a trolley, the print on the pages only blurred grey lines with no readable words. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 174,
+  "clip": "N35",
+  "q": 5,
+  "k": 0,
+  "name": "four_police_caps_table_black_ribbon",
+  "look": "O",
+  "file": "EP23_174_N35q05_four_police_caps_table_black_ribbon.jpg",
+  "prompt": "A still life: four plain dark green policemen's caps without badges laid in a row on a bare wooden table in a dim guardroom, a strip of black mourning ribbon beside them, cold window light, no people, no lettering. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 175,
+  "clip": "N36",
+  "q": 0,
+  "k": 0,
+  "name": "fortress_prison_room_window_fields",
+  "look": "G",
+  "file": "EP23_175_N36q00_fortress_prison_room_window_fields.jpg",
+  "prompt": "1924: a large whitewashed room in an old fortress prison, a tall barred window with a view over fields and a river, a wicker armchair, a table with a cloth, books and a lamp, an iron bed neatly made, bright daylight, no people. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 176,
+  "clip": "N36",
+  "q": 1,
+  "k": 0,
+  "name": "prison_room_flowers_parcels_warder",
+  "look": "G",
+  "file": "EP23_176_N36q01_prison_room_flowers_parcels_warder.jpg",
+  "prompt": "April 1924: a prison day room with every table heaped with bouquets of flowers, baskets of fruit, cakes and tied parcels, an elderly warder in a plain dark uniform standing in the doorway looking at them and shaking his head. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 177,
+  "clip": "N36",
+  "q": 2,
+  "k": 0,
+  "name": "man_typing_prison_table_two_fingers",
+  "look": "G",
+  "file": "EP23_177_N36q02_man_typing_prison_table_two_fingers.jpg",
+  "prompt": "A whitewashed prison room in summer 1924: the man in a white shirt and dark trousers seated at a small table by the barred window, typing with two fingers on a small portable typewriter, a pile of typed sheets beside him, his face hard and absorbed, cold light from the window. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 178,
+  "clip": "N36",
+  "q": 4,
+  "k": 0,
+  "name": "map_europe_pencil_arrow_east",
+  "look": "O",
+  "file": "EP23_178_N36q04_map_europe_pencil_arrow_east.jpg",
+  "prompt": "Close view from above: a large map of Europe without any lettering spread on a table under a lamp, a man's hand with a thick pencil drawing a long arrow eastward across it, the rest of the room dark. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 179,
+  "clip": "N36",
+  "q": 5,
+  "k": 0,
+  "name": "bookshop_window_thick_books_passersby",
+  "look": "G",
+  "file": "EP23_179_N36q05_bookshop_window_thick_books_passersby.jpg",
+  "prompt": "1925: the window of a bookshop in a German town with a stack of thick books in plain blank covers on display, men and women in coats walking past on the pavement without a glance, one man looking in and laughing. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 180,
+  "clip": "N37",
+  "q": 0,
+  "k": 0,
+  "name": "man_barred_window_arms_crossed",
+  "look": "G",
+  "file": "EP23_180_N37q00_man_barred_window_arms_crossed.jpg",
+  "prompt": "The man standing at the barred window of the fortress room with his arms crossed, his face in cold daylight, his eyes narrowed in calculation, the room behind him in shadow, seen from the side in a medium shot. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 181,
+  "clip": "N37",
+  "q": 1,
+  "k": 0,
+  "name": "visiting_room_man_leaning_table",
+  "look": "G",
+  "file": "EP23_181_N37q01_visiting_room_man_leaning_table.jpg",
+  "prompt": "A prison visiting room in 1924: the man leaning forward across a plain table and talking in a low intense voice to a visitor in a travelling coat seen from behind, a warder standing by the door. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 182,
+  "clip": "N37",
+  "q": 2,
+  "k": 0,
+  "name": "parliament_chamber_empty_seats",
+  "look": "O",
+  "file": "EP23_182_N37q02_parliament_chamber_empty_seats.jpg",
+  "prompt": "The vast empty debating chamber of a parliament building in Berlin in the 1920s: a horseshoe of dark wooden seats and desks under a glass ceiling, grey daylight falling on the empty speaker's rostrum, no people, no lettering, no emblems. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 183,
+  "clip": "N37",
+  "q": 3,
+  "k": 0,
+  "name": "prison_gate_tower_car_man_standing",
+  "look": "G",
+  "file": "EP23_183_N37q03_prison_gate_tower_car_man_standing.jpg",
+  "prompt": "20 December 1924, a grey winter day: outside the stone gate tower of a fortress prison, the man in a pale belted trench coat, bare-headed, standing stiffly with one hand on the door of a black open touring car, his face set and unsmiling, bare trees, wet road. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 184,
+  "clip": "N37",
+  "q": 5,
+  "k": 0,
+  "name": "sealed_office_door_stacked_chairs",
+  "look": "G",
+  "file": "EP23_184_N37q05_sealed_office_door_stacked_chairs.jpg",
+  "prompt": "A closed-down party office in winter 1924: a locked door with a blank official paper seal pasted across the frame, seen from inside a dusty room with chairs stacked on tables, an empty desk and pale squares on the wall where pictures hung, no people. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 185,
+  "clip": "N38",
+  "q": 0,
+  "k": 0,
+  "name": "machine_hall_workers_belts_sunlight",
+  "look": "G",
+  "file": "EP23_185_N38q00_machine_hall_workers_belts_sunlight.jpg",
+  "prompt": "1925: a huge factory machine hall working at full speed, rows of lathes with spinning drive belts, workers in caps and overalls bent over the machines, shafts of sunlight through the glass roof. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 186,
+  "clip": "N38",
+  "q": 1,
+  "k": 0,
+  "name": "berlin_night_boulevard_cinema_crowd",
+  "look": "G",
+  "file": "EP23_186_N38q01_berlin_night_boulevard_cinema_crowd.jpg",
+  "prompt": "Berlin in 1926 at night: a wide boulevard shining with rain, motor cars and double-decker buses, the glowing canopy of a big cinema, well-dressed couples in evening clothes laughing on the pavement, light bulbs everywhere but no lettering. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 187,
+  "clip": "N38",
+  "q": 2,
+  "k": 0,
+  "name": "beer_hall_1925_packed_platform_far",
+  "look": "G",
+  "file": "EP23_187_N38q02_beer_hall_1925_packed_platform_far.jpg",
+  "prompt": "27 February 1925: a vast beer hall packed with three thousand people, men standing on tables at the back, thick tobacco smoke, and far away on the platform the small dark figure of the man speaking under a hard lamp, seen from the back of the hall over the heads of the crowd. No flags, no banners. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 188,
+  "clip": "N38",
+  "q": 4,
+  "k": 0,
+  "name": "empty_platform_lectern_dark_hall",
+  "look": "G",
+  "file": "EP23_188_N38q04_empty_platform_lectern_dark_hall.jpg",
+  "prompt": "An empty beer hall at night: a bare speaker's lectern alone on the platform under one hanging lamp, the chairs turned up on the long tables, the rest of the hall in darkness, no people. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 189,
+  "clip": "N38",
+  "q": 5,
+  "k": 0,
+  "name": "consulate_counter_passport_pushed_back",
+  "look": "O",
+  "file": "EP23_189_N38q05_consulate_counter_passport_pushed_back.jpg",
+  "prompt": "1925: close view of a consulate counter, a worn passport booklet with a blank cover and a signed form lying on the wood, an official's hand in a dark sleeve sliding them away across the counter, no readable writing. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 190,
+  "clip": "N39",
+  "q": 0,
+  "k": 0,
+  "name": "party_office_card_cabinets_wall_map",
+  "look": "G",
+  "file": "EP23_190_N39q00_party_office_card_cabinets_wall_map.jpg",
+  "prompt": "A party headquarters office in Munich in 1926: rows of wooden card-index cabinets, clerks at typewriters, and on the wall a large map of Germany divided into coloured districts with a pin in each, a secretary pressing in one more pin, no lettering on the map. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 191,
+  "clip": "N39",
+  "q": 2,
+  "k": 0,
+  "name": "youth_column_rucksacks_country_road",
+  "look": "G",
+  "file": "EP23_191_N39q02_youth_column_rucksacks_country_road.jpg",
+  "prompt": "A column of boys of twelve to sixteen in plain shirts and shorts with rucksacks marching in step along a country road behind a grown leader, seen from far across a field, grey sky. No flags, no pennants, no insignia. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 192,
+  "clip": "N39",
+  "q": 3,
+  "k": 0,
+  "name": "guard_men_dark_caps_doorway_line",
+  "look": "G",
+  "file": "EP23_192_N39q03_guard_men_dark_caps_doorway_line.jpg",
+  "prompt": "A hall entrance at night in 1926: eight hard-faced young men in plain dark caps, plain shirts and black ties standing in a rigid line across the doorway, their faces half in shadow, light from the hall behind them. No insignia, no badges, no armbands. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 193,
+  "clip": "N39",
+  "q": 4,
+  "k": 0,
+  "name": "touring_car_small_man_dazzled",
+  "look": "G",
+  "file": "EP23_193_N39q04_touring_car_small_man_dazzled.jpg",
+  "prompt": "1926: the back seat of a big open touring car on a Bavarian country road: a small thin dark-haired man of twenty-eight with a narrow face and large dark eyes, in a pale raincoat, looking sideways in dazzled admiration at the man sitting beside him, who looks straight ahead with a cool calculating face. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 194,
+  "clip": "N39",
+  "q": 4,
+  "k": 1,
+  "name": "diary_open_pen_lamp_night",
+  "look": "O",
+  "file": "EP23_194_N39q04_diary_open_pen_lamp_night.jpg",
+  "prompt": "A still life: a small open diary filled with dense handwriting blurred beyond reading, a fountain pen lying across it, a desk lamp, a hotel room in darkness behind, no people. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 195,
+  "clip": "N39",
+  "q": 5,
+  "k": 0,
+  "name": "small_man_suitcase_berlin_station_dusk",
+  "look": "G",
+  "file": "EP23_195_N39q05_small_man_suitcase_berlin_station_dusk.jpg",
+  "prompt": "November 1926: the small thin dark-haired man in a pale raincoat walking with a slight limp out of a great Berlin railway station at dusk with one suitcase, the traffic and lights of the huge city in front of him, seen from behind. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 196,
+  "clip": "N40",
+  "q": 0,
+  "k": 0,
+  "name": "thick_book_open_desk_lamp_pencil",
+  "look": "O",
+  "file": "EP23_196_N40q00_thick_book_open_desk_lamp_pencil.jpg",
+  "prompt": "A still life: a thick book lying open on a desk under a lamp, the print only blurred grey lines, a pencil line drawn down the margin of one page, a pencil beside it, no people, no readable words. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 197,
+  "clip": "N40",
+  "q": 1,
+  "k": 0,
+  "name": "poster_column_same_poster_repeated",
+  "look": "G",
+  "file": "EP23_197_N40q01_poster_column_same_poster_repeated.jpg",
+  "prompt": "A round street advertising column in a German city pasted from top to bottom with the same plain red poster repeated dozens of times, every poster blank with no lettering, people in coats walking past in the rain. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 198,
+  "clip": "N40",
+  "q": 2,
+  "k": 0,
+  "name": "lectern_finger_jabbing_lit_below",
+  "look": "G",
+  "file": "EP23_198_N40q02_lectern_finger_jabbing_lit_below.jpg",
+  "prompt": "Close view at a speaker's lectern in a dark hall: the man lit harshly from below, his mouth open in mid-sentence, his forefinger jabbing down at the lectern, rows of dim faces behind in the dark. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 199,
+  "clip": "N40",
+  "q": 3,
+  "k": 0,
+  "name": "hall_faces_listening_lamplight",
+  "look": "G",
+  "file": "EP23_199_N40q03_hall_faces_listening_lamplight.jpg",
+  "prompt": "Rows of ordinary people in a smoky hall in the evening, workmen, clerks and housewives, tired faces lifted and listening with their mouths slightly open, lit by hanging lamps, seen from the front. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 200,
+  "clip": "N40",
+  "q": 6,
+  "k": 0,
+  "name": "man_behind_curtain_watching_hall_cold",
+  "look": "G",
+  "file": "EP23_200_N40q06_man_behind_curtain_watching_hall_cold.jpg",
+  "prompt": "At the side of a stage behind a heavy curtain: the man watching the applauding hall through the gap with a cold measuring face, light from the hall cutting across his eyes, the rest of him in darkness. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 201,
+  "clip": "N41",
+  "q": 0,
+  "k": 0,
+  "name": "brown_column_old_town_from_window_far",
+  "look": "G",
+  "file": "EP23_201_N41q00_brown_column_old_town_from_window_far.jpg",
+  "prompt": "1927: a long column of men in plain brown shirts and caps marching in step through the main street of an old German town, seen from a high window and from far, townspeople watching in silence from the pavements. No flags, no banners, no armbands, no raised arms. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 202,
+  "clip": "N41",
+  "q": 1,
+  "k": 0,
+  "name": "polling_station_ballot_box_schoolroom",
+  "look": "G",
+  "file": "EP23_202_N41q01_polling_station_ballot_box_schoolroom.jpg",
+  "prompt": "May 1928: a polling station in a schoolroom, voters in Sunday clothes queueing between the desks, an old man dropping a folded paper into a wooden ballot box watched by two officials at a table. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 203,
+  "clip": "N41",
+  "q": 2,
+  "k": 0,
+  "name": "counting_table_tall_piles_one_small",
+  "look": "G",
+  "file": "EP23_203_N41q02_counting_table_tall_piles_one_small.jpg",
+  "prompt": "Election night 1928: clerks in shirtsleeves at a long table counting ballot papers under hanging lamps, a row of tall stacks of paper down the table and at the far end one very small stack. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 204,
+  "clip": "N41",
+  "q": 4,
+  "k": 0,
+  "name": "black_car_chauffeur_alpine_chalet",
+  "look": "G",
+  "file": "EP23_204_N41q04_black_car_chauffeur_alpine_chalet.jpg",
+  "prompt": "1928: a large black open motor car with a chauffeur in a cap drawn up before a timber chalet on a steep Alpine meadow, the man in a pale trench coat stepping down from it, high mountains behind under flat grey light. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 205,
+  "clip": "N41",
+  "q": 5,
+  "k": 0,
+  "name": "man_back_chalet_window_valley",
+  "look": "G",
+  "file": "EP23_205_N41q05_man_back_chalet_window_valley.jpg",
+  "prompt": "The man seen from behind standing at the wide window of the chalet with his hands clasped behind his back, looking down at the valley far below, a tea table set beside him, the room in shadow. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 206,
+  "clip": "N42",
+  "q": 0,
+  "k": 0,
+  "name": "beer_garden_sunday_families_1928",
+  "look": "G",
+  "file": "EP23_206_N42q00_beer_garden_sunday_families_1928.jpg",
+  "prompt": "A Sunday in 1928: a full beer garden under chestnut trees, families at long tables with plates of food, children running, a small brass band playing, contented faces in warm light. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 207,
+  "clip": "N42",
+  "q": 2,
+  "k": 0,
+  "name": "man_wicker_chair_terrace_dusk_waiting",
+  "look": "G",
+  "file": "EP23_207_N42q02_man_wicker_chair_terrace_dusk_waiting.jpg",
+  "prompt": "Dusk on the wooden terrace of the chalet: the man sitting alone in a wicker chair with a coat over his shoulders, motionless, looking out at the darkening mountains, his face cold and patient, one lamp in the window behind him. The man is the same person as in the reference photograph, but about eight years younger: Adolf Hitler at thirty-five to forty, between 1924 and 1929: pale, a long face beginning to fill out, pale blue staring eyes, dark brown hair with a side parting and a lock falling over the forehead, a small clipped dark moustache, in a dark suit with a stiff collar and tie or a pale belted trench coat, no armband, no badge. He is never lit like a hero: the light is cold or from below and the mood is a warning. Germany between 1924 and 1929: stone public buildings, wet cobbled streets, early motor cars and trams, electric light, men in suits, overcoats and hats, women in cloche hats, cold light and deep shadows, no signboards, no lettering of any kind, no flags, no emblems, no armbands, no insignia, no salutes, no raised arms. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark.",
+  "refs": [
+   "Q"
+  ],
+  "images": [
+   "google_drive/ep23_pics/cast/H_photo.jpg"
+  ]
+ },
+ {
+  "n": 208,
+  "clip": "N42",
+  "q": 3,
+  "k": 0,
+  "name": "wall_street_crowd_from_above_1929",
+  "look": "O",
+  "file": "EP23_208_N42q03_wall_street_crowd_from_above_1929.jpg",
+  "prompt": "24 October 1929: a dense crowd of men in hats and overcoats filling a narrow New York street between tall stone bank buildings, seen from above, anxious faces turned towards a pillared building, police on horseback at the edge. No lettering, no signs. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
+ },
+ {
+  "n": 209,
+  "clip": "N42",
+  "q": 4,
+  "k": 0,
+  "name": "exchange_floor_paper_litter_clerk",
+  "look": "O",
+  "file": "EP23_209_N42q04_exchange_floor_paper_litter_clerk.jpg",
+  "prompt": "The trading floor of a stock exchange after closing in October 1929: the floor ankle-deep in paper slips and ticker tape, the trading posts deserted, one clerk in shirtsleeves sitting with his head in his hands. Cinematic film still from a period drama feature film, photographed on 35mm anamorphic lenses with shallow depth of field and natural motivated light, real human actors with expressive faces and real skin, photographic realism, not a painting, not a cartoon, full-bleed 16:9 image filling the whole frame edge to edge with no black bars, composed for a 2.2:1 widescreen crop so heads and key action stay clear of the top and bottom edges, desaturated palette of cold grey-blue, sepia and a little amber lamp light, deep shadows, fine film grain. No readable writing anywhere. No text, no captions, no watermark."
  }
 ]
