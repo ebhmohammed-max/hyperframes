@@ -108,6 +108,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N27.mp4 (75.1 s, chapter 4 card, frames checked) | `1SlSDSuMWtjLQXPoheFXYsBul9bLh4Lff` |
 | clips_work/N28.mp4 (66.8 s, frames checked) | `1NAkoQ1t5VNAukxnHlPpukNhePWUq1t6_` |
 | clips_work/N29.mp4 (71.5 s, frames checked; the card picture 142 holds about 25 s at the end) | `1BY6tGEgUQmpWYnVTKgtSOLV35DaGZytV` |
+| clips_work/N30.mp4 (76.1 s, frames checked; 143 holds about 25 s at the start) | `1KyButnofIDmx280NRl2on9L9h4jpxaZ2` |
 | **EP23_1080p_04_ch03b.mp4** (N23–N26, 270.0 s, 97.6 MB, two-pass 2690k, −12.7 LUFS, peak −2.0 dBFS) | `1_KwM-4wIJ6p-b7Ik2lL8npuAvomH5hXa` |
 | clips_work/END.mp4 (end card, 17 s; goes after N98) | `15pE38DggQb_Qe1lWhyrc-Px3IFvcsAPe` |
 | EP23_END.mp3 (end card voice; restore as `narration/END.mp3`, then `node film/end.mjs`) | `1_p33LqXaqK0mR9JVFEkpmuCQtr2jYy_z` |
