@@ -129,6 +129,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N47.mp4 (48.4 s, "37.3%" panel, frames checked) | `1cdf8mUWhPvi8cI9Ak5rfVEZAJmoqMEwd` |
 | clips_work/N48.mp4 (44.2 s, "33.1%" panel, frames checked; 236 holds about 17 s) | `10e0-cTLxqlZkBryh4Q4a4fKPvSbK2Aca` |
 | clips_work/N49.mp4 (53.1 s, frames checked; 239 holds about 20 s) | `1iah12SFaJ5Dyf-hoYrbmzTBuKALgWm5c` |
+| clips_work/N50.mp4 (43.8 s, "30 ஜன. 1933" panel, frames checked; reuses 004, 010, 182) | `1ti1k-gwNf3-6_U0jS5tpLODFeFtFV-xK` |
 | **EP23_1080p_05_ch04a.mp4** (N27–N30, 289.5 s, 97.7 MB, two-pass 2496k, −12.6 LUFS, peak −2.1 dBFS) | `1tYmLDCoAZqqcZR96cX2aeSxxTE9u5DN5` |
 | **EP23_1080p_06_ch04b.mp4** (N31–N34, 303.2 s, 97.7 MB, two-pass 2374k, −12.6 LUFS, peak −2.1 dBFS) | `1l0TppTHtAD-d16AGdcCSTinxA1RY3Xoi` |
 | **EP23_1080p_07_ch05a.mp4** (N35–N38 with N37 v2, 236.3 s, 97.7 MB, two-pass 3102k, −12.7 LUFS, peak −2.0 dBFS) | `1hu7CwOYjt4TAb8jbFlGPJdmd3Ib0GpYq` |
