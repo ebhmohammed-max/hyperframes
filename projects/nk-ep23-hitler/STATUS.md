@@ -115,8 +115,12 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N34.mp4 (91.4 s, 14 pictures, "16 + 4" panel, frames checked) | `1xanooHs3CIp75EDPf4gHAdngAl9DrSuZ` |
 | clips_work/N35.mp4 (60.6 s, chapter 5 card, frames checked) | `1iShwQtmmUjk-XrkgV_-ojC4XE9iwi4UV` |
 | clips_work/N36.mp4 (66.2 s, "9,473" panel, frames checked) | `1V9dKh1C9WL9q2RARZDM5scRKRkM4vrAl` |
+| clips_work/N37_v2.mp4 (current N37, 55.3 s; restore it as `out/renders/N37.mp4`; line 5 now reuses the prison-gate picture 183 for its first sentence, then 184) | `1vWdfEmNPuo7a4WU0s6-TwtoX9GlHFk5C` |
+| clips_work/N37.mp4 (first cut, superseded: the "photo by the car" sentence ran over the sealed door 184) | `17HJ83SL-5CajsAMuA3kEgRnxpJdOrk0Z` |
+| clips_work/N38.mp4 (54.1 s, "2 வருஷம்" panel, frames checked) | `1IaJv2lw5yTD4m5AWdOxHdD-yMejlF_Zv` |
 | **EP23_1080p_05_ch04a.mp4** (N27–N30, 289.5 s, 97.7 MB, two-pass 2496k, −12.6 LUFS, peak −2.1 dBFS) | `1tYmLDCoAZqqcZR96cX2aeSxxTE9u5DN5` |
 | **EP23_1080p_06_ch04b.mp4** (N31–N34, 303.2 s, 97.7 MB, two-pass 2374k, −12.6 LUFS, peak −2.1 dBFS) | `1l0TppTHtAD-d16AGdcCSTinxA1RY3Xoi` |
+| **EP23_1080p_07_ch05a.mp4** (N35–N38 with N37 v2, 236.3 s, 97.7 MB, two-pass 3102k, −12.7 LUFS, peak −2.0 dBFS) | `1hu7CwOYjt4TAb8jbFlGPJdmd3Ib0GpYq` |
 | **EP23_1080p_04_ch03b.mp4** (N23–N26, 270.0 s, 97.6 MB, two-pass 2690k, −12.7 LUFS, peak −2.0 dBFS) | `1_KwM-4wIJ6p-b7Ik2lL8npuAvomH5hXa` |
 | clips_work/END.mp4 (end card, 17 s; goes after N98) | `15pE38DggQb_Qe1lWhyrc-Px3IFvcsAPe` |
 | EP23_END.mp3 (end card voice; restore as `narration/END.mp3`, then `node film/end.mjs`) | `1_p33LqXaqK0mR9JVFEkpmuCQtr2jYy_z` |
@@ -174,7 +178,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 
 - B11 (097–106), 27 Nov: all kept (first batch with the soldier reference `S_photo.jpg`, which comes from the B05 zip). 102 gives him a small moustache instead of the wide one of the war years; 106 crops the top of his head; 103 shows a researcher's face (fine, modern archive).
 - B22 (184–193), 28 Nov: all kept, all wide (1376×768). Checked close: 186 cinema canopy is blank, 190 map has no lettering, 192 men are plain (no badges). Weak: 192 the eight men have nearly the same face; 193 the small man looks ahead rather than sideways at him. 187 was made without the reference photo (he is a tiny far figure).
-- 28 Nov state: renders N03–N36 and END are done and uploaded; parts through `06_ch04b` are uploaded (chapters 1–4 complete). Next: pictures 184–193, renders N37 (180–184) and N38 (185–189), part `07_ch05a` = N35–N38.
+- 28 Nov state: renders N03–N38 and END are done and uploaded; parts through `07_ch05a` are uploaded. Next: pictures 194–203, renders N39 (190–195) and N40, then N41, N42 and part `08_ch05b` = N39–N42.
 - B20 (175–183) and B21 (164), 28 Nov (after a full wipe): all kept, all wide. **164, third try: arms down, dust falling from the ceiling.** One helmeted man at the door had a plain red armband and a small chest mark: both painted out by hand in the raw file before zipping (the file in B21 is the retouched one). 178: the map has no lettering. 179: the books in the window are blank.
 - B19 (166–174), 27 Nov (after a third wipe): all kept, all wide. 172 shows him with one fist on his chest in the courtroom (as asked). **164 was made on the second try but rejected by me**: it came out 1167×912 with his open hand raised straight up (reads as a salute) and a red band on a listener's arm; kept only as `google_drive/ep23_pics/rejected/164_salute.jpg`, not uploaded. The row in `shots.txt` now asks for both arms down, just after the shot. N34 still waits for 164.
 - `film/gen.mjs`: a line with `reuse` and pictures of its own now shows the reused pictures first and then its own (N34 line 4: 094, then 167; N50 line 2 will show 243 after the two reused ones). N02 keeps the old behaviour.
