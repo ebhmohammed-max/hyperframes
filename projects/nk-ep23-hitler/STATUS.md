@@ -132,6 +132,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N50.mp4 (43.8 s, "30 ஜன. 1933" panel, frames checked; reuses 004, 010, 182) | `1ti1k-gwNf3-6_U0jS5tpLODFeFtFV-xK` |
 | clips_work/N51.mp4 (46.9 s, chapter 7 card, frames checked; 245 holds about 17 s) | `1fNlRfIBsbWTrzmicnAW4OXvMxFJRnz9L` |
 | clips_work/N52.mp4 (43.5 s, "டாக்காவ்" panel, frames checked) | `1xiiCDf-1Y-crXaTfXxlkZ_ys32qfXdst` |
+| clips_work/N53.mp4 (39.8 s, "43.9%" panel, frames checked; 253 holds about 17 s) | `1oRpt8v8OJPyKhifoXPGyl6YK2yujm3Nt` |
+| clips_work/N54.mp4 (37.9 s, "444 – 94" panel, rendered with the mirrored 258, frames checked) | `1vpaU3k_51EhCb3SRR3XTun3w0g9d_8XP` |
 | **EP23_1080p_05_ch04a.mp4** (N27–N30, 289.5 s, 97.7 MB, two-pass 2496k, −12.6 LUFS, peak −2.1 dBFS) | `1tYmLDCoAZqqcZR96cX2aeSxxTE9u5DN5` |
 | **EP23_1080p_06_ch04b.mp4** (N31–N34, 303.2 s, 97.7 MB, two-pass 2374k, −12.6 LUFS, peak −2.1 dBFS) | `1l0TppTHtAD-d16AGdcCSTinxA1RY3Xoi` |
 | **EP23_1080p_07_ch05a.mp4** (N35–N38 with N37 v2, 236.3 s, 97.7 MB, two-pass 3102k, −12.7 LUFS, peak −2.0 dBFS) | `1hu7CwOYjt4TAb8jbFlGPJdmd3Ib0GpYq` |
@@ -174,7 +176,8 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | images/EP23_B26_images_224-233.zip (229 retouched) | `137Dv02p9wBOHVUUJSHEgS8kD_kSsSmJz` |
 | images/EP23_B27_images_234-243.zip | `1Bt2FzUJB8Emn-wo48iyTENfEQC3kngIh` |
 | images/EP23_B28_images_244-253.zip (249 text blurred more) | `1pWw7rjCXoBQ9X7iMRqrBvslkoyG1gjNF` |
-| images/EP23_B29_images_254-263.zip | `1GjnTPn_PLuOQaq1BHVoSn-eeHbEtL8MJ` |
+| images/EP23_B29_images_254-263.zip (superseded: 258 not mirrored) | `1GjnTPn_PLuOQaq1BHVoSn-eeHbEtL8MJ` |
+| images/EP23_B29_images_254-263_v2.zip (**current**; 258 mirrored; `restore.sh` unpacks it after the old one) | `1iUn8wCyn9htXVoYEBhsCLe7XnqMq83Mq` |
 | EP23_narration_N91-N98_voice02.zip (chapter 12) | `12LlOqm9X1avBw2l2uSyD7rg1GakAHTi5` |
 | EP23_SCRIPT_TA_full_hook_ch1-ch12.md (**current**, whole script) | `1w7XuOOldd5xNXfvYW7By30zSqCxfztQo` |
 | EP23_FACT_SHEET_full_hook_ch1-ch12.md (**current**, whole fact sheet) | `1u8NolbtgSom1fM0qRNdJA6_Tz0PZl9Ul` |
@@ -201,7 +204,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 ## Picture checks
 
 - B11 (097–106), 27 Nov: all kept (first batch with the soldier reference `S_photo.jpg`, which comes from the B05 zip). 102 gives him a small moustache instead of the wide one of the war years; 106 crops the top of his head; 103 shows a researcher's face (fine, modern archive).
-- B29 (254–263), 28 Nov: all kept, all wide (1376×768; 254 and 257 trimmed). Checked close (254, 255, 256, 257, 260, 262): plain brown shirts and caps, bare sleeves, no marks. 259 he wears a grey suit, hall men stand with bowed heads; 260 the paint daubs are faint; 263 far and dark.
+- B29 (254–263), 28 Nov: all kept, all wide (1376×768; 254 and 257 trimmed). Checked close (254, 255, 256, 257, 260, 262): plain brown shirts and caps, bare sleeves, no marks. 259 he wears a grey suit, hall men stand with bowed heads; 260 the paint daubs are faint; 263 far and dark. 258 was mirrored left-to-right with PIL so the "444 – 94" panel (top left) no longer covers the deputy's face in N54; use the `_v2` zip.
 - B28 (244–253), 28 Nov: all kept, all wide (1376×768; 246–248 came with dark strips, trimmed by `sheet.py`). Checked close: 244 ten men, all civilian, no marks; 247 and 250 police caps carry a small plain round badge; 253 two brown-shirted men, bare sleeves; 249 the typed sheet got an extra blur with PIL in the raw file (header looked like English capitals). 248 the face under the hat is only a rough likeness; 251 striped pyjamas under the coat.
 - B27 (234–243), 28 Nov (after a full wipe): all kept, all wide (1376×768). Checked close: 236 newspapers carry only blurred mock print; 234 the collectors are plain. 243 the torch column is far and dark, no flags. Nothing weak enough to remake.
 - B26 (224–233), 28 Nov: all kept, all wide (1376×768). **229: an aide had a red armband; painted out by hand in the raw file before zipping.** Sentries in 229 are plain. Weak: 226 the aircraft has two engines and looks later than 1932 (no markings); 229 the car looks later than 1932; 228 some poster scraps carry illegible mock print.
