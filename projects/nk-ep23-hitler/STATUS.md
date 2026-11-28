@@ -125,10 +125,13 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 | clips_work/N43.mp4 (48.0 s, chapter 6 card, "60 லட்சம்" panel, reuses 182 from B20, frames checked) | `1hFQQjhX4mIFXWmCj-JBDwugsnpXurebT` |
 | clips_work/N44.mp4 (52.3 s, "18.3%" panel, frames checked) | `15XX5ilgv0pZPyL8jRYEM1sSTqhbajLgq` |
 | clips_work/N45.mp4 (57.8 s, frames checked) | `1qj4FXUq9Z2nXhin0dzRVCF62Mlk4GccH` |
+| clips_work/N46.mp4 (46.1 s, "36.8%" panel, frames checked) | `1NRYe_leE4tdPJuGp9bEhEzjVMWI5diiV` |
+| clips_work/N47.mp4 (48.4 s, "37.3%" panel, frames checked) | `1cdf8mUWhPvi8cI9Ak5rfVEZAJmoqMEwd` |
 | **EP23_1080p_05_ch04a.mp4** (N27–N30, 289.5 s, 97.7 MB, two-pass 2496k, −12.6 LUFS, peak −2.1 dBFS) | `1tYmLDCoAZqqcZR96cX2aeSxxTE9u5DN5` |
 | **EP23_1080p_06_ch04b.mp4** (N31–N34, 303.2 s, 97.7 MB, two-pass 2374k, −12.6 LUFS, peak −2.1 dBFS) | `1l0TppTHtAD-d16AGdcCSTinxA1RY3Xoi` |
 | **EP23_1080p_07_ch05a.mp4** (N35–N38 with N37 v2, 236.3 s, 97.7 MB, two-pass 3102k, −12.7 LUFS, peak −2.0 dBFS) | `1hu7CwOYjt4TAb8jbFlGPJdmd3Ib0GpYq` |
 | **EP23_1080p_08_ch05b.mp4** (N39–N42, 211.9 s, 97.7 MB, two-pass 3480k, −12.7 LUFS, peak −2.2 dBFS) | `1RDK2RWFmV25idVZb1VIlliGSTO_EHZSo` |
+| **EP23_1080p_09_ch06a.mp4** (N43–N46, 204.2 s, 97.6 MB, two-pass 3618k, −12.7 LUFS, peak −2.1 dBFS) | `1xNpLpBZ31ZxHL24xfLKfD-wzDEyJ22k6` |
 | **EP23_1080p_04_ch03b.mp4** (N23–N26, 270.0 s, 97.6 MB, two-pass 2690k, −12.7 LUFS, peak −2.0 dBFS) | `1_KwM-4wIJ6p-b7Ik2lL8npuAvomH5hXa` |
 | clips_work/END.mp4 (end card, 17 s; goes after N98) | `15pE38DggQb_Qe1lWhyrc-Px3IFvcsAPe` |
 | EP23_END.mp3 (end card voice; restore as `narration/END.mp3`, then `node film/end.mjs`) | `1_p33LqXaqK0mR9JVFEkpmuCQtr2jYy_z` |
@@ -194,7 +197,7 @@ Folder `EP23_Hitler_Veedillathavan_Mudhal`: `10ZWqHEkZTMfl6jrelOYsmAXk6uWtCjYr` 
 - B24 (204–213), 28 Nov: all kept, all wide (1376×768). 205 was made without the reference photo (seen from behind). Checked close: 210 the policeman's helmet has a plain police star, no party marks; 204 the car has a blank plate and a maker's bonnet ornament. Weak: 210 the crowd faces the camera, away from the bank doors; 204 he stands rather proudly by the car.
 - B23 (194–203), 28 Nov: all kept, all wide (1376×768). Checked close: 194 handwriting and 196 print cannot be read; 197 posters are blank red sheets. Weak: 197 the tram looks later than the 1920s and carries a small route number; 200 he stands facing the camera rather than looking at the hall; 203 the small stack is hard to pick out.
 - B22 (184–193), 28 Nov: all kept, all wide (1376×768). Checked close: 186 cinema canopy is blank, 190 map has no lettering, 192 men are plain (no badges). Weak: 192 the eight men have nearly the same face; 193 the small man looks ahead rather than sideways at him. 187 was made without the reference photo (he is a tiny far figure).
-- 28 Nov state: renders N03–N45 and END are done and uploaded; parts through `08_ch05b` are uploaded (chapters 1–5 complete). Next: pictures 224–233 (N46 = 224–227, N47 from 228), render N46 and N47, part `09_ch06a` = N43–N46 (N43 reuses 182, so restore B20 with chapter 6).
+- 28 Nov state: renders N03–N47 and END are done and uploaded; parts through `09_ch06a` are uploaded. Next: pictures 234–243 (N48 = 232–236, N49 from 237), render N48 and N49, then N50 and part `10_ch06b` = N47–N50 (N50 line 2 reuses two earlier pictures and adds 243).
 - B20 (175–183) and B21 (164), 28 Nov (after a full wipe): all kept, all wide. **164, third try: arms down, dust falling from the ceiling.** One helmeted man at the door had a plain red armband and a small chest mark: both painted out by hand in the raw file before zipping (the file in B21 is the retouched one). 178: the map has no lettering. 179: the books in the window are blank.
 - B19 (166–174), 27 Nov (after a third wipe): all kept, all wide. 172 shows him with one fist on his chest in the courtroom (as asked). **164 was made on the second try but rejected by me**: it came out 1167×912 with his open hand raised straight up (reads as a salute) and a red band on a listener's arm; kept only as `google_drive/ep23_pics/rejected/164_salute.jpg`, not uploaded. The row in `shots.txt` now asks for both arms down, just after the shot. N34 still waits for 164.
 - `film/gen.mjs`: a line with `reuse` and pictures of its own now shows the reused pictures first and then its own (N34 line 4: 094, then 167; N50 line 2 will show 243 after the two reused ones). N02 keeps the old behaviour.
