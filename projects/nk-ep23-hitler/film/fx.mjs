@@ -148,7 +148,9 @@ export function buildFx({ cid, win, lead, D, shotsOf, plateOf }) {
 
     // ── one giant number over the dimmed picture
     if (fx.big) {
-      const [num, unit, lab, at] = fx.big, a0 = Math.max(t0, U(w, at ?? 1) - 0.12), a1 = tE;
+      // EP23: `big` may be a plain string ("11 மாசம்", "12:42", "30 ஏப்ரல் 1945"): first token is the number, the rest the unit, shown from the start of the line
+      const BIG = typeof fx.big === "string" ? [fx.big.split(/\s+/)[0], fx.big.split(/\s+/).slice(1).join(" "), "", 0] : fx.big;
+      const [num, unit, lab, at] = BIG, a0 = Math.max(t0, U(w, at ?? 1) - 0.12), a1 = tE;
       css += `
     #${id}-d { position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 42%, rgba(7,10,24,0.74) 0%, rgba(7,10,24,0.9) 80%); opacity: 0; }
     #${id}-n { position: absolute; left: 0; width: 1920px; top: 150px; text-align: center; font: 600 440px/1 "NK Cormorant", serif; font-variant-numeric: lining-nums; font-feature-settings: "lnum" 1; color: ${C.gold}; opacity: 0; text-shadow: 0 10px 60px rgba(0,0,0,0.6); }
