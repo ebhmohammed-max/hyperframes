@@ -108,7 +108,7 @@ export function build(cid, opt = {}) {
     const own = SHOTS.filter((s) => s.clip === cid && s.q === w.q && !only.has(s.name));
     // a line with `reuse` shows the reused pictures first, then its own pictures if it has any (N34 line 4: the 1914 square, then the police line 167).
     // N02 was rendered before this rule and keeps the old behaviour (reused pictures only).
-    const S = FULL(fx) ? [] : fx.reuse ? [...fx.reuse.map((nm) => SHOTS.find((s) => s.name === nm)), ...(cid === "N02" ? [] : own)] : own;
+    const S = FULL(fx) ? [] : fx.reuse ? [...fx.reuse.map((nm) => SHOTS.find((s) => s.name === nm)), ...(cid === "N02" ? [] : own.filter((o) => !fx.reuse.includes(o.name)))] : own; // a picture named in `reuse` is not shown twice (N50 line 2)
     const from = shots.length || w === win[0] ? (shots.length ? w.t0 - 0.14 : 0) : w.t0 - 0.14, to = w.end - 0.14, k = S.length;
     if (!k) { if (shots.length) shots.at(-1).t1 = r(to); continue; }
     // cut points: prefer pauses inside the line, at least 1.3 s apart; otherwise spread evenly
